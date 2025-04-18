@@ -4,7 +4,7 @@ templates:
       Requested by <<collection_name>> on JellySeer. 
       
       Request more movies here at https://requests.neonvariant.com
-    sort_title: !000_<<radarr_tag>>
+    sort_title: '!000_<<radarr_tag>>'
     radarr_taglist: <<radarr_tag>>
     collection_order: alpha
 
