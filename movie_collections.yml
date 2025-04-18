@@ -1,0 +1,25 @@
+collections:
+  neonvariant:
+    radarr_taglist: 1 - neonvariant
+    sort_title: '!000_1-neonvariant'
+    url_poster: https://i.imgur.com/iXaMmV7.png
+    summary: Requested by neonvariant on JellySeer (https://requests.neonvariant.com)
+    collection_order: alpha
+  neonmovies1:
+    radarr_taglist: 2 - neonmovies
+    sort_title: '!000_2-neonmovies1'
+    url_poster: https://i.imgur.com/sPfOlvC.png
+    summary: Requested by neonmovies1 on JellySeer (https://requests.neonvariant.com)
+    collection_order: alpha
+  neonmovies2:
+    radarr_taglist: 3 - neonmovies2
+    sort_title: '!000_3-neonmovies2'
+    url_poster: https://i.imgur.com/8CEIcIA.png
+    summary: Requested by neonmovies2 on JellySeer (https://requests.neonvariant.com)
+    collection_order: alpha
+  neonmovies3:
+    radarr_taglist: 4 - neonmovies3
+    sort_title: '!000_3-neonmovies3'
+    url_poster: https://i.imgur.com/QFjgfeB.png
+    summary: Requested by neonmovies3 on JellySeer (https://requests.neonvariant.com)
+    collection_order: alpha
