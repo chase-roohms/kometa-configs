@@ -1,0 +1,10 @@
+playlists:
+  The Conjouring Universe (Timeline Order):
+    sync_mode: sync
+    libraries: Movies, TV Shows
+    sync_to_users: all
+    trakt_list: https://trakt.tv/lists/3877179
+    summary: The Conjuring Universe is a shared universe in horror films, 
+      centering on the paranormal investigations of Ed and Lorraine Warren and 
+      featuring numerous supernatural entities and haunted locations.
+    url_poster: https://theposterdb.com/api/assets/595349
