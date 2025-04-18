@@ -1,25 +1,31 @@
+templates:
+  Sonarr:
+    summary: |-
+      Requested by <<collection_name>> on JellySeer. 
+      
+      Request more shows at https://requests.neonvariant.com
+    sort_title: -000_<<sonarr_tag>>
+    sonarr_taglist: <<sonarr_tag>>
+    collection_order: alpha
+
 collections:
   neonvariant:
-    sonarr_taglist: 1 - neonvariant
-    sort_title: "!000_1-neonvariant"
+    template:
+      name: Sonarr
+      radarr_tag: 1 - neonvariant
     url_poster: https://i.imgur.com/iXaMmV7.png
-    summary: "Requested by neonvariant on JellySeer (https://requests.neonvariant.com)"
-    collection_order: alpha
   neonmovies1:
-    sonarr_taglist: 2 - neonmovies
-    sort_title: "!000_2-neonmovies1"
+    template:
+      name: Sonarr
+      radarr_tag: 2 - neonmovies
     url_poster: https://i.imgur.com/sPfOlvC.png
-    summary: "Requested by neonmovies1 on JellySeer (https://requests.neonvariant.com)"
-    collection_order: alpha
   neonmovies2:
-    sonarr_taglist: 3 - neonmovies2
-    sort_title: "!000_3-neonmovies2"
+    template:
+      name: Sonarr
+      radarr_tag: 3 - neonmovies2
     url_poster: https://i.imgur.com/8CEIcIA.png
-    summary: "Requested by neonmovies2 on JellySeer (https://requests.neonvariant.com)"
-    collection_order: alpha
   neonmovies3:
-    sonarr_taglist: 4 - neonmovies3
-    sort_title: "!000_3-neonmovies3"
+    template:
+      name: Sonarr
+      radarr_tag: 4 - neonmovies3
     url_poster: https://i.imgur.com/QFjgfeB.png
-    summary: "Requested by neonmovies3 on JellySeer (https://requests.neonvariant.com)"
-    collection_order: alpha
