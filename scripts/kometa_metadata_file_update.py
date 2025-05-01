@@ -92,6 +92,14 @@ def get_metadata_dict(data: list[dict], existing_media: dict, media_type: str):
     
     return dict(sorted(out_dict.items(), key=lambda item: zero_pad(item[1]['sort_title'].casefold())))
 
+def write_metadata_dict(filepath: str, metadata_dict: dict):
+    with open(filepath, 'w') as metadata_file:
+        yaml.dump(
+            {'metadata': metadata_dict}, 
+            metadata_file, 
+            sort_keys=False, 
+            allow_unicode=True
+        )
 
 if __name__ == '__main__':
     arg_parser = ArgumentParser('kometa_metadata_file_updater')
@@ -103,5 +111,9 @@ if __name__ == '__main__':
     existing_movies     = get_existing_metadata(args.movie_file)
     existing_shows      = get_existing_metadata(args.show_file)
     data                = json.loads(args.json_data)
-    pp(get_metadata_dict(data['movies'], existing_movies, 'movie'))
-    pp(get_metadata_dict(data['shows'], existing_shows, 'show'))
+
+    new_movie_dict = get_metadata_dict(data['movies'], existing_movies, 'movie')
+    new_show_dict  = get_metadata_dict(data['shows'], existing_shows, 'show')
+
+    write_metadata_dict(args.movie_file, new_movie_dict)
+    write_metadata_dict(args.show_file, new_show_dict)
