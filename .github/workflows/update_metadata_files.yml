@@ -45,5 +45,5 @@ jobs:
           git config --global user.name "Kometa Updater"
           git add ${{ env.MOVIE_METADATA_FILE }}
           git add ${{ env.SHOW_METADATA_FILE }}
-          git commit
+          git commit -m "Updating metadata files"
           git push
