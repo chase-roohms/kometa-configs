@@ -41,6 +41,8 @@ jobs:
       - name: Commit Changes to Main
         id: commit-changes
         run: |
+          git config --global user.email "kometa@updater.com"
+          git config --global user.name "Kometa Updater"
           git add ${{ env.MOVIE_METADATA_FILE }}
           git add ${{ env.SHOW_METADATA_FILE }}
           git commit
