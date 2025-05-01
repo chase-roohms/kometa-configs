@@ -1,0 +1,27 @@
+on:
+  workflow_dispatch:
+
+permissions:
+  id-token: write
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        id: checkout
+        uses: actions/checkout@v4.2.2
+
+      - name: Set-Up Python
+        id: setup-python
+        uses: actions/setup-python@v5.6.0
+        with:
+          python-version: 3.13.3
+
+      - name: Install Requirements
+        id: install-requirements
+        uses: py-actions/py-dependency-install@v4
+        with:
+          path: scripts/requirements.txt
+      
