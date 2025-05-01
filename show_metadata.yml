@@ -27,6 +27,7 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/76142
   396390:
     label_title: '1883'
+    release_year: 2021
     sort_title: '1883'
     url_poster: https://theposterdb.com/api/assets/287902
     seasons:
@@ -34,6 +35,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/287903
       1:
         url_poster: https://theposterdb.com/api/assets/287904
+      2:
+        url_poster: ''
   384429:
     label_title: '1899'
     sort_title: '1899'
