@@ -31,5 +31,5 @@ jobs:
       - name: Run Metadata File Update Script
         id: run-script
         run: |
-          python3 scripts/kometa_metadata_file_update.py --movie_file movie_metadata.yml --show_file show_metadata.yml --json_data ${{ github.event.client_payload.data }}
+          python3 scripts/kometa_metadata_file_update.py --movie_file movie_metadata.yml --show_file show_metadata.yml --json_data '${{ toJSON(github.event.client_payload.data) }}'
       
