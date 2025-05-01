@@ -104,4 +104,4 @@ if __name__ == '__main__':
     existing_shows      = get_existing_metadata(args.show_file)
     data                = json.loads(args.json_data)
     pp(get_metadata_dict(data['movies'], existing_movies, 'movie'))
-    pp(get_metadata_dict(data['shows'], existing_shows, 'show')[396390])
+    pp(get_metadata_dict(data['shows'], existing_shows, 'show'))
