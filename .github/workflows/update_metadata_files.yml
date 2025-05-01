@@ -1,3 +1,5 @@
+name: Update Metadata Files
+
 on:
   workflow_dispatch:
 
