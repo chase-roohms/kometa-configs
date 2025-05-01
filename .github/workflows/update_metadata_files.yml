@@ -1,7 +1,8 @@
 name: Update Metadata Files
 
 on:
-  workflow_dispatch:
+  repository_dispatch:
+    types: [metadata_file_update]
 
 permissions:
   id-token: write
@@ -26,4 +27,9 @@ jobs:
         uses: py-actions/py-dependency-install@v4
         with:
           path: scripts/requirements.txt
+
+      - name: Run Metadata File Update Script
+        id: run-script
+        run: |
+          python3 scripts/kometa_metadata_file_update.py --movie_file movie_metadata.yml --show_file show_metadata.yml --json_data ${{ github.event.client_payload.data }}
       
