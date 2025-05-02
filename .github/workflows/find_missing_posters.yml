@@ -1,4 +1,4 @@
-name: Update Metadata Files
+name: Find Missing Posters
 
 on:
   workflow_dispatch:
