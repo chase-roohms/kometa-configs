@@ -43,10 +43,11 @@ jobs:
       - name: Find Show issue Number
         id: show-issue-number
         run: |
-          issue_number=$(gh search issues \
-            "Shows With Missing Posters" \
-            --owner="ChaseRoohms" \
-            --repo="kometa-configs")
+          issue_number=$(gh issue list \
+            --repo ChaseRoohms/kometa-configs \
+            -S "Shows With Missing Posters" \
+            --limit 1 \
+            -t "{{.number}}")
           echo $issue_number
           echo "SHOW_ISSUE_NUMBER=$issue_number" >> "$GITHUB_OUTPUT"
         env:
