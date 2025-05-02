@@ -75,10 +75,7 @@ def get_missing_show_posters(metadata_dict: dict) -> dict:
 
 def write_movie_report(missing_posters, filepath):
     with open(filepath, 'w') as report_file:
-        report_file.write('## Movies missing a url_poster\n\n')
-        if len(missing_posters) == 0:
-            report_file.write('All movies have a poster linked, check back later!')
-        else:
+        if len(missing_posters) != 0:
             header  = '|TMDB ID|Title|Release Year|Find a Poster|\n'
             divider = '|-------|-----|------------|-------------|\n'
             report_file.write(header)
@@ -94,10 +91,7 @@ def write_movie_report(missing_posters, filepath):
 
 def write_show_report(missing_posters, filepath):
     with open(filepath, 'w') as report_file:
-        report_file.write('## Shows missing a url_poster\n\n')
-        if len(missing_posters) == 0:
-            report_file.write('All movies have a poster linked, check back later!')
-        else:
+        if len(missing_posters) != 0:
             header  = '|TMDB ID|Title|Release Year|Missing Seasons|Find a Poster|\n'
             divider = '|-------|-----|------------|---------------|-------------|\n'
             report_file.write(header)
