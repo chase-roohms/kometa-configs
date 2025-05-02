@@ -52,7 +52,7 @@ jobs:
           echo "show=$show" >> "$GITHUB_OUTPUT"
           
           movie=$(gh issue list \
-            -S "Shows With Missing Posters" \
+            -S "Movies With Missing Posters" \
             --repo ChaseRoohms/kometa-configs \
             --limit 1 \
             --json number \
