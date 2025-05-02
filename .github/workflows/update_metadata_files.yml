@@ -33,6 +33,11 @@ jobs:
         with:
           path: scripts/requirements.txt
 
+      - name: Save JSON Data to a File
+        id: json-to-file
+        run: |
+          echo '${{ toJSON(github.event.client_payload.data) }}' > json_data.json
+
       - name: Run Metadata File Update Script
         id: run-script
         run: |
