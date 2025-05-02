@@ -44,9 +44,10 @@ jobs:
         id: show-issue-number
         run: |
           issue_number=$(gh issue list \
-            --repo ChaseRoohms/kometa-configs \
             -S "Shows With Missing Posters" \
+            --repo ChaseRoohms/kometa-configs \
             --limit 1 \
+            --json number \
             -t "{{.number}}")
           echo $issue_number
           echo "SHOW_ISSUE_NUMBER=$issue_number" >> "$GITHUB_OUTPUT"
