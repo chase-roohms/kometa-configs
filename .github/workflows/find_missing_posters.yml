@@ -48,6 +48,8 @@ jobs:
             --repo="kometa-configs")
           echo $issue_number
           echo "SHOW_ISSUE_NUMBER=$issue_number" >> "$GITHUB_OUTPUT"
+        env:
+          GH_TOKEN: ${{ github.token }}
       
       - name: Create Show issue From File
         uses: peter-evans/create-issue-from-file@v5
