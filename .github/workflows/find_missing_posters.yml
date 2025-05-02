@@ -16,7 +16,7 @@ env:
 
 jobs:
   update:
-    name: Update Metadata Files
+    name: Find Missing Posters
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
