@@ -41,6 +41,7 @@ jobs:
           python3 scripts/kometa_missing_poster_find.py --movie_file ${{ env.MOVIE_METADATA_FILE }} --show_file ${{ env.SHOW_METADATA_FILE }}
 
       - name: Find Show issue Number
+        id: show-issue-number
         run: |
           issue_number=$(gh search issues \
             "Shows With Missing Posters" \
@@ -54,9 +55,9 @@ jobs:
       - name: Create Show issue From File
         uses: peter-evans/create-issue-from-file@v5
         with:
-          issue-number: ${{ steps.ciff.outputs.issue-number }}
+          issue-number: ${{ steps.show-issue-number.outputs.SHOW_ISSUE_NUMBER }}
           title: Shows With Missing Posters
-          content-filepath: ./example-content/output.md
+          content-filepath: poster_report_shows.md
 
 
       
