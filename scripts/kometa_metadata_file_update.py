@@ -105,12 +105,14 @@ if __name__ == '__main__':
     arg_parser = ArgumentParser('kometa_metadata_file_updater')
     arg_parser.add_argument('--movie_file', type=file_path, help="Path to the movie metadata file")
     arg_parser.add_argument('--show_file', type=file_path, help="Path to the show metadata file")
-    arg_parser.add_argument('--json_data', type=json_string, help="JSON data containing movie and show information")
+    arg_parser.add_argument('--json_data_file', type=json_string, help="JSON data containing movie and show information")
 
     args                = arg_parser.parse_args()
     existing_movies     = get_existing_metadata(args.movie_file)
     existing_shows      = get_existing_metadata(args.show_file)
-    data                = json.loads(args.json_data)
+    
+    with open(args.json_data_file, 'r') as json_file:
+        data            = json.load(json_file)
 
     new_movie_dict = get_metadata_dict(data['movies'], existing_movies, 'movie')
     new_show_dict  = get_metadata_dict(data['shows'], existing_shows, 'show')
