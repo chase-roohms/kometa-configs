@@ -48,7 +48,7 @@ jobs:
             --repo ChaseRoohms/kometa-configs \
             --limit 1 \
             --json number \
-            -t "{{.number}}")
+            --jq ".[0].number")
           echo $issue_number
           echo "SHOW_ISSUE_NUMBER=$issue_number" >> "$GITHUB_OUTPUT"
         env:
