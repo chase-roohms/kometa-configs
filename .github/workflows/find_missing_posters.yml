@@ -40,26 +40,40 @@ jobs:
         run: |
           python3 scripts/kometa_missing_poster_find.py --movie_file ${{ env.MOVIE_METADATA_FILE }} --show_file ${{ env.SHOW_METADATA_FILE }}
 
-      - name: Find Show issue Number
-        id: show-issue-number
+      - name: Find Issue Numbers
+        id: issue-numbers
         run: |
-          issue_number=$(gh issue list \
+          show=$(gh issue list \
             -S "Shows With Missing Posters" \
             --repo ChaseRoohms/kometa-configs \
             --limit 1 \
             --json number \
             --jq ".[0].number")
-          echo $issue_number
-          echo "SHOW_ISSUE_NUMBER=$issue_number" >> "$GITHUB_OUTPUT"
+          echo "show=$show" >> "$GITHUB_OUTPUT"
+          
+          movie=$(gh issue list \
+            -S "Shows With Missing Posters" \
+            --repo ChaseRoohms/kometa-configs \
+            --limit 1 \
+            --json number \
+            --jq ".[0].number")
+          echo "movie=$movie" >> "$GITHUB_OUTPUT"
         env:
           GH_TOKEN: ${{ github.token }}
       
       - name: Create Show issue From File
         uses: peter-evans/create-issue-from-file@v5
         with:
-          issue-number: ${{ steps.show-issue-number.outputs.SHOW_ISSUE_NUMBER }}
+          issue-number: ${{ steps.issue-numbers.outputs.show }}
           title: Shows With Missing Posters
           content-filepath: poster_report_shows.md
+      
+      - name: Create Show issue From File
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          issue-number: ${{ steps.issue-numbers.outputs.movie }}
+          title: Movies With Missing Posters
+          content-filepath: poster_report_movies.md
 
 
       
