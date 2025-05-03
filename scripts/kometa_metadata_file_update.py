@@ -52,11 +52,19 @@ def get_sort_title(title: str) -> str:
     return unidecode(sort_title)
 
 
-def get_media_dict(label_title: str, release_year: int, sort_title: str, additional_data: dict = {}) -> dict[str, str]:
+def get_tpdb_search_link(title: str, section: str):
+    search_link = 'https://theposterdb.com/search'
+    search_term = f'?term={title.replace(' ', '+')}'
+    search_section = f'&section={section}'
+    return search_link + search_term + search_section
+
+
+def get_media_dict(label_title: str, release_year: int, sort_title: str, media_type: str, additional_data: dict = {}) -> dict[str, str]:
     media_dict                      = dict()
     media_dict['label_title']       = label_title
     media_dict['release_year']      = release_year
     media_dict['sort_title']        = sort_title
+    media_dict['tpdb_search']       = get_tpdb_search_link(label_title, f'{media_type}s')
     if 'url_poster' not in media_dict:
         media_dict['url_poster']    = ''
     for key, value in additional_data.items():
@@ -72,7 +80,7 @@ def get_metadata_dict(data: list[dict], existing_media: dict, media_type: str):
         label_title         = existing_metadata.get('label_title', item['title'])
         release_year        = existing_metadata.get('release_year', item['release_year'])
         sort_title          = existing_metadata.get('sort_title', get_sort_title(label_title))
-        out_dict[db_id]     = get_media_dict(label_title, release_year, sort_title, existing_metadata)
+        out_dict[db_id]     = get_media_dict(label_title, release_year, sort_title, media_type, existing_metadata)
         
         # Special handling for shows to add seasons
         if media_type == 'show':
