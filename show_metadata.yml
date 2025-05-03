@@ -1638,12 +1638,24 @@ metadata:
     release_year: '2014'
     sort_title: Outlander
     tpdb_search: https://theposterdb.com/search?term=Outlander&section=shows
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/120908
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/120909
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/120910
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/120911
+      3:
+        url_poster: https://theposterdb.com/api/assets/120912
+      4:
+        url_poster: https://theposterdb.com/api/assets/120913
+      5:
+        url_poster: https://theposterdb.com/api/assets/120914
+      6:
+        url_poster: https://theposterdb.com/api/assets/197878
+      7:
+        url_poster: https://theposterdb.com/api/assets/360981
   417208:
     label_title: Pantheon
     release_year: '2022'
