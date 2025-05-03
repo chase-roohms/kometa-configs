@@ -3,6 +3,7 @@ metadata:
     label_title: 3 Body Problem
     release_year: '2024'
     sort_title: 3 Body Problem
+    tpdb_search: https://theposterdb.com/search?term=3+Body+Problem&section=shows
     url_poster: https://theposterdb.com/api/assets/465293
     seasons:
       1:
@@ -11,6 +12,7 @@ metadata:
     label_title: The 100
     release_year: '2014'
     sort_title: '100'
+    tpdb_search: https://theposterdb.com/search?term=The+100&section=shows
     url_poster: https://theposterdb.com/api/assets/29030
     seasons:
       1:
@@ -31,6 +33,7 @@ metadata:
     label_title: '1883'
     release_year: 2021
     sort_title: '1883'
+    tpdb_search: https://theposterdb.com/search?term=1883&section=shows
     url_poster: https://theposterdb.com/api/assets/287902
     seasons:
       0:
@@ -41,6 +44,7 @@ metadata:
     label_title: '1899'
     release_year: '2022'
     sort_title: '1899'
+    tpdb_search: https://theposterdb.com/search?term=1899&section=shows
     url_poster: https://theposterdb.com/api/assets/278721
     seasons:
       1:
@@ -49,6 +53,7 @@ metadata:
     label_title: '1923'
     release_year: '2022'
     sort_title: '1923'
+    tpdb_search: https://theposterdb.com/search?term=1923&section=shows
     url_poster: https://theposterdb.com/api/assets/287905
     seasons:
       0:
@@ -61,6 +66,7 @@ metadata:
     label_title: The Acolyte
     release_year: '2024'
     sort_title: Acolyte
+    tpdb_search: https://theposterdb.com/search?term=The+Acolyte&section=shows
     url_poster: https://theposterdb.com/api/assets/489735
     seasons:
       1:
@@ -69,6 +75,7 @@ metadata:
     label_title: Adolescence
     release_year: '2025'
     sort_title: Adolescence
+    tpdb_search: https://theposterdb.com/search?term=Adolescence&section=shows
     url_poster: https://theposterdb.com/api/assets/585695
     seasons:
       1:
@@ -77,6 +84,7 @@ metadata:
     label_title: Agatha All Along
     release_year: '2024'
     sort_title: Agatha All Along
+    tpdb_search: https://theposterdb.com/search?term=Agatha+All+Along&section=shows
     url_poster: https://theposterdb.com/api/assets/540804
     studio: Marvel Studios
     seasons:
@@ -86,6 +94,7 @@ metadata:
     label_title: The Agency
     release_year: '2024'
     sort_title: Agency
+    tpdb_search: https://theposterdb.com/search?term=The+Agency&section=shows
     url_poster: https://theposterdb.com/api/assets/545465
     seasons:
       1:
@@ -94,6 +103,7 @@ metadata:
     label_title: Ahsoka
     release_year: '2023'
     sort_title: Ahsoka
+    tpdb_search: https://theposterdb.com/search?term=Ahsoka&section=shows
     url_poster: https://theposterdb.com/api/assets/388527
     seasons:
       1:
@@ -111,6 +121,7 @@ metadata:
     label_title: American Primeval
     release_year: '2025'
     sort_title: American Primeval
+    tpdb_search: https://theposterdb.com/search?term=American+Primeval&section=shows
     url_poster: https://theposterdb.com/api/assets/557312
     seasons:
       1:
@@ -119,6 +130,7 @@ metadata:
     label_title: Angry Boys
     release_year: '2011'
     sort_title: Angry Boys
+    tpdb_search: https://theposterdb.com/search?term=Angry+Boys&section=shows
     url_poster: https://image.tmdb.org/t/p/original/5cuXbKLqeC8wYCCu3wJhjND3kJj.jpg
     seasons:
       1:
@@ -127,6 +139,7 @@ metadata:
     label_title: Arcane
     release_year: '2021'
     sort_title: Arcane
+    tpdb_search: https://theposterdb.com/search?term=Arcane&section=shows
     url_poster: https://theposterdb.com/api/assets/451719
     seasons:
       1:
@@ -137,6 +150,7 @@ metadata:
     label_title: Archer
     release_year: '2009'
     sort_title: Archer
+    tpdb_search: https://theposterdb.com/search?term=Archer&section=shows
     url_poster: https://theposterdb.com/api/assets/404756
     seasons:
       0:
@@ -173,6 +187,7 @@ metadata:
     label_title: ARK - The Animated Series
     release_year: '2024'
     sort_title: ARK - The Animated Series
+    tpdb_search: https://theposterdb.com/search?term=ARK+-+The+Animated+Series&section=shows
     url_poster: https://theposterdb.com/api/assets/470903
     seasons:
       1:
@@ -181,6 +196,7 @@ metadata:
     label_title: Avatar - The Last Airbender
     release_year: '2024'
     sort_title: Avatar - The Last Airbender
+    tpdb_search: https://theposterdb.com/search?term=Avatar+-+The+Last+Airbender&section=shows
     url_poster: https://theposterdb.com/api/assets/454341
     seasons:
       1:
@@ -189,6 +205,7 @@ metadata:
     label_title: Baby Reindeer
     release_year: '2024'
     sort_title: Baby Reindeer
+    tpdb_search: https://theposterdb.com/search?term=Baby+Reindeer&section=shows
     url_poster: https://theposterdb.com/api/assets/483617
     seasons:
       1:
@@ -197,6 +214,7 @@ metadata:
     label_title: The Bear
     release_year: '2022'
     sort_title: Bear
+    tpdb_search: https://theposterdb.com/search?term=The+Bear&section=shows
     url_poster: https://theposterdb.com/api/assets/503362
     seasons:
       1:
@@ -209,6 +227,7 @@ metadata:
     label_title: BEEF
     release_year: '2023'
     sort_title: BEEF
+    tpdb_search: https://theposterdb.com/search?term=BEEF&section=shows
     url_poster: https://theposterdb.com/api/assets/518302
     studio: A24
     seasons:
@@ -218,6 +237,7 @@ metadata:
     label_title: Behind Her Eyes
     release_year: '2021'
     sort_title: Behind Her Eyes
+    tpdb_search: https://theposterdb.com/search?term=Behind+Her+Eyes&section=shows
     url_poster: https://theposterdb.com/api/assets/145374
     seasons:
       1:
@@ -226,6 +246,7 @@ metadata:
     label_title: Berserk
     release_year: '1997'
     sort_title: Berserk
+    tpdb_search: https://theposterdb.com/search?term=Berserk&section=shows
     url_poster: https://theposterdb.com/api/assets/182143
     audio_language: ja-JP
     seasons:
@@ -235,6 +256,7 @@ metadata:
     label_title: Better Call Saul
     release_year: '2015'
     sort_title: Better Call Saul
+    tpdb_search: https://theposterdb.com/search?term=Better+Call+Saul&section=shows
     url_poster: https://theposterdb.com/api/assets/20289
     seasons:
       0:
@@ -255,6 +277,7 @@ metadata:
     label_title: Black Mirror
     release_year: '2011'
     sort_title: Black Mirror
+    tpdb_search: https://theposterdb.com/search?term=Black+Mirror&section=shows
     url_poster: https://theposterdb.com/api/assets/592830
     url_background: https://api.mediux.pro/assets/bae9d5d9-35ba-4be4-9d53-6b626be9741b
     seasons:
@@ -352,6 +375,7 @@ metadata:
     label_title: The Book of Boba Fett
     release_year: '2021'
     sort_title: Book of Boba Fett
+    tpdb_search: https://theposterdb.com/search?term=The+Book+of+Boba+Fett&section=shows
     url_poster: https://theposterdb.com/api/assets/178982
     seasons:
       1:
@@ -360,6 +384,7 @@ metadata:
     label_title: The Boys
     release_year: '2019'
     sort_title: Boys
+    tpdb_search: https://theposterdb.com/search?term=The+Boys&section=shows
     url_poster: https://theposterdb.com/api/assets/235785
     seasons:
       1:
@@ -374,6 +399,7 @@ metadata:
     label_title: Breaking Bad
     release_year: '2008'
     sort_title: Breaking Bad
+    tpdb_search: https://theposterdb.com/search?term=Breaking+Bad&section=shows
     url_poster: https://theposterdb.com/api/assets/20288
     seasons:
       1:
@@ -390,6 +416,7 @@ metadata:
     label_title: Breaking News
     release_year: '2018'
     sort_title: Breaking News
+    tpdb_search: https://theposterdb.com/search?term=Breaking+News&section=shows
     url_poster: https://theposterdb.com/api/assets/586038
     seasons:
       0:
@@ -412,6 +439,7 @@ metadata:
     label_title: Chainsaw Man
     release_year: '2022'
     sort_title: Chainsaw Man
+    tpdb_search: https://theposterdb.com/search?term=Chainsaw+Man&section=shows
     url_poster: https://theposterdb.com/api/assets/277760
     audio_language: ja-JP
     seasons:
@@ -421,6 +449,7 @@ metadata:
     label_title: Chernobyl
     release_year: '2019'
     sort_title: Chernobyl
+    tpdb_search: https://theposterdb.com/search?term=Chernobyl&section=shows
     url_poster: https://theposterdb.com/api/assets/59900
     seasons:
       1:
@@ -429,6 +458,7 @@ metadata:
     label_title: Common Side Effects
     release_year: '2025'
     sort_title: Common Side Effects
+    tpdb_search: https://theposterdb.com/search?term=Common+Side+Effects&section=shows
     url_poster: https://theposterdb.com/api/assets/579313
     seasons:
       1:
@@ -437,6 +467,7 @@ metadata:
     label_title: Cross
     release_year: '2024'
     sort_title: Cross
+    tpdb_search: https://theposterdb.com/search?term=Cross&section=shows
     url_poster: https://theposterdb.com/api/assets/542340
     seasons:
       1:
@@ -445,6 +476,7 @@ metadata:
     label_title: Curb Your Enthusiasm
     release_year: '2000'
     sort_title: Curb Your Enthusiasm
+    tpdb_search: https://theposterdb.com/search?term=Curb+Your+Enthusiasm&section=shows
     url_poster: https://theposterdb.com/api/assets/182272
     seasons:
       1:
@@ -475,6 +507,7 @@ metadata:
     label_title: Cyberpunk - Edgerunners
     release_year: '2022'
     sort_title: Cyberpunk - Edgerunners
+    tpdb_search: https://theposterdb.com/search?term=Cyberpunk+-+Edgerunners&section=shows
     url_poster: https://theposterdb.com/api/assets/287956
     audio_language: ja-JP
     seasons:
@@ -484,6 +517,7 @@ metadata:
     label_title: Daredevil - Born Again
     release_year: '2025'
     sort_title: Daredevil - Born Again
+    tpdb_search: https://theposterdb.com/search?term=Daredevil+-+Born+Again&section=shows
     url_poster: https://theposterdb.com/api/assets/543955
     studio: Marvel Studios
     seasons:
@@ -493,6 +527,7 @@ metadata:
     label_title: Dark
     release_year: '2017'
     sort_title: Dark
+    tpdb_search: https://theposterdb.com/search?term=Dark&section=shows
     url_poster: https://theposterdb.com/api/assets/271626
     seasons:
       1:
@@ -505,6 +540,7 @@ metadata:
     label_title: Dark Matter
     release_year: '2024'
     sort_title: Dark Matter
+    tpdb_search: https://theposterdb.com/search?term=Dark+Matter&section=shows
     url_poster: https://theposterdb.com/api/assets/481647
     seasons:
       1:
@@ -513,6 +549,7 @@ metadata:
     label_title: Deadwood
     release_year: '2004'
     sort_title: Deadwood
+    tpdb_search: https://theposterdb.com/search?term=Deadwood&section=shows
     url_poster: https://theposterdb.com/api/assets/52478
     seasons:
       1:
@@ -525,6 +562,7 @@ metadata:
     label_title: Deli Boys
     release_year: '2025'
     sort_title: Deli Boys
+    tpdb_search: https://theposterdb.com/search?term=Deli+Boys&section=shows
     url_poster: https://theposterdb.com/api/assets/576312
     seasons:
       1:
@@ -540,6 +578,7 @@ metadata:
     label_title: Devil May Cry
     release_year: '2025'
     sort_title: Devil May Cry
+    tpdb_search: https://theposterdb.com/search?term=Devil+May+Cry&section=shows
     url_poster: https://theposterdb.com/api/assets/589837
     seasons:
       1:
@@ -548,6 +587,7 @@ metadata:
     label_title: Dune - Prophecy
     release_year: '2024'
     sort_title: Dune - Prophecy
+    tpdb_search: https://theposterdb.com/search?term=Dune+-+Prophecy&section=shows
     url_poster: https://theposterdb.com/api/assets/553330
     seasons:
       1:
@@ -556,6 +596,7 @@ metadata:
     label_title: Eastbound & Down
     release_year: '2009'
     sort_title: Eastbound & Down
+    tpdb_search: https://theposterdb.com/search?term=Eastbound+&+Down&section=shows
     url_poster: https://theposterdb.com/api/assets/112200
     seasons:
       1:
@@ -570,6 +611,7 @@ metadata:
     label_title: Echo
     release_year: '2024'
     sort_title: Echo
+    tpdb_search: https://theposterdb.com/search?term=Echo&section=shows
     url_poster: https://theposterdb.com/api/assets/540758
     studio: Marvel Studios
     seasons:
@@ -579,6 +621,7 @@ metadata:
     label_title: The Eternaut
     release_year: '2025'
     sort_title: Eternaut
+    tpdb_search: https://theposterdb.com/search?term=The+Eternaut&section=shows
     url_poster: https://theposterdb.com/api/assets/595943
     audio_language: es-ES
     seasons:
@@ -588,6 +631,7 @@ metadata:
     label_title: Euphoria (US)
     release_year: '2019'
     sort_title: Euphoria (US)
+    tpdb_search: https://theposterdb.com/search?term=Euphoria+(US)&section=shows
     url_poster: https://theposterdb.com/api/assets/518294
     studio: A24
     seasons:
@@ -601,6 +645,7 @@ metadata:
     label_title: The Expanse
     release_year: '2015'
     sort_title: Expanse
+    tpdb_search: https://theposterdb.com/search?term=The+Expanse&section=shows
     url_poster: https://theposterdb.com/api/assets/183290
     seasons:
       0:
@@ -621,6 +666,7 @@ metadata:
     label_title: The Falcon and The Winter Soldier
     release_year: '2021'
     sort_title: Falcon and The Winter Soldier
+    tpdb_search: https://theposterdb.com/search?term=The+Falcon+and+The+Winter+Soldier&section=shows
     url_poster: https://theposterdb.com/api/assets/373323
     studio: Marvel Studios
     seasons:
@@ -637,6 +683,7 @@ metadata:
     label_title: Fallout
     release_year: '2024'
     sort_title: Fallout
+    tpdb_search: https://theposterdb.com/search?term=Fallout&section=shows
     url_poster: https://api.mediux.pro/assets/17ee2e86-d38a-41e4-8cc5-9abe295908be
     url_background: https://api.mediux.pro/assets/ed7033d0-3bcf-4449-bcba-72721e00ac9c
     seasons:
@@ -663,6 +710,7 @@ metadata:
     label_title: Fleabag
     release_year: '2016'
     sort_title: Fleabag
+    tpdb_search: https://theposterdb.com/search?term=Fleabag&section=shows
     url_poster: https://theposterdb.com/api/assets/123805
     seasons:
       1:
@@ -673,6 +721,7 @@ metadata:
     label_title: Fog Hill of Five Elements
     release_year: '2020'
     sort_title: Fog Hill of Five Elements
+    tpdb_search: https://theposterdb.com/search?term=Fog+Hill+of+Five+Elements&section=shows
     url_poster: https://theposterdb.com/api/assets/425488
     audio_language: zh-CN
     seasons:
@@ -691,6 +740,7 @@ metadata:
     label_title: FROM
     release_year: '2022'
     sort_title: FROM
+    tpdb_search: https://theposterdb.com/search?term=FROM&section=shows
     url_poster: https://theposterdb.com/api/assets/214022
     seasons:
       1:
@@ -703,6 +753,7 @@ metadata:
     label_title: Game Changer
     release_year: '2019'
     sort_title: Game Changer
+    tpdb_search: https://theposterdb.com/search?term=Game+Changer&section=shows
     url_poster: https://theposterdb.com/api/assets/585995
     seasons:
       0:
@@ -725,6 +776,7 @@ metadata:
     label_title: Game of Thrones
     release_year: '2011'
     sort_title: Game of Thrones
+    tpdb_search: https://theposterdb.com/search?term=Game+of+Thrones&section=shows
     url_poster: https://theposterdb.com/api/assets/225917
     seasons:
       0:
@@ -749,6 +801,7 @@ metadata:
     label_title: Gen V
     release_year: '2023'
     sort_title: Gen V
+    tpdb_search: https://theposterdb.com/search?term=Gen+V&section=shows
     url_poster: https://theposterdb.com/api/assets/409216
     seasons:
       1:
@@ -757,6 +810,7 @@ metadata:
     label_title: The Gentlemen
     release_year: '2024'
     sort_title: Gentlemen
+    tpdb_search: https://theposterdb.com/search?term=The+Gentlemen&section=shows
     url_poster: https://theposterdb.com/api/assets/475194
     seasons:
       1:
@@ -765,6 +819,7 @@ metadata:
     label_title: Good American Family
     release_year: '2025'
     sort_title: Good American Family
+    tpdb_search: https://theposterdb.com/search?term=Good+American+Family&section=shows
     url_poster: https://theposterdb.com/api/assets/581331
     seasons:
       1:
@@ -773,6 +828,7 @@ metadata:
     label_title: Goosebumps
     release_year: '2023'
     sort_title: Goosebumps
+    tpdb_search: https://theposterdb.com/search?term=Goosebumps&section=shows
     url_poster: https://theposterdb.com/api/assets/552275
     seasons:
       1:
@@ -783,6 +839,7 @@ metadata:
     label_title: Gravity Falls
     release_year: '2012'
     sort_title: Gravity Falls
+    tpdb_search: https://theposterdb.com/search?term=Gravity+Falls&section=shows
     url_poster: https://theposterdb.com/api/assets/16953
     seasons:
       0:
@@ -795,6 +852,7 @@ metadata:
     label_title: Hawkeye
     release_year: '2021'
     sort_title: Hawkeye
+    tpdb_search: https://theposterdb.com/search?term=Hawkeye&section=shows
     url_poster: https://theposterdb.com/api/assets/373335
     studio: Marvel Studios
     seasons:
@@ -804,6 +862,7 @@ metadata:
     label_title: Hazbin Hotel
     release_year: '2024'
     sort_title: Hazbin Hotel
+    tpdb_search: https://theposterdb.com/search?term=Hazbin+Hotel&section=shows
     url_poster: https://theposterdb.com/api/assets/518308
     studio: A24
     seasons:
@@ -813,6 +872,7 @@ metadata:
     label_title: Helstrom
     release_year: '2020'
     sort_title: Helstrom
+    tpdb_search: https://theposterdb.com/search?term=Helstrom&section=shows
     url_poster: https://theposterdb.com/api/assets/146514
     studio: Marvel Studios
     seasons:
@@ -822,6 +882,7 @@ metadata:
     label_title: House of the Dragon
     release_year: '2022'
     sort_title: House of the Dragon
+    tpdb_search: https://theposterdb.com/search?term=House+of+the+Dragon&section=shows
     url_poster: https://theposterdb.com/api/assets/248668
     seasons:
       0:
@@ -834,6 +895,7 @@ metadata:
     label_title: I Am Groot
     release_year: '2022'
     sort_title: I Am Groot
+    tpdb_search: https://theposterdb.com/search?term=I+Am+Groot&section=shows
     url_poster: https://theposterdb.com/api/assets/384417
     studio: Marvel Studios
     seasons:
@@ -845,6 +907,7 @@ metadata:
     label_title: I Think You Should Leave with Tim Robinson
     release_year: '2019'
     sort_title: I Think You Should Leave with Tim Robinson
+    tpdb_search: https://theposterdb.com/search?term=I+Think+You+Should+Leave+with+Tim+Robinson&section=shows
     url_poster: https://theposterdb.com/api/assets/368550
     seasons:
       1:
@@ -857,6 +920,7 @@ metadata:
     label_title: Invincible
     release_year: '2021'
     sort_title: Invincible
+    tpdb_search: https://theposterdb.com/search?term=Invincible&section=shows
     url_poster: https://theposterdb.com/api/assets/422189
     seasons:
       0:
@@ -871,6 +935,7 @@ metadata:
     label_title: It's Always Sunny in Philadelphia
     release_year: '2005'
     sort_title: It's Always Sunny in Philadelphia
+    tpdb_search: https://theposterdb.com/search?term=It's+Always+Sunny+in+Philadelphia&section=shows
     url_poster: https://theposterdb.com/api/assets/150028
     seasons:
       1:
@@ -909,6 +974,7 @@ metadata:
     label_title: Ja'mie - Private School Girl
     release_year: '2013'
     sort_title: Ja'mie - Private School Girl
+    tpdb_search: https://theposterdb.com/search?term=Ja'mie+-+Private+School+Girl&section=shows
     url_poster: https://image.tmdb.org/t/p/original/e4r1YcQQQW3wHGKzsOMDoxXluBm.jpg
     seasons:
       1:
@@ -917,6 +983,7 @@ metadata:
     label_title: Jersey Shore
     release_year: '2009'
     sort_title: Jersey Shore
+    tpdb_search: https://theposterdb.com/search?term=Jersey+Shore&section=shows
     url_poster: https://theposterdb.com/api/assets/318818
     seasons:
       0:
@@ -937,6 +1004,7 @@ metadata:
     label_title: Jury Duty
     release_year: '2023'
     sort_title: Jury Duty
+    tpdb_search: https://theposterdb.com/search?term=Jury+Duty&section=shows
     url_poster: https://theposterdb.com/api/assets/343805
     seasons:
       1:
@@ -945,6 +1013,7 @@ metadata:
     label_title: Justified
     release_year: '2010'
     sort_title: Justified
+    tpdb_search: https://theposterdb.com/search?term=Justified&section=shows
     url_poster: https://theposterdb.com/api/assets/139929
     seasons:
       1:
@@ -963,6 +1032,7 @@ metadata:
     label_title: The Kings of Tupelo - A Southern Crime Saga
     release_year: '2024'
     sort_title: Kings of Tupelo - A Southern Crime Saga
+    tpdb_search: https://theposterdb.com/search?term=The+Kings+of+Tupelo+-+A+Southern+Crime+Saga&section=shows
     url_poster: https://image.tmdb.org/t/p/original/gsAMK2p6hzEvxQLHgkj0AGyl6RR.jpg
     seasons:
       1:
@@ -971,6 +1041,7 @@ metadata:
     label_title: Landman
     release_year: '2024'
     sort_title: Landman
+    tpdb_search: https://theposterdb.com/search?term=Landman&section=shows
     url_poster: https://theposterdb.com/api/assets/554960
     seasons:
       1:
@@ -992,6 +1063,7 @@ metadata:
     label_title: The Last of Us
     release_year: '2023'
     sort_title: Last of Us
+    tpdb_search: https://theposterdb.com/search?term=The+Last+of+Us&section=shows
     url_poster: https://theposterdb.com/api/assets/362425
     seasons:
       0:
@@ -1004,6 +1076,7 @@ metadata:
     label_title: Legion
     release_year: '2017'
     sort_title: Legion
+    tpdb_search: https://theposterdb.com/search?term=Legion&section=shows
     url_poster: https://theposterdb.com/api/assets/152214
     studio: Marvel Studios
     seasons:
@@ -1017,6 +1090,7 @@ metadata:
     label_title: Like Water for Chocolate
     release_year: '2024'
     sort_title: Like Water for Chocolate
+    tpdb_search: https://theposterdb.com/search?term=Like+Water+for+Chocolate&section=shows
     url_poster: https://theposterdb.com/api/assets/539204
     seasons:
       1:
@@ -1025,6 +1099,7 @@ metadata:
     label_title: Lioness
     release_year: '2023'
     sort_title: Lioness
+    tpdb_search: https://theposterdb.com/search?term=Lioness&section=shows
     url_poster: https://theposterdb.com/api/assets/538042
     seasons:
       1:
@@ -1035,6 +1110,7 @@ metadata:
     label_title: Loki
     release_year: '2021'
     sort_title: Loki
+    tpdb_search: https://theposterdb.com/search?term=Loki&section=shows
     url_poster: https://theposterdb.com/api/assets/373326
     studio: Marvel Studios
     seasons:
@@ -1046,6 +1122,7 @@ metadata:
     label_title: The Lord of the Rings - The Rings of Power
     release_year: '2022'
     sort_title: Lord of the Rings - The Rings of Power
+    tpdb_search: https://theposterdb.com/search?term=The+Lord+of+the+Rings+-+The+Rings+of+Power&section=shows
     url_poster: https://theposterdb.com/api/assets/210733
     seasons:
       0:
@@ -1058,6 +1135,7 @@ metadata:
     label_title: Love Is Blind
     release_year: '2020'
     sort_title: Love Is Blind
+    tpdb_search: https://theposterdb.com/search?term=Love+Is+Blind&section=shows
     url_poster: https://theposterdb.com/api/assets/574135
     seasons:
       0:
@@ -1082,6 +1160,7 @@ metadata:
     label_title: Love Island Australia
     release_year: '2018'
     sort_title: Love Island Australia
+    tpdb_search: https://theposterdb.com/search?term=Love+Island+Australia&section=shows
     url_poster: https://theposterdb.com/api/assets/538480
     seasons:
       1:
@@ -1100,6 +1179,7 @@ metadata:
     label_title: Love on the Spectrum U.S.
     release_year: '2022'
     sort_title: Love on the Spectrum U.S.
+    tpdb_search: https://theposterdb.com/search?term=Love+on+the+Spectrum+U.S.&section=shows
     url_poster: https://theposterdb.com/api/assets/589774
     seasons:
       1:
@@ -1112,6 +1192,7 @@ metadata:
     label_title: Love, Death & Robots
     release_year: '2019'
     sort_title: Love, Death & Robots
+    tpdb_search: https://theposterdb.com/search?term=Love,+Death+&+Robots&section=shows
     url_poster: https://api.mediux.pro/assets/b4a3df8c-41e5-4a2e-9075-bdf722bdacee
     seasons:
       1:
@@ -1212,6 +1293,7 @@ metadata:
     label_title: Make Some Noise
     release_year: '2022'
     sort_title: Make Some Noise
+    tpdb_search: https://theposterdb.com/search?term=Make+Some+Noise&section=shows
     url_poster: https://theposterdb.com/api/assets/537707
     seasons:
       0:
@@ -1226,6 +1308,7 @@ metadata:
     label_title: The Mandalorian
     release_year: '2019'
     sort_title: Mandalorian
+    tpdb_search: https://theposterdb.com/search?term=The+Mandalorian&section=shows
     url_poster: https://theposterdb.com/api/assets/133754
     seasons:
       1:
@@ -1238,6 +1321,7 @@ metadata:
     label_title: Marvel's Agent Carter
     release_year: '2015'
     sort_title: Marvel's Agent Carter
+    tpdb_search: https://theposterdb.com/search?term=Marvel's+Agent+Carter&section=shows
     url_poster: https://theposterdb.com/api/assets/145236
     studio: Marvel Studios
     seasons:
@@ -1269,6 +1353,7 @@ metadata:
     label_title: Marvel's Cloak & Dagger
     release_year: '2018'
     sort_title: Marvel's Cloak & Dagger
+    tpdb_search: https://theposterdb.com/search?term=Marvel's+Cloak+&+Dagger&section=shows
     url_poster: https://theposterdb.com/api/assets/144047
     studio: Marvel Studios
     seasons:
@@ -1280,6 +1365,7 @@ metadata:
     label_title: Marvel's Daredevil
     release_year: '2015'
     sort_title: Marvel's Daredevil
+    tpdb_search: https://theposterdb.com/search?term=Marvel's+Daredevil&section=shows
     url_poster: https://theposterdb.com/api/assets/146524
     studio: Marvel Studios
     seasons:
@@ -1293,6 +1379,7 @@ metadata:
     label_title: Marvel's Inhumans
     release_year: '2017'
     sort_title: Marvel's Inhumans
+    tpdb_search: https://theposterdb.com/search?term=Marvel's+Inhumans&section=shows
     url_poster: https://theposterdb.com/api/assets/146518
     studio: Marvel Studios
     seasons:
@@ -1302,6 +1389,7 @@ metadata:
     label_title: Marvel's Iron Fist
     release_year: '2017'
     sort_title: Marvel's Iron Fist
+    tpdb_search: https://theposterdb.com/search?term=Marvel's+Iron+Fist&section=shows
     url_poster: https://theposterdb.com/api/assets/146795
     studio: Marvel Studios
     seasons:
@@ -1313,6 +1401,7 @@ metadata:
     label_title: Marvel's Jessica Jones
     release_year: '2015'
     sort_title: Marvel's Jessica Jones
+    tpdb_search: https://theposterdb.com/search?term=Marvel's+Jessica+Jones&section=shows
     url_poster: https://theposterdb.com/api/assets/146669
     studio: Marvel Studios
     seasons:
@@ -1326,6 +1415,7 @@ metadata:
     label_title: Marvel's Luke Cage
     release_year: '2016'
     sort_title: Marvel's Luke Cage
+    tpdb_search: https://theposterdb.com/search?term=Marvel's+Luke+Cage&section=shows
     url_poster: https://theposterdb.com/api/assets/146779
     studio: Marvel Studios
     seasons:
@@ -1337,6 +1427,7 @@ metadata:
     label_title: Marvel's Runaways
     release_year: '2017'
     sort_title: Marvel's Runaways
+    tpdb_search: https://theposterdb.com/search?term=Marvel's+Runaways&section=shows
     url_poster: https://theposterdb.com/api/assets/144039
     studio: Marvel Studios
     seasons:
@@ -1350,6 +1441,7 @@ metadata:
     label_title: Marvel's The Defenders
     release_year: '2017'
     sort_title: Marvel's The Defenders
+    tpdb_search: https://theposterdb.com/search?term=Marvel's+The+Defenders&section=shows
     url_poster: https://theposterdb.com/api/assets/149157
     studio: Marvel Studios
     seasons:
@@ -1359,6 +1451,7 @@ metadata:
     label_title: Marvel's The Punisher
     release_year: '2017'
     sort_title: Marvel's The Punisher
+    tpdb_search: https://theposterdb.com/search?term=Marvel's+The+Punisher&section=shows
     url_poster: https://theposterdb.com/api/assets/146924
     studio: Marvel Studios
     seasons:
@@ -1385,6 +1478,7 @@ metadata:
     label_title: The Midnight Gospel
     release_year: '2020'
     sort_title: Midnight Gospel
+    tpdb_search: https://theposterdb.com/search?term=The+Midnight+Gospel&section=shows
     url_poster: https://theposterdb.com/api/assets/149885
     seasons:
       1:
@@ -1393,6 +1487,7 @@ metadata:
     label_title: Monarch - Legacy of Monsters
     release_year: '2023'
     sort_title: Monarch - Legacy of Monsters
+    tpdb_search: https://theposterdb.com/search?term=Monarch+-+Legacy+of+Monsters&section=shows
     url_poster: https://theposterdb.com/api/assets/408312
     seasons:
       1:
@@ -1401,6 +1496,7 @@ metadata:
     label_title: Moon Knight
     release_year: '2022'
     sort_title: Moon Knight
+    tpdb_search: https://theposterdb.com/search?term=Moon+Knight&section=shows
     url_poster: https://theposterdb.com/api/assets/373681
     studio: Marvel Studios
     seasons:
@@ -1410,6 +1506,7 @@ metadata:
     label_title: Ms. Marvel
     release_year: '2022'
     sort_title: Ms. Marvel
+    tpdb_search: https://theposterdb.com/search?term=Ms.+Marvel&section=shows
     url_poster: https://theposterdb.com/api/assets/374071
     studio: Marvel Studios
     seasons:
@@ -1419,6 +1516,7 @@ metadata:
     label_title: Mythic Quest
     release_year: '2020'
     sort_title: Mythic Quest
+    tpdb_search: https://theposterdb.com/search?term=Mythic+Quest&section=shows
     url_poster: https://theposterdb.com/api/assets/82488
     seasons:
       0:
@@ -1446,6 +1544,7 @@ metadata:
     label_title: Nathan for You
     release_year: '2013'
     sort_title: Nathan for You
+    tpdb_search: https://theposterdb.com/search?term=Nathan+for+You&section=shows
     url_poster: https://theposterdb.com/api/assets/250156
     seasons:
       0:
@@ -1471,6 +1570,7 @@ metadata:
     label_title: Ninja Kamui
     release_year: '2024'
     sort_title: Ninja Kamui
+    tpdb_search: https://theposterdb.com/search?term=Ninja+Kamui&section=shows
     url_poster: https://theposterdb.com/api/assets/450275
     audio_language: ja-JP
     seasons:
@@ -1480,6 +1580,7 @@ metadata:
     label_title: Obi-Wan Kenobi
     release_year: '2022'
     sort_title: Obi-Wan Kenobi
+    tpdb_search: https://theposterdb.com/search?term=Obi-Wan+Kenobi&section=shows
     url_poster: https://theposterdb.com/api/assets/211933
     seasons:
       1:
@@ -1488,6 +1589,7 @@ metadata:
     label_title: The Office (US)
     release_year: '2005'
     sort_title: Office (US)
+    tpdb_search: https://theposterdb.com/search?term=The+Office+(US)&section=shows
     url_poster: https://theposterdb.com/api/assets/62490
     seasons:
       0:
@@ -1514,6 +1616,7 @@ metadata:
     label_title: Orb - On the Movements of the Earth
     release_year: '2024'
     sort_title: Orb - On the Movements of the Earth
+    tpdb_search: https://theposterdb.com/search?term=Orb+-+On+the+Movements+of+the+Earth&section=shows
     url_poster: https://theposterdb.com/api/assets/531265
     audio_language: ja-JP
     seasons:
@@ -1523,6 +1626,7 @@ metadata:
     label_title: Pantheon
     release_year: '2022'
     sort_title: Pantheon
+    tpdb_search: https://theposterdb.com/search?term=Pantheon&section=shows
     url_poster: https://theposterdb.com/api/assets/263743
     seasons:
       1:
@@ -1533,6 +1637,7 @@ metadata:
     label_title: Paradise
     release_year: '2025'
     sort_title: Paradise
+    tpdb_search: https://theposterdb.com/search?term=Paradise&section=shows
     url_poster: https://theposterdb.com/api/assets/563099
     seasons:
       1:
@@ -1541,6 +1646,7 @@ metadata:
     label_title: Parks and Recreation
     release_year: '2009'
     sort_title: Parks and Recreation
+    tpdb_search: https://theposterdb.com/search?term=Parks+and+Recreation&section=shows
     url_poster: https://theposterdb.com/api/assets/125115
     seasons:
       0:
@@ -1563,6 +1669,7 @@ metadata:
     label_title: Peaky Blinders
     release_year: '2013'
     sort_title: Peaky Blinders
+    tpdb_search: https://theposterdb.com/search?term=Peaky+Blinders&section=shows
     url_poster: https://theposterdb.com/api/assets/211777
     seasons:
       0:
@@ -1583,6 +1690,7 @@ metadata:
     label_title: The Penguin
     release_year: '2024'
     sort_title: Penguin
+    tpdb_search: https://theposterdb.com/search?term=The+Penguin&section=shows
     url_poster: https://theposterdb.com/api/assets/526094
     seasons:
       1:
@@ -1591,6 +1699,7 @@ metadata:
     label_title: Percy Jackson and the Olympians
     release_year: '2023'
     sort_title: Percy Jackson and the Olympians
+    tpdb_search: https://theposterdb.com/search?term=Percy+Jackson+and+the+Olympians&section=shows
     url_poster: https://theposterdb.com/api/assets/436046
     seasons:
       1:
@@ -1599,6 +1708,7 @@ metadata:
     label_title: The Pitt
     release_year: '2025'
     sort_title: Pitt
+    tpdb_search: https://theposterdb.com/search?term=The+Pitt&section=shows
     url_poster: https://theposterdb.com/api/assets/583993
     seasons:
       1:
@@ -1616,6 +1726,7 @@ metadata:
     label_title: Prehistoric Planet
     release_year: '2022'
     sort_title: Prehistoric Planet
+    tpdb_search: https://theposterdb.com/search?term=Prehistoric+Planet&section=shows
     url_poster: https://theposterdb.com/api/assets/237269
     seasons:
       1:
@@ -1626,6 +1737,7 @@ metadata:
     label_title: Prison Break
     release_year: '2005'
     sort_title: Prison Break
+    tpdb_search: https://theposterdb.com/search?term=Prison+Break&section=shows
     url_poster: https://theposterdb.com/api/assets/135372
     seasons:
       1:
@@ -1642,6 +1754,7 @@ metadata:
     label_title: The Queen's Gambit
     release_year: '2020'
     sort_title: Queen's Gambit
+    tpdb_search: https://theposterdb.com/search?term=The+Queen's+Gambit&section=shows
     url_poster: https://theposterdb.com/api/assets/111129
     seasons:
       1:
@@ -1650,6 +1763,7 @@ metadata:
     label_title: Reacher
     release_year: '2022'
     sort_title: Reacher
+    tpdb_search: https://theposterdb.com/search?term=Reacher&section=shows
     url_poster: https://theposterdb.com/api/assets/206782
     seasons:
       1:
@@ -1662,6 +1776,7 @@ metadata:
     label_title: Reno 911!
     release_year: '2003'
     sort_title: Reno 911!
+    tpdb_search: https://theposterdb.com/search?term=Reno+911!&section=shows
     url_poster: https://theposterdb.com/api/assets/100152
     seasons:
       1:
@@ -1680,6 +1795,7 @@ metadata:
     label_title: Rick and Morty
     release_year: '2013'
     sort_title: Rick and Morty
+    tpdb_search: https://theposterdb.com/search?term=Rick+and+Morty&section=shows
     url_poster: https://theposterdb.com/api/assets/168176
     seasons:
       0:
@@ -1702,6 +1818,7 @@ metadata:
     label_title: Rick and Morty - The Anime
     release_year: '2024'
     sort_title: Rick and Morty - The Anime
+    tpdb_search: https://theposterdb.com/search?term=Rick+and+Morty+-+The+Anime&section=shows
     url_poster: https://theposterdb.com/api/assets/516691
     audio_language: ja-JP
     seasons:
@@ -1711,6 +1828,7 @@ metadata:
     label_title: The Righteous Gemstones
     release_year: '2019'
     sort_title: Righteous Gemstones
+    tpdb_search: https://theposterdb.com/search?term=The+Righteous+Gemstones&section=shows
     url_poster: https://theposterdb.com/api/assets/138364
     seasons:
       1:
@@ -1735,6 +1853,7 @@ metadata:
     label_title: The Sandman
     release_year: '2022'
     sort_title: Sandman
+    tpdb_search: https://theposterdb.com/search?term=The+Sandman&section=shows
     url_poster: https://theposterdb.com/api/assets/257146
     seasons:
       1:
@@ -1743,6 +1862,7 @@ metadata:
     label_title: The Secret Circle
     release_year: '2011'
     sort_title: Secret Circle
+    tpdb_search: https://theposterdb.com/search?term=The+Secret+Circle&section=shows
     url_poster: https://theposterdb.com/api/assets/96990
     seasons:
       1:
@@ -1751,6 +1871,7 @@ metadata:
     label_title: Secret Invasion
     release_year: '2023'
     sort_title: Secret Invasion
+    tpdb_search: https://theposterdb.com/search?term=Secret+Invasion&section=shows
     url_poster: https://theposterdb.com/api/assets/374600
     studio: Marvel Studios
     seasons:
@@ -1760,6 +1881,7 @@ metadata:
     label_title: Secret Level
     release_year: '2024'
     sort_title: Secret Level
+    tpdb_search: https://theposterdb.com/search?term=Secret+Level&section=shows
     url_poster: https://theposterdb.com/api/assets/549286
     url_background: https://api.mediux.pro/assets/f0b9502f-37f2-4733-a3f2-8257836e72a5
     seasons:
@@ -1800,6 +1922,7 @@ metadata:
     label_title: Severance
     release_year: '2022'
     sort_title: Severance
+    tpdb_search: https://theposterdb.com/search?term=Severance&section=shows
     url_poster: https://theposterdb.com/api/assets/386508
     seasons:
       1:
@@ -1810,6 +1933,7 @@ metadata:
     label_title: She-Hulk - Attorney at Law
     release_year: '2022'
     sort_title: She-Hulk - Attorney at Law
+    tpdb_search: https://theposterdb.com/search?term=She-Hulk+-+Attorney+at+Law&section=shows
     url_poster: https://theposterdb.com/api/assets/374146
     studio: Marvel Studios
     seasons:
@@ -1819,6 +1943,7 @@ metadata:
     label_title: Shōgun
     release_year: '2024'
     sort_title: Shogun
+    tpdb_search: https://theposterdb.com/search?term=Shōgun&section=shows
     url_poster: https://theposterdb.com/api/assets/450202
     seasons:
       0:
@@ -1838,6 +1963,7 @@ metadata:
     label_title: Side Quest
     release_year: '2025'
     sort_title: Side Quest
+    tpdb_search: https://theposterdb.com/search?term=Side+Quest&section=shows
     url_poster: https://theposterdb.com/api/assets/587401
     seasons:
       1:
@@ -1846,6 +1972,7 @@ metadata:
     label_title: Silo
     release_year: '2023'
     sort_title: Silo
+    tpdb_search: https://theposterdb.com/search?term=Silo&section=shows
     url_poster: https://theposterdb.com/api/assets/543509
     seasons:
       1:
@@ -1856,6 +1983,7 @@ metadata:
     label_title: Skull Island
     release_year: '2023'
     sort_title: Skull Island
+    tpdb_search: https://theposterdb.com/search?term=Skull+Island&section=shows
     url_poster: https://theposterdb.com/api/assets/372571
     seasons:
       1:
@@ -1864,6 +1992,7 @@ metadata:
     label_title: Slow Horses
     release_year: '2022'
     sort_title: Slow Horses
+    tpdb_search: https://theposterdb.com/search?term=Slow+Horses&section=shows
     url_poster: https://theposterdb.com/api/assets/224856
     seasons:
       1:
@@ -1878,6 +2007,7 @@ metadata:
     label_title: Solo Leveling
     release_year: '2024'
     sort_title: Solo Leveling
+    tpdb_search: https://theposterdb.com/search?term=Solo+Leveling&section=shows
     url_poster: https://theposterdb.com/api/assets/474753
     audio_language: ja-JP
     seasons:
@@ -1891,6 +2021,7 @@ metadata:
     label_title: Sons of Anarchy
     release_year: '2008'
     sort_title: Sons of Anarchy
+    tpdb_search: https://theposterdb.com/search?term=Sons+of+Anarchy&section=shows
     url_poster: https://theposterdb.com/api/assets/192772
     seasons:
       1:
@@ -1911,6 +2042,7 @@ metadata:
     label_title: Squid Game
     release_year: '2021'
     sort_title: Squid Game
+    tpdb_search: https://theposterdb.com/search?term=Squid+Game&section=shows
     url_poster: https://theposterdb.com/api/assets/178646
     seasons:
       1:
@@ -1921,6 +2053,7 @@ metadata:
     label_title: Star Wars - Andor
     release_year: '2022'
     sort_title: Star Wars - Andor
+    tpdb_search: https://theposterdb.com/search?term=Star+Wars+-+Andor&section=shows
     url_poster: https://theposterdb.com/api/assets/244084
     seasons:
       0:
@@ -1933,6 +2066,7 @@ metadata:
     label_title: Star Wars - Skeleton Crew
     release_year: '2024'
     sort_title: Star Wars - Skeleton Crew
+    tpdb_search: https://theposterdb.com/search?term=Star+Wars+-+Skeleton+Crew&section=shows
     url_poster: https://theposterdb.com/api/assets/540401
     seasons:
       1:
@@ -1941,6 +2075,7 @@ metadata:
     label_title: Star Wars - Tales of the Empire
     release_year: '2024'
     sort_title: Star Wars - Tales of the Empire
+    tpdb_search: https://theposterdb.com/search?term=Star+Wars+-+Tales+of+the+Empire&section=shows
     url_poster: https://theposterdb.com/api/assets/481650
     seasons:
       1:
@@ -1949,6 +2084,7 @@ metadata:
     label_title: Star Wars - Tales of the Jedi
     release_year: '2022'
     sort_title: Star Wars - Tales of the Jedi
+    tpdb_search: https://theposterdb.com/search?term=Star+Wars+-+Tales+of+the+Jedi&section=shows
     url_poster: https://theposterdb.com/api/assets/272947
     seasons:
       0:
@@ -1966,6 +2102,7 @@ metadata:
     label_title: Star Wars - The Bad Batch
     release_year: '2021'
     sort_title: Star Wars - The Bad Batch
+    tpdb_search: https://theposterdb.com/search?term=Star+Wars+-+The+Bad+Batch&section=shows
     url_poster: https://theposterdb.com/api/assets/143195
     seasons:
       0:
@@ -1980,6 +2117,7 @@ metadata:
     label_title: Star Wars - The Clone Wars
     release_year: '2008'
     sort_title: Star Wars - The Clone Wars
+    tpdb_search: https://theposterdb.com/search?term=Star+Wars+-+The+Clone+Wars&section=shows
     url_poster: https://theposterdb.com/api/assets/133734
     seasons:
       0:
@@ -2002,6 +2140,7 @@ metadata:
     label_title: Star Wars - Visions
     release_year: '2021'
     sort_title: Star Wars - Visions
+    tpdb_search: https://theposterdb.com/search?term=Star+Wars+-+Visions&section=shows
     url_poster: https://theposterdb.com/api/assets/175178
     audio_language: ja-JP
     seasons:
@@ -2013,6 +2152,7 @@ metadata:
     label_title: Star Wars Rebels
     release_year: '2014'
     sort_title: Star Wars Rebels
+    tpdb_search: https://theposterdb.com/search?term=Star+Wars+Rebels&section=shows
     url_poster: https://theposterdb.com/api/assets/133743
     seasons:
       0:
@@ -2029,6 +2169,7 @@ metadata:
     label_title: Star Wars Resistance
     release_year: '2018'
     sort_title: Star Wars Resistance
+    tpdb_search: https://theposterdb.com/search?term=Star+Wars+Resistance&section=shows
     url_poster: https://theposterdb.com/api/assets/133749
     seasons:
       0:
@@ -2041,6 +2182,7 @@ metadata:
     label_title: Stranger Things
     release_year: '2016'
     sort_title: Stranger Things
+    tpdb_search: https://theposterdb.com/search?term=Stranger+Things&section=shows
     url_poster: https://theposterdb.com/api/assets/144211
     seasons:
       1:
@@ -2055,6 +2197,7 @@ metadata:
     label_title: Summer Heights High
     release_year: '2007'
     sort_title: Summer Heights High
+    tpdb_search: https://theposterdb.com/search?term=Summer+Heights+High&section=shows
     url_poster: https://theposterdb.com/api/assets/367011
     seasons:
       1:
@@ -2063,6 +2206,7 @@ metadata:
     label_title: Super Cube
     release_year: '2025'
     sort_title: Super Cube
+    tpdb_search: https://theposterdb.com/search?term=Super+Cube&section=shows
     url_poster: https://theposterdb.com/api/assets/586082
     audio_language: zh-CN
     seasons:
@@ -2080,6 +2224,7 @@ metadata:
     label_title: Ted Lasso
     release_year: '2020'
     sort_title: Ted Lasso
+    tpdb_search: https://theposterdb.com/search?term=Ted+Lasso&section=shows
     url_poster: https://theposterdb.com/api/assets/164299
     seasons:
       0:
@@ -2094,6 +2239,7 @@ metadata:
     label_title: Temptation Island (US)
     release_year: '2019'
     sort_title: Temptation Island (US)
+    tpdb_search: https://theposterdb.com/search?term=Temptation+Island+(US)&section=shows
     url_poster: https://theposterdb.com/api/assets/140548
     seasons:
       1:
@@ -2112,6 +2258,7 @@ metadata:
     label_title: To be Hero X
     release_year: '2025'
     sort_title: To be Hero X
+    tpdb_search: https://theposterdb.com/search?term=To+be+Hero+X&section=shows
     url_poster: https://theposterdb.com/api/assets/586062
     audio_language: zh-CN
     seasons:
@@ -2121,6 +2268,7 @@ metadata:
     label_title: True Detective
     release_year: '2014'
     sort_title: True Detective
+    tpdb_search: https://theposterdb.com/search?term=True+Detective&section=shows
     url_poster: https://theposterdb.com/api/assets/136982
     seasons:
       1:
@@ -2135,6 +2283,7 @@ metadata:
     label_title: Uzumaki
     release_year: '2024'
     sort_title: Uzumaki
+    tpdb_search: https://theposterdb.com/search?term=Uzumaki&section=shows
     url_poster: https://theposterdb.com/api/assets/528021
     audio_language: ja-JP
     seasons:
@@ -2144,6 +2293,7 @@ metadata:
     label_title: Vanderpump Rules
     release_year: '2013'
     sort_title: Vanderpump Rules
+    tpdb_search: https://theposterdb.com/search?term=Vanderpump+Rules&section=shows
     url_poster: https://theposterdb.com/api/assets/371895
     seasons:
       0:
@@ -2180,6 +2330,7 @@ metadata:
     label_title: WandaVision
     release_year: '2021'
     sort_title: WandaVision
+    tpdb_search: https://theposterdb.com/search?term=WandaVision&section=shows
     url_poster: https://theposterdb.com/api/assets/373318
     studio: Marvel Studios
     seasons:
@@ -2189,6 +2340,7 @@ metadata:
     label_title: Westworld
     release_year: '2016'
     sort_title: Westworld
+    tpdb_search: https://theposterdb.com/search?term=Westworld&section=shows
     url_poster: https://theposterdb.com/api/assets/56229
     seasons:
       0:
@@ -2205,6 +2357,7 @@ metadata:
     label_title: What If…!
     release_year: '2021'
     sort_title: What If...!
+    tpdb_search: https://theposterdb.com/search?term=What+If…!&section=shows
     url_poster: https://theposterdb.com/api/assets/373329
     studio: Marvel Studios
     seasons:
@@ -2218,6 +2371,7 @@ metadata:
     label_title: The White Lotus
     release_year: '2021'
     sort_title: White Lotus
+    tpdb_search: https://theposterdb.com/search?term=The+White+Lotus&section=shows
     url_poster: https://theposterdb.com/api/assets/169953
     seasons:
       1:
@@ -2230,6 +2384,7 @@ metadata:
     label_title: Yellowjackets
     release_year: '2021'
     sort_title: Yellowjackets
+    tpdb_search: https://theposterdb.com/search?term=Yellowjackets&section=shows
     url_poster: https://theposterdb.com/api/assets/573867
     seasons:
       0:
@@ -2272,6 +2427,7 @@ metadata:
     label_title: Yellowstone
     release_year: '2018'
     sort_title: Yellowstone
+    tpdb_search: https://theposterdb.com/search?term=Yellowstone&section=shows
     url_poster: https://theposterdb.com/api/assets/156053
     seasons:
       0:
@@ -2290,6 +2446,7 @@ metadata:
     label_title: You
     release_year: '2018'
     sort_title: You
+    tpdb_search: https://theposterdb.com/search?term=You&section=shows
     url_poster: https://theposterdb.com/api/assets/180324
     title: You
     seasons:
@@ -2307,6 +2464,7 @@ metadata:
     label_title: Your Friendly Neighborhood Spider-Man
     release_year: '2025'
     sort_title: Your Friendly Neighborhood Spider-Man
+    tpdb_search: https://theposterdb.com/search?term=Your+Friendly+Neighborhood+Spider-Man&section=shows
     url_poster: https://theposterdb.com/api/assets/569215
     studio: Marvel Studios
     seasons:
@@ -2316,6 +2474,7 @@ metadata:
     label_title: Your Honor
     release_year: '2020'
     sort_title: Your Honor
+    tpdb_search: https://theposterdb.com/search?term=Your+Honor&section=shows
     url_poster: https://theposterdb.com/api/assets/122835
     seasons:
       1:
