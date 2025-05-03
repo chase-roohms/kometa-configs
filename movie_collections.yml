@@ -29,3 +29,7 @@ collections:
       name: Radarr
       radarr_tag: 4 - neonmovies3
     url_poster: https://i.imgur.com/QFjgfeB.png
+  After Collection:
+    tmdb_collection: 
+        - 121938
+    url_poster: https://theposterdb.com/api/assets/178591
