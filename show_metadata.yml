@@ -1633,6 +1633,17 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/531266
+  270408:
+    label_title: Outlander
+    release_year: '2014'
+    sort_title: Outlander
+    tpdb_search: https://theposterdb.com/search?term=Outlander&section=shows
+    url_poster: ''
+    seasons:
+      1:
+        url_poster: ''
+      2:
+        url_poster: ''
   417208:
     label_title: Pantheon
     release_year: '2022'
@@ -2104,7 +2115,9 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/272948
   462199:
     label_title: Star Wars - Tales of the Underworld
+    release_year: '2025'
     sort_title: Star Wars - Tales of the Underworld
+    tpdb_search: https://theposterdb.com/search?term=Star+Wars+-+Tales+of+the+Underworld&section=shows
     url_poster: https://theposterdb.com/api/assets/593704
     seasons:
       1:
