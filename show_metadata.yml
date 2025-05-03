@@ -617,6 +617,17 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/540760
+  407520:
+    label_title: The Eminence in Shadow
+    release_year: '2022'
+    sort_title: Eminence in Shadow
+    tpdb_search: https://theposterdb.com/search?term=The+Eminence+in+Shadow&section=shows
+    url_poster: https://theposterdb.com/api/assets/417690
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/417691
+      2:
+        url_poster: https://theposterdb.com/api/assets/417692
   420039:
     label_title: The Eternaut
     release_year: '2025'
