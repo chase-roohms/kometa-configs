@@ -29,3 +29,6 @@ collections:
       name: Radarr
       radarr_tag: 4 - neonmovies3
     url_poster: https://i.imgur.com/QFjgfeB.png
+  Dosed:
+    tmdb_collection:
+      - 1471785
