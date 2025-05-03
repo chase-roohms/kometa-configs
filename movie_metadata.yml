@@ -1291,6 +1291,12 @@ metadata:
     sort_title: Harry Potter 8
     tpdb_search: https://theposterdb.com/search?term=Harry+Potter+and+the+Deathly+Hallows+Part+2&section=movies
     url_poster: https://theposterdb.com/api/assets/218036
+  668489:
+    label_title: Havoc
+    release_year: '2025'
+    sort_title: Havoc
+    tpdb_search: https://theposterdb.com/search?term=Havoc&section=movies
+    url_poster: ''
   1302916:
     label_title: Heart Eyes
     release_year: '2025'
