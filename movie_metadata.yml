@@ -1296,7 +1296,7 @@ metadata:
     release_year: '2025'
     sort_title: Havoc
     tpdb_search: https://theposterdb.com/search?term=Havoc&section=movies
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/597265
   1302916:
     label_title: Heart Eyes
     release_year: '2025'
