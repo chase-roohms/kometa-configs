@@ -623,6 +623,7 @@ metadata:
     sort_title: Eminence in Shadow
     tpdb_search: https://theposterdb.com/search?term=The+Eminence+in+Shadow&section=shows
     url_poster: https://theposterdb.com/api/assets/417690
+    audio_language: ja-JP
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/417691
