@@ -23,7 +23,7 @@ def get_existing_metadata(filename: str) -> dict:
 
 def get_tpdb_search_link(title: str, section: str):
     search_link = 'https://theposterdb.com/search'
-    search_term = f'?term={title.replace(' ', '+')}'
+    search_term = f'?term={title.replace(' ', '+').replace('&', '%26')}'
     search_section = f'&section={section}'
     return search_link + search_term + search_section
 
