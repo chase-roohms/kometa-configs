@@ -64,11 +64,11 @@ def get_media_dict(label_title: str, release_year: int, sort_title: str, media_t
     media_dict['label_title']       = label_title
     media_dict['release_year']      = release_year
     media_dict['sort_title']        = sort_title
-    media_dict['tpdb_search']       = get_tpdb_search_link(label_title, f'{media_type}s')
     if 'url_poster' not in media_dict:
         media_dict['url_poster']    = ''
     for key, value in additional_data.items():
         media_dict[key]             = value
+    media_dict['tpdb_search']       = get_tpdb_search_link(label_title, f'{media_type}s')
     return media_dict
 
 
