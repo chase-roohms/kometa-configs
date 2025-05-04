@@ -3179,6 +3179,13 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Venom+The+Last+Dance&section=movies
     url_poster: https://theposterdb.com/api/assets/517925
     studio: Marvel Entertainment
+  1241436:
+    label_title: Warfare
+    release_year: '2025'
+    sort_title: Warfare
+    tpdb_search: https://theposterdb.com/search?term=Warfare&section=movies
+    url_poster: https://theposterdb.com/api/assets/555635
+    studio: A24
   9804:
     label_title: Waterworld
     sort_title: Waterworld
