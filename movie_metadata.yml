@@ -1045,12 +1045,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Final+Destination&section=movies
     url_poster: https://theposterdb.com/api/assets/568756
   55779:
-    label_title: Final Destination 5
-    release_year: '2011'
-    sort_title: Final Destination 5
-    tpdb_search: https://theposterdb.com/search?term=Final+Destination+5&section=movies
-    url_poster: https://theposterdb.com/api/assets/568755
-  55779:
     label_title: Final Destination Bloodlines
     release_year: '2025'
     sort_title: Final Destination 6
