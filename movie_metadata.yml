@@ -573,8 +573,11 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/538400
   1151031:
     title: Bring Her Back
+    release_year: '2025
     sort_title: Bring Her Back
+    tpdb_search: https://theposterdb.com/search?term=Bring+Her+Back&section=movies
     url_poster: https://theposterdb.com/api/assets/590546
+    studio: A24
   142:
     label_title: Brokeback Mountain
     release_year: '2005'
@@ -1022,31 +1025,37 @@ metadata:
     release_year: '2000'
     sort_title: Final Destination 1
     tpdb_search: https://theposterdb.com/search?term=Final+Destination&section=movies
-    url_poster: https://theposterdb.com/api/assets/883
+    url_poster: https://theposterdb.com/api/assets/568759
   9358:
     label_title: Final Destination 2
     release_year: '2003'
     sort_title: Final Destination 2
     tpdb_search: https://theposterdb.com/search?term=Final+Destination+2&section=movies
-    url_poster: https://theposterdb.com/api/assets/886
+    url_poster: https://theposterdb.com/api/assets/568758
   9286:
     label_title: Final Destination 3
     release_year: '2006'
     sort_title: Final Destination 3
     tpdb_search: https://theposterdb.com/search?term=Final+Destination+3&section=movies
-    url_poster: https://theposterdb.com/api/assets/888
+    url_poster: https://theposterdb.com/api/assets/568757
   19912:
     label_title: The Final Destination
     release_year: '2009'
     sort_title: Final Destination 4
     tpdb_search: https://theposterdb.com/search?term=The+Final+Destination&section=movies
-    url_poster: https://theposterdb.com/api/assets/889
+    url_poster: https://theposterdb.com/api/assets/568756
   55779:
     label_title: Final Destination 5
     release_year: '2011'
     sort_title: Final Destination 5
     tpdb_search: https://theposterdb.com/search?term=Final+Destination+5&section=movies
-    url_poster: https://theposterdb.com/api/assets/891
+    url_poster: https://theposterdb.com/api/assets/568755
+  55779:
+    label_title: Final Destination Bloodlines
+    release_year: '2025'
+    sort_title: Final Destination 6
+    tpdb_search: https://theposterdb.com/search?term=Final+Destination+Bloodlines&section=movies
+    url_poster: https://theposterdb.com/api/assets/568754
   12:
     label_title: Finding Nemo
     release_year: '2003'
@@ -1717,6 +1726,12 @@ metadata:
     release_year: '2022'
     sort_title: Lightyear
     tpdb_search: https://theposterdb.com/search?term=Lightyear&section=movies
+    url_poster: https://theposterdb.com/api/assets/211369
+  552524:
+    label_title: Lilo & Stitch
+    release_year: '2025'
+    sort_title: Lilo & Stitch
+    tpdb_search: https://theposterdb.com/search?term=Lilo+%26+Stitch&section=movies
     url_poster: https://theposterdb.com/api/assets/211369
   1083968:
     label_title: Locked
