@@ -2729,35 +2729,35 @@ metadata:
     label_title: Spider-Man
     release_year: '2002'
     sort_title: Spider-Man 1
-    url_poster: https://theposterdb.com/api/assets/147
+    url_poster: https://theposterdb.com/api/assets/163871
     tpdb_search: https://theposterdb.com/search?term=Spider-Man&section=movies
     studio: Marvel Entertainment
   558:
     label_title: Spider-Man 2
     release_year: '2004'
     sort_title: Spider-Man 2
-    url_poster: https://theposterdb.com/api/assets/148
+    url_poster: https://theposterdb.com/api/assets/163872
     tpdb_search: https://theposterdb.com/search?term=Spider-Man+2&section=movies
     studio: Marvel Entertainment
   559:
     label_title: Spider-Man 3
     release_year: '2007'
     sort_title: Spider-Man 3
-    url_poster: https://theposterdb.com/api/assets/149
+    url_poster: https://theposterdb.com/api/assets/163873
     tpdb_search: https://theposterdb.com/search?term=Spider-Man+3&section=movies
     studio: Marvel Entertainment
   1930:
     label_title: The Amazing Spider-Man
     release_year: '2012'
     sort_title: Spider-Man Amazing 1
-    url_poster: https://theposterdb.com/api/assets/211
+    url_poster: https://theposterdb.com/api/assets/163876
     tpdb_search: https://theposterdb.com/search?term=The+Amazing+Spider-Man&section=movies
     studio: Marvel Entertainment
   102382:
     label_title: The Amazing Spider-Man 2
     release_year: '2014'
     sort_title: Spider-Man Amazing 2
-    url_poster: https://theposterdb.com/api/assets/212
+    url_poster: https://theposterdb.com/api/assets/163877
     tpdb_search: https://theposterdb.com/search?term=The+Amazing+Spider-Man+2&section=movies
     studio: Marvel Entertainment
   315635:
