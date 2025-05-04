@@ -1093,6 +1093,13 @@ metadata:
     label_title: Forrest Gump
     sort_title: Forrest Gump
     url_poster: https://theposterdb.com/api/assets/487271
+  1239655:
+    label_title: Friendship
+    release_year: '2025'
+    sort_title: Friendship
+    tpdb_search: https://theposterdb.com/search?term=Friendship&section=movies
+    url_poster: https://theposterdb.com/api/assets/572636
+    studio: A24
   228150:
     label_title: Fury
     release_year: '2014'
