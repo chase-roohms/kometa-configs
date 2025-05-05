@@ -1111,13 +1111,18 @@ metadata:
     label_title: Link Click
     release_year: '2021'
     sort_title: Link Click
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/205595
     tpdb_search: https://theposterdb.com/search?term=Link+Click&section=shows
+    audio_language: zh-CN
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/205596
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/205597
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/385009
+      3:
+        url_poster: https://theposterdb.com/api/assets/560415
   388589:
     label_title: Lioness
     release_year: '2023'
