@@ -1833,9 +1833,9 @@ metadata:
     studio: Marvel Entertainment
   784524:
     label_title: Magazine Dreams
-    release_year: '2025'
+    release_year: '2023'
     sort_title: Magazine Dreams
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/593342
     tpdb_search: https://theposterdb.com/search?term=Magazine+Dreams&section=movies
   937278:
     label_title: A Man Called Otto
