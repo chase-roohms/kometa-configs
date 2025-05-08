@@ -3204,8 +3204,8 @@ metadata:
     label_title: Warfare
     release_year: '2025'
     sort_title: Warfare
-    tpdb_search: https://theposterdb.com/search?term=Warfare&section=movies
     url_poster: https://theposterdb.com/api/assets/555635
+    tpdb_search: https://theposterdb.com/search?term=Warfare&section=movies
     studio: A24
   9804:
     label_title: Waterworld
