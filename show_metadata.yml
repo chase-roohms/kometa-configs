@@ -886,6 +886,7 @@ metadata:
     sort_title: Hells Paradise
     url_poster: https://theposterdb.com/api/assets/341624
     tpdb_search: https://theposterdb.com/search?term=Hells+Paradise&section=shows
+    audio_language: ja-JP
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/450298
