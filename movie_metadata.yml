@@ -147,18 +147,18 @@ metadata:
     label_title: All the Bright Places
     sort_title: All the Bright Places
     url_poster: https://theposterdb.com/api/assets/52906
-  518068:
-    label_title: Along with the Gods The Last 49 Days
-    release_year: '2018'
-    sort_title: Along with the Gods 2
-    url_poster: https://theposterdb.com/api/assets/587901
-    tpdb_search: https://theposterdb.com/search?term=Along+with+the+Gods+The+Last+49+Days&section=movies
   397567:
     label_title: Along with the Gods The Two Worlds
     release_year: '2017'
     sort_title: Along with the Gods 1
     url_poster: https://theposterdb.com/api/assets/587902
     tpdb_search: https://theposterdb.com/search?term=Along+with+the+Gods+The+Two+Worlds&section=movies
+  518068:
+    label_title: Along with the Gods The Last 49 Days
+    release_year: '2018'
+    sort_title: Along with the Gods 2
+    url_poster: https://theposterdb.com/api/assets/587901
+    tpdb_search: https://theposterdb.com/search?term=Along+with+the+Gods+The+Last+49+Days&section=movies
   153518:
     label_title: The Angry Birds Movie
     release_year: '2016'
