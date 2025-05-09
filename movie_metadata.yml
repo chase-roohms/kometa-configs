@@ -11,24 +11,6 @@ metadata:
     sort_title: 28 Later 2
     url_poster: https://theposterdb.com/api/assets/4965
     tpdb_search: https://theposterdb.com/search?term=28+Weeks+Later&section=movies
-  1100988:
-    label_title: 28 Years Later
-    release_year: '2025'
-    sort_title: 28 Years Later
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=28+Years+Later&section=movies
-  1272837:
-    label_title: 28 Years Later Part 2 The Bone Temple
-    release_year: '2026'
-    sort_title: 28 Years Later Part 2 The Bone Temple
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=28+Years+Later+Part+2+The+Bone+Temple&section=movies
-  1273002:
-    label_title: '28 Years Later Part 3 '
-    release_year: Unknown
-    sort_title: '28 Years Later Part 3 '
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=28+Years+Later+Part+3+&section=movies
   1271:
     label_title: '300'
     release_year: '2007'
@@ -70,12 +52,9 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/578150
     tpdb_search: https://theposterdb.com/search?term=The+Accountant&section=movies
   870028:
-    label_title: The Accountant 2
-    release_year: '2025'
+    title: The Accountant 2
     sort_title: Accountant 2
     url_poster: https://theposterdb.com/api/assets/578149
-    title: The Accountant 2
-    tpdb_search: https://theposterdb.com/search?term=The+Accountant+2&section=movies
   537915:
     label_title: After
     release_year: '2019'
@@ -168,24 +147,6 @@ metadata:
     label_title: All the Bright Places
     sort_title: All the Bright Places
     url_poster: https://theposterdb.com/api/assets/52906
-  518068:
-    label_title: Along with the Gods The Last 49 Days
-    release_year: '2018'
-    sort_title: Along with the Gods The Last 49 Days
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Along+with+the+Gods+The+Last+49+Days&section=movies
-  397567:
-    label_title: Along with the Gods The Two Worlds
-    release_year: '2017'
-    sort_title: Along with the Gods The Two Worlds
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Along+with+the+Gods+The+Two+Worlds&section=movies
-  1087891:
-    label_title: The Amateur
-    release_year: '2025'
-    sort_title: Amateur
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=The+Amateur&section=movies
   153518:
     label_title: The Angry Birds Movie
     release_year: '2016'
@@ -200,10 +161,8 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Angry+Birds+Movie+2&section=movies
   1300926:
     label_title: The Angry Birds Movie 3
-    release_year: '2026'
     sort_title: Angry Birds Movie 3
     url_poster: https://image.tmdb.org/t/p/original/iXn37glAlIbhVlDpRI38ww3EeHX.jpg
-    tpdb_search: https://theposterdb.com/search?term=The+Angry+Birds+Movie+3&section=movies
   250546:
     label_title: Annabelle
     release_year: '2014'
@@ -277,12 +236,6 @@ metadata:
     sort_title: Arcadian
     url_poster: https://theposterdb.com/api/assets/487318
     tpdb_search: https://theposterdb.com/search?term=Arcadian&section=movies
-  1030022:
-    label_title: 'Armor Wars '
-    release_year: Unknown
-    sort_title: 'Armor Wars '
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Armor+Wars+&section=movies
   256274:
     label_title: As Above So Below
     release_year: '2014'
@@ -307,36 +260,6 @@ metadata:
     sort_title: Avatar 2
     url_poster: https://theposterdb.com/api/assets/267822
     tpdb_search: https://theposterdb.com/search?term=Avatar+The+Way+of+Water&section=movies
-  216527:
-    label_title: Avatar 4
-    release_year: '2029'
-    sort_title: Avatar 4
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Avatar+4&section=movies
-  393209:
-    label_title: Avatar 5
-    release_year: '2031'
-    sort_title: Avatar 5
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Avatar+5&section=movies
-  83533:
-    label_title: Avatar Fire and Ash
-    release_year: '2025'
-    sort_title: Avatar Fire and Ash
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Avatar+Fire+and+Ash&section=movies
-  1003596:
-    label_title: Avengers Doomsday
-    release_year: '2026'
-    sort_title: Avengers Doomsday
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Avengers+Doomsday&section=movies
-  1003598:
-    label_title: Avengers Secret Wars
-    release_year: '2027'
-    sort_title: Avengers Secret Wars
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Avengers+Secret+Wars&section=movies
   24428:
     label_title: The Avengers
     release_year: '2012'
@@ -398,12 +321,6 @@ metadata:
     sort_title: Back to the Future 3
     url_poster: https://theposterdb.com/api/assets/105779
     tpdb_search: https://theposterdb.com/search?term=Back+to+the+Future+Part+III&section=movies
-  1083381:
-    label_title: 'The Backrooms '
-    release_year: Unknown
-    sort_title: 'Backrooms '
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=The+Backrooms+&section=movies
   978796:
     label_title: Bagman
     sort_title: Bagman
@@ -539,12 +456,6 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/275021
     tpdb_search: https://theposterdb.com/search?term=Black+Panther+Wakanda+Forever&section=movies
     studio: Marvel Studios
-  1197137:
-    label_title: Black Phone 2
-    release_year: '2025'
-    sort_title: Black Phone 2
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Black+Phone+2&section=movies
   497698:
     label_title: Black Widow
     release_year: '2021'
@@ -558,12 +469,6 @@ metadata:
     sort_title: BlackBerry
     url_poster: https://theposterdb.com/api/assets/480963
     tpdb_search: https://theposterdb.com/search?term=BlackBerry&section=movies
-  617127:
-    label_title: 'Blade '
-    release_year: Unknown
-    sort_title: 'Blade '
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Blade+&section=movies
   36647:
     label_title: Blade
     release_year: '1998'
@@ -667,12 +572,11 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/538400
     tpdb_search: https://theposterdb.com/search?term=Breaking+Wind&section=movies
   1151031:
-    label_title: Bring Her Back
+    title: Bring Her Back
     release_year: '2025'
     sort_title: Bring Her Back
-    url_poster: https://theposterdb.com/api/assets/590546
-    title: Bring Her Back
     tpdb_search: https://theposterdb.com/search?term=Bring+Her+Back&section=movies
+    url_poster: https://theposterdb.com/api/assets/590546
     studio: A24
   142:
     label_title: Brokeback Mountain
@@ -763,12 +667,6 @@ metadata:
     sort_title: Cat Returns
     url_poster: https://theposterdb.com/api/assets/24668
     tpdb_search: https://theposterdb.com/search?term=The+Cat+Returns&section=movies
-  1218925:
-    label_title: 'Chainsaw Man The Movie Reze Arc '
-    release_year: Unknown
-    sort_title: 'Chainsaw Man The Movie Reze Arc '
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Chainsaw+Man+The+Movie+Reze+Arc+&section=movies
   937287:
     label_title: Challengers
     release_year: '2024'
@@ -829,12 +727,6 @@ metadata:
     sort_title: Conjuring 3
     url_poster: https://theposterdb.com/api/assets/156035
     tpdb_search: https://theposterdb.com/search?term=The+Conjuring+The+Devil+Made+Me+Do+It&section=movies
-  1038392:
-    label_title: The Conjuring Last Rites
-    release_year: '2025'
-    sort_title: Conjuring Last Rites
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=The+Conjuring+Last+Rites&section=movies
   14836:
     label_title: Coraline
     release_year: '2009'
@@ -932,24 +824,6 @@ metadata:
     sort_title: Demon Slayer -Kimetsu no Yaiba- The Movie Mugen Train
     url_poster: https://theposterdb.com/api/assets/418263
     tpdb_search: https://theposterdb.com/search?term=Demon+Slayer+-Kimetsu+no+Yaiba-+The+Movie+Mugen+Train&section=movies
-  1311031:
-    label_title: 'Demon Slayer Kimetsu no Yaiba Infinity Castle '
-    release_year: Unknown
-    sort_title: 'Demon Slayer Kimetsu no Yaiba Infinity Castle '
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Demon+Slayer+Kimetsu+no+Yaiba+Infinity+Castle+&section=movies
-  1311034:
-    label_title: 'Demon Slayer Kimetsu no Yaiba Infinity Castle 2 '
-    release_year: Unknown
-    sort_title: 'Demon Slayer Kimetsu no Yaiba Infinity Castle 2 '
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Demon+Slayer+Kimetsu+no+Yaiba+Infinity+Castle+2+&section=movies
-  1311035:
-    label_title: 'Demon Slayer Kimetsu no Yaiba Infinity Castle 3 '
-    release_year: Unknown
-    sort_title: 'Demon Slayer Kimetsu no Yaiba Infinity Castle 3 '
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Demon+Slayer+Kimetsu+no+Yaiba+Infinity+Castle+3+&section=movies
   449443:
     title: Den of Thieves
     sort_title: Den of Thieves 1
@@ -958,12 +832,6 @@ metadata:
     title: Den of Thieves 2 Pantera
     sort_title: Den of Thieves 2
     url_poster: https://theposterdb.com/api/assets/567264
-  1426496:
-    label_title: 'Den of Thieves 3 '
-    release_year: Unknown
-    sort_title: 'Den of Thieves 3 '
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Den+of+Thieves+3+&section=movies
   20352:
     label_title: Despicable Me
     release_year: '2010'
@@ -1062,12 +930,6 @@ metadata:
     sort_title: Dune 2
     url_poster: https://theposterdb.com/api/assets/478769
     tpdb_search: https://theposterdb.com/search?term=Dune+Part+Two&section=movies
-  1170608:
-    label_title: 'Dune Part Three '
-    release_year: Unknown
-    sort_title: 'Dune Part Three '
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Dune+Part+Three+&section=movies
   493529:
     label_title: Dungeons and Dragons Honor Among Thieves
     release_year: '2023'
@@ -1152,12 +1014,6 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/163908
     tpdb_search: https://theposterdb.com/search?term=Fantastic+Four&section=movies
     studio: Marvel Studios
-  617126:
-    label_title: The Fantastic Four First Steps
-    release_year: '2025'
-    sort_title: Fantastic Four First Steps
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=The+Fantastic+Four+First+Steps&section=movies
   550:
     label_title: Fight Club
     release_year: '1999'
@@ -1198,8 +1054,8 @@ metadata:
     label_title: Final Destination Bloodlines
     release_year: '2025'
     sort_title: Final Destination 6
-    url_poster: https://theposterdb.com/api/assets/568754
     tpdb_search: https://theposterdb.com/search?term=Final+Destination+Bloodlines&section=movies
+    url_poster: https://theposterdb.com/api/assets/568754
   12:
     label_title: Finding Nemo
     release_year: '2003'
@@ -1250,15 +1106,9 @@ metadata:
     label_title: Friendship
     release_year: '2025'
     sort_title: Friendship
-    url_poster: https://theposterdb.com/api/assets/572636
     tpdb_search: https://theposterdb.com/search?term=Friendship&section=movies
+    url_poster: https://theposterdb.com/api/assets/572636
     studio: A24
-  541671:
-    label_title: From the World of John Wick Ballerina
-    release_year: '2025'
-    sort_title: From the World of John Wick Ballerina
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=From+the+World+of+John+Wick+Ballerina&section=movies
   228150:
     label_title: Fury
     release_year: '2014'
@@ -1295,12 +1145,6 @@ metadata:
     sort_title: Gladiator 2
     url_poster: https://theposterdb.com/api/assets/536335
     tpdb_search: https://theposterdb.com/search?term=Gladiator+II&section=movies
-  1359289:
-    label_title: 'Gladiator III '
-    release_year: Unknown
-    sort_title: 'Gladiator III '
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Gladiator+III+&section=movies
   450465:
     label_title: Glass
     release_year: '2019'
@@ -1513,12 +1357,6 @@ metadata:
     sort_title: Hobbit 3
     url_poster: https://theposterdb.com/api/assets/1725
     tpdb_search: https://theposterdb.com/search?term=The+Hobbit+The+Battle+of+the+Five+Armies&section=movies
-  1087192:
-    label_title: How to Train Your Dragon
-    release_year: '2025'
-    sort_title: How to Train Your Dragon
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=How+to+Train+Your+Dragon&section=movies
   10191:
     label_title: How to Train Your Dragon
     release_year: '2010'
@@ -1573,12 +1411,6 @@ metadata:
     sort_title: Hunger Games 5
     url_poster: https://theposterdb.com/api/assets/534798
     tpdb_search: https://theposterdb.com/search?term=The+Hunger+Games+The+Ballad+of+Songbirds+and+Snakes&section=movies
-  1083433:
-    label_title: I Know What You Did Last Summer
-    release_year: '2025'
-    sort_title: I Know What You Did Last Summer
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=I+Know+What+You+Did+Last+Summer&section=movies
   504253:
     label_title: I Want to Eat Your Pancreas
     release_year: '2018'
@@ -1631,12 +1463,6 @@ metadata:
     sort_title: Incredibles 2
     url_poster: https://theposterdb.com/api/assets/476
     tpdb_search: https://theposterdb.com/search?term=Incredibles+2&section=movies
-  1327821:
-    label_title: 'Incredibles 3 '
-    release_year: Unknown
-    sort_title: 'Incredibles 3 '
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Incredibles+3+&section=movies
   150540:
     label_title: Inside Out
     release_year: '2015'
@@ -1681,12 +1507,6 @@ metadata:
     sort_title: Insidious 5
     url_poster: https://theposterdb.com/api/assets/397612
     tpdb_search: https://theposterdb.com/search?term=Insidious+The+Red+Door&section=movies
-  1291595:
-    label_title: Insidious The Bleeding World
-    release_year: '2025'
-    sort_title: Insidious The Bleeding World
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Insidious+The+Bleeding+World&section=movies
   157336:
     label_title: Interstellar
     release_year: '2014'
@@ -1911,8 +1731,8 @@ metadata:
     label_title: Lilo & Stitch
     release_year: '2025'
     sort_title: Lilo & Stitch
-    url_poster: https://theposterdb.com/api/assets/211369
     tpdb_search: https://theposterdb.com/search?term=Lilo+%26+Stitch&section=movies
+    url_poster: https://theposterdb.com/api/assets/211369
   1083968:
     label_title: Locked
     release_year: '2025'
@@ -1974,12 +1794,6 @@ metadata:
     sort_title: Love Hurts
     url_poster: https://theposterdb.com/api/assets/564478
     tpdb_search: https://theposterdb.com/search?term=Love+Hurts&section=movies
-  1071585:
-    label_title: M3GAN 2.0
-    release_year: '2025'
-    sort_title: M3GAN 2.0
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=M3GAN+2.0&section=movies
   9659:
     label_title: Mad Max
     release_year: '1979'
@@ -2010,12 +1824,6 @@ metadata:
     sort_title: Mad Max 5
     url_poster: https://theposterdb.com/api/assets/465630
     tpdb_search: https://theposterdb.com/search?term=Furiosa+A+Mad+Max+Saga&section=movies
-  340023:
-    label_title: 'Mad Max The Wasteland '
-    release_year: Unknown
-    sort_title: 'Mad Max The Wasteland '
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Mad+Max+The+Wasteland+&section=movies
   634492:
     label_title: Madame Web
     release_year: '2024'
@@ -2041,12 +1849,6 @@ metadata:
     sort_title: Man of Steel
     url_poster: https://theposterdb.com/api/assets/40929
     tpdb_search: https://theposterdb.com/search?term=Man+of+Steel&section=movies
-  1228710:
-    label_title: The Mandalorian and Grogu
-    release_year: '2026'
-    sort_title: Mandalorian and Grogu
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=The+Mandalorian+and+Grogu&section=movies
   4481:
     label_title: Manon of the Spring
     release_year: '1986'
@@ -2181,12 +1983,6 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/360473
     tpdb_search: https://theposterdb.com/search?term=Midsommar&section=movies
     studio: A24
-  950387:
-    label_title: A Minecraft Movie
-    release_year: '2025'
-    sort_title: Minecraft Movie
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=A+Minecraft+Movie&section=movies
   211672:
     label_title: Minions
     release_year: '2015'
@@ -2249,10 +2045,8 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Mission+Impossible+-+Dead+Reckoning+Part+One&section=movies
   575265:
     label_title: Mission Impossible - The Final Reckoning
-    release_year: '2025'
     sort_title: Mission Impossible 8
     url_poster: https://image.tmdb.org/t/p/original/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg
-    tpdb_search: https://theposterdb.com/search?term=Mission+Impossible+-+The+Final+Reckoning&section=movies
   277834:
     label_title: Moana
     release_year: '2016'
@@ -2412,18 +2206,6 @@ metadata:
     sort_title: Now You See Me 2
     url_poster: https://theposterdb.com/api/assets/10167
     tpdb_search: https://theposterdb.com/search?term=Now+You+See+Me+2&section=movies
-  1457735:
-    label_title: 'Now You See Me 4 '
-    release_year: Unknown
-    sort_title: 'Now You See Me 4 '
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Now+You+See+Me+4+&section=movies
-  425274:
-    label_title: Now You See Me Now You Dont
-    release_year: '2025'
-    sort_title: Now You See Me Now You Dont
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Now+You+See+Me+Now+You+Dont&section=movies
   439079:
     label_title: The Nun
     release_year: '2018'
@@ -2668,12 +2450,6 @@ metadata:
     sort_title: Predator 5
     url_poster: https://theposterdb.com/api/assets/255438
     tpdb_search: https://theposterdb.com/search?term=Prey&section=movies
-  1242898:
-    label_title: Predator Badlands
-    release_year: '2025'
-    sort_title: Predator Badlands
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Predator+Badlands&section=movies
   1140535:
     label_title: Presence
     release_year: '2025'
@@ -2710,12 +2486,6 @@ metadata:
     sort_title: Puss in Boots 2
     url_poster: https://theposterdb.com/api/assets/289399
     tpdb_search: https://theposterdb.com/search?term=Puss+in+Boots+The+Last+Wish&section=movies
-  1324923:
-    label_title: 'A Quiet Place Part III '
-    release_year: Unknown
-    sort_title: 'Quiet Place Part III '
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=A+Quiet+Place+Part+III+&section=movies
   447332:
     label_title: A Quiet Place
     release_year: '2018'
@@ -2770,12 +2540,6 @@ metadata:
     sort_title: Ricky Stanicky
     url_poster: https://theposterdb.com/api/assets/507798
     tpdb_search: https://theposterdb.com/search?term=Ricky+Stanicky&section=movies
-  1233860:
-    label_title: 'Rogue Squadron '
-    release_year: Unknown
-    sort_title: 'Rogue Squadron '
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Rogue+Squadron+&section=movies
   848187:
     label_title: Role Play
     release_year: '2023'
@@ -2879,12 +2643,6 @@ metadata:
     sort_title: Shrek 4
     url_poster: https://theposterdb.com/api/assets/7001
     tpdb_search: https://theposterdb.com/search?term=Shrek+Forever+After&section=movies
-  421892:
-    label_title: Shrek 5
-    release_year: '2026'
-    sort_title: Shrek 5
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Shrek+5&section=movies
   11324:
     label_title: Shutter Island
     release_year: '2010'
@@ -2903,12 +2661,6 @@ metadata:
     sort_title: Sicario 2
     url_poster: https://theposterdb.com/api/assets/5944
     tpdb_search: https://theposterdb.com/search?term=Sicario+Day+of+the+Soldado&section=movies
-  1144323:
-    label_title: 'Sicario Capos '
-    release_year: Unknown
-    sort_title: 'Sicario Capos '
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Sicario+Capos+&section=movies
   274:
     label_title: The Silence of the Lambs
     release_year: '1991'
@@ -2933,12 +2685,6 @@ metadata:
     sort_title: Sinister 2
     url_poster: https://theposterdb.com/api/assets/108462
     tpdb_search: https://theposterdb.com/search?term=Sinister+2&section=movies
-  1233413:
-    label_title: Sinners
-    release_year: '2025'
-    sort_title: Sinners
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Sinners&section=movies
   1102493:
     label_title: Small Things Like These
     release_year: '2024'
@@ -2957,12 +2703,6 @@ metadata:
     sort_title: Smile 2
     url_poster: https://theposterdb.com/api/assets/545245
     tpdb_search: https://theposterdb.com/search?term=Smile+2&section=movies
-  447273:
-    label_title: Snow White
-    release_year: '2025'
-    sort_title: Snow White
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Snow+White&section=movies
   454626:
     label_title: Sonic the Hedgehog
     release_year: '2020'
@@ -2981,12 +2721,6 @@ metadata:
     sort_title: Sonic the Hedgehog 3
     url_poster: https://theposterdb.com/api/assets/564230
     tpdb_search: https://theposterdb.com/search?term=Sonic+the+Hedgehog+3&section=movies
-  1401586:
-    label_title: Sonic the Hedgehog 4
-    release_year: '2027'
-    sort_title: Sonic the Hedgehog 4
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Sonic+the+Hedgehog+4&section=movies
   1084863:
     label_title: The Soul Eater
     sort_title: Soul Eater
@@ -3018,12 +2752,6 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/163873
     tpdb_search: https://theposterdb.com/search?term=Spider-Man+3&section=movies
     studio: Marvel Entertainment
-  969681:
-    label_title: Spider-Man 4
-    release_year: '2026'
-    sort_title: Spider-Man 4
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Spider-Man+4&section=movies
   1930:
     label_title: The Amazing Spider-Man
     release_year: '2012'
@@ -3038,12 +2766,6 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/163877
     tpdb_search: https://theposterdb.com/search?term=The+Amazing+Spider-Man+2&section=movies
     studio: Marvel Entertainment
-  911916:
-    label_title: 'Spider-Man Beyond the Spider-Verse '
-    release_year: Unknown
-    sort_title: 'Spider-Man Beyond the Spider-Verse '
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Spider-Man+Beyond+the+Spider-Verse+&section=movies
   315635:
     label_title: Spider-Man Homecoming
     release_year: '2017'
@@ -3209,24 +2931,12 @@ metadata:
     sort_title: Suicide Squad 2
     url_poster: https://theposterdb.com/api/assets/167990
     tpdb_search: https://theposterdb.com/search?term=The+Suicide+Squad&section=movies
-  1272:
-    label_title: Sunshine
-    release_year: '2007'
-    sort_title: Sunshine
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Sunshine&section=movies
   502356:
     label_title: The Super Mario Bros. Movie
     release_year: '2023'
     sort_title: Super Mario Bros. Movie
     url_poster: https://theposterdb.com/api/assets/362613
     tpdb_search: https://theposterdb.com/search?term=The+Super+Mario+Bros.+Movie&section=movies
-  1061474:
-    label_title: Superman
-    release_year: '2025'
-    sort_title: Superman
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Superman&section=movies
   1008042:
     label_title: Talk to Me
     release_year: '2023'
@@ -3286,18 +2996,6 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/242770
     tpdb_search: https://theposterdb.com/search?term=Thor+Love+and+Thunder&section=movies
     studio: Marvel Studios
-  1134306:
-    label_title: 'Thread An Insidious Tale '
-    release_year: Unknown
-    sort_title: 'Thread An Insidious Tale '
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Thread+An+Insidious+Tale+&section=movies
-  986056:
-    label_title: Thunderbolts-
-    release_year: '2025'
-    sort_title: Thunderbolts-
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Thunderbolts-&section=movies
   597:
     label_title: Titanic
     release_year: '1997'
@@ -3316,12 +3014,6 @@ metadata:
     sort_title: Top Gun
     url_poster: https://theposterdb.com/api/assets/251519
     tpdb_search: https://theposterdb.com/search?term=Top+Gun&section=movies
-  1229934:
-    label_title: 'Top Gun 3 '
-    release_year: Unknown
-    sort_title: 'Top Gun 3 '
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Top+Gun+3+&section=movies
   361743:
     label_title: Top Gun Maverick
     release_year: '2022'
@@ -3358,12 +3050,6 @@ metadata:
     sort_title: Toy Story 4
     url_poster: https://theposterdb.com/api/assets/477
     tpdb_search: https://theposterdb.com/search?term=Toy+Story+4&section=movies
-  1084244:
-    label_title: Toy Story 5
-    release_year: '2026'
-    sort_title: Toy Story 5
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Toy+Story+5&section=movies
   1858:
     label_title: Transformers
     release_year: '2007'
@@ -3413,18 +3099,6 @@ metadata:
     sort_title: Transformers One
     url_poster: https://theposterdb.com/api/assets/537050
     tpdb_search: https://theposterdb.com/search?term=Transformers+One&section=movies
-  939345:
-    label_title: 'Transformers Rise of the Beasts 2 '
-    release_year: Unknown
-    sort_title: 'Transformers Rise of the Beasts 2 '
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Transformers+Rise+of+the+Beasts+2+&section=movies
-  939347:
-    label_title: 'Transformers Rise of the Beasts 3 '
-    release_year: Unknown
-    sort_title: 'Transformers Rise of the Beasts 3 '
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Transformers+Rise+of+the+Beasts+3+&section=movies
   97:
     label_title: Tron
     release_year: '1982'
@@ -3437,12 +3111,6 @@ metadata:
     sort_title: Tron 2
     url_poster: https://theposterdb.com/api/assets/6986
     tpdb_search: https://theposterdb.com/search?term=TRON+Legacy&section=movies
-  533533:
-    label_title: TRON Ares
-    release_year: '2025'
-    sort_title: TRON Ares
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=TRON+Ares&section=movies
   8966:
     label_title: Twilight
     release_year: '2008'
@@ -3473,12 +3141,6 @@ metadata:
     sort_title: Twilight 5
     url_poster: https://theposterdb.com/api/assets/1137
     tpdb_search: https://theposterdb.com/search?term=The+Twilight+Saga+Breaking+Dawn+Part+2&section=movies
-  1245347:
-    label_title: Twinless
-    release_year: '2025'
-    sort_title: Twinless
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Twinless&section=movies
   718821:
     label_title: Twisters
     release_year: '2024'
@@ -3498,30 +3160,6 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/360535
     tpdb_search: https://theposterdb.com/search?term=Uncut+Gems&section=movies
     studio: A24
-  1232546:
-    label_title: Until Dawn
-    release_year: '2025'
-    sort_title: Until Dawn
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Until+Dawn&section=movies
-  1014268:
-    label_title: 'Untitled Annabelle Film '
-    release_year: Unknown
-    sort_title: 'Untitled Annabelle Film '
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Untitled+Annabelle+Film+&section=movies
-  1376434:
-    label_title: 'Untitled Predator Film '
-    release_year: Unknown
-    sort_title: 'Untitled Predator Film '
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Untitled+Predator+Film+&section=movies
-  949966:
-    label_title: 'Untitled Star Wars New Jedi Order Film '
-    release_year: Unknown
-    sort_title: 'Untitled Star Wars New Jedi Order Film '
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Untitled+Star+Wars+New+Jedi+Order+Film+&section=movies
   14160:
     label_title: Up
     release_year: '2009'
@@ -3625,12 +3263,6 @@ metadata:
     sort_title: Wicked
     url_poster: https://theposterdb.com/api/assets/497899
     tpdb_search: https://theposterdb.com/search?term=Wicked&section=movies
-  967941:
-    label_title: Wicked For Good
-    release_year: '2025'
-    sort_title: Wicked For Good
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Wicked+For+Good&section=movies
   1184918:
     label_title: The Wild Robot
     release_year: '2024'
