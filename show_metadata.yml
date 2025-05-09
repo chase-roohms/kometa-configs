@@ -884,11 +884,15 @@ metadata:
     label_title: Hells Paradise
     release_year: '2023'
     sort_title: Hells Paradise
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/341624
     tpdb_search: https://theposterdb.com/search?term=Hells+Paradise&section=shows
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/450298
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/341625
+      2:
+        url_poster: https://theposterdb.com/api/assets/450297
   364038:
     label_title: Helstrom
     release_year: '2020'
