@@ -1837,6 +1837,17 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/430866
       3:
         url_poster: https://theposterdb.com/api/assets/564358
+  405593:
+    label_title: The Rehearsal
+    release_year: '2022'
+    sort_title: Rehearsal
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Rehearsal&section=shows
+    seasons:
+      2:
+        url_poster: ''
+      1:
+        url_poster: ''
   72336:
     label_title: Reno 911!
     release_year: '2003'
