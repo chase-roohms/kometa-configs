@@ -150,14 +150,14 @@ metadata:
   518068:
     label_title: Along with the Gods The Last 49 Days
     release_year: '2018'
-    sort_title: Along with the Gods The Last 49 Days
-    url_poster: ''
+    sort_title: Along with the Gods 2
+    url_poster: https://theposterdb.com/api/assets/45221
     tpdb_search: https://theposterdb.com/search?term=Along+with+the+Gods+The+Last+49+Days&section=movies
   397567:
     label_title: Along with the Gods The Two Worlds
     release_year: '2017'
-    sort_title: Along with the Gods The Two Worlds
-    url_poster: ''
+    sort_title: Along with the Gods 1
+    url_poster: https://theposterdb.com/api/assets/45220
     tpdb_search: https://theposterdb.com/search?term=Along+with+the+Gods+The+Two+Worlds&section=movies
   153518:
     label_title: The Angry Birds Movie
@@ -2947,7 +2947,7 @@ metadata:
     label_title: Sunshine
     release_year: '2007'
     sort_title: Sunshine
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/211559
     tpdb_search: https://theposterdb.com/search?term=Sunshine&section=movies
   502356:
     label_title: The Super Mario Bros. Movie
