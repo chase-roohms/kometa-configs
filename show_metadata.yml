@@ -1929,13 +1929,13 @@ metadata:
     label_title: Salad Fingers
     release_year: '2004'
     sort_title: Salad Fingers
-    url_poster: ''
+    url_poster: https://artworks.thetvdb.com/banners/posters/233181-2.jpg
     tpdb_search: https://theposterdb.com/search?term=Salad+Fingers&section=shows
     seasons:
       0:
-        url_poster: ''
+        url_poster: https://files.ekmcdn.com/3d4448/images/salad-fingers-face-a3-poster-233-1-p.jpg
       1:
-        url_poster: ''
+        url_poster: https://files.ekmcdn.com/3d4448/images/salad-fingers-20th-anniversary-2004-a3-poster-339-1-p.jpg?w=1000&h=1000&v=A8DDCD68-040D-473D-9A1A-5C0FC0486502
   366211:
     label_title: The Sandman
     release_year: '2022'
