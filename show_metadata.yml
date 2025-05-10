@@ -1925,6 +1925,17 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/586166
       1:
         url_poster: https://theposterdb.com/api/assets/561172
+  233181:
+    label_title: Salad Fingers
+    release_year: '2004'
+    sort_title: Salad Fingers
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Salad+Fingers&section=shows
+    seasons:
+      0:
+        url_poster: ''
+      1:
+        url_poster: ''
   366211:
     label_title: The Sandman
     release_year: '2022'
