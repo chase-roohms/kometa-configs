@@ -1036,7 +1036,7 @@ metadata:
     label_title: Fight or Flight
     release_year: '2025'
     sort_title: Fight or Flight
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/597408
     tpdb_search: https://theposterdb.com/search?term=Fight+or+Flight&section=movies
   9532:
     label_title: Final Destination
