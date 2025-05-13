@@ -1245,7 +1245,7 @@ metadata:
     label_title: Gracies Choice
     release_year: '2004'
     sort_title: Gracies Choice
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/603985
     tpdb_search: https://theposterdb.com/search?term=Gracies+Choice&section=movies
   118340:
     label_title: Guardians of the Galaxy
