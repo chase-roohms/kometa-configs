@@ -2787,6 +2787,12 @@ metadata:
     sort_title: Smile 2
     url_poster: https://theposterdb.com/api/assets/545245
     tpdb_search: https://theposterdb.com/search?term=Smile+2&section=movies
+  447273:
+    label_title: Snow White
+    release_year: '2025'
+    sort_title: Snow White
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Snow+White&section=movies
   454626:
     label_title: Sonic the Hedgehog
     release_year: '2020'
