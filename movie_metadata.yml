@@ -2067,6 +2067,12 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/360473
     tpdb_search: https://theposterdb.com/search?term=Midsommar&section=movies
     studio: A24
+  950387:
+    label_title: A Minecraft Movie
+    release_year: '2025'
+    sort_title: Minecraft Movie
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=A+Minecraft+Movie&section=movies
   211672:
     label_title: Minions
     release_year: '2015'
