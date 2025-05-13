@@ -2791,7 +2791,7 @@ metadata:
     label_title: Snow White
     release_year: '2025'
     sort_title: Snow White
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/585404
     tpdb_search: https://theposterdb.com/search?term=Snow+White&section=movies
   454626:
     label_title: Sonic the Hedgehog
