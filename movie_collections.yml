@@ -34,14 +34,14 @@ collections:
     template:
       name: Radarr
       radarr_tag: 5 - jasonebbeler
-    url_poster: https://i.imgur.com/kgNbCia.png
+    url_poster: https://i.imgur.com/9QtFGa6.png
   eddboi:
     template:
       name: Radarr
       radarr_tag: 6 - eddboi
-    url_poster: https://i.imgur.com/JLWiSJQ.png
+    url_poster: https://i.imgur.com/04wW38q.png
   scottsuduth:
     template:
       name: Radarr
       radarr_tag: 7 - scottsuduth
-    url_poster: https://i.imgur.com/XfYuFfq.png
+    url_poster: https://i.imgur.com/sLzyb2A.png
