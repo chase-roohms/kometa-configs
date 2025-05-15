@@ -2450,13 +2450,13 @@ metadata:
     label_title: Vice Principals
     release_year: '2016'
     sort_title: Vice Principals
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/150025
     tpdb_search: https://theposterdb.com/search?term=Vice+Principals&section=shows
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/150026
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/150027
   362392:
     label_title: WandaVision
     release_year: '2021'
