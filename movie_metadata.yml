@@ -2640,7 +2640,7 @@ metadata:
     label_title: The Road
     release_year: '2009'
     sort_title: Road
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/123152
     tpdb_search: https://theposterdb.com/search?term=The+Road&section=movies
   848187:
     label_title: Role Play
