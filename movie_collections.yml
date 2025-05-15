@@ -7,6 +7,7 @@ templates:
     sort_title: '!000_<<radarr_tag>>'
     radarr_taglist: <<radarr_tag>>
     collection_order: alpha
+    minimum_items: 1
 
 collections:
   neonvariant:
@@ -29,3 +30,18 @@ collections:
       name: Radarr
       radarr_tag: 4 - neonmovies3
     url_poster: https://i.imgur.com/QFjgfeB.png
+  jasonebbeler:
+    template:
+      name: Radarr
+      radarr_tag: 5 - jasonebbeler
+    url_poster: https://i.imgur.com/kgNbCia.png
+  eddboi:
+    template:
+      name: Radarr
+      radarr_tag: 6 - eddboi
+    url_poster: https://i.imgur.com/JLWiSJQ.png
+  scottsuduth:
+    template:
+      name: Radarr
+      radarr_tag: 7 - scottsuduth
+    url_poster: https://i.imgur.com/XfYuFfq.png
