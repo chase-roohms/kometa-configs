@@ -1918,6 +1918,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/370861
       4:
         url_poster: https://theposterdb.com/api/assets/581512
+      0:
+        url_poster: ''
   423732:
     label_title: Sakamoto Days
     sort_title: Sakamoto Days
