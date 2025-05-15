@@ -1910,6 +1910,33 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/138364
     tpdb_search: https://theposterdb.com/search?term=The+Righteous+Gemstones&section=shows
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/604765
+        episodes:
+          1:
+            title: A Day in the Life with Adam Devine
+            summary: A day in the life of a righteous Gemstone.
+          2:
+            title: A Day in the Life with Edi Peterson
+            summary: Everyone gets tipped!
+          3:
+            title: Funniest Bloopers from Season 2
+            summary: The Blessed Bloopers have risen.
+          4:
+            title: A Day in the Life with Tony Cavalero
+            summary: Tony Cavalero can impersonate me any day.
+          5:
+            title: A Day in the Life with Tony Cavalero Pt.2
+            summary: When Tony Cavalero gets on set, he brings the (hell)fire.
+          6:
+            title: "The Righteous Gemstones' Best Insults"
+            summary: Words of affirmations courtesy of Jesse (Danny McBride), Judy (Edi Patterson), and Kelvin (Adam DeVine) Gemstone.
+          7:
+            title: A Day in the Life with Tim Baltz
+            summary: "Saint Judy isn't the only one who’s slick."
+          8:
+            title: Funniest Bloopers from Season 4
+            summary: Even the outtakes are in His name.
       1:
         url_poster: https://theposterdb.com/api/assets/138365
       2:
@@ -1918,8 +1945,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/370861
       4:
         url_poster: https://theposterdb.com/api/assets/581512
-      0:
-        url_poster: ''
   423732:
     label_title: Sakamoto Days
     sort_title: Sakamoto Days
