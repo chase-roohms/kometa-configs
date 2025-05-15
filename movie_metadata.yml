@@ -1884,6 +1884,12 @@ metadata:
     sort_title: Love Hurts
     url_poster: https://theposterdb.com/api/assets/564478
     tpdb_search: https://theposterdb.com/search?term=Love+Hurts&section=movies
+  846867:
+    label_title: Mad God
+    release_year: '2021'
+    sort_title: Mad God
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Mad+God&section=movies
   9659:
     label_title: Mad Max
     release_year: '1979'
