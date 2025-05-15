@@ -1929,11 +1929,12 @@ metadata:
             title: A Day in the Life with Tony Cavalero Pt.2
             summary: When Tony Cavalero gets on set, he brings the (hell)fire.
           6:
-            title: "The Righteous Gemstones' Best Insults"
-            summary: Words of affirmations courtesy of Jesse (Danny McBride), Judy (Edi Patterson), and Kelvin (Adam DeVine) Gemstone.
+            title: The Righteous Gemstones' Best Insults
+            summary: Words of affirmations courtesy of Jesse (Danny McBride), Judy
+              (Edi Patterson), and Kelvin (Adam DeVine) Gemstone.
           7:
             title: A Day in the Life with Tim Baltz
-            summary: "Saint Judy isn't the only one who’s slick."
+            summary: Saint Judy isn't the only one who’s slick.
           8:
             title: Funniest Bloopers from Season 4
             summary: Even the outtakes are in His name.
@@ -2445,6 +2446,17 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/371906
       11:
         url_poster: https://theposterdb.com/api/assets/371895
+  308771:
+    label_title: Vice Principals
+    release_year: '2016'
+    sort_title: Vice Principals
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Vice+Principals&section=shows
+    seasons:
+      1:
+        url_poster: ''
+      2:
+        url_poster: ''
   362392:
     label_title: WandaVision
     release_year: '2021'
