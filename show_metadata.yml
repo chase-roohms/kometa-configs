@@ -1316,6 +1316,8 @@ metadata:
             url_poster: https://api.mediux.pro/assets/e2f03eee-bb27-4099-83fb-c9428a373f4c
           9:
             url_poster: https://api.mediux.pro/assets/ab02f0fa-39f2-448a-942f-bbfdcbe0e70d
+      4:
+        url_poster: ''
   299139:
     title: The Magicians
     sort_title: Magicians
