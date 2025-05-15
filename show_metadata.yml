@@ -2343,17 +2343,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/587071
       6:
         url_poster: https://theposterdb.com/api/assets/587069
-  317682:
-    label_title: To Be Hero
-    release_year: '2016'
-    sort_title: To Be Hero
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=To+Be+Hero&section=shows
-    seasons:
-      2:
-        url_poster: ''
-      1:
-        url_poster: ''
   459453:
     label_title: To be Hero X
     release_year: '2025'
