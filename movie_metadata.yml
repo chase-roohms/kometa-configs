@@ -3377,6 +3377,12 @@ metadata:
     sort_title: What We Do in the Shadows
     url_poster: https://theposterdb.com/api/assets/100401
     tpdb_search: https://theposterdb.com/search?term=What+We+Do+in+the+Shadows&section=movies
+  433310:
+    label_title: When We First Met
+    release_year: '2018'
+    sort_title: When We First Met
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=When+We+First+Met&section=movies
   244786:
     label_title: Whiplash
     release_year: '2014'
