@@ -205,11 +205,13 @@ metadata:
     label_title: B - The Beginning
     release_year: '2018'
     sort_title: B - The Beginning
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/396382
     tpdb_search: https://theposterdb.com/search?term=B+-+The+Beginning&section=shows
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/396383
+      1:
+        url_poster: https://theposterdb.com/api/assets/396384
   417223:
     label_title: Baby Reindeer
     release_year: '2024'
@@ -384,11 +386,15 @@ metadata:
     label_title: Blood Blockade Battlefront
     release_year: '2015'
     sort_title: Blood Blockade Battlefront
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/415612
     tpdb_search: https://theposterdb.com/search?term=Blood+Blockade+Battlefront&section=shows
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/415613
+      1:
+        url_poster: https://theposterdb.com/api/assets/415614
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/415615
   393589:
     label_title: The Book of Boba Fett
     release_year: '2021'
