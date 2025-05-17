@@ -209,8 +209,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=B+-+The+Beginning&section=shows
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/396383
-      1:
         url_poster: https://theposterdb.com/api/assets/396384
   417223:
     label_title: Baby Reindeer
