@@ -386,6 +386,7 @@ metadata:
     sort_title: Blood Blockade Battlefront
     url_poster: https://theposterdb.com/api/assets/415612
     tpdb_search: https://theposterdb.com/search?term=Blood+Blockade+Battlefront&section=shows
+    audio_language: ja-JP
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/415613
