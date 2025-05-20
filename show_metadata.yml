@@ -580,13 +580,20 @@ metadata:
     label_title: DAN DA DAN
     release_year: '2024'
     sort_title: DAN DA DAN
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/470038
     tpdb_search: https://theposterdb.com/search?term=DAN+DA+DAN&section=shows
     seasons:
-      1:
-        url_poster: ''
       0:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/503497
+        episodes:
+          1:
+            title: 'Opening: Otonoke by Creepy Nuts'
+            summary: 'Opening song "Otonoke" written by Creepy Nuts'
+            url_poster: https://i.imgur.com/rK28QU2.png
+      1:
+        url_poster: https://theposterdb.com/api/assets/470039
+      2:
+        url_poster: https://theposterdb.com/api/assets/554670
   422712:
     label_title: Daredevil - Born Again
     release_year: '2025'
