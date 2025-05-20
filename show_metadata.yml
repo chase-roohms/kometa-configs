@@ -487,29 +487,34 @@ metadata:
     seasons:
       2025:
         url_poster: https://i.imgur.com/epRlHse.png
-        summary: New year, new you! Start 2025 off strong with this 31 day Weight
+        summary: 'New year, new you! Start 2025 off strong with this 31 day Weight
           Loss Challenge! This full body program is suitable for all fitness levels
-          as you can modify the exercises as necessary with low impact and no 
-          jumping alternatives. No equipment is required.
+          as you can modify the exercises as necessary with low impact and no jumping
+          alternatives. No equipment is required.
 
-          Get the full schedule at chloeting.com/program/2025/weight-loss-challenge
+          Get the full schedule at chloeting.com/program/2025/weight-loss-challenge'
         episodes:
-          1: 
+          1:
             title: 5 Min Warm Up
-            summary: A 5 min full body warm up video that you can do before starting your workouts.
-          2: 
+            summary: A 5 min full body warm up video that you can do before starting
+              your workouts.
+          2:
             title: 30 Min Killer Cardio Workout
-            summary: This is a 30 min full body cardio workout using just your body weight.
-          3: 
+            summary: This is a 30 min full body cardio workout using just your body
+              weight.
+          3:
             title: 15 Min Back, Arms, and Core Workout
-            summary: This is an upper body workout using just your body weight. You can use dumbbells or resistance bands if you would like to.
-          4: 
+            summary: This is an upper body workout using just your body weight. You
+              can use dumbbells or resistance bands if you would like to.
+          4:
             title: 20 Min Lower Body Workout
-            summary: This is a lower body workout using just your body weight. You can use dumbbells or resistance bands if you would like to.
-          5: 
+            summary: This is a lower body workout using just your body weight. You
+              can use dumbbells or resistance bands if you would like to.
+          5:
             title: 10 Min Intense Abs Workout
-            summary: This is a 10 min abs workout that should give your core a great burn.
-          6: 
+            summary: This is a 10 min abs workout that should give your core a great
+              burn.
+          6:
             title: 20 Min HIIT Cardio Workout
             summary: This is a full body HIIT workout.
   436198:
@@ -579,6 +584,8 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=DAN+DA+DAN&section=shows
     seasons:
       1:
+        url_poster: ''
+      0:
         url_poster: ''
   422712:
     label_title: Daredevil - Born Again
