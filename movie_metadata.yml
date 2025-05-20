@@ -679,6 +679,12 @@ metadata:
     sort_title: Cat Returns
     url_poster: https://theposterdb.com/api/assets/24668
     tpdb_search: https://theposterdb.com/search?term=The+Cat+Returns&section=movies
+  640:
+    label_title: Catch Me If You Can
+    release_year: '2002'
+    sort_title: Catch Me If You Can
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Catch+Me+If+You+Can&section=movies
   937287:
     label_title: Challengers
     release_year: '2024'
