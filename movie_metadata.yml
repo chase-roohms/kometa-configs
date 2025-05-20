@@ -683,7 +683,7 @@ metadata:
     label_title: Catch Me If You Can
     release_year: '2002'
     sort_title: Catch Me If You Can
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/573337
     tpdb_search: https://theposterdb.com/search?term=Catch+Me+If+You+Can&section=movies
   937287:
     label_title: Challengers
