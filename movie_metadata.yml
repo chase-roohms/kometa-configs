@@ -3075,6 +3075,18 @@ metadata:
     sort_title: Super Mario Bros. Movie
     url_poster: https://theposterdb.com/api/assets/362613
     tpdb_search: https://theposterdb.com/search?term=The+Super+Mario+Bros.+Movie&section=movies
+  39939:
+    label_title: Super Troopers
+    release_year: '2001'
+    sort_title: Super Troopers
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Super+Troopers&section=movies
+  50022:
+    label_title: Super Troopers 2
+    release_year: '2018'
+    sort_title: Super Troopers 2
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Super+Troopers+2&section=movies
   1008042:
     label_title: Talk to Me
     release_year: '2023'
@@ -3304,6 +3316,12 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/360535
     tpdb_search: https://theposterdb.com/search?term=Uncut+Gems&section=movies
     studio: A24
+  1232546:
+    label_title: Until Dawn
+    release_year: '2025'
+    sort_title: Until Dawn
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Until+Dawn&section=movies
   14160:
     label_title: Up
     release_year: '2009'
