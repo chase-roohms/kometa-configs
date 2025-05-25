@@ -1038,6 +1038,12 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/163908
     tpdb_search: https://theposterdb.com/search?term=Fantastic+Four&section=movies
     studio: Marvel Studios
+  1001414:
+    label_title: Fear Street Prom Queen
+    release_year: '2025'
+    sort_title: Fear Street Prom Queen
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Fear+Street+Prom+Queen&section=movies
   550:
     label_title: Fight Club
     release_year: '1999'
