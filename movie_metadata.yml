@@ -1038,24 +1038,24 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/163908
     tpdb_search: https://theposterdb.com/search?term=Fantastic+Four&section=movies
     studio: Marvel Studios
+  591273:
+    label_title: Fear Street 1994
+    sort_title: Fear Street 1
+    url_poster: https://theposterdb.com/api/assets/598984
+  591274:
+    label_title: Fear Street 1978
+    sort_title: Fear Street 2
+    url_poster: https://theposterdb.com/api/assets/598983
+  591275:
+    label_title: Fear Street 1666
+    sort_title: Fear Street 3
+    url_poster: https://theposterdb.com/api/assets/598982
   1001414:
     label_title: Fear Street Prom Queen
     release_year: '2025'
     sort_title: Fear Street 4
     url_poster: https://theposterdb.com/api/assets/598985
     tpdb_search: https://theposterdb.com/search?term=Fear+Street+Prom+Queen&section=movies
-  591273:
-    label_title: Fear Street 1994
-    sort_title: Fear Street 1
-    url_poster: https://theposterdb.com/api/assets/598984
-  591273:
-    label_title: Fear Street 1978
-    sort_title: Fear Street 2
-    url_poster: https://theposterdb.com/api/assets/598983
-  591273:
-    label_title: Fear Street 1666
-    sort_title: Fear Street 3
-    url_poster: https://theposterdb.com/api/assets/598982
   550:
     label_title: Fight Club
     release_year: '1999'
