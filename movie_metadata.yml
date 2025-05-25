@@ -980,6 +980,12 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/360561
     tpdb_search: https://theposterdb.com/search?term=Everything+Everywhere+All+at+Once&section=movies
     studio: A24
+  1233069:
+    label_title: Exterritorial
+    release_year: '2025'
+    sort_title: Exterritorial
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Exterritorial&section=movies
   746036:
     label_title: The Fall Guy
     release_year: '2024'
@@ -1126,6 +1132,12 @@ metadata:
     label_title: Forrest Gump
     sort_title: Forrest Gump
     url_poster: https://theposterdb.com/api/assets/487271
+  1098006:
+    label_title: Fountain of Youth
+    release_year: '2025'
+    sort_title: Fountain of Youth
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Fountain+of+Youth&section=movies
   1239655:
     label_title: Friendship
     release_year: '2025'
