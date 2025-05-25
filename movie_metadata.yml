@@ -984,7 +984,7 @@ metadata:
     label_title: Exterritorial
     release_year: '2025'
     sort_title: Exterritorial
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/599438
     tpdb_search: https://theposterdb.com/search?term=Exterritorial&section=movies
   746036:
     label_title: The Fall Guy
@@ -1041,9 +1041,21 @@ metadata:
   1001414:
     label_title: Fear Street Prom Queen
     release_year: '2025'
-    sort_title: Fear Street Prom Queen
-    url_poster: ''
+    sort_title: Fear Street 4
+    url_poster: https://theposterdb.com/api/assets/598985
     tpdb_search: https://theposterdb.com/search?term=Fear+Street+Prom+Queen&section=movies
+  591273:
+    label_title: Fear Street 1994
+    sort_title: Fear Street 1
+    url_poster: https://theposterdb.com/api/assets/598984
+  591273:
+    label_title: Fear Street 1978
+    sort_title: Fear Street 2
+    url_poster: https://theposterdb.com/api/assets/598983
+  591273:
+    label_title: Fear Street 1666
+    sort_title: Fear Street 3
+    url_poster: https://theposterdb.com/api/assets/598982
   550:
     label_title: Fight Club
     release_year: '1999'
@@ -1142,7 +1154,7 @@ metadata:
     label_title: Fountain of Youth
     release_year: '2025'
     sort_title: Fountain of Youth
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/607168
     tpdb_search: https://theposterdb.com/search?term=Fountain+of+Youth&section=movies
   1239655:
     label_title: Friendship
