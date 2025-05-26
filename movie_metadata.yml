@@ -337,6 +337,12 @@ metadata:
     label_title: Bagman
     sort_title: Bagman
     url_poster: https://theposterdb.com/api/assets/535184
+  541671:
+    label_title: From the World of John Wick Ballerina
+    release_year: '2025'
+    sort_title: Ballerina
+    url_poster: https://theposterdb.com/api/assets/580974
+    tpdb_search: https://theposterdb.com/search?term=From+the+World+of+John+Wick+Ballerina&section=movies
   31665:
     label_title: Barbarosa
     release_year: '1982'
@@ -1723,25 +1729,25 @@ metadata:
     label_title: John Wick
     release_year: '2014'
     sort_title: John Wick 1
-    url_poster: https://theposterdb.com/api/assets/17551
+    url_poster: https://theposterdb.com/api/assets/352410
     tpdb_search: https://theposterdb.com/search?term=John+Wick&section=movies
   324552:
     label_title: John Wick Chapter 2
     release_year: '2017'
     sort_title: John Wick 2
-    url_poster: https://theposterdb.com/api/assets/17552
+    url_poster: https://theposterdb.com/api/assets/352411
     tpdb_search: https://theposterdb.com/search?term=John+Wick+Chapter+2&section=movies
   458156:
     label_title: John Wick Chapter 3 Parabellum
     release_year: '2019'
     sort_title: John Wick 3
-    url_poster: https://theposterdb.com/api/assets/17553
+    url_poster: https://theposterdb.com/api/assets/352412
     tpdb_search: https://theposterdb.com/search?term=John+Wick+Chapter+3+Parabellum&section=movies
   603692:
     label_title: John Wick Chapter 4
     release_year: '2023'
     sort_title: John Wick 4
-    url_poster: https://theposterdb.com/api/assets/372607
+    url_poster: https://theposterdb.com/api/assets/352413
     tpdb_search: https://theposterdb.com/search?term=John+Wick+Chapter+4&section=movies
   515001:
     label_title: Jojo Rabbit
