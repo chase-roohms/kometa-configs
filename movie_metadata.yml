@@ -2528,7 +2528,7 @@ metadata:
     label_title: Pixels
     release_year: '2015'
     sort_title: Pixels
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/51361
     tpdb_search: https://theposterdb.com/search?term=Pixels&section=movies
   61791:
     label_title: Rise of the Planet of the Apes
