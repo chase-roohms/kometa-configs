@@ -1775,8 +1775,10 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Joker+Folie+à+Deux&section=movies
   329:
     label_title: Jurassic Park
+    release_year: '1993'
     sort_title: Jurassic Park 1
     url_poster: https://theposterdb.com/api/assets/530815
+    tpdb_search: https://theposterdb.com/search?term=Jurassic+Park&section=movies
   330:
     label_title: The Lost World Jurassic Park
     release_year: '1997'
