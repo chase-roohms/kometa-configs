@@ -2115,12 +2115,6 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/437526
     tpdb_search: https://theposterdb.com/search?term=Mean+Girls&section=movies
   536554:
-    label_title: M3gan
-    release_year: '2022'
-    sort_title: Megan 1
-    url_poster: https://theposterdb.com/api/assets/590838
-    tpdb_search: https://theposterdb.com/search?term=M3gan&section=movies
-  536554:
     label_title: M3gan 2.0
     release_year: '2025'
     sort_title: Megan 2
@@ -2865,12 +2859,6 @@ metadata:
     sort_title: Simple Plan
     url_poster: https://theposterdb.com/api/assets/36103
     tpdb_search: https://theposterdb.com/search?term=A+Simple+Plan&section=movies
-  1233413:
-    label_title: Sinners
-    release_year: '2025'
-    sort_title: Sinners
-    url_poster: https://theposterdb.com/api/assets/584649
-    tpdb_search: https://theposterdb.com/search?term=Sinners&section=movies
   82507:
     label_title: Sinister
     release_year: '2012'
@@ -2883,6 +2871,12 @@ metadata:
     sort_title: Sinister 2
     url_poster: https://theposterdb.com/api/assets/108462
     tpdb_search: https://theposterdb.com/search?term=Sinister+2&section=movies
+  1233413:
+    label_title: Sinners
+    release_year: '2025'
+    sort_title: Sinners
+    url_poster: https://theposterdb.com/api/assets/584649
+    tpdb_search: https://theposterdb.com/search?term=Sinners&section=movies
   1102493:
     label_title: Small Things Like These
     release_year: '2024'
