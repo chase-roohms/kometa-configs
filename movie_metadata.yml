@@ -2115,10 +2115,16 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/437526
     tpdb_search: https://theposterdb.com/search?term=Mean+Girls&section=movies
   536554:
+    label_title: M3gan
+    release_year: '2022'
+    sort_title: Megan 1
+    url_poster: https://theposterdb.com/api/assets/590838
+    tpdb_search: https://theposterdb.com/search?term=M3gan&section=movies
+  1071585:
     label_title: M3gan 2.0
     release_year: '2025'
     sort_title: Megan 2
-    url_poster: https://theposterdb.com/api/assets/1071585
+    url_poster: https://theposterdb.com/api/assets/590837
     tpdb_search: https://theposterdb.com/search?term=M3gan+2.0&section=movies
   77:
     label_title: Memento
