@@ -1974,6 +1974,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/263703
       7:
         url_poster: https://theposterdb.com/api/assets/414032
+      8:
+        url_poster: ''
   420279:
     label_title: Rick and Morty - The Anime
     release_year: '2024'
