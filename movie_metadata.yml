@@ -1773,12 +1773,36 @@ metadata:
     sort_title: Joker 2
     url_poster: https://theposterdb.com/api/assets/535282
     tpdb_search: https://theposterdb.com/search?term=Joker+Folie+à+Deux&section=movies
+  329:
+    label_title: Jurassic Park
+    sort_title: Jurassic Park 1
+    url_poster: https://theposterdb.com/api/assets/530815
+  330:
+    label_title: The Lost World Jurassic Park
+    sort_title: Jurassic Park 2
+    url_poster: https://theposterdb.com/api/assets/530814
+  331:
+    label_title: Jurassic Park III
+    sort_title: Jurassic Park 3
+    url_poster: https://theposterdb.com/api/assets/530813
+  135397:
+    label_title: Jurassic World
+    sort_title: Jurassic Park 4
+    url_poster: https://theposterdb.com/api/assets/530812
+  351286:
+    label_title: Jurassic World Fallen Kingdom
+    sort_title: Jurassic Park 5
+    url_poster: https://theposterdb.com/api/assets/530811
   507086:
-    label_title: Jurassic World Dominion
+    label_title: Jurassic Park Dominion
     release_year: '2022'
-    sort_title: Jurassic World Dominion
-    url_poster: ''
+    sort_title: Jurassic Park 6
+    url_poster: https://theposterdb.com/api/assets/530810
     tpdb_search: https://theposterdb.com/search?term=Jurassic+World+Dominion&section=movies
+  1234821:
+    label_title: Jurassic World Rebirth
+    sort_title: Jurassic Park 7
+    url_poster: https://theposterdb.com/api/assets/606225
   141052:
     label_title: Justice League
     release_year: '2017'
