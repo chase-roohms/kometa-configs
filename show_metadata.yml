@@ -2520,6 +2520,7 @@ metadata:
         url_poster: https://api.mediux.pro/assets/5042b9f6-1948-4eca-bca6-b344da40377d
       48:
         url_poster: https://api.mediux.pro/assets/e9c2f94a-9da0-4863-b256-ee65e994bf24
+    tpdb_search: https://theposterdb.com/search?term=Survivor&section=shows
   405661:
     label_title: Takt op.Destiny
     sort_title: Takt op.Destiny
