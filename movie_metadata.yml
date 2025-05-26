@@ -2524,6 +2524,12 @@ metadata:
     sort_title: Pirates of the Caribbean 5
     url_poster: https://theposterdb.com/api/assets/71939
     tpdb_search: https://theposterdb.com/search?term=Pirates+of+the+Caribbean+Dead+Men+Tell+No+Tales&section=movies
+  257344:
+    label_title: Pixels
+    release_year: '2015'
+    sort_title: Pixels
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Pixels&section=movies
   61791:
     label_title: Rise of the Planet of the Apes
     release_year: '2011'
