@@ -3,14 +3,20 @@ metadata:
     label_title: 28 Days Later
     release_year: '2002'
     sort_title: 28 Later 1
-    url_poster: https://theposterdb.com/api/assets/4964
+    url_poster: https://theposterdb.com/api/assets/530505
     tpdb_search: https://theposterdb.com/search?term=28+Days+Later&section=movies
   1562:
     label_title: 28 Weeks Later
     release_year: '2007'
     sort_title: 28 Later 2
-    url_poster: https://theposterdb.com/api/assets/4965
+    url_poster: https://theposterdb.com/api/assets/530504
     tpdb_search: https://theposterdb.com/search?term=28+Weeks+Later&section=movies
+  1100988:
+    label_title: 28 Years Later
+    release_year: '2025'
+    sort_title: 28 Later 3
+    url_poster: https://theposterdb.com/api/assets/530503
+    tpdb_search: https://theposterdb.com/search?term=28+Years+Later&section=movies
   1271:
     label_title: '300'
     release_year: '2007'
@@ -2108,6 +2114,18 @@ metadata:
     sort_title: Mean Girls
     url_poster: https://theposterdb.com/api/assets/437526
     tpdb_search: https://theposterdb.com/search?term=Mean+Girls&section=movies
+  536554:
+    label_title: M3gan
+    release_year: '2022'
+    sort_title: Megan 1
+    url_poster: https://theposterdb.com/api/assets/590838
+    tpdb_search: https://theposterdb.com/search?term=M3gan&section=movies
+  536554:
+    label_title: M3gan 2.0
+    release_year: '2025'
+    sort_title: Megan 2
+    url_poster: https://theposterdb.com/api/assets/1071585
+    tpdb_search: https://theposterdb.com/search?term=M3gan+2.0&section=movies
   77:
     label_title: Memento
     release_year: '2000'
