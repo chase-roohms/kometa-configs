@@ -1773,6 +1773,12 @@ metadata:
     sort_title: Joker 2
     url_poster: https://theposterdb.com/api/assets/535282
     tpdb_search: https://theposterdb.com/search?term=Joker+Folie+à+Deux&section=movies
+  507086:
+    label_title: Jurassic World Dominion
+    release_year: '2022'
+    sort_title: Jurassic World Dominion
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Jurassic+World+Dominion&section=movies
   141052:
     label_title: Justice League
     release_year: '2017'
