@@ -2841,6 +2841,12 @@ metadata:
     sort_title: Simple Plan
     url_poster: https://theposterdb.com/api/assets/36103
     tpdb_search: https://theposterdb.com/search?term=A+Simple+Plan&section=movies
+  1233413:
+    label_title: Sinners
+    release_year: '2025'
+    sort_title: Sinners
+    url_poster: https://theposterdb.com/api/assets/584649
+    tpdb_search: https://theposterdb.com/search?term=Sinners&section=movies
   82507:
     label_title: Sinister
     release_year: '2012'
