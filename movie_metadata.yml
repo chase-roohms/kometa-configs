@@ -157,7 +157,7 @@ metadata:
     label_title: Aloha
     release_year: '2015'
     sort_title: Aloha
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/14074
     tpdb_search: https://theposterdb.com/search?term=Aloha&section=movies
   397567:
     label_title: Along with the Gods The Two Worlds
@@ -984,17 +984,23 @@ metadata:
     sort_title: Electric State
     url_poster: https://theposterdb.com/api/assets/577408
     tpdb_search: https://theposterdb.com/search?term=The+Electric+State&section=movies
+  156022:
+    label_title: The Equalizer
+    release_year: '2014'
+    sort_title: Equalizer 1
+    url_poster: https://theposterdb.com/api/assets/131878
+    tpdb_search: https://theposterdb.com/search?term=The+Equalizer&section=movies
   345887:
     label_title: The Equalizer 2
     release_year: '2018'
     sort_title: Equalizer 2
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/131879
     tpdb_search: https://theposterdb.com/search?term=The+Equalizer+2&section=movies
   926393:
     label_title: The Equalizer 3
     release_year: '2023'
     sort_title: Equalizer 3
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/422215
     tpdb_search: https://theposterdb.com/search?term=The+Equalizer+3&section=movies
   524434:
     label_title: Eternals
