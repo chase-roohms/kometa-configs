@@ -3057,6 +3057,12 @@ metadata:
     sort_title: Split
     url_poster: https://theposterdb.com/api/assets/569190
     tpdb_search: https://theposterdb.com/search?term=Split&section=movies
+  332562:
+    label_title: A Star Is Born
+    release_year: '2018'
+    sort_title: Star Is Born
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=A+Star+Is+Born&section=movies
   1114894:
     label_title: Star Trek Section 31
     sort_title: Star Trek Section 31
