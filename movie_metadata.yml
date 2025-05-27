@@ -153,6 +153,12 @@ metadata:
     label_title: All the Bright Places
     sort_title: All the Bright Places
     url_poster: https://theposterdb.com/api/assets/52906
+  222936:
+    label_title: Aloha
+    release_year: '2015'
+    sort_title: Aloha
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Aloha&section=movies
   397567:
     label_title: Along with the Gods The Two Worlds
     release_year: '2017'
