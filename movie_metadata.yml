@@ -1579,6 +1579,12 @@ metadata:
     sort_title: Hunger Games 5
     url_poster: https://theposterdb.com/api/assets/534798
     tpdb_search: https://theposterdb.com/search?term=The+Hunger+Games+The+Ballad+of+Songbirds+and+Snakes&section=movies
+  858017:
+    label_title: I Saw the TV Glow
+    release_year: '2024'
+    sort_title: I Saw the TV Glow
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=I+Saw+the+TV+Glow&section=movies
   504253:
     label_title: I Want to Eat Your Pancreas
     release_year: '2018'
