@@ -1583,8 +1583,9 @@ metadata:
     label_title: I Saw the TV Glow
     release_year: '2024'
     sort_title: I Saw the TV Glow
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/498934
     tpdb_search: https://theposterdb.com/search?term=I+Saw+the+TV+Glow&section=movies
+    studio: A24
   504253:
     label_title: I Want to Eat Your Pancreas
     release_year: '2018'
