@@ -11,7 +11,17 @@ jobs:
     steps:
       - name: test
         run: |
-          echo "Movie!"
+          title="${{ github.event.client_payload.remoteMovie.title }}"
+          encoded_title=$(echo "$title" | sed -e 's/ /+/g' -e 's/&/%26/g')
+          release_year=${{ github.event.client_payload.remoteMovie.year }}
+          tmdb_id=${{ github.event.client_payload.remoteMovie.tmdbId }}
+          tpdb_search="https://theposterdb.com/search?term=$encoded_title&section=movies"
+
+          echo $title
+          echo $encoded_title
+          echo $release_year
+          echo $tmdb_id
+          echo $tpdb_search
 
   show:
     if: ${{ github.event.client_payload.instanceName == 'Sonarr' }}
