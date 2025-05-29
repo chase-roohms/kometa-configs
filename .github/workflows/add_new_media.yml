@@ -17,7 +17,19 @@ jobs:
           tmdb_id=${{ github.event.client_payload.remoteMovie.tmdbId }}
           tpdb_search="https://theposterdb.com/search?term=$encoded_title&section=movies"
 
+          lower_title="${title,,}"  # convert to lowercase for comparison
+          sort_title="$title"
+          for article in "a " "an " "the "; do
+              if [[ "$lower_title" == "$article"* ]]; then
+                  sort_title="${title:${#article}}"
+                  break
+              fi
+          done
+          
+          sort_title=$(echo "$sort_title" | iconv -f UTF-8 -t ASCII//TRANSLIT)
+
           echo $title
+          echo $sort_title
           echo $encoded_title
           echo $release_year
           echo $tmdb_id
