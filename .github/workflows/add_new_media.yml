@@ -1,3 +1,4 @@
+run-name: Imported ${{ github.event.client_payload.title }}
 name: New Media Added
 
 on:
@@ -6,7 +7,7 @@ on:
 
 jobs:
   movie:
-    if: ${{ github.event.client_payload.instanceName == 'Radarr' }}
+    if: ${{ github.event.client_payload.instanceName == 'Radarr' && !github.event.client_payload.isUpgrade }}
     runs-on: ubuntu-latest
     steps:
       - name: test
