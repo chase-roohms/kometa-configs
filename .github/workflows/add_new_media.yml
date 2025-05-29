@@ -11,10 +11,10 @@ jobs:
     steps:
       - name: test
         run: |
-          title="${{ github.event.client_payload.remoteMovie.title }}"
-          encoded_title=$(echo "$title" | sed -e 's/ /+/g' -e 's/&/%26/g')
-          release_year=${{ github.event.client_payload.remoteMovie.year }}
-          tmdb_id=${{ github.event.client_payload.remoteMovie.tmdbId }}
+          title="${{ github.event.client_payload.movie.title }}"
+          encoded_title="$(echo "$title" | sed -e 's/ /+/g' -e 's/&/%26/g')"
+          release_year="${{ github.event.client_payload.remoteMovie.year }}"
+          tmdb_id="${{ github.event.client_payload.remoteMovie.tmdbId }}"
           tpdb_search="https://theposterdb.com/search?term=$encoded_title&section=movies"
 
           lower_title="${title,,}"  # convert to lowercase for comparison
@@ -27,12 +27,11 @@ jobs:
           done
           
           sort_title=$(echo "$sort_title" | iconv -f UTF-8 -t ASCII//TRANSLIT)
-
-          echo $title
-          echo $sort_title
-          echo $encoded_title
-          echo $release_year
+          
           echo $tmdb_id
+          echo $title
+          echo $release_year
+          echo $sort_title
           echo $tpdb_search
 
   show:
