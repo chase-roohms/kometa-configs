@@ -5,10 +5,19 @@ on:
     types: [arr-import]
 
 jobs:
-  test:
+  movie:
+    if: ${{ github.event.client_payload.instanceName == "Radarr" }}
     runs-on: ubuntu-latest
     steps:
       - name: test
         run: |
-          echo ${{ toJson(github.event.client_payload) }}
+          echo "Movie!"
+
+  show:
+    if: ${{ github.event.client_payload.instanceName == "Sonarr" }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: test
+        run: |
+          echo "Show!"
         
