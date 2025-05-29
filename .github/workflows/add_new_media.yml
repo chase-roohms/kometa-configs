@@ -6,7 +6,7 @@ on:
 
 jobs:
   movie:
-    if: ${{ github.event.client_payload.instanceName == "Radarr" }}
+    if: ${{ github.event.client_payload.instanceName == 'Radarr' }}
     runs-on: ubuntu-latest
     steps:
       - name: test
@@ -14,7 +14,7 @@ jobs:
           echo "Movie!"
 
   show:
-    if: ${{ github.event.client_payload.instanceName == "Sonarr" }}
+    if: ${{ github.event.client_payload.instanceName == 'Sonarr' }}
     runs-on: ubuntu-latest
     steps:
       - name: test
