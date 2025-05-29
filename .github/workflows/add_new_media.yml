@@ -1,0 +1,14 @@
+name: New Media Added
+
+on:
+  repository_dispatch:
+    types: [arr-import]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: test
+        run: |
+          echo ${{ github.event.client_payload }}
+        
