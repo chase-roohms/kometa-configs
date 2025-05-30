@@ -50,9 +50,9 @@ jobs:
 
           if [[ $(yq '.metadata.${{ github.event.client_payload.remoteMovie.tmdbId }}' ${{ env.MOVIE_METADATA_FILE }}) == null ]]; then
             echo "Movie does not exist, adding"
-            yq -i '.metadata += {'"$tmdb_id"': {"label_title": "'"$title"'", "release_year": '"$release_year"', "sort_title": "'"$sort_title"'", "url_poster": "", "tpdb_search": "'"$tpdb_search"'"}}' ${{ env.MOVIE_METADATA_FILE }}
+            yq -i '.metadata += {'"$tmdb_id"': {"label_title": "'"$title"'", "release_year": "'"$release_year"'", "sort_title": "'"$sort_title"'", "url_poster": "", "tpdb_search": "'"$tpdb_search"'"}}' ${{ env.MOVIE_METADATA_FILE }}
             yq -i '.metadata |= (to_entries | sort_by(.value.sort_title) | from_entries)' ${{ env.MOVIE_METADATA_FILE }}
-            yq -i '.metadata.${{ github.event.client_payload.remoteMovie.tmdbId }}.year style="single"' ${{ env.MOVIE_METADATA_FILE }}
+            yq -i '.metadata.${{ github.event.client_payload.remoteMovie.tmdbId }}.release_year style="single"' ${{ env.MOVIE_METADATA_FILE }}
             yq ${{ env.MOVIE_METADATA_FILE }} # Debug
           fi
       
