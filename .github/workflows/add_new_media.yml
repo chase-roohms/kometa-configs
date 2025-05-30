@@ -5,12 +5,20 @@ on:
   repository_dispatch:
     types: [arr-import]
 
+env:
+  MOVIE_METADATA_FILE: movie_metadata.yml
+  SHOW_METADATA_FILE: show_metadata.yml
+
 jobs:
   movie:
     if: ${{ github.event.client_payload.instanceName == 'Radarr' && !github.event.client_payload.isUpgrade }}
     runs-on: ubuntu-latest
     steps:
-      - name: test
+      - name: Checkout
+        id: checkout
+        uses: actions/checkout@v4.2.2
+      
+      - name: New Movie
         run: |
           ls # Debug
           title="${{ github.event.client_payload.movie.title }}"
@@ -36,12 +44,20 @@ jobs:
           echo $sort_title
           echo $tpdb_search
 
-          if [[ $(yq '.metadata.${{ github.event.client_payload.remoteMovie.tmdbId }}' movie_metadata.yml) == null ]]; then
+          if [[ $(yq '.metadata.${{ github.event.client_payload.remoteMovie.tmdbId }}' ${{ env.MOVIE_METADATA_FILE }}) == null ]]; then
             echo "Movie does not exist, adding"
-            yq -i '.metadata += {'"$tmdb_id"': {"label_title": "'"$title"'", "release_year": "'"$release_year"'", "sort_title": "'"$sort_title"'", "url_poster": "", "tpdb_search": "'"$tpdb_search"'"}}' movie_metadata.yml
-            yq -i '.metadata |= (to_entries | sort_by(.value.sort_title) | from_entries)' movie_metadata.yml
-            yq movie_metadata.yml # Debug
+            yq -i '.metadata += {'"$tmdb_id"': {"label_title": "'"$title"'", "release_year": "'"$release_year"'", "sort_title": "'"$sort_title"'", "url_poster": "", "tpdb_search": "'"$tpdb_search"'"}}' ${{ env.MOVIE_METADATA_FILE }}
+            yq -i '.metadata |= (to_entries | sort_by(.value.sort_title) | from_entries)' ${{ env.MOVIE_METADATA_FILE }}
+            yq ${{ env.MOVIE_METADATA_FILE }} # Debug
           fi
+      
+      - name: Commit Changes to Main
+        id: commit-changes
+        run: |
+          git config --global user.email "kometa@updater.com"
+          git config --global user.name "Kometa Updater"
+          git add ${{ env.MOVIE_METADATA_FILE }}
+          git diff-index --quiet main || git commit -m "Updating movie file" && git push
 
   show:
     if: ${{ github.event.client_payload.instanceName == 'Sonarr' }}
