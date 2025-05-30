@@ -2924,6 +2924,12 @@ metadata:
     sort_title: Sicario 2
     url_poster: https://theposterdb.com/api/assets/5944
     tpdb_search: https://theposterdb.com/search?term=Sicario+Day+of+the+Soldado&section=movies
+  1092899:
+    label_title: The Siege
+    release_year: '2023'
+    sort_title: Siege
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Siege&section=movies
   274:
     label_title: The Silence of the Lambs
     release_year: '1991'
