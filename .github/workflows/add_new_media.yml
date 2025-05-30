@@ -12,10 +12,11 @@ jobs:
     steps:
       - name: test
         run: |
+          ls # Debug
           title="${{ github.event.client_payload.movie.title }}"
           encoded_title="$(echo "$title" | sed -e 's/ /+/g' -e 's/&/%26/g')"
           release_year="${{ github.event.client_payload.remoteMovie.year }}"
-          tmdb_id="${{ github.event.client_payload.remoteMovie.tmdbId }}"
+          tmdb_id=${{ github.event.client_payload.remoteMovie.tmdbId }}
           tpdb_search="https://theposterdb.com/search?term=$encoded_title&section=movies"
 
           lower_title="${title,,}"  # convert to lowercase for comparison
@@ -34,6 +35,13 @@ jobs:
           echo $release_year
           echo $sort_title
           echo $tpdb_search
+
+          if [[ $(yq '.metadata.${{ github.event.client_payload.remoteMovie.tmdbId }}' movie_metadata.yml) == null ]]; then
+            echo "Movie does not exist, adding"
+            yq -i '.metadata += {'"$tmdb_id"': {"label_title": "'"$title"'", "release_year": "'"$release_year"'", "sort_title": "'"$sort_title"'", "url_poster": "", "tpdb_search": "'"$tpdb_search"'"}}' movie_metadata.yml
+            yq -i '.metadata |= (to_entries | sort_by(.value.sort_title) | from_entries)' movie_metadata.yml
+            yq movie_metadata.yml # Debug
+          fi
 
   show:
     if: ${{ github.event.client_payload.instanceName == 'Sonarr' }}
