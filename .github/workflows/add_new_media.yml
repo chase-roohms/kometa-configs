@@ -88,9 +88,16 @@ jobs:
           done
           
           sort_title=$(echo "$sort_title" | iconv -f UTF-8 -t ASCII//TRANSLIT)
-          
-          
-          readarray -t seasons < <(echo '${{ toJson(github.event.client_payload.episodes) }}' | jq '.[].season' | sort -u)
+
+          echo "JSON"
+          echo '${{ toJson(github.event.client_payload.episodes) }}'
+          echo 
+          echo "Seasons"
+          echo '${{ toJson(github.event.client_payload.episodes) }}' | jq '.[].seasonNumber' | sort -u
+          echo 
+          readarray -t seasons < <(echo '${{ toJson(github.event.client_payload.episodes) }}' | jq '.[].seasonNumber' | sort -u)
+          echo "Array"
+          echo $seasons
           
           # Loop through the array
           for season in "${seasons[@]}"; do
