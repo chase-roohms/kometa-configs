@@ -1,4 +1,4 @@
-run-name: Imported ${{ github.event.client_payload.title }}
+run-name: Imported file for ${{ github.event.client_payload.title }}
 name: New Media Added
 
 on:
@@ -22,7 +22,7 @@ jobs:
         id: checkout
         uses: actions/checkout@v4.2.2
       
-      - name: New Movie
+      - name: Update metadata file with movie information
         run: |
           ls # Debug
           title="${{ github.event.client_payload.movie.title }}"
@@ -73,7 +73,7 @@ jobs:
         id: checkout
         uses: actions/checkout@v4.2.2
     
-      - name: test
+      - name: Update metadata file with show information
         run: |
           ls # Debug
           title="${{ github.event.client_payload.series.title }}"
@@ -119,4 +119,12 @@ jobs:
               yq ${{ env.SHOW_METADATA_FILE }} # Debug
             fi
           done
+      
+      - name: Commit Changes to Main
+        id: commit-changes
+        run: |
+          git config --global user.email "kometa@updater.com"
+          git config --global user.name "Kometa Updater"
+          git add ${{ env.SHOW_METADATA_FILE }}
+          git diff-index --quiet main || git commit -m "Updating show file" && git push
           
