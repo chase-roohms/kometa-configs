@@ -69,6 +69,10 @@ jobs:
     if: ${{ github.event.client_payload.instanceName == 'Sonarr' }}
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        id: checkout
+        uses: actions/checkout@v4.2.2
+    
       - name: test
         run: |
           ls # Debug
