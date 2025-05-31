@@ -101,11 +101,18 @@ jobs:
           echo $sort_title
           echo $tpdb_search
 
+          yq ${{ env.SHOW_METADATA_FILE }}
+
           if [[ $(yq '.metadata.${{ github.event.client_payload.series.tvdbId }}' ${{ env.SHOW_METADATA_FILE }}) == null ]]; then
             echo "Show does not exist, adding"
             yq -i '.metadata += {'"$tvdb_id"': {"label_title": "'"$title"'", "release_year": "'"$release_year"'", "sort_title": "'"$sort_title"'", "url_poster": "", "tpdb_search": "'"$tpdb_search"'"}}' ${{ env.SHOW_METADATA_FILE }}
+            echo "Sorting"
             yq -i '.metadata |= (to_entries | sort_by(.value.sort_title) | from_entries)' ${{ env.SHOW_METADATA_FILE }}
+            echo "Fixing release year quotation"
+            echo '.metadata.${{ github.event.client_payload.series.tvdb_id }}.release_year style="single"'
             yq -i '.metadata.${{ github.event.client_payload.series.tvdb_id }}.release_year style="single"' ${{ env.SHOW_METADATA_FILE }}
+            echo "Fixing url poster quotation"
+            echo '.metadata.${{ github.event.client_payload.series.tvdb_id }}.url_poster style="single"'
             yq -i '.metadata.${{ github.event.client_payload.series.tvdb_id }}.url_poster style="single"' ${{ env.SHOW_METADATA_FILE }}
             yq ${{ env.SHOW_METADATA_FILE }} # Debug
           fi
