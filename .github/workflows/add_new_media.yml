@@ -71,5 +71,26 @@ jobs:
     steps:
       - name: test
         run: |
-          echo "Show!"
-        
+          ls # Debug
+          title="${{ github.event.client_payload.series.title }}"
+          encoded_title="$(echo "$title" | sed -e 's/ /+/g' -e 's/&/%26/g')"
+          release_year="${{ github.event.client_payload.series.year }}"
+          tvdb_id=${{ github.event.client_payload.series.tvdbId }}
+          tpdb_search="https://theposterdb.com/search?term=$encoded_title&section=shows"
+
+          lower_title="${title,,}"  # convert to lowercase for comparison
+          sort_title="$title"
+          for article in "a " "an " "the "; do
+              if [[ "$lower_title" == "$article"* ]]; then
+                  sort_title="${title:${#article}}"
+                  break
+              fi
+          done
+          
+          sort_title=$(echo "$sort_title" | iconv -f UTF-8 -t ASCII//TRANSLIT)
+          
+          echo $tvdb_id
+          echo $title
+          echo $release_year
+          echo $sort_title
+          echo $tpdb_search
