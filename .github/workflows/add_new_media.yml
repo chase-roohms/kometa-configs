@@ -89,6 +89,14 @@ jobs:
           
           sort_title=$(echo "$sort_title" | iconv -f UTF-8 -t ASCII//TRANSLIT)
           
+          
+          readarray -t seasons < <(echo '${{ toJson(github.event.client_payload.episodes) }}' | jq '.[].season' | sort -u)
+          
+          # Loop through the array
+          for season in "${seasons[@]}"; do
+              echo "Season: $season"
+          done
+          
           echo $tvdb_id
           echo $title
           echo $release_year
