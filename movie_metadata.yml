@@ -3253,7 +3253,7 @@ metadata:
     label_title: Tenet
     release_year: '2020'
     sort_title: Tenet
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/92782
     tpdb_search: https://theposterdb.com/search?term=Tenet&section=movies
   420634:
     label_title: Terrifier
