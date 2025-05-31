@@ -109,18 +109,18 @@ jobs:
             echo "Sorting"
             yq -i '.metadata |= (to_entries | sort_by(.value.sort_title) | from_entries)' ${{ env.SHOW_METADATA_FILE }}
             echo "Fixing release year quotation"
-            echo '.metadata.${{ github.event.client_payload.series.tvdb_id }}.release_year style="single"'
-            yq -i '.metadata.${{ github.event.client_payload.series.tvdb_id }}.release_year style="single"' ${{ env.SHOW_METADATA_FILE }}
+            echo '.metadata.${{ github.event.client_payload.series.tvdbId }}.release_year style="single"'
+            yq -i '.metadata.${{ github.event.client_payload.series.tvdbId }}.release_year style="single"' ${{ env.SHOW_METADATA_FILE }}
             echo "Fixing url poster quotation"
-            echo '.metadata.${{ github.event.client_payload.series.tvdb_id }}.url_poster style="single"'
-            yq -i '.metadata.${{ github.event.client_payload.series.tvdb_id }}.url_poster style="single"' ${{ env.SHOW_METADATA_FILE }}
+            echo '.metadata.${{ github.event.client_payload.series.tvdbId }}.url_poster style="single"'
+            yq -i '.metadata.${{ github.event.client_payload.series.tvdbId }}.url_poster style="single"' ${{ env.SHOW_METADATA_FILE }}
             yq ${{ env.SHOW_METADATA_FILE }} # Debug
           fi
           for season in "${seasons[@]}"; do
             if [[ $(yq ".metadata.${{ github.event.client_payload.series.tvdbId }}.seasons.$season" ${{ env.SHOW_METADATA_FILE }}) == null ]]; then
               echo "Season does not exist, adding"
               yq -i '.metadata.${{ github.event.client_payload.series.tvdbId }}.seasons += {'"$season"': {"url_poster": ""}}' ${{ env.SHOW_METADATA_FILE }}
-              yq -i '.metadata.${{ github.event.client_payload.series.tvdb_id }}.url_poster.seasons.'"$season"' style="single"' ${{ env.SHOW_METADATA_FILE }}
+              yq -i '.metadata.${{ github.event.client_payload.series.tvdbId }}.url_poster.seasons.'"$season"' style="single"' ${{ env.SHOW_METADATA_FILE }}
               yq ${{ env.SHOW_METADATA_FILE }} # Debug
             fi
           done
