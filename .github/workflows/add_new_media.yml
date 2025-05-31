@@ -88,24 +88,29 @@ jobs:
           done
           
           sort_title=$(echo "$sort_title" | iconv -f UTF-8 -t ASCII//TRANSLIT)
-
-          echo "JSON"
-          echo '${{ toJson(github.event.client_payload.episodes) }}'
-          echo 
-          echo "Seasons"
-          echo '${{ toJson(github.event.client_payload.episodes) }}' | jq '.[].seasonNumber' | sort -u
-          echo 
-          readarray -t seasons < <(echo '${{ toJson(github.event.client_payload.episodes) }}' | jq '.[].seasonNumber' | sort -u)
-          echo "Array"
-          echo $seasons
           
-          # Loop through the array
-          for season in "${seasons[@]}"; do
-              echo "Season: $season"
-          done
+          readarray -t seasons < <(echo '${{ toJson(github.event.client_payload.episodes) }}' | jq '.[].seasonNumber' | sort -u)
           
           echo $tvdb_id
           echo $title
           echo $release_year
           echo $sort_title
           echo $tpdb_search
+
+          if [[ $(yq '.metadata.${{ github.event.client_payload.series.tvdbId }}' ${{ env.SHOW_METADATA_FILE }}) == null ]]; then
+            echo "Show does not exist, adding"
+            yq -i '.metadata += {'"$tvdb_id"': {"label_title": "'"$title"'", "release_year": "'"$release_year"'", "sort_title": "'"$sort_title"'", "url_poster": "", "tpdb_search": "'"$tpdb_search"'"}}' ${{ env.SHOW_METADATA_FILE }}
+            yq -i '.metadata |= (to_entries | sort_by(.value.sort_title) | from_entries)' ${{ env.SHOW_METADATA_FILE }}
+            yq -i '.metadata.${{ github.event.client_payload.remoteMovie.tmdbId }}.release_year style="single"' ${{ env.SHOW_METADATA_FILE }}
+            yq -i '.metadata.${{ github.event.client_payload.remoteMovie.tmdbId }}.url_poster style="single"' ${{ env.SHOW_METADATA_FILE }}
+            yq ${{ env.SHOW_METADATA_FILE }} # Debug
+          fi
+          for season in "${seasons[@]}"; do
+            if [[ $(yq ".metadata.${{ github.event.client_payload.series.tvdbId }}.seasons.$season" ${{ env.SHOW_METADATA_FILE }}) == null ]]; then
+              echo "Season does not exist, adding"
+              yq -i '.metadata.${{ github.event.client_payload.series.tvdbId }}.seasons += {'"$season"': {"url_poster": ""}}' ${{ env.SHOW_METADATA_FILE }}
+              yq -i '.metadata.${{ github.event.client_payload.remoteMovie.tmdbId }}.url_poster.seasons.'"$season"' style="single"' ${{ env.SHOW_METADATA_FILE }}
+              yq ${{ env.SHOW_METADATA_FILE }} # Debug
+            fi
+          done
+          
