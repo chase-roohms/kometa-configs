@@ -115,6 +115,7 @@ jobs:
             if [[ $(yq ".metadata.${{ github.event.client_payload.series.tvdbId }}.seasons.$season" ${{ env.SHOW_METADATA_FILE }}) == null ]]; then
               echo "Season does not exist, adding"
               yq -i '.metadata.${{ github.event.client_payload.series.tvdbId }}.seasons += {'"$season"': {"url_poster": ""}}' ${{ env.SHOW_METADATA_FILE }}
+              echo '.metadata.${{ github.event.client_payload.series.tvdbId }}.url_poster.seasons.'"$season"'.url_poster style="single"'
               yq -i '.metadata.${{ github.event.client_payload.series.tvdbId }}.url_poster.seasons.'"$season"'.url_poster style="single"' ${{ env.SHOW_METADATA_FILE }}
               yq ${{ env.SHOW_METADATA_FILE }} # Debug
             fi
