@@ -101,8 +101,6 @@ jobs:
           echo $sort_title
           echo $tpdb_search
 
-          yq ${{ env.SHOW_METADATA_FILE }}
-
           if [[ $(yq '.metadata.${{ github.event.client_payload.series.tvdbId }}' ${{ env.SHOW_METADATA_FILE }}) == null ]]; then
             echo "Show does not exist, adding"
             yq -i '.metadata += {'"$tvdb_id"': {"label_title": "'"$title"'", "release_year": "'"$release_year"'", "sort_title": "'"$sort_title"'", "url_poster": "", "tpdb_search": "'"$tpdb_search"'"}}' ${{ env.SHOW_METADATA_FILE }}
