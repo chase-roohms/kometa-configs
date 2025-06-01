@@ -92,6 +92,7 @@ def get_metadata_dict(data: list[dict], existing_media: dict, media_type: str):
                     out_dict[db_id]['seasons'][season_num] = dict()
                 if 'url_poster' not in out_dict[db_id]['seasons'][season_num]:
                     out_dict[db_id]['seasons'][season_num]['url_poster'] = ''
+            out_dict[db_id]['seasons'] = dict(sorted(out_dict[db_id]['seasons'].items()))
 
     # Retain old movies and shows in case they are added back in future
     for db_id, metadata in existing_media.items():
