@@ -214,8 +214,8 @@ metadata:
   974573:
     label_title: Another Simple Favor
     release_year: '2025'
-    sort_title: Another Simple Favor
-    url_poster: ''
+    sort_title: Simple Favor 2
+    url_poster: https://theposterdb.com/api/assets/599015
     tpdb_search: https://theposterdb.com/search?term=Another+Simple+Favor&section=movies
   102899:
     label_title: Ant-Man
@@ -2939,8 +2939,8 @@ metadata:
   484247:
     label_title: A Simple Favor
     release_year: '2018'
-    sort_title: Simple Favor
-    url_poster: ''
+    sort_title: Simple Favor 1
+    url_poster: https://theposterdb.com/api/assets/599014
     tpdb_search: https://theposterdb.com/search?term=A+Simple+Favor&section=movies
   10223:
     label_title: A Simple Plan
