@@ -2936,6 +2936,12 @@ metadata:
     sort_title: Silence of the Lambs
     url_poster: https://theposterdb.com/api/assets/21371
     tpdb_search: https://theposterdb.com/search?term=The+Silence+of+the+Lambs&section=movies
+  484247:
+    label_title: A Simple Favor
+    release_year: '2018'
+    sort_title: Simple Favor
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=A+Simple+Favor&section=movies
   10223:
     label_title: A Simple Plan
     release_year: '1998'
