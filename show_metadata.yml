@@ -1025,6 +1025,15 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/368552
       3:
         url_poster: https://theposterdb.com/api/assets/368553
+  114471:
+    label_title: Ironheart
+    release_year: '2025'
+    sort_title: Ironheart
+    url_poster: https://theposterdb.com/api/assets/609122
+    tpdb_search: https://theposterdb.com/search?term=Ironheart&section=shows
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/609123
   368207:
     label_title: Invincible
     release_year: '2021'
