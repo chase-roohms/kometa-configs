@@ -93,11 +93,11 @@ metadata:
     label_title: Adults (2025)
     release_year: '2025'
     sort_title: Adults (2025)
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/608801
     tpdb_search: https://theposterdb.com/search?term=Adults+(2025)&section=shows
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/608802
   412429:
     label_title: Agatha All Along
     release_year: '2024'
