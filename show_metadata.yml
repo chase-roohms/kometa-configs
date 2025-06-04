@@ -1859,11 +1859,11 @@ metadata:
     label_title: The Peripheral
     release_year: '2022'
     sort_title: Peripheral
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/272841
     tpdb_search: https://theposterdb.com/search?term=The+Peripheral&section=shows
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/272842
   448176:
     label_title: The Pitt
     release_year: '2025'
