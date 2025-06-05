@@ -23,6 +23,7 @@ jobs:
         uses: actions/checkout@v4.2.2
       
       - name: Update metadata file with movie information
+        shell: bash
         run: |
           ls # Debug
           title="${{ github.event.client_payload.movie.title }}"
@@ -74,6 +75,9 @@ jobs:
         uses: actions/checkout@v4.2.2
     
       - name: Update metadata file with show information
+        shell: bash
+        env:
+          EPISODES: ${{ toJson(github.event.client_payload.episodes) }}
         run: |
           ls # Debug
           title="${{ github.event.client_payload.series.title }}"
@@ -93,7 +97,7 @@ jobs:
           
           sort_title=$(echo "$sort_title" | iconv -f UTF-8 -t ASCII//TRANSLIT)
           
-          readarray -t seasons < <(echo '${{ toJson(github.event.client_payload.episodes) }}' | jq '.[].seasonNumber' | sort -u)
+          readarray -t seasons < <(echo "$EPISODES" | jq '.[].seasonNumber' | sort -u)
           
           echo $tvdb_id
           echo $title
