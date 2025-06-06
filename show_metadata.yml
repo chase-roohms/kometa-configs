@@ -1046,6 +1046,7 @@ metadata:
     sort_title: Ironheart
     url_poster: https://theposterdb.com/api/assets/609122
     tpdb_search: https://theposterdb.com/search?term=Ironheart&section=shows
+    studio: Marvel Studios
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/609123
