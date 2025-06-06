@@ -1411,6 +1411,27 @@ metadata:
             url_poster: https://api.mediux.pro/assets/4e74847e-81f4-43b8-8213-93437e346bea
       4:
         url_poster: https://api.mediux.pro/assets/bbb0d0e0-82d6-4cac-968e-96d7204d2b4c
+        episodes:
+          1:
+            url_poster: https://api.mediux.pro/assets/38e5fa5e-0116-4841-9467-e7ae826e7a6c
+          2:
+            url_poster: https://api.mediux.pro/assets/0ce57a23-f5ea-432e-b7dc-f9581021b1ea
+          3:
+            url_poster: https://api.mediux.pro/assets/a60cdfa8-08d7-4c3f-b38d-5e0a66488262
+          4:
+            url_poster: https://api.mediux.pro/assets/7ad5a530-27c3-4b71-9c9e-793c8d3d40dd
+          5:
+            url_poster: https://api.mediux.pro/assets/97475cca-bf86-4118-9469-46a33072d7d0
+          6:
+            url_poster: https://api.mediux.pro/assets/008a8dde-b6fe-4f1f-9380-757027303f5c
+          7:
+            url_poster: https://api.mediux.pro/assets/572445a5-0d52-4797-9d16-977df4a8912e
+          8:
+            url_poster: https://api.mediux.pro/assets/982874d7-a936-410f-8222-f7bd98879ee7
+          9:
+            url_poster: https://api.mediux.pro/assets/8ac43bec-c207-4c7a-a2b1-5e6d4c7e5f86
+          10:
+            url_poster: https://api.mediux.pro/assets/cd9aa363-44a2-43e3-a7ac-32c67272973f
   299139:
     title: The Magicians
     sort_title: Magicians
