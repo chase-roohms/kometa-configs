@@ -2714,6 +2714,12 @@ metadata:
     sort_title: Predator 5
     url_poster: https://theposterdb.com/api/assets/255438
     tpdb_search: https://theposterdb.com/search?term=Prey&section=movies
+  1376434:
+    label_title: 'Predator: Killer of Killers'
+    release_year: '2025'
+    sort_title: 'Predator: Killer of Killers'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Predator:+Killer+of+Killers&section=movies
   1140535:
     label_title: Presence
     release_year: '2025'
