@@ -135,17 +135,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/115826
       2:
         url_poster: https://theposterdb.com/api/assets/305231
-  295936:
-    label_title: Alone
-    release_year: '2015'
-    sort_title: Alone
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Alone&section=shows
-    seasons:
-      1:
-        url_poster: ''
-      2:
-        url_poster: ''
   428066:
     label_title: American Primeval
     release_year: '2025'
