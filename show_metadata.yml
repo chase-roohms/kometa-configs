@@ -1310,6 +1310,15 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/538485
       6:
         url_poster: https://theposterdb.com/api/assets/538486
+  364107:
+    label_title: Love Island US
+    release_year: '2019'
+    sort_title: Love Island US
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Love+Island+US&section=shows
+    seasons:
+      7:
+        url_poster: ''
   419263:
     label_title: Love on the Spectrum U.S.
     release_year: '2022'
