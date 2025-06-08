@@ -2607,17 +2607,17 @@ metadata:
     label_title: Titans (2018)
     release_year: '2018'
     sort_title: Titans (2018)
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/36135
     tpdb_search: https://theposterdb.com/search?term=Titans+(2018)&section=shows
     seasons:
       3:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/168834
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/36136
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/36137
       4:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/283692
   459453:
     label_title: To be Hero X
     release_year: '2025'
