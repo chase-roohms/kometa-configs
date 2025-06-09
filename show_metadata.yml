@@ -2107,11 +2107,62 @@ metadata:
     sort_title: Salad Fingers
     url_poster: https://theposterdb.com/api/assets/603061
     tpdb_search: https://theposterdb.com/search?term=Salad+Fingers&section=shows
+    summary: The surreal life of Salad Fingers, an unknown creature living in an apocalyptic wasteland.
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/602743
+        episodes:
+          1:
+            title: One Million Billiard People
+            summary: This is a short salad fingers message for 1 million Youtube subscribers.
+          2:
+            title: Market
+            summary: Salad Fingers runs his own market stall but has some issues with the locals. Hubert Cumberdale offers to help out.
+          3:
+            title: The Perfect Spoon?
+            summary: Salad Fingers revisits his past and remembers the time he found the perfect spoon.
       1:
         url_poster: https://theposterdb.com/api/assets/602744
+        episodes:
+          1:
+            title: Spoons
+            summary: Salad Fingers tries to find the perfect spoon.
+          2:
+            title: Friends
+            summary: "Salad Fingers has a few friends over for a fish supper that he's preparing. Marjory Stewart-Baxter tastes the best because she bathes in essential oils. Hubert is a right dirty sod because he hangs out in chimneys."
+          3:
+            title: Nettles
+            summary: Salad Fingers finds great pleasure in a magical plant.
+          4:
+            title: Cage
+            summary: Salad Fingers has a secret admirer. Will he ever find France?
+          5:
+            title: Picnic
+            summary: Salad Fingers holds a grand picnic and invites all his friends.
+          6:
+            title: Present
+            summary: Salad Fingers receives a gift from an old friend.
+          7:
+            title: Shore Leave
+            summary: "Salad Fingers' brother returns from The Great War."
+          8:
+            title: Cupboard
+            summary: Salad Fingers receives some unpleasant frequencies from his radio.
+          9:
+            title: Letter
+            summary: Salad Fingers receives a letter from the great war.
+          10:
+            title: Birthday
+            summary: "It's Hubert Cumberdale's Birthday but Milford Cubicle isn't feeling so well."
+          11:
+            title: Glass Brother
+            summary: "Salad Fingers decides it’s time for Hubert Cumberdale to become a real boy."
+          12:
+            title: Postman
+            summary: 'Salad Fingers goes out on his local postal rounds - and then back to the "postal counting house".'
+          13:
+            title: Harvest
+            summary: Salad Fingers is facing a food shortage due to a failed crop. His only hope is to pray to Grandmother Growth.
   366211:
     label_title: The Sandman
     release_year: '2022'
