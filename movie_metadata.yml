@@ -1,4 +1,26 @@
 metadata:
+  3021:
+    label_title: '1408'
+    release_year: '2007'
+    sort_title: '1408'
+    url_poster: https://theposterdb.com/api/assets/24135
+    tpdb_search: https://theposterdb.com/search?term=1408&section=movies
+  530915:
+    label_title: '1917'
+    release_year: '2019'
+    sort_title: '1917'
+    url_poster: https://theposterdb.com/api/assets/48473
+    tpdb_search: https://theposterdb.com/search?term=1917&section=movies
+  62:
+    label_title: 2001 A Space Odyssey
+    sort_title: 2001 Space Odyssey
+    url_poster: https://theposterdb.com/api/assets/63118
+  1023915:
+    label_title: '2073'
+    release_year: '2024'
+    sort_title: '2073'
+    url_poster: https://theposterdb.com/api/assets/521775
+    tpdb_search: https://theposterdb.com/search?term=2073&section=movies
   170:
     label_title: 28 Days Later
     release_year: '2002'
@@ -29,28 +51,6 @@ metadata:
     sort_title: 300 2
     url_poster: https://theposterdb.com/api/assets/51723
     tpdb_search: https://theposterdb.com/search?term=300+Rise+of+an+Empire&section=movies
-  3021:
-    label_title: '1408'
-    release_year: '2007'
-    sort_title: '1408'
-    url_poster: https://theposterdb.com/api/assets/24135
-    tpdb_search: https://theposterdb.com/search?term=1408&section=movies
-  530915:
-    label_title: '1917'
-    release_year: '2019'
-    sort_title: '1917'
-    url_poster: https://theposterdb.com/api/assets/48473
-    tpdb_search: https://theposterdb.com/search?term=1917&section=movies
-  62:
-    label_title: 2001 A Space Odyssey
-    sort_title: 2001 Space Odyssey
-    url_poster: https://theposterdb.com/api/assets/63118
-  1023915:
-    label_title: '2073'
-    release_year: '2024'
-    sort_title: '2073'
-    url_poster: https://theposterdb.com/api/assets/521775
-    tpdb_search: https://theposterdb.com/search?term=2073&section=movies
   302946:
     label_title: The Accountant
     release_year: '2016'
@@ -174,6 +174,12 @@ metadata:
     sort_title: Along with the Gods 2
     url_poster: https://theposterdb.com/api/assets/587901
     tpdb_search: https://theposterdb.com/search?term=Along+with+the+Gods+The+Last+49+Days&section=movies
+  1087891:
+    label_title: The Amateur
+    release_year: '2025'
+    sort_title: Amateur
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Amateur&section=movies
   153518:
     label_title: The Angry Birds Movie
     release_year: '2016'
@@ -1430,6 +1436,18 @@ metadata:
     sort_title: Hellraiser 1
     url_poster: https://theposterdb.com/api/assets/402700
     tpdb_search: https://theposterdb.com/search?term=Hellraiser&section=movies
+  444149:
+    label_title: Hellraiser Judgment
+    release_year: '2018'
+    sort_title: Hellraiser 10
+    url_poster: https://theposterdb.com/api/assets/402709
+    tpdb_search: https://theposterdb.com/search?term=Hellraiser+Judgment&section=movies
+  338947:
+    label_title: Hellraiser
+    release_year: '2022'
+    sort_title: Hellraiser 11
+    url_poster: https://theposterdb.com/api/assets/402710
+    tpdb_search: https://theposterdb.com/search?term=Hellraiser&section=movies
   9064:
     label_title: Hellbound Hellraiser II
     release_year: '1988'
@@ -1478,18 +1496,6 @@ metadata:
     sort_title: Hellraiser 9
     url_poster: https://theposterdb.com/api/assets/402708
     tpdb_search: https://theposterdb.com/search?term=Hellraiser+Revelations&section=movies
-  444149:
-    label_title: Hellraiser Judgment
-    release_year: '2018'
-    sort_title: Hellraiser 10
-    url_poster: https://theposterdb.com/api/assets/402709
-    tpdb_search: https://theposterdb.com/search?term=Hellraiser+Judgment&section=movies
-  338947:
-    label_title: Hellraiser
-    release_year: '2022'
-    sort_title: Hellraiser 11
-    url_poster: https://theposterdb.com/api/assets/402710
-    tpdb_search: https://theposterdb.com/search?term=Hellraiser&section=movies
   10869:
     label_title: Herbie Rides Again
     release_year: '1974'
@@ -2006,12 +2012,6 @@ metadata:
     sort_title: Lord of the Rings 4
     url_poster: https://theposterdb.com/api/assets/574283
     tpdb_search: https://theposterdb.com/search?term=The+Lord+of+the+Rings+The+War+of+the+Rohirrim&section=movies
-  590223:
-    label_title: Love and Monsters
-    release_year: '2020'
-    sort_title: Love and Monsters
-    url_poster: https://theposterdb.com/api/assets/465124
-    tpdb_search: https://theposterdb.com/search?term=Love+and+Monsters&section=movies
   14136:
     label_title: The Love Bug
     release_year: '1968'
@@ -2036,6 +2036,19 @@ metadata:
     sort_title: Love Lies Bleeding
     url_poster: https://theposterdb.com/api/assets/498936
     tpdb_search: https://theposterdb.com/search?term=Love+Lies+Bleeding&section=movies
+    studio: A24
+  590223:
+    label_title: Love and Monsters
+    release_year: '2020'
+    sort_title: Love and Monsters
+    url_poster: https://theposterdb.com/api/assets/465124
+    tpdb_search: https://theposterdb.com/search?term=Love+and+Monsters&section=movies
+  1023922:
+    label_title: MaXXXine
+    release_year: '2024'
+    sort_title: MaXXXine
+    url_poster: https://theposterdb.com/api/assets/499075
+    tpdb_search: https://theposterdb.com/search?term=MaXXXine&section=movies
     studio: A24
   846867:
     label_title: Mad God
@@ -2170,13 +2183,6 @@ metadata:
     sort_title: Matrix 4
     url_poster: https://theposterdb.com/api/assets/195234
     tpdb_search: https://theposterdb.com/search?term=The+Matrix+Resurrections&section=movies
-  1023922:
-    label_title: MaXXXine
-    release_year: '2024'
-    sort_title: MaXXXine
-    url_poster: https://theposterdb.com/api/assets/499075
-    tpdb_search: https://theposterdb.com/search?term=MaXXXine&section=movies
-    studio: A24
   198663:
     label_title: The Maze Runner
     release_year: '2014'
