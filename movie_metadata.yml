@@ -178,7 +178,7 @@ metadata:
     label_title: The Amateur
     release_year: '2025'
     sort_title: Amateur
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/584277
     tpdb_search: https://theposterdb.com/search?term=The+Amateur&section=movies
   153518:
     label_title: The Angry Birds Movie
