@@ -1295,9 +1295,31 @@ metadata:
     label_title: Love Island
     release_year: '2015'
     sort_title: Love Island
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/385373
     tpdb_search: https://theposterdb.com/search?term=Love+Island&section=shows
     seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/385374
+      2:
+        url_poster: https://theposterdb.com/api/assets/385375
+      3:
+        url_poster: https://theposterdb.com/api/assets/385376
+      4:
+        url_poster: https://theposterdb.com/api/assets/385377
+      5:
+        url_poster: https://theposterdb.com/api/assets/385378
+      6:
+        url_poster: https://theposterdb.com/api/assets/385379
+      7:
+        url_poster: https://theposterdb.com/api/assets/385380
+      8:
+        url_poster: https://theposterdb.com/api/assets/385381
+      9:
+        url_poster: https://theposterdb.com/api/assets/385382
+      10:
+        url_poster: https://theposterdb.com/api/assets/614141
+      11:
+        url_poster: https://theposterdb.com/api/assets/614142
       12:
         url_poster: ''
   347813:
