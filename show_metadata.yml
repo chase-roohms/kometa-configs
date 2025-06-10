@@ -596,6 +596,15 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/470039
       2:
         url_poster: https://theposterdb.com/api/assets/554670
+  418123:
+    label_title: DEAD DEAD DEMONS DEDEDEDE DESTRUCTION
+    release_year: '2024'
+    sort_title: DEAD DEAD DEMONS DEDEDEDE DESTRUCTION
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=DEAD+DEAD+DEMONS+DEDEDEDE+DESTRUCTION&section=shows
+    seasons:
+      1:
+        url_poster: ''
   422712:
     label_title: Daredevil - Born Again
     release_year: '2025'
