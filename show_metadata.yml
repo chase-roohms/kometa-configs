@@ -846,6 +846,15 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/425489
       2:
         url_poster: https://theposterdb.com/api/assets/425490
+  366972:
+    label_title: Foundation (2021)
+    release_year: '2021'
+    sort_title: Foundation (2021)
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Foundation+(2021)&section=shows
+    seasons:
+      1:
+        url_poster: ''
   460132:
     label_title: The Fox Hollow Murders - Playground of a Serial Killer
     sort_title: Fox Hollow Murders - Playground of a Serial Killer
