@@ -600,11 +600,14 @@ metadata:
     label_title: DEAD DEAD DEMONS DEDEDEDE DESTRUCTION
     release_year: '2024'
     sort_title: DEAD DEAD DEMONS DEDEDEDE DESTRUCTION
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/497213
     tpdb_search: https://theposterdb.com/search?term=DEAD+DEAD+DEMONS+DEDEDEDE+DESTRUCTION&section=shows
+    audio_language: ja-JP
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/502119
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/497214
   422712:
     label_title: Daredevil - Born Again
     release_year: '2025'
@@ -850,13 +853,13 @@ metadata:
     label_title: Foundation (2021)
     release_year: '2021'
     sort_title: Foundation (2021)
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/182327
     tpdb_search: https://theposterdb.com/search?term=Foundation+(2021)&section=shows
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/182328
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/362222
   460132:
     label_title: The Fox Hollow Murders - Playground of a Serial Killer
     sort_title: Fox Hollow Murders - Playground of a Serial Killer
