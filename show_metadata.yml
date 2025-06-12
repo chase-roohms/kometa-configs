@@ -2552,11 +2552,11 @@ metadata:
     label_title: Stick
     release_year: '2025'
     sort_title: Stick
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/610060
     tpdb_search: https://theposterdb.com/search?term=Stick&section=shows
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/610061
   305288:
     label_title: Stranger Things
     release_year: '2016'
