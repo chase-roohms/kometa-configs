@@ -512,21 +512,21 @@ metadata:
     label_title: Blade
     release_year: '1998'
     sort_title: Blade 1
-    url_poster: https://theposterdb.com/api/assets/12047
+    url_poster: https://theposterdb.com/api/assets/163860
     tpdb_search: https://theposterdb.com/search?term=Blade&section=movies
     studio: Marvel Studios
   36586:
     label_title: Blade II
     release_year: '2002'
     sort_title: Blade 2
-    url_poster: https://theposterdb.com/api/assets/12048
+    url_poster: https://theposterdb.com/api/assets/163861
     tpdb_search: https://theposterdb.com/search?term=Blade+II&section=movies
     studio: Marvel Studios
   36648:
     label_title: Blade Trinity
     release_year: '2004'
     sort_title: Blade 3
-    url_poster: https://theposterdb.com/api/assets/12049
+    url_poster: https://theposterdb.com/api/assets/163862
     tpdb_search: https://theposterdb.com/search?term=Blade+Trinity&section=movies
     studio: Marvel Studios
   78:
@@ -1629,12 +1629,20 @@ metadata:
     sort_title: Inception
     url_poster: https://theposterdb.com/api/assets/80608
     tpdb_search: https://theposterdb.com/search?term=Inception&section=movies
+  1927:
+    label_title: Hulk
+    release_year: '2003'
+    sort_title: Hulk 1
+    url_poster: https://theposterdb.com/api/assets/163880
+    tpdb_search: https://theposterdb.com/search?term=Hulk&section=movies
+    studio: Marvel Studios
   1724:
     label_title: The Incredible Hulk
     release_year: '2008'
-    sort_title: Incredible Hulk
+    sort_title: Hulk 2
     url_poster: https://theposterdb.com/api/assets/162897
     tpdb_search: https://theposterdb.com/search?term=The+Incredible+Hulk&section=movies
+    studio: Marvel Studios
   9806:
     label_title: The Incredibles
     release_year: '2004'
@@ -1887,7 +1895,7 @@ metadata:
     label_title: Kraven the Hunter
     release_year: '2024'
     sort_title: Kraven the Hunter
-    url_poster: https://theposterdb.com/api/assets/564726
+    url_poster: https://theposterdb.com/api/assets/581782
     tpdb_search: https://theposterdb.com/search?term=Kraven+the+Hunter&section=movies
     studio: Marvel Studios
   9502:
@@ -2090,7 +2098,7 @@ metadata:
     label_title: Madame Web
     release_year: '2024'
     sort_title: Madame Web
-    url_poster: https://theposterdb.com/api/assets/468577
+    url_poster: https://theposterdb.com/api/assets/469080
     tpdb_search: https://theposterdb.com/search?term=Madame+Web&section=movies
     studio: Marvel Entertainment
   784524:
@@ -2361,7 +2369,7 @@ metadata:
     label_title: Morbius
     release_year: '2022'
     sort_title: Morbius
-    url_poster: https://theposterdb.com/api/assets/202295
+    url_poster: https://theposterdb.com/api/assets/235382
     tpdb_search: https://theposterdb.com/search?term=Morbius&section=movies
     studio: Marvel Studios
   31011:
@@ -3540,21 +3548,21 @@ metadata:
     label_title: Venom
     release_year: '2018'
     sort_title: Venom 1
-    url_poster: https://theposterdb.com/api/assets/517927
+    url_poster: https://theposterdb.com/api/assets/163926
     tpdb_search: https://theposterdb.com/search?term=Venom&section=movies
     studio: Marvel Entertainment
   580489:
     label_title: Venom Let There Be Carnage
     release_year: '2021'
     sort_title: Venom 2
-    url_poster: https://theposterdb.com/api/assets/517926
+    url_poster: https://theposterdb.com/api/assets/192206
     tpdb_search: https://theposterdb.com/search?term=Venom+Let+There+Be+Carnage&section=movies
     studio: Marvel Entertainment
   912649:
     label_title: Venom The Last Dance
     release_year: '2024'
     sort_title: Venom 3
-    url_poster: https://theposterdb.com/api/assets/517925
+    url_poster: https://theposterdb.com/api/assets/595581
     tpdb_search: https://theposterdb.com/search?term=Venom+The+Last+Dance&section=movies
     studio: Marvel Entertainment
   1241436:
