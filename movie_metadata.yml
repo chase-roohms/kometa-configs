@@ -224,14 +224,14 @@ metadata:
     label_title: Ant-Man
     release_year: '2015'
     sort_title: Ant-Man 1
-    url_poster: https://theposterdb.com/api/assets/18660
+    url_poster: https://theposterdb.com/api/assets/162907
     tpdb_search: https://theposterdb.com/search?term=Ant-Man&section=movies
     studio: Marvel Studios
   363088:
     label_title: Ant-Man and the Wasp
     release_year: '2018'
     sort_title: Ant-Man 2
-    url_poster: https://theposterdb.com/api/assets/18672
+    url_poster: https://theposterdb.com/api/assets/162915
     tpdb_search: https://theposterdb.com/search?term=Ant-Man+and+the+Wasp&section=movies
     studio: Marvel Studios
   640146:
@@ -297,28 +297,28 @@ metadata:
     label_title: The Avengers
     release_year: '2012'
     sort_title: Avenvers 1
-    url_poster: https://theposterdb.com/api/assets/18654
+    url_poster: https://theposterdb.com/api/assets/162901
     tpdb_search: https://theposterdb.com/search?term=The+Avengers&section=movies
     studio: Marvel Studios
   99861:
     label_title: Avengers Age of Ultron
     release_year: '2015'
     sort_title: Avenvers 2
-    url_poster: https://theposterdb.com/api/assets/18659
+    url_poster: https://theposterdb.com/api/assets/162906
     tpdb_search: https://theposterdb.com/search?term=Avengers+Age+of+Ultron&section=movies
     studio: Marvel Studios
   299536:
     label_title: Avengers Infinity War
     release_year: '2018'
     sort_title: Avenvers 3
-    url_poster: https://theposterdb.com/api/assets/18670
+    url_poster: https://theposterdb.com/api/assets/162914
     tpdb_search: https://theposterdb.com/search?term=Avengers+Infinity+War&section=movies
     studio: Marvel Studios
   299534:
     label_title: Avengers Endgame
     release_year: '2019'
     sort_title: Avenvers 4
-    url_poster: https://theposterdb.com/api/assets/18674
+    url_poster: https://theposterdb.com/api/assets/162917
     tpdb_search: https://theposterdb.com/search?term=Avengers+Endgame&section=movies
     studio: Marvel Studios
   1029235:
@@ -485,21 +485,21 @@ metadata:
     label_title: Black Panther
     release_year: '2018'
     sort_title: Black Panther 1
-    url_poster: https://theposterdb.com/api/assets/18668
+    url_poster: https://theposterdb.com/api/assets/162913
     tpdb_search: https://theposterdb.com/search?term=Black+Panther&section=movies
     studio: Marvel Studios
   505642:
     label_title: Black Panther Wakanda Forever
     release_year: '2022'
     sort_title: Black Panther 2
-    url_poster: https://theposterdb.com/api/assets/275021
+    url_poster: https://theposterdb.com/api/assets/274296
     tpdb_search: https://theposterdb.com/search?term=Black+Panther+Wakanda+Forever&section=movies
     studio: Marvel Studios
   497698:
     label_title: Black Widow
     release_year: '2021'
     sort_title: Black Widow
-    url_poster: https://theposterdb.com/api/assets/18676
+    url_poster: https://theposterdb.com/api/assets/162919
     tpdb_search: https://theposterdb.com/search?term=Black+Widow&section=movies
     studio: Marvel Studios
   1016084:
@@ -640,34 +640,34 @@ metadata:
     label_title: Captain America The First Avenger
     release_year: '2011'
     sort_title: Captain America 1
-    url_poster: https://theposterdb.com/api/assets/18653
+    url_poster: https://theposterdb.com/api/assets/162900
     tpdb_search: https://theposterdb.com/search?term=Captain+America+The+First+Avenger&section=movies
     studio: Marvel Studios
   100402:
     label_title: Captain America The Winter Soldier
     release_year: '2014'
     sort_title: Captain America 2
-    url_poster: https://theposterdb.com/api/assets/18657
+    url_poster: https://theposterdb.com/api/assets/162904
     tpdb_search: https://theposterdb.com/search?term=Captain+America+The+Winter+Soldier&section=movies
     studio: Marvel Studios
   271110:
     label_title: Captain America Civil War
     release_year: '2016'
     sort_title: Captain America 3
-    url_poster: https://theposterdb.com/api/assets/18661
+    url_poster: https://theposterdb.com/api/assets/162908
     tpdb_search: https://theposterdb.com/search?term=Captain+America+Civil+War&section=movies
     studio: Marvel Studios
   822119:
     label_title: Captain America Brave New World
     release_year: '2025'
     sort_title: Captain America 4
-    url_poster: https://theposterdb.com/api/assets/584690
+    url_poster: https://theposterdb.com/api/assets/595571
     tpdb_search: https://theposterdb.com/search?term=Captain+America+Brave+New+World&section=movies
   299537:
     label_title: Captain Marvel
     release_year: '2019'
     sort_title: Captain Marvel
-    url_poster: https://theposterdb.com/api/assets/18673
+    url_poster: https://theposterdb.com/api/assets/162916
     tpdb_search: https://theposterdb.com/search?term=Captain+Marvel&section=movies
     studio: Marvel Studios
   1005331:
@@ -844,7 +844,7 @@ metadata:
     label_title: Deadpool and Wolverine
     release_year: '2024'
     sort_title: Deadpool 3
-    url_poster: https://theposterdb.com/api/assets/494048
+    url_poster: https://theposterdb.com/api/assets/587595
     tpdb_search: https://theposterdb.com/search?term=Deadpool+and+Wolverine&section=movies
     studio: Marvel Studios
   1153714:
@@ -917,14 +917,14 @@ metadata:
     label_title: Doctor Strange
     release_year: '2016'
     sort_title: Doctor Strange 1
-    url_poster: https://theposterdb.com/api/assets/18662
+    url_poster: https://theposterdb.com/api/assets/162909
     tpdb_search: https://theposterdb.com/search?term=Doctor+Strange&section=movies
     studio: Marvel Studios
   453395:
     label_title: Doctor Strange in the Multiverse of Madness
     release_year: '2022'
     sort_title: Doctor Strange 2
-    url_poster: https://theposterdb.com/api/assets/226630
+    url_poster: https://theposterdb.com/api/assets/198589
     tpdb_search: https://theposterdb.com/search?term=Doctor+Strange+in+the+Multiverse+of+Madness&section=movies
     studio: Marvel Studios
   141:
@@ -1015,7 +1015,7 @@ metadata:
     label_title: Eternals
     release_year: '2021'
     sort_title: Eternals
-    url_poster: https://theposterdb.com/api/assets/181346
+    url_poster: https://theposterdb.com/api/assets/162921
     tpdb_search: https://theposterdb.com/search?term=Eternals&section=movies
     studio: Marvel Studios
   545611:
@@ -1338,28 +1338,28 @@ metadata:
     label_title: Guardians of the Galaxy
     release_year: '2014'
     sort_title: Guardians of the Galaxy 1
-    url_poster: https://theposterdb.com/api/assets/18658
+    url_poster: https://theposterdb.com/api/assets/162905
     tpdb_search: https://theposterdb.com/search?term=Guardians+of+the+Galaxy&section=movies
     studio: Marvel Studios
   283995:
     label_title: Guardians of the Galaxy Vol. 2
     release_year: '2017'
     sort_title: Guardians of the Galaxy 2
-    url_poster: https://theposterdb.com/api/assets/18663
+    url_poster: https://theposterdb.com/api/assets/162910
     tpdb_search: https://theposterdb.com/search?term=Guardians+of+the+Galaxy+Vol.+2&section=movies
     studio: Marvel Studios
   774752:
     label_title: The Guardians of the Galaxy Holiday Special
     release_year: '2022'
     sort_title: Guardians of the Galaxy 3
-    url_poster: https://theposterdb.com/api/assets/288978
+    url_poster: https://theposterdb.com/api/assets/314342
     tpdb_search: https://theposterdb.com/search?term=The+Guardians+of+the+Galaxy+Holiday+Special&section=movies
     studio: Marvel Studios
   447365:
     label_title: Guardians of the Galaxy Vol. 3
     release_year: '2023'
     sort_title: Guardians of the Galaxy 4
-    url_poster: https://theposterdb.com/api/assets/347087
+    url_poster: https://theposterdb.com/api/assets/392840
     tpdb_search: https://theposterdb.com/search?term=Guardians+of+the+Galaxy+Vol.+3&section=movies
     studio: Marvel Studios
   324786:
@@ -1633,7 +1633,7 @@ metadata:
     label_title: The Incredible Hulk
     release_year: '2008'
     sort_title: Incredible Hulk
-    url_poster: https://theposterdb.com/api/assets/18650
+    url_poster: https://theposterdb.com/api/assets/162897
     tpdb_search: https://theposterdb.com/search?term=The+Incredible+Hulk&section=movies
   9806:
     label_title: The Incredibles
@@ -1708,21 +1708,21 @@ metadata:
     label_title: Iron Man
     release_year: '2008'
     sort_title: Iron Man 1
-    url_poster: https://theposterdb.com/api/assets/18649
+    url_poster: https://theposterdb.com/api/assets/162896
     tpdb_search: https://theposterdb.com/search?term=Iron+Man&section=movies
     studio: Marvel Studios
   10138:
     label_title: Iron Man 2
     release_year: '2010'
     sort_title: Iron Man 2
-    url_poster: https://theposterdb.com/api/assets/18651
+    url_poster: https://theposterdb.com/api/assets/162898
     tpdb_search: https://theposterdb.com/search?term=Iron+Man+2&section=movies
     studio: Marvel Studios
   68721:
     label_title: Iron Man 3
     release_year: '2013'
     sort_title: Iron Man 3
-    url_poster: https://theposterdb.com/api/assets/18655
+    url_poster: https://theposterdb.com/api/assets/162902
     tpdb_search: https://theposterdb.com/search?term=Iron+Man+3&section=movies
     studio: Marvel Studios
   399174:
@@ -2156,7 +2156,7 @@ metadata:
     label_title: The Marvels
     release_year: '2023'
     sort_title: Marvels
-    url_poster: https://theposterdb.com/api/assets/419787
+    url_poster: https://theposterdb.com/api/assets/452675
     tpdb_search: https://theposterdb.com/search?term=The+Marvels&section=movies
     studio: Marvel Studios
   603:
@@ -2883,7 +2883,7 @@ metadata:
     label_title: Shang-Chi and the Legend of the Ten Rings
     release_year: '2021'
     sort_title: Shang-Chi and the Legend of the Ten Rings
-    url_poster: https://theposterdb.com/api/assets/157411
+    url_poster: https://theposterdb.com/api/assets/162920
     tpdb_search: https://theposterdb.com/search?term=Shang-Chi+and+the+Legend+of+the+Ten+Rings&section=movies
     studio: Marvel Studios
   278:
@@ -3085,21 +3085,21 @@ metadata:
     label_title: Spider-Man Homecoming
     release_year: '2017'
     sort_title: Spider-Man MCU 1
-    url_poster: https://theposterdb.com/api/assets/18664
+    url_poster: https://theposterdb.com/api/assets/162911
     tpdb_search: https://theposterdb.com/search?term=Spider-Man+Homecoming&section=movies
     studio: Marvel Studios
   429617:
     label_title: Spider-Man Far From Home
     release_year: '2019'
     sort_title: Spider-Man MCU 2
-    url_poster: https://theposterdb.com/api/assets/18675
+    url_poster: https://theposterdb.com/api/assets/162918
     tpdb_search: https://theposterdb.com/search?term=Spider-Man+Far+From+Home&section=movies
     studio: Marvel Studios
   634649:
     label_title: Spider-Man No Way Home
     release_year: '2021'
     sort_title: Spider-Man MCU 3
-    url_poster: https://theposterdb.com/api/assets/198162
+    url_poster: https://theposterdb.com/api/assets/190131
     tpdb_search: https://theposterdb.com/search?term=Spider-Man+No+Way+Home&section=movies
     studio: Marvel Studios
   324857:
@@ -3317,28 +3317,28 @@ metadata:
     label_title: Thor
     release_year: '2011'
     sort_title: Thor 1
-    url_poster: https://theposterdb.com/api/assets/18652
+    url_poster: https://theposterdb.com/api/assets/162899
     tpdb_search: https://theposterdb.com/search?term=Thor&section=movies
     studio: Marvel Studios
   76338:
     label_title: Thor The Dark World
     release_year: '2013'
     sort_title: Thor 2
-    url_poster: https://theposterdb.com/api/assets/18656
+    url_poster: https://theposterdb.com/api/assets/162903
     tpdb_search: https://theposterdb.com/search?term=Thor+The+Dark+World&section=movies
     studio: Marvel Studios
   284053:
     label_title: Thor Ragnarok
     release_year: '2017'
     sort_title: Thor 3
-    url_poster: https://theposterdb.com/api/assets/18666
+    url_poster: https://theposterdb.com/api/assets/162912
     tpdb_search: https://theposterdb.com/search?term=Thor+Ragnarok&section=movies
     studio: Marvel Studios
   616037:
     label_title: Thor Love and Thunder
     release_year: '2022'
     sort_title: Thor 4
-    url_poster: https://theposterdb.com/api/assets/242770
+    url_poster: https://theposterdb.com/api/assets/265776
     tpdb_search: https://theposterdb.com/search?term=Thor+Love+and+Thunder&section=movies
     studio: Marvel Studios
   597:
@@ -3586,7 +3586,7 @@ metadata:
     label_title: Werewolf by Night
     release_year: '2022'
     sort_title: Werewolf by Night
-    url_poster: https://theposterdb.com/api/assets/273610
+    url_poster: https://theposterdb.com/api/assets/274295
     tpdb_search: https://theposterdb.com/search?term=Werewolf+by+Night&section=movies
     studio: Marvel Studios
   970450:
