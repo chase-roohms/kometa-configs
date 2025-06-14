@@ -102,12 +102,12 @@ metadata:
     label_title: Agatha All Along
     release_year: '2024'
     sort_title: Agatha All Along
-    url_poster: https://theposterdb.com/api/assets/540804
+    url_poster: https://theposterdb.com/api/assets/595591
     tpdb_search: https://theposterdb.com/search?term=Agatha+All+Along&section=shows
     studio: Marvel Studios
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/540806
+        url_poster: https://theposterdb.com/api/assets/595592
   430769:
     label_title: The Agency
     release_year: '2024'
@@ -612,12 +612,12 @@ metadata:
     label_title: Daredevil - Born Again
     release_year: '2025'
     sort_title: Daredevil - Born Again
-    url_poster: https://theposterdb.com/api/assets/543955
+    url_poster: https://theposterdb.com/api/assets/583962
     tpdb_search: https://theposterdb.com/search?term=Daredevil+-+Born+Again&section=shows
     studio: Marvel Studios
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/543957
+        url_poster: https://theposterdb.com/api/assets/583963
   334824:
     label_title: Dark
     release_year: '2017'
@@ -706,12 +706,12 @@ metadata:
     label_title: Echo
     release_year: '2024'
     sort_title: Echo
-    url_poster: https://theposterdb.com/api/assets/540758
+    url_poster: https://theposterdb.com/api/assets/452749
     tpdb_search: https://theposterdb.com/search?term=Echo&section=shows
     studio: Marvel Studios
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/540760
+        url_poster: https://theposterdb.com/api/assets/452750
   407520:
     label_title: The Eminence in Shadow
     release_year: '2022'
@@ -786,12 +786,12 @@ metadata:
     label_title: The Falcon and The Winter Soldier
     release_year: '2021'
     sort_title: Falcon and The Winter Soldier
-    url_poster: https://theposterdb.com/api/assets/373323
+    url_poster: https://theposterdb.com/api/assets/144090
     tpdb_search: https://theposterdb.com/search?term=The+Falcon+and+The+Winter+Soldier&section=shows
     studio: Marvel Studios
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/373325
+        url_poster: https://theposterdb.com/api/assets/144091
   458706:
     label_title: The Fall of Diddy
     sort_title: Fall of Diddy
@@ -970,12 +970,12 @@ metadata:
     label_title: Hawkeye
     release_year: '2021'
     sort_title: Hawkeye
-    url_poster: https://theposterdb.com/api/assets/373335
+    url_poster: https://theposterdb.com/api/assets/191855
     tpdb_search: https://theposterdb.com/search?term=Hawkeye&section=shows
     studio: Marvel Studios
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/373337
+        url_poster: https://theposterdb.com/api/assets/191856
   358805:
     label_title: Hazbin Hotel
     release_year: '2024'
@@ -1027,14 +1027,14 @@ metadata:
     label_title: I Am Groot
     release_year: '2022'
     sort_title: I Am Groot
-    url_poster: https://theposterdb.com/api/assets/384417
+    url_poster: https://theposterdb.com/api/assets/263970
     tpdb_search: https://theposterdb.com/search?term=I+Am+Groot&section=shows
     studio: Marvel Studios
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/384418
+        url_poster: https://theposterdb.com/api/assets/263971
       2:
-        url_poster: https://theposterdb.com/api/assets/408104
+        url_poster: https://theposterdb.com/api/assets/417741
   362753:
     label_title: I Think You Should Leave with Tim Robinson
     release_year: '2019'
@@ -1268,14 +1268,14 @@ metadata:
     label_title: Loki
     release_year: '2021'
     sort_title: Loki
-    url_poster: https://theposterdb.com/api/assets/373326
+    url_poster: https://theposterdb.com/api/assets/152226
     tpdb_search: https://theposterdb.com/search?term=Loki&section=shows
     studio: Marvel Studios
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/373328
+        url_poster: https://theposterdb.com/api/assets/152227
       2:
-        url_poster: https://theposterdb.com/api/assets/391160
+        url_poster: https://theposterdb.com/api/assets/421311
   367506:
     label_title: The Lord of the Rings - The Rings of Power
     release_year: '2022'
@@ -1730,22 +1730,22 @@ metadata:
     label_title: Moon Knight
     release_year: '2022'
     sort_title: Moon Knight
-    url_poster: https://theposterdb.com/api/assets/373681
+    url_poster: https://theposterdb.com/api/assets/224409
     tpdb_search: https://theposterdb.com/search?term=Moon+Knight&section=shows
     studio: Marvel Studios
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/373683
+        url_poster: https://theposterdb.com/api/assets/224410
   368612:
     label_title: Ms. Marvel
     release_year: '2022'
     sort_title: Ms. Marvel
-    url_poster: https://theposterdb.com/api/assets/374071
+    url_poster: https://theposterdb.com/api/assets/243986
     tpdb_search: https://theposterdb.com/search?term=Ms.+Marvel&section=shows
     studio: Marvel Studios
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/374072
+        url_poster: https://theposterdb.com/api/assets/243987
   362829:
     label_title: Mythic Quest
     release_year: '2020'
@@ -2239,12 +2239,12 @@ metadata:
     label_title: Secret Invasion
     release_year: '2023'
     sort_title: Secret Invasion
-    url_poster: https://theposterdb.com/api/assets/374600
+    url_poster: https://theposterdb.com/api/assets/379998
     tpdb_search: https://theposterdb.com/search?term=Secret+Invasion&section=shows
     studio: Marvel Studios
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/374601
+        url_poster: https://theposterdb.com/api/assets/379999
   453280:
     label_title: Secret Level
     release_year: '2024'
@@ -2301,12 +2301,12 @@ metadata:
     label_title: She-Hulk - Attorney at Law
     release_year: '2022'
     sort_title: She-Hulk - Attorney at Law
-    url_poster: https://theposterdb.com/api/assets/374146
+    url_poster: https://theposterdb.com/api/assets/261516
     tpdb_search: https://theposterdb.com/search?term=She-Hulk+-+Attorney+at+Law&section=shows
     studio: Marvel Studios
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/374147
+        url_poster: https://theposterdb.com/api/assets/261517
   392573:
     label_title: Shōgun
     release_year: '2024'
@@ -2838,12 +2838,12 @@ metadata:
     label_title: WandaVision
     release_year: '2021'
     sort_title: WandaVision
-    url_poster: https://theposterdb.com/api/assets/373318
+    url_poster: https://theposterdb.com/api/assets/145244
     tpdb_search: https://theposterdb.com/search?term=WandaVision&section=shows
     studio: Marvel Studios
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/373320
+        url_poster: https://theposterdb.com/api/assets/145245
   296762:
     label_title: Westworld
     release_year: '2016'
@@ -2865,14 +2865,14 @@ metadata:
     label_title: What If…!
     release_year: '2021'
     sort_title: What If...!
-    url_poster: https://theposterdb.com/api/assets/373329
+    url_poster: https://theposterdb.com/api/assets/169286
     tpdb_search: https://theposterdb.com/search?term=What+If…!&section=shows
     studio: Marvel Studios
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/373330
+        url_poster: https://theposterdb.com/api/assets/169287
       2:
-        url_poster: https://theposterdb.com/api/assets/540743
+        url_poster: https://theposterdb.com/api/assets/452737
       3:
         url_poster: https://theposterdb.com/api/assets/540744
   390430:
