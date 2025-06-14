@@ -830,14 +830,14 @@ metadata:
     label_title: Deadpool
     release_year: '2016'
     sort_title: Deadpool 1
-    url_poster: https://theposterdb.com/api/assets/32319
+    url_poster: https://theposterdb.com/api/assets/163902
     tpdb_search: https://theposterdb.com/search?term=Deadpool&section=movies
     studio: Marvel Studios
   383498:
     label_title: Deadpool 2
     release_year: '2018'
     sort_title: Deadpool 2
-    url_poster: https://theposterdb.com/api/assets/32320
+    url_poster: https://theposterdb.com/api/assets/163903
     tpdb_search: https://theposterdb.com/search?term=Deadpool+2&section=movies
     studio: Marvel Studios
   533535:
@@ -1973,7 +1973,7 @@ metadata:
     label_title: Logan
     release_year: '2017'
     sort_title: Logan
-    url_poster: https://theposterdb.com/api/assets/82964
+    url_poster: https://theposterdb.com/api/assets/163890
     tpdb_search: https://theposterdb.com/search?term=Logan&section=movies
     studio: Marvel Studios
   193756:
@@ -2426,7 +2426,7 @@ metadata:
     label_title: The New Mutants
     release_year: '2020'
     sort_title: New Mutants
-    url_poster: https://theposterdb.com/api/assets/108493
+    url_poster: https://theposterdb.com/api/assets/163847
     tpdb_search: https://theposterdb.com/search?term=The+New+Mutants&section=movies
     studio: Marvel Studios
   1028196:
@@ -3661,7 +3661,7 @@ metadata:
     label_title: The Wolverine
     release_year: '2013'
     sort_title: Wolverine
-    url_poster: https://theposterdb.com/api/assets/146713
+    url_poster: https://theposterdb.com/api/assets/163889
     tpdb_search: https://theposterdb.com/search?term=The+Wolverine&section=movies
     studio: Marvel Studios
   835113:
@@ -3705,56 +3705,56 @@ metadata:
     label_title: X-Men
     release_year: '2000'
     sort_title: X-Men 1
-    url_poster: https://theposterdb.com/api/assets/21
+    url_poster: https://theposterdb.com/api/assets/163840
     tpdb_search: https://theposterdb.com/search?term=X-Men&section=movies
     studio: Marvel Studios
   36658:
     label_title: X2
     release_year: '2003'
     sort_title: X-Men 2
-    url_poster: https://theposterdb.com/api/assets/22
+    url_poster: https://theposterdb.com/api/assets/163841
     tpdb_search: https://theposterdb.com/search?term=X2&section=movies
     studio: Marvel Studios
   36668:
     label_title: X-Men The Last Stand
     release_year: '2006'
     sort_title: X-Men 3
-    url_poster: https://theposterdb.com/api/assets/23
+    url_poster: https://theposterdb.com/api/assets/163842
     tpdb_search: https://theposterdb.com/search?term=X-Men+The+Last+Stand&section=movies
     studio: Marvel Studios
   2080:
     label_title: X-Men Origins Wolverine
     release_year: '2009'
     sort_title: X-Men 4
-    url_poster: https://theposterdb.com/api/assets/82962
+    url_poster: https://theposterdb.com/api/assets/163888
     tpdb_search: https://theposterdb.com/search?term=X-Men+Origins+Wolverine&section=movies
     studio: Marvel Studios
   49538:
     label_title: X-Men First Class
     release_year: '2011'
     sort_title: X-Men 5
-    url_poster: https://theposterdb.com/api/assets/24
+    url_poster: https://theposterdb.com/api/assets/163843
     tpdb_search: https://theposterdb.com/search?term=X-Men+First+Class&section=movies
     studio: Marvel Studios
   127585:
     label_title: X-Men Days of Future Past
     release_year: '2014'
     sort_title: X-Men 6
-    url_poster: https://theposterdb.com/api/assets/25
+    url_poster: https://theposterdb.com/api/assets/163844
     tpdb_search: https://theposterdb.com/search?term=X-Men+Days+of+Future+Past&section=movies
     studio: Marvel Studios
   246655:
     label_title: X-Men Apocalypse
     release_year: '2016'
     sort_title: X-Men 7
-    url_poster: https://theposterdb.com/api/assets/26
+    url_poster: https://theposterdb.com/api/assets/163845
     tpdb_search: https://theposterdb.com/search?term=X-Men+Apocalypse&section=movies
     studio: Marvel Studios
   320288:
     label_title: Dark Phoenix
     release_year: '2019'
     sort_title: X-Men 8
-    url_poster: https://theposterdb.com/api/assets/27
+    url_poster: https://theposterdb.com/api/assets/163846
     tpdb_search: https://theposterdb.com/search?term=Dark+Phoenix&section=movies
     studio: Marvel Studios
   791373:
