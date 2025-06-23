@@ -1534,6 +1534,12 @@ metadata:
     sort_title: Hobbit 3
     url_poster: https://theposterdb.com/api/assets/1725
     tpdb_search: https://theposterdb.com/search?term=The+Hobbit+The+Battle+of+the+Five+Armies&section=movies
+  400155:
+    label_title: 'Hotel Transylvania 3: Summer Vacation'
+    release_year: '2018'
+    sort_title: 'Hotel Transylvania 3: Summer Vacation'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Hotel+Transylvania+3:+Summer+Vacation&section=movies
   10191:
     label_title: How to Train Your Dragon
     release_year: '2010'
