@@ -1540,6 +1540,12 @@ metadata:
     sort_title: 'Hotel Transylvania 3: Summer Vacation'
     url_poster: ''
     tpdb_search: https://theposterdb.com/search?term=Hotel+Transylvania+3:+Summer+Vacation&section=movies
+  585083:
+    label_title: 'Hotel Transylvania: Transformania'
+    release_year: '2022'
+    sort_title: 'Hotel Transylvania: Transformania'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Hotel+Transylvania:+Transformania&section=movies
   10191:
     label_title: How to Train Your Dragon
     release_year: '2010'
