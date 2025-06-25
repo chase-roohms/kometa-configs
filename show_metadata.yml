@@ -417,15 +417,17 @@ metadata:
     label_title: The Boondocks
     release_year: '2005'
     sort_title: Boondocks
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/261215
     tpdb_search: https://theposterdb.com/search?term=The+Boondocks&section=shows
     seasons:
       1:
-        url_poster: ''
-      3:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/261216
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/261217
+      3:
+        url_poster: https://theposterdb.com/api/assets/261218
+      4:
+        url_poster: https://theposterdb.com/api/assets/261219
   355567:
     label_title: The Boys
     release_year: '2019'
