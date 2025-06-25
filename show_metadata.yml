@@ -1076,7 +1076,7 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/422192
       3:
         url_poster: https://theposterdb.com/api/assets/575956
-  114471:
+  393204:
     label_title: Ironheart
     release_year: '2025'
     sort_title: Ironheart
@@ -1086,15 +1086,6 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/609123
-  393204:
-    label_title: Ironheart
-    release_year: '2025'
-    sort_title: Ironheart
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Ironheart&section=shows
-    seasons:
-      1:
-        url_poster: ''
   75805:
     label_title: It's Always Sunny in Philadelphia
     release_year: '2005'
