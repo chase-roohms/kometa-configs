@@ -1537,26 +1537,26 @@ metadata:
   76492:
     label_title: Hotel Transylvania
     release_year: '2012'
-    sort_title: Hotel Transylvania
-    url_poster: ''
+    sort_title: Hotel Transylvania 1
+    url_poster: https://theposterdb.com/api/assets/246969
     tpdb_search: https://theposterdb.com/search?term=Hotel+Transylvania&section=movies
   159824:
     label_title: Hotel Transylvania 2
     release_year: '2015'
     sort_title: Hotel Transylvania 2
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/246973
     tpdb_search: https://theposterdb.com/search?term=Hotel+Transylvania+2&section=movies
   400155:
     label_title: 'Hotel Transylvania 3: Summer Vacation'
     release_year: '2018'
-    sort_title: 'Hotel Transylvania 3: Summer Vacation'
-    url_poster: ''
+    sort_title: Hotel Transylvania 3
+    url_poster: https://theposterdb.com/api/assets/246982
     tpdb_search: https://theposterdb.com/search?term=Hotel+Transylvania+3:+Summer+Vacation&section=movies
   585083:
     label_title: 'Hotel Transylvania: Transformania'
     release_year: '2022'
-    sort_title: 'Hotel Transylvania: Transformania'
-    url_poster: ''
+    sort_title: Hotel Transylvania 4
+    url_poster: https://theposterdb.com/api/assets/246991
     tpdb_search: https://theposterdb.com/search?term=Hotel+Transylvania:+Transformania&section=movies
   10191:
     label_title: How to Train Your Dragon
@@ -3437,7 +3437,7 @@ metadata:
     label_title: 'Trainwreck: The Astroworld Tragedy'
     release_year: '2025'
     sort_title: 'Trainwreck: The Astroworld Tragedy'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/615194
     tpdb_search: https://theposterdb.com/search?term=Trainwreck:+The+Astroworld+Tragedy&section=movies
   1858:
     label_title: Transformers
