@@ -252,6 +252,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/503364
       3:
         url_poster: https://theposterdb.com/api/assets/503365
+      4:
+        url_poster: ''
   380991:
     label_title: Behind Her Eyes
     release_year: '2021'
