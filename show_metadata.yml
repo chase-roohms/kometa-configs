@@ -2434,6 +2434,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/178741
       2:
         url_poster: https://theposterdb.com/api/assets/555255
+      3:
+        url_poster: ''
   393189:
     label_title: Star Wars - Andor
     release_year: '2022'
