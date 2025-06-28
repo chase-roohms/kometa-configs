@@ -1293,6 +1293,15 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/152227
       2:
         url_poster: https://theposterdb.com/api/assets/421311
+  464419:
+    label_title: Lord of Mysteries
+    release_year: '2025'
+    sort_title: Lord of Mysteries
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Lord+of+Mysteries&section=shows
+    seasons:
+      1:
+        url_poster: ''
   367506:
     label_title: The Lord of the Rings - The Rings of Power
     release_year: '2022'
