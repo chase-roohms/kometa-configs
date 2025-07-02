@@ -3380,11 +3380,12 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Thor+Love+and+Thunder&section=movies
     studio: Marvel Studios
   986056:
-    label_title: Thunderbolts*
+    label_title: 'Thunderbolts*'
     release_year: '2025'
-    sort_title: Thunderbolts*
-    url_poster: ''
+    sort_title: Thunderbolts
+    url_poster: https://theposterdb.com/api/assets/601849
     tpdb_search: https://theposterdb.com/search?term=Thunderbolts*&section=movies
+    studio: Marvel Studios
   597:
     label_title: Titanic
     release_year: '1997'
