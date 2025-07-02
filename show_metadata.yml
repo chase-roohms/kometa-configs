@@ -243,17 +243,17 @@ metadata:
     label_title: The Bear
     release_year: '2022'
     sort_title: Bear
-    url_poster: https://theposterdb.com/api/assets/503362
+    url_poster: https://theposterdb.com/api/assets/267741
     tpdb_search: https://theposterdb.com/search?term=The+Bear&section=shows
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/503363
+        url_poster: https://theposterdb.com/api/assets/267742
       2:
-        url_poster: https://theposterdb.com/api/assets/503364
+        url_poster: https://theposterdb.com/api/assets/362224
       3:
-        url_poster: https://theposterdb.com/api/assets/503365
+        url_poster: https://theposterdb.com/api/assets/602394
       4:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/607605
   380991:
     label_title: Behind Her Eyes
     release_year: '2021'
@@ -2444,7 +2444,7 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/555255
       3:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/619630
   393189:
     label_title: Star Wars - Andor
     release_year: '2022'
