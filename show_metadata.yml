@@ -884,6 +884,15 @@ metadata:
     seasons:
       1:
         url_poster: https://image.tmdb.org/t/p/original/zitSh6i9JShgMpbFitfTXxuFnKd.jpg
+  450537:
+    label_title: Gachiakuta
+    release_year: '2025'
+    sort_title: Gachiakuta
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Gachiakuta&section=shows
+    seasons:
+      1:
+        url_poster: ''
   369988:
     label_title: Game Changer
     release_year: '2019'
