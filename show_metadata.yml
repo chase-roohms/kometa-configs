@@ -843,6 +843,15 @@ metadata:
             url_poster: https://api.mediux.pro/assets/78effa18-1dce-42b1-aa9c-b449db7403eb
           8:
             url_poster: https://api.mediux.pro/assets/a365f75e-5561-4226-ae01-eea50d12b65c
+  419379:
+    label_title: Fellow Travelers
+    release_year: '2023'
+    sort_title: Fellow Travelers
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Fellow+Travelers&section=shows
+    seasons:
+      1:
+        url_poster: ''
   314614:
     label_title: Fleabag
     release_year: '2016'
