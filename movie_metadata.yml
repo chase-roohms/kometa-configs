@@ -214,6 +214,12 @@ metadata:
     sort_title: Annabelle 3
     url_poster: https://theposterdb.com/api/assets/23531
     tpdb_search: https://theposterdb.com/search?term=Annabelle+Comes+Home&section=movies
+  300668:
+    label_title: Annihilation
+    release_year: '2018'
+    sort_title: Annihilation
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Annihilation&section=movies
   1064213:
     label_title: Anora
     release_year: '2024'
