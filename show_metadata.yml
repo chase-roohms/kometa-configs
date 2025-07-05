@@ -847,11 +847,11 @@ metadata:
     label_title: Fellow Travelers
     release_year: '2023'
     sort_title: Fellow Travelers
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/420146
     tpdb_search: https://theposterdb.com/search?term=Fellow+Travelers&section=shows
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/420147
   314614:
     label_title: Fleabag
     release_year: '2016'
@@ -897,11 +897,12 @@ metadata:
     label_title: Gachiakuta
     release_year: '2025'
     sort_title: Gachiakuta
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/587739
     tpdb_search: https://theposterdb.com/search?term=Gachiakuta&section=shows
+    audio_language: ja-JP
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/587740
   369988:
     label_title: Game Changer
     release_year: '2019'
@@ -2271,7 +2272,7 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/257147
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/598572
   248884:
     label_title: The Secret Circle
     release_year: '2011'
@@ -2633,11 +2634,12 @@ metadata:
     label_title: The Summer Hikaru Died
     release_year: '2025'
     sort_title: Summer Hikaru Died
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/601594
     tpdb_search: https://theposterdb.com/search?term=The+Summer+Hikaru+Died&section=shows
+    audio_language: ja-JP
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/601595
   461311:
     label_title: Super Cube
     release_year: '2025'
