@@ -1318,6 +1318,7 @@ metadata:
     sort_title: Lord of Mysteries
     url_poster: https://theposterdb.com/api/assets/619039
     tpdb_search: https://theposterdb.com/search?term=Lord+of+Mysteries&section=shows
+    audio_language: zh-CN
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/619040
