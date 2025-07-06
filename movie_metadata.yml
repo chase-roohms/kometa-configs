@@ -1897,6 +1897,12 @@ metadata:
     sort_title: Justice League
     url_poster: https://theposterdb.com/api/assets/40933
     tpdb_search: https://theposterdb.com/search?term=Justice+League&section=movies
+  803796:
+    label_title: KPop Demon Hunters
+    release_year: '2025'
+    sort_title: KPop Demon Hunters
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=KPop+Demon+Hunters&section=movies
   24:
     label_title: Kill Bill Vol. 1
     release_year: '2003'
