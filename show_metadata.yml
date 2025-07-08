@@ -871,11 +871,23 @@ metadata:
     label_title: The Flintstones
     release_year: '1960'
     sort_title: Flintstones
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/166414
     tpdb_search: https://theposterdb.com/search?term=The+Flintstones&section=shows
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/166415
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/166428
+      2:
+        url_poster: https://theposterdb.com/api/assets/166429
+      3:
+        url_poster: https://theposterdb.com/api/assets/166430
+      4:
+        url_poster: https://theposterdb.com/api/assets/166431
+      5:
+        url_poster: https://theposterdb.com/api/assets/166432
+      6:
+        url_poster: https://theposterdb.com/api/assets/166433
   383686:
     label_title: Fog Hill of Five Elements
     release_year: '2020'
