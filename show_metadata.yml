@@ -536,6 +536,15 @@ metadata:
           6:
             title: 20 Min HIIT Cardio Workout
             summary: This is a full body HIIT workout.
+  81500:
+    label_title: Chowder
+    release_year: '2007'
+    sort_title: Chowder
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Chowder&section=shows
+    seasons:
+      1:
+        url_poster: ''
   436198:
     label_title: Common Side Effects
     release_year: '2025'
