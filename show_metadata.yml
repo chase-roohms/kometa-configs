@@ -1207,11 +1207,17 @@ metadata:
     label_title: The Jetsons
     release_year: '1962'
     sort_title: Jetsons
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/219943
     tpdb_search: https://theposterdb.com/search?term=The+Jetsons&section=shows
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/219944
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/219945
+      2:
+        url_poster: https://theposterdb.com/api/assets/219946
+      3:
+        url_poster: https://theposterdb.com/api/assets/219947
   432093:
     label_title: Jury Duty
     release_year: '2023'
