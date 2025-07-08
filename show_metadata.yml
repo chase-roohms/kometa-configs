@@ -2831,15 +2831,17 @@ metadata:
     label_title: Tom and Jerry
     release_year: '1940'
     sort_title: Tom and Jerry
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/165766
     tpdb_search: https://theposterdb.com/search?term=Tom+and+Jerry&section=shows
     seasons:
-      1940:
-        url_poster: ''
       0:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/165767
+      1940:
+        url_poster: https://theposterdb.com/api/assets/165768
       1950:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/165769
+      1960:
+        url_poster: https://theposterdb.com/api/assets/165770
   270633:
     label_title: True Detective
     release_year: '2014'
