@@ -1352,6 +1352,15 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/152227
       2:
         url_poster: https://theposterdb.com/api/assets/421311
+  72514:
+    label_title: Looney Tunes
+    release_year: '1929'
+    sort_title: Looney Tunes
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Looney+Tunes&section=shows
+    seasons:
+      1940:
+        url_poster: ''
   464419:
     label_title: Lord of Mysteries
     release_year: '2025'
