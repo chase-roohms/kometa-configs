@@ -1182,6 +1182,15 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/318824
       6:
         url_poster: https://theposterdb.com/api/assets/318825
+  76204:
+    label_title: The Jetsons
+    release_year: '1962'
+    sort_title: Jetsons
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Jetsons&section=shows
+    seasons:
+      1:
+        url_poster: ''
   432093:
     label_title: Jury Duty
     release_year: '2023'
