@@ -1923,6 +1923,15 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/146925
       2:
         url_poster: https://theposterdb.com/api/assets/146926
+  82207:
+    label_title: The Marvelous Misadventures of Flapjack
+    release_year: '2008'
+    sort_title: Marvelous Misadventures of Flapjack
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Marvelous+Misadventures+of+Flapjack&section=shows
+    seasons:
+      1:
+        url_poster: ''
   349659:
     title: Mayans M.C.
     sort_title: Mayans M.C.
