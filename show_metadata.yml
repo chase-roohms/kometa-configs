@@ -545,6 +545,8 @@ metadata:
     seasons:
       1:
         url_poster: ''
+      3:
+        url_poster: ''
   436198:
     label_title: Common Side Effects
     release_year: '2025'
