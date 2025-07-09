@@ -540,15 +540,15 @@ metadata:
     label_title: Chowder
     release_year: '2007'
     sort_title: Chowder
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/429979
     tpdb_search: https://theposterdb.com/search?term=Chowder&section=shows
     seasons:
       1:
-        url_poster: ''
-      3:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/429980
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/429981
+      3:
+        url_poster: https://theposterdb.com/api/assets/429982
   436198:
     label_title: Common Side Effects
     release_year: '2025'
@@ -1927,15 +1927,15 @@ metadata:
     label_title: The Marvelous Misadventures of Flapjack
     release_year: '2008'
     sort_title: Marvelous Misadventures of Flapjack
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/560441
     tpdb_search: https://theposterdb.com/search?term=The+Marvelous+Misadventures+of+Flapjack&section=shows
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/182523
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/182524
       3:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/182525
   349659:
     title: Mayans M.C.
     sort_title: Mayans M.C.
@@ -1993,15 +1993,15 @@ metadata:
     label_title: Mucha Lucha
     release_year: '2002'
     sort_title: Mucha Lucha
-    url_poster: ''
+    url_poster: https://image.tmdb.org/t/p/w1280/w12B6di7moo2otX4X4y3y3gKagz.jpg
     tpdb_search: https://theposterdb.com/search?term=Mucha+Lucha&section=shows
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://image.tmdb.org/t/p/original/rzThu7P2mDJ2LuiOOGVCnz0fkse.jpg
       2:
-        url_poster: ''
+        url_poster: https://image.tmdb.org/t/p/original/oV7lOWDDqLd0Wr7qOxgWoMafzzL.jpg
       3:
-        url_poster: ''
+        url_poster: https://image.tmdb.org/t/p/original/8NJr3fOjDqG24HJ0g84hGtXiWX0.jpg
   362829:
     label_title: Mythic Quest
     release_year: '2020'
@@ -2488,15 +2488,17 @@ metadata:
     label_title: Scooby-Doo, Where Are You!
     release_year: '1969'
     sort_title: Scooby-Doo, Where Are You!
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/165160
     tpdb_search: https://theposterdb.com/search?term=Scooby-Doo,+Where+Are+You!&section=shows
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/165161
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/165162
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/165163
       3:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/165164
   248884:
     label_title: The Secret Circle
     release_year: '2011'
