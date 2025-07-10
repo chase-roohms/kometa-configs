@@ -1148,9 +1148,9 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/609123
   75805:
-    label_title: It's Always Sunny in Philadelphia
+    label_title: "It's Always Sunny in Philadelphia"
     release_year: '2005'
-    sort_title: It's Always Sunny in Philadelphia
+    sort_title: "It's Always Sunny in Philadelphia"
     url_poster: https://theposterdb.com/api/assets/150028
     tpdb_search: https://theposterdb.com/search?term=It's+Always+Sunny+in+Philadelphia&section=shows
     seasons:
@@ -1187,11 +1187,11 @@ metadata:
       16:
         url_poster: https://theposterdb.com/api/assets/357913
       17:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/623907
   273106:
-    label_title: Ja'mie - Private School Girl
+    label_title: "Ja'mie - Private School Girl"
     release_year: '2013'
-    sort_title: Ja'mie - Private School Girl
+    sort_title: "Ja'mie - Private School Girl"
     url_poster: https://image.tmdb.org/t/p/original/e4r1YcQQQW3wHGKzsOMDoxXluBm.jpg
     tpdb_search: https://theposterdb.com/search?term=Ja'mie+-+Private+School+Girl&section=shows
     seasons:
