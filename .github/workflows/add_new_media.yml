@@ -147,6 +147,7 @@ jobs:
                 | from_entries
               )
               ' ${{ env.SHOW_METADATA_FILE }}
+            yq -i '(.metadata[] | .seasons) |= (to_entries | sort_by(.key | tonumber) | from_entries)' ${{ env.SHOW_METADATA_FILE }}
             yq -i '.metadata.${{ github.event.client_payload.series.tvdbId }}.release_year style="single"' ${{ env.SHOW_METADATA_FILE }}
             yq -i '.metadata.${{ github.event.client_payload.series.tvdbId }}.url_poster style="single"' ${{ env.SHOW_METADATA_FILE }}
             yq ${{ env.SHOW_METADATA_FILE }} # Debug
