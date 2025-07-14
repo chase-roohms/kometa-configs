@@ -614,6 +614,7 @@ metadata:
     sort_title: DAN DA DAN
     url_poster: https://theposterdb.com/api/assets/470038
     tpdb_search: https://theposterdb.com/search?term=DAN+DA+DAN&section=shows
+    audio_language: ja-JP
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/503497
