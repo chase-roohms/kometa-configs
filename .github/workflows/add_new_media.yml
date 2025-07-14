@@ -4,7 +4,6 @@ name: New Media Added
 on:
   repository_dispatch:
     types: [arr-import]
-  workflow_dispatch:
 
 permissions:
   id-token: write
