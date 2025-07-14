@@ -1,4 +1,13 @@
 metadata:
+  411959:
+    label_title: 3 Body Problem
+    release_year: '2024'
+    sort_title: 3 Body Problem
+    url_poster: https://theposterdb.com/api/assets/465293
+    tpdb_search: https://theposterdb.com/search?term=3+Body+Problem&section=shows
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/465294
   268592:
     label_title: The 100
     release_year: '2014'
@@ -53,24 +62,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/293983
       2:
         url_poster: https://theposterdb.com/api/assets/574657
-  411959:
-    label_title: 3 Body Problem
-    release_year: '2024'
-    sort_title: 3 Body Problem
-    url_poster: https://theposterdb.com/api/assets/465293
-    tpdb_search: https://theposterdb.com/search?term=3+Body+Problem&section=shows
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/465294
-  393221:
-    label_title: ARK - The Animated Series
-    release_year: '2024'
-    sort_title: ARK - The Animated Series
-    url_poster: https://theposterdb.com/api/assets/470903
-    tpdb_search: https://theposterdb.com/search?term=ARK+-+The+Animated+Series&section=shows
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/470904
   393197:
     label_title: The Acolyte
     release_year: '2024'
@@ -201,6 +192,15 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/404770
       14:
         url_poster: https://theposterdb.com/api/assets/404771
+  393221:
+    label_title: ARK - The Animated Series
+    release_year: '2024'
+    sort_title: ARK - The Animated Series
+    url_poster: https://theposterdb.com/api/assets/470903
+    tpdb_search: https://theposterdb.com/search?term=ARK+-+The+Animated+Series&section=shows
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/470904
   385925:
     label_title: Avatar - The Last Airbender
     release_year: '2024'
@@ -220,16 +220,6 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/396384
-  399838:
-    label_title: BEEF
-    release_year: '2023'
-    sort_title: BEEF
-    url_poster: https://theposterdb.com/api/assets/518302
-    tpdb_search: https://theposterdb.com/search?term=BEEF&section=shows
-    studio: A24
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/345359
   417223:
     label_title: Baby Reindeer
     release_year: '2024'
@@ -254,6 +244,16 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/602394
       4:
         url_poster: https://theposterdb.com/api/assets/607605
+  399838:
+    label_title: BEEF
+    release_year: '2023'
+    sort_title: BEEF
+    url_poster: https://theposterdb.com/api/assets/518302
+    tpdb_search: https://theposterdb.com/search?term=BEEF&section=shows
+    studio: A24
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/345359
   380991:
     label_title: Behind Her Eyes
     release_year: '2021'
@@ -514,25 +514,33 @@ metadata:
       2025:
         title: 2025 Weight Loss Challenge
         url_poster: https://i.imgur.com/epRlHse.png
-        summary: 'New year, new you! Start 2025 off strong with this 31 day Weight Loss Challenge! This full body program is suitable for all fitness levels as you can modify the exercises as necessary with low impact and no jumping alternatives. No equipment is required.
+        summary: 'New year, new you! Start 2025 off strong with this 31 day Weight
+          Loss Challenge! This full body program is suitable for all fitness levels
+          as you can modify the exercises as necessary with low impact and no jumping
+          alternatives. No equipment is required.
 
           Get the full schedule at chloeting.com/program/2025/weight-loss-challenge'
         episodes:
           1:
             title: 5 Min Warm Up
-            summary: A 5 min full body warm up video that you can do before starting your workouts.
+            summary: A 5 min full body warm up video that you can do before starting
+              your workouts.
           2:
             title: 30 Min Killer Cardio Workout
-            summary: This is a 30 min full body cardio workout using just your body weight.
+            summary: This is a 30 min full body cardio workout using just your body
+              weight.
           3:
             title: 15 Min Back, Arms, and Core Workout
-            summary: This is an upper body workout using just your body weight. You can use dumbbells or resistance bands if you would like to.
+            summary: This is an upper body workout using just your body weight. You
+              can use dumbbells or resistance bands if you would like to.
           4:
             title: 20 Min Lower Body Workout
-            summary: This is a lower body workout using just your body weight. You can use dumbbells or resistance bands if you would like to.
+            summary: This is a lower body workout using just your body weight. You
+              can use dumbbells or resistance bands if you would like to.
           5:
             title: 10 Min Intense Abs Workout
-            summary: This is a 10 min abs workout that should give your core a great burn.
+            summary: This is a 10 min abs workout that should give your core a great
+              burn.
           6:
             title: 20 Min HIIT Cardio Workout
             summary: This is a full body HIIT workout.
@@ -630,18 +638,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/470039
       2:
         url_poster: https://theposterdb.com/api/assets/554670
-  418123:
-    label_title: DEAD DEAD DEMONS DEDEDEDE DESTRUCTION
-    release_year: '2024'
-    sort_title: DEAD DEAD DEMONS DEDEDEDE DESTRUCTION
-    url_poster: https://theposterdb.com/api/assets/497213
-    tpdb_search: https://theposterdb.com/search?term=DEAD+DEAD+DEMONS+DEDEDEDE+DESTRUCTION&section=shows
-    audio_language: ja-JP
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/502119
-      1:
-        url_poster: https://theposterdb.com/api/assets/497214
   422712:
     label_title: Daredevil - Born Again
     release_year: '2025'
@@ -674,6 +670,18 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/481648
+  418123:
+    label_title: DEAD DEAD DEMONS DEDEDEDE DESTRUCTION
+    release_year: '2024'
+    sort_title: DEAD DEAD DEMONS DEDEDEDE DESTRUCTION
+    url_poster: https://theposterdb.com/api/assets/497213
+    tpdb_search: https://theposterdb.com/search?term=DEAD+DEAD+DEMONS+DEDEDEDE+DESTRUCTION&section=shows
+    audio_language: ja-JP
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/502119
+      1:
+        url_poster: https://theposterdb.com/api/assets/497214
   72023:
     label_title: Deadwood
     release_year: '2004'
@@ -803,19 +811,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/108617
       6:
         url_poster: https://theposterdb.com/api/assets/183289
-  401003:
-    label_title: FROM
-    release_year: '2022'
-    sort_title: FROM
-    url_poster: https://theposterdb.com/api/assets/214022
-    tpdb_search: https://theposterdb.com/search?term=FROM&section=shows
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/214023
-      2:
-        url_poster: https://theposterdb.com/api/assets/347291
-      3:
-        url_poster: https://theposterdb.com/api/assets/515190
   362496:
     label_title: The Falcon and The Winter Soldier
     release_year: '2021'
@@ -931,6 +926,19 @@ metadata:
     seasons:
       1:
         url_poster: https://image.tmdb.org/t/p/original/zitSh6i9JShgMpbFitfTXxuFnKd.jpg
+  401003:
+    label_title: FROM
+    release_year: '2022'
+    sort_title: FROM
+    url_poster: https://theposterdb.com/api/assets/214022
+    tpdb_search: https://theposterdb.com/search?term=FROM&section=shows
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/214023
+      2:
+        url_poster: https://theposterdb.com/api/assets/347291
+      3:
+        url_poster: https://theposterdb.com/api/assets/515190
   450537:
     label_title: Gachiakuta
     release_year: '2025'
@@ -1148,9 +1156,9 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/609123
   75805:
-    label_title: "It's Always Sunny in Philadelphia"
+    label_title: It's Always Sunny in Philadelphia
     release_year: '2005'
-    sort_title: "It's Always Sunny in Philadelphia"
+    sort_title: It's Always Sunny in Philadelphia
     url_poster: https://theposterdb.com/api/assets/150028
     tpdb_search: https://theposterdb.com/search?term=It's+Always+Sunny+in+Philadelphia&section=shows
     seasons:
@@ -1189,9 +1197,9 @@ metadata:
       17:
         url_poster: https://theposterdb.com/api/assets/623907
   273106:
-    label_title: "Ja'mie - Private School Girl"
+    label_title: Ja'mie - Private School Girl
     release_year: '2013'
-    sort_title: "Ja'mie - Private School Girl"
+    sort_title: Ja'mie - Private School Girl
     url_poster: https://image.tmdb.org/t/p/original/e4r1YcQQQW3wHGKzsOMDoxXluBm.jpg
     tpdb_search: https://theposterdb.com/search?term=Ja'mie+-+Private+School+Girl&section=shows
     seasons:
@@ -1533,6 +1541,8 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Lord+of+Mysteries&section=shows
     audio_language: zh-CN
     seasons:
+      0:
+        url_poster: ''
       1:
         url_poster: https://theposterdb.com/api/assets/619040
   367506:
@@ -2415,7 +2425,8 @@ metadata:
             summary: When Tony Cavalero gets on set, he brings the (hell)fire.
           6:
             title: The Righteous Gemstones' Best Insults
-            summary: Words of affirmations courtesy of Jesse (Danny McBride), Judy (Edi Patterson), and Kelvin (Adam DeVine) Gemstone.
+            summary: Words of affirmations courtesy of Jesse (Danny McBride), Judy
+              (Edi Patterson), and Kelvin (Adam DeVine) Gemstone.
           7:
             title: A Day in the Life with Tim Baltz
             summary: Saint Judy isn't the only one who’s slick.
@@ -2446,7 +2457,8 @@ metadata:
     sort_title: Salad Fingers
     url_poster: https://theposterdb.com/api/assets/603061
     tpdb_search: https://theposterdb.com/search?term=Salad+Fingers&section=shows
-    summary: The surreal life of Salad Fingers, an unknown creature living in an apocalyptic wasteland.
+    summary: The surreal life of Salad Fingers, an unknown creature living in an apocalyptic
+      wasteland.
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/602743
@@ -2456,10 +2468,12 @@ metadata:
             summary: This is a short salad fingers message for 1 million Youtube subscribers.
           2:
             title: Market
-            summary: Salad Fingers runs his own market stall but has some issues with the locals. Hubert Cumberdale offers to help out.
+            summary: Salad Fingers runs his own market stall but has some issues with
+              the locals. Hubert Cumberdale offers to help out.
           3:
             title: The Perfect Spoon?
-            summary: Salad Fingers revisits his past and remembers the time he found the perfect spoon.
+            summary: Salad Fingers revisits his past and remembers the time he found
+              the perfect spoon.
       1:
         url_poster: https://theposterdb.com/api/assets/602744
         episodes:
@@ -2468,7 +2482,10 @@ metadata:
             summary: Salad Fingers tries to find the perfect spoon.
           2:
             title: Friends
-            summary: Salad Fingers has a few friends over for a fish supper that he's preparing. Marjory Stewart-Baxter tastes the best because she bathes in essential oils. Hubert is a right dirty sod because he hangs out in chimneys.
+            summary: Salad Fingers has a few friends over for a fish supper that he's
+              preparing. Marjory Stewart-Baxter tastes the best because she bathes
+              in essential oils. Hubert is a right dirty sod because he hangs out
+              in chimneys.
           3:
             title: Nettles
             summary: Salad Fingers finds great pleasure in a magical plant.
@@ -2492,16 +2509,20 @@ metadata:
             summary: Salad Fingers receives a letter from the great war.
           10:
             title: Birthday
-            summary: It's Hubert Cumberdale's Birthday but Milford Cubicle isn't feeling so well.
+            summary: It's Hubert Cumberdale's Birthday but Milford Cubicle isn't feeling
+              so well.
           11:
             title: Glass Brother
-            summary: Salad Fingers decides it’s time for Hubert Cumberdale to become a real boy.
+            summary: Salad Fingers decides it’s time for Hubert Cumberdale to become
+              a real boy.
           12:
             title: Postman
-            summary: Salad Fingers goes out on his local postal rounds - and then back to the "postal counting house".
+            summary: Salad Fingers goes out on his local postal rounds - and then
+              back to the "postal counting house".
           13:
             title: Harvest
-            summary: Salad Fingers is facing a food shortage due to a failed crop. His only hope is to pray to Grandmother Growth.
+            summary: Salad Fingers is facing a food shortage due to a failed crop.
+              His only hope is to pray to Grandmother Growth.
   366211:
     label_title: The Sandman
     release_year: '2022'
@@ -3129,7 +3150,9 @@ metadata:
         episodes:
           20:
             title: A Decade of Rumors and Lies
-            summary: A highlight of the juiciest secrets and outrageous lies from season past that lead to current events and contributed to the "#Scandoval" era.
+            summary: A highlight of the juiciest secrets and outrageous lies from
+              season past that lead to current events and contributed to the "#Scandoval"
+              era.
       1:
         url_poster: https://theposterdb.com/api/assets/371897
       2:
@@ -3226,20 +3249,34 @@ metadata:
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/573868
-        summary: Special episodes and clips of the cast, promotionals, behind the scenes videos, and more!
+        summary: Special episodes and clips of the cast, promotionals, behind the
+          scenes videos, and more!
         episodes:
           51:
             title: Yellowjackets Cast Tests Skills By Acting Out Emojis
-            summary: Thanks to the cast, the plot, and the crazy suspense, the show Yellowjackets has fans sitting on the edge of their seats. We all know that Courtney Eaton, Sophie Nélisse, Sophie Thatcher, Liv Hewson, and Samantha Hanratty can act happy, sad, excited, nervous, and more - but can they impersonate EMOJIS?!
+            summary: Thanks to the cast, the plot, and the crazy suspense, the show
+              Yellowjackets has fans sitting on the edge of their seats. We all know
+              that Courtney Eaton, Sophie Nélisse, Sophie Thatcher, Liv Hewson, and
+              Samantha Hanratty can act happy, sad, excited, nervous, and more - but
+              can they impersonate EMOJIS?!
           52:
             title: Yellowjackets Cast Makes Friendship Bracelets
-            summary: Buzz buzz! To celebrate Yellowjackets Season 3, we had Sophie Thatcher, Courtney Eaton, Sophie Nélisse, and Liv Hewson make some friendship bracelets while answering questions.
+            summary: Buzz buzz! To celebrate Yellowjackets Season 3, we had Sophie
+              Thatcher, Courtney Eaton, Sophie Nélisse, and Liv Hewson make some friendship
+              bracelets while answering questions.
           53:
             title: Yellowjackets Cast Take a Friendship Test
-            summary: How well do Jasmin Savoy Brown, Sophie Thatcher, Christina Ricci, Melanie Lynskey, Sophie Nélisse actually know each other? The Yellowjackets costars get together to answer questions about each other, give each other compliments, look back at memories on set and more.
+            summary: How well do Jasmin Savoy Brown, Sophie Thatcher, Christina Ricci,
+              Melanie Lynskey, Sophie Nélisse actually know each other? The Yellowjackets
+              costars get together to answer questions about each other, give each
+              other compliments, look back at memories on set and more.
           54:
             title: Yellowjackets Cast Compete in a Compliment Battle
-            summary: Sophie Thatcher, Jasmin Savoy Brown, Courtney Eaton, Samantha Hanratty, Sophie Nelisse, and Liv Hewson of Yellowjackets takes turns reading extremely complimentary tweets to each other in a very dramatic fashion. Which cast member can receive their compliments without breaking character?
+            summary: Sophie Thatcher, Jasmin Savoy Brown, Courtney Eaton, Samantha
+              Hanratty, Sophie Nelisse, and Liv Hewson of Yellowjackets takes turns
+              reading extremely complimentary tweets to each other in a very dramatic
+              fashion. Which cast member can receive their compliments without breaking
+              character?
       1:
         url_poster: https://theposterdb.com/api/assets/573869
       2:
