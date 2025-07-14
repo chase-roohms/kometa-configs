@@ -1,0 +1,72 @@
+name: Sort Metadata Files
+
+on:
+  workflow_dispatch:
+
+permissions:
+  id-token: write
+  contents: write
+
+env:
+  MOVIE_METADATA_FILE: movie_metadata.yml
+  SHOW_METADATA_FILE: show_metadata.yml
+
+jobs:
+  sort:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        id: checkout
+        uses: actions/checkout@v4.2.2
+      
+      - name: Update metadata file with movie sorting
+        shell: bash
+        run: |
+          yq -i '
+            .metadata |= (
+              to_entries
+              | map(
+                  .value.temp_sort = (
+                    (.value.sort_title | downcase)
+                    | sub("\\b([0-9])\\b"; "00000${1}")
+                    | sub("\\b([0-9]{2})\\b"; "0000${1}")
+                    | sub("\\b([0-9]{3})\\b"; "000${1}")
+                    | sub("\\b([0-9]{4})\\b"; "00${1}")
+                    | sub("\\b([0-9]{5})\\b"; "0${1}")
+                  )
+                )
+              | sort_by(.value.temp_sort)
+              | map(.value |= del(.temp_sort))
+              | from_entries
+            )
+            ' ${{ env.MOVIE_METADATA_FILE }}
+      
+      - name: Update metadata file with show sorting
+        shell: bash
+        run: |
+          yq -i '
+            .metadata |= (
+              to_entries
+              | map(
+                  .value.temp_sort = (
+                    (.value.sort_title | downcase)
+                    | sub("\\b([0-9])\\b"; "00000${1}")
+                    | sub("\\b([0-9]{2})\\b"; "0000${1}")
+                    | sub("\\b([0-9]{3})\\b"; "000${1}")
+                    | sub("\\b([0-9]{4})\\b"; "00${1}")
+                    | sub("\\b([0-9]{5})\\b"; "0${1}")
+                  )
+                )
+              | sort_by(.value.temp_sort)
+              | map(.value |= del(.temp_sort))
+              | from_entries
+            )
+            ' ${{ env.SHOW_METADATA_FILE }}
+      
+      - name: Commit Changes to Main
+        id: commit-changes
+        run: |
+          git config --global user.email "kometa@updater.com"
+          git config --global user.name "Kometa Updater"
+          git add ${{ env.MOVIE_METADATA_FILE }}
+          git diff-index --quiet main || git commit -m "Updating movie file" && git push
