@@ -1,0 +1,129 @@
+name: Find Missing Posters (Bash)
+
+on:
+  workflow_dispatch:
+
+permissions:
+  id-token: write
+  contents: read
+  issues: write
+
+env:
+  MOVIE_METADATA_FILE: movie_metadata.yml
+  SHOW_METADATA_FILE: show_metadata.yml
+
+jobs:
+  update:
+    name: Find Missing Posters
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        id: checkout
+        uses: actions/checkout@v4.2.2
+      
+      - name: Find Missing Posters
+        id: run-script
+        run: |
+          movie_file=$MOVIE_METADATA_FILE
+          show_file=$SHOW_METADATA_FILE
+          function file_exists() {
+            [[ -f "$1" ]] || { echo "File not found: $1"; exit 1; }
+          }
+          
+          function get_tpdb_search_link() {
+            local title="$1"
+            local section="$2"
+            local encoded_title="${title// /+}"
+            encoded_title="${encoded_title//&/%26}"
+            echo "https://theposterdb.com/search?term=${encoded_title}&section=${section}"
+          }
+          
+          function get_missing_movie_posters() {
+            local file="$1"
+            yq '.metadata' "$file" | yq 'to_entries | .[]' -o=json | jq -r '
+              select(.value.url_poster == null or .value.url_poster == "")
+              | {
+                  db_id: .key,
+                  title: .value.label_title,
+                  release_year: (.value.release_year // "Unknown")
+                }' | while read -r line; do
+              db_id=$(echo "$line" | jq -r '.db_id')
+              title=$(echo "$line" | jq -r '.title')
+              year=$(echo "$line" | jq -r '.release_year')
+              search_url=$(get_tpdb_search_link "$title" "movies")
+              echo "|[${db_id}](https://www.themoviedb.org/movie/${db_id})|${title}|${year}|[Search on TPDB](${search_url})|"
+            done
+          }
+          
+          function get_missing_show_posters() {
+            local file="$1"
+            yq '.metadata' "$file" | yq 'to_entries | .[]' -o=json | jq -c '.' | while read -r entry; do
+              db_id=$(echo "$entry" | jq -r '.key')
+              title=$(echo "$entry" | jq -r '.value.label_title')
+              year=$(echo "$entry" | jq -r '.value.release_year // "Unknown"')
+              has_parent=$(echo "$entry" | jq -r '(.value.url_poster == null or .value.url_poster == "")')
+              seasons=$(echo "$entry" | jq -r '.value.seasons // {}' | jq -r 'to_entries | map(select(.value.url_poster == null or .value.url_poster == "")) | map(.key | tostring) | join(", ")')
+              out_seasons=""
+              if [[ "$has_parent" == "true" ]]; then
+                out_seasons="Parent"
+              fi
+              if [[ -n "$seasons" ]]; then
+                [[ -n "$out_seasons" ]] && out_seasons+=", "
+                out_seasons+="$seasons"
+              fi
+              if [[ -n "$out_seasons" ]]; then
+                search_url=$(get_tpdb_search_link "$title" "shows")
+                echo "|[${db_id}](https://www.thetvdb.com/search?query=${db_id})|${title}|${year}|${out_seasons}|[Search on TPDB](${search_url})|"
+              fi
+            done
+          }
+          
+          function write_movie_report() {
+            local movie_file="$1"
+            local output="poster_report_movies.md"
+          
+            {
+              echo "|TMDB ID|Title|Release Year|Find a Poster|"
+              echo "|-------|-----|------------|-------------|"
+              get_missing_movie_posters "$movie_file"
+            } > "$output"
+          }
+          
+          function write_show_report() {
+            local show_file="$1"
+            local output="poster_report_shows.md"
+          
+            {
+              echo "|TMDB ID|Title|Release Year|Missing Seasons|Find a Poster|"
+              echo "|-------|-----|------------|----------------|-------------|"
+              get_missing_show_posters "$show_file"
+            } > "$output"
+          }
+          
+          # ──────────────────────────────── MAIN ───────────────────────────────── #
+          movie_file=""
+          show_file=""
+          
+          while [[ $# -gt 0 ]]; do
+            case "$1" in
+              --movie_file)
+                movie_file="$2"; shift 2 ;;
+              --show_file)
+                show_file="$2"; shift 2 ;;
+              *)
+                echo "Unknown argument: $1"; exit 1 ;;
+            esac
+          done
+          
+          file_exists "$movie_file"
+          file_exists "$show_file"
+          
+          write_movie_report "$movie_file"
+          write_show_report "$show_file"
+
+      - name: Create Job Summary
+        run: |
+          echo "# Movies" >> $GITHUB_STEP_SUMMARY
+          cat poster_report_movies.md >> $GITHUB_STEP_SUMMARY
+          echo "# Shows" >> $GITHUB_STEP_SUMMARY
+          cat poster_report_shows.md >> $GITHUB_STEP_SUMMARY
