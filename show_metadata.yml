@@ -1323,11 +1323,11 @@ metadata:
     label_title: Leviathan
     release_year: '2025'
     sort_title: Leviathan
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/623897
     tpdb_search: https://theposterdb.com/search?term=Leviathan&section=shows
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/623898
   454690:
     label_title: Like Water for Chocolate
     release_year: '2024'
