@@ -69,4 +69,5 @@ jobs:
           git config --global user.email "kometa@updater.com"
           git config --global user.name "Kometa Updater"
           git add ${{ env.MOVIE_METADATA_FILE }}
-          git diff-index --quiet main || git commit -m "Updating movie file" && git push
+          git add ${{ env.SHOW_METADATA_FILE }}
+          git diff-index --quiet main || git commit -m "Sorted Metadata Files" && git push
