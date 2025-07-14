@@ -24,8 +24,8 @@ jobs:
       - name: Find Missing Posters
         id: run-script
         run: |
-          movie_file=$MOVIE_METADATA_FILE
-          show_file=$SHOW_METADATA_FILE
+          MOVIE_METADATA_FILE=$MOVIE_METADATA_FILE
+          SHOW_METADATA_FILE=$SHOW_METADATA_FILE
           function file_exists() {
             [[ -f "$1" ]] || { echo "File not found: $1"; exit 1; }
           }
@@ -79,47 +79,33 @@ jobs:
           }
           
           function write_movie_report() {
-            local movie_file="$1"
+            local MOVIE_METADATA_FILE="$1"
             local output="poster_report_movies.md"
           
             {
               echo "|TMDB ID|Title|Release Year|Find a Poster|"
               echo "|-------|-----|------------|-------------|"
-              get_missing_movie_posters "$movie_file"
+              get_missing_movie_posters "$MOVIE_METADATA_FILE"
             } > "$output"
           }
           
           function write_show_report() {
-            local show_file="$1"
+            local SHOW_METADATA_FILE="$1"
             local output="poster_report_shows.md"
           
             {
               echo "|TMDB ID|Title|Release Year|Missing Seasons|Find a Poster|"
               echo "|-------|-----|------------|----------------|-------------|"
-              get_missing_show_posters "$show_file"
+              get_missing_show_posters "$SHOW_METADATA_FILE"
             } > "$output"
           }
           
           # ──────────────────────────────── MAIN ───────────────────────────────── #
-          movie_file=""
-          show_file=""
+          file_exists "$MOVIE_METADATA_FILE"
+          file_exists "$SHOW_METADATA_FILE"
           
-          while [[ $# -gt 0 ]]; do
-            case "$1" in
-              --movie_file)
-                movie_file="$2"; shift 2 ;;
-              --show_file)
-                show_file="$2"; shift 2 ;;
-              *)
-                echo "Unknown argument: $1"; exit 1 ;;
-            esac
-          done
-          
-          file_exists "$movie_file"
-          file_exists "$show_file"
-          
-          write_movie_report "$movie_file"
-          write_show_report "$show_file"
+          write_movie_report "$MOVIE_METADATA_FILE"
+          write_show_report "$SHOW_METADATA_FILE"
 
       - name: Create Job Summary
         run: |
