@@ -1862,42 +1862,50 @@ metadata:
     label_title: Jurassic Park
     release_year: '1993'
     sort_title: Jurassic Park 1
-    url_poster: https://theposterdb.com/api/assets/530815
+    url_poster: https://theposterdb.com/api/assets/158969
     tpdb_search: https://theposterdb.com/search?term=Jurassic+Park&section=movies
   330:
     label_title: The Lost World Jurassic Park
     release_year: '1997'
     sort_title: Jurassic Park 2
-    url_poster: https://theposterdb.com/api/assets/530814
+    url_poster: https://theposterdb.com/api/assets/158970
     tpdb_search: https://theposterdb.com/search?term=The+Lost+World+Jurassic+Park&section=movies
   331:
     label_title: Jurassic Park III
     release_year: '2001'
     sort_title: Jurassic Park 3
-    url_poster: https://theposterdb.com/api/assets/530813
+    url_poster: https://theposterdb.com/api/assets/158971
     tpdb_search: https://theposterdb.com/search?term=Jurassic+Park+III&section=movies
   135397:
     label_title: Jurassic World
     release_year: '2015'
     sort_title: Jurassic Park 4
-    url_poster: https://theposterdb.com/api/assets/530812
+    url_poster: https://theposterdb.com/api/assets/158972
     tpdb_search: https://theposterdb.com/search?term=Jurassic+World&section=movies
   351286:
     label_title: Jurassic World Fallen Kingdom
     release_year: '2018'
     sort_title: Jurassic Park 5
-    url_poster: https://theposterdb.com/api/assets/530811
+    url_poster: https://theposterdb.com/api/assets/158973
+    tpdb_search: https://theposterdb.com/search?term=Jurassic+World+Fallen+Kingdom&section=movies
+  630322:
+    label_title: Battle at Big Rock
+    release_year: '2019'
+    sort_title: Jurassic Park 6
+    url_poster: https://theposterdb.com/api/assets/158973
     tpdb_search: https://theposterdb.com/search?term=Jurassic+World+Fallen+Kingdom&section=movies
   507086:
     label_title: Jurassic Park Dominion
     release_year: '2022'
-    sort_title: Jurassic Park 6
-    url_poster: https://theposterdb.com/api/assets/530810
+    sort_title: Jurassic Park 7
+    url_poster: https://theposterdb.com/api/assets/158975
     tpdb_search: https://theposterdb.com/search?term=Jurassic+Park+Dominion&section=movies
   1234821:
     label_title: Jurassic World Rebirth
-    sort_title: Jurassic Park 7
-    url_poster: https://theposterdb.com/api/assets/606225
+    release_year: '2025'
+    sort_title: Jurassic Park 8
+    url_poster: https://theposterdb.com/api/assets/625064
+    tpdb_search: https://theposterdb.com/search?term=Jurassic+Park+Rebirth&section=movies
   141052:
     label_title: Justice League
     release_year: '2017'
