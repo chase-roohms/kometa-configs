@@ -1965,6 +1965,12 @@ metadata:
     sort_title: Kung Fu Panda 4
     url_poster: https://theposterdb.com/api/assets/469089
     tpdb_search: https://theposterdb.com/search?term=Kung+Fu+Panda+4&section=movies
+  10340:
+    label_title: Lady and the Tramp
+    release_year: '1955'
+    sort_title: Lady and the Tramp
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Lady+and+the+Tramp&section=movies
   938614:
     label_title: Late Night with the Devil
     release_year: '2024'
