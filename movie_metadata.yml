@@ -152,6 +152,12 @@ metadata:
     label_title: Alita Battle Angel
     sort_title: Alita Battle Angel
     url_poster: https://theposterdb.com/api/assets/108463
+  11497:
+    label_title: All Dogs Go to Heaven
+    release_year: '1989'
+    sort_title: All Dogs Go to Heaven
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=All+Dogs+Go+to+Heaven&section=movies
   342470:
     label_title: All the Bright Places
     sort_title: All the Bright Places
