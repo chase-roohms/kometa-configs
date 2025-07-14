@@ -4,6 +4,7 @@ name: New Media Added
 on:
   repository_dispatch:
     types: [arr-import]
+  workflow_dispatch:
 
 permissions:
   id-token: write
@@ -52,7 +53,26 @@ jobs:
           if [[ $(yq '.metadata.${{ github.event.client_payload.remoteMovie.tmdbId }}' ${{ env.MOVIE_METADATA_FILE }}) == null ]]; then
             echo "Movie does not exist, adding"
             yq -i '.metadata += {'"$tmdb_id"': {"label_title": "'"$title"'", "release_year": "'"$release_year"'", "sort_title": "'"$sort_title"'", "url_poster": "", "tpdb_search": "'"$tpdb_search"'"}}' ${{ env.MOVIE_METADATA_FILE }}
-            yq -i '.metadata |= (to_entries | sort_by(.value.sort_title) | from_entries)' ${{ env.MOVIE_METADATA_FILE }}
+            
+            # https://chatgpt.com/share/68757652-e170-8003-b6e1-d625f0fb59f8
+            yq -i '
+              .metadata |= (
+                to_entries
+                | map(
+                    .value.temp_sort = (
+                      (.value.sort_title | downcase)
+                      | sub("\\b([0-9])\\b"; "00000${1}")
+                      | sub("\\b([0-9]{2})\\b"; "0000${1}")
+                      | sub("\\b([0-9]{3})\\b"; "000${1}")
+                      | sub("\\b([0-9]{4})\\b"; "00${1}")
+                      | sub("\\b([0-9]{5})\\b"; "0${1}")
+                    )
+                  )
+                | sort_by(.value.temp_sort)
+                | map(.value |= del(.temp_sort))
+                | from_entries
+              )
+              ' ${{ env.MOVIE_METADATA_FILE }}
             yq -i '.metadata.${{ github.event.client_payload.remoteMovie.tmdbId }}.release_year style="single"' ${{ env.MOVIE_METADATA_FILE }}
             yq -i '.metadata.${{ github.event.client_payload.remoteMovie.tmdbId }}.url_poster style="single"' ${{ env.MOVIE_METADATA_FILE }}
             yq ${{ env.MOVIE_METADATA_FILE }} # Debug
@@ -108,7 +128,26 @@ jobs:
           if [[ $(yq '.metadata.${{ github.event.client_payload.series.tvdbId }}' ${{ env.SHOW_METADATA_FILE }}) == null ]]; then
             echo "Show does not exist, adding"
             yq -i '.metadata += {'"$tvdb_id"': {"label_title": "'"$title"'", "release_year": "'"$release_year"'", "sort_title": "'"$sort_title"'", "url_poster": "", "tpdb_search": "'"$tpdb_search"'"}}' ${{ env.SHOW_METADATA_FILE }}
-            yq -i '.metadata |= (to_entries | sort_by(.value.sort_title) | from_entries)' ${{ env.SHOW_METADATA_FILE }}
+            
+            # https://chatgpt.com/share/68757652-e170-8003-b6e1-d625f0fb59f8
+            yq -i '
+              .metadata |= (
+                to_entries
+                | map(
+                    .value.temp_sort = (
+                      (.value.sort_title | downcase)
+                      | sub("\\b([0-9])\\b"; "00000${1}")
+                      | sub("\\b([0-9]{2})\\b"; "0000${1}")
+                      | sub("\\b([0-9]{3})\\b"; "000${1}")
+                      | sub("\\b([0-9]{4})\\b"; "00${1}")
+                      | sub("\\b([0-9]{5})\\b"; "0${1}")
+                    )
+                  )
+                | sort_by(.value.temp_sort)
+                | map(.value |= del(.temp_sort))
+                | from_entries
+              )
+              ' ${{ env.SHOW_METADATA_FILE }}
             yq -i '.metadata.${{ github.event.client_payload.series.tvdbId }}.release_year style="single"' ${{ env.SHOW_METADATA_FILE }}
             yq -i '.metadata.${{ github.event.client_payload.series.tvdbId }}.url_poster style="single"' ${{ env.SHOW_METADATA_FILE }}
             yq ${{ env.SHOW_METADATA_FILE }} # Debug
