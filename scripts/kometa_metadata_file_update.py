@@ -107,7 +107,8 @@ def write_metadata_dict(filepath: str, metadata_dict: dict):
             {'metadata': metadata_dict}, 
             metadata_file, 
             sort_keys=False, 
-            allow_unicode=True
+            allow_unicode=True,
+            width=float('inf')
         )
 
 if __name__ == '__main__':
