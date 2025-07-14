@@ -3061,12 +3061,12 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/36135
     tpdb_search: https://theposterdb.com/search?term=Titans+(2018)&section=shows
     seasons:
-      3:
-        url_poster: https://theposterdb.com/api/assets/168834
       1:
         url_poster: https://theposterdb.com/api/assets/36136
       2:
         url_poster: https://theposterdb.com/api/assets/36137
+      3:
+        url_poster: https://theposterdb.com/api/assets/168834
       4:
         url_poster: https://theposterdb.com/api/assets/283692
   459453:
