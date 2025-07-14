@@ -2034,6 +2034,15 @@ metadata:
         url_poster: https://image.tmdb.org/t/p/original/oV7lOWDDqLd0Wr7qOxgWoMafzzL.jpg
       3:
         url_poster: https://image.tmdb.org/t/p/original/8NJr3fOjDqG24HJ0g84hGtXiWX0.jpg
+  443396:
+    label_title: Murderbot
+    release_year: '2025'
+    sort_title: Murderbot
+    url_poster: https://theposterdb.com/api/assets/595941
+    tpdb_search: https://theposterdb.com/search?term=Murderbot&section=shows
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/595942
   362829:
     label_title: Mythic Quest
     release_year: '2020'
@@ -3307,12 +3316,3 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/122836
       2:
         url_poster: https://theposterdb.com/api/assets/308738
-  443396:
-    label_title: Murderbot
-    release_year: '2025'
-    sort_title: Murderbot
-    url_poster: https://theposterdb.com/api/assets/595941
-    tpdb_search: https://theposterdb.com/search?term=Murderbot&section=shows
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/595942

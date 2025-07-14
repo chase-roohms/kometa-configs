@@ -3357,6 +3357,12 @@ metadata:
     sort_title: Super Troopers 2
     url_poster: https://theposterdb.com/api/assets/220023
     tpdb_search: https://theposterdb.com/search?term=Super+Troopers+2&section=movies
+  1061474:
+    label_title: Superman
+    release_year: '2025'
+    sort_title: Superman
+    url_poster: https://theposterdb.com/api/assets/625065
+    tpdb_search: https://theposterdb.com/search?term=Superman&section=movies
   1008042:
     label_title: Talk to Me
     release_year: '2023'
@@ -3864,9 +3870,3 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/444247
     tpdb_search: https://theposterdb.com/search?term=The+Zone+of+Interest&section=movies
     studio: A24
-  1061474:
-    label_title: Superman
-    release_year: '2025'
-    sort_title: Superman
-    url_poster: https://theposterdb.com/api/assets/625065
-    tpdb_search: https://theposterdb.com/search?term=Superman&section=movies
