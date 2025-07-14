@@ -62,6 +62,7 @@ jobs:
               | from_entries
             )
             ' ${{ env.SHOW_METADATA_FILE }}
+            yq -i '(.metadata[] | .seasons) |= (to_entries | sort_by(.key | tonumber) | from_entries)' ${{ env.SHOW_METADATA_FILE }}
       
       - name: Commit Changes to Main
         id: commit-changes
