@@ -3030,6 +3030,12 @@ metadata:
     sort_title: Ron White They Call Me Tater Salad
     url_poster: https://image.tmdb.org/t/p/original/5rY6dQLkMmOwfL4H72MlCiVUbEE.jpg
     tpdb_search: https://theposterdb.com/search?term=Ron+White+They+Call+Me+Tater+Salad&section=movies
+  14444:
+    label_title: The Rugrats Movie
+    release_year: '1998'
+    sort_title: Rugrats Movie
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Rugrats+Movie&section=movies
   930564:
     label_title: Saltburn
     release_year: '2023'
