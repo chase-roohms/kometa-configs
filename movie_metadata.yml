@@ -3060,6 +3060,12 @@ metadata:
     sort_title: Scooby-Doo 2
     url_poster: https://theposterdb.com/api/assets/5900
     tpdb_search: https://theposterdb.com/search?term=Scooby-Doo+2+Monsters+Unleashed&section=movies
+  22538:
+    label_title: Scott Pilgrim vs. the World
+    release_year: '2010'
+    sort_title: Scott Pilgrim vs. the World
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Scott+Pilgrim+vs.+the+World&section=movies
   807:
     label_title: Se7en
     release_year: '1995'
