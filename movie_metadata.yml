@@ -49,7 +49,7 @@ metadata:
     label_title: "2012"
     release_year: '2009'
     sort_title: "2012"
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/21898
     tpdb_search: https://theposterdb.com/search?term=2012&section=movies
   1023915:
     label_title: '2073'
@@ -74,7 +74,7 @@ metadata:
     label_title: The Adventures of Sharkboy and Lavagirl
     release_year: '2005'
     sort_title: Adventures of Sharkboy and Lavagirl
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/20660
     tpdb_search: https://theposterdb.com/search?term=The+Adventures+of+Sharkboy+and+Lavagirl&section=movies
   537915:
     label_title: After
@@ -110,7 +110,7 @@ metadata:
     label_title: Air Bud
     release_year: '1997'
     sort_title: Air Bud
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/96132
     tpdb_search: https://theposterdb.com/search?term=Air+Bud&section=movies
   348:
     label_title: Alien
@@ -460,7 +460,7 @@ metadata:
     label_title: Beethoven
     release_year: '1992'
     sort_title: Beethoven
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/575598
     tpdb_search: https://theposterdb.com/search?term=Beethoven&section=movies
   113082:
     label_title: Berserk The Golden Age Arc I The Egg of the King
@@ -503,7 +503,7 @@ metadata:
     label_title: Bingo
     release_year: '1991'
     sort_title: Bingo
-    url_poster: ''
+    url_poster: https://image.tmdb.org/t/p/original/giooyb8azHrgbwqWUWCn7QhIBBS.jpg
     tpdb_search: https://theposterdb.com/search?term=Bingo&section=movies
   194662:
     label_title: Birdman or The Unexpected Virtue of Ignorance
@@ -652,7 +652,7 @@ metadata:
     label_title: Bolt
     release_year: '2008'
     sort_title: Bolt
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/11833
     tpdb_search: https://theposterdb.com/search?term=Bolt&section=movies
   197:
     label_title: Braveheart
@@ -1564,13 +1564,13 @@ metadata:
   11451:
     label_title: Herbie Fully Loaded
     release_year: '2005'
-    sort_title: Herbie Fully Loaded
-    url_poster: ''
+    sort_title: Herbie 6
+    url_poster: https://theposterdb.com/api/assets/377659
     tpdb_search: https://theposterdb.com/search?term=Herbie+Fully+Loaded&section=movies
   10869:
     label_title: Herbie Rides Again
     release_year: '1974'
-    sort_title: Herbie Rides Again
+    sort_title: Herbie 2
     url_poster: https://theposterdb.com/api/assets/377655
     tpdb_search: https://theposterdb.com/search?term=Herbie+Rides+Again&section=movies
   493922:
@@ -1765,7 +1765,7 @@ metadata:
     label_title: The Indian in the Cupboard
     release_year: '1995'
     sort_title: Indian in the Cupboard
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/160677
     tpdb_search: https://theposterdb.com/search?term=The+Indian+in+the+Cupboard&section=movies
   150540:
     label_title: Inside Out
@@ -1937,7 +1937,7 @@ metadata:
     label_title: Jumanji
     release_year: '1995'
     sort_title: Jumanji
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/8781
     tpdb_search: https://theposterdb.com/search?term=Jumanji&section=movies
   329:
     label_title: Jurassic Park
@@ -2177,13 +2177,13 @@ metadata:
   14136:
     label_title: The Love Bug
     release_year: '1968'
-    sort_title: Love Bug
+    sort_title: Herbie 1
     url_poster: https://theposterdb.com/api/assets/377654
     tpdb_search: https://theposterdb.com/search?term=The+Love+Bug&section=movies
   32643:
     label_title: The Love Bug
     release_year: '1997'
-    sort_title: Love Bug
+    sort_title: Herbie 5
     url_poster: https://theposterdb.com/api/assets/377658
     tpdb_search: https://theposterdb.com/search?term=The+Love+Bug&section=movies
   1226406:
@@ -2312,7 +2312,7 @@ metadata:
     label_title: Matilda
     release_year: '1996'
     sort_title: Matilda
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/137090
     tpdb_search: https://theposterdb.com/search?term=Matilda&section=movies
   603:
     label_title: The Matrix
@@ -2758,7 +2758,7 @@ metadata:
     label_title: The Parent Trap
     release_year: '1998'
     sort_title: Parent Trap
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/102064
     tpdb_search: https://theposterdb.com/search?term=The+Parent+Trap&section=movies
   850920:
     label_title: The Parenting
@@ -3040,7 +3040,7 @@ metadata:
     label_title: The Rugrats Movie
     release_year: '1998'
     sort_title: Rugrats Movie
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/82876
     tpdb_search: https://theposterdb.com/search?term=The+Rugrats+Movie&section=movies
   930564:
     label_title: Saltburn
@@ -3052,7 +3052,7 @@ metadata:
     label_title: The Sandlot
     release_year: '1993'
     sort_title: Sandlot
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/221978
     tpdb_search: https://theposterdb.com/search?term=The+Sandlot&section=movies
   9637:
     label_title: Scooby-Doo
@@ -3070,7 +3070,7 @@ metadata:
     label_title: Scott Pilgrim vs. the World
     release_year: '2010'
     sort_title: Scott Pilgrim vs. the World
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/54722
     tpdb_search: https://theposterdb.com/search?term=Scott+Pilgrim+vs.+the+World&section=movies
   807:
     label_title: Se7en
