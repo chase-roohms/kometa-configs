@@ -1927,6 +1927,12 @@ metadata:
     sort_title: Joker 2
     url_poster: https://theposterdb.com/api/assets/535282
     tpdb_search: https://theposterdb.com/search?term=Joker+Folie+à+Deux&section=movies
+  8844:
+    label_title: Jumanji
+    release_year: '1995'
+    sort_title: Jumanji
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Jumanji&section=movies
   329:
     label_title: Jurassic Park
     release_year: '1993'
