@@ -40,7 +40,7 @@ jobs:
           
           function get_missing_movie_posters() {
             local file="$1"
-            yq '.metadata' "$file" | yq 'to_entries | .[]' -o=json | jq -r '
+            yq '.metadata' "$file" | yq 'to_entries | .[]' -o=json | jq -c '
               select(.value.url_poster == null or .value.url_poster == "")
               | {
                   db_id: .key,
