@@ -1290,11 +1290,15 @@ metadata:
     label_title: Kaiju No. 8
     release_year: '2024'
     sort_title: Kaiju No. 8
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/420286
     tpdb_search: https://theposterdb.com/search?term=Kaiju+No.+8&section=shows
     seasons:
       0:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/482205
+      1:
+        url_poster: https://theposterdb.com/api/assets/482206
+      2:
+        url_poster: https://theposterdb.com/api/assets/619671
   456948:
     label_title: The Kings of Tupelo - A Southern Crime Saga
     release_year: '2024'
