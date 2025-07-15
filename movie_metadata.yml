@@ -100,6 +100,12 @@ metadata:
     sort_title: After 5
     url_poster: https://theposterdb.com/api/assets/426221
     tpdb_search: https://theposterdb.com/search?term=After+Everything&section=movies
+  20737:
+    label_title: Air Bud
+    release_year: '1997'
+    sort_title: Air Bud
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Air+Bud&section=movies
   348:
     label_title: Alien
     release_year: '1979'
