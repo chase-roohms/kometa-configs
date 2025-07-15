@@ -2266,6 +2266,12 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/452675
     tpdb_search: https://theposterdb.com/search?term=The+Marvels&section=movies
     studio: Marvel Studios
+  10830:
+    label_title: Matilda
+    release_year: '1996'
+    sort_title: Matilda
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Matilda&section=movies
   603:
     label_title: The Matrix
     release_year: '1999'
