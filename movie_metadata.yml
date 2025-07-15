@@ -1531,6 +1531,12 @@ metadata:
     sort_title: Hellraiser 11
     url_poster: https://theposterdb.com/api/assets/402710
     tpdb_search: https://theposterdb.com/search?term=Hellraiser&section=movies
+  11451:
+    label_title: Herbie Fully Loaded
+    release_year: '2005'
+    sort_title: Herbie Fully Loaded
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Herbie+Fully+Loaded&section=movies
   10869:
     label_title: Herbie Rides Again
     release_year: '1974'
