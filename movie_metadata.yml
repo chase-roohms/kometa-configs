@@ -45,6 +45,12 @@ metadata:
     label_title: 2001 A Space Odyssey
     sort_title: 2001 Space Odyssey
     url_poster: https://theposterdb.com/api/assets/63118
+  14161:
+    label_title: "2012"
+    release_year: '2009'
+    sort_title: "2012"
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=2012&section=movies
   1023915:
     label_title: '2073'
     release_year: '2024'
