@@ -642,6 +642,12 @@ metadata:
     label_title: Bogotá City of the Lost
     sort_title: Bogota City of the Lost
     url_poster: https://theposterdb.com/api/assets/570009
+  13053:
+    label_title: Bolt
+    release_year: '2008'
+    sort_title: Bolt
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Bolt&section=movies
   197:
     label_title: Braveheart
     release_year: '1995'
