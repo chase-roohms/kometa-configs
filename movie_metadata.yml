@@ -1743,6 +1743,12 @@ metadata:
     sort_title: Incredibles 2
     url_poster: https://theposterdb.com/api/assets/476
     tpdb_search: https://theposterdb.com/search?term=Incredibles+2&section=movies
+  11359:
+    label_title: The Indian in the Cupboard
+    release_year: '1995'
+    sort_title: Indian in the Cupboard
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Indian+in+the+Cupboard&section=movies
   150540:
     label_title: Inside Out
     release_year: '2015'
