@@ -3036,6 +3036,12 @@ metadata:
     sort_title: Saltburn
     url_poster: https://theposterdb.com/api/assets/498592
     tpdb_search: https://theposterdb.com/search?term=Saltburn&section=movies
+  11528:
+    label_title: The Sandlot
+    release_year: '1993'
+    sort_title: Sandlot
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Sandlot&section=movies
   9637:
     label_title: Scooby-Doo
     release_year: '2002'
