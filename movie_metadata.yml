@@ -1587,12 +1587,6 @@ metadata:
     sort_title: Hotel Transylvania 4
     url_poster: https://theposterdb.com/api/assets/246991
     tpdb_search: https://theposterdb.com/search?term=Hotel+Transylvania:+Transformania&section=movies
-  1087192:
-    label_title: How to Train Your Dragon
-    release_year: '2025'
-    sort_title: How to Train Your Dragon 4
-    url_poster: https://theposterdb.com/api/assets/615539
-    tpdb_search: https://theposterdb.com/search?term=How+to+Train+Your+Dragon&section=movies
   10191:
     label_title: How to Train Your Dragon
     release_year: '2010'
@@ -1611,6 +1605,12 @@ metadata:
     sort_title: How to Train Your Dragon 3
     url_poster: https://theposterdb.com/api/assets/15735
     tpdb_search: https://theposterdb.com/search?term=How+to+Train+Your+Dragon+The+Hidden+World&section=movies
+  1087192:
+    label_title: How to Train Your Dragon
+    release_year: '2025'
+    sort_title: How to Train Your Dragon 4
+    url_poster: https://theposterdb.com/api/assets/615539
+    tpdb_search: https://theposterdb.com/search?term=How+to+Train+Your+Dragon&section=movies
   4935:
     label_title: Howls Moving Castle
     release_year: '2004'
