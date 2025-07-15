@@ -103,8 +103,10 @@ jobs:
           # ──────────────────────────────── MAIN ───────────────────────────────── #
           file_exists "$MOVIE_METADATA_FILE"
           file_exists "$SHOW_METADATA_FILE"
-          
+
+          echo "Starting movie report"
           write_movie_report "$MOVIE_METADATA_FILE"
+          echo "Starting show report"
           write_show_report "$SHOW_METADATA_FILE"
 
       - name: Create Job Summary
