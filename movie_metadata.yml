@@ -493,6 +493,12 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/203021
     tpdb_search: https://theposterdb.com/search?term=Big+Hero+6&section=movies
     studio: Marvel Studios
+  16790:
+    label_title: Bingo
+    release_year: '1991'
+    sort_title: Bingo
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Bingo&section=movies
   194662:
     label_title: Birdman or The Unexpected Virtue of Ignorance
     sort_title: Birdman or The Unexpected Virtue of Ignorance
