@@ -1292,6 +1292,9 @@ metadata:
     sort_title: Kaiju No. 8
     url_poster: https://theposterdb.com/api/assets/420286
     tpdb_search: https://theposterdb.com/search?term=Kaiju+No.+8&section=shows
+    audio_language: ja-JP
+    genre:
+      - Anime
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/482205
