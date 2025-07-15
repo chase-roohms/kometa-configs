@@ -418,6 +418,8 @@ metadata:
     sort_title: Batman Ninja vs. Yakuza League
     url_poster: https://image.tmdb.org/t/p/original/aEsqIZHA7AqJfLtcUkQdZrGYlm6.jpg
     tpdb_search: https://theposterdb.com/search?term=Batman+Ninja+vs.+Yakuza+League&section=movies
+    genre:
+      - Anime
   209112:
     label_title: Batman v Superman Dawn of Justice
     release_year: '2016'
@@ -442,18 +444,24 @@ metadata:
     sort_title: Berzerk The Golden Age Arc 1
     url_poster: https://theposterdb.com/api/assets/182150
     tpdb_search: https://theposterdb.com/search?term=Berserk+The+Golden+Age+Arc+I+The+Egg+of+the+King&section=movies
+    genre:
+      - Anime
   118412:
     label_title: Berserk The Golden Age Arc II The Battle for Doldrey
     release_year: '2012'
     sort_title: Berzerk The Golden Age Arc 2
     url_poster: https://theposterdb.com/api/assets/182151
     tpdb_search: https://theposterdb.com/search?term=Berserk+The+Golden+Age+Arc+II+The+Battle+for+Doldrey&section=movies
+    genre:
+      - Anime
   144288:
     label_title: Berserk The Golden Age Arc III The Advent
     release_year: '2013'
     sort_title: Berzerk The Golden Age Arc 3
     url_poster: https://theposterdb.com/api/assets/182152
     tpdb_search: https://theposterdb.com/search?term=Berserk+The+Golden+Age+Arc+III+The+Advent&section=movies
+    genre:
+      - Anime
   799766:
     label_title: Better Man
     release_year: '2024'
@@ -713,12 +721,18 @@ metadata:
     sort_title: Castle in the Sky
     url_poster: https://theposterdb.com/api/assets/24656
     tpdb_search: https://theposterdb.com/search?term=Castle+in+the+Sky&section=movies
+    studio: Studio Ghibli
+    genre:
+      - Anime
   15370:
     label_title: The Cat Returns
     release_year: '2002'
     sort_title: Cat Returns
     url_poster: https://theposterdb.com/api/assets/24668
     tpdb_search: https://theposterdb.com/search?term=The+Cat+Returns&section=movies
+    studio: Studio Ghibli
+    genre:
+      - Anime
   640:
     label_title: Catch Me If You Can
     release_year: '2002'
@@ -882,6 +896,8 @@ metadata:
     sort_title: Demon Slayer -Kimetsu no Yaiba- The Movie Mugen Train
     url_poster: https://theposterdb.com/api/assets/418263
     tpdb_search: https://theposterdb.com/search?term=Demon+Slayer+-Kimetsu+no+Yaiba-+The+Movie+Mugen+Train&section=movies
+    genre:
+      - Anime
   449443:
     title: Den of Thieves
     sort_title: Den of Thieves 1
@@ -1595,6 +1611,9 @@ metadata:
     sort_title: Howls Moving Castle
     url_poster: https://theposterdb.com/api/assets/24669
     tpdb_search: https://theposterdb.com/search?term=Howls+Moving+Castle&section=movies
+    studio: Studio Ghibli
+    genre:
+      - Anime
   1927:
     label_title: Hulk
     release_year: '2003'
@@ -1652,6 +1671,8 @@ metadata:
     sort_title: I Want to Eat Your Pancreas
     url_poster: https://theposterdb.com/api/assets/520389
     tpdb_search: https://theposterdb.com/search?term=I+Want+to+Eat+Your+Pancreas&section=movies
+    genre:
+      - Anime
   1000837:
     label_title: I'm Still Here
     sort_title: Im Still Here
@@ -1918,6 +1939,8 @@ metadata:
     sort_title: 'Kaiju No. 8: Mission Recon'
     url_poster: https://theposterdb.com/api/assets/584789
     tpdb_search: https://theposterdb.com/search?term=Kaiju+No.+8:+Mission+Recon&section=movies
+    genre:
+      - Anime
   24:
     label_title: Kill Bill Vol. 1
     release_year: '2003'
@@ -2083,6 +2106,8 @@ metadata:
     sort_title: Lord of the Rings 4
     url_poster: https://theposterdb.com/api/assets/574283
     tpdb_search: https://theposterdb.com/search?term=The+Lord+of+the+Rings+The+War+of+the+Rohirrim&section=movies
+    genre.remove:
+      - Anime
   590223:
     label_title: Love and Monsters
     release_year: '2020'
@@ -2453,36 +2478,49 @@ metadata:
     sort_title: My Hero Academia 1
     url_poster: https://theposterdb.com/api/assets/503727
     tpdb_search: https://theposterdb.com/search?term=My+Hero+Academia+Two+Heroes&section=movies
+    genre:
+      - Anime
   1054116:
     label_title: My Hero Academia All Might Rising
     release_year: '2019'
     sort_title: My Hero Academia 2
     url_poster: https://theposterdb.com/api/assets/503726
     tpdb_search: https://theposterdb.com/search?term=My+Hero+Academia+All+Might+Rising&section=movies
+    genre:
+      - Anime
   592350:
     label_title: My Hero Academia Heroes Rising
     release_year: '2019'
     sort_title: My Hero Academia 3
     url_poster: https://theposterdb.com/api/assets/503725
     tpdb_search: https://theposterdb.com/search?term=My+Hero+Academia+Heroes+Rising&section=movies
+    genre:
+      - Anime
   768744:
     label_title: My Hero Academia World Heroes Mission
     release_year: '2021'
     sort_title: My Hero Academia 4
     url_poster: https://theposterdb.com/api/assets/503724
     tpdb_search: https://theposterdb.com/search?term=My+Hero+Academia+World+Heroes+Mission&section=movies
+    genre:
+      - Anime
   1159311:
     label_title: My Hero Academia Youre Next
     release_year: '2024'
     sort_title: My Hero Academia Youre Next
     url_poster: https://theposterdb.com/api/assets/503723
     tpdb_search: https://theposterdb.com/search?term=My+Hero+Academia+Youre+Next&section=movies
+    genre:
+      - Anime
   8392:
     label_title: My Neighbor Totoro
     release_year: '1988'
     sort_title: My Neighbor Totoro
     url_poster: https://theposterdb.com/api/assets/24657
     tpdb_search: https://theposterdb.com/search?term=My+Neighbor+Totoro&section=movies
+    studio: Studio Ghibli
+    genre:
+      - Anime
   753342:
     label_title: Napoleon
     release_year: '2023'
@@ -2760,6 +2798,9 @@ metadata:
     sort_title: Ponyo
     url_poster: https://theposterdb.com/api/assets/24671
     tpdb_search: https://theposterdb.com/search?term=Ponyo&section=movies
+    studio: Studio Ghibli
+    genre:
+      - Anime
   792307:
     label_title: Poor Things
     release_year: '2023'
@@ -2824,6 +2865,9 @@ metadata:
     sort_title: Princess Mononoke
     url_poster: https://theposterdb.com/api/assets/24665
     tpdb_search: https://theposterdb.com/search?term=Princess+Mononoke&section=movies
+    studio: Studio Ghibli
+    genre:
+      - Anime
   680:
     label_title: Pulp Fiction
     release_year: '1994'
@@ -2950,6 +2994,9 @@ metadata:
     sort_title: Secret World of Arrietty
     url_poster: https://theposterdb.com/api/assets/24672
     tpdb_search: https://theposterdb.com/search?term=The+Secret+World+of+Arrietty&section=movies
+    studio: Studio Ghibli
+    genre:
+      - Anime
   1211472:
     label_title: September 5
     release_year: '2024'
@@ -3205,6 +3252,9 @@ metadata:
     sort_title: Spirited Away
     url_poster: https://theposterdb.com/api/assets/24667
     tpdb_search: https://theposterdb.com/search?term=Spirited+Away&section=movies
+    studio: Studio Ghibli
+    genre:
+      - Anime
   381288:
     label_title: Split
     release_year: '2017'
@@ -3753,12 +3803,16 @@ metadata:
     sort_title: Witcher 1
     url_poster: https://theposterdb.com/api/assets/527302
     tpdb_search: https://theposterdb.com/search?term=The+Witcher+Nightmare+of+the+Wolf&section=movies
+    genre.remove:
+      - Anime
   1203329:
     label_title: The Witcher Sirens of the Deep
     release_year: '2025'
     sort_title: Witcher 2
     url_poster: https://theposterdb.com/api/assets/572724
     tpdb_search: https://theposterdb.com/search?term=The+Witcher+Sirens+of+the+Deep&section=movies
+    genre.remove:
+      - Anime
   710295:
     label_title: Wolf Man
     release_year: '2025'
