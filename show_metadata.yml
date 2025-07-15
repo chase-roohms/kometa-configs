@@ -724,6 +724,8 @@ metadata:
     sort_title: Devil May Cry
     url_poster: https://theposterdb.com/api/assets/589837
     tpdb_search: https://theposterdb.com/search?term=Devil+May+Cry&section=shows
+    genre:
+      - Anime
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/589838
