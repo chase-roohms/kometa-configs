@@ -2700,6 +2700,12 @@ metadata:
     sort_title: Parasite
     url_poster: https://theposterdb.com/api/assets/47915
     tpdb_search: https://theposterdb.com/search?term=Parasite&section=movies
+  9820:
+    label_title: The Parent Trap
+    release_year: '1998'
+    sort_title: Parent Trap
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Parent+Trap&section=movies
   850920:
     label_title: The Parenting
     release_year: '2025'
