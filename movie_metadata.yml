@@ -1561,18 +1561,30 @@ metadata:
     sort_title: Hellraiser 11
     url_poster: https://theposterdb.com/api/assets/402710
     tpdb_search: https://theposterdb.com/search?term=Hellraiser&section=movies
-  11451:
-    label_title: Herbie Fully Loaded
-    release_year: '2005'
-    sort_title: Herbie 6
-    url_poster: https://theposterdb.com/api/assets/377659
-    tpdb_search: https://theposterdb.com/search?term=Herbie+Fully+Loaded&section=movies
+  14136:
+    label_title: The Love Bug
+    release_year: '1968'
+    sort_title: Herbie 1
+    url_poster: https://theposterdb.com/api/assets/377654
+    tpdb_search: https://theposterdb.com/search?term=The+Love+Bug&section=movies
   10869:
     label_title: Herbie Rides Again
     release_year: '1974'
     sort_title: Herbie 2
     url_poster: https://theposterdb.com/api/assets/377655
     tpdb_search: https://theposterdb.com/search?term=Herbie+Rides+Again&section=movies
+  32643:
+    label_title: The Love Bug
+    release_year: '1997'
+    sort_title: Herbie 5
+    url_poster: https://theposterdb.com/api/assets/377658
+    tpdb_search: https://theposterdb.com/search?term=The+Love+Bug&section=movies
+  11451:
+    label_title: Herbie Fully Loaded
+    release_year: '2005'
+    sort_title: Herbie 6
+    url_poster: https://theposterdb.com/api/assets/377659
+    tpdb_search: https://theposterdb.com/search?term=Herbie+Fully+Loaded&section=movies
   493922:
     label_title: Hereditary
     release_year: '2018'
@@ -2174,18 +2186,6 @@ metadata:
     sort_title: Love and Monsters
     url_poster: https://theposterdb.com/api/assets/465124
     tpdb_search: https://theposterdb.com/search?term=Love+and+Monsters&section=movies
-  14136:
-    label_title: The Love Bug
-    release_year: '1968'
-    sort_title: Herbie 1
-    url_poster: https://theposterdb.com/api/assets/377654
-    tpdb_search: https://theposterdb.com/search?term=The+Love+Bug&section=movies
-  32643:
-    label_title: The Love Bug
-    release_year: '1997'
-    sort_title: Herbie 5
-    url_poster: https://theposterdb.com/api/assets/377658
-    tpdb_search: https://theposterdb.com/search?term=The+Love+Bug&section=movies
   1226406:
     label_title: Love Hurts
     release_year: '2025'
