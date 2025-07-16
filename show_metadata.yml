@@ -731,11 +731,11 @@ metadata:
     label_title: 'Dexter: Resurrection'
     release_year: '2025'
     sort_title: 'Dexter: Resurrection'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/622997
     tpdb_search: https://theposterdb.com/search?term=Dexter:+Resurrection&section=shows
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/622998
   367118:
     label_title: Dune - Prophecy
     release_year: '2024'
@@ -1133,11 +1133,11 @@ metadata:
     label_title: Housing Complex C
     release_year: '2022'
     sort_title: Housing Complex C
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/543197
     tpdb_search: https://theposterdb.com/search?term=Housing+Complex+C&section=shows
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/543198
   393201:
     label_title: I Am Groot
     release_year: '2022'
@@ -1834,13 +1834,15 @@ metadata:
     label_title: Made in Abyss
     release_year: '2017'
     sort_title: Made in Abyss
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/237542
     tpdb_search: https://theposterdb.com/search?term=Made+in+Abyss&section=shows
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/237543
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/237544
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/237545
   299139:
     title: The Magicians
     sort_title: Magicians
