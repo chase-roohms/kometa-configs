@@ -33,15 +33,15 @@ collections:
   jasonebbeler:
     template:
       name: Sonarr
-      radarr_tag: 5 - jasonebbeler
+      sonarr_tag: 5 - jasonebbeler
     url_poster: https://i.imgur.com/n4SiCwa.png
   eddboi:
     template:
       name: Sonarr
-      radarr_tag: 6 - eddboi
+      sonarr_tag: 6 - eddboi
     url_poster: https://i.imgur.com/lrTPI4b.png
   scottsuduth:
     template:
       name: Sonarr
-      radarr_tag: 7 - scottsuduth
+      sonarr_tag: 8 - scottsuduth
     url_poster: https://i.imgur.com/XmgRZUP.png
