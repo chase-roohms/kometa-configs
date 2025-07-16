@@ -2612,6 +2612,15 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/257147
       2:
         url_poster: https://theposterdb.com/api/assets/598572
+  421287:
+    label_title: Scavengers Reign
+    release_year: '2023'
+    sort_title: Scavengers Reign
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Scavengers+Reign&section=shows
+    seasons:
+      1:
+        url_poster: ''
   78260:
     label_title: Scooby-Doo, Where Are You!
     release_year: '1969'
