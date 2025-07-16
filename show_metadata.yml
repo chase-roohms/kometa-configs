@@ -1135,6 +1135,9 @@ metadata:
     sort_title: Housing Complex C
     url_poster: https://theposterdb.com/api/assets/543197
     tpdb_search: https://theposterdb.com/search?term=Housing+Complex+C&section=shows
+    audio_language: ja-JP
+    genre:
+      - Anime
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/543198
@@ -1836,6 +1839,9 @@ metadata:
     sort_title: Made in Abyss
     url_poster: https://theposterdb.com/api/assets/237542
     tpdb_search: https://theposterdb.com/search?term=Made+in+Abyss&section=shows
+    audio_language: ja-JP
+    genre:
+      - Anime
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/237543
