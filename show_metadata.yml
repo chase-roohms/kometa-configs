@@ -1830,6 +1830,15 @@ metadata:
             url_poster: https://api.mediux.pro/assets/8ac43bec-c207-4c7a-a2b1-5e6d4c7e5f86
           10:
             url_poster: https://api.mediux.pro/assets/cd9aa363-44a2-43e3-a7ac-32c67272973f
+  326109:
+    label_title: Made in Abyss
+    release_year: '2017'
+    sort_title: Made in Abyss
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Made+in+Abyss&section=shows
+    seasons:
+      1:
+        url_poster: ''
   299139:
     title: The Magicians
     sort_title: Magicians
