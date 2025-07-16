@@ -40,8 +40,8 @@ collections:
       name: Sonarr
       sonarr_tag: 6 - eddboi
     url_poster: https://i.imgur.com/lrTPI4b.png
-  scottsuduth:
+  scottsudduth:
     template:
       name: Sonarr
-      sonarr_tag: 8 - scottsuduth
+      sonarr_tag: 8 - scottsudduth
     url_poster: https://i.imgur.com/XmgRZUP.png
