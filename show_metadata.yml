@@ -727,6 +727,15 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/589838
+  452595:
+    label_title: 'Dexter: Resurrection'
+    release_year: '2025'
+    sort_title: 'Dexter: Resurrection'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Dexter:+Resurrection&section=shows
+    seasons:
+      1:
+        url_poster: ''
   367118:
     label_title: Dune - Prophecy
     release_year: '2024'
