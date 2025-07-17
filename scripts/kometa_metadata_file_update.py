@@ -7,6 +7,9 @@ from argparse import ArgumentParser, ArgumentTypeError
 from unidecode import unidecode
 from pprint import pp
 
+class CustomDumper(yaml.Dumper):
+    def increase_indent(self, flow=False, indentless=False):
+        return super(MyDumper, self).increase_indent(flow, False)
 
 def file_path(path_str):
     if os.path.isfile(path_str):
@@ -105,6 +108,7 @@ def write_metadata_dict(filepath: str, metadata_dict: dict):
     with open(filepath, 'w') as metadata_file:
         yaml.dump(
             {'metadata': metadata_dict}, 
+            Dumper=CustomDumper,
             metadata_file, 
             sort_keys=False, 
             allow_unicode=True,
