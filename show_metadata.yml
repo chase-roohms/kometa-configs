@@ -218,7 +218,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=B+-+The+Beginning&section=shows
     audio_language: ja-JP
     genre:
-    - Anime
+      - Anime
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/396384
@@ -273,7 +273,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Berserk&section=shows
     audio_language: ja-JP
     genre:
-    - Anime
+      - Anime
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/182144
@@ -404,7 +404,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Blood+Blockade+Battlefront&section=shows
     audio_language: ja-JP
     genre:
-    - Anime
+      - Anime
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/415613
@@ -499,7 +499,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Chainsaw+Man&section=shows
     audio_language: ja-JP
     genre:
-    - Anime
+      - Anime
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/277761
@@ -612,7 +612,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Cyberpunk+-+Edgerunners&section=shows
     audio_language: ja-JP
     genre:
-    - Anime
+      - Anime
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/287957
@@ -624,7 +624,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=DAN+DA+DAN&section=shows
     audio_language: ja-JP
     genre:
-    - Anime
+      - Anime
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/503497
@@ -681,7 +681,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=DEAD+DEAD+DEMONS+DEDEDEDE+DESTRUCTION&section=shows
     audio_language: ja-JP
     genre:
-    - Anime
+      - Anime
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/502119
@@ -723,7 +723,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/589837
     tpdb_search: https://theposterdb.com/search?term=Devil+May+Cry&section=shows
     genre:
-    - Anime
+      - Anime
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/589838
@@ -778,7 +778,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Eminence+in+Shadow&section=shows
     audio_language: ja-JP
     genre:
-    - Anime
+      - Anime
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/417691
@@ -922,7 +922,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Fog+Hill+of+Five+Elements&section=shows
     audio_language: zh-CN
     genre:
-    - Anime
+      - Anime
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/425489
@@ -967,7 +967,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Gachiakuta&section=shows
     audio_language: ja-JP
     genre:
-    - Anime
+      - Anime
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/624433
@@ -1105,7 +1105,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Hells+Paradise&section=shows
     audio_language: ja-JP
     genre:
-    - Anime
+      - Anime
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/450298
@@ -1144,7 +1144,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Housing+Complex+C&section=shows
     audio_language: ja-JP
     genre:
-    - Anime
+      - Anime
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/543198
@@ -1320,7 +1320,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Kaiju+No.+8&section=shows
     audio_language: ja-JP
     genre:
-    - Anime
+      - Anime
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/482205
@@ -1412,7 +1412,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Link+Click&section=shows
     audio_language: zh-CN
     genre:
-    - Anime
+      - Anime
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/205596
@@ -1602,7 +1602,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Lord+of+Mysteries&section=shows
     audio_language: zh-CN
     genre:
-    - Anime
+      - Anime
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/619039
@@ -1848,7 +1848,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Made+in+Abyss&section=shows
     audio_language: ja-JP
     genre:
-    - Anime
+      - Anime
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/237543
@@ -2191,7 +2191,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Ninja+Kamui&section=shows
     audio_language: ja-JP
     genre:
-    - Anime
+      - Anime
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/450276
@@ -2239,7 +2239,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Orb+-+On+the+Movements+of+the+Earth&section=shows
     audio_language: ja-JP
     genre:
-    - Anime
+      - Anime
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/531266
@@ -2488,7 +2488,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Rick+and+Morty+-+The+Anime&section=shows
     audio_language: ja-JP
     genre:
-    - Anime
+      - Anime
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/516692
@@ -2540,7 +2540,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/561171
     audio_language: ja-JP
     genre:
-    - Anime
+      - Anime
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/586166
@@ -2796,7 +2796,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Solo+Leveling&section=shows
     audio_language: ja-JP
     genre:
-    - Anime
+      - Anime
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/555014
@@ -2935,7 +2935,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+-+Visions&section=shows
     audio_language: ja-JP
     genre:
-    - Anime
+      - Anime
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/205364
@@ -3012,7 +3012,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Summer+Hikaru+Died&section=shows
     audio_language: ja-JP
     genre:
-    - Anime
+      - Anime
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/601595
@@ -3024,7 +3024,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Super+Cube&section=shows
     audio_language: zh-CN
     genre:
-    - Anime
+      - Anime
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/586083
@@ -3139,7 +3139,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/180261
     audio_language: ja-JP
     genre:
-    - Anime
+      - Anime
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/180263
@@ -3200,7 +3200,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=To+be+Hero+X&section=shows
     audio_language: zh-CN
     genre:
-    - Anime
+      - Anime
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/586063
@@ -3242,7 +3242,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Uzumaki&section=shows
     audio_language: ja-JP
     genre:
-    - Anime
+      - Anime
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/528022
