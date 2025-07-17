@@ -3849,11 +3849,11 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=We+Live+in+Time&section=movies
     studio: A24
   1164614:
-    label_title: We're All Gonna Die
+    label_title: Were All Gonna Die
     release_year: '2025'
-    sort_title: We're All Gonna Die
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=We're+All+Gonna+Die&section=movies
+    sort_title: Were All Gonna Die
+    url_poster: https://image.tmdb.org/t/p/original/er7627yHVe1hEHnIHM7HV86EgJw.jpg
+    tpdb_search: https://theposterdb.com/search?term=Were+All+Gonna+Die&section=movies
   894205:
     label_title: Werewolf by Night
     release_year: '2022'
