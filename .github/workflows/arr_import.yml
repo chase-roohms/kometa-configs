@@ -1,5 +1,5 @@
 run-name: Imported file for ${{ github.event.client_payload.title }}
-name: New Media Added
+name: Arr-Stack Import
 
 on:
   repository_dispatch:
