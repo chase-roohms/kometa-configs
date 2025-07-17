@@ -22,29 +22,39 @@ jobs:
         id: checkout
         uses: actions/checkout@v4.2.2
 
+      - name: Save JSON Data to a File
+        id: json-to-file
+        run: |
+          echo '${{ toJSON(github.event.client_payload.data) }}' > ${{ env.JSON_DATA_FILE }}
+
+      - name: Upload JSON File
+        uses: actions/upload-artifact@v4
+        with:
+          name: report_from_server.json
+          path: ${{ env.JSON_DATA_FILE }}
+
       - name: Set-Up Python
+        if: false
         id: setup-python
         uses: actions/setup-python@v5.6.0
         with:
           python-version: 3.13.3
 
       - name: Install Requirements
+        if: false
         id: install-requirements
         uses: py-actions/py-dependency-install@v4
         with:
           path: scripts/requirements.txt
 
-      - name: Save JSON Data to a File
-        id: json-to-file
-        run: |
-          echo '${{ toJSON(github.event.client_payload.data) }}' > ${{ env.JSON_DATA_FILE }}
-
       - name: Run Metadata File Update Script
+        if: false
         id: run-script
         run: |
           python3 scripts/kometa_metadata_file_update.py --movie_file ${{ env.MOVIE_METADATA_FILE }} --show_file ${{ env.SHOW_METADATA_FILE }} --json_data_file ${{ env.JSON_DATA_FILE }}
 
       - name: Commit Changes to Main
+        if: false
         id: commit-changes
         run: |
           git config --global user.email "kometa@updater.com"
