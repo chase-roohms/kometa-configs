@@ -1,4 +1,4 @@
-name: Update Metadata Files
+name: Manual Filepath Metadata Sync
 
 on:
   repository_dispatch:
