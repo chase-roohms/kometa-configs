@@ -3093,6 +3093,12 @@ metadata:
     studio: Studio Ghibli
     genre:
       - Anime
+  389868:
+    label_title: Seoul Station
+    release_year: '2016'
+    sort_title: Seoul Station
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Seoul+Station&section=movies
   1211472:
     label_title: September 5
     release_year: '2024'
