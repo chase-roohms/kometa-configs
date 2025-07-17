@@ -2776,8 +2776,8 @@ metadata:
   581392:
     label_title: Peninsula
     release_year: '2020'
-    sort_title: Peninsula
-    url_poster: ''
+    sort_title: Train to Busan 3
+    url_poster: https://theposterdb.com/api/assets/82796
     tpdb_search: https://theposterdb.com/search?term=Peninsula&section=movies
   32657:
     label_title: Percy Jackson and the Olympians The Lightning Thief
@@ -3096,8 +3096,8 @@ metadata:
   389868:
     label_title: Seoul Station
     release_year: '2016'
-    sort_title: Seoul Station
-    url_poster: ''
+    sort_title: Train to Busan 2
+    url_poster: https://theposterdb.com/api/assets/82795
     tpdb_search: https://theposterdb.com/search?term=Seoul+Station&section=movies
   1211472:
     label_title: September 5
@@ -3652,8 +3652,8 @@ metadata:
   396535:
     label_title: Train to Busan
     release_year: '2016'
-    sort_title: Train to Busan
-    url_poster: ''
+    sort_title: Train to Busan 1
+    url_poster: https://theposterdb.com/api/assets/82794
     tpdb_search: https://theposterdb.com/search?term=Train+to+Busan&section=movies
   1477453:
     label_title: 'Trainwreck: The Astroworld Tragedy'
