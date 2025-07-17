@@ -2773,6 +2773,12 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/360598
     tpdb_search: https://theposterdb.com/search?term=Pearl&section=movies
     studio: A24
+  581392:
+    label_title: Peninsula
+    release_year: '2020'
+    sort_title: Peninsula
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Peninsula&section=movies
   32657:
     label_title: Percy Jackson and the Olympians The Lightning Thief
     release_year: '2010'
