@@ -108,8 +108,8 @@ def write_metadata_dict(filepath: str, metadata_dict: dict):
     with open(filepath, 'w') as metadata_file:
         yaml.dump(
             {'metadata': metadata_dict}, 
-            Dumper=CustomDumper,
             metadata_file, 
+            Dumper=CustomDumper,
             sort_keys=False, 
             allow_unicode=True,
             width=float('inf')
