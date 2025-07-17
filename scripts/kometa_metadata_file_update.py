@@ -9,7 +9,7 @@ from pprint import pp
 
 class CustomDumper(yaml.Dumper):
     def increase_indent(self, flow=False, indentless=False):
-        return super(MyDumper, self).increase_indent(flow, False)
+        return super(CustomDumper, self).increase_indent(flow, False)
 
 def file_path(path_str):
     if os.path.isfile(path_str):
