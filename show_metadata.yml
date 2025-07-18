@@ -3219,6 +3219,15 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/165769
       1960:
         url_poster: https://theposterdb.com/api/assets/165770
+  449843:
+    label_title: TOUGEN ANKI
+    release_year: '2025'
+    sort_title: TOUGEN ANKI
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=TOUGEN+ANKI&section=shows
+    seasons:
+      1:
+        url_poster: ''
   270633:
     label_title: True Detective
     release_year: '2014'
