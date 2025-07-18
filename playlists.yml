@@ -17,7 +17,7 @@ playlists:
     summary: A collection of anime openings.
     plex_search:
       type: episode
-      sort_by: title.ask
+      sort_by: title.asc
       all:
         title.begins: "Opening: "
         genre: Anime
