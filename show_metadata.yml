@@ -633,10 +633,14 @@ metadata:
             title: 'Opening: Otonoke by Creepy Nuts'
             summary: Opening song "Otonoke" written by Creepy Nuts
             url_poster: https://i.imgur.com/rK28QU2.png
+            label:
+              - anime_opening
           2:
             title: 'Opening: On The Way by AiNA THE END'
             summary: Opening song "On The Way" written by AiNA THE END
             url_poster: https://i.imgur.com/JjPiSSV.png
+            label:
+              - anime_opening
       1:
         url_poster: https://theposterdb.com/api/assets/470039
       2:
@@ -976,6 +980,8 @@ metadata:
             title: 'Opening: HUGs by Paledusk'
             summary: Opening song "HUGs" written by Paledusk
             url_poster: https://i.imgur.com/tkBhqA9.png
+            label:
+              - anime_opening
       1:
         url_poster: https://theposterdb.com/api/assets/624434
   369988:
@@ -3236,6 +3242,8 @@ metadata:
             title: 'Opening: OVERNIGHT by THE ORAL CIGARETTES'
             summary: Opening song "OVERNIGHT" by THE ORAL CIGARETTES
             url_poster: https://i.imgur.com/ETaHkSf.png
+            label:
+              - anime_opening
       1:
         url_poster: https://theposterdb.com/api/assets/601961
   270633:
