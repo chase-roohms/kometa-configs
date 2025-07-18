@@ -495,21 +495,21 @@ metadata:
     label_title: Chainsaw Man
     release_year: '2022'
     sort_title: Chainsaw Man
-    url_poster: https://theposterdb.com/api/assets/277760
+    url_poster: https://theposterdb.com/api/assets/567743
     tpdb_search: https://theposterdb.com/search?term=Chainsaw+Man&section=shows
     audio_language: ja-JP
     genre:
       - Anime
     seasons:
       0:
-        url_poster:
+        url_poster: https://theposterdb.com/api/assets/567744
         episodes:
           101:
             title: 'Opening: KICK BACK by Kenshi Yonezu'
             summary: Opening song "KICK BACK" by Kenshi Yonezu
             url_poster: ''
       1:
-        url_poster: https://theposterdb.com/api/assets/277761
+        url_poster: https://theposterdb.com/api/assets/567745
   360893:
     label_title: Chernobyl
     release_year: '2019'
@@ -636,11 +636,11 @@ metadata:
       0:
         url_poster: https://theposterdb.com/api/assets/503497
         episodes:
-          1:
+          101:
             title: 'Opening: Otonoke by Creepy Nuts'
             summary: Opening song "Otonoke" written by Creepy Nuts
             url_poster: https://i.imgur.com/rK28QU2.png
-          2:
+          102:
             title: 'Opening: On The Way by AiNA THE END'
             summary: Opening song "On The Way" written by AiNA THE END
             url_poster: https://i.imgur.com/JjPiSSV.png
@@ -727,20 +727,20 @@ metadata:
     label_title: Devil May Cry
     release_year: '2025'
     sort_title: Devil May Cry
-    url_poster: https://theposterdb.com/api/assets/589837
+    url_poster: https://theposterdb.com/api/assets/593189
     tpdb_search: https://theposterdb.com/search?term=Devil+May+Cry&section=shows
     genre:
       - Anime
     seasons:
       0:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/593190
         episodes:
           101:
             title: "Opening: Rollin' by Limp Bizkit"
             summary: Opening song "Rollin'" by Limp Bizkit
             url_poster: ''
       1:
-        url_poster: https://theposterdb.com/api/assets/589838
+        url_poster: https://theposterdb.com/api/assets/593191
   452595:
     label_title: 'Dexter: Resurrection'
     release_year: '2025'
@@ -986,7 +986,7 @@ metadata:
       0:
         url_poster: https://theposterdb.com/api/assets/624433
         episodes:
-          1:
+          101:
             title: 'Opening: HUGs by Paledusk'
             summary: Opening song "HUGs" written by Paledusk
             url_poster: https://i.imgur.com/tkBhqA9.png
