@@ -8,3 +8,16 @@ playlists:
       centering on the paranormal investigations of Ed and Lorraine Warren and 
       featuring numerous supernatural entities and haunted locations.
     url_poster: https://theposterdb.com/api/assets/595349
+  Anime Openings:
+    sync_mode: sync
+    libraries: TV Shows
+    sync_to_users: all
+    collection_order: custom
+    builder_level: episode
+    summary: A collection of anime openings.
+    plex_search:
+      type: episode
+      sort_by: title.ask
+      all:
+        title.begins: "Opening: "
+        genre: Anime
