@@ -19,5 +19,5 @@ playlists:
       type: episode
       sort_by: show.asc
       all:
-        title.begins: "Opening: "
+        episode_title.begins: "Opening: "
         genre: Anime
