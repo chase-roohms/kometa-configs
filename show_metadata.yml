@@ -3223,11 +3223,18 @@ metadata:
     label_title: TOUGEN ANKI
     release_year: '2025'
     sort_title: TOUGEN ANKI
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/601960
     tpdb_search: https://theposterdb.com/search?term=TOUGEN+ANKI&section=shows
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/618167
+        episodes:
+          101:
+            title: 'Opening: OVERNIGHT by THE ORAL CIGARETTES
+            summary: Opening song "OVERNIGHT" by THE ORAL CIGARETTES
+            url_poster: https://i.imgur.com/ETaHkSf.png
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/601961
   270633:
     label_title: True Detective
     release_year: '2014'
