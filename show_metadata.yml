@@ -3266,6 +3266,8 @@ metadata:
     seasons:
       1:
         url_poster: ''
+      2:
+        url_poster: ''
   270633:
     label_title: True Detective
     release_year: '2014'
