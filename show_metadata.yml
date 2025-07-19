@@ -3257,6 +3257,15 @@ metadata:
             url_poster: https://i.imgur.com/ETaHkSf.png
       1:
         url_poster: https://theposterdb.com/api/assets/601961
+  82283:
+    label_title: True Blood
+    release_year: '2008'
+    sort_title: True Blood
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=True+Blood&section=shows
+    seasons:
+      1:
+        url_poster: ''
   270633:
     label_title: True Detective
     release_year: '2014'
