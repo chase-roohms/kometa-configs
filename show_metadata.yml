@@ -3242,11 +3242,19 @@ metadata:
     label_title: Total Drama
     release_year: '2007'
     sort_title: Total Drama
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/294566
     tpdb_search: https://theposterdb.com/search?term=Total+Drama&section=shows
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/294567
+      2:
+        url_poster: https://theposterdb.com/api/assets/294568
+      3:
+        url_poster: https://theposterdb.com/api/assets/294569
+      4:
+        url_poster: https://theposterdb.com/api/assets/294570
+      5:
+        url_poster: https://theposterdb.com/api/assets/294571
   449843:
     label_title: TOUGEN ANKI
     release_year: '2025'
