@@ -2260,6 +2260,13 @@ metadata:
     genre:
       - Anime
     seasons:
+      0:
+        url_poster: 
+        episodes:
+          101:
+            title: 'Opening: Kaiju by sakanaction'
+            summary: Opening song "Kaiju" written by sakanaction
+            url_poster: https://i.imgur.com/rGO2UQD.png
       1:
         url_poster: https://theposterdb.com/api/assets/531266
   270408:
