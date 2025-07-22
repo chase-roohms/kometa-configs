@@ -2254,21 +2254,21 @@ metadata:
     label_title: Orb - On the Movements of the Earth
     release_year: '2024'
     sort_title: Orb - On the Movements of the Earth
-    url_poster: https://theposterdb.com/api/assets/531265
+    url_poster: https://theposterdb.com/api/assets/627266
     tpdb_search: https://theposterdb.com/search?term=Orb+-+On+the+Movements+of+the+Earth&section=shows
     audio_language: ja-JP
     genre:
       - Anime
     seasons:
       0:
-        url_poster: 
+        url_poster: https://theposterdb.com/api/assets/627267
         episodes:
           101:
             title: 'Opening: Kaiju by sakanaction'
             summary: Opening song "Kaiju" written by sakanaction
             url_poster: https://i.imgur.com/rGO2UQD.png
       1:
-        url_poster: https://theposterdb.com/api/assets/531266
+        url_poster: https://theposterdb.com/api/assets/627268
   270408:
     label_title: Outlander
     release_year: '2014'
