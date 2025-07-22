@@ -3034,14 +3034,21 @@ metadata:
     label_title: The Summer Hikaru Died
     release_year: '2025'
     sort_title: Summer Hikaru Died
-    url_poster: https://theposterdb.com/api/assets/601594
+    url_poster: https://theposterdb.com/api/assets/622082
     tpdb_search: https://theposterdb.com/search?term=The+Summer+Hikaru+Died&section=shows
     audio_language: ja-JP
     genre:
       - Anime
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/622083
+        episodes:
+          101:
+            title: 'Opening: Saikai by Vaundy'
+            summary: Opening song "Saikai" written by Vaundy
+            url_poster: https://i.imgur.com/cZCHxZm.png
       1:
-        url_poster: https://theposterdb.com/api/assets/601595
+        url_poster: https://theposterdb.com/api/assets/622084
   461311:
     label_title: Super Cube
     release_year: '2025'
