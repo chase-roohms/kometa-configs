@@ -268,7 +268,7 @@ metadata:
     label_title: Ant-Man and the Wasp Quantumania
     release_year: '2023'
     sort_title: Ant-Man 3
-    url_poster: https://theposterdb.com/api/assets/310376
+    url_poster: https://theposterdb.com/api/assets/352073
     tpdb_search: https://theposterdb.com/search?term=Ant-Man+and+the+Wasp+Quantumania&section=movies
     studio: Marvel Studios
   1072790:
@@ -391,7 +391,7 @@ metadata:
   541671:
     label_title: From the World of John Wick Ballerina
     release_year: '2025'
-    sort_title: Ballerina
+    sort_title: John Wick 5
     url_poster: https://theposterdb.com/api/assets/580974
     tpdb_search: https://theposterdb.com/search?term=From+the+World+of+John+Wick+Ballerina&section=movies
   31665:
@@ -1182,7 +1182,7 @@ metadata:
     label_title: Fight Club
     release_year: '1999'
     sort_title: Fight Club
-    url_poster: https://theposterdb.com/api/assets/35829
+    url_poster: https://theposterdb.com/api/assets/64093
     tpdb_search: https://theposterdb.com/search?term=Fight+Club&section=movies
   1212855:
     label_title: Fight or Flight
