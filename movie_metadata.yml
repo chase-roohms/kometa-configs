@@ -388,12 +388,6 @@ metadata:
     label_title: Bagman
     sort_title: Bagman
     url_poster: https://theposterdb.com/api/assets/535184
-  541671:
-    label_title: From the World of John Wick Ballerina
-    release_year: '2025'
-    sort_title: John Wick 5
-    url_poster: https://theposterdb.com/api/assets/580974
-    tpdb_search: https://theposterdb.com/search?term=From+the+World+of+John+Wick+Ballerina&section=movies
   31665:
     label_title: Barbarosa
     release_year: '1982'
@@ -1933,6 +1927,12 @@ metadata:
     sort_title: John Wick 4
     url_poster: https://theposterdb.com/api/assets/352413
     tpdb_search: https://theposterdb.com/search?term=John+Wick+Chapter+4&section=movies
+  541671:
+    label_title: From the World of John Wick Ballerina
+    release_year: '2025'
+    sort_title: John Wick 5
+    url_poster: https://theposterdb.com/api/assets/580974
+    tpdb_search: https://theposterdb.com/search?term=From+the+World+of+John+Wick+Ballerina&section=movies
   515001:
     label_title: Jojo Rabbit
     release_year: '2019'
