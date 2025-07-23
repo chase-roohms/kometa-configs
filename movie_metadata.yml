@@ -685,8 +685,9 @@ metadata:
     label_title: A Bugs Life
     release_year: '1998'
     sort_title: Bugs Life
-    url_poster: https://theposterdb.com/api/assets/458
+    url_poster: https://theposterdb.com/api/assets/60687
     tpdb_search: https://theposterdb.com/search?term=A+Bugs+Life&section=movies
+    studio: Pixar
   1771:
     label_title: Captain America The First Avenger
     release_year: '2011'
@@ -731,25 +732,28 @@ metadata:
     label_title: Cars
     release_year: '2006'
     sort_title: Cars 1
-    url_poster: https://theposterdb.com/api/assets/463
+    url_poster: https://theposterdb.com/api/assets/60692
     tpdb_search: https://theposterdb.com/search?term=Cars&section=movies
+    studio: Pixar
   49013:
     label_title: Cars 2
     release_year: '2011'
     sort_title: Cars 2
-    url_poster: https://theposterdb.com/api/assets/468
+    url_poster: https://theposterdb.com/api/assets/60697
     tpdb_search: https://theposterdb.com/search?term=Cars+2&section=movies
+    studio: Pixar
   260514:
     label_title: Cars 3
     release_year: '2017'
     sort_title: Cars 3
-    url_poster: https://theposterdb.com/api/assets/474
+    url_poster: https://theposterdb.com/api/assets/60703
     tpdb_search: https://theposterdb.com/search?term=Cars+3&section=movies
+    studio: Pixar
   10515:
     label_title: Castle in the Sky
     release_year: '1986'
     sort_title: Castle in the Sky
-    url_poster: https://theposterdb.com/api/assets/24656
+    url_poster: https://theposterdb.com/api/assets/100967
     tpdb_search: https://theposterdb.com/search?term=Castle+in+the+Sky&section=movies
     studio: Studio Ghibli
     genre:
@@ -758,7 +762,7 @@ metadata:
     label_title: The Cat Returns
     release_year: '2002'
     sort_title: Cat Returns
-    url_poster: https://theposterdb.com/api/assets/24668
+    url_poster: https://theposterdb.com/api/assets/100979
     tpdb_search: https://theposterdb.com/search?term=The+Cat+Returns&section=movies
     studio: Studio Ghibli
     genre:
@@ -946,26 +950,30 @@ metadata:
     label_title: Despicable Me
     release_year: '2010'
     sort_title: Despicable Me 1
-    url_poster: https://theposterdb.com/api/assets/22036
+    url_poster: https://theposterdb.com/api/assets/568350
     tpdb_search: https://theposterdb.com/search?term=Despicable+Me&section=movies
+    studio: Illumination
   93456:
     label_title: Despicable Me 2
     release_year: '2013'
     sort_title: Despicable Me 2
-    url_poster: https://theposterdb.com/api/assets/22037
+    url_poster: https://theposterdb.com/api/assets/568347
     tpdb_search: https://theposterdb.com/search?term=Despicable+Me+2&section=movies
+    studio: Illumination
   324852:
     label_title: Despicable Me 3
     release_year: '2017'
     sort_title: Despicable Me 3
-    url_poster: https://theposterdb.com/api/assets/22038
+    url_poster: https://theposterdb.com/api/assets/568343
     tpdb_search: https://theposterdb.com/search?term=Despicable+Me+3&section=movies
+    studio: Illumination
   519182:
     label_title: Despicable Me 4
     release_year: '2024'
     sort_title: Despicable Me 4
-    url_poster: https://theposterdb.com/api/assets/27391
+    url_poster: https://theposterdb.com/api/assets/568335
     tpdb_search: https://theposterdb.com/search?term=Despicable+Me+4&section=movies
+    studio: Illumination
   82685:
     label_title: Division III Footballs Finest
     release_year: '2011'
@@ -1224,14 +1232,16 @@ metadata:
     label_title: Finding Nemo
     release_year: '2003'
     sort_title: Finding Nemo 1
-    url_poster: https://theposterdb.com/api/assets/461
+    url_poster: https://theposterdb.com/api/assets/60690
     tpdb_search: https://theposterdb.com/search?term=Finding+Nemo&section=movies
+    studio: Pixar
   127380:
     label_title: Finding Dory
     release_year: '2016'
     sort_title: Finding Nemo 2
-    url_poster: https://theposterdb.com/api/assets/473
+    url_poster: https://theposterdb.com/api/assets/60702
     tpdb_search: https://theposterdb.com/search?term=Finding+Dory&section=movies
+    studio: Pixar
   298618:
     label_title: The Flash
     release_year: '2023'
@@ -1645,31 +1655,35 @@ metadata:
     label_title: How to Train Your Dragon
     release_year: '2010'
     sort_title: How to Train Your Dragon 1
-    url_poster: https://theposterdb.com/api/assets/15733
+    url_poster: https://theposterdb.com/api/assets/531076
     tpdb_search: https://theposterdb.com/search?term=How+to+Train+Your+Dragon&section=movies
+    studio: DreamWorks Animation
   82702:
     label_title: How to Train Your Dragon 2
     release_year: '2014'
     sort_title: How to Train Your Dragon 2
-    url_poster: https://theposterdb.com/api/assets/15734
+    url_poster: https://theposterdb.com/api/assets/531075
     tpdb_search: https://theposterdb.com/search?term=How+to+Train+Your+Dragon+2&section=movies
+    studio: DreamWorks Animation
   166428:
     label_title: How to Train Your Dragon The Hidden World
     release_year: '2019'
     sort_title: How to Train Your Dragon 3
-    url_poster: https://theposterdb.com/api/assets/15735
+    url_poster: https://theposterdb.com/api/assets/531074
     tpdb_search: https://theposterdb.com/search?term=How+to+Train+Your+Dragon+The+Hidden+World&section=movies
+    studio: DreamWorks Animation
   1087192:
     label_title: How to Train Your Dragon
     release_year: '2025'
     sort_title: How to Train Your Dragon 4
     url_poster: https://theposterdb.com/api/assets/615539
     tpdb_search: https://theposterdb.com/search?term=How+to+Train+Your+Dragon&section=movies
+    studio: DreamWorks Animation
   4935:
     label_title: Howls Moving Castle
     release_year: '2004'
     sort_title: Howls Moving Castle
-    url_poster: https://theposterdb.com/api/assets/24669
+    url_poster: https://theposterdb.com/api/assets/100980
     tpdb_search: https://theposterdb.com/search?term=Howls+Moving+Castle&section=movies
     studio: Studio Ghibli
     genre:
@@ -1765,14 +1779,16 @@ metadata:
     label_title: The Incredibles
     release_year: '2004'
     sort_title: Incredibles 1
-    url_poster: https://theposterdb.com/api/assets/462
+    url_poster: https://theposterdb.com/api/assets/60691
     tpdb_search: https://theposterdb.com/search?term=The+Incredibles&section=movies
+    studio: Pixar
   260513:
     label_title: Incredibles 2
     release_year: '2018'
     sort_title: Incredibles 2
-    url_poster: https://theposterdb.com/api/assets/476
+    url_poster: https://theposterdb.com/api/assets/60705
     tpdb_search: https://theposterdb.com/search?term=Incredibles+2&section=movies
+    studio: Pixar
   11359:
     label_title: The Indian in the Cupboard
     release_year: '1995'
@@ -1783,45 +1799,45 @@ metadata:
     label_title: Inside Out
     release_year: '2015'
     sort_title: Inside Out
-    url_poster: https://theposterdb.com/api/assets/471
+    url_poster: https://theposterdb.com/api/assets/60700
     tpdb_search: https://theposterdb.com/search?term=Inside+Out&section=movies
     studio: Pixar
   1022789:
     label_title: Inside Out 2
     release_year: '2024'
     sort_title: Inside Out 2
-    url_poster: https://theposterdb.com/api/assets/518492
+    url_poster: https://theposterdb.com/api/assets/494002
     tpdb_search: https://theposterdb.com/search?term=Inside+Out+2&section=movies
     studio: Pixar
   49018:
     label_title: Insidious
     release_year: '2011'
     sort_title: Insidious 1
-    url_poster: https://theposterdb.com/api/assets/973
+    url_poster: https://theposterdb.com/api/assets/391914
     tpdb_search: https://theposterdb.com/search?term=Insidious&section=movies
   91586:
     label_title: Insidious Chapter 2
     release_year: '2013'
     sort_title: Insidious 2
-    url_poster: https://theposterdb.com/api/assets/975
+    url_poster: https://theposterdb.com/api/assets/391915
     tpdb_search: https://theposterdb.com/search?term=Insidious+Chapter+2&section=movies
   280092:
     label_title: Insidious Chapter 3
     release_year: '2015'
     sort_title: Insidious 3
-    url_poster: https://theposterdb.com/api/assets/977
+    url_poster: https://theposterdb.com/api/assets/391916
     tpdb_search: https://theposterdb.com/search?term=Insidious+Chapter+3&section=movies
   406563:
     label_title: Insidious The Last Key
     release_year: '2018'
     sort_title: Insidious 4
-    url_poster: https://theposterdb.com/api/assets/980
+    url_poster: https://theposterdb.com/api/assets/391917
     tpdb_search: https://theposterdb.com/search?term=Insidious+The+Last+Key&section=movies
   614479:
     label_title: Insidious The Red Door
     release_year: '2023'
     sort_title: Insidious 5
-    url_poster: https://theposterdb.com/api/assets/397612
+    url_poster: https://theposterdb.com/api/assets/391918
     tpdb_search: https://theposterdb.com/search?term=Insidious+The+Red+Door&section=movies
   157336:
     label_title: Interstellar
@@ -1907,37 +1923,37 @@ metadata:
     label_title: John Wick
     release_year: '2014'
     sort_title: John Wick 1
-    url_poster: https://theposterdb.com/api/assets/352410
+    url_poster: https://theposterdb.com/api/assets/366292
     tpdb_search: https://theposterdb.com/search?term=John+Wick&section=movies
   324552:
     label_title: John Wick Chapter 2
     release_year: '2017'
     sort_title: John Wick 2
-    url_poster: https://theposterdb.com/api/assets/352411
+    url_poster: https://theposterdb.com/api/assets/366293
     tpdb_search: https://theposterdb.com/search?term=John+Wick+Chapter+2&section=movies
   458156:
     label_title: John Wick Chapter 3 Parabellum
     release_year: '2019'
     sort_title: John Wick 3
-    url_poster: https://theposterdb.com/api/assets/352412
+    url_poster: https://theposterdb.com/api/assets/366294
     tpdb_search: https://theposterdb.com/search?term=John+Wick+Chapter+3+Parabellum&section=movies
   603692:
     label_title: John Wick Chapter 4
     release_year: '2023'
     sort_title: John Wick 4
-    url_poster: https://theposterdb.com/api/assets/352413
+    url_poster: https://theposterdb.com/api/assets/366295
     tpdb_search: https://theposterdb.com/search?term=John+Wick+Chapter+4&section=movies
   541671:
     label_title: From the World of John Wick Ballerina
     release_year: '2025'
     sort_title: John Wick 5
-    url_poster: https://theposterdb.com/api/assets/580974
+    url_poster: https://theposterdb.com/api/assets/611990
     tpdb_search: https://theposterdb.com/search?term=From+the+World+of+John+Wick+Ballerina&section=movies
   515001:
     label_title: Jojo Rabbit
     release_year: '2019'
     sort_title: Jojo Rabbit
-    url_poster: https://theposterdb.com/api/assets/485548
+    url_poster: https://theposterdb.com/api/assets/41442
     tpdb_search: https://theposterdb.com/search?term=Jojo+Rabbit&section=movies
   475557:
     label_title: Joker
@@ -2060,26 +2076,30 @@ metadata:
     label_title: Kung Fu Panda
     release_year: '2008'
     sort_title: Kung Fu Panda 1
-    url_poster: https://theposterdb.com/api/assets/289350
+    url_poster: https://theposterdb.com/api/assets/531067
     tpdb_search: https://theposterdb.com/search?term=Kung+Fu+Panda&section=movies
+    studio: DreamWorks Animation
   49444:
     label_title: Kung Fu Panda 2
     release_year: '2011'
     sort_title: Kung Fu Panda 2
-    url_poster: https://theposterdb.com/api/assets/289356
+    url_poster: https://theposterdb.com/api/assets/531066
     tpdb_search: https://theposterdb.com/search?term=Kung+Fu+Panda+2&section=movies
+    studio: DreamWorks Animation
   140300:
     label_title: Kung Fu Panda 3
     release_year: '2016'
     sort_title: Kung Fu Panda 3
-    url_poster: https://theposterdb.com/api/assets/289380
+    url_poster: https://theposterdb.com/api/assets/531065
     tpdb_search: https://theposterdb.com/search?term=Kung+Fu+Panda+3&section=movies
+    studio: DreamWorks Animation
   1011985:
     label_title: Kung Fu Panda 4
     release_year: '2024'
     sort_title: Kung Fu Panda 4
-    url_poster: https://theposterdb.com/api/assets/469089
+    url_poster: https://theposterdb.com/api/assets/531064
     tpdb_search: https://theposterdb.com/search?term=Kung+Fu+Panda+4&section=movies
+    studio: DreamWorks Animation
   10340:
     label_title: Lady and the Tramp
     release_year: '1955'
@@ -2108,7 +2128,7 @@ metadata:
     label_title: Legend
     release_year: '2015'
     sort_title: Legend
-    url_poster: https://theposterdb.com/api/assets/123562
+    url_poster: https://theposterdb.com/api/assets/45349
     tpdb_search: https://theposterdb.com/search?term=Legend&section=movies
   896536:
     label_title: The Legend of Oshi
@@ -2127,8 +2147,9 @@ metadata:
     label_title: Lightyear
     release_year: '2022'
     sort_title: Lightyear
-    url_poster: https://theposterdb.com/api/assets/211369
+    url_poster: https://theposterdb.com/api/assets/218896
     tpdb_search: https://theposterdb.com/search?term=Lightyear&section=movies
+    studio: Pixar
   552524:
     label_title: Lilo & Stitch
     release_year: '2025'
@@ -2252,7 +2273,7 @@ metadata:
     label_title: Magazine Dreams
     release_year: '2023'
     sort_title: Magazine Dreams
-    url_poster: https://theposterdb.com/api/assets/593342
+    url_poster: https://theposterdb.com/api/assets/623810
     tpdb_search: https://theposterdb.com/search?term=Magazine+Dreams&section=movies
   937278:
     label_title: A Man Called Otto
@@ -2428,14 +2449,16 @@ metadata:
     label_title: Minions
     release_year: '2015'
     sort_title: Minions 1
-    url_poster: https://theposterdb.com/api/assets/27389
+    url_poster: https://theposterdb.com/api/assets/568346
     tpdb_search: https://theposterdb.com/search?term=Minions&section=movies
+    studio: Illumination
   438148:
     label_title: Minions The Rise of Gru
     release_year: '2022'
     sort_title: Minions 2
-    url_poster: https://theposterdb.com/api/assets/27390
+    url_poster: https://theposterdb.com/api/assets/568339
     tpdb_search: https://theposterdb.com/search?term=Minions+The+Rise+of+Gru&section=movies
+    studio: Illumination
   799583:
     label_title: The Ministry of Ungentlemanly Warfare
     release_year: '2024'
@@ -2510,13 +2533,13 @@ metadata:
     label_title: Monsters Inc.
     release_year: '2001'
     sort_title: Monsters Inc. 1
-    url_poster: https://theposterdb.com/api/assets/460
+    url_poster: https://theposterdb.com/api/assets/60689
     tpdb_search: https://theposterdb.com/search?term=Monsters+Inc.&section=movies
   62211:
     label_title: Monsters University
     release_year: '2013'
     sort_title: Monsters Inc. 2
-    url_poster: https://theposterdb.com/api/assets/470
+    url_poster: https://theposterdb.com/api/assets/60699
     tpdb_search: https://theposterdb.com/search?term=Monsters+University&section=movies
   376867:
     label_title: Moonlight
@@ -2588,7 +2611,7 @@ metadata:
     label_title: My Neighbor Totoro
     release_year: '1988'
     sort_title: My Neighbor Totoro
-    url_poster: https://theposterdb.com/api/assets/24657
+    url_poster: https://theposterdb.com/api/assets/100968
     tpdb_search: https://theposterdb.com/search?term=My+Neighbor+Totoro&section=movies
     studio: Studio Ghibli
     genre:
@@ -2764,7 +2787,7 @@ metadata:
     label_title: The Parent Trap
     release_year: '1998'
     sort_title: Parent Trap
-    url_poster: https://theposterdb.com/api/assets/102064
+    url_poster: https://theposterdb.com/api/assets/30941
     tpdb_search: https://theposterdb.com/search?term=The+Parent+Trap&section=movies
   850920:
     label_title: The Parenting
@@ -2874,7 +2897,7 @@ metadata:
     label_title: Ponyo
     release_year: '2008'
     sort_title: Ponyo
-    url_poster: https://theposterdb.com/api/assets/24671
+    url_poster: https://theposterdb.com/api/assets/100982
     tpdb_search: https://theposterdb.com/search?term=Ponyo&section=movies
     studio: Studio Ghibli
     genre:
@@ -2941,7 +2964,7 @@ metadata:
     label_title: Princess Mononoke
     release_year: '1997'
     sort_title: Princess Mononoke
-    url_poster: https://theposterdb.com/api/assets/24665
+    url_poster: https://theposterdb.com/api/assets/100976
     tpdb_search: https://theposterdb.com/search?term=Princess+Mononoke&section=movies
     studio: Studio Ghibli
     genre:
@@ -2950,20 +2973,29 @@ metadata:
     label_title: Pulp Fiction
     release_year: '1994'
     sort_title: Pulp Fiction
-    url_poster: https://theposterdb.com/api/assets/12743
+    url_poster: https://theposterdb.com/api/assets/31972
     tpdb_search: https://theposterdb.com/search?term=Pulp+Fiction&section=movies
   417859:
     label_title: Puss in Boots
     release_year: '2011'
     sort_title: Puss in Boots 1
-    url_poster: https://theposterdb.com/api/assets/289357
+    url_poster: https://theposterdb.com/api/assets/531050
     tpdb_search: https://theposterdb.com/search?term=Puss+in+Boots&section=movies
+    studio: DreamWorks Animation
+  83201:
+    label_title: Puss in Boots The Three Diablos
+    release_year: '2012'
+    sort_title: Puss in Boots 2
+    url_poster: https://theposterdb.com/api/assets/531453
+    tpdb_search: https://theposterdb.com/search?term=Puss+in+Boots+The+Three+Diablos&section=movies
+    studio: DreamWorks Animation
   315162:
     label_title: Puss in Boots The Last Wish
     release_year: '2022'
-    sort_title: Puss in Boots 2
-    url_poster: https://theposterdb.com/api/assets/289399
+    sort_title: Puss in Boots 3
+    url_poster: https://theposterdb.com/api/assets/531049
     tpdb_search: https://theposterdb.com/search?term=Puss+in+Boots+The+Last+Wish&section=movies
+    studio: DreamWorks Animation
   447332:
     label_title: A Quiet Place
     release_year: '2018'
@@ -2986,8 +3018,9 @@ metadata:
     label_title: Ratatouille
     release_year: '2007'
     sort_title: Ratatouille
-    url_poster: https://theposterdb.com/api/assets/464
+    url_poster: https://theposterdb.com/api/assets/60693
     tpdb_search: https://theposterdb.com/search?term=Ratatouille&section=movies
+    studio: Pixar
   1013850:
     label_title: A Real Pain
     release_year: '2024'
@@ -3088,7 +3121,7 @@ metadata:
     label_title: The Secret World of Arrietty
     release_year: '2010'
     sort_title: Secret World of Arrietty
-    url_poster: https://theposterdb.com/api/assets/24672
+    url_poster: https://theposterdb.com/api/assets/100983
     tpdb_search: https://theposterdb.com/search?term=The+Secret+World+of+Arrietty&section=movies
     studio: Studio Ghibli
     genre:
@@ -3134,26 +3167,30 @@ metadata:
     label_title: Shrek
     release_year: '2001'
     sort_title: Shrek 1
-    url_poster: https://theposterdb.com/api/assets/6998
+    url_poster: https://theposterdb.com/api/assets/531124
     tpdb_search: https://theposterdb.com/search?term=Shrek&section=movies
+    studio: DreamWorks Animation
   809:
     label_title: Shrek 2
     release_year: '2004'
     sort_title: Shrek 2
-    url_poster: https://theposterdb.com/api/assets/6999
+    url_poster: https://theposterdb.com/api/assets/531123
     tpdb_search: https://theposterdb.com/search?term=Shrek+2&section=movies
+    studio: DreamWorks Animation
   810:
     label_title: Shrek the Third
     release_year: '2007'
     sort_title: Shrek 3
-    url_poster: https://theposterdb.com/api/assets/7000
+    url_poster: https://theposterdb.com/api/assets/531122
     tpdb_search: https://theposterdb.com/search?term=Shrek+the+Third&section=movies
+    studio: DreamWorks Animation
   10192:
     label_title: Shrek Forever After
     release_year: '2010'
     sort_title: Shrek 4
-    url_poster: https://theposterdb.com/api/assets/7001
+    url_poster: https://theposterdb.com/api/assets/531121
     tpdb_search: https://theposterdb.com/search?term=Shrek+Forever+After&section=movies
+    studio: DreamWorks Animation
   11324:
     label_title: Shutter Island
     release_year: '2010'
@@ -3346,7 +3383,7 @@ metadata:
     label_title: Spirited Away
     release_year: '2001'
     sort_title: Spirited Away
-    url_poster: https://theposterdb.com/api/assets/24667
+    url_poster: https://theposterdb.com/api/assets/100978
     tpdb_search: https://theposterdb.com/search?term=Spirited+Away&section=movies
     studio: Studio Ghibli
     genre:
@@ -3497,8 +3534,9 @@ metadata:
     label_title: The Super Mario Bros. Movie
     release_year: '2023'
     sort_title: Super Mario Bros. Movie
-    url_poster: https://theposterdb.com/api/assets/362613
+    url_poster: https://theposterdb.com/api/assets/568338
     tpdb_search: https://theposterdb.com/search?term=The+Super+Mario+Bros.+Movie&section=movies
+    studio: Illumination
   39939:
     label_title: Super Troopers
     release_year: '2001'
@@ -3605,13 +3643,13 @@ metadata:
     label_title: Top Gun
     release_year: '1986'
     sort_title: Top Gun
-    url_poster: https://theposterdb.com/api/assets/251519
+    url_poster: https://theposterdb.com/api/assets/251590
     tpdb_search: https://theposterdb.com/search?term=Top+Gun&section=movies
   361743:
     label_title: Top Gun Maverick
     release_year: '2022'
     sort_title: Top Gun Maverick
-    url_poster: https://theposterdb.com/api/assets/251520
+    url_poster: https://theposterdb.com/api/assets/251591
     tpdb_search: https://theposterdb.com/search?term=Top+Gun+Maverick&section=movies
   23168:
     label_title: The Town
@@ -3623,26 +3661,30 @@ metadata:
     label_title: Toy Story
     release_year: '1995'
     sort_title: Toy Story 1
-    url_poster: https://theposterdb.com/api/assets/457
+    url_poster: https://theposterdb.com/api/assets/60686
     tpdb_search: https://theposterdb.com/search?term=Toy+Story&section=movies
+    studio: Pixar
   863:
     label_title: Toy Story 2
     release_year: '1999'
     sort_title: Toy Story 2
-    url_poster: https://theposterdb.com/api/assets/459
+    url_poster: https://theposterdb.com/api/assets/60688
     tpdb_search: https://theposterdb.com/search?term=Toy+Story+2&section=movies
+    studio: Pixar
   10193:
     label_title: Toy Story 3
     release_year: '2010'
     sort_title: Toy Story 3
-    url_poster: https://theposterdb.com/api/assets/467
+    url_poster: https://theposterdb.com/api/assets/60696
     tpdb_search: https://theposterdb.com/search?term=Toy+Story+3&section=movies
+    studio: Pixar
   301528:
     label_title: Toy Story 4
     release_year: '2019'
     sort_title: Toy Story 4
-    url_poster: https://theposterdb.com/api/assets/477
+    url_poster: https://theposterdb.com/api/assets/60706
     tpdb_search: https://theposterdb.com/search?term=Toy+Story+4&section=movies
+    studio: Pixar
   396535:
     label_title: Train to Busan
     release_year: '2016'
@@ -3665,7 +3707,7 @@ metadata:
     label_title: 'Trainwreck: The Astroworld Tragedy'
     release_year: '2025'
     sort_title: 'Trainwreck: The Astroworld Tragedy'
-    url_poster: https://theposterdb.com/api/assets/615194
+    url_poster: https://theposterdb.com/api/assets/623311
     tpdb_search: https://theposterdb.com/search?term=Trainwreck:+The+Astroworld+Tragedy&section=movies
   1858:
     label_title: Transformers
@@ -3793,7 +3835,7 @@ metadata:
     label_title: Up
     release_year: '2009'
     sort_title: Up
-    url_poster: https://theposterdb.com/api/assets/18904
+    url_poster: https://theposterdb.com/api/assets/60695
     tpdb_search: https://theposterdb.com/search?term=Up&section=movies
     studio: Pixar
   458723:
@@ -3974,7 +4016,7 @@ metadata:
     label_title: A Working Man
     release_year: '2025'
     sort_title: Working Man
-    url_poster: https://theposterdb.com/api/assets/561477
+    url_poster: https://theposterdb.com/api/assets/593448
     tpdb_search: https://theposterdb.com/search?term=A+Working+Man&section=movies
   760104:
     label_title: X
