@@ -370,19 +370,19 @@ metadata:
     label_title: Back to the Future
     release_year: '1985'
     sort_title: Back to the Future 1
-    url_poster: https://theposterdb.com/api/assets/105777
+    url_poster: https://theposterdb.com/api/assets/87589
     tpdb_search: https://theposterdb.com/search?term=Back+to+the+Future&section=movies
   165:
     label_title: Back to the Future Part II
     release_year: '1989'
     sort_title: Back to the Future 2
-    url_poster: https://theposterdb.com/api/assets/105778
+    url_poster: https://theposterdb.com/api/assets/87590
     tpdb_search: https://theposterdb.com/search?term=Back+to+the+Future+Part+II&section=movies
   196:
     label_title: Back to the Future Part III
     release_year: '1990'
     sort_title: Back to the Future 3
-    url_poster: https://theposterdb.com/api/assets/105779
+    url_poster: https://theposterdb.com/api/assets/87591
     tpdb_search: https://theposterdb.com/search?term=Back+to+the+Future+Part+III&section=movies
   978796:
     label_title: Bagman
@@ -398,13 +398,13 @@ metadata:
     label_title: Barbie
     release_year: '2023'
     sort_title: Barbie
-    url_poster: https://theposterdb.com/api/assets/392096
+    url_poster: https://theposterdb.com/api/assets/419728
     tpdb_search: https://theposterdb.com/search?term=Barbie&section=movies
   414906:
     label_title: The Batman
     release_year: '2022'
     sort_title: Batman
-    url_poster: https://theposterdb.com/api/assets/228589
+    url_poster: https://theposterdb.com/api/assets/185105
     tpdb_search: https://theposterdb.com/search?term=The+Batman&section=movies
   272:
     label_title: Batman Begins
@@ -497,7 +497,7 @@ metadata:
     label_title: Bingo
     release_year: '1991'
     sort_title: Bingo
-    url_poster: https://image.tmdb.org/t/p/original/giooyb8azHrgbwqWUWCn7QhIBBS.jpg
+    url_poster: https://theposterdb.com/api/assets/627821
     tpdb_search: https://theposterdb.com/search?term=Bingo&section=movies
   194662:
     label_title: Birdman or The Unexpected Virtue of Ignorance
@@ -577,31 +577,31 @@ metadata:
     label_title: Blade Runner
     release_year: '1982'
     sort_title: Blade Runner
-    url_poster: https://theposterdb.com/api/assets/6082
+    url_poster: https://theposterdb.com/api/assets/247576
     tpdb_search: https://theposterdb.com/search?term=Blade+Runner&section=movies
   475946:
     label_title: Blade Runner Black Out 2022
     release_year: '2017'
     sort_title: Blade Runner 2022
-    url_poster: https://theposterdb.com/api/assets/4849
+    url_poster: https://theposterdb.com/api/assets/247579
     tpdb_search: https://theposterdb.com/search?term=Blade+Runner+Black+Out+2022&section=movies
   473072:
     label_title: 2036 Nexus Dawn
     release_year: '2017'
     sort_title: Blade Runner 2036
-    url_poster: https://theposterdb.com/api/assets/4850
+    url_poster: https://theposterdb.com/api/assets/247577
     tpdb_search: https://theposterdb.com/search?term=2036+Nexus+Dawn&section=movies
   475759:
     label_title: 2048 Nowhere to Run
     release_year: '2017'
     sort_title: Blade Runner 2048
-    url_poster: https://theposterdb.com/api/assets/4851
+    url_poster: https://theposterdb.com/api/assets/247578
     tpdb_search: https://theposterdb.com/search?term=2048+Nowhere+to+Run&section=movies
   335984:
     label_title: Blade Runner 2049
     release_year: '2017'
     sort_title: Blade Runner 2049
-    url_poster: https://theposterdb.com/api/assets/6083
+    url_poster: https://theposterdb.com/api/assets/247580
     tpdb_search: https://theposterdb.com/search?term=Blade+Runner+2049&section=movies
   232672:
     label_title: Blended
@@ -849,7 +849,7 @@ metadata:
     label_title: Cuckoo
     release_year: '2024'
     sort_title: Cuckoo
-    url_poster: https://theposterdb.com/api/assets/525355
+    url_poster: https://theposterdb.com/api/assets/600771
     tpdb_search: https://theposterdb.com/search?term=Cuckoo&section=movies
   480414:
     label_title: The Curse of La Llorona
@@ -885,13 +885,13 @@ metadata:
     label_title: Dazed and Confused
     release_year: '1993'
     sort_title: Dazed and Confused
-    url_poster: https://theposterdb.com/api/assets/110142
+    url_poster: https://theposterdb.com/api/assets/490993
     tpdb_search: https://theposterdb.com/search?term=Dazed+and+Confused&section=movies
   1006724:
     label_title: Dead Talents Society
     release_year: '2024'
     sort_title: Dead Talents Society
-    url_poster: https://media.themoviedb.org/t/p/original/65XjDUxbJBZ199VPdxnih9TpWFV.jpg
+    url_poster: https://theposterdb.com/api/assets/591454
     tpdb_search: https://theposterdb.com/search?term=Dead+Talents+Society&section=movies
   293660:
     label_title: Deadpool
@@ -984,7 +984,7 @@ metadata:
     label_title: Doctor Sleep
     release_year: '2019'
     sort_title: Doctor Sleep
-    url_poster: https://theposterdb.com/api/assets/75684
+    url_poster: https://theposterdb.com/api/assets/32303
     tpdb_search: https://theposterdb.com/search?term=Doctor+Sleep&section=movies
   284052:
     label_title: Doctor Strange
@@ -2647,7 +2647,7 @@ metadata:
     label_title: Nightbitch
     release_year: '2024'
     sort_title: Nightbitch
-    url_poster: https://theposterdb.com/api/assets/521580
+    url_poster: https://theposterdb.com/api/assets/555332
     tpdb_search: https://theposterdb.com/search?term=Nightbitch&section=movies
   884605:
     label_title: No Hard Feelings
@@ -3161,7 +3161,7 @@ metadata:
     label_title: The Shining
     release_year: '1980'
     sort_title: Shining
-    url_poster: https://theposterdb.com/api/assets/75683
+    url_poster: https://theposterdb.com/api/assets/32302
     tpdb_search: https://theposterdb.com/search?term=The+Shining&section=movies
   808:
     label_title: Shrek
