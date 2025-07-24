@@ -7,7 +7,6 @@ on:
 permissions:
   id-token: write
   contents: read
-  issues: write
 
 env:
   MOVIE_METADATA_FILE: movie_metadata.yml
