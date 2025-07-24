@@ -3,7 +3,9 @@ name: Find Missing Posters
 on:
   workflow_dispatch:
   workflow_run:
-    workflows: [Arr-Stack Import]
+    workflows: 
+      - Arr-Stack Import
+      - Manual Filepath Metadata Sync
     types:
       - completed
 
