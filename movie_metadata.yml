@@ -984,7 +984,7 @@ metadata:
     label_title: Django Unchained
     release_year: '2012'
     sort_title: Django Unchained
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/109603
     tpdb_search: https://theposterdb.com/search?term=Django+Unchained&section=movies
   501170:
     label_title: Doctor Sleep
