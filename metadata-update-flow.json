@@ -1,0 +1,261 @@
+[
+    {
+        "id": "27b597ed74953d9a",
+        "type": "tab",
+        "label": "-arr Import",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "455a73ab10c40263",
+        "type": "http in",
+        "z": "27b597ed74953d9a",
+        "name": "Webhook",
+        "url": "/arr-import",
+        "method": "post",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 80,
+        "y": 60,
+        "wires": [
+            [
+                "fb2526cbfe5f6bda",
+                "6570f9ef892b7d36"
+            ]
+        ]
+    },
+    {
+        "id": "fb2526cbfe5f6bda",
+        "type": "http response",
+        "z": "27b597ed74953d9a",
+        "name": "Response",
+        "statusCode": "",
+        "headers": {},
+        "x": 300,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "a979d4e32e933d2a",
+        "type": "debug",
+        "z": "27b597ed74953d9a",
+        "name": "GH Payload",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 850,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "df2ff41f7240ff1d",
+        "type": "change",
+        "z": "27b597ed74953d9a",
+        "name": "Save Payload",
+        "rules": [
+            {
+                "t": "delete",
+                "p": "payload.applicationUrl",
+                "pt": "msg"
+            },
+            {
+                "t": "delete",
+                "p": "payload.downloadClient",
+                "pt": "msg"
+            },
+            {
+                "t": "delete",
+                "p": "payload.downloadClientType",
+                "pt": "msg"
+            },
+            {
+                "t": "delete",
+                "p": "payload.downloadId",
+                "pt": "msg"
+            },
+            {
+                "t": "set",
+                "p": "arr-payload",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg",
+                "dc": true
+            },
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "{\"event_type\": \"arr-import\"}",
+                "tot": "json"
+            },
+            {
+                "t": "set",
+                "p": "payload.client_payload",
+                "pt": "msg",
+                "to": "arr-payload",
+                "tot": "flow",
+                "dc": true
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 640,
+        "y": 140,
+        "wires": [
+            [
+                "a979d4e32e933d2a",
+                "5aef0d19e0198055"
+            ]
+        ]
+    },
+    {
+        "id": "5aef0d19e0198055",
+        "type": "http request",
+        "z": "27b597ed74953d9a",
+        "name": "Trigger GH Workflow",
+        "method": "POST",
+        "ret": "txt",
+        "paytoqs": "body",
+        "url": "https://api.github.com/repos/ChaseRoohms/kometa-configs/dispatches",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [
+            {
+                "keyType": "other",
+                "keyValue": "Authorization",
+                "valueType": "other",
+                "valueValue": "Bearer REPLACE_ME_WITH_GITHUB_TOKEN"
+            },
+            {
+                "keyType": "other",
+                "keyValue": "Accept",
+                "valueType": "other",
+                "valueValue": "application/vnd.github.v3+json"
+            }
+        ],
+        "x": 880,
+        "y": 140,
+        "wires": [
+            [
+                "9d2e164a9930a65c"
+            ]
+        ]
+    },
+    {
+        "id": "9d2e164a9930a65c",
+        "type": "debug",
+        "z": "27b597ed74953d9a",
+        "name": "GH Response",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1120,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "6570f9ef892b7d36",
+        "type": "switch",
+        "z": "27b597ed74953d9a",
+        "name": "Movie or Show",
+        "property": "payload.instanceName",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "Radarr",
+                "vt": "str"
+            },
+            {
+                "t": "eq",
+                "v": "Sonarr",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 280,
+        "y": 140,
+        "wires": [
+            [
+                "eb323f9f7fdddce8"
+            ],
+            [
+                "07ce3eefbbdceec0"
+            ]
+        ]
+    },
+    {
+        "id": "eb323f9f7fdddce8",
+        "type": "change",
+        "z": "27b597ed74953d9a",
+        "name": "Set Title",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload.title",
+                "pt": "msg",
+                "to": "payload.movie.title",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 460,
+        "y": 120,
+        "wires": [
+            [
+                "df2ff41f7240ff1d"
+            ]
+        ]
+    },
+    {
+        "id": "07ce3eefbbdceec0",
+        "type": "change",
+        "z": "27b597ed74953d9a",
+        "name": "Set Title",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload.title",
+                "pt": "msg",
+                "to": "payload.series.title",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 460,
+        "y": 160,
+        "wires": [
+            [
+                "df2ff41f7240ff1d"
+            ]
+        ]
+    }
+]
