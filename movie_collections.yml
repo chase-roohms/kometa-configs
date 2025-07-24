@@ -45,3 +45,8 @@ collections:
       name: Radarr
       radarr_tag: 8 - scottsudduth
     url_poster: https://i.imgur.com/XmgRZUP.png
+  kimberlyelizondo:
+    template:
+      name: Radarr
+      radarr_tag: 9 - kimberlyelizondo
+    url_poster: https://i.imgur.com/dhX6aA2.png
