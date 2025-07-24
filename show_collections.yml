@@ -50,5 +50,5 @@ collections:
   kimberlyelizondo:
     template:
       name: Sonarr
-      radarr_tag: 9 - kimberlyelizondo
+      sonarr_tag: 9 - kimberlyelizondo
     url_poster: https://i.imgur.com/LVk7jnb.png
