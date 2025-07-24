@@ -13,9 +13,10 @@ The **Kometa Configs** repository serves as a centralized source for managing an
 ## Features
 - **Metadata Management**: Easily customize and organize metadata for my Plex library.
 - **Playlists & Collections**: Create and manage playlists and collections to enhance my Plex experience.
-- **Automation Scripts**: Python-based scripts to automate tedious tasks.
-- **Modular Configurations**: Modular and reusable configuration files for flexible usage.
+- **Automated Updates**: Metadata automatically added when media is imported via the [servarr apps](https://wiki.servarr.com/) (specifically Radarr and Sonarr).
 
 ## Prerequisites
 - **Kometa**: Ensure that the Kometa tool is installed and set up correctly.
 - **Plex Media Server**: A working Plex Media Server instance.
+- **Sonarr or Radarr**: Media managers that will trigger a Node-Red workflow via webhook.
+- **Node-Red**: Middle man to make the servarr app's webhooks compatible with GitHub Actions
