@@ -1,3 +1,5 @@
+# THIS IS THE SERVER SIDE (GITHUB) SCRIPT
+
 import json
 import re
 import yaml
