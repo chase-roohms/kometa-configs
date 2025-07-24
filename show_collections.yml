@@ -30,6 +30,8 @@ collections:
       name: Sonarr
       sonarr_tag: 4 - neonmovies3
     url_poster: https://i.imgur.com/QFjgfeB.png
+  # Font for these is Oswald Bold
+  # Color code is e6a124
   jasonebbeler:
     template:
       name: Sonarr
@@ -49,4 +51,4 @@ collections:
     template:
       name: Sonarr
       radarr_tag: 9 - kimberlyelizondo
-    url_poster: https://i.imgur.com/dhX6aA2.png
+    url_poster: https://i.imgur.com/LVk7jnb.png
