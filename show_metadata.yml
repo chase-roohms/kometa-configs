@@ -1173,11 +1173,11 @@ metadata:
     label_title: The Hunting Wives
     release_year: '2025'
     sort_title: Hunting Wives
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/624510
     tpdb_search: https://theposterdb.com/search?term=The+Hunting+Wives&section=shows
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/624511
   393201:
     label_title: I Am Groot
     release_year: '2022'
