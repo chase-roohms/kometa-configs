@@ -980,6 +980,12 @@ metadata:
     sort_title: Division III Footballs Finest
     url_poster: https://theposterdb.com/api/assets/594672
     tpdb_search: https://theposterdb.com/search?term=Division+III+Footballs+Finest&section=movies
+  68718:
+    label_title: Django Unchained
+    release_year: '2012'
+    sort_title: Django Unchained
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Django+Unchained&section=movies
   501170:
     label_title: Doctor Sleep
     release_year: '2019'
@@ -2154,8 +2160,8 @@ metadata:
     label_title: Lilo & Stitch
     release_year: '2025'
     sort_title: Lilo & Stitch
-    tpdb_search: https://theposterdb.com/search?term=Lilo+%26+Stitch&section=movies
     url_poster: https://theposterdb.com/api/assets/554954
+    tpdb_search: https://theposterdb.com/search?term=Lilo+%26+Stitch&section=movies
   1083968:
     label_title: Locked
     release_year: '2025'

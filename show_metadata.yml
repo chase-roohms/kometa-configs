@@ -743,7 +743,7 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/593190
         episodes:
           101:
-            title: "Opening: Rollin' by Limp Bizkit"
+            title: 'Opening: Rollin'' by Limp Bizkit'
             summary: Opening song "Rollin'" by Limp Bizkit
             url_poster: https://i.imgur.com/YPmHSnm.png
       1:
@@ -1356,7 +1356,7 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/482205
         episodes:
           101:
-            title: "Opening: Abyss by YUNGBLUD"
+            title: 'Opening: Abyss by YUNGBLUD'
             summary: Opening song "Abyss" by YUNGBLUD
             url_poster: https://i.imgur.com/d8ktTYz.png
       1:
