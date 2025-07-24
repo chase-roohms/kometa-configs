@@ -20,3 +20,11 @@ The **Kometa Configs** repository serves as a centralized source for managing an
 - **Plex Media Server**: A working Plex Media Server instance.
 - **Sonarr or Radarr**: Media managers that will trigger a Node-Red workflow via webhook.
 - **Node-Red**: Middle man to make the servarr app's webhooks compatible with GitHub Actions
+
+## Usage
+*The general workflow looks like the following diagram.*
+<img width="1361" height="251" alt="kometa-configs-management" src="https://github.com/user-attachments/assets/c658f546-0827-41dc-a660-50c5dc7a43e9" />
+
+1. In your starr apps create a webhook (Settings -> Connect -> Add Connection -> Webhook) to run only "On File Import"
+2. Create a workflow in your node-red instance by importing ""
+3. Replace the GitHub token with a Fine-Grained Personal Access Token with
