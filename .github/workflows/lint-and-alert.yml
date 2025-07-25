@@ -47,14 +47,12 @@ jobs:
               echo "✅ [$filename](https://github.com/$REPOSITORY_FULLNAME/blob/$REF_NAME/$filename)" >> $GITHUB_STEP_SUMMARY
             fi
           done < <(find . -type f \( -name "*.yml" -o -name "*.yaml" \))
-          echo "EMBED_DESCRIPTION=$errors" >> $GITHUB_ENV
-          echo "$EMBED_DESCRIPTION"
-          if [[ -n "$EMBED_DESCRIPTION" ]]; then
+          if [[ -n "$errors" ]]; then
             echo "🆘 Some files FAILED 🆘" >> $GITHUB_STEP_SUMMARY
-            echo "$errors" >> $GITHUB_STEP_SUMMARY
           else
             echo "✅ All files PASSED ✅" >> $GITHUB_STEP_SUMMARY
           fi
+          echo "EMBED_DESCRIPTION=$errors" >> $GITHUB_ENV
           
       - name: Alert
         if: ${{ env.EMBED_DESCRIPTION }}
