@@ -1,6 +1,8 @@
 # Kometa Configs
 
-This repository contains a collection of configuration files for use with **Kometa**, designed to manage metadata, playlists, collections, and more for your Plex instance.
+This repository contains a collection of configuration files for use with **Kometa**, designed to manage metadata, playlists, collections, and more for a Plex instance.
+
+Metadata files are auto updated with new entries when files are imported via the [servarr apps](https://wiki.servarr.com/).
 
 ## Table of Contents
 - [Overview](#overview)
@@ -8,7 +10,7 @@ This repository contains a collection of configuration files for use with **Kome
 - [Prerequisites](#prerequisites)
 
 ## Overview
-The **Kometa Configs** repository serves as a centralized source for managing and organizing Plex metadata, playlists, and collections. These configurations are tailored to streamline the experience of maintaining a Plex library, ensuring that my media is consistently organized and up-to-date. This data is pulled by the Kometa application and used to udate the metadata of media on my Plex server.
+The **Kometa Configs** repository serves as a centralized source for managing and organizing Plex metadata, playlists, and collections. These configurations provide "metadata as code", ensuring that my media is consistently organized and that customization is retained even if my server goes down or my library is lsot. This data is pulled by the Kometa application and used to udate of media, playlists and collections on my Plex server.
 
 ## Features
 - **Metadata Management**: Easily customize and organize metadata for my Plex library.
