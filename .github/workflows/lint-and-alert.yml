@@ -3,6 +3,9 @@ name: Lint Files
 
 on:
   push:
+    paths:
+      - '**.yml'
+      - '**.yaml'
   workflow_dispatch:
 
 permissions:
