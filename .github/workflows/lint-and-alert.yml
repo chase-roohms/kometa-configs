@@ -36,7 +36,7 @@ jobs:
           echo "EMBED_DESCRIPTION=$embed_description" >> $GITHUB_ENV
           
       - name: Alert
-        if: ${{ env.LINT_ERROR == true }}
+        if: always() #${{ env.LINT_ERROR == true }}
         shell: bash
         run: |
           json_payload='{
