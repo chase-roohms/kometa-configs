@@ -38,10 +38,12 @@ jobs:
         run: |
           errors=""
           find . -type f \( -name "*.yml" -o -name "*.yaml" \) | while read -r filename; do
+            echo "Linting $filename"
             if ! yq eval '.' "$filename" > /dev/null 2>&1; then
               errors+="- [$filename](https://github.com/$REPOSITORY_FULLNAME/blob/$REF_NAME/$filename)"'\n'
               echo "LINT_ERROR=true" >> $GITHUB_ENV
             fi
+            echo "Linted $filename"
           done
           echo "EMBED_DESCRIPTION=$errors" >> $GITHUB_ENV
           echo "## Lint Results" >> $GITHUB_STEP_SUMMARY
