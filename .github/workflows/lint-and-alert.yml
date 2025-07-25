@@ -40,11 +40,14 @@ jobs:
           echo "## Lint Results" >> $GITHUB_STEP_SUMMARY
           while read -r filename; do
             echo "Linting $filename"
-            if ! yq eval '.' "$filename" > /dev/null 2>&1; then
-              errors+="- [$filename](https://github.com/$REPOSITORY_FULLNAME/blob/$REF_NAME/$filename)"'\n'
-              echo "🆘 [$filename](https://github.com/$REPOSITORY_FULLNAME/blob/$REF_NAME/$filename)" >> $GITHUB_STEP_SUMMARY
+            lint_output=$(yq eval '.' "$filename" 2>&1)
+            if [ $? -ne 0 ]; then
+                line_number=$(echo "$lint_output" | grep -oP 'line \K\d+')
+                errors+="- [$filename](https://github.com/$REPOSITORY_FULLNAME/blob/$REF_NAME/$filename#L$line_number)"'\n'
+                echo "🆘 [$filename](https://github.com/$REPOSITORY_FULLNAME/blob/$REF_NAME/$filename#L$line_number)" >> $GITHUB_STEP_SUMMARY
+                echo "&nbsp;&nbsp;&nbsp;$lint_output" >> $GITHUB_STEP_SUMMARY
             else
-              echo "✅ [$filename](https://github.com/$REPOSITORY_FULLNAME/blob/$REF_NAME/$filename)" >> $GITHUB_STEP_SUMMARY
+                echo "✅ [$filename](https://github.com/$REPOSITORY_FULLNAME/blob/$REF_NAME/$filename)" >> $GITHUB_STEP_SUMMARY
             fi
           done < <(find . -type f \( -name "*.yml" -o -name "*.yaml" \))
           if [[ -n "$errors" ]]; then
