@@ -44,10 +44,10 @@ jobs:
             lint_output=$(yq eval '.' "$filename" 2>&1)
             if [ $? -ne 0 ]; then
                 line_number="$(echo "$lint_output" | grep -oP 'line \K\d+')"
-                echo "Got line number"
-                errors+="- [$filename](https://github.com/$REPOSITORY_FULLNAME/blob/$REF_NAME/$filename#L$line_number)"'\n'
+                errors+="- [$filename](https://github.com/$REPOSITORY_FULLNAME/blob/$REF_NAME/$filename#L$line_number) line $line_number"'\n'
+                errors+=" - $lint_output"'\n'
                 echo "🆘 [$filename](https://github.com/$REPOSITORY_FULLNAME/blob/$REF_NAME/$filename#L$line_number)" >> $GITHUB_STEP_SUMMARY
-                echo "&nbsp;&nbsp;&nbsp;$lint_output" >> $GITHUB_STEP_SUMMARY
+                echo "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$lint_output" >> $GITHUB_STEP_SUMMARY
             else
                 echo "✅ [$filename](https://github.com/$REPOSITORY_FULLNAME/blob/$REF_NAME/$filename)" >> $GITHUB_STEP_SUMMARY
             fi
