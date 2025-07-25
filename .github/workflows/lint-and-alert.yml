@@ -46,14 +46,14 @@ jobs:
           echo "EMBED_DESCRIPTION=$errors" >> $GITHUB_ENV
           echo "## Lint Results" >> $GITHUB_STEP_SUMMARY
           if [[ $LINT_ERROR == 'true' ]]; then
-            echo "Some files FAILED" >> $GITHUB_STEP_SUMMARY
+            echo "🆘 Some files FAILED 🆘" >> $GITHUB_STEP_SUMMARY
             echo "$errors" >> $GITHUB_STEP_SUMMARY
           else
-            echo "All files PASSED" >> $GITHUB_STEP_SUMMARY
+            echo "✅ All files PASSED ✅" >> $GITHUB_STEP_SUMMARY
           fi
           
       - name: Alert
-        if: always() #${{ env.LINT_ERROR == true }}
+        if: ${{ env.LINT_ERROR == true }}
         shell: bash
         run: |
           json_payload='{
