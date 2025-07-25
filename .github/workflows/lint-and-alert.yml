@@ -46,11 +46,10 @@ jobs:
               {
                 "author": {
                   "name": "kometa-configs",
-                  "url": "https://github.com/"'"$REPOSITORY_FULLNAME"'"/tree/"'"$REF_NAME"',
+                  "url": "https://github.com/'"$REPOSITORY_FULLNAME"'/tree/'"$REF_NAME"'",
                   "icon_url": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/kometa.png"
                 },
                 "title": ":x: Errors detected in one or more yaml files :x:",
-                "url": "https://github.com/"'"$REPOSITORY_FULLNAME"'"/tree/"'"$REF_NAME"',
                 "description": "'"$EMBED_DESCRIPTION"'",
                 "color": 16711680
               }
