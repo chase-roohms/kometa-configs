@@ -1,4 +1,4 @@
-# Kometa Configs
+# Kometa Configs 
 
 This repository contains a collection of configuration files for use with **Kometa**, designed to manage metadata, playlists, collections, and more for a Plex instance.
 
