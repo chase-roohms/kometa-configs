@@ -11,6 +11,7 @@ permissions:
 
 env:
   DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+  ACTOR: ${{ github.actor }}
   REPOSITORY_FULLNAME: ${{ github.repository }}
   REF_NAME: ${{ github.ref_name }}
   LINT_ERROR: 'false'
@@ -22,18 +23,34 @@ jobs:
       - name: Checkout
         id: checkout
         uses: actions/checkout@v4.2.2
+
+      - name: Event summary
+        shell: bash
+        run: |
+          echo "## Event Summary" >> $GITHUB_STEP_SUMMARY
+          echo "|Key|Value|" >> $GITHUB_STEP_SUMMARY
+          echo "|-|-|" >> $GITHUB_STEP_SUMMARY
+          echo "|Actor|$ACTOR|" >> $GITHUB_STEP_SUMMARY
+          echo "|Branch|$REF_NAME|" >> $GITHUB_STEP_SUMMARY
       
       - name: Lint
         shell: bash
         run: |
-          embed_description=""
+          errors=""
           find . -type f \( -name "*.yml" -o -name "*.yaml" \) | while read -r filename; do
             if ! yq eval '.' "$filename" > /dev/null 2>&1; then
-              embed_description+="- [$filename](https://github.com/$REPOSITORY_FULLNAME/blob/$REF_NAME/$filename)"'\n'
+              errors+="- [$filename](https://github.com/$REPOSITORY_FULLNAME/blob/$REF_NAME/$filename)"'\n'
               echo "LINT_ERROR=true" >> $GITHUB_ENV
             fi
           done
-          echo "EMBED_DESCRIPTION=$embed_description" >> $GITHUB_ENV
+          echo "EMBED_DESCRIPTION=$errors" >> $GITHUB_ENV
+          echo "## Lint Results" >> $GITHUB_STEP_SUMMARY
+          if [[ $LINT_ERROR == 'true' ]]; then
+            echo "Some files FAILED" >> $GITHUB_STEP_SUMMARY
+            echo "$errors" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "All files PASSED" >> $GITHUB_STEP_SUMMARY
+          fi
           
       - name: Alert
         if: always() #${{ env.LINT_ERROR == true }}
@@ -43,15 +60,26 @@ jobs:
             "username": "github-actions",
             "avatar_url": "https://i.imgur.com/wBj6ba4.png",
             "embeds": [
+              "title": ":x: Errors detected in one or more yaml files :x:",
+              "description": "'"$EMBED_DESCRIPTION"'",
+              "color": 16711680,
               {
                 "author": {
                   "name": "kometa-configs",
                   "url": "https://github.com/'"$REPOSITORY_FULLNAME"'/tree/'"$REF_NAME"'",
                   "icon_url": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/kometa.png"
                 },
-                "title": ":x: Errors detected in one or more yaml files :x:",
-                "description": "'"$EMBED_DESCRIPTION"'",
-                "color": 16711680
+                "fields": [
+                  {
+                    "name": "Actor",
+                    "value": "'"$ACTOR"'",
+                    "inline": true
+                  },{
+                    "name": "Branch",
+                    "value": "'"$REF_NAME"'",
+                    "inline": true
+                  }
+                ]
               }
             ]
           }'
