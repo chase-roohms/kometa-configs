@@ -38,6 +38,7 @@ jobs:
         shell: bash
         run: |
           errors=""
+          echo "## Lint Results" >> $GITHUB_STEP_SUMMARY
           find . -type f \( -name "*.yml" -o -name "*.yaml" \) | while read -r filename; do
             echo "Linting $filename"
             if ! yq eval '.' "$filename" > /dev/null 2>&1; then
@@ -47,7 +48,6 @@ jobs:
             echo "Linted $filename" >> $GITHUB_STEP_SUMMARY
           done
           echo "EMBED_DESCRIPTION=$errors" >> $GITHUB_ENV
-          echo "## Lint Results" >> $GITHUB_STEP_SUMMARY
           if [[ $LINT_ERROR == 'true' ]]; then
             echo "🆘 Some files FAILED 🆘" >> $GITHUB_STEP_SUMMARY
             echo "$errors" >> $GITHUB_STEP_SUMMARY
