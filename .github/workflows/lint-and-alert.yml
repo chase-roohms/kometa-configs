@@ -14,7 +14,6 @@ env:
   ACTOR: ${{ github.actor }}
   REPOSITORY_FULLNAME: ${{ github.repository }}
   REF_NAME: ${{ github.ref_name }}
-  LINT_ERROR: 'false'
 
 jobs:
   lint-and-alert:
@@ -43,14 +42,13 @@ jobs:
             echo "Linting $filename"
             if ! yq eval '.' "$filename" > /dev/null 2>&1; then
               errors+="- [$filename](https://github.com/$REPOSITORY_FULLNAME/blob/$REF_NAME/$filename)"'\n'
-              echo "LINT_ERROR='true'" >> $GITHUB_ENV
               echo "🆘 [$filename](https://github.com/$REPOSITORY_FULLNAME/blob/$REF_NAME/$filename)" >> $GITHUB_STEP_SUMMARY
             else
               echo "✅ [$filename](https://github.com/$REPOSITORY_FULLNAME/blob/$REF_NAME/$filename)" >> $GITHUB_STEP_SUMMARY
             fi
           done
           echo "EMBED_DESCRIPTION=$errors" >> $GITHUB_ENV
-          if [[ $LINT_ERROR == 'true' ]]; then
+          if [[ $EMBED_DESCRIPTION != '' ]]; then
             echo "🆘 Some files FAILED 🆘" >> $GITHUB_STEP_SUMMARY
             echo "$errors" >> $GITHUB_STEP_SUMMARY
           else
@@ -58,7 +56,7 @@ jobs:
           fi
           
       - name: Alert
-        if: ${{ env.LINT_ERROR == 'true' }}
+        if: ${{ env.EMBED_DESCRIPTION != '' }}
         shell: bash
         run: |
           json_payload='{
