@@ -42,9 +42,6 @@ jobs:
           while read -r filename; do
             echo "Linting $filename"
             lint_output=$(yq eval '.' "$filename" 2>&1)
-            if [ $? -eq 0 ]; then
-                lint_output=""
-            fi
             if [ $? -ne 0 ]; then
                 line_number="$(echo "$lint_output" | grep -oP 'line \K\d+')"
                 echo "Got line number"
