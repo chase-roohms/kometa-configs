@@ -38,15 +38,15 @@ jobs:
         run: |
           errors=""
           echo "## Lint Results" >> $GITHUB_STEP_SUMMARY
-          find . -type f \( -name "*.yml" -o -name "*.yaml" \) | while read -r filename; do
+          while read -r filename; do
             echo "Linting $filename"
             if ! yq eval '.' "$filename" > /dev/null 2>&1; then
-              errors="$errors- [$filename](https://github.com/$REPOSITORY_FULLNAME/blob/$REF_NAME/$filename)"'\n'
+              errors+="- [$filename](https://github.com/$REPOSITORY_FULLNAME/blob/$REF_NAME/$filename)"'\n'
               echo "🆘 [$filename](https://github.com/$REPOSITORY_FULLNAME/blob/$REF_NAME/$filename)" >> $GITHUB_STEP_SUMMARY
             else
               echo "✅ [$filename](https://github.com/$REPOSITORY_FULLNAME/blob/$REF_NAME/$filename)" >> $GITHUB_STEP_SUMMARY
             fi
-          done
+          done < <(find . -type f \( -name "*.yml" -o -name "*.yaml" \))
           echo "EMBED_DESCRIPTION=$errors" >> $GITHUB_ENV
           echo "$EMBED_DESCRIPTION"
           if [[ -n "$EMBED_DESCRIPTION" ]]; then
