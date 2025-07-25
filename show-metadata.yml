@@ -5,7 +5,7 @@ metadata:
     sort_title: 3 Body Problem
     url_poster: https://theposterdb.com/api/assets/465293
     tpdb_search: https://theposterdb.com/search?term=3+Body+Problem&section=shows
-    seasons:
+    seasons:'
       1:
         url_poster: https://theposterdb.com/api/assets/465294
   268592:
