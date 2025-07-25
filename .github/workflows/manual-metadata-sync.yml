@@ -9,10 +9,10 @@ permissions:
   contents: write
 
 env:
-  MOVIE_METADATA_FILE: movie_metadata.yml
-  SHOW_METADATA_FILE: show_metadata.yml
-  JSON_DATA_FILE: json_data.json
-  ARTIFACT_NAME: json_data
+  MOVIE_METADATA_FILE: movie-metadata.yml
+  SHOW_METADATA_FILE: show-metadata.yml
+  JSON_DATA_FILE: json-data.json
+  ARTIFACT_NAME: json-data
 
 jobs:
   update:
