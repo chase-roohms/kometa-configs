@@ -32,6 +32,7 @@ jobs:
           echo "|-|-|" >> $GITHUB_STEP_SUMMARY
           echo "|Actor|$ACTOR|" >> $GITHUB_STEP_SUMMARY
           echo "|Branch|$REF_NAME|" >> $GITHUB_STEP_SUMMARY
+          echo "|yq Version|$(yq --version)|" >> $GITHUB_STEP_SUMMARY
       
       - name: Lint
         shell: bash
@@ -43,7 +44,7 @@ jobs:
               errors+="- [$filename](https://github.com/$REPOSITORY_FULLNAME/blob/$REF_NAME/$filename)"'\n'
               echo "LINT_ERROR=true" >> $GITHUB_ENV
             fi
-            echo "Linted $filename"
+            echo "Linted $filename" >> $GITHUB_STEP_SUMMARY
           done
           echo "EMBED_DESCRIPTION=$errors" >> $GITHUB_ENV
           echo "## Lint Results" >> $GITHUB_STEP_SUMMARY
