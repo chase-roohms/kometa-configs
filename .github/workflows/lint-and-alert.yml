@@ -41,14 +41,15 @@ jobs:
           find . -type f \( -name "*.yml" -o -name "*.yaml" \) | while read -r filename; do
             echo "Linting $filename"
             if ! yq eval '.' "$filename" > /dev/null 2>&1; then
-              errors+="- [$filename](https://github.com/$REPOSITORY_FULLNAME/blob/$REF_NAME/$filename)"'\n'
+              errors="$errors- [$filename](https://github.com/$REPOSITORY_FULLNAME/blob/$REF_NAME/$filename)"'\n'
               echo "🆘 [$filename](https://github.com/$REPOSITORY_FULLNAME/blob/$REF_NAME/$filename)" >> $GITHUB_STEP_SUMMARY
             else
               echo "✅ [$filename](https://github.com/$REPOSITORY_FULLNAME/blob/$REF_NAME/$filename)" >> $GITHUB_STEP_SUMMARY
             fi
           done
           echo "EMBED_DESCRIPTION=$errors" >> $GITHUB_ENV
-          if [[ $EMBED_DESCRIPTION != '' ]]; then
+          echo "$EMBED_DESCRIPTION"
+          if [[ -n "$EMBED_DESCRIPTION" ]]; then
             echo "🆘 Some files FAILED 🆘" >> $GITHUB_STEP_SUMMARY
             echo "$errors" >> $GITHUB_STEP_SUMMARY
           else
@@ -56,7 +57,7 @@ jobs:
           fi
           
       - name: Alert
-        if: ${{ env.EMBED_DESCRIPTION != '' }}
+        if: ${{ env.EMBED_DESCRIPTION }}
         shell: bash
         run: |
           json_payload='{
