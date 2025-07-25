@@ -1450,14 +1450,14 @@ metadata:
   9614:
     label_title: Happy Gilmore
     release_year: '1996'
-    sort_title: Happy Gilmore
-    url_poster: ''
+    sort_title: Happy Gilmore 1
+    url_poster: https://theposterdb.com/api/assets/628365
     tpdb_search: https://theposterdb.com/search?term=Happy+Gilmore&section=movies
   1263256:
     label_title: Happy Gilmore 2
     release_year: '2025'
     sort_title: Happy Gilmore 2
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/628364
     tpdb_search: https://theposterdb.com/search?term=Happy+Gilmore+2&section=movies
   1013154:
     label_title: Hard Truths
