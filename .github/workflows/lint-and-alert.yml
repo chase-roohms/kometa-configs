@@ -13,7 +13,7 @@ env:
   DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
   REPOSITORY_FULLNAME: ${{ github.repository }}
   REF_NAME: ${{ github.ref_name }}
-  LINT_ERROR: false
+  LINT_ERROR: 'false'
 
 jobs:
   lint-and-alert:
@@ -36,7 +36,7 @@ jobs:
           echo "EMBED_DESCRIPTION=$embed_description" >> $GITHUB_ENV
           
       - name: Alert
-        if: ${{ env.LINT_ERROR }}
+        if: ${{ env.LINT_ERROR == true }}
         shell: bash
         run: |
           json_payload='{
@@ -56,6 +56,11 @@ jobs:
               }
             ]
           }'
+
+          echo "## Sending Discord Alert" >> $GITHUB_STEP_SUMMARY
+          echo "\`\`\`json" >> $GITHUB_STEP_SUMMARY
+          echo "$json_payload" >> $GITHUB_STEP_SUMMARY
+          echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
           
           curl "$DISCORD_WEBHOOK_URL" \
             -X POST \
