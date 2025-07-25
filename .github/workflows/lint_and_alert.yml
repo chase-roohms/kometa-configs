@@ -1,0 +1,64 @@
+run-name: Lint push from ${{ github.actor }} to ${{ github.ref_name }}
+name: Lint Files
+
+on:
+  push:
+  workflow_dispatch:
+
+permissions:
+  id-token: write
+  contents: write
+
+env:
+  DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+  REPOSITORY_FULLNAME: ${{ github.repository }}
+  REF_NAME: ${{ github.ref_name }}
+  LINT_ERROR: false
+
+jobs:
+  lint-and-alert:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        id: checkout
+        uses: actions/checkout@v4.2.2
+      
+      - name: Lint
+        shell: bash
+        run: |
+          embed_description=""
+          find . -type f \( -name "*.yml" -o -name "*.yaml" \) | while read -r filename; do
+            if ! yq eval '.' "$filename" > /dev/null 2>&1; then
+              embed_description+="- [$filename](https://github.com/$REPOSITORY_FULLNAME/blob/$REF_NAME/$filename)"'\n'
+              echo "LINT_ERROR=true" >> $GITHUB_ENV
+            fi
+          done
+          echo "EMBED_DESCRIPTION=$embed_description" >> $GITHUB_ENV
+          
+      - name: Alert
+        if: ${{ env.LINT_ERROR }}
+        shell: bash
+        run: |
+          json_payload='{
+            "username": "github-actions",
+            "avatar_url": "https://i.imgur.com/wBj6ba4.png",
+            "embeds": [
+              {
+                "author": {
+                  "name": "kometa-configs",
+                  "url": "https://github.com/"'"$REPOSITORY_FULLNAME"'"/tree/"'"$REF_NAME"',
+                  "icon_url": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/kometa.png"
+                },
+                "title": ":x: Errors detected in one or more yaml files :x:",
+                "url": "https://github.com/"'"$REPOSITORY_FULLNAME"'"/tree/"'"$REF_NAME"',
+                "description": "'"$EMBED_DESCRIPTION"'",
+                "color": 16711680
+              }
+            ]
+          }'
+          
+          curl "$DISCORD_WEBHOOK_URL" \
+            -X POST \
+            -H "Content-Type: application/json" \
+            -d "$json_payload"
+          
