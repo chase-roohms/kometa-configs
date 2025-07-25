@@ -60,10 +60,10 @@ jobs:
             "username": "github-actions",
             "avatar_url": "https://i.imgur.com/wBj6ba4.png",
             "embeds": [
-              "title": ":x: Errors detected in one or more yaml files :x:",
-              "description": "'"$EMBED_DESCRIPTION"'",
-              "color": 16711680,
               {
+                "title": ":x: Errors detected in one or more yaml files :x:",
+                "description": "'"$EMBED_DESCRIPTION"'",
+                "color": 16711680,
                 "author": {
                   "name": "kometa-configs",
                   "url": "https://github.com/'"$REPOSITORY_FULLNAME"'/tree/'"$REF_NAME"'",
