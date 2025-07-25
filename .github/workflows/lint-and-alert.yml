@@ -43,7 +43,7 @@ jobs:
             echo "Linting $filename"
             if ! yq eval '.' "$filename" > /dev/null 2>&1; then
               errors+="- [$filename](https://github.com/$REPOSITORY_FULLNAME/blob/$REF_NAME/$filename)"'\n'
-              echo "LINT_ERROR=true" >> $GITHUB_ENV
+              echo "LINT_ERROR='true'" >> $GITHUB_ENV
               echo "🆘 [$filename](https://github.com/$REPOSITORY_FULLNAME/blob/$REF_NAME/$filename)" >> $GITHUB_STEP_SUMMARY
             else
               echo "✅ [$filename](https://github.com/$REPOSITORY_FULLNAME/blob/$REF_NAME/$filename)" >> $GITHUB_STEP_SUMMARY
@@ -58,7 +58,7 @@ jobs:
           fi
           
       - name: Alert
-        if: ${{ env.LINT_ERROR == true }}
+        if: ${{ env.LINT_ERROR == 'true' }}
         shell: bash
         run: |
           json_payload='{
