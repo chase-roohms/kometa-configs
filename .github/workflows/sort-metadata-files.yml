@@ -8,8 +8,8 @@ permissions:
   contents: write
 
 env:
-  MOVIE_METADATA_FILE: movie_metadata.yml
-  SHOW_METADATA_FILE: show_metadata.yml
+  MOVIE_METADATA_FILE: movie-metadata.yml
+  SHOW_METADATA_FILE: show-metadata.yml
 
 jobs:
   sort:
