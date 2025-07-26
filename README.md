@@ -38,5 +38,7 @@ The **Kometa Configs** repository serves as a centralized source for managing an
 **
 <p align="center">
   <img width="500" alt="Screenshot of a discord alert representing yaml lint errors" src="https://github.com/user-attachments/assets/1dc79945-8a62-4f14-a1f6-c58d2741b20b" />
+  </br>
+  <i>Example Discord alert</i>
 </p>
 
