@@ -12,6 +12,14 @@
          <img width="150" src="https://theposterdb.com/api/assets/530504">
          <p>Movie Name 3</p>
         </td>
+        <td>
+         <img width="150" src="https://theposterdb.com/api/assets/530504">
+         <p>Movie Name 3</p>
+        </td>
+        <td>
+         <img width="150" src="https://theposterdb.com/api/assets/530504">
+         <p>Movie Name 3</p>
+        </td>
       </tr>
       <tr>
         <td>
