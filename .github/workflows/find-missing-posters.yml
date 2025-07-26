@@ -3,6 +3,7 @@ name: Find Missing Posters
 on:
   workflow_dispatch:
   workflow_call:
+  repository_dispatch:
 
 permissions:
   id-token: write
@@ -18,9 +19,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Debug
+        env:
+          payload: ${{ toJson(github.event) }}
         run: |
           echo "${{ github.event_name }}"
-          ls
+          echo "$payload"
+          
       
       - name: Checkout
         if: github.event_name == 'workflow_dispatch'
