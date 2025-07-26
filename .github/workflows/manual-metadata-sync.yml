@@ -18,6 +18,8 @@ jobs:
   update:
     name: Update Metadata Files
     runs-on: ubuntu-latest
+    outputs:
+      sha: ${{ steps.commit-changes.outputs.sha }}
     steps:
       - name: Checkout
         id: checkout
@@ -60,10 +62,10 @@ jobs:
           git add ${{ env.SHOW_METADATA_FILE }}
           git diff-index --quiet main || git commit -m "Updating metadata files" && git push
           sha=$(git rev-parse HEAD)
-          echo "SHA=$sha" >> $GITHUB_ENV
+          echo "sha=$sha" >> $GITHUB_OUTPUT
   
   find-missing:
     needs: update
     uses: "chase-roohms/kometa-configs/.github/workflows/find-missing-posters.yml@main"
     with:
-      sha: ${{ env.SHA }}
+      sha: ${{ needs.update.outputs.sha }}
