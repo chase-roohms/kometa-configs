@@ -81,8 +81,8 @@ jobs:
         if: ${{ github.event.client_payload.instanceName == 'Radarr' }}
         id: commit-changes
         run: |
-          git config --global user.email "kometa@updater.com"
-          git config --global user.name "Kometa Updater"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
           git add ${{ env.MOVIE_METADATA_FILE }}
           git diff-index --quiet main || git commit -m "Updating ${{ github.event.client_payload.title }}" && git push
 
