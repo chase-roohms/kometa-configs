@@ -35,6 +35,9 @@ The **Kometa Configs** repository serves as a centralized source for managing an
 6. Point your kometa config to pull metadata from your fork (check the [docs](https://kometa.wiki/en/latest/config/settings/?h=custom_repo#attributes)), and optionally you can keep your collections and playlist configuration here as well.
 7. OPTIONAL: To do a one time update of the files based on your movie and show directory folder names you can use [kometa-post-metadata-info.py](/scripts/kometa-post-metadata-info.py), but make sure you replace the values at the top of the script, and your folders / media should all be named according to the trash guides naming schemes for [movies](https://trash-guides.info/Radarr/Radarr-recommended-naming-scheme/) and [shows](https://trash-guides.info/Sonarr/Sonarr-recommended-naming-scheme/)
 8. OPTIONAL: [lint-and-alert.yml](/.github/workflows/lint-and-alert.yml) runs on every push, and will alert you via Discord if you introduce erroneous yaml files. If you want this functionality create a repository secret with the name "DISCORD_WEBHOOK_URL", otherwise, edit [lint-and-alert.yml](/.github/workflows/lint-and-alert.yml) and remove the [alert step](https://github.com/chase-roohms/kometa-configs/blob/main/.github/workflows/lint-and-alert.yml#L61C7-L101C31) and the [DISCORD_WEBHOOK_URL](https://github.com/chase-roohms/kometa-configs/blob/main/.github/workflows/lint-and-alert.yml#L13C1-L13C58) environment variable.
-*Example Discord Alert*
-<img width="593" height="233" alt="Screenshot 2025-07-25 at 6 11 15 PM" src="https://github.com/user-attachments/assets/1dc79945-8a62-4f14-a1f6-c58d2741b20b" />
+**
+<figure>
+  <img width="593" height="233" alt="Screenshot of a discord alert representing yaml lint errors" src="https://github.com/user-attachments/assets/1dc79945-8a62-4f14-a1f6-c58d2741b20b" />
+  <figcaption>Example Discord Alert</figcaption>
+</figure>
 
