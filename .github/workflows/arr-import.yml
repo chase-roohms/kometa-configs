@@ -15,14 +15,14 @@ env:
 
 jobs:
   movie:
-    if: ${{ github.event.client_payload.instanceName == 'Radarr' && !github.event.client_payload.isUpgrade }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        id: checkout
+        if: ${{ github.event.client_payload.instanceName == 'Radarr' }}
         uses: actions/checkout@v4.2.2
       
       - name: Update metadata file with movie information
+        if: ${{ github.event.client_payload.instanceName == 'Radarr' }}
         shell: bash
         run: |
           ls # Debug
@@ -78,6 +78,7 @@ jobs:
           fi
       
       - name: Commit Changes to Main
+        if: ${{ github.event.client_payload.instanceName == 'Radarr' }}
         id: commit-changes
         run: |
           git config --global user.email "kometa@updater.com"
@@ -86,14 +87,14 @@ jobs:
           git diff-index --quiet main || git commit -m "Updating ${{ github.event.client_payload.title }}" && git push
 
   show:
-    if: ${{ github.event.client_payload.instanceName == 'Sonarr' }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        id: checkout
+        if: ${{ github.event.client_payload.instanceName == 'Sonarr' }}
         uses: actions/checkout@v4.2.2
     
       - name: Update metadata file with show information
+        if: ${{ github.event.client_payload.instanceName == 'Sonarr' }}
         shell: bash
         env:
           EPISODES: ${{ toJson(github.event.client_payload.episodes) }}
@@ -162,10 +163,16 @@ jobs:
           done
       
       - name: Commit Changes to Main
+        if: ${{ github.event.client_payload.instanceName == 'Sonarr' }}
         id: commit-changes
         run: |
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
           git add ${{ env.SHOW_METADATA_FILE }}
           git diff-index --quiet main || git commit -m "Updating ${{ github.event.client_payload.title }}" && git push
-          
+  
+  find-missing-movie-trigger:
+    needs: 
+      - movie
+      - show
+    uses: "${{ github.repository }}/.github/workflows/find-missing-posters.yml@main"
