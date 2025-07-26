@@ -3,7 +3,11 @@ name: Find Missing Posters
 on:
   workflow_dispatch:
   workflow_call:
-  repository_dispatch:
+    inputs:
+      sha:
+        description: SHA of the most recent commit, likely one created in the executing job
+        type: string
+        required: true
 
 permissions:
   id-token: write
@@ -23,13 +27,18 @@ jobs:
           payload: ${{ toJson(github.event.client_payload) }}
         run: |
           echo "${{ github.event_name }}"
-          echo "$payload"
-          
       
       - name: Checkout
         if: github.event_name == 'workflow_dispatch'
-        id: checkout
+        id: checkout-dispatch
         uses: actions/checkout@v4.2.2
+
+      - name: Checkout
+        if: github.event_name != 'workflow_dispatch'
+        id: checkout-other-events
+        uses: actions/checkout@v4.2.2
+        with:
+          ref: ${{ inputs.sha }}
       
       - name: Find Missing Posters
         id: run-script
