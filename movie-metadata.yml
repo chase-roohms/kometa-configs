@@ -3,19 +3,25 @@ metadata:
     label_title: 28 Days Later
     release_year: '2002'
     sort_title: 28 Later 1
-    url_poster: https://theposterdb.com/api/assets/530505
+    url_poster: https://theposterdb.com/api/assets/617783
     tpdb_search: https://theposterdb.com/search?term=28+Days+Later&section=movies
   1562:
     label_title: 28 Weeks Later
     release_year: '2007'
     sort_title: 28 Later 2
-    url_poster: https://theposterdb.com/api/assets/530504
+    url_poster: https://theposterdb.com/api/assets/617782
     tpdb_search: https://theposterdb.com/search?term=28+Weeks+Later&section=movies
   1100988:
     label_title: 28 Years Later
     release_year: '2025'
     sort_title: 28 Later 3
-    url_poster: https://theposterdb.com/api/assets/530503
+    url_poster: https://theposterdb.com/api/assets/617781
+    tpdb_search: https://theposterdb.com/search?term=28+Years+Later&section=movies
+  1272837:
+    label_title: '28 Years Later Part Two: The Bone Temple'
+    release_year: '2025'
+    sort_title: 28 Later 4
+    url_poster: https://theposterdb.com/api/assets/617780
     tpdb_search: https://theposterdb.com/search?term=28+Years+Later&section=movies
   1271:
     label_title: '300'
