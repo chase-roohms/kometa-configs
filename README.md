@@ -37,7 +37,7 @@ The **Kometa Configs** repository serves as a centralized source for managing an
 8. OPTIONAL: [lint-and-alert.yml](/.github/workflows/lint-and-alert.yml) runs on every push, and will alert you via Discord if you introduce erroneous yaml files. If you want this functionality create a repository secret with the name "DISCORD_WEBHOOK_URL", otherwise, edit [lint-and-alert.yml](/.github/workflows/lint-and-alert.yml) and remove the [alert step](https://github.com/chase-roohms/kometa-configs/blob/main/.github/workflows/lint-and-alert.yml#L61C7-L101C31) and the [DISCORD_WEBHOOK_URL](https://github.com/chase-roohms/kometa-configs/blob/main/.github/workflows/lint-and-alert.yml#L13C1-L13C58) environment variable.
 **
 <figure>
-  <img width="593" height="233" alt="Screenshot of a discord alert representing yaml lint errors" src="https://github.com/user-attachments/assets/1dc79945-8a62-4f14-a1f6-c58d2741b20b" />
+  <img alt="Screenshot of a discord alert representing yaml lint errors" src="https://github.com/user-attachments/assets/1dc79945-8a62-4f14-a1f6-c58d2741b20b" />
   <figcaption>Example Discord Alert</figcaption>
 </figure>
 
