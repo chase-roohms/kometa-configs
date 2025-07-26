@@ -20,6 +20,7 @@ jobs:
       - name: Debug
         run: |
           echo "${{ github.event_name }}"
+          ls
       
       - name: Checkout
         if: github.event_name == 'workflow_dispatch'
