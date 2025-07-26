@@ -60,7 +60,7 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git add ${{ env.MOVIE_METADATA_FILE }}
           git add ${{ env.SHOW_METADATA_FILE }}
-          git diff-index --quiet main || git commit -m "Updating metadata files" && git push
+          git diff-index --quiet main || git commit -m "Updating metadata files from server directories" && git push
           sha=$(git rev-parse HEAD)
           echo "sha=$sha" >> $GITHUB_OUTPUT
   
