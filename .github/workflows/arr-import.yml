@@ -172,10 +172,7 @@ jobs:
           git diff-index --quiet main || git commit -m "Updating ${{ github.event.client_payload.title }}" && git push
   
   find-missing:
-    runs-on: ubuntu-latest
     needs: 
       - movie
       - show
-    steps:
-      - name: find-missing
-        uses: "chase-roohms/kometa-configs/.github/workflows/find-missing-posters.yml@main"
+    uses: "chase-roohms/kometa-configs/.github/workflows/find-missing-posters.yml@main"
