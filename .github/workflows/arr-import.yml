@@ -14,11 +14,12 @@ env:
   SHOW_METADATA_FILE: show-metadata.yml
 
 jobs:
-  movie:
+  update:
     runs-on: ubuntu-latest
+    outputs:
+      sha: ${{ steps.commit-changes.outputs.sha }}
     steps:
       - name: Checkout
-        if: ${{ github.event.client_payload.instanceName == 'Radarr' }}
         uses: actions/checkout@v4.2.2
       
       - name: Update metadata file with movie information
@@ -76,22 +77,6 @@ jobs:
             yq -i '.metadata.${{ github.event.client_payload.remoteMovie.tmdbId }}.url_poster style="single"' ${{ env.MOVIE_METADATA_FILE }}
             yq ${{ env.MOVIE_METADATA_FILE }} # Debug
           fi
-      
-      - name: Commit Changes to Main
-        if: ${{ github.event.client_payload.instanceName == 'Radarr' }}
-        id: commit-changes
-        run: |
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git config --global user.name "github-actions[bot]"
-          git add ${{ env.MOVIE_METADATA_FILE }}
-          git diff-index --quiet main || git commit -m "Updating ${{ github.event.client_payload.title }}" && git push
-
-  show:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        if: ${{ github.event.client_payload.instanceName == 'Sonarr' }}
-        uses: actions/checkout@v4.2.2
     
       - name: Update metadata file with show information
         if: ${{ github.event.client_payload.instanceName == 'Sonarr' }}
@@ -163,16 +148,18 @@ jobs:
           done
       
       - name: Commit Changes to Main
-        if: ${{ github.event.client_payload.instanceName == 'Sonarr' }}
         id: commit-changes
         run: |
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
+          git add ${{ env.MOVIE_METADATA_FILE }}
           git add ${{ env.SHOW_METADATA_FILE }}
           git diff-index --quiet main || git commit -m "Updating ${{ github.event.client_payload.title }}" && git push
-  
+          sha=$(git rev-parse HEAD)
+          echo "sha=$sha" >> $GITHUB_OUTPUT
+      
   find-missing:
-    needs: 
-      - movie
-      - show
+    needs: update
     uses: "chase-roohms/kometa-configs/.github/workflows/find-missing-posters.yml@main"
+    with:
+      sha: ${{ needs.update.outputs.sha }}
