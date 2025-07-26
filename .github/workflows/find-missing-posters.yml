@@ -20,7 +20,7 @@ jobs:
     steps:
       - name: Debug
         env:
-          payload: ${{ toJson(github.event) }}
+          payload: ${{ toJson(github.event.client_payload) }}
         run: |
           echo "${{ github.event_name }}"
           echo "$payload"
