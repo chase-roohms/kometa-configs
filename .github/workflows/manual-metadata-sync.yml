@@ -49,7 +49,7 @@ jobs:
       - name: Run Metadata File Update Script
         id: run-script
         run: |
-          python3 scripts/kometa_metadata_file_update.py --movie_file ${{ env.MOVIE_METADATA_FILE }} --show_file ${{ env.SHOW_METADATA_FILE }} --json_data_file ${{ env.JSON_DATA_FILE }}
+          python3 scripts/kometa-metadata-file-update.py --movie_file ${{ env.MOVIE_METADATA_FILE }} --show_file ${{ env.SHOW_METADATA_FILE }} --json_data_file ${{ env.JSON_DATA_FILE }}
 
       - name: Commit Changes to Main
         id: commit-changes
