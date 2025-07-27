@@ -2871,11 +2871,65 @@ metadata:
     label_title: South Park
     release_year: '1997'
     sort_title: South Park
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/223085
     tpdb_search: https://theposterdb.com/search?term=South+Park&section=shows
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/223086
+      1:
+        url_poster: https://theposterdb.com/api/assets/223087
+      2:
+        url_poster: https://theposterdb.com/api/assets/223088
+      3:
+        url_poster: https://theposterdb.com/api/assets/223089
+      4:
+        url_poster: https://theposterdb.com/api/assets/223090
+      5:
+        url_poster: https://theposterdb.com/api/assets/223091
+      6:
+        url_poster: https://theposterdb.com/api/assets/223092
+      7:
+        url_poster: https://theposterdb.com/api/assets/223093
+      8:
+        url_poster: https://theposterdb.com/api/assets/223094
+      9:
+        url_poster: https://theposterdb.com/api/assets/223095
+      10:
+        url_poster: https://theposterdb.com/api/assets/223096
+      11:
+        url_poster: https://theposterdb.com/api/assets/223097
+      12:
+        url_poster: https://theposterdb.com/api/assets/223098
+      13:
+        url_poster: https://theposterdb.com/api/assets/223099
+      14:
+        url_poster: https://theposterdb.com/api/assets/223100
+      15:
+        url_poster: https://theposterdb.com/api/assets/223101
+      16:
+        url_poster: https://theposterdb.com/api/assets/223102
+      17:
+        url_poster: https://theposterdb.com/api/assets/223103
+      18:
+        url_poster: https://theposterdb.com/api/assets/223104
+      19:
+        url_poster: https://theposterdb.com/api/assets/223105
+      20:
+        url_poster: https://theposterdb.com/api/assets/223106
+      21:
+        url_poster: https://theposterdb.com/api/assets/223107
+      22:
+        url_poster: https://theposterdb.com/api/assets/223108
+      23:
+        url_poster: https://theposterdb.com/api/assets/223109
+      24:
+        url_poster: https://theposterdb.com/api/assets/223110
+      25:
+        url_poster: https://theposterdb.com/api/assets/223111
+      26:
+        url_poster: https://theposterdb.com/api/assets/318863
       27:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/627845
   383275:
     label_title: Squid Game
     release_year: '2021'
