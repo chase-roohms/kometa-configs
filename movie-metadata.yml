@@ -680,6 +680,12 @@ metadata:
     sort_title: Brokeback Mountain
     url_poster: https://theposterdb.com/api/assets/52182
     tpdb_search: https://theposterdb.com/search?term=Brokeback+Mountain&section=movies
+  7445:
+    label_title: Brothers
+    release_year: '2009'
+    sort_title: Brothers
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Brothers&section=movies
   549509:
     label_title: The Brutalist
     release_year: '2024'
