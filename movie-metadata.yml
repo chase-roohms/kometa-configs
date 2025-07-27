@@ -1403,6 +1403,12 @@ metadata:
     sort_title: Godzilla vs. Kong 2
     url_poster: https://theposterdb.com/api/assets/478504
     tpdb_search: https://theposterdb.com/search?term=Godzilla+x+Kong+The+New+Empire&section=movies
+  352637:
+    label_title: Goin' Down to South Park
+    release_year: '1999'
+    sort_title: Goin' Down to South Park
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Goin'+Down+to+South+Park&section=movies
   284303:
     label_title: Goodnight Mommy
     release_year: '2014'
