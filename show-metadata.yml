@@ -2867,6 +2867,15 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/192778
       7:
         url_poster: https://theposterdb.com/api/assets/192779
+  75897:
+    label_title: South Park
+    release_year: '1997'
+    sort_title: South Park
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=South+Park&section=shows
+    seasons:
+      27:
+        url_poster: ''
   383275:
     label_title: Squid Game
     release_year: '2021'
