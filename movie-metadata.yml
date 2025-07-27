@@ -1613,6 +1613,18 @@ metadata:
     sort_title: Herbie 2
     url_poster: https://theposterdb.com/api/assets/377655
     tpdb_search: https://theposterdb.com/search?term=Herbie+Rides+Again&section=movies
+  14140:
+    label_title: Herbie Goes to Monte Carlo
+    release_year: '1977'
+    sort_title: Herbie 3
+    url_poster: https://theposterdb.com/api/assets/377656
+    tpdb_search: https://theposterdb.com/search?term=Herbie+Goes+to+Monte+Carlo&section=movies
+  10869:
+    label_title: Herbie Goes Bananas
+    release_year: '1980'
+    sort_title: Herbie 4
+    url_poster: https://theposterdb.com/api/assets/377657
+    tpdb_search: https://theposterdb.com/search?term=Herbie+Goes+Bananas&section=movies
   32643:
     label_title: The Love Bug
     release_year: '1997'
