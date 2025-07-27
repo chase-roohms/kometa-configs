@@ -684,7 +684,7 @@ metadata:
     label_title: Brothers
     release_year: '2009'
     sort_title: Brothers
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/92875
     tpdb_search: https://theposterdb.com/search?term=Brothers&section=movies
   549509:
     label_title: The Brutalist
