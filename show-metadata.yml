@@ -2136,11 +2136,11 @@ metadata:
     label_title: Moonrise
     release_year: '2025'
     sort_title: Moonrise
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/590567
     tpdb_search: https://theposterdb.com/search?term=Moonrise&section=shows
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/590568
   368612:
     label_title: Ms. Marvel
     release_year: '2022'
