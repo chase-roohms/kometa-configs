@@ -2157,6 +2157,7 @@ metadata:
     sort_title: Mucha Lucha
     url_poster: https://image.tmdb.org/t/p/w1280/w12B6di7moo2otX4X4y3y3gKagz.jpg
     tpdb_search: https://theposterdb.com/search?term=Mucha+Lucha&section=shows
+    episode_ordering: tmdb_aired
     seasons:
       1:
         url_poster: https://image.tmdb.org/t/p/original/rzThu7P2mDJ2LuiOOGVCnz0fkse.jpg
