@@ -2704,9 +2704,15 @@ metadata:
   615457:
     label_title: Nobody
     release_year: '2021'
-    sort_title: Nobody
-    url_poster: ''
+    sort_title: Nobody 1
+    url_poster: https://theposterdb.com/api/assets/629220
     tpdb_search: https://theposterdb.com/search?term=Nobody&section=movies
+  1007734:
+    label_title: Nobody 2
+    release_year: '2025'
+    sort_title: Nobody 2
+    url_poster: https://theposterdb.com/api/assets/629219
+    tpdb_search: https://theposterdb.com/search?term=Nobody+2&section=movies
   762504:
     label_title: Nope
     release_year: '2022'
