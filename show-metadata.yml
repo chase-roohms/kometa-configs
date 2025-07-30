@@ -3380,6 +3380,15 @@ metadata:
             url_poster: https://i.imgur.com/ETaHkSf.png
       1:
         url_poster: https://theposterdb.com/api/assets/601961
+  428163:
+    label_title: The Traitors (US)
+    release_year: '2023'
+    sort_title: Traitors (US)
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Traitors+(US)&section=shows
+    seasons:
+      2:
+        url_poster: ''
   82283:
     label_title: True Blood
     release_year: '2008'
