@@ -2711,7 +2711,7 @@ metadata:
     label_title: No Reservations
     release_year: '2007'
     sort_title: No Reservations
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/448982
     tpdb_search: https://theposterdb.com/search?term=No+Reservations&section=movies
   615457:
     label_title: Nobody
