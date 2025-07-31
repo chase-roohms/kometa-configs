@@ -1127,6 +1127,12 @@ metadata:
     sort_title: 'Evangelion: 2.0 You Can (Not) Advance'
     url_poster: ''
     tpdb_search: https://theposterdb.com/search?term=Evangelion:+2.0+You+Can+(Not)+Advance&section=movies
+  75629:
+    label_title: 'Evangelion: 3.0 You Can (Not) Redo'
+    release_year: '2012'
+    sort_title: 'Evangelion: 3.0 You Can (Not) Redo'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Evangelion:+3.0+You+Can+(Not)+Redo&section=movies
   283566:
     label_title: 'Evangelion: 3.0+1.0 Thrice Upon a Time'
     release_year: '2021'
