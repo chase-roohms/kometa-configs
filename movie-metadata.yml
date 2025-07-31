@@ -2682,6 +2682,12 @@ metadata:
     sort_title: Napoleon
     url_poster: https://theposterdb.com/api/assets/383586
     tpdb_search: https://theposterdb.com/search?term=Napoleon&section=movies
+  18491:
+    label_title: 'Neon Genesis Evangelion: The End of Evangelion'
+    release_year: '1997'
+    sort_title: 'Neon Genesis Evangelion: The End of Evangelion'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Neon+Genesis+Evangelion:+The+End+of+Evangelion&section=movies
   814889:
     label_title: Never Let Go
     sort_title: Never Let Go
