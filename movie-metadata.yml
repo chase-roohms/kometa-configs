@@ -1115,6 +1115,12 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/162921
     tpdb_search: https://theposterdb.com/search?term=Eternals&section=movies
     studio: Marvel Studios
+  283566:
+    label_title: 'Evangelion: 3.0+1.0 Thrice Upon a Time'
+    release_year: '2021'
+    sort_title: 'Evangelion: 3.0+1.0 Thrice Upon a Time'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Evangelion:+3.0+1.0+Thrice+Upon+a+Time&section=movies
   545611:
     label_title: Everything Everywhere All at Once
     release_year: '2022'
