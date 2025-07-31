@@ -2222,6 +2222,15 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/250159
       4:
         url_poster: https://theposterdb.com/api/assets/250160
+  70350:
+    label_title: Neon Genesis Evangelion
+    release_year: '1995'
+    sort_title: Neon Genesis Evangelion
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Neon+Genesis+Evangelion&section=shows
+    seasons:
+      1:
+        url_poster: ''
   407281:
     label_title: The Night Agent
     sort_title: Night Agent
