@@ -1121,6 +1121,12 @@ metadata:
     sort_title: 'Evangelion: 1.0 You Are (Not) Alone'
     url_poster: ''
     tpdb_search: https://theposterdb.com/search?term=Evangelion:+1.0+You+Are+(Not)+Alone&section=movies
+  22843:
+    label_title: 'Evangelion: 2.0 You Can (Not) Advance'
+    release_year: '2009'
+    sort_title: 'Evangelion: 2.0 You Can (Not) Advance'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Evangelion:+2.0+You+Can+(Not)+Advance&section=movies
   283566:
     label_title: 'Evangelion: 3.0+1.0 Thrice Upon a Time'
     release_year: '2021'
