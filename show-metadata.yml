@@ -859,11 +859,12 @@ metadata:
     label_title: Eyes of Wakanda
     release_year: '2025'
     sort_title: Eyes of Wakanda
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/630601
     tpdb_search: https://theposterdb.com/search?term=Eyes+of+Wakanda&section=shows
+    studio: Marvel Studios
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/630602
   362496:
     label_title: The Falcon and The Winter Soldier
     release_year: '2021'
