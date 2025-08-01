@@ -3163,6 +3163,12 @@ metadata:
     sort_title: Requiem for a Dream
     url_poster: https://theposterdb.com/api/assets/139036
     tpdb_search: https://theposterdb.com/search?term=Requiem+for+a+Dream&section=movies
+  11011:
+    label_title: Ri¢hie Ri¢h
+    release_year: '1994'
+    sort_title: Richie Rich
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Ri¢hie+Ri¢h&section=movies
   1022690:
     label_title: Ricky Stanicky
     release_year: '2024'
