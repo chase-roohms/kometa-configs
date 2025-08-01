@@ -2220,7 +2220,7 @@ metadata:
     label_title: Life Is Ruff
     release_year: '2005'
     sort_title: Life Is Ruff
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/630620
     tpdb_search: https://theposterdb.com/search?term=Life+Is+Ruff&section=movies
   503919:
     label_title: The Lighthouse
@@ -3167,7 +3167,7 @@ metadata:
     label_title: Ri¢hie Ri¢h
     release_year: '1994'
     sort_title: Richie Rich
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/120295
     tpdb_search: https://theposterdb.com/search?term=Ri¢hie+Ri¢h&section=movies
   1022690:
     label_title: Ricky Stanicky
