@@ -2216,6 +2216,12 @@ metadata:
     sort_title: Legend of Oshi
     url_poster: https://theposterdb.com/api/assets/535072
     tpdb_search: https://theposterdb.com/search?term=The+Legend+of+Oshi&section=movies
+  160155:
+    label_title: Life Is Ruff
+    release_year: '2005'
+    sort_title: Life Is Ruff
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Life+Is+Ruff&section=movies
   503919:
     label_title: The Lighthouse
     release_year: '2019'
