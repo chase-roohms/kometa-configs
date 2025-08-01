@@ -19,6 +19,8 @@ jobs:
 
       - name: Create Tag Info
         id: tag_info
+        env:
+          REPOSITORY_FULLNAME: ${{ github.repository }}
         run: | 
           day=$(date +"%-d")
           if [[ $day -eq 11 || $day -eq 12 || $day -eq 13 ]]; then
@@ -34,7 +36,7 @@ jobs:
           fi
           fancy_day="${day}${suffix}"
           fancy_month_year=$(date "+%B, %Y")
-          echo "tag_message=Kometa Configs on the $fancy_day of $fancy_month_year" >> $GITHUB_OUTPUT
+          echo "tag_message=$REPOSITORY_FULLNAME on the $fancy_day of $fancy_month_year" >> $GITHUB_OUTPUT
           echo "tag_name=$(date +%B-%-d-%Y)" >> $GITHUB_OUTPUT
 
       - name: Create a Tag
