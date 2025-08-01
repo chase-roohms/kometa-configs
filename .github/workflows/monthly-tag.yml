@@ -7,7 +7,7 @@ on:
 
 permissions:
   id-token: write
-  contents: read
+  contents: write
 
 jobs:
   tag:
@@ -42,5 +42,7 @@ jobs:
           TAG_NAME: ${{ steps.tag_info.outputs.tag_name }}
           TAG_MESSAGE: ${{ steps.tag_info.outputs.tag_message }}
         run: |
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
           git tag -a "$TAG_NAME" -m "$TAG_MESSAGE" && git push origin "$TAG_NAME"
           
