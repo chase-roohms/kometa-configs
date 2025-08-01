@@ -505,8 +505,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/567744
         episodes:
           101:
-            title: 'Opening: KICK BACK by Kenshi Yonezu'
-            summary: Opening song "KICK BACK" by Kenshi Yonezu
+            title: 'Opening: S1 - KICK BACK by Kenshi Yonezu'
+            summary: 'Opening song of Season 1: "KICK BACK" by Kenshi Yonezu'
             url_poster: https://i.imgur.com/0Da2qYr.png
       1:
         url_poster: https://theposterdb.com/api/assets/567745
@@ -625,8 +625,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/248653
         episodes:
           101:
-            title: 'Opening: This Fffire by Franz Ferdinand'
-            summary: Opening song "This Fffire" written by Franz Ferdinand
+            title: 'Opening: S1 - This Fffire by Franz Ferdinand'
+            summary: 'Opening song of Season 1: "This Fffire" by Franz Ferdinand'
             url_poster: https://i.imgur.com/MQBtDOZ.jpeg
       1:
         url_poster: https://theposterdb.com/api/assets/248654
@@ -644,12 +644,12 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/503497
         episodes:
           101:
-            title: 'Opening: Otonoke by Creepy Nuts'
-            summary: Opening song "Otonoke" written by Creepy Nuts
+            title: 'Opening: S1 - Otonoke by Creepy Nuts'
+            summary: 'Opening song of Season 1: "Otonoke" by Creepy Nuts'
             url_poster: https://i.imgur.com/rK28QU2.png
           102:
-            title: 'Opening: On The Way by AiNA THE END'
-            summary: Opening song "On The Way" written by AiNA THE END
+            title: 'Opening: S2 - On The Way by AiNA THE END'
+            summary: 'Opening song of Season 2: "On The Way" by AiNA THE END'
             url_poster: https://i.imgur.com/JjPiSSV.png
       1:
         url_poster: https://theposterdb.com/api/assets/470039
@@ -699,6 +699,11 @@ metadata:
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/502119
+        episodes:
+          101:
+            title: 'Opening: S1 - Shinsekai Yori by Ano & Lilas Ikuta'
+            summary: 'Opening song of Season 1: "Shinsekai Yori" by Ano & Lilas Ikuta'
+            url_poster: https://i.imgur.com/umOQMcz.png
       1:
         url_poster: https://theposterdb.com/api/assets/497214
   72023:
@@ -743,8 +748,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/593190
         episodes:
           101:
-            title: 'Opening: Rollin'' by Limp Bizkit'
-            summary: Opening song "Rollin'" by Limp Bizkit
+            title: "Opening: S1 - Rollin' by Limp Bizkit"
+            summary: 'Opening song of Season 1: "Rollin'" by Limp Bizkit'
             url_poster: https://i.imgur.com/YPmHSnm.png
       1:
         url_poster: https://theposterdb.com/api/assets/593191
@@ -994,8 +999,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/624433
         episodes:
           101:
-            title: 'Opening: HUGs by Paledusk'
-            summary: Opening song "HUGs" written by Paledusk
+            title: 'Opening: S1 - HUGs by Paledusk'
+            summary: 'Opening song of Season 1: "HUGs" by Paledusk'
             url_poster: https://i.imgur.com/tkBhqA9.png
       1:
         url_poster: https://theposterdb.com/api/assets/624434
@@ -1356,8 +1361,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/482205
         episodes:
           101:
-            title: 'Opening: Abyss by YUNGBLUD'
-            summary: Opening song "Abyss" by YUNGBLUD
+            title: 'Opening: S1 - Abyss by YUNGBLUD'
+            summary: 'Opening song of Season 1: "Abyss" by YUNGBLUD'
             url_poster: https://i.imgur.com/d8ktTYz.png
       1:
         url_poster: https://theposterdb.com/api/assets/482206
@@ -2307,8 +2312,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/627267
         episodes:
           101:
-            title: 'Opening: Kaiju by sakanaction'
-            summary: Opening song "Kaiju" written by sakanaction
+            title: 'Opening: S1 - Kaiju by sakanaction'
+            summary: 'Opening song of Season 1: "Kaiju" by sakanaction'
             url_poster: https://i.imgur.com/rGO2UQD.png
       1:
         url_poster: https://theposterdb.com/api/assets/627268
@@ -3150,8 +3155,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/622083
         episodes:
           101:
-            title: 'Opening: Saikai by Vaundy'
-            summary: Opening song "Saikai" written by Vaundy
+            title: 'Opening: S1 - Saikai by Vaundy'
+            summary: 'Opening song of Season 1: "Saikai" by Vaundy'
             url_poster: https://i.imgur.com/cZCHxZm.png
       1:
         url_poster: https://theposterdb.com/api/assets/622084
@@ -3389,8 +3394,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/618167
         episodes:
           101:
-            title: 'Opening: OVERNIGHT by THE ORAL CIGARETTES'
-            summary: Opening song "OVERNIGHT" by THE ORAL CIGARETTES
+            title: 'Opening: S1 - OVERNIGHT by THE ORAL CIGARETTES'
+            summary: 'Opening song of Season 1: "OVERNIGHT" by THE ORAL CIGARETTES'
             url_poster: https://i.imgur.com/ETaHkSf.png
       1:
         url_poster: https://theposterdb.com/api/assets/601961
