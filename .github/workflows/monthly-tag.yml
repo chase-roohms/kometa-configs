@@ -1,4 +1,4 @@
-name: Find Missing Posters
+name: Create a Date Tag
 
 on:
   workflow_dispatch:
