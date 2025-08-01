@@ -1121,24 +1121,32 @@ metadata:
     sort_title: Evangelion Rebuild 1
     url_poster: https://theposterdb.com/api/assets/168848
     tpdb_search: https://theposterdb.com/search?term=Evangelion:+1.0+You+Are+(Not)+Alone&section=movies
+    genre:
+      - Anime
   22843:
     label_title: 'Evangelion: 2.0 You Can (Not) Advance'
     release_year: '2009'
     sort_title: Evangelion Rebuild 2
     url_poster: https://theposterdb.com/api/assets/168849
     tpdb_search: https://theposterdb.com/search?term=Evangelion:+2.0+You+Can+(Not)+Advance&section=movies
+    genre:
+      - Anime
   75629:
     label_title: 'Evangelion: 3.0 You Can (Not) Redo'
     release_year: '2012'
     sort_title: Evangelion Rebuild 3
     url_poster: https://theposterdb.com/api/assets/168850
     tpdb_search: https://theposterdb.com/search?term=Evangelion:+3.0+You+Can+(Not)+Redo&section=movies
+    genre:
+      - Anime
   283566:
     label_title: 'Evangelion: 3.0+1.0 Thrice Upon a Time'
     release_year: '2021'
     sort_title: Evangelion Rebuild 4
     url_poster: https://theposterdb.com/api/assets/168851
     tpdb_search: https://theposterdb.com/search?term=Evangelion:+3.0+1.0+Thrice+Upon+a+Time&section=movies
+    genre:
+      - Anime
   545611:
     label_title: Everything Everywhere All at Once
     release_year: '2022'
@@ -2706,6 +2714,8 @@ metadata:
     sort_title: 'Neon Genesis Evangelion: The End of Evangelion'
     url_poster: https://theposterdb.com/api/assets/108406
     tpdb_search: https://theposterdb.com/search?term=Neon+Genesis+Evangelion:+The+End+of+Evangelion&section=movies
+    genre:
+      - Anime
   814889:
     label_title: Never Let Go
     sort_title: Never Let Go
