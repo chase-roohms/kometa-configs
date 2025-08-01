@@ -16,7 +16,7 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/2134371/vRvjB9G76rIKQA2DbCO8kvZQqeqsXcoW3UPQNl0f.webp" alt="28 Years Later Part Two: The Bone Temple (2025)">
-     <p>28 Years Later Par...</p>
+     <p>28 Years Later P...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/5071/P95V3nsnIwNNrpOhchy4EGM1vJnEJp3hx64C71XL.webp" alt="300 (2007)">
@@ -26,7 +26,7 @@
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/5072/8mYWEb8Qbj8Ob7brej0HYCW2nN3F1vDrKPwM2Fp2.webp" alt="300 Rise of an Empire (2014)">
-     <p>300 Rise of an Empire</p>
+     <p>300 Rise of an E...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/35867/fCw9s8xDA8ZfJ70BDQeTkZ5OWqrZB8j4gpVTNMnU.webp" alt="1408 (2007)">
@@ -38,7 +38,7 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/9985/mk65nkW9INdEgsFW3dSw2u8tQmsUFDfhFaXZe7Pk.webp" alt="2001 A Space Odyssey (null)">
-     <p>2001 A Space Odyssey</p>
+     <p>2001 A Space Ody...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/48611/lQG3NL7PbgVrIUHWr7BzPzIbVz9vTgYjg0TImZtt.webp" alt="2012 (2009)">
@@ -60,7 +60,7 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/48678/DmvF6Sh0eldF1W2qiQ0rTDiWG1eGC80ZfsYNrgoc.webp" alt="The Adventures of Sharkboy and Lavagirl (2005)">
-     <p>The Adventures of ...</p>
+     <p>The Adventures o...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/45087/XCnweQdTDNjHJhxbEjE0Ww0XEAKRV9CkDEPjneel.webp" alt="After (2019)">
@@ -122,11 +122,11 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1761/CPyARmr8aas7Ynke8m20UWR0gu2FUABk6rmkp6Z2.webp" alt="AVP Alien vs. Predator (2004)">
-     <p>AVP Alien vs. Pred...</p>
+     <p>AVP Alien vs. Pr...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1795/gW6jSgwzcfmdGoqKnrmBVkO5fp6UPD0WjiFz0ZMF.webp" alt="Aliens vs Predator Requiem (2007)">
-     <p>Aliens vs Predator...</p>
+     <p>Aliens vs Predat...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/7/fhWwhuJSf8cig28vr80jxjipTfx55kndVIwT4Pgx.webp" alt="Alita Battle Angel (null)">
@@ -136,11 +136,11 @@
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/6302/Xp2i1GPYcK925cZqMFyA8GP8iyKNhjl0aAWLLYUm.webp" alt="All Dogs Go to Heaven (1989)">
-     <p>All Dogs Go to Heaven</p>
+     <p>All Dogs Go to H...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/18326/mxtkNbGfbkJzmHKT3Hhp1nWXqGwpMiKW0hcw6zgI.webp" alt="All the Bright Places (null)">
-     <p>All the Bright Places</p>
+     <p>All the Bright P...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/46188/5FMMOgjmx9kMtM1QLPYqEsZm0lUdNURWLA7KYe3g.webp" alt="Aloha (2015)">
@@ -148,11 +148,11 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/11345/uq7WNWSHAX0o5eTwFisl6JybRNy6zG3GtWAQ9Rbd.webp" alt="Along with the Gods The Two Worlds (2017)">
-     <p>Along with the God...</p>
+     <p>Along with the G...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/11346/6Ynv8bRNRQCfP9m6FFAkhSMmdb4o73sVXsHTL9eg.webp" alt="Along with the Gods The Last 49 Days (2018)">
-     <p>Along with the God...</p>
+     <p>Along with the G...</p>
     </td>
   </tr>
   <tr>
@@ -162,11 +162,11 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/14062/rY8rDaOKDXbVrUFpA5tApwnOozQBakCkQCZato2U.webp" alt="The Angry Birds Movie (2016)">
-     <p>The Angry Birds Movie</p>
+     <p>The Angry Birds ...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/14061/oeca5Ykd4tkbBZ0mA6OaZqWPfk9GSoKQXVEBnEDq.webp" alt="The Angry Birds Movie 2 (2019)">
-     <p>The Angry Birds Mo...</p>
+     <p>The Angry Birds ...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/8497/2pDWGcOUUqc94Am098ZaFAm4wcaP9wJFjPkdPIB4.webp" alt="Annabelle (2014)">
@@ -180,7 +180,7 @@
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/8499/0vm5f2gyUXdQpE1BWUDfrSpjhvYuJZ92inxX8MGX.webp" alt="Annabelle Comes Home (2019)">
-     <p>Annabelle Comes Home</p>
+     <p>Annabelle Comes ...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/47334/nJK6LeufREFNJFB60BKVAhT4gYw0bnp4GZDNqqjC.webp" alt="Annihilation (2018)">
@@ -196,13 +196,13 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/402/lik4nAuicOKA7KkCZUwjGB7bIWSYieX4Rha00jkP.webp" alt="Ant-Man and the Wasp (2018)">
-     <p>Ant-Man and the Wasp</p>
+     <p>Ant-Man and the ...</p>
     </td>
   </tr>
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/171449/EMvMBkZRQxtmwELJVjDsUH3lBAs864eyvk3KDgck.webp" alt="Ant-Man and the Wasp Quantumania (2023)">
-     <p>Ant-Man and the Wa...</p>
+     <p>Ant-Man and the ...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1759073/Wa2DXAI16a00oLINIVGiWAQjgFcQOv5wrNa2xDCL.webp" alt="Anyone But You (null)">
@@ -210,7 +210,7 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/2302766/uJxjf1dpnTUfIdVaZ62aSGuR07IpXwz3Nm9ihyHG.webp" alt="Apocalypse Z The Beginning of the End (2024)">
-     <p>Apocalypse Z The B...</p>
+     <p>Apocalypse Z The...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/2495/iHeM4dtcpFjTPKIHVRFUQToLCuPFVadRgU93s4Iy.webp" alt="Aquaman (2018)">
@@ -218,7 +218,7 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/2498/KG6qeEMSQHmCH64QNuYpHuQaj0u98xc8PHFLa6Ec.webp" alt="Aquaman and the Lost Kingdom (2023)">
-     <p>Aquaman and the Lo...</p>
+     <p>Aquaman and the ...</p>
     </td>
   </tr>
   <tr>
@@ -240,7 +240,7 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1467/QjEIl84zSo9ylMgf8VNtzD9KJMUBF3UzL1Biy6MD.webp" alt="Avatar The Way of Water (2022)">
-     <p>Avatar The Way of ...</p>
+     <p>Avatar The Way o...</p>
     </td>
   </tr>
   <tr>
@@ -250,11 +250,11 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/296/96u3tFa2E7baqMlEA1LcNw8elQTkJXct7qpRJxXP.webp" alt="Avengers Age of Ultron (2015)">
-     <p>Avengers Age of Ul...</p>
+     <p>Avengers Age of ...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/8/5RYMD5V1vQ6LIgkQrBkAe6qaQ15TNt7vcelwwcCr.webp" alt="Avengers Infinity War (2018)">
-     <p>Avengers Infinity War</p>
+     <p>Avengers Infinit...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/2/yuSKQ1Mz2ilUCm4GmkVvgqkI4zjlHkAY0MAX8Z3M.webp" alt="Avengers Endgame (2019)">
@@ -280,11 +280,11 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/3030/HbmDamOMq2FnQ9lnQYLZDTsbkz1wm37Bs3AcuOoa.webp" alt="Back to the Future Part II (1989)">
-     <p>Back to the Future...</p>
+     <p>Back to the Futu...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/3031/5x6XLP5v8tTUUAkN3SvAJoz2sERH6yZSIEDCrZh6.webp" alt="Back to the Future Part III (1990)">
-     <p>Back to the Future...</p>
+     <p>Back to the Futu...</p>
     </td>
   </tr>
   <tr>
@@ -312,15 +312,15 @@
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/3845/Y3VeihKO1kw7C2LnAaLDyiMvNsPpt1hmLdQDkHYC.webp" alt="The Dark Knight Rises (2012)">
-     <p>The Dark Knight Rises</p>
+     <p>The Dark Knight ...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/2230655/CMLPMcWxGWMbzjMNiCxDTGdna8Sl1BG2BsS9Nn4J.webp" alt="Batman Ninja vs. Yakuza League (2025)">
-     <p>Batman Ninja vs. Y...</p>
+     <p>Batman Ninja vs....</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/2588/ZjC8VaZ9uV1S6UzvOiuzhIiAtdij01HrovSndLQ3.webp" alt="Batman v Superman Dawn of Justice (2016)">
-     <p>Batman v Superman ...</p>
+     <p>Batman v Superma...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/65142/nORWkvx8Bc4Qi3Bx5RTCXvYI3vHgpR4vDp6ddNrb.webp" alt="The Beach Bum (2019)">
@@ -338,15 +338,15 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/2730/yzBAbQmFcKqi59oBPSGlJo5mZmqehCPeMOzU6CA0.webp" alt="Berserk The Golden Age Arc I The Egg of the King (2012)">
-     <p>Berserk The Golden...</p>
+     <p>Berserk The Gold...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/2729/vUkl6NcvEoNxLuatsyfWwvoN6ldYaHXKDfqKBvyv.webp" alt="Berserk The Golden Age Arc II The Battle for Doldrey (2012)">
-     <p>Berserk The Golden...</p>
+     <p>Berserk The Gold...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/2728/wWo8sXYfEb4pAtMnJopIOmnG1vfB68aBpVUe3QmM.webp" alt="Berserk The Golden Age Arc III The Advent (2013)">
-     <p>Berserk The Golden...</p>
+     <p>Berserk The Gold...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1230563/kziEylx7m121dhYsiWIaI8Gi9JHlQQ2WGvL9TwRS.webp" alt="Better Man (2024)">
@@ -364,11 +364,11 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/2049/y67Yy1jLTqqftfamBdrWUCd8aMPrZBPv0iMRwSQq.webp" alt="Birdman or The Unexpected Virtue of Ignorance (null)">
-     <p>Birdman or The Une...</p>
+     <p>Birdman or The U...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/32517/ic1ZEuaVQakxOwloqMi4Bzzg6IcRYULu4nquV09W.webp" alt="Birds of Prey and the Fantabulous Emancipation of One Harley Quinn (2020)">
-     <p>Birds of Prey and ...</p>
+     <p>Birds of Prey an...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/6664/CJVJ5v46MCjiEbmw2UYDz1R0ZMECULOTmrwGMnav.webp" alt="Black Adam (2022)">
@@ -382,7 +382,7 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1134641/tLfqYdvWLoqBtTNISug9YEOCWs0RzW0NO9j6WdRZ.webp" alt="Black Clover Sword of the Wizard King (null)">
-     <p>Black Clover Sword...</p>
+     <p>Black Clover Swo...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/423/O488G417pX1CJjfomkYJfibqUy2b07DlZNaLaJof.webp" alt="Black Panther (2018)">
@@ -390,7 +390,7 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/426/RR8hU5oum4gR7Cpy9rgv6r6lN9PEzwiGLlNkbZUK.webp" alt="Black Panther Wakanda Forever (2022)">
-     <p>Black Panther Waka...</p>
+     <p>Black Panther Wa...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1492/Cbx28IcrG43UFooNkQ88RvvSU4eAU0EI8GLC2z6t.webp" alt="Black Widow (2021)">
@@ -422,7 +422,7 @@
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/2696/eJ9b7bUxGVPig8U079EfyEoimLbXkoSGW3ykx56d.webp" alt="Blade Runner Black Out 2022 (2017)">
-     <p>Blade Runner Black...</p>
+     <p>Blade Runner Bla...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/3068/KCPubyNkfMm0TY1c3IEvX68NBgQ5wL7LFGbe7YmJ.webp" alt="2036 Nexus Dawn (2017)">
@@ -430,7 +430,7 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/3070/zb0VQ19lssL2vA4QmxhTjFi3WoZYetD5bvNOUc1L.webp" alt="2048 Nowhere to Run (2017)">
-     <p>2048 Nowhere to Run</p>
+     <p>2048 Nowhere to ...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/2689/E4QmDsPp99HhwqkcIGD6szkRVtxN3Xr1tWnngpJJ.webp" alt="Blade Runner 2049 (2017)">
@@ -456,17 +456,17 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/16696/vHPuqREZ3sPBpXgygb563vUByhCnL0axJ0n3Je8e.webp" alt="Blue Collar Comedy Tour The Movie (2003)">
-     <p>Blue Collar Comedy...</p>
+     <p>Blue Collar Come...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/234945/TFUYt9RSrjdiIOCQY2Z8RTQncxzjxEJX8kq2hF7U.webp" alt="Bodies Bodies Bodies (2022)">
-     <p>Bodies Bodies Bodies</p>
+     <p>Bodies Bodies Bo...</p>
     </td>
   </tr>
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1783214/athvW0F8wra3bd2ox2GBqUmV2uIO53HqiCDXfecJ.webp" alt="Bogotá City of the Lost (null)">
-     <p>Bogotá City of the...</p>
+     <p>Bogotá City of t...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/12739/rU9Dd6geP4UvpnXG7E6Uo8qnvWxvqmVy2sVLrTji.webp" alt="Bolt (2008)">
@@ -504,21 +504,21 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/362/bEd1pLRmEpEUOOPRpNaxPtdnE4F6nH1Hj2GNIHgJ.webp" alt="Captain America The First Avenger (2011)">
-     <p>Captain America Th...</p>
+     <p>Captain America ...</p>
     </td>
   </tr>
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/364/E3TmoxLlojGvmuuFnRlPlbg3r4z1xbkBUWvBo0YJ.webp" alt="Captain America The Winter Soldier (2014)">
-     <p>Captain America Th...</p>
+     <p>Captain America ...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/363/PS4ZgCDA2cjxE48sHoPqGLlqKenld6ULh954wUc6.webp" alt="Captain America Civil War (2016)">
-     <p>Captain America Ci...</p>
+     <p>Captain America ...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1241042/cmVw0CCElpW7dqeAiTEMGozmk4L1L71nMtdU3v8s.webp" alt="Captain America Brave New World (2025)">
-     <p>Captain America Br...</p>
+     <p>Captain America ...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/14/aagUqLHH95DuKSal7fdcdihewh9vIgyPhIPzyNg6.webp" alt="Captain Marvel (2019)">
@@ -554,7 +554,7 @@
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/49404/wWboO3f0OeARlQv05HZUwCXwaTPuUReO5rxfJWUu.webp" alt="Catch Me If You Can (2002)">
-     <p>Catch Me If You Can</p>
+     <p>Catch Me If You ...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1575174/XUet1BSEp28Ocuih3mX5eNHAkgMbKEC3PaBPcrFk.webp" alt="Challengers (2024)">
@@ -566,17 +566,17 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/7894/5cxZaK8M5xiLb7mTbQU35xXOv8OYEl7q3WqSHlMe.webp" alt="10 Cloverfield Lane (2016)">
-     <p>10 Cloverfield Lane</p>
+     <p>10 Cloverfield L...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/7895/iVYY3Ktythtg6t6C8Ijr4sf706QdTkj1WnQi3WpR.webp" alt="The Cloverfield Paradox (2018)">
-     <p>The Cloverfield Pa...</p>
+     <p>The Cloverfield ...</p>
     </td>
   </tr>
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/2138888/QbfmLRmUWxkZEEXdN4njSWyKfswxVr25E2WRr2im.webp" alt="Clown in a Cornfield (2025)">
-     <p>Clown in a Cornfield</p>
+     <p>Clown in a Cornf...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/2418778/zxePpOoHpFryvsmeOXSDCzlfgkvzSheje7ONEybn.webp" alt="Companion (2025)">
@@ -602,7 +602,7 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/5972/CJT9Yvx0xUyEUqyuiIHlnOFN9pA4dxrdAiBQ7Mqc.webp" alt="The Conjuring The Devil Made Me Do It (2021)">
-     <p>The Conjuring The ...</p>
+     <p>The Conjuring Th...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/62526/t29Kis4LFF3bZGaF9dG0sbn0UM284aW789SGP0KZ.webp" alt="Coraline (2009)">
@@ -620,7 +620,7 @@
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/11276/MaSfeM8ZMkjgn741lh1glnK4Pbbd7cHaNiG2nH9I.webp" alt="The Curse of La Llorona (2019)">
-     <p>The Curse of La Ll...</p>
+     <p>The Curse of La ...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/2432430/F86y1arLV8kWx5Bu9G687oEibEzQA4UOyZbvMSmi.webp" alt="Daddys Head (2024)">
@@ -646,7 +646,7 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1787589/GHR2NGZSZiICnKLpuoo4GTepC8IEBQmX78Ei8Cdu.webp" alt="Dead Talents Society (2024)">
-     <p>Dead Talents Society</p>
+     <p>Dead Talents Soc...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1316/jzLp2hopLJxC5hXIjDNRDFLJTgFy37wsOEDVIUy1.webp" alt="Deadpool (2016)">
@@ -658,7 +658,7 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1320/lc4YTgNSJY7EkESD1lmsZVW0wrZ5oFeGMJviNecD.webp" alt="Deadpool and Wolverine (2024)">
-     <p>Deadpool and Wolve...</p>
+     <p>Deadpool and Wol...</p>
     </td>
   </tr>
   <tr>
@@ -676,7 +676,7 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/153666/gcM8FLp9IVnhxHyA2vZ7jJDB2uE91v7XmvSiKrO4.webp" alt="Demon Slayer -Kimetsu no Yaiba- The Movie Mugen Train (2020)">
-     <p>Demon Slayer -Kime...</p>
+     <p>Demon Slayer -Ki...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/8232/EUmdFs9o3qzVc6qeWyaniyg7usdmlKxZxocP2nBk.webp" alt="Despicable Me (2010)">
@@ -698,7 +698,7 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/173510/cRpW10CrkzhnkG4TYQKyzOvLSbSEdbpdH30VvDXH.webp" alt="Division III Footballs Finest (2011)">
-     <p>Division III Footb...</p>
+     <p>Division III Foo...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/9023/VHXo8dr7fAAkVRfrA8n4jjX51UHqQ9Mh0JXdR2wY.webp" alt="Django Unchained (2012)">
@@ -716,7 +716,7 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/467/yGiGFkpTKZMF9xkh9lKOVV4mO9vw0MecKaCHaXdj.webp" alt="Doctor Strange in the Multiverse of Madness (2022)">
-     <p>Doctor Strange in ...</p>
+     <p>Doctor Strange i...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/19446/2avqtQjMxefUUACeswsBdeLIUSPB7biCv5qefQ6r.webp" alt="Donnie Darko (2001)">
@@ -742,7 +742,7 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1644695/FJobG31sTxfEGzwhrWDQ5QRkcsdb51dSU0nGGEdu.webp" alt="Dosed 2 The Trip of a Lifetime (2022)">
-     <p>Dosed 2 The Trip o...</p>
+     <p>Dosed 2 The Trip...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/42710/6ScfgQQNS2NmADBKwXADnWUqbg4JVLVtnpdmzUQ9.webp" alt="Dune (2021)">
@@ -756,11 +756,11 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/50655/3iS3SKzGfW4mxGUUf3odVJW41lgIyjlNvki6nGEW.webp" alt="Dungeons and Dragons Honor Among Thieves (2023)">
-     <p>Dungeons and Drago...</p>
+     <p>Dungeons and Dra...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/7792/nI1A5kGVk4mR2fBwYPQjwLQ6f2dW17k9oTHw1LMp.webp" alt="El Camino A Breaking Bad Movie (2019)">
-     <p>El Camino A Breaki...</p>
+     <p>El Camino A Brea...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1053413/zElg1cPoHhjCg8FqInSDAPqSBHWqp00KMgX8FPz4.webp" alt="The Electric State (2025)">
@@ -786,25 +786,25 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/8488/2HHmCWPH32bqWeBR8x1mBn756UKupmLLY0E1l5wK.webp" alt="Evangelion: 1.0 You Are (Not) Alone (2007)">
-     <p>Evangelion: 1.0 Yo...</p>
+     <p>Evangelion: 1.0 ...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/8486/0OWnsT0YXGrkBbbUd94vklfPtXYVHvG2qN2UA4Qv.webp" alt="Evangelion: 2.0 You Can (Not) Advance (2009)">
-     <p>Evangelion: 2.0 Yo...</p>
+     <p>Evangelion: 2.0 ...</p>
     </td>
   </tr>
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/8487/GJulpwpTrmaqJ7QejxCgj9PmGevwZwpw5Wy9XuAY.webp" alt="Evangelion: 3.0 You Can (Not) Redo (2012)">
-     <p>Evangelion: 3.0 Yo...</p>
+     <p>Evangelion: 3.0 ...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/9894/BAw1O2S6pnmdakG8IYqjqr0KaHLL1epNH7QArMWZ.webp" alt="Evangelion: 3.0+1.0 Thrice Upon a Time (2021)">
-     <p>Evangelion: 3.0+1....</p>
+     <p>Evangelion: 3.0+...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/660053/2IIntTqMBDEU5AWe81zju0SUy39ZhKfILjKu3Drq.webp" alt="Everything Everywhere All at Once (2022)">
-     <p>Everything Everywh...</p>
+     <p>Everything Every...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/2284444/bxsMYtccFuURGPoCSUb2PSTe3jeL3lKGhYW3Cnig.webp" alt="Exterritorial (2025)">
@@ -818,15 +818,15 @@
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1428/GlWGXilXMfwSnZWwWTUXwCI3HNfNXQe5uSxJ51OW.webp" alt="Fantastic Beasts and Where to Find Them (2016)">
-     <p>Fantastic Beasts a...</p>
+     <p>Fantastic Beasts...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1427/upZ9whVfCKAbthIpxwQ3SvjJn7RYUli0pyc1U53s.webp" alt="Fantastic Beasts The Crimes of Grindelwald (2018)">
-     <p>Fantastic Beasts T...</p>
+     <p>Fantastic Beasts...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1429/EJYb1kx0M0kAd7mu6meCfMOIHap1YZoBUXmYYWnq.webp" alt="Fantastic Beasts The Secrets of Dumbledore (2022)">
-     <p>Fantastic Beasts T...</p>
+     <p>Fantastic Beasts...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/4497/kmhsEqwuuubmzZeSD7EpdPaKVko2eiNTrNew1Str.webp" alt="The Fantastic Four (1994)">
@@ -840,7 +840,7 @@
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/3414/pjtoZoXjl7F6syvpzPb7Y1L7xE69kTpSmpcjC1P1.webp" alt="Fantastic Four Rise of the Silver Surfer (2007)">
-     <p>Fantastic Four Ris...</p>
+     <p>Fantastic Four R...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/4495/GoiGZVaA836wCzR7ucqTH6nNjJPY546sw98V2bNI.webp" alt="Fantastic Four (2015)">
@@ -862,7 +862,7 @@
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1627979/dj7KBfy12VHKRFVLu1DmQRzWNH76NAqiaEZrUvrL.webp" alt="Fear Street Prom Queen (2025)">
-     <p>Fear Street Prom Q...</p>
+     <p>Fear Street Prom...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/10528/F84c6sNo1dIeDoIAkvpI936qITSZWCO8RQaww8qa.webp" alt="Fight Club (1999)">
@@ -878,25 +878,25 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/3625/p50BU9R71fzUqzAverWBQVJOYqgVz8szjneYl9c7.webp" alt="Final Destination 2 (2003)">
-     <p>Final Destination 2</p>
+     <p>Final Destinatio...</p>
     </td>
   </tr>
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/3627/eg9WbhU3S9GOaLRYvdpMbgm77702mYzDmrwgIoy7.webp" alt="Final Destination 3 (2006)">
-     <p>Final Destination 3</p>
+     <p>Final Destinatio...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/3626/YHzF4NInW418BPytsqh1ttN14G9izcIAcPdy52rK.webp" alt="The Final Destination (2009)">
-     <p>The Final Destination</p>
+     <p>The Final Destin...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/3628/JZdxIPlzXphVhhU7FYKA3twPeOpK3nptE0ptPbmj.webp" alt="Final Destination 5 (2011)">
-     <p>Final Destination 5</p>
+     <p>Final Destinatio...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/3630/JzbaR06goJglm6kX0NcqyOrOEHYNCrJeKH7PylfB.webp" alt="Final Destination Bloodlines (2025)">
-     <p>Final Destination ...</p>
+     <p>Final Destinatio...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1527/8fASscsjHttDkPWe3E8CuuAol9dAlkWNdNdHCtzO.webp" alt="Finding Nemo (2003)">
@@ -984,11 +984,11 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1390/epRsEWpjvRpjTvw50JHWtLdznjrt69asA03L0DlX.webp" alt="The Godfather Part II (1974)">
-     <p>The Godfather Part II</p>
+     <p>The Godfather Pa...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1392/c8Kc4wKnZmiUto2qlWugFUt5qgtjEVLDBXurUH27.webp" alt="The Godfather Part III (1990)">
-     <p>The Godfather Part...</p>
+     <p>The Godfather Pa...</p>
     </td>
   </tr>
   <tr>
@@ -998,7 +998,7 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/12/Uj48bIulos0wAimYDW5lMwPhCYZbpU22JNAcu6TA.webp" alt="Godzilla King of the Monsters (2019)">
-     <p>Godzilla King of t...</p>
+     <p>Godzilla King of...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1523445/Dn411LfeWTz1aVTBxQXgCwrhj74G05ANJD60zAzH.webp" alt="Godzilla Minus One (2023)">
@@ -1010,7 +1010,7 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1245339/iMGdF4H3vS8YW4iaoEH0WLUMxELNcLDTInkQmhGF.webp" alt="Godzilla x Kong The New Empire (2024)">
-     <p>Godzilla x Kong Th...</p>
+     <p>Godzilla x Kong ...</p>
     </td>
   </tr>
   <tr>
@@ -1032,21 +1032,21 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/478/JTxVBxdXoPoSWhnArNpqG8Uqw9vHc1p5UcItw4Ep.webp" alt="Guardians of the Galaxy (2014)">
-     <p>Guardians of the G...</p>
+     <p>Guardians of the...</p>
     </td>
   </tr>
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/479/1So0mvdPqYOUnhpGYEvP1In65kK0YDOMHvnOTr5S.webp" alt="Guardians of the Galaxy Vol. 2 (2017)">
-     <p>Guardians of the G...</p>
+     <p>Guardians of the...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/914581/MMsYvhzvrgv1dlUFyUS6zjZzrtGjVTdr1lCOI6Hq.webp" alt="The Guardians of the Galaxy Holiday Special (2022)">
-     <p>The Guardians of t...</p>
+     <p>The Guardians of...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/480/wVRkKThYUsZDmWZtiy60KTkSqYV0b72kJSANJBu2.webp" alt="Guardians of the Galaxy Vol. 3 (2023)">
-     <p>Guardians of the G...</p>
+     <p>Guardians of the...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/60989/VaxsU1wbDfTizjeTHOkzfKi1aFqldDlAklvzMLC6.webp" alt="Hacksaw Ridge (null)">
@@ -1068,37 +1068,37 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/2062/eDHWIEIguoARz9IwIJuaEugsD6JaF2ksdHTLUyGO.webp" alt="Harry Potter and the Philosophers Stone (2001)">
-     <p>Harry Potter and t...</p>
+     <p>Harry Potter and...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/2063/U2R3hwcix7fOaQkgIz9r5kVkSEK8HDJVBzRu1WfU.webp" alt="Harry Potter and the Chamber of Secrets (2002)">
-     <p>Harry Potter and t...</p>
+     <p>Harry Potter and...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/2060/8NC42WgGdjAK21C2l5sL4QcwghXAIoPoA6hLv8Eu.webp" alt="Harry Potter and the Prisoner of Azkaban (2004)">
-     <p>Harry Potter and t...</p>
+     <p>Harry Potter and...</p>
     </td>
   </tr>
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/2064/Znb2mRIhIG1AnTWexcIGEyPiG5BjbKpPkgM9KQqQ.webp" alt="Harry Potter and the Goblet of Fire (2005)">
-     <p>Harry Potter and t...</p>
+     <p>Harry Potter and...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/2066/CMm3WyB9sha5kcOLLu1xrPVkUswWtnMowTGuKRDk.webp" alt="Harry Potter and the Order of the Phoenix (2007)">
-     <p>Harry Potter and t...</p>
+     <p>Harry Potter and...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/2065/atMXomsUA0T2FZCJIKsk12vHaZxbyE3XFw7uuxc0.webp" alt="Harry Potter and the Half-Blood Prince (2009)">
-     <p>Harry Potter and t...</p>
+     <p>Harry Potter and...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/2067/fIDIvSmcTKQ1Ie6xeHkgqHUs9xojwMdyAnEXP6yZ.webp" alt="Harry Potter and the Deathly Hallows Part 1 (2010)">
-     <p>Harry Potter and t...</p>
+     <p>Harry Potter and...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/2068/S6dRGnCWm6epxqEPf310YsPElPm5GBag3um7CB7j.webp" alt="Harry Potter and the Deathly Hallows Part 2 (2011)">
-     <p>Harry Potter and t...</p>
+     <p>Harry Potter and...</p>
     </td>
   </tr>
   <tr>
@@ -1116,17 +1116,17 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/14278/xbb19gppJa0D51s12XQEzyY6EOBPKRSYx8Z8WewW.webp" alt="Hellbound Hellraiser II (1988)">
-     <p>Hellbound Hellrais...</p>
+     <p>Hellbound Hellra...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/14280/S5xRFbcwjZq0k7ZVsMX1WT6XpJ4Cm8zNsp7vKGuq.webp" alt="Hellraiser III Hell on Earth (1992)">
-     <p>Hellraiser III Hel...</p>
+     <p>Hellraiser III H...</p>
     </td>
   </tr>
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/14273/hvbOTtkyI2Sq4vuOoNhesmFoB5C5MZbfLgs8yLmy.webp" alt="Hellraiser Bloodline (1996)">
-     <p>Hellraiser Bloodline</p>
+     <p>Hellraiser Blood...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/11554/JXhtHVWcsFEnwVqU66m6ZED3ruHYVNnVEPVb5yJJ.webp" alt="Hellraiser Inferno (2000)">
@@ -1134,7 +1134,7 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/14275/P7kKSzOb6GgAtpyXrLZWAal542H3N2rE5RHzPiAv.webp" alt="Hellraiser Hellseeker (2002)">
-     <p>Hellraiser Hellseeker</p>
+     <p>Hellraiser Hells...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/14276/ipDbgxw4rkR1JZEDZSuCxtwM0bj7OnB1AGHxD5ve.webp" alt="Hellraiser Deader (2005)">
@@ -1142,17 +1142,17 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/14274/CXMi6UD6EcNuMHVZIO0bzJtj6jNCTcxMMMHmA0on.webp" alt="Hellraiser Hellworld (2005)">
-     <p>Hellraiser Hellworld</p>
+     <p>Hellraiser Hellw...</p>
     </td>
   </tr>
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/14277/oAYjxN6aQIEt3DbXHGH8FZ2NuCR0eDBsewlW9mja.webp" alt="Hellraiser Revelations (2011)">
-     <p>Hellraiser Revelat...</p>
+     <p>Hellraiser Revel...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/14279/Afd1DAwoNDLeqGG1KYSWxgYH8zMYGp4Ok5biNivI.webp" alt="Hellraiser Judgment (2018)">
-     <p>Hellraiser Judgment</p>
+     <p>Hellraiser Judgm...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/14281/hEEEDsOK3Ba7ELYoMj7j2ndJU4C54u1GOOMTwkex.webp" alt="Hellraiser (2022)">
@@ -1170,11 +1170,11 @@
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/20518/sllCHluOH7IgInQw2E2rguqKFDj6ZOvlHGOlhIzh.webp" alt="Herbie Goes to Monte Carlo (1977)">
-     <p>Herbie Goes to Mon...</p>
+     <p>Herbie Goes to M...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/18039/htrSsvd1Ln1FOHOpjdfk3OntuvEgi0NyOsJ3Lojv.webp" alt="Herbie Goes Bananas (1980)">
-     <p>Herbie Goes Bananas</p>
+     <p>Herbie Goes Bana...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/44323/NNL4YBKQBbEJG11hwGxLLS3zsfbQXx1gIqpwvPUt.webp" alt="The Love Bug (1997)">
@@ -1182,7 +1182,7 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/20516/8kg8jadt3BEhF0TECamJgVuGlTtPLhSGszQZAUmP.webp" alt="Herbie Fully Loaded (2005)">
-     <p>Herbie Fully Loaded</p>
+     <p>Herbie Fully Loa...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/3233/Sx1W7pq4ByAYpo6hygnETdmrWYNT9RldYTnDGxFD.webp" alt="Hereditary (2018)">
@@ -1196,15 +1196,15 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/3932/XPaeoJ4IG4iywtH4zVfq1SfoyIAVsPLnGIA1naAP.webp" alt="The Hobbit An Unexpected Journey (2012)">
-     <p>The Hobbit An Unex...</p>
+     <p>The Hobbit An Un...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/3934/n1rXahcFyyTAZZrjNOyUXVfpwtgSfWRDzEBWcEQ2.webp" alt="The Hobbit The Desolation of Smaug (2013)">
-     <p>The Hobbit The Des...</p>
+     <p>The Hobbit The D...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/3933/b3ifoMmdAKSiVLOnzWWe7Y7BFSVQ9FUGx9bUlbln.webp" alt="The Hobbit The Battle of the Five Armies (2014)">
-     <p>The Hobbit The Bat...</p>
+     <p>The Hobbit The B...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/6279/JrPo2PMINLhpjQqJuOtQVzEU76GZvFPbOnoctPHw.webp" alt="Hotel Transylvania (2012)">
@@ -1214,37 +1214,37 @@
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/6280/no46dTLIncm2vclPMsOcWuhHxsH6UQPbpZGYpe3b.webp" alt="Hotel Transylvania 2 (2015)">
-     <p>Hotel Transylvania 2</p>
+     <p>Hotel Transylvan...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/6281/LYelNT0pL5V0mrnK3P0oVNyp5wbuHkOSkfkdc1qg.webp" alt="Hotel Transylvania 3: Summer Vacation (2018)">
-     <p>Hotel Transylvania...</p>
+     <p>Hotel Transylvan...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/6283/bOXljmSwJrdFuBtbz5fLXyufi98QJFlD47gBtJ39.webp" alt="Hotel Transylvania: Transformania (2022)">
-     <p>Hotel Transylvania...</p>
+     <p>Hotel Transylvan...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/145/Hz2pDrZuRTqUOUVTbOxJNt3qE5Wc26iXVaA5qT77.webp" alt="How to Train Your Dragon (2010)">
-     <p>How to Train Your ...</p>
+     <p>How to Train You...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/147/4cZhbi26rehjvo7Vb8q5UYo48I1GoNUM4bGFECfb.webp" alt="How to Train Your Dragon 2 (2014)">
-     <p>How to Train Your ...</p>
+     <p>How to Train You...</p>
     </td>
   </tr>
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/146/5TpWRNVw8uUEWHluuQd7TPa8MpUthrHPiJF3K5gN.webp" alt="How to Train Your Dragon The Hidden World (2019)">
-     <p>How to Train Your ...</p>
+     <p>How to Train You...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1792378/dnETexBf8Cpk6NnnAqukXwJ9iGBazbuhWc1Uy4gW.webp" alt="How to Train Your Dragon (2025)">
-     <p>How to Train Your ...</p>
+     <p>How to Train You...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1703/YOiIDD2U9YX4xROArVkz6XmThHGwTPGyfwkLE0bw.webp" alt="Howls Moving Castle (2004)">
-     <p>Howls Moving Castle</p>
+     <p>Howls Moving Cas...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/4703/tax23v2zwFxJ34iMsZTkIG7pN13SIorAfKg5Vq4e.webp" alt="Hulk (2003)">
@@ -1252,7 +1252,7 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1491/9mr4y8xVtsnQUfE3iN11C05OVp0kPNPVkzPHySu5.webp" alt="The Incredible Hulk (2008)">
-     <p>The Incredible Hulk</p>
+     <p>The Incredible H...</p>
     </td>
   </tr>
   <tr>
@@ -1262,19 +1262,19 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/310/44J8Hs7EqkngfxFjf2uX1V4vdCViLvk818I6FlqP.webp" alt="The Hunger Games Catching Fire (2013)">
-     <p>The Hunger Games C...</p>
+     <p>The Hunger Games...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/311/Bg9b8zU6UgVMSdRVd3qnVpyaQ0hImUeiZa4t22Ei.webp" alt="The Hunger Games Mockingjay Part 1 (2014)">
-     <p>The Hunger Games M...</p>
+     <p>The Hunger Games...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/312/MctSDtRHDCm3JYQNhXPV8ORnUYvmGWBDhrrA922C.webp" alt="The Hunger Games Mockingjay Part 2 (2015)">
-     <p>The Hunger Games M...</p>
+     <p>The Hunger Games...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/725596/UZGDwCcTTcBCoXinC61s0f23N5IID24P3P28tmoi.webp" alt="The Hunger Games The Ballad of Songbirds and Snakes (2023)">
-     <p>The Hunger Games T...</p>
+     <p>The Hunger Games...</p>
     </td>
   </tr>
   <tr>
@@ -1284,7 +1284,7 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/146754/nRYuQnE8EAKvGKnQs4WEyRkvIYlUKlFw6LDiYt8F.webp" alt="I Want to Eat Your Pancreas (2018)">
-     <p>I Want to Eat Your...</p>
+     <p>I Want to Eat Yo...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/2314379/afvaqV20YsqnE9tFI04LewQ8PFi9ndyXPLMKGjPk.webp" alt="I'm Still Here (null)">
@@ -1302,7 +1302,7 @@
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/2109507/3qnjGWmIW2I8KtZLReRpWLCqSa9dc3qfp5RzXw8o.webp" alt="In a Violent Nature (2024)">
-     <p>In a Violent Nature</p>
+     <p>In a Violent Nat...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/25452/Kpi0Z27ZAUmFVt0X3PYQOC0uaBIudY3HZEecbXJP.webp" alt="Inception (2010)">
@@ -1318,7 +1318,7 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/42199/7z6sL0mPChj4k178h02zUZA41fQkTwsAIpb3N36d.webp" alt="The Indian in the Cupboard (1995)">
-     <p>The Indian in the ...</p>
+     <p>The Indian in th...</p>
     </td>
   </tr>
   <tr>
@@ -1336,21 +1336,21 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/4970/BoY2NGl5a4FIR0eBrY7s6BaVVDZn049mFnlMFIv8.webp" alt="Insidious Chapter 2 (2013)">
-     <p>Insidious Chapter 2</p>
+     <p>Insidious Chapte...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/4969/slHC9w3gbMYa0WHm6FJvPdYwBYc4kRFse8P1d7h2.webp" alt="Insidious Chapter 3 (2015)">
-     <p>Insidious Chapter 3</p>
+     <p>Insidious Chapte...</p>
     </td>
   </tr>
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/4968/vjMesK2Jq0mtYEq9lxSIsGPPGd7MKJzlBr5Vslj4.webp" alt="Insidious The Last Key (2018)">
-     <p>Insidious The Last...</p>
+     <p>Insidious The La...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/4972/ONbrr7vRJnvCVGWQLlE5kWtpvIHIPTr4fXcV8zUA.webp" alt="Insidious The Red Door (2023)">
-     <p>Insidious The Red ...</p>
+     <p>Insidious The Re...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/23696/VQAkGsbfZw3Ase2Nc2Iek2GDTIeSZOqLO9sW5l5E.webp" alt="Interstellar (2014)">
@@ -1406,7 +1406,7 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/859/aMOpjYkjx1uGkNxi4f10fZqqwwnF5H3ncX9m5OO1.webp" alt="John Dies at the End (2013)">
-     <p>John Dies at the End</p>
+     <p>John Dies at the...</p>
     </td>
   </tr>
   <tr>
@@ -1416,19 +1416,19 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/416/6pnEHXQYa9v0ti3TGaw96bsrNDMgewLhf0Kn0bgj.webp" alt="John Wick Chapter 2 (2017)">
-     <p>John Wick Chapter 2</p>
+     <p>John Wick Chapte...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/16/ofrkLRFdZLeR0IeoBv6jfirVVl5uqjRjjrB4p52L.webp" alt="John Wick Chapter 3 Parabellum (2019)">
-     <p>John Wick Chapter ...</p>
+     <p>John Wick Chapte...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1460/Y5d726Fq1cnzXxFZ2zhPCfF2fRply6fYb79yw1Mq.webp" alt="John Wick Chapter 4 (2023)">
-     <p>John Wick Chapter 4</p>
+     <p>John Wick Chapte...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1834298/Au4RB00RxAxSzLr81P993ySaa5u10Nxrzn0pC77Y.webp" alt="From the World of John Wick Ballerina (2025)">
-     <p>From the World of ...</p>
+     <p>From the World o...</p>
     </td>
   </tr>
   <tr>
@@ -1456,7 +1456,7 @@
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/8032/cqDe0Eroled3fHEBm8CW8Pc1DS4nu4gC0ZBjNmiV.webp" alt="The Lost World Jurassic Park (1997)">
-     <p>The Lost World Jur...</p>
+     <p>The Lost World J...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/8026/uQ0vmvJFN2D4FoRIUWJ1S0GA2YVnVXF6hVPA6Ks7.webp" alt="Jurassic Park III (2001)">
@@ -1468,7 +1468,7 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1957/YRTa7ejutufxVlfVtXvfr0Y2RWlLKNa8SWvPwHPH.webp" alt="Jurassic World Fallen Kingdom (2018)">
-     <p>Jurassic World Fal...</p>
+     <p>Jurassic World F...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/123689/M9Cnj69XjSK4oNVtWslUv6w4VYS8Hq5hLUG5c81i.webp" alt="Battle at Big Rock (2019)">
@@ -1478,11 +1478,11 @@
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/8035/LxdMRzWxdsLWQb2iH9qlOASqfiWCqgJirLGSGE6t.webp" alt="Jurassic Park Dominion (2022)">
-     <p>Jurassic Park Domi...</p>
+     <p>Jurassic Park Do...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/2046199/4AIuS6lC7hcS17AP3PmcUakgWb6cBc9YFtKzcO7g.webp" alt="Jurassic World Rebirth (2025)">
-     <p>Jurassic World Reb...</p>
+     <p>Jurassic World R...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/7958/yuqQfKQCQB47CyzI9UgffheKyjebrjOiIKVzrpiG.webp" alt="Justice League (2017)">
@@ -1490,7 +1490,7 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/2333870/v4FgsBffwDzm6xmvfgjbLy0ZLnQqcEBxe6nsBwzK.webp" alt="Kaiju No. 8: Mission Recon (2025)">
-     <p>Kaiju No. 8: Missi...</p>
+     <p>Kaiju No. 8: Mis...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/5847/suPXLs6g9BANpiBzbUVScfj2qbzbYpPyTkKIkI7l.webp" alt="Kill Bill Vol. 1 (2003)">
@@ -1504,7 +1504,7 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/5849/4tKA7RvJWmBUl4fstv8AQyyUmhmAW64cBQ5poqqF.webp" alt="Kill Bill The Whole Bloody Affair (2011)">
-     <p>Kill Bill The Whol...</p>
+     <p>Kill Bill The Wh...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/12047/n9sATwXamGaEUERPk1qkoBmKxxRVp5D5GTZLpAoM.webp" alt="Kong Skull Island (2017)">
@@ -1544,7 +1544,7 @@
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1520212/1DT4SDnLnuwM1Zjmo3aeD7rXpBS98e2ONNLolRJF.webp" alt="Late Night with the Devil (2024)">
-     <p>Late Night with th...</p>
+     <p>Late Night with ...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/242977/AX2oWMCvYP4vv9RzOkpbUUEH7wkYnpyWzvuM5nDi.webp" alt="A Leaf of Faith (2018)">
@@ -1552,7 +1552,7 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1296367/LeROy57qKWa9ljEG64gfwOJfk1j9KHJMQiSbY6PE.webp" alt="Leave the World Behind (2023)">
-     <p>Leave the World Be...</p>
+     <p>Leave the World ...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/10640/hoRszzhLroxqlUwZsgsHoF45raMGsHpNMqFhzA3y.webp" alt="Legend (2015)">
@@ -1600,21 +1600,21 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/333/j7nhvOFdw5hHjigkmFsc0qeRht9l8vzqpxGSMPbM.webp" alt="The Lord of the Rings The Fellowship of the Ring (2001)">
-     <p>The Lord of the Ri...</p>
+     <p>The Lord of the ...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/336/zrhSdvsyrlTXYkNUmVJRwqMZWF2DS2Im1EIyJwHA.webp" alt="The Lord of the Rings The Two Towers (2002)">
-     <p>The Lord of the Ri...</p>
+     <p>The Lord of the ...</p>
     </td>
   </tr>
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/334/DjvC9vA5jrLDhNCliLgynSxeK2BHQlVCB4cGUpGC.webp" alt="The Lord of the Rings The Return of the King (2003)">
-     <p>The Lord of the Ri...</p>
+     <p>The Lord of the ...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1291686/gZVzfMmiFzPLbpukzjfzvRhG2Do6NbkcECYon2eY.webp" alt="The Lord of the Rings The War of the Rohirrim (2024)">
-     <p>The Lord of the Ri...</p>
+     <p>The Lord of the ...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/60488/simDCpe9MvbzTD4h1eqwk6oe45t4iLsjEH78cTvJ.webp" alt="Love & Other Drugs (2010)">
@@ -1648,7 +1648,7 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/3519/1nkHTEyV9omdCP1KMskraNxfT4n1j9zL4uIMXAFH.webp" alt="Mad Max Beyond Thunderdome (1985)">
-     <p>Mad Max Beyond Thu...</p>
+     <p>Mad Max Beyond T...</p>
     </td>
   </tr>
   <tr>
@@ -1658,7 +1658,7 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1018435/vHb6yf8TvgHGfuUoLt3XfjhM9uYR4IU1aSY738z7.webp" alt="Furiosa A Mad Max Saga (2024)">
-     <p>Furiosa A Mad Max ...</p>
+     <p>Furiosa A Mad Ma...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/153355/KFh5tPuab7MbZgFIBZdzKogGKvWtGO0kzOIAvxNp.webp" alt="Madame Web (2024)">
@@ -1680,29 +1680,29 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/40762/fc4RmFmHNKBpnwseK8dVkQFZy7FCMZO9egS9l6Sx.webp" alt="Manon of the Spring (1986)">
-     <p>Manon of the Spring</p>
+     <p>Manon of the Spr...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/25/38gSuKTprZvVzkMHn9C22yhDNtMB10LSujBAggQg.webp" alt="Marvel One-Shot The Consultant (2011)">
-     <p>Marvel One-Shot Th...</p>
+     <p>Marvel One-Shot ...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/34/XI64PQrLxgjrxd9REoPRvR1GIQURnbQyAY54vkfP.webp" alt="Marvel One-Shot A Funny Thing Happened on the Way to Thors Hammer (2011)">
-     <p>Marvel One-Shot A ...</p>
+     <p>Marvel One-Shot ...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/27/t99kZiRkMQFyYKSK5QReKHzRwz0c18zUWpXIP9Be.webp" alt="Marvel One-Shot Item 47 (2012)">
-     <p>Marvel One-Shot It...</p>
+     <p>Marvel One-Shot ...</p>
     </td>
   </tr>
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/26/uC039qaSY7k8zFpkmvZT0VReCAS8H1c7aWrHbRCz.webp" alt="Marvel One-Shot Agent Carter (2013)">
-     <p>Marvel One-Shot Ag...</p>
+     <p>Marvel One-Shot ...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/29/Noa0cKzvbtGlV7tbfzySOvyNNftCK6jaldDVc0j7.webp" alt="Marvel One-Shot All Hail the King (2014)">
-     <p>Marvel One-Shot Al...</p>
+     <p>Marvel One-Shot ...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/42/jmqXxp6eyAoFUz1lx0vM9nBkEu9lqF0Kk1klKJvF.webp" alt="The Marvels (2023)">
@@ -1720,15 +1720,15 @@
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/634/7kqFIa5NXf0aBWxjTQfWiWbVWcW8ZF6ycthSumNw.webp" alt="The Matrix Reloaded (2003)">
-     <p>The Matrix Reloaded</p>
+     <p>The Matrix Reloa...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/635/1E9eainsz4rtgWKGukwDGWIKhIwyyOpLbZsCQinO.webp" alt="The Matrix Revolutions (2003)">
-     <p>The Matrix Revolut...</p>
+     <p>The Matrix Revol...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/85492/mrgKk15eZMuwcLabWT6Y8envMsQyAmARmJc7LyGt.webp" alt="The Matrix Resurrections (2021)">
-     <p>The Matrix Resurre...</p>
+     <p>The Matrix Resur...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1672428/tAoJUaOjllX9dZSLP3IFAxaU7ESoQFftcGyQkWgB.webp" alt="MaXXXine (2024)">
@@ -1742,11 +1742,11 @@
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1453/BxmJ9pAE4gR0vhDqwLGwDxxjqTtlK5UrE2Udnhb7.webp" alt="Maze Runner The Scorch Trials (2015)">
-     <p>Maze Runner The Sc...</p>
+     <p>Maze Runner The ...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1452/hgPv4cjqJkv6AGzLIJK5ZM4ZMgPaRc0z3pm87dlp.webp" alt="Maze Runner The Death Cure (2018)">
-     <p>Maze Runner The De...</p>
+     <p>Maze Runner The ...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/318627/s8bvx7XcARQobZrzJvjdMt27a63VDefvWAAc51b1.webp" alt="Mean Girls (2004)">
@@ -1794,11 +1794,11 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/8250/TgiaUYYtc2Ui7eTbRMkLcBhyuyMFcrvvSlSeeG47.webp" alt="Minions The Rise of Gru (2022)">
-     <p>Minions The Rise o...</p>
+     <p>Minions The Rise...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1303255/gvX9QAMREqd9fYqU7CHhO9ZKoFAKBAN5doT04bSm.webp" alt="The Ministry of Ungentlemanly Warfare (2024)">
-     <p>The Ministry of Un...</p>
+     <p>The Ministry of ...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/5474/ZtATLTwfMZxCTolqPWCTeWCgKRhl7roKeCk9N4s2.webp" alt="Mission Impossible (1996)">
@@ -1808,29 +1808,29 @@
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/5476/n8wWgmKVahDrN2j1IIEmo7IB6xVLs09X2NhQP882.webp" alt="Mission Impossible II (2000)">
-     <p>Mission Impossible II</p>
+     <p>Mission Impossib...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/5477/lWWrZlHYcd2AWngfgPHEt3zXIqDe1hmkkCZS6xqU.webp" alt="Mission Impossible III (2006)">
-     <p>Mission Impossible...</p>
+     <p>Mission Impossib...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/5479/uM8yXI94KyxTEsgQFuKHF3gmp7Uu7ntnnipFRF2q.webp" alt="Mission Impossible - Ghost Protocol (2011)">
-     <p>Mission Impossible...</p>
+     <p>Mission Impossib...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/5478/oSrPwmGZLOOKqoNRdUQGhpWolzFraKbG1jeLd6jf.webp" alt="Mission Impossible - Rogue Nation (2015)">
-     <p>Mission Impossible...</p>
+     <p>Mission Impossib...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/5475/OaMNZKlbHWzJEkQ69h4slhQq8oVbzyVy8vCWgbV8.webp" alt="Mission Impossible - Fallout (2018)">
-     <p>Mission Impossible...</p>
+     <p>Mission Impossib...</p>
     </td>
   </tr>
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/5480/KfL9HrYTuoaOGNypzpdBXbPBBPUdAEeBe1nKUxeL.webp" alt="Mission Impossible - Dead Reckoning Part One (2023)">
-     <p>Mission Impossible...</p>
+     <p>Mission Impossib...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/2221/n8LLG1Ykk6dxrSqu1OAyaKRue6WSG0p70zTdBSSo.webp" alt="Moana (2016)">
@@ -1852,7 +1852,7 @@
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1524/jFJr2NQo3RL54lILNS5tTyp1l5sikSzwXk2GH7cJ.webp" alt="Monsters University (2013)">
-     <p>Monsters University</p>
+     <p>Monsters Univers...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/60988/VNHe63LcoRW8I35DlBhmtvDvnVD96HhqggxSb4Aw.webp" alt="Moonlight (2016)">
@@ -1868,29 +1868,29 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/769764/mTkVJzGvQC8DtUjYs6MqsptBuV0OBQE7mR7ZyAAT.webp" alt="Mufasa The Lion King (2024)">
-     <p>Mufasa The Lion King</p>
+     <p>Mufasa The Lion ...</p>
     </td>
   </tr>
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/25464/0x8Uiwp9i2Li36PWyGD5EBAaNKKoYrNg60Vy5LNs.webp" alt="My Hero Academia Two Heroes (2018)">
-     <p>My Hero Academia T...</p>
+     <p>My Hero Academia...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1723043/17NWqoGaeKg4EzIfIN9HGBBO37kpEYgktInCAumA.webp" alt="My Hero Academia All Might Rising (2019)">
-     <p>My Hero Academia A...</p>
+     <p>My Hero Academia...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/25474/dhw1FfmtJJyAAWa6YaUcFhIlKlGaPiuR1VSMPbql.webp" alt="My Hero Academia Heroes Rising (2019)">
-     <p>My Hero Academia H...</p>
+     <p>My Hero Academia...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/855900/V7qNhgBMOvskzPMJqHOJ2jtw0yJO1d4NbuizE6lu.webp" alt="My Hero Academia World Heroes Mission (2021)">
-     <p>My Hero Academia W...</p>
+     <p>My Hero Academia...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1912537/0sv59BZPitfjDei1dOxu0U4dGbhhHJfJ3ylUvxAs.webp" alt="My Hero Academia Youre Next (2024)">
-     <p>My Hero Academia Y...</p>
+     <p>My Hero Academia...</p>
     </td>
   </tr>
   <tr>
@@ -1904,7 +1904,7 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/8484/4LtgTcpbq2IFgCzxO2xHxFAwSRWZAVWfye5P84ly.webp" alt="Neon Genesis Evangelion: The End of Evangelion (1997)">
-     <p>Neon Genesis Evang...</p>
+     <p>Neon Genesis Eva...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1320734/KymtQfetbOD2VWBO9qfybV5U967d92BvMn626HFs.webp" alt="Never Let Go (null)">
@@ -2000,43 +2000,43 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/4597/ntOzvMkkzrT88Y32eWiE2dukYtwFJfeb0P5rFXdY.webp" alt="Pacific Rim Uprising (2018)">
-     <p>Pacific Rim Uprising</p>
+     <p>Pacific Rim Upri...</p>
     </td>
   </tr>
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/5267/MnPMfcQKEnctW752JvLsQj5P0tPUaQzsoVg4feFd.webp" alt="Paranormal Activity (2007)">
-     <p>Paranormal Activity</p>
+     <p>Paranormal Activ...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/5268/dMLpJYPAGxn1gKJKc2YE9Fc2Y33aehlVOTNygRtX.webp" alt="Paranormal Activity 2 (2010)">
-     <p>Paranormal Activity 2</p>
+     <p>Paranormal Activ...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/5269/kWZ4Rg8LDbKelC2wvYcCFQdMlAEC2i0ITynOEzcR.webp" alt="Paranormal Activity 3 (2011)">
-     <p>Paranormal Activity 3</p>
+     <p>Paranormal Activ...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/5270/xnAXQMm1ey22oMFaDrLwFvHxHurdxFANHJ5U1hIr.webp" alt="Paranormal Activity 4 (2012)">
-     <p>Paranormal Activity 4</p>
+     <p>Paranormal Activ...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/5272/XCPoOU5kzW7Db4ovEBM3KYjCAzjl7jsgEBNszvY0.webp" alt="Paranormal Activity The Marked Ones (2014)">
-     <p>Paranormal Activit...</p>
+     <p>Paranormal Activ...</p>
     </td>
   </tr>
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/5271/1tU63F5jVAcZWUZflCSFFxpnDLW0uaUALRlX98Eq.webp" alt="Paranormal Activity The Ghost Dimension (2015)">
-     <p>Paranormal Activit...</p>
+     <p>Paranormal Activ...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/5275/C9u7RPbR2IrZPNPg0N2b4eNMXrg4iZAIYVtxfu4B.webp" alt="Paranormal Activity Next of Kin (2021)">
-     <p>Paranormal Activit...</p>
+     <p>Paranormal Activ...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/5273/3DR3APdJ7C17kjFy1xxDsENxfxB4vW0qPhuZ6xgp.webp" alt="Paranormal Activity Tokyo Night (2010)">
-     <p>Paranormal Activit...</p>
+     <p>Paranormal Activ...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/61454/P7893YdHkNTNiHH9Th7I8yNr7vUaHPhFJeAAGuyW.webp" alt="Parasite (2019)">
@@ -2058,11 +2058,11 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1386/C7Zpfy0D306aVUdvuoQpHdtYOOerllD2e19iKPqt.webp" alt="Percy Jackson and the Olympians The Lightning Thief (2010)">
-     <p>Percy Jackson and ...</p>
+     <p>Percy Jackson an...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1385/fpIHGsCC4iwHLz5tPnxCEL1A0BqPQ4QZ0LHQV8PU.webp" alt="Percy Jackson Sea of Monsters (2013)">
-     <p>Percy Jackson Sea ...</p>
+     <p>Percy Jackson Se...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/2140198/Jvql0uNzsufEeLXtwTlcKUZAIF5dH3O4xRKFu5SC.webp" alt="Pinched (2012)">
@@ -2072,23 +2072,23 @@
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1717/1NMPjdDDnF6o2CAKHrc2S75LOASl5wc7OgCdo1zN.webp" alt="Pirates of the Caribbean The Curse of the Black Pearl (2003)">
-     <p>Pirates of the Car...</p>
+     <p>Pirates of the C...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1718/zybqPIxuTXIAjKAc0UyhxWwUG6gX0AdovEpIkBi3.webp" alt="Pirates of the Caribbean Dead Mans Chest (2006)">
-     <p>Pirates of the Car...</p>
+     <p>Pirates of the C...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1721/xZCv4ykTpR3C45mhKqS90MC6iwMJAcREM92c29e8.webp" alt="Pirates of the Caribbean At Worlds End (2007)">
-     <p>Pirates of the Car...</p>
+     <p>Pirates of the C...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1715/yHY3yJS5hlbnLfnQrjZRWKsrrHinRVt7aZE8LMnx.webp" alt="Pirates of the Caribbean On Stranger Tides (2011)">
-     <p>Pirates of the Car...</p>
+     <p>Pirates of the C...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1722/YeKSgibQL9xYVQr29I8Y7N9fUApu9Rojpy6xL3mJ.webp" alt="Pirates of the Caribbean Dead Men Tell No Tales (2017)">
-     <p>Pirates of the Car...</p>
+     <p>Pirates of the C...</p>
     </td>
   </tr>
   <tr>
@@ -2098,19 +2098,19 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1875/Zs2pdnr5bIVgmw8z5yxwCdgVP7zjFf3M9YunO3na.webp" alt="Rise of the Planet of the Apes (2011)">
-     <p>Rise of the Planet...</p>
+     <p>Rise of the Plan...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1874/CLxYgX6FBrQHZwHRiFeWIoxF0iaHGlMlwpAXxZ5u.webp" alt="Dawn of the Planet of the Apes (2014)">
-     <p>Dawn of the Planet...</p>
+     <p>Dawn of the Plan...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1876/GZlnjFukFUxlpy4OcnPZlTEYyllaoAAJRGpNJFAO.webp" alt="War for the Planet of the Apes (2017)">
-     <p>War for the Planet...</p>
+     <p>War for the Plan...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/215782/EogWyoTxy9rO8oz36OX01xYOyx8waEP6JRA15JLn.webp" alt="Kingdom of the Planet of the Apes (2024)">
-     <p>Kingdom of the Pla...</p>
+     <p>Kingdom of the P...</p>
     </td>
   </tr>
   <tr>
@@ -2154,7 +2154,7 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/2466630/aky5H87BQFAu2ZwbDsSPHUugDcndctfyaqCxnCvh.webp" alt="Predator Killer of Killers (2025)">
-     <p>Predator Killer of...</p>
+     <p>Predator Killer ...</p>
     </td>
   </tr>
   <tr>
@@ -2182,11 +2182,11 @@
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/4322/qJtAUSqPXYRsaRKDDZt14WCgu8YV1uf4YeCL2LWG.webp" alt="Puss in Boots The Three Diablos (2012)">
-     <p>Puss in Boots The ...</p>
+     <p>Puss in Boots Th...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/20071/Jm84YdjFiYjMV6YTCnKsmvCcxfO6D41vPuxWSY5B.webp" alt="Puss in Boots The Last Wish (2022)">
-     <p>Puss in Boots The ...</p>
+     <p>Puss in Boots Th...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/7434/FwWASnSaci3k4HVA3fijhvfS2tUTm6him6sERKPE.webp" alt="A Quiet Place (2018)">
@@ -2194,11 +2194,11 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/7435/OgqPvodcJf0ExfAOBfcDUBDY4Q8ZI075PtcRlkdy.webp" alt="A Quiet Place Part II (2021)">
-     <p>A Quiet Place Part II</p>
+     <p>A Quiet Place Pa...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/768893/8AXClffFB7zWMKVR6vIuA1PiZivfJeB1rUfuAE8O.webp" alt="A Quiet Place Day One (2024)">
-     <p>A Quiet Place Day One</p>
+     <p>A Quiet Place Da...</p>
     </td>
   </tr>
   <tr>
@@ -2212,15 +2212,15 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1322046/TrRAhTwP1sukKy8QzShg0SL5LE0BrziiQVRzLq3I.webp" alt="Rebel Moon Part One A Child of Fire (2023)">
-     <p>Rebel Moon Part On...</p>
+     <p>Rebel Moon Part ...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1518168/5CVz9W7wjsf5mMEBJAJYLfEqszFBew1i1gJC3hNc.webp" alt="Rebel Moon Part Two The Scargiver (2024)">
-     <p>Rebel Moon Part Tw...</p>
+     <p>Rebel Moon Part ...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/4327/6EORWOIfY4pCOCpajsI9ilCXV1zrxnK0roKuJVW2.webp" alt="Requiem for a Dream (2000)">
-     <p>Requiem for a Dream</p>
+     <p>Requiem for a Dr...</p>
     </td>
   </tr>
   <tr>
@@ -2264,13 +2264,13 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/8261/JpHQwFrx7lG5AeG1ALQLbMyLKFWUIdOTIaWH6Pmg.webp" alt="Scooby-Doo 2 Monsters Unleashed (2004)">
-     <p>Scooby-Doo 2 Monst...</p>
+     <p>Scooby-Doo 2 Mon...</p>
     </td>
   </tr>
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/4844/NYoISXjrqoUFRLOvGEY7IZJPxsVCPysNtErIAcN7.webp" alt="Scott Pilgrim vs. the World (2010)">
-     <p>Scott Pilgrim vs. ...</p>
+     <p>Scott Pilgrim vs...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/44378/ByrqHvzzEM99gy7QMi5iCPljSULgMvNVrnZs8oAJ.webp" alt="Se7en (1995)">
@@ -2278,7 +2278,7 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1706/mikgmozImUqOAfgoOISocysfhbcPwdfwbq9OGXHb.webp" alt="The Secret World of Arrietty (2010)">
-     <p>The Secret World o...</p>
+     <p>The Secret World...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/2403785/zY5aqoz3wit6QaspXOOufn3uRmiG1UgMNYH9sOkp.webp" alt="September 5 (2024)">
@@ -2286,13 +2286,13 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1494/JLkWJgzzVPYWdsi32WU0fYqqWbsGGkNkCbjh4oQf.webp" alt="Shang-Chi and the Legend of the Ten Rings (2021)">
-     <p>Shang-Chi and the ...</p>
+     <p>Shang-Chi and th...</p>
     </td>
   </tr>
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/10610/HhnTiRML9nalMeYVHtmSvXyYbRSn8lHS85hHEqE6.webp" alt="The Shawshank Redemption (1994)">
-     <p>The Shawshank Rede...</p>
+     <p>The Shawshank Re...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/15/UQMvjMW03WNzg4gJqfWZpgISYb8dk7xKqWVjFTlf.webp" alt="Shazam! (2019)">
@@ -2300,7 +2300,7 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/6662/cSCa7VD6fRlI4EjgBwWVu3muEXFb2XzqCOt4pd6i.webp" alt="Shazam! Fury of the Gods (2023)">
-     <p>Shazam! Fury of th...</p>
+     <p>Shazam! Fury of ...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/3868/KxRMICLBxtFGNotVsDSEbDdjA9KjiAFn0Zdi8AZO.webp" alt="The Shining (1980)">
@@ -2322,7 +2322,7 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/8180/OX0IGlLRGlpmYpt5lFEtnHqU1piexd3h6TiCxTV5.webp" alt="Shrek Forever After (2010)">
-     <p>Shrek Forever After</p>
+     <p>Shrek Forever Af...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/19987/jAUyZ6hVzimeR9miUMwWsFx3hDEQBkAF2x38kelh.webp" alt="Shutter Island (2010)">
@@ -2336,11 +2336,11 @@
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/74/I6aNgvkrb1GKIYXLa6rLBXRsP0FPw2nU14lujUDM.webp" alt="Sicario Day of the Soldado (2018)">
-     <p>Sicario Day of the...</p>
+     <p>Sicario Day of t...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/10394/S4S4Yii0szsMXrvkkTjAdmUKJ7iplLA5MkDTXKIa.webp" alt="The Silence of the Lambs (1991)">
-     <p>The Silence of the...</p>
+     <p>The Silence of t...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/61253/j8AzorcVJ5p60sYdZ5Do0xEcfUn8DPpz0tdHHnf0.webp" alt="A Simple Favor (2018)">
@@ -2348,7 +2348,7 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1579952/QDIRfNL2RBSyUT5kFS3z7XKjyCVJFTaMjpmznGFD.webp" alt="Another Simple Favor (2025)">
-     <p>Another Simple Favor</p>
+     <p>Another Simple F...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/102516/T3bwZQlwmF8rjOxM98qtuUbvJXKEYkrgf4JuD63z.webp" alt="A Simple Plan (1998)">
@@ -2374,7 +2374,7 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/2006697/mycfaTRqDl9xHY8yd4f1GmlDHNkfzCe36RYfRmjx.webp" alt="Small Things Like These (2024)">
-     <p>Small Things Like ...</p>
+     <p>Small Things Lik...</p>
     </td>
   </tr>
   <tr>
@@ -2396,13 +2396,13 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/332868/EopN165IyDlYPLQjLTZcVStWzNhKX4CKL3RRbzxK.webp" alt="Sonic the Hedgehog 2 (2022)">
-     <p>Sonic the Hedgehog 2</p>
+     <p>Sonic the Hedgeh...</p>
     </td>
   </tr>
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1520311/TIG38VvqTsHhif7BaYoOGehKC7F1STb7QkBuhQdt.webp" alt="Sonic the Hedgehog 3 (2024)">
-     <p>Sonic the Hedgehog 3</p>
+     <p>Sonic the Hedgeh...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1850994/LA1YDITAworoKwDbEJb4GJHwbPMozXHpr4hgyBm8.webp" alt="The Soul Eater (null)">
@@ -2432,33 +2432,33 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/524/i1gtMwza2FUe3adQOIjUJ3bchmMHrmoU7l57RitP.webp" alt="The Amazing Spider-Man (2012)">
-     <p>The Amazing Spider...</p>
+     <p>The Amazing Spid...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/525/l1OYKZg6PApY5KC626Su1WqfYzbFY7F9Kli1DWGu.webp" alt="The Amazing Spider-Man 2 (2014)">
-     <p>The Amazing Spider...</p>
+     <p>The Amazing Spid...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/522/Jaqj9vqIaAm76pmlLIxrh3kXkxwMtdI3aL2GlJBg.webp" alt="Spider-Man Homecoming (2017)">
-     <p>Spider-Man Homecoming</p>
+     <p>Spider-Man Homec...</p>
     </td>
   </tr>
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/4/Hr17F9qf0V5DrZUAmF4vP0B5mTsesm2W03u2vZ2d.webp" alt="Spider-Man Far From Home (2019)">
-     <p>Spider-Man Far Fro...</p>
+     <p>Spider-Man Far F...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/149582/75feg1qt872YAOHlxeiXKa7rsXs4TEXYP2IViD0z.webp" alt="Spider-Man No Way Home (2021)">
-     <p>Spider-Man No Way ...</p>
+     <p>Spider-Man No Wa...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/521/WvWyrVFKHG9iXZvlaPYNCSVx3b4SKhyjXIoh4KXX.webp" alt="Spider-Man Into the Spider-Verse (2018)">
-     <p>Spider-Man Into th...</p>
+     <p>Spider-Man Into ...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/535/znRk5Oa1ppx8VWL0zi2RaOa8WTFFxDdGJYs6GmCk.webp" alt="Spider-Man Across the Spider-Verse (2023)">
-     <p>Spider-Man Across ...</p>
+     <p>Spider-Man Acros...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1701/qz5jlolznJF2LeOSFXbESNDjULuqVlHKmezNd3XQ.webp" alt="Spirited Away (2001)">
@@ -2476,7 +2476,7 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1846400/dxLtgqx2kn0CjbYTp0iWQe6N6PqDnoHFRpUI8r9w.webp" alt="Star Trek Section 31 (null)">
-     <p>Star Trek Section 31</p>
+     <p>Star Trek Sectio...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/159/Qq9ALCoZ0HBgCXkcRbDSrvI1R9sXM9gfO0i6ZjGp.webp" alt="A New Hope (1977)">
@@ -2484,7 +2484,7 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/178/QcNpk4FW54BUewp4RWmBW8Mw7WEvBxYSjkP45jcz.webp" alt="The Empire Strikes Back (1980)">
-     <p>The Empire Strikes...</p>
+     <p>The Empire Strik...</p>
     </td>
   </tr>
   <tr>
@@ -2494,41 +2494,41 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/167/TmLk6w1M7xKvGz2C1q5Zc2Nk0IBqRKRaq8Ti0l21.webp" alt="Star Wars Episode I The Phantom Menace (1999)">
-     <p>Star Wars Episode ...</p>
+     <p>Star Wars Episod...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/168/t6cqIPSixMGtyaMXeXhZucD9o1fqfpQB7ifrJkzU.webp" alt="Star Wars Episode II Attack of the Clones (2002)">
-     <p>Star Wars Episode ...</p>
+     <p>Star Wars Episod...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/169/jE6gw0y25evqmg3tQWwVRdQQ1svEtBJMbt01XIFc.webp" alt="Star Wars Episode III Revenge of the Sith (2005)">
-     <p>Star Wars Episode ...</p>
+     <p>Star Wars Episod...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/163/HbW2kTFF1VSe0UelYHOwLj8E7Yh0GegkwmTn6MMy.webp" alt="Star Wars The Clone Wars (2008)">
-     <p>Star Wars The Clon...</p>
+     <p>Star Wars The Cl...</p>
     </td>
   </tr>
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/162/nUyQp1VJs2ZNCETdPKd75Ysb6OjuvXkXVn15YXaM.webp" alt="Star Wars The Force Awakens (2015)">
-     <p>Star Wars The Forc...</p>
+     <p>Star Wars The Fo...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/164/SmbBAJKZhJLTIm60zeMf816IYtDTT1xgWgSI7TKg.webp" alt="Rogue One A Star Wars Story (2016)">
-     <p>Rogue One A Star W...</p>
+     <p>Rogue One A Star...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/161/CwQt4TYOdjG6jVoWiaSFHUJLR8ojT7b6CCEW6p6c.webp" alt="Star Wars The Last Jedi (2017)">
-     <p>Star Wars The Last...</p>
+     <p>Star Wars The La...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/160/zFCCz1ZwhoD42OQreBAD02hTy35RCfBxiCs8jUDe.webp" alt="Solo A Star Wars Story (2018)">
-     <p>Solo A Star Wars S...</p>
+     <p>Solo A Star Wars...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/166/6K67D6yYy3rVVFAqOeD7BnvavmBSUsoGOl6T1Kyu.webp" alt="Star Wars The Rise of Skywalker (2019)">
-     <p>Star Wars The Rise...</p>
+     <p>Star Wars The Ri...</p>
     </td>
   </tr>
   <tr>
@@ -2572,7 +2572,7 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/48732/7jw4vbvAawAtR0ozxuBZWlj5YBsGKeEaH9rxBOsE.webp" alt="The Super Mario Bros. Movie (2023)">
-     <p>The Super Mario Br...</p>
+     <p>The Super Mario ...</p>
     </td>
   </tr>
   <tr>
@@ -2594,7 +2594,7 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1396502/kcb3GStfYlv3pTRP37xauJPYcgjYflY9tZvzqJBq.webp" alt="Teen Wolf The Movie (2023)">
-     <p>Teen Wolf The Movie</p>
+     <p>Teen Wolf The Mo...</p>
     </td>
   </tr>
   <tr>
@@ -2622,7 +2622,7 @@
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/578/l3DiYBSJ9NwodGwy1jfTjPR2zth7slAKFUui7VuT.webp" alt="Thor The Dark World (2013)">
-     <p>Thor The Dark World</p>
+     <p>Thor The Dark Wo...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/577/3bDMzrJp5BXOV8WFwrdFcUZwTIDfPrhiZd1uDV1P.webp" alt="Thor Ragnarok (2017)">
@@ -2630,7 +2630,7 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/580/7SHcsekFCMYJeUf7wRhhDePQzeP6f8ytNZjIsdtP.webp" alt="Thor Love and Thunder (2022)">
-     <p>Thor Love and Thunder</p>
+     <p>Thor Love and Th...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/260063/TgZkLYxNYD5G4su1IAZtld3iydcDp2U88bdPxBCt.webp" alt="Thunderbolts* (2025)">
@@ -2692,7 +2692,7 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/2778419/cw2dFjjQg2C312jUnPfFcraZy2FthUUORs0f8bBa.webp" alt="Trainwreck: The Astroworld Tragedy (2025)">
-     <p>Trainwreck: The As...</p>
+     <p>Trainwreck: The ...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/8618/vDa7sQjXEj6w6rOr1XLUGVFXT614E0mmzEwF8SmC.webp" alt="Transformers (2007)">
@@ -2700,21 +2700,21 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/8623/TibfFAVU1hr18hMduu2VnJAuRcuktp0iInVrP76s.webp" alt="Transformers Revenge of the Fallen (2009)">
-     <p>Transformers Reven...</p>
+     <p>Transformers Rev...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/8624/VimU88WwfHzyTMr3bYLdxU92NIhABhfhMFcZ1gy0.webp" alt="Transformers Dark of the Moon (2011)">
-     <p>Transformers Dark ...</p>
+     <p>Transformers Dar...</p>
     </td>
   </tr>
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/8619/B88Sb2xkNsdahFCiq65NPVI2OtEuLB2UIOhBUYKO.webp" alt="Transformers Age of Extinction (2014)">
-     <p>Transformers Age o...</p>
+     <p>Transformers Age...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/8620/ZEMZevhzDUJliBd3RXIPorUAWZt682K5WPKIv77h.webp" alt="Transformers The Last Knight (2017)">
-     <p>Transformers The L...</p>
+     <p>Transformers The...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/26348/pFKi6yeg28siI6IV6e6PdcjZn2XS9t1NXUiqgWbz.webp" alt="Bumblebee (2018)">
@@ -2722,7 +2722,7 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/260300/CGMupG9m4ORSw1h5YwLo570yvnPBAb9gdihFdnBZ.webp" alt="Transformers Rise of the Beasts (2023)">
-     <p>Transformers Rise ...</p>
+     <p>Transformers Ris...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/727007/0ieul8DuqRChkR6vs6CwlWcIsl4qoNBpVPXvsevS.webp" alt="Transformers One (2024)">
@@ -2744,21 +2744,21 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/6187/J3oqgHgASwT2obUU8oBGVQtftbpGLrUaAdHF19Qm.webp" alt="The Twilight Saga New Moon (2009)">
-     <p>The Twilight Saga ...</p>
+     <p>The Twilight Sag...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/6186/9ZcaehgyLo7glJwQkpzhWitGwcf3fSzI1NPw2ev6.webp" alt="The Twilight Saga Eclipse (2010)">
-     <p>The Twilight Saga ...</p>
+     <p>The Twilight Sag...</p>
     </td>
   </tr>
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/6189/ZdZOmSj9MyRFJtHa3WbLoNvFMtdKxEfMyFHuR4pa.webp" alt="The Twilight Saga Breaking Dawn Part 1 (2011)">
-     <p>The Twilight Saga ...</p>
+     <p>The Twilight Sag...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/6191/nmcuzKIpZZWvaCOI02WSpV0zI5A0LZ0l26Voh2nJ.webp" alt="The Twilight Saga Breaking Dawn Part 2 (2012)">
-     <p>The Twilight Saga ...</p>
+     <p>The Twilight Sag...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1033836/wrsjY5FoQNwquBYUeULiwSQ9EBHLg9MnEjixU75h.webp" alt="Twisters (2024)">
@@ -2766,7 +2766,7 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/2187359/7j0lcbHJAMXxtPWLzllAB27YXtbAyq3gIPtJSvfx.webp" alt="The Ugly Stepsister (2025)">
-     <p>The Ugly Stepsister</p>
+     <p>The Ugly Stepsis...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/9301/eqyoshH1hSbCNouWQoA4rK1CPQnU06oEJW5vSLH1.webp" alt="Unbreakable (2000)">
@@ -2802,11 +2802,11 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/4760/nCpwpBz60cH4p8ZnDCq03Zx7lAIb84hciQlSYpuN.webp" alt="Venom Let There Be Carnage (2021)">
-     <p>Venom Let There Be...</p>
+     <p>Venom Let There ...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1427174/1BKzidIqSxtuj6AjGzp6gzc1hPwmiyDdkomosQwo.webp" alt="Venom The Last Dance (2024)">
-     <p>Venom The Last Dance</p>
+     <p>Venom The Last D...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/2053034/cJ0p9jM1QGo73JJyKeQ2srpbgp6loH5yAzIvr4qu.webp" alt="Warfare (2025)">
@@ -2846,7 +2846,7 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/23067/5XruMHnKyjWdqCZlRxqnujrSuU3IAHLJnucXxTPe.webp" alt="What We Do in the Shadows (2014)">
-     <p>What We Do in the ...</p>
+     <p>What We Do in th...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/60085/QdbOOcbFDyB3TmQ1ci0qpixUAfPzJvjWUqXX3OKA.webp" alt="When We First Met (2018)">
@@ -2872,11 +2872,11 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/256262/mcQ6zdPPowUwOEhZQ2A73osyeinVot3ek83XdrRP.webp" alt="The Witcher Nightmare of the Wolf (2021)">
-     <p>The Witcher Nightm...</p>
+     <p>The Witcher Nigh...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1997591/F8lAAEeYn6bdbdZAgVdR1xFC36XozcM1hujUQM6p.webp" alt="The Witcher Sirens of the Deep (2025)">
-     <p>The Witcher Sirens...</p>
+     <p>The Witcher Sire...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/796966/g8NS9Tji3XWhpJq0Gzny2uCmeSPFEYp5nFxQfi0i.webp" alt="Wolf Man (2025)">
@@ -2924,13 +2924,13 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/143/wKo6Pk2swYvc3MsANmbk8f5hyVBKuy0Pz6g9cgiY.webp" alt="X-Men The Last Stand (2006)">
-     <p>X-Men The Last Stand</p>
+     <p>X-Men The Last S...</p>
     </td>
   </tr>
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/126/u9Y36QFJaxVWgvEI0rX48xaopPqSQnSEn8hebo1n.webp" alt="X-Men Origins Wolverine (2009)">
-     <p>X-Men Origins Wolv...</p>
+     <p>X-Men Origins Wo...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/129/jkQQ7FJLyrGbLV1Qc7JZ2Qzeq2qyPr0o56f4Ence.webp" alt="X-Men First Class (2011)">
@@ -2938,7 +2938,7 @@
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/114/IJhM7lrZXTnYtjGJAQFVLDyqyMzQF7SPUbFrgpOw.webp" alt="X-Men Days of Future Past (2014)">
-     <p>X-Men Days of Futu...</p>
+     <p>X-Men Days of Fu...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/112/cMZmlzSTv5ewAcFUm3BBpruSTJRcyoWPETUL85Jq.webp" alt="X-Men Apocalypse (2016)">
@@ -2952,10 +2952,10 @@
   <tr>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/1040290/6syKfEuYG5WIJhcOAhDvYhapyVZkxDMH975TVRMM.webp" alt="Zack Snyders Justice League (2021)">
-     <p>Zack Snyders Justi...</p>
+     <p>Zack Snyders Jus...</p>
     </td>
     <td>
      <img width="150" src="https://images.theposterdb.com/prod/public/images/posters/optimized/movies/185152/CGaWa16LsDKFWaJBcrr6zBHLjOIXolZl2584XjkK.webp" alt="The Zone of Interest (2023)">
-     <p>The Zone of Interest</p>
+     <p>The Zone of Inte...</p>
     </td>
 </table>
