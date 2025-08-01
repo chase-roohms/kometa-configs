@@ -1,0 +1,46 @@
+name: Find Missing Posters
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 1 * *"
+
+permissions:
+  id-token: write
+  contents: read
+
+jobs:
+  tag:
+    name: Create Monthly Tag
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Create Tag Info
+        id: tag_info
+        run: | 
+          day=$(date +"%-d")
+          if [[ $day -eq 11 || $day -eq 12 || $day -eq 13 ]]; then
+            suffix="th"
+          elif [[ $((day % 10)) -eq 1 ]]; then
+            suffix="st"
+          elif [[ $((day % 10)) -eq 2 ]]; then
+            suffix="nd"
+          elif [[ $((day % 10)) -eq 3 ]]; then
+            suffix="rd"
+          else
+            suffix="th"
+          fi
+          fancy_day="${day}${suffix}"
+          fancy_month_year=$(date "+%B, %Y")
+          echo "tag_message=Kometa Configs on the $fancy_day of $fancy_month_year" >> $GITHUB_OUTPUT
+          echo "tag_name=$(date +%B-%-d-%Y)" >> $GITHUB_OUTPUT
+
+      - name: Create a Tag
+        env:
+          TAG_NAME: ${{ steps.tag_info.outputs.tag_name }}
+          TAG_MESSAGE: ${{ steps.tag_info.outputs.tag_message }}
+        run: |
+          git tag -a "$TAG_NAME" -m "$TAG_MESSAGE" && git push origin "$TAG_NAME"
+          
