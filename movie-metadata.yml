@@ -222,10 +222,6 @@ metadata:
     sort_title: Angry Birds Movie 2
     url_poster: https://theposterdb.com/api/assets/23356
     tpdb_search: https://theposterdb.com/search?term=The+Angry+Birds+Movie+2&section=movies
-  1300926:
-    label_title: The Angry Birds Movie 3
-    sort_title: Angry Birds Movie 3
-    url_poster: https://image.tmdb.org/t/p/original/iXn37glAlIbhVlDpRI38ww3EeHX.jpg
   250546:
     label_title: Annabelle
     release_year: '2014'
@@ -434,7 +430,7 @@ metadata:
     label_title: Batman Ninja vs. Yakuza League
     release_year: '2025'
     sort_title: Batman Ninja vs. Yakuza League
-    url_poster: https://image.tmdb.org/t/p/original/aEsqIZHA7AqJfLtcUkQdZrGYlm6.jpg
+    url_poster: https://theposterdb.com/api/assets/622055
     tpdb_search: https://theposterdb.com/search?term=Batman+Ninja+vs.+Yakuza+League&section=movies
     genre:
       - Anime
@@ -2599,10 +2595,6 @@ metadata:
     sort_title: Mission Impossible 7
     url_poster: https://theposterdb.com/api/assets/393565
     tpdb_search: https://theposterdb.com/search?term=Mission+Impossible+-+Dead+Reckoning+Part+One&section=movies
-  575265:
-    label_title: Mission Impossible - The Final Reckoning
-    sort_title: Mission Impossible 8
-    url_poster: https://image.tmdb.org/t/p/original/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg
   277834:
     label_title: Moana
     release_year: '2016'
@@ -3026,10 +3018,6 @@ metadata:
     sort_title: Poor Things
     url_poster: https://theposterdb.com/api/assets/406893
     tpdb_search: https://theposterdb.com/search?term=Poor+Things&section=movies
-  1388366:
-    title: Popeye the Slayer Man
-    sort_title: Popeye the Slayer Man
-    url_poster: https://image.tmdb.org/t/p/original/nVwu3mN7hr1yF467pGct3yQFM41.jpg
   106:
     label_title: Predator
     release_year: '1987'
@@ -3193,12 +3181,6 @@ metadata:
     sort_title: Role Play
     url_poster: https://theposterdb.com/api/assets/452839
     tpdb_search: https://theposterdb.com/search?term=Role+Play&section=movies
-  39377:
-    label_title: Ron White They Call Me Tater Salad
-    release_year: '2004'
-    sort_title: Ron White They Call Me Tater Salad
-    url_poster: https://image.tmdb.org/t/p/original/5rY6dQLkMmOwfL4H72MlCiVUbEE.jpg
-    tpdb_search: https://theposterdb.com/search?term=Ron+White+They+Call+Me+Tater+Salad&section=movies
   14444:
     label_title: The Rugrats Movie
     release_year: '1998'
@@ -3622,7 +3604,7 @@ metadata:
     label_title: Stream
     release_year: '2024'
     sort_title: Stream
-    url_poster: https://image.tmdb.org/t/p/original/az0k8pzdeqrrEO9iu8vL081bjA0.jpg
+    url_poster: https://theposterdb.com/api/assets/630693
     tpdb_search: https://theposterdb.com/search?term=Stream&section=movies
   395993:
     label_title: Stronger
@@ -4030,7 +4012,7 @@ metadata:
     label_title: Were All Gonna Die
     release_year: '2025'
     sort_title: Were All Gonna Die
-    url_poster: https://image.tmdb.org/t/p/original/er7627yHVe1hEHnIHM7HV86EgJw.jpg
+    url_poster: https://theposterdb.com/api/assets/627988
     tpdb_search: https://theposterdb.com/search?term=Were+All+Gonna+Die&section=movies
   894205:
     label_title: Werewolf by Night
