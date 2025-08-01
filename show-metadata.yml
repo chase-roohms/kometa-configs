@@ -2879,6 +2879,15 @@ metadata:
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/555014
+        episodes:
+          101:
+            title: 'Opening: S1 - LEveL by Hiroyuki Sawano [nZk] & TOMORROW X TOGETHER'
+            summary: 'Opening song of Season 1: "LEveL" Hiroyuki Sawano [nZk] & TOMORROW X TOGETHER'
+            url_poster: https://i.imgur.com/A0EM11Q.jpeg
+          102:
+            title: 'Opening: S2 - ReawakeR by LiSA feat Felix of Stray Kids'
+            summary: 'Opening song of Season 2: "ReawakeR" by LiSA feat Felix of Stray Kids'
+            url_poster: https://i.imgur.com/HY9MFZc.png
       1:
         url_poster: https://theposterdb.com/api/assets/474754
       2:
