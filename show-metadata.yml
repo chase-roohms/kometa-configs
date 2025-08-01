@@ -139,11 +139,11 @@ metadata:
     label_title: Angry Boys
     release_year: '2011'
     sort_title: Angry Boys
-    url_poster: https://image.tmdb.org/t/p/original/5cuXbKLqeC8wYCCu3wJhjND3kJj.jpg
+    url_poster: https://theposterdb.com/api/assets/545635
     tpdb_search: https://theposterdb.com/search?term=Angry+Boys&section=shows
     seasons:
       1:
-        url_poster: https://image.tmdb.org/t/p/original/5cuXbKLqeC8wYCCu3wJhjND3kJj.jpg
+        url_poster: https://theposterdb.com/api/assets/545635
   371028:
     label_title: Arcane
     release_year: '2021'
@@ -975,13 +975,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/182328
       2:
         url_poster: https://theposterdb.com/api/assets/362222
-  460132:
-    label_title: The Fox Hollow Murders - Playground of a Serial Killer
-    sort_title: Fox Hollow Murders - Playground of a Serial Killer
-    url_poster: https://image.tmdb.org/t/p/original/zitSh6i9JShgMpbFitfTXxuFnKd.jpg
-    seasons:
-      1:
-        url_poster: https://image.tmdb.org/t/p/original/zitSh6i9JShgMpbFitfTXxuFnKd.jpg
   401003:
     label_title: FROM
     release_year: '2022'
@@ -1290,14 +1283,14 @@ metadata:
       17:
         url_poster: https://theposterdb.com/api/assets/623907
   273106:
-    label_title: Ja'mie - Private School Girl
+    label_title: "Ja'mie - Private School Girl"
     release_year: '2013'
-    sort_title: Ja'mie - Private School Girl
-    url_poster: https://image.tmdb.org/t/p/original/e4r1YcQQQW3wHGKzsOMDoxXluBm.jpg
-    tpdb_search: https://theposterdb.com/search?term=Ja'mie+-+Private+School+Girl&section=shows
+    sort_title: "Ja'mie - Private School Girl"
+    url_poster: https://theposterdb.com/api/assets/630696
+    tpdb_search: "https://theposterdb.com/search?term=Ja'mie+-+Private+School+Girl&section=shows"
     seasons:
       1:
-        url_poster: https://image.tmdb.org/t/p/original/e4r1YcQQQW3wHGKzsOMDoxXluBm.jpg
+        url_poster: https://theposterdb.com/api/assets/630696
   127351:
     label_title: Jersey Shore
     release_year: '2009'
@@ -1387,11 +1380,11 @@ metadata:
     label_title: The Kings of Tupelo - A Southern Crime Saga
     release_year: '2024'
     sort_title: Kings of Tupelo - A Southern Crime Saga
-    url_poster: https://image.tmdb.org/t/p/original/gsAMK2p6hzEvxQLHgkj0AGyl6RR.jpg
+    url_poster: https://theposterdb.com/api/assets/630697
     tpdb_search: https://theposterdb.com/search?term=The+Kings+of+Tupelo+-+A+Southern+Crime+Saga&section=shows
     seasons:
       1:
-        url_poster: https://image.tmdb.org/t/p/original/gsAMK2p6hzEvxQLHgkj0AGyl6RR.jpg
+        url_poster: https://theposterdb.com/api/assets/630697
   397424:
     label_title: Landman
     release_year: '2024'
@@ -2178,16 +2171,16 @@ metadata:
     label_title: Mucha Lucha
     release_year: '2002'
     sort_title: Mucha Lucha
-    url_poster: https://image.tmdb.org/t/p/w1280/w12B6di7moo2otX4X4y3y3gKagz.jpg
+    url_poster: https://theposterdb.com/api/assets/630699
     tpdb_search: https://theposterdb.com/search?term=Mucha+Lucha&section=shows
     episode_ordering: tmdb_aired
     seasons:
       1:
-        url_poster: https://image.tmdb.org/t/p/original/rzThu7P2mDJ2LuiOOGVCnz0fkse.jpg
+        url_poster: https://theposterdb.com/api/assets/630700
       2:
-        url_poster: https://image.tmdb.org/t/p/original/oV7lOWDDqLd0Wr7qOxgWoMafzzL.jpg
+        url_poster: https://theposterdb.com/api/assets/630701
       3:
-        url_poster: https://image.tmdb.org/t/p/original/8NJr3fOjDqG24HJ0g84hGtXiWX0.jpg
+        url_poster: https://theposterdb.com/api/assets/630702
   443396:
     label_title: Murderbot
     release_year: '2025'
