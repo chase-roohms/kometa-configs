@@ -1074,6 +1074,12 @@ metadata:
     sort_title: Dungeons and Dragons Honor Among Thieves
     url_poster: https://theposterdb.com/api/assets/359562
     tpdb_search: https://theposterdb.com/search?term=Dungeons+and+Dragons+Honor+Among+Thieves&section=movies
+  81379:
+    label_title: Durango Kids
+    release_year: '1999'
+    sort_title: Durango Kids
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Durango+Kids&section=movies
   559969:
     label_title: El Camino A Breaking Bad Movie
     release_year: '2019'
