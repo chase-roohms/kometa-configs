@@ -2129,6 +2129,12 @@ metadata:
     sort_title: Kill Bill The Whole Bloody Affair
     url_poster: https://theposterdb.com/api/assets/82100
     tpdb_search: https://theposterdb.com/search?term=Kill+Bill+The+Whole+Bloody+Affair&section=movies
+  1495:
+    label_title: Kingdom of Heaven
+    release_year: '2005'
+    sort_title: Kingdom of Heaven
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Kingdom+of+Heaven&section=movies
   293167:
     label_title: Kong Skull Island
     release_year: '2017'
