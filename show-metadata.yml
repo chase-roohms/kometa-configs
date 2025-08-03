@@ -5,6 +5,8 @@ metadata:
     sort_title: 3 Body Problem
     url_poster: https://theposterdb.com/api/assets/465293
     tpdb_search: https://theposterdb.com/search?term=3+Body+Problem&section=shows
+    genre.sync:
+      - Science Fiction
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/465294
@@ -14,6 +16,8 @@ metadata:
     sort_title: '100'
     url_poster: https://theposterdb.com/api/assets/29030
     tpdb_search: https://theposterdb.com/search?term=The+100&section=shows
+    genre.sync:
+      - Science Fiction
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/29031
@@ -35,6 +39,8 @@ metadata:
     sort_title: '1883'
     url_poster: https://theposterdb.com/api/assets/287902
     tpdb_search: https://theposterdb.com/search?term=1883&section=shows
+    genre.sync:
+      - Drama
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/287903
@@ -46,6 +52,8 @@ metadata:
     sort_title: '1899'
     url_poster: https://theposterdb.com/api/assets/278721
     tpdb_search: https://theposterdb.com/search?term=1899&section=shows
+    genre.sync:
+      - Science Fiction
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/278722
@@ -55,6 +63,8 @@ metadata:
     sort_title: '1923'
     url_poster: https://theposterdb.com/api/assets/287905
     tpdb_search: https://theposterdb.com/search?term=1923&section=shows
+    genre.sync:
+      - Drama
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/293982
@@ -68,6 +78,9 @@ metadata:
     sort_title: Acolyte
     url_poster: https://theposterdb.com/api/assets/489735
     tpdb_search: https://theposterdb.com/search?term=The+Acolyte&section=shows
+    genre.sync:
+      - Action
+      - Science Fiction
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/489736
@@ -77,6 +90,8 @@ metadata:
     sort_title: Adolescence
     url_poster: https://theposterdb.com/api/assets/585695
     tpdb_search: https://theposterdb.com/search?term=Adolescence&section=shows
+    genre.sync:
+      - Drama
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/585696
@@ -86,6 +101,8 @@ metadata:
     sort_title: Adults (2025)
     url_poster: https://theposterdb.com/api/assets/608801
     tpdb_search: https://theposterdb.com/search?term=Adults+(2025)&section=shows
+    genre.sync:
+      - Comedy
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/608802
@@ -96,6 +113,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/595591
     tpdb_search: https://theposterdb.com/search?term=Agatha+All+Along&section=shows
     studio: Marvel Studios
+    genre.sync:
+      - Super Hero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/595592
@@ -105,6 +124,8 @@ metadata:
     sort_title: Agency
     url_poster: https://theposterdb.com/api/assets/545465
     tpdb_search: https://theposterdb.com/search?term=The+Agency&section=shows
+    genre.sync:
+      - Thriller
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/545466
@@ -114,6 +135,9 @@ metadata:
     sort_title: Ahsoka
     url_poster: https://theposterdb.com/api/assets/388527
     tpdb_search: https://theposterdb.com/search?term=Ahsoka&section=shows
+    genre.sync:
+      - Action
+      - Science Fiction
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/388528
@@ -121,6 +145,8 @@ metadata:
     label_title: Alice in Borderland
     sort_title: Alice in Borderland
     url_poster: https://theposterdb.com/api/assets/115825
+    genre.sync:
+      - Thriller
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/115826
@@ -132,6 +158,8 @@ metadata:
     sort_title: American Primeval
     url_poster: https://theposterdb.com/api/assets/557312
     tpdb_search: https://theposterdb.com/search?term=American+Primeval&section=shows
+    genre.sync:
+      - Drama
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/557313
@@ -141,6 +169,8 @@ metadata:
     sort_title: Angry Boys
     url_poster: https://theposterdb.com/api/assets/545635
     tpdb_search: https://theposterdb.com/search?term=Angry+Boys&section=shows
+    genre.sync:
+      - Comedy
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/545635
@@ -150,6 +180,8 @@ metadata:
     sort_title: Arcane
     url_poster: https://theposterdb.com/api/assets/451719
     tpdb_search: https://theposterdb.com/search?term=Arcane&section=shows
+    genre.sync:
+      - Animation
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/451720
@@ -161,6 +193,9 @@ metadata:
     sort_title: Archer
     url_poster: https://theposterdb.com/api/assets/404756
     tpdb_search: https://theposterdb.com/search?term=Archer&section=shows
+    genre.sync:
+      - Animation
+      - Comedy
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/404757
@@ -198,6 +233,8 @@ metadata:
     sort_title: ARK - The Animated Series
     url_poster: https://theposterdb.com/api/assets/470903
     tpdb_search: https://theposterdb.com/search?term=ARK+-+The+Animated+Series&section=shows
+    genre.sync:
+      - Animation
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/470904
@@ -207,6 +244,8 @@ metadata:
     sort_title: Avatar - The Last Airbender
     url_poster: https://theposterdb.com/api/assets/454341
     tpdb_search: https://theposterdb.com/search?term=Avatar+-+The+Last+Airbender&section=shows
+    genre.sync:
+      - Fantasy
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/454342
@@ -217,7 +256,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/396382
     tpdb_search: https://theposterdb.com/search?term=B+-+The+Beginning&section=shows
     audio_language: ja-JP
-    genre:
+    genre.sync:
       - Anime
     seasons:
       1:
@@ -228,6 +267,9 @@ metadata:
     sort_title: Baby Reindeer
     url_poster: https://theposterdb.com/api/assets/483617
     tpdb_search: https://theposterdb.com/search?term=Baby+Reindeer&section=shows
+    genre.sync:
+      - Drama
+      - Thriller
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/483619
@@ -237,6 +279,8 @@ metadata:
     sort_title: Bear
     url_poster: https://theposterdb.com/api/assets/267741
     tpdb_search: https://theposterdb.com/search?term=The+Bear&section=shows
+    genre.sync:
+      - Drama
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/267742
@@ -253,6 +297,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/518302
     tpdb_search: https://theposterdb.com/search?term=BEEF&section=shows
     studio: A24
+    genre.sync:
+      - Drama
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/345359
@@ -262,6 +308,8 @@ metadata:
     sort_title: Behind Her Eyes
     url_poster: https://theposterdb.com/api/assets/145374
     tpdb_search: https://theposterdb.com/search?term=Behind+Her+Eyes&section=shows
+    genre.sync:
+      - Thriller
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/145375
@@ -272,7 +320,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/182143
     tpdb_search: https://theposterdb.com/search?term=Berserk&section=shows
     audio_language: ja-JP
-    genre:
+    genre.sync:
       - Anime
     seasons:
       1:
@@ -283,6 +331,8 @@ metadata:
     sort_title: Better Call Saul
     url_poster: https://theposterdb.com/api/assets/20289
     tpdb_search: https://theposterdb.com/search?term=Better+Call+Saul&section=shows
+    genre.sync:
+      - Drama
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/258327
@@ -305,6 +355,9 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/592830
     tpdb_search: https://theposterdb.com/search?term=Black+Mirror&section=shows
     url_background: https://api.mediux.pro/assets/bae9d5d9-35ba-4be4-9d53-6b626be9741b
+    genre.sync:
+      - Science Fiction
+      - Thriller
     seasons:
       0:
         url_poster: https://api.mediux.pro/assets/4d9f91ff-6370-4243-a913-e0a58b03a58a
@@ -403,7 +456,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/415612
     tpdb_search: https://theposterdb.com/search?term=Blood+Blockade+Battlefront&section=shows
     audio_language: ja-JP
-    genre:
+    genre.sync:
       - Anime
     seasons:
       0:
@@ -418,6 +471,9 @@ metadata:
     sort_title: Book of Boba Fett
     url_poster: https://theposterdb.com/api/assets/178982
     tpdb_search: https://theposterdb.com/search?term=The+Book+of+Boba+Fett&section=shows
+    genre.sync:
+      - Action
+      - Science Fiction
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/186861
@@ -427,6 +483,9 @@ metadata:
     sort_title: Boondocks
     url_poster: https://theposterdb.com/api/assets/261215
     tpdb_search: https://theposterdb.com/search?term=The+Boondocks&section=shows
+    genre.sync:
+      - Animation
+      - Comedy
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/261216
@@ -442,6 +501,10 @@ metadata:
     sort_title: Boys
     url_poster: https://theposterdb.com/api/assets/235785
     tpdb_search: https://theposterdb.com/search?term=The+Boys&section=shows
+    genre.sync:
+      - Super Hero
+      - Comedy
+      - Action
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/235786
@@ -457,6 +520,8 @@ metadata:
     sort_title: Breaking Bad
     url_poster: https://theposterdb.com/api/assets/20288
     tpdb_search: https://theposterdb.com/search?term=Breaking+Bad&section=shows
+    genre.sync:
+      - Drama
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/35706
@@ -474,6 +539,8 @@ metadata:
     sort_title: Breaking News
     url_poster: https://theposterdb.com/api/assets/586038
     tpdb_search: https://theposterdb.com/search?term=Breaking+News&section=shows
+    genre.sync:
+      - Comedy
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/586039
@@ -498,7 +565,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/567743
     tpdb_search: https://theposterdb.com/search?term=Chainsaw+Man&section=shows
     audio_language: ja-JP
-    genre:
+    genre.sync:
       - Anime
     seasons:
       0:
@@ -516,6 +583,8 @@ metadata:
     sort_title: Chernobyl
     url_poster: https://theposterdb.com/api/assets/59900
     tpdb_search: https://theposterdb.com/search?term=Chernobyl&section=shows
+    genre.sync:
+      - Drama
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/59901
@@ -525,6 +594,8 @@ metadata:
     sort_title: Chloe Ting
     url_poster: https://i.imgur.com/F8yezuK.png
     tpdb_search: https://theposterdb.com/search?term=Chloe+Ting&section=shows
+    genre.sync:
+      - Documentary
     seasons:
       2025:
         title: 2025 Weight Loss Challenge
@@ -555,6 +626,8 @@ metadata:
     sort_title: Chowder
     url_poster: https://theposterdb.com/api/assets/429979
     tpdb_search: https://theposterdb.com/search?term=Chowder&section=shows
+    genre.sync:
+      - Animation
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/429980
@@ -568,6 +641,8 @@ metadata:
     sort_title: Common Side Effects
     url_poster: https://theposterdb.com/api/assets/579313
     tpdb_search: https://theposterdb.com/search?term=Common+Side+Effects&section=shows
+    genre.sync:
+      - Animation
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/579314
@@ -577,6 +652,8 @@ metadata:
     sort_title: Cross
     url_poster: https://theposterdb.com/api/assets/542340
     tpdb_search: https://theposterdb.com/search?term=Cross&section=shows
+    genre.sync:
+      - Thriller
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/542341
@@ -586,6 +663,8 @@ metadata:
     sort_title: Curb Your Enthusiasm
     url_poster: https://theposterdb.com/api/assets/182272
     tpdb_search: https://theposterdb.com/search?term=Curb+Your+Enthusiasm&section=shows
+    genre.sync:
+      - Comedy
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/182273
@@ -618,7 +697,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/248652
     tpdb_search: https://theposterdb.com/search?term=Cyberpunk+-+Edgerunners&section=shows
     audio_language: ja-JP
-    genre:
+    genre.sync:
       - Anime
     seasons:
       0:
@@ -637,7 +716,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/470038
     tpdb_search: https://theposterdb.com/search?term=DAN+DA+DAN&section=shows
     audio_language: ja-JP
-    genre:
+    genre.sync:
       - Anime
     seasons:
       0:
@@ -662,6 +741,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/583962
     tpdb_search: https://theposterdb.com/search?term=Daredevil+-+Born+Again&section=shows
     studio: Marvel Studios
+    genre.sync:
+      - Super Hero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/583963
@@ -671,6 +752,9 @@ metadata:
     sort_title: Dark
     url_poster: https://theposterdb.com/api/assets/271626
     tpdb_search: https://theposterdb.com/search?term=Dark&section=shows
+    genre.sync:
+      - Thriller
+      - Science Fiction
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/271627
@@ -684,6 +768,9 @@ metadata:
     sort_title: Dark Matter
     url_poster: https://theposterdb.com/api/assets/481647
     tpdb_search: https://theposterdb.com/search?term=Dark+Matter&section=shows
+    genre.sync:
+      - Thriller
+      - Science Fiction
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/481648
@@ -694,7 +781,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/497213
     tpdb_search: https://theposterdb.com/search?term=DEAD+DEAD+DEMONS+DEDEDEDE+DESTRUCTION&section=shows
     audio_language: ja-JP
-    genre:
+    genre.sync:
       - Anime
     seasons:
       0:
@@ -712,6 +799,9 @@ metadata:
     sort_title: Deadwood
     url_poster: https://theposterdb.com/api/assets/52478
     tpdb_search: https://theposterdb.com/search?term=Deadwood&section=shows
+    genre.sync:
+      - Drama
+      - Action
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/52479
@@ -725,6 +815,8 @@ metadata:
     sort_title: Deli Boys
     url_poster: https://theposterdb.com/api/assets/576312
     tpdb_search: https://theposterdb.com/search?term=Deli+Boys&section=shows
+    genre.sync:
+      - Comedy
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/576313
@@ -732,6 +824,8 @@ metadata:
     label_title: Devil In The Family - The Fall of Ruby Franke
     sort_title: Devil In The Family - The Fall of Ruby Franke
     url_poster: https://theposterdb.com/api/assets/580252
+    genre.sync:
+      - Documentary
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/580252
@@ -741,7 +835,7 @@ metadata:
     sort_title: Devil May Cry
     url_poster: https://theposterdb.com/api/assets/593189
     tpdb_search: https://theposterdb.com/search?term=Devil+May+Cry&section=shows
-    genre:
+    genre.sync:
       - Anime
     seasons:
       0:
@@ -759,6 +853,8 @@ metadata:
     sort_title: 'Dexter: Resurrection'
     url_poster: https://theposterdb.com/api/assets/622997
     tpdb_search: https://theposterdb.com/search?term=Dexter:+Resurrection&section=shows
+    genre.sync:
+      - Thriller
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/622998
@@ -768,6 +864,9 @@ metadata:
     sort_title: Dune - Prophecy
     url_poster: https://theposterdb.com/api/assets/553330
     tpdb_search: https://theposterdb.com/search?term=Dune+-+Prophecy&section=shows
+    genre.sync:
+      - Science Fiction
+      - Action
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/553331
@@ -777,6 +876,8 @@ metadata:
     sort_title: Eastbound & Down
     url_poster: https://theposterdb.com/api/assets/112200
     tpdb_search: https://theposterdb.com/search?term=Eastbound+%26+Down&section=shows
+    genre.sync:
+      - Comedy
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/112201
@@ -793,6 +894,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/452749
     tpdb_search: https://theposterdb.com/search?term=Echo&section=shows
     studio: Marvel Studios
+    genre.sync:
+      - Super Hero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/452750
@@ -803,7 +906,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/417690
     tpdb_search: https://theposterdb.com/search?term=The+Eminence+in+Shadow&section=shows
     audio_language: ja-JP
-    genre:
+    genre.sync:
       - Anime
     seasons:
       1:
@@ -817,6 +920,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/595943
     tpdb_search: https://theposterdb.com/search?term=The+Eternaut&section=shows
     audio_language: es-ES
+    genre.sync:
+      - Science Fiction
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/595944
@@ -827,6 +932,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/518294
     tpdb_search: https://theposterdb.com/search?term=Euphoria+(US)&section=shows
     studio: A24
+    genre.sync:
+      - Drama
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/136955
@@ -840,6 +947,8 @@ metadata:
     sort_title: Expanse
     url_poster: https://theposterdb.com/api/assets/183290
     tpdb_search: https://theposterdb.com/search?term=The+Expanse&section=shows
+    genre.sync:
+      - Science Fiction
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/112862
@@ -862,6 +971,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/630601
     tpdb_search: https://theposterdb.com/search?term=Eyes+of+Wakanda&section=shows
     studio: Marvel Studios
+    genre.sync:
+      - Super Hero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/630602
@@ -872,6 +983,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/144090
     tpdb_search: https://theposterdb.com/search?term=The+Falcon+and+The+Winter+Soldier&section=shows
     studio: Marvel Studios
+    genre.sync:
+      - Super Hero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/144091
@@ -879,6 +992,8 @@ metadata:
     label_title: The Fall of Diddy
     sort_title: Fall of Diddy
     url_poster: https://theposterdb.com/api/assets/576845
+    genre.sync:
+      - Documentary
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/576846
@@ -889,6 +1004,9 @@ metadata:
     url_poster: https://api.mediux.pro/assets/17ee2e86-d38a-41e4-8cc5-9abe295908be
     tpdb_search: https://theposterdb.com/search?term=Fallout&section=shows
     url_background: https://api.mediux.pro/assets/ed7033d0-3bcf-4449-bcba-72721e00ac9c
+    genre.sync:
+      - Science Fiction
+      - Action
     seasons:
       1:
         url_poster: https://api.mediux.pro/assets/d40e75a1-159e-43cf-aaa7-d62ed808fa1b
@@ -915,6 +1033,8 @@ metadata:
     sort_title: Fellow Travelers
     url_poster: https://theposterdb.com/api/assets/420146
     tpdb_search: https://theposterdb.com/search?term=Fellow+Travelers&section=shows
+    genre.sync:
+      - Drama
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/420147
@@ -924,6 +1044,8 @@ metadata:
     sort_title: Fleabag
     url_poster: https://theposterdb.com/api/assets/123805
     tpdb_search: https://theposterdb.com/search?term=Fleabag&section=shows
+    genre.sync:
+      - Drama
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/123806
@@ -935,6 +1057,8 @@ metadata:
     sort_title: Flintstones
     url_poster: https://theposterdb.com/api/assets/166414
     tpdb_search: https://theposterdb.com/search?term=The+Flintstones&section=shows
+    genre.sync:
+      - Animation
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/166415
@@ -957,7 +1081,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/425488
     tpdb_search: https://theposterdb.com/search?term=Fog+Hill+of+Five+Elements&section=shows
     audio_language: zh-CN
-    genre:
+    genre.sync:
       - Anime
     seasons:
       1:
@@ -970,6 +1094,9 @@ metadata:
     sort_title: Foundation (2021)
     url_poster: https://theposterdb.com/api/assets/182327
     tpdb_search: https://theposterdb.com/search?term=Foundation+(2021)&section=shows
+    genre.sync:
+      - Science Fiction
+      - Drama
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/182328
@@ -981,6 +1108,8 @@ metadata:
     sort_title: FROM
     url_poster: https://theposterdb.com/api/assets/214022
     tpdb_search: https://theposterdb.com/search?term=FROM&section=shows
+    genre.sync:
+      - Horror
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/214023
@@ -995,7 +1124,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/624432
     tpdb_search: https://theposterdb.com/search?term=Gachiakuta&section=shows
     audio_language: ja-JP
-    genre:
+    genre.sync:
       - Anime
     seasons:
       0:
@@ -1013,6 +1142,8 @@ metadata:
     sort_title: Game Changer
     url_poster: https://theposterdb.com/api/assets/585995
     tpdb_search: https://theposterdb.com/search?term=Game+Changer&section=shows
+    genre.sync:
+      - Comedy
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/585996
@@ -1036,6 +1167,9 @@ metadata:
     sort_title: Game of Thrones
     url_poster: https://theposterdb.com/api/assets/225917
     tpdb_search: https://theposterdb.com/search?term=Game+of+Thrones&section=shows
+    genre.sync:
+      - Fantasy
+      - Action
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/225918
@@ -1061,6 +1195,9 @@ metadata:
     sort_title: Gen V
     url_poster: https://theposterdb.com/api/assets/409216
     tpdb_search: https://theposterdb.com/search?term=Gen+V&section=shows
+    genre.sync:
+      - Super Hero
+      - Action
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/409217
@@ -1070,6 +1207,9 @@ metadata:
     sort_title: Gentlemen
     url_poster: https://theposterdb.com/api/assets/475194
     tpdb_search: https://theposterdb.com/search?term=The+Gentlemen&section=shows
+    genre.sync:
+      - Action
+      - Comedy
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/475195
@@ -1079,6 +1219,8 @@ metadata:
     sort_title: Good American Family
     url_poster: https://theposterdb.com/api/assets/581331
     tpdb_search: https://theposterdb.com/search?term=Good+American+Family&section=shows
+    genre.sync:
+      - Drama
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/581332
@@ -1088,6 +1230,8 @@ metadata:
     sort_title: Goosebumps
     url_poster: https://theposterdb.com/api/assets/552275
     tpdb_search: https://theposterdb.com/search?term=Goosebumps&section=shows
+    genre.sync:
+      - Horror
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/552276
@@ -1099,6 +1243,8 @@ metadata:
     sort_title: Gravity Falls
     url_poster: https://theposterdb.com/api/assets/16953
     tpdb_search: https://theposterdb.com/search?term=Gravity+Falls&section=shows
+    genre.sync:
+      - Animation
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/16954
@@ -1113,6 +1259,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/191855
     tpdb_search: https://theposterdb.com/search?term=Hawkeye&section=shows
     studio: Marvel Studios
+    genre.sync:
+      - Super Hero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/191856
@@ -1123,6 +1271,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/518308
     tpdb_search: https://theposterdb.com/search?term=Hazbin+Hotel&section=shows
     studio: A24
+    genre.sync:
+      - Animation
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/445793
@@ -1133,7 +1283,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/341624
     tpdb_search: https://theposterdb.com/search?term=Hells+Paradise&section=shows
     audio_language: ja-JP
-    genre:
+    genre.sync:
       - Anime
     seasons:
       0:
@@ -1154,6 +1304,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/146514
     tpdb_search: https://theposterdb.com/search?term=Helstrom&section=shows
     studio: Marvel Studios
+    genre.sync:
+      - Super Hero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/146515
@@ -1163,6 +1315,9 @@ metadata:
     sort_title: House of the Dragon
     url_poster: https://theposterdb.com/api/assets/248668
     tpdb_search: https://theposterdb.com/search?term=House+of+the+Dragon&section=shows
+    genre.sync:
+      - Fantasy
+      - Action
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/294073
@@ -1177,7 +1332,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/543197
     tpdb_search: https://theposterdb.com/search?term=Housing+Complex+C&section=shows
     audio_language: ja-JP
-    genre:
+    genre.sync:
       - Anime
     seasons:
       1:
@@ -1188,6 +1343,8 @@ metadata:
     sort_title: Hunting Wives
     url_poster: https://theposterdb.com/api/assets/624510
     tpdb_search: https://theposterdb.com/search?term=The+Hunting+Wives&section=shows
+    genre.sync:
+      - Drama
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/624511
@@ -1198,6 +1355,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/263970
     tpdb_search: https://theposterdb.com/search?term=I+Am+Groot&section=shows
     studio: Marvel Studios
+    genre.sync:
+      - Super Hero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/263971
@@ -1209,6 +1368,8 @@ metadata:
     sort_title: I Think You Should Leave with Tim Robinson
     url_poster: https://theposterdb.com/api/assets/368550
     tpdb_search: https://theposterdb.com/search?term=I+Think+You+Should+Leave+with+Tim+Robinson&section=shows
+    genre.sync:
+      - Comedy
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/368551
@@ -1222,6 +1383,8 @@ metadata:
     sort_title: Invincible
     url_poster: https://theposterdb.com/api/assets/422189
     tpdb_search: https://theposterdb.com/search?term=Invincible&section=shows
+    genre.sync:
+      - Animation
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/422190
@@ -1238,15 +1401,19 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/609122
     tpdb_search: https://theposterdb.com/search?term=Ironheart&section=shows
     studio: Marvel Studios
+    genre.sync:
+      - Super Hero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/609123
   75805:
-    label_title: It's Always Sunny in Philadelphia
+    label_title: "It's Always Sunny in Philadelphia"
     release_year: '2005'
-    sort_title: It's Always Sunny in Philadelphia
+    sort_title: "It's Always Sunny in Philadelphia"
     url_poster: https://theposterdb.com/api/assets/150028
     tpdb_search: https://theposterdb.com/search?term=It's+Always+Sunny+in+Philadelphia&section=shows
+    genre.sync:
+      - Comedy
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/150029
@@ -1288,6 +1455,8 @@ metadata:
     sort_title: "Ja'mie - Private School Girl"
     url_poster: https://theposterdb.com/api/assets/630696
     tpdb_search: "https://theposterdb.com/search?term=Ja'mie+-+Private+School+Girl&section=shows"
+    genre.sync:
+      - Comedy
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/630696
@@ -1297,6 +1466,9 @@ metadata:
     sort_title: Jersey Shore
     url_poster: https://theposterdb.com/api/assets/318818
     tpdb_search: https://theposterdb.com/search?term=Jersey+Shore&section=shows
+    genre.sync:
+      - Drama
+      - Reality
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/318819
@@ -1318,6 +1490,8 @@ metadata:
     sort_title: Jetsons
     url_poster: https://theposterdb.com/api/assets/219943
     tpdb_search: https://theposterdb.com/search?term=The+Jetsons&section=shows
+    genre.sync:
+      - Animation
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/219944
@@ -1333,6 +1507,8 @@ metadata:
     sort_title: Jury Duty
     url_poster: https://theposterdb.com/api/assets/343805
     tpdb_search: https://theposterdb.com/search?term=Jury+Duty&section=shows
+    genre.sync:
+      - Comedy
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/343806
@@ -1342,6 +1518,9 @@ metadata:
     sort_title: Justified
     url_poster: https://theposterdb.com/api/assets/139929
     tpdb_search: https://theposterdb.com/search?term=Justified&section=shows
+    genre.sync:
+      - Action
+      - Drama
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/139930
@@ -1362,7 +1541,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/420286
     tpdb_search: https://theposterdb.com/search?term=Kaiju+No.+8&section=shows
     audio_language: ja-JP
-    genre:
+    genre.sync:
       - Anime
     seasons:
       0:
@@ -1382,6 +1561,8 @@ metadata:
     sort_title: Kings of Tupelo - A Southern Crime Saga
     url_poster: https://theposterdb.com/api/assets/630697
     tpdb_search: https://theposterdb.com/search?term=The+Kings+of+Tupelo+-+A+Southern+Crime+Saga&section=shows
+    genre.sync:
+      - Documentary
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/630697
@@ -1391,6 +1572,8 @@ metadata:
     sort_title: Landman
     url_poster: https://theposterdb.com/api/assets/554960
     tpdb_search: https://theposterdb.com/search?term=Landman&section=shows
+    genre.sync:
+      - Drama
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/554961
@@ -1398,6 +1581,8 @@ metadata:
     title: The Last Man on Earth
     sort_title: Last Man on Earth
     url_poster: https://theposterdb.com/api/assets/215608
+    genre.sync:
+      - Comedy
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/215609
@@ -1413,6 +1598,9 @@ metadata:
     sort_title: Last of Us
     url_poster: https://theposterdb.com/api/assets/362425
     tpdb_search: https://theposterdb.com/search?term=The+Last+of+Us&section=shows
+    genre.sync:
+      - Action
+      - Science Fiction
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/362426
@@ -1427,6 +1615,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/152214
     tpdb_search: https://theposterdb.com/search?term=Legion&section=shows
     studio: Marvel Studios
+    genre.sync:
+      - Super Hero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/152215
@@ -1440,6 +1630,9 @@ metadata:
     sort_title: Leviathan
     url_poster: https://theposterdb.com/api/assets/623897
     tpdb_search: https://theposterdb.com/search?term=Leviathan&section=shows
+    audio_language: ja-JP
+    genre.sync:
+      - Anime
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/623898
@@ -1449,6 +1642,8 @@ metadata:
     sort_title: Like Water for Chocolate
     url_poster: https://theposterdb.com/api/assets/539204
     tpdb_search: https://theposterdb.com/search?term=Like+Water+for+Chocolate&section=shows
+    genre.sync:
+      - Drama
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/539205
@@ -1459,7 +1654,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/205595
     tpdb_search: https://theposterdb.com/search?term=Link+Click&section=shows
     audio_language: zh-CN
-    genre:
+    genre.sync:
       - Anime
     seasons:
       0:
@@ -1476,6 +1671,8 @@ metadata:
     sort_title: Lioness
     url_poster: https://theposterdb.com/api/assets/538042
     tpdb_search: https://theposterdb.com/search?term=Lioness&section=shows
+    genre.sync:
+      - Thriller
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/538043
@@ -1488,6 +1685,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/152226
     tpdb_search: https://theposterdb.com/search?term=Loki&section=shows
     studio: Marvel Studios
+    genre.sync:
+      - Super Hero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/152227
@@ -1499,6 +1698,8 @@ metadata:
     sort_title: Looney Tunes
     url_poster: https://artworks.thetvdb.com/banners/posters/72514-7.jpg
     tpdb_search: https://theposterdb.com/search?term=Looney+Tunes&section=shows
+    genre.sync:
+      - Animation
     seasons:
       1929:
         url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1929-2.jpg
@@ -1649,7 +1850,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/619039
     tpdb_search: https://theposterdb.com/search?term=Lord+of+Mysteries&section=shows
     audio_language: zh-CN
-    genre:
+    genre.sync:
       - Anime
     seasons:
       0:
@@ -1662,6 +1863,9 @@ metadata:
     sort_title: Lord of the Rings - The Rings of Power
     url_poster: https://theposterdb.com/api/assets/210733
     tpdb_search: https://theposterdb.com/search?term=The+Lord+of+the+Rings+-+The+Rings+of+Power&section=shows
+    genre.sync:
+      - Fantasy
+      - Action
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/265779
@@ -1675,6 +1879,9 @@ metadata:
     sort_title: Love Is Blind
     url_poster: https://theposterdb.com/api/assets/574135
     tpdb_search: https://theposterdb.com/search?term=Love+Is+Blind&section=shows
+    genre.sync:
+      - Drama
+      - Reality
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/574136
@@ -1700,6 +1907,9 @@ metadata:
     sort_title: Love Island
     url_poster: https://theposterdb.com/api/assets/385373
     tpdb_search: https://theposterdb.com/search?term=Love+Island&section=shows
+    genre.sync:
+      - Drama
+      - Reality
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/385374
@@ -1731,6 +1941,9 @@ metadata:
     sort_title: Love Island Australia
     url_poster: https://theposterdb.com/api/assets/538480
     tpdb_search: https://theposterdb.com/search?term=Love+Island+Australia&section=shows
+    genre.sync:
+      - Drama
+      - Reality
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/538481
@@ -1750,6 +1963,9 @@ metadata:
     sort_title: Love Island US
     url_poster: https://theposterdb.com/api/assets/389968
     tpdb_search: https://theposterdb.com/search?term=Love+Island+US&section=shows
+    genre.sync:
+      - Drama
+      - Reality
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/612123
@@ -1771,6 +1987,9 @@ metadata:
     sort_title: Love on the Spectrum U.S.
     url_poster: https://theposterdb.com/api/assets/589774
     tpdb_search: https://theposterdb.com/search?term=Love+on+the+Spectrum+U.S.&section=shows
+    genre.sync:
+      - Drama
+      - Reality
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/589775
@@ -1785,6 +2004,9 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/233565
     tpdb_search: https://theposterdb.com/search?term=Love,+Death+%26+Robots&section=shows
     url_background: https://api.mediux.pro/assets/279fc1e3-ff46-44af-8f08-61df2a5db98b
+    genre.sync:
+      - Science Fiction
+      - Animation
     seasons:
       1:
         url_poster: https://api.mediux.pro/assets/243d58f9-c8a8-4d7c-b40e-98a528fbb7fa
@@ -1895,7 +2117,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/237542
     tpdb_search: https://theposterdb.com/search?term=Made+in+Abyss&section=shows
     audio_language: ja-JP
-    genre:
+    genre.sync:
       - Anime
     seasons:
       0:
@@ -1908,6 +2130,9 @@ metadata:
     title: The Magicians
     sort_title: Magicians
     url_poster: https://theposterdb.com/api/assets/35250
+    genre.sync:
+      - Fantasy
+      - Action
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/35251
@@ -1925,6 +2150,8 @@ metadata:
     sort_title: Make Some Noise
     url_poster: https://theposterdb.com/api/assets/537707
     tpdb_search: https://theposterdb.com/search?term=Make+Some+Noise&section=shows
+    genre.sync:
+      - Comedy
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/585974
@@ -1940,6 +2167,9 @@ metadata:
     sort_title: Mandalorian
     url_poster: https://theposterdb.com/api/assets/133754
     tpdb_search: https://theposterdb.com/search?term=The+Mandalorian&section=shows
+    genre.sync:
+      - Science Fiction
+      - Action
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/133755
@@ -1948,22 +2178,28 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/310986
   281485:
-    label_title: Marvel's Agent Carter
+    label_title: "Marvel's Agent Carter"
     release_year: '2015'
-    sort_title: Marvel's Agent Carter
+    sort_title: "Marvel's Agent Carter"
     url_poster: https://theposterdb.com/api/assets/145236
-    tpdb_search: https://theposterdb.com/search?term=Marvel's+Agent+Carter&section=shows
+    tpdb_search: "https://theposterdb.com/search?term=Marvel's+Agent+Carter&section=shows"
     studio: Marvel Studios
+    genre.sync:
+      - Super Hero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/145237
       2:
         url_poster: https://theposterdb.com/api/assets/145238
   263365:
-    label_title: Marvel's Agents of S.H.I.E.L.D.
-    sort_title: Marvel's Agents of S.H.I.E.L.D.
+    label_title: "Marvel's Agents of S.H.I.E.L.D."
+    release_year: '2013'
+    sort_title: "Marvel's Agents of S.H.I.E.L.D."
     url_poster: https://theposterdb.com/api/assets/87635
+    tpdb_search: "https://theposterdb.com/search?term=Marvel's+Agents+of+S.H.I.E.L.D.&section=shows"
     studio: Marvel Studios
+    genre.sync:
+      - Super Hero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/87636
@@ -1980,24 +2216,28 @@ metadata:
       7:
         url_poster: https://theposterdb.com/api/assets/87642
   341455:
-    label_title: Marvel's Cloak & Dagger
+    label_title: "Marvel's Cloak & Dagger"
     release_year: '2018'
-    sort_title: Marvel's Cloak & Dagger
+    sort_title: "Marvel's Cloak & Dagger"
     url_poster: https://theposterdb.com/api/assets/144047
-    tpdb_search: https://theposterdb.com/search?term=Marvel's+Cloak+%26+Dagger&section=shows
+    tpdb_search: "https://theposterdb.com/search?term=Marvel's+Cloak+%26+Dagger&section=shows"
     studio: Marvel Studios
+    genre.sync:
+      - Super Hero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/144048
       2:
         url_poster: https://theposterdb.com/api/assets/144049
   281662:
-    label_title: Marvel's Daredevil
+    label_title: "Marvel's Daredevil"
     release_year: '2015'
-    sort_title: Marvel's Daredevil
+    sort_title: "Marvel's Daredevil"
     url_poster: https://theposterdb.com/api/assets/146524
-    tpdb_search: https://theposterdb.com/search?term=Marvel's+Daredevil&section=shows
+    tpdb_search: "https://theposterdb.com/search?term=Marvel's+Daredevil&section=shows"
     studio: Marvel Studios
+    genre.sync:
+      - Super Hero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/146525
@@ -2006,34 +2246,40 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/146527
   320558:
-    label_title: Marvel's Inhumans
+    label_title: "Marvel's Inhumans"
     release_year: '2017'
-    sort_title: Marvel's Inhumans
+    sort_title: "Marvel's Inhumans"
     url_poster: https://theposterdb.com/api/assets/146518
-    tpdb_search: https://theposterdb.com/search?term=Marvel's+Inhumans&section=shows
+    tpdb_search: "https://theposterdb.com/search?term=Marvel's+Inhumans&section=shows"
     studio: Marvel Studios
+    genre.sync:
+      - Super Hero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/146519
   317953:
-    label_title: Marvel's Iron Fist
+    label_title: "Marvel's Iron Fist"
     release_year: '2017'
-    sort_title: Marvel's Iron Fist
+    sort_title: "Marvel's Iron Fist"
     url_poster: https://theposterdb.com/api/assets/146795
-    tpdb_search: https://theposterdb.com/search?term=Marvel's+Iron+Fist&section=shows
+    tpdb_search: "https://theposterdb.com/search?term=Marvel's+Iron+Fist&section=shows"
     studio: Marvel Studios
+    genre.sync:
+      - Super Hero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/146796
       2:
         url_poster: https://theposterdb.com/api/assets/146797
   284190:
-    label_title: Marvel's Jessica Jones
+    label_title: "Marvel's Jessica Jones"
     release_year: '2015'
-    sort_title: Marvel's Jessica Jones
+    sort_title: "Marvel's Jessica Jones"
     url_poster: https://theposterdb.com/api/assets/146669
-    tpdb_search: https://theposterdb.com/search?term=Marvel's+Jessica+Jones&section=shows
+    tpdb_search: "https://theposterdb.com/search?term=Marvel's+Jessica+Jones&section=shows"
     studio: Marvel Studios
+    genre.sync:
+      - Super Hero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/146670
@@ -2042,24 +2288,28 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/146672
   304219:
-    label_title: Marvel's Luke Cage
+    label_title: "Marvel's Luke Cage"
     release_year: '2016'
-    sort_title: Marvel's Luke Cage
-    url_poster: https://theposterdb.com/api/assets/146779
-    tpdb_search: https://theposterdb.com/search?term=Marvel's+Luke+Cage&section=shows
+    sort_title: "Marvel's Luke Cage"
+    url_poster: "https://theposterdb.com/api/assets/146779"
+    tpdb_search: "https://theposterdb.com/search?term=Marvel's+Luke+Cage&section=shows"
     studio: Marvel Studios
+    genre.sync:
+      - Super Hero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/146780
       2:
         url_poster: https://theposterdb.com/api/assets/146781
   332027:
-    label_title: Marvel's Runaways
+    label_title: "Marvel's Runaways"
     release_year: '2017'
-    sort_title: Marvel's Runaways
+    sort_title: "Marvel's Runaways"
     url_poster: https://theposterdb.com/api/assets/144039
-    tpdb_search: https://theposterdb.com/search?term=Marvel's+Runaways&section=shows
+    tpdb_search: "https://theposterdb.com/search?term=Marvel's+Runaways&section=shows"
     studio: Marvel Studios
+    genre.sync:
+      - Super Hero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/144040
@@ -2068,22 +2318,26 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/144042
   326490:
-    label_title: Marvel's The Defenders
+    label_title: "Marvel's The Defenders"
     release_year: '2017'
-    sort_title: Marvel's The Defenders
+    sort_title: "Marvel's The Defenders"
     url_poster: https://theposterdb.com/api/assets/149157
-    tpdb_search: https://theposterdb.com/search?term=Marvel's+The+Defenders&section=shows
+    tpdb_search: "https://theposterdb.com/search?term=Marvel's+The+Defenders&section=shows"
     studio: Marvel Studios
+    genre.sync:
+      - Super Hero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/149158
   331980:
-    label_title: Marvel's The Punisher
+    label_title: "Marvel's The Punisher"
     release_year: '2017'
-    sort_title: Marvel's The Punisher
+    sort_title: "Marvel's The Punisher"
     url_poster: https://theposterdb.com/api/assets/146924
-    tpdb_search: https://theposterdb.com/search?term=Marvel's+The+Punisher&section=shows
+    tpdb_search: "https://theposterdb.com/search?term=Marvel's+The+Punisher&section=shows"
     studio: Marvel Studios
+    genre.sync:
+      - Super Hero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/146925
@@ -2095,6 +2349,8 @@ metadata:
     sort_title: Marvelous Misadventures of Flapjack
     url_poster: https://theposterdb.com/api/assets/560441
     tpdb_search: https://theposterdb.com/search?term=The+Marvelous+Misadventures+of+Flapjack&section=shows
+    genre.sync:
+      - Animation
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/182523
@@ -2106,6 +2362,8 @@ metadata:
     title: Mayans M.C.
     sort_title: Mayans M.C.
     url_poster: https://theposterdb.com/api/assets/227471
+    genre.sync:
+      - Drama
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/227472
@@ -2123,7 +2381,8 @@ metadata:
     sort_title: Midnight Gospel
     url_poster: https://theposterdb.com/api/assets/149885
     tpdb_search: https://theposterdb.com/search?term=The+Midnight+Gospel&section=shows
-    seasons:
+    genre.sync:
+      - Animation
       1:
         url_poster: https://theposterdb.com/api/assets/149886
   422598:
@@ -2132,6 +2391,9 @@ metadata:
     sort_title: Monarch - Legacy of Monsters
     url_poster: https://theposterdb.com/api/assets/408312
     tpdb_search: https://theposterdb.com/search?term=Monarch+-+Legacy+of+Monsters&section=shows
+    genre.sync:
+      - Action
+      - Science Fiction
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/408313
@@ -2142,6 +2404,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/224409
     tpdb_search: https://theposterdb.com/search?term=Moon+Knight&section=shows
     studio: Marvel Studios
+    genre.sync:
+      - Super Hero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/224410
@@ -2152,7 +2416,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/590567
     tpdb_search: https://theposterdb.com/search?term=Moonrise&section=shows
     audio_language: ja-JP
-    genre:
+    genre.sync:
       - Anime
     seasons:
       1:
@@ -2164,6 +2428,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/243986
     tpdb_search: https://theposterdb.com/search?term=Ms.+Marvel&section=shows
     studio: Marvel Studios
+    genre.sync:
+      - Super Hero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/243987
@@ -2174,6 +2440,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/630699
     tpdb_search: https://theposterdb.com/search?term=Mucha+Lucha&section=shows
     episode_ordering: tmdb_aired
+    genre.sync:
+      - Animation
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/630700
@@ -2187,6 +2455,9 @@ metadata:
     sort_title: Murderbot
     url_poster: https://theposterdb.com/api/assets/595941
     tpdb_search: https://theposterdb.com/search?term=Murderbot&section=shows
+    genre.sync:
+      - Action
+      - Comedy
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/595942
@@ -2196,6 +2467,9 @@ metadata:
     sort_title: Mythic Quest
     url_poster: https://theposterdb.com/api/assets/82488
     tpdb_search: https://theposterdb.com/search?term=Mythic+Quest&section=shows
+    genre.sync:
+      - Drama
+      - Comedy
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/82489
@@ -2211,6 +2485,8 @@ metadata:
     label_title: Narcos
     sort_title: Narcos
     url_poster: https://theposterdb.com/api/assets/44816
+    genre.sync:
+      - Drama
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/44817
@@ -2224,6 +2500,8 @@ metadata:
     sort_title: Nathan for You
     url_poster: https://theposterdb.com/api/assets/250156
     tpdb_search: https://theposterdb.com/search?term=Nathan+for+You&section=shows
+    genre.sync:
+      - Comedy
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/261914
@@ -2242,7 +2520,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/108409
     tpdb_search: https://theposterdb.com/search?term=Neon+Genesis+Evangelion&section=shows
     audio_language: ja-JP
-    genre:
+    genre.sync:
       - Anime
     seasons:
       0:
@@ -2253,6 +2531,8 @@ metadata:
     label_title: The Night Agent
     sort_title: Night Agent
     url_poster: https://theposterdb.com/api/assets/332289
+    genre.sync:
+      - Thriller
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/332290
@@ -2265,7 +2545,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/450275
     tpdb_search: https://theposterdb.com/search?term=Ninja+Kamui&section=shows
     audio_language: ja-JP
-    genre:
+    genre.sync:
       - Anime
     seasons:
       1:
@@ -2276,6 +2556,9 @@ metadata:
     sort_title: Obi-Wan Kenobi
     url_poster: https://theposterdb.com/api/assets/211933
     tpdb_search: https://theposterdb.com/search?term=Obi-Wan+Kenobi&section=shows
+    genre.sync:
+      - Science Fiction
+      - Anime
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/232701
@@ -2285,6 +2568,8 @@ metadata:
     sort_title: Office (US)
     url_poster: https://theposterdb.com/api/assets/62490
     tpdb_search: https://theposterdb.com/search?term=The+Office+(US)&section=shows
+    genre.sync:
+      - Comedy
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/62491
@@ -2313,7 +2598,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/627266
     tpdb_search: https://theposterdb.com/search?term=Orb+-+On+the+Movements+of+the+Earth&section=shows
     audio_language: ja-JP
-    genre:
+    genre.sync:
       - Anime
     seasons:
       0:
@@ -2331,6 +2616,9 @@ metadata:
     sort_title: Outlander
     url_poster: https://theposterdb.com/api/assets/120908
     tpdb_search: https://theposterdb.com/search?term=Outlander&section=shows
+    genre.sync:
+      - Fantasy
+      - Drama
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/120909
@@ -2354,6 +2642,8 @@ metadata:
     sort_title: Pantheon
     url_poster: https://theposterdb.com/api/assets/263743
     tpdb_search: https://theposterdb.com/search?term=Pantheon&section=shows
+    genre.sync:
+      - Animation
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/263744
@@ -2365,6 +2655,8 @@ metadata:
     sort_title: Paradise
     url_poster: https://theposterdb.com/api/assets/563099
     tpdb_search: https://theposterdb.com/search?term=Paradise&section=shows
+    genre.sync:
+      - Thriller
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/563100
@@ -2374,6 +2666,8 @@ metadata:
     sort_title: Parks and Recreation
     url_poster: https://theposterdb.com/api/assets/125115
     tpdb_search: https://theposterdb.com/search?term=Parks+and+Recreation&section=shows
+    genre.sync:
+      - Comedy
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/125116
@@ -2397,6 +2691,9 @@ metadata:
     sort_title: Peaky Blinders
     url_poster: https://theposterdb.com/api/assets/211777
     tpdb_search: https://theposterdb.com/search?term=Peaky+Blinders&section=shows
+    genre.sync:
+      - Drama
+      - Action
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/211778
@@ -2418,6 +2715,8 @@ metadata:
     sort_title: Penguin
     url_poster: https://theposterdb.com/api/assets/526094
     tpdb_search: https://theposterdb.com/search?term=The+Penguin&section=shows
+    genre.sync:
+      - Super Hero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/526095
@@ -2427,6 +2726,9 @@ metadata:
     sort_title: Percy Jackson and the Olympians
     url_poster: https://theposterdb.com/api/assets/436046
     tpdb_search: https://theposterdb.com/search?term=Percy+Jackson+and+the+Olympians&section=shows
+    genre.sync:
+      - Fantasy
+      - Action
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/436047
@@ -2436,6 +2738,9 @@ metadata:
     sort_title: Peripheral
     url_poster: https://theposterdb.com/api/assets/272841
     tpdb_search: https://theposterdb.com/search?term=The+Peripheral&section=shows
+    genre.sync:
+      - Science Fiction
+      - Thriller
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/272842
@@ -2445,6 +2750,8 @@ metadata:
     sort_title: Pitt
     url_poster: https://theposterdb.com/api/assets/583993
     tpdb_search: https://theposterdb.com/search?term=The+Pitt&section=shows
+    genre.sync:
+      - Drama
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/583994
@@ -2452,6 +2759,8 @@ metadata:
     title: The Pradeeps of Pittsburgh
     sort_title: Pradeeps of Pittsburgh
     url_poster: https://theposterdb.com/api/assets/539122
+    genre.sync:
+      - Comedy
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/539123
@@ -2463,6 +2772,8 @@ metadata:
     sort_title: Prehistoric Planet
     url_poster: https://theposterdb.com/api/assets/237269
     tpdb_search: https://theposterdb.com/search?term=Prehistoric+Planet&section=shows
+    genre.sync:
+      - Documentary
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/237270
@@ -2474,6 +2785,8 @@ metadata:
     sort_title: Prison Break
     url_poster: https://theposterdb.com/api/assets/135372
     tpdb_search: https://theposterdb.com/search?term=Prison+Break&section=shows
+    genre.sync:
+      - Drama
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/135471
@@ -2486,11 +2799,13 @@ metadata:
       5:
         url_poster: https://theposterdb.com/api/assets/135475
   387115:
-    label_title: The Queen's Gambit
+    label_title: "The Queen's Gambit"
     release_year: '2020'
-    sort_title: Queen's Gambit
+    sort_title: "Queen's Gambit"
     url_poster: https://theposterdb.com/api/assets/111129
-    tpdb_search: https://theposterdb.com/search?term=The+Queen's+Gambit&section=shows
+    tpdb_search: "https://theposterdb.com/search?term=The+Queen's+Gambit&section=shows"
+    genre.sync:
+      - Drama
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/111130
@@ -2500,6 +2815,8 @@ metadata:
     sort_title: Reacher
     url_poster: https://theposterdb.com/api/assets/206782
     tpdb_search: https://theposterdb.com/search?term=Reacher&section=shows
+    genre.sync:
+      - Action
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/206783
@@ -2513,6 +2830,8 @@ metadata:
     sort_title: Rehearsal
     url_poster: https://theposterdb.com/api/assets/302346
     tpdb_search: https://theposterdb.com/search?term=The+Rehearsal&section=shows
+    genre.sync:
+      - Comedy
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/302347
@@ -2524,6 +2843,8 @@ metadata:
     sort_title: Reno 911!
     url_poster: https://theposterdb.com/api/assets/100152
     tpdb_search: https://theposterdb.com/search?term=Reno+911!&section=shows
+    genre.sync:
+      - Comedy
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/100153
@@ -2543,6 +2864,8 @@ metadata:
     sort_title: Rick and Morty
     url_poster: https://theposterdb.com/api/assets/168176
     tpdb_search: https://theposterdb.com/search?term=Rick+and+Morty&section=shows
+    genre.sync:
+      - Animation
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/168177
@@ -2569,7 +2892,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/516691
     tpdb_search: https://theposterdb.com/search?term=Rick+and+Morty+-+The+Anime&section=shows
     audio_language: ja-JP
-    genre:
+    genre.sync:
       - Anime
     seasons:
       1:
@@ -2580,6 +2903,8 @@ metadata:
     sort_title: Righteous Gemstones
     url_poster: https://theposterdb.com/api/assets/138364
     tpdb_search: https://theposterdb.com/search?term=The+Righteous+Gemstones&section=shows
+    genre.sync:
+      - Comedy
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/604765
@@ -2621,7 +2946,7 @@ metadata:
     sort_title: Sakamoto Days
     url_poster: https://theposterdb.com/api/assets/561171
     audio_language: ja-JP
-    genre:
+    genre.sync:
       - Anime
     seasons:
       0:
@@ -2635,6 +2960,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/603061
     tpdb_search: https://theposterdb.com/search?term=Salad+Fingers&section=shows
     summary: The surreal life of Salad Fingers, an unknown creature living in an apocalyptic wasteland.
+    genre.sync:
+      - Animation
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/602743
@@ -2656,7 +2983,7 @@ metadata:
             summary: Salad Fingers tries to find the perfect spoon.
           2:
             title: Friends
-            summary: Salad Fingers has a few friends over for a fish supper that he's preparing. Marjory Stewart-Baxter tastes the best because she bathes in essential oils. Hubert is a right dirty sod because he hangs out in chimneys.
+            summary: "Salad Fingers has a few friends over for a fish supper that he's preparing. Marjory Stewart-Baxter tastes the best because she bathes in essential oils. Hubert is a right dirty sod because he hangs out in chimneys."
           3:
             title: Nettles
             summary: Salad Fingers finds great pleasure in a magical plant.
@@ -2671,7 +2998,7 @@ metadata:
             summary: Salad Fingers receives a gift from an old friend.
           7:
             title: Shore Leave
-            summary: Salad Fingers' brother returns from The Great War.
+            summary: "Salad Fingers' brother returns from The Great War."
           8:
             title: Cupboard
             summary: Salad Fingers receives some unpleasant frequencies from his radio.
@@ -2680,13 +3007,13 @@ metadata:
             summary: Salad Fingers receives a letter from the great war.
           10:
             title: Birthday
-            summary: It's Hubert Cumberdale's Birthday but Milford Cubicle isn't feeling so well.
+            summary: "It's Hubert Cumberdale's Birthday but Milford Cubicle isn't feeling so well."
           11:
             title: Glass Brother
             summary: Salad Fingers decides it’s time for Hubert Cumberdale to become a real boy.
           12:
             title: Postman
-            summary: Salad Fingers goes out on his local postal rounds - and then back to the "postal counting house".
+            summary: 'Salad Fingers goes out on his local postal rounds - and then back to the "postal counting house".'
           13:
             title: Harvest
             summary: Salad Fingers is facing a food shortage due to a failed crop. His only hope is to pray to Grandmother Growth.
@@ -2696,6 +3023,9 @@ metadata:
     sort_title: Sandman
     url_poster: https://theposterdb.com/api/assets/257146
     tpdb_search: https://theposterdb.com/search?term=The+Sandman&section=shows
+    genre.sync:
+      - Super Hero
+      - Fantasy
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/257147
@@ -2707,6 +3037,8 @@ metadata:
     sort_title: Scavengers Reign
     url_poster: https://theposterdb.com/api/assets/474776
     tpdb_search: https://theposterdb.com/search?term=Scavengers+Reign&section=shows
+    genre.sync:
+      - Animation
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/474777
@@ -2716,6 +3048,8 @@ metadata:
     sort_title: Scooby-Doo, Where Are You!
     url_poster: https://theposterdb.com/api/assets/165160
     tpdb_search: https://theposterdb.com/search?term=Scooby-Doo,+Where+Are+You!&section=shows
+    genre.sync:
+      - Animation
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/165161
@@ -2731,6 +3065,9 @@ metadata:
     sort_title: Secret Circle
     url_poster: https://theposterdb.com/api/assets/96990
     tpdb_search: https://theposterdb.com/search?term=The+Secret+Circle&section=shows
+    genre.sync:
+      - Fantasy
+      - Drama
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/96991
@@ -2741,6 +3078,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/379998
     tpdb_search: https://theposterdb.com/search?term=Secret+Invasion&section=shows
     studio: Marvel Studios
+    genre.sync:
+      - Super Hero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/379999
@@ -2751,6 +3090,10 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/549286
     tpdb_search: https://theposterdb.com/search?term=Secret+Level&section=shows
     url_background: https://api.mediux.pro/assets/f0b9502f-37f2-4733-a3f2-8257836e72a5
+    genre.sync:
+      - Animation
+      - Science Fiction
+      - Action
     seasons:
       1:
         url_poster: https://api.mediux.pro/assets/5ef68668-4b10-4486-9a46-e69fd14bdddb
@@ -2791,6 +3134,9 @@ metadata:
     sort_title: Severance
     url_poster: https://theposterdb.com/api/assets/386508
     tpdb_search: https://theposterdb.com/search?term=Severance&section=shows
+    genre.sync:
+      - Science Fiction
+      - Drama
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/386509
@@ -2803,6 +3149,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/261516
     tpdb_search: https://theposterdb.com/search?term=She-Hulk+-+Attorney+at+Law&section=shows
     studio: Marvel Studios
+    genre.sync:
+      - Super Hero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/261517
@@ -2812,6 +3160,8 @@ metadata:
     sort_title: Shogun
     url_poster: https://theposterdb.com/api/assets/450202
     tpdb_search: https://theposterdb.com/search?term=Shōgun&section=shows
+    genre.sync:
+      - Action
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/450203
@@ -2821,6 +3171,9 @@ metadata:
     title: Shrinking
     sort_title: Shrinking
     url_poster: https://theposterdb.com/api/assets/311934
+    genre.sync:
+      - Drama
+      - Comedy
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/311935
@@ -2832,6 +3185,9 @@ metadata:
     sort_title: Side Quest
     url_poster: https://theposterdb.com/api/assets/587401
     tpdb_search: https://theposterdb.com/search?term=Side+Quest&section=shows
+    genre.sync:
+      - Drama
+      - Comedy
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/587402
@@ -2841,6 +3197,9 @@ metadata:
     sort_title: Silo
     url_poster: https://theposterdb.com/api/assets/543509
     tpdb_search: https://theposterdb.com/search?term=Silo&section=shows
+    genre.sync:
+      - Science Fiction
+      - Thriller
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/543511
@@ -2852,6 +3211,8 @@ metadata:
     sort_title: Skull Island
     url_poster: https://theposterdb.com/api/assets/372571
     tpdb_search: https://theposterdb.com/search?term=Skull+Island&section=shows
+    genre.sync:
+      - Animation
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/372572
@@ -2861,6 +3222,8 @@ metadata:
     sort_title: Slow Horses
     url_poster: https://theposterdb.com/api/assets/224856
     tpdb_search: https://theposterdb.com/search?term=Slow+Horses&section=shows
+    genre.sync:
+      - Thriller
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/224857
@@ -2877,7 +3240,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/474753
     tpdb_search: https://theposterdb.com/search?term=Solo+Leveling&section=shows
     audio_language: ja-JP
-    genre:
+    genre.sync:
       - Anime
     seasons:
       0:
@@ -2901,6 +3264,8 @@ metadata:
     sort_title: Sons of Anarchy
     url_poster: https://theposterdb.com/api/assets/192772
     tpdb_search: https://theposterdb.com/search?term=Sons+of+Anarchy&section=shows
+    genre.sync:
+      - Drama
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/192773
@@ -2922,6 +3287,9 @@ metadata:
     sort_title: South Park
     url_poster: https://theposterdb.com/api/assets/223085
     tpdb_search: https://theposterdb.com/search?term=South+Park&section=shows
+    genre.sync:
+      - Animation
+      - Comedy
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/223086
@@ -2985,6 +3353,8 @@ metadata:
     sort_title: Squid Game
     url_poster: https://theposterdb.com/api/assets/178646
     tpdb_search: https://theposterdb.com/search?term=Squid+Game&section=shows
+    genre.sync:
+      - Drama
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/178741
@@ -2998,6 +3368,9 @@ metadata:
     sort_title: Star Wars - Andor
     url_poster: https://theposterdb.com/api/assets/244084
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+-+Andor&section=shows
+    genre.sync:
+      - Action
+      - Science Fiction
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/267481
@@ -3011,6 +3384,9 @@ metadata:
     sort_title: Star Wars - Skeleton Crew
     url_poster: https://theposterdb.com/api/assets/540401
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+-+Skeleton+Crew&section=shows
+    genre.sync:
+      - Action
+      - Science Fiction
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/540402
@@ -3020,6 +3396,9 @@ metadata:
     sort_title: Star Wars - Tales of the Empire
     url_poster: https://theposterdb.com/api/assets/481650
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+-+Tales+of+the+Empire&section=shows
+    genre.sync:
+      - Action
+      - Science Fiction
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/481651
@@ -3029,6 +3408,9 @@ metadata:
     sort_title: Star Wars - Tales of the Jedi
     url_poster: https://theposterdb.com/api/assets/272947
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+-+Tales+of+the+Jedi&section=shows
+    genre.sync:
+      - Action
+      - Science Fiction
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/281373
@@ -3040,6 +3422,9 @@ metadata:
     sort_title: Star Wars - Tales of the Underworld
     url_poster: https://theposterdb.com/api/assets/593704
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+-+Tales+of+the+Underworld&section=shows
+    genre.sync:
+      - Action
+      - Science Fiction
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/593705
@@ -3049,6 +3434,9 @@ metadata:
     sort_title: Star Wars - The Bad Batch
     url_poster: https://theposterdb.com/api/assets/143195
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+-+The+Bad+Batch&section=shows
+    genre.sync:
+      - Action
+      - Science Fiction
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/491457
@@ -3064,6 +3452,9 @@ metadata:
     sort_title: Star Wars - The Clone Wars
     url_poster: https://theposterdb.com/api/assets/133734
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+-+The+Clone+Wars&section=shows
+    genre.sync:
+      - Action
+      - Science Fiction
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/133735
@@ -3088,7 +3479,9 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/175178
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+-+Visions&section=shows
     audio_language: ja-JP
-    genre:
+    genre.sync:
+      - Action
+      - Science Fiction
       - Anime
     seasons:
       1:
@@ -3101,6 +3494,9 @@ metadata:
     sort_title: Star Wars Rebels
     url_poster: https://theposterdb.com/api/assets/133743
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+Rebels&section=shows
+    genre.sync:
+      - Action
+      - Science Fiction
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/133744
@@ -3118,6 +3514,9 @@ metadata:
     sort_title: Star Wars Resistance
     url_poster: https://theposterdb.com/api/assets/133749
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+Resistance&section=shows
+    genre.sync:
+      - Action
+      - Science Fiction
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/133750
@@ -3131,6 +3530,9 @@ metadata:
     sort_title: Stick
     url_poster: https://theposterdb.com/api/assets/610060
     tpdb_search: https://theposterdb.com/search?term=Stick&section=shows
+    genre.sync:
+      - Drama
+      - Comedy
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/610061
@@ -3140,6 +3542,9 @@ metadata:
     sort_title: Stranger Things
     url_poster: https://theposterdb.com/api/assets/144211
     tpdb_search: https://theposterdb.com/search?term=Stranger+Things&section=shows
+    genre.sync:
+      - Action
+      - Science Fiction
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/144212
@@ -3155,6 +3560,8 @@ metadata:
     sort_title: Summer Heights High
     url_poster: https://theposterdb.com/api/assets/367011
     tpdb_search: https://theposterdb.com/search?term=Summer+Heights+High&section=shows
+    genre.sync:
+      - Comedy
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/367012
@@ -3165,7 +3572,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/622082
     tpdb_search: https://theposterdb.com/search?term=The+Summer+Hikaru+Died&section=shows
     audio_language: ja-JP
-    genre:
+    genre.sync:
       - Anime
     seasons:
       0:
@@ -3184,7 +3591,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/586082
     tpdb_search: https://theposterdb.com/search?term=Super+Cube&section=shows
     audio_language: zh-CN
-    genre:
+    genre.sync:
       - Anime
     seasons:
       1:
@@ -3194,6 +3601,8 @@ metadata:
     release_year: '2000'
     sort_title: Survivor
     url_poster: https://theposterdb.com/api/assets/220414
+    genre.sync:
+      - Reality
     seasons:
       0:
         url_poster: https://api.mediux.pro/assets/2c608950-4c8a-4be0-86e7-9b088c11f4f2
@@ -3299,7 +3708,7 @@ metadata:
     sort_title: Takt op.Destiny
     url_poster: https://theposterdb.com/api/assets/180261
     audio_language: ja-JP
-    genre:
+    genre.sync:
       - Anime
     seasons:
       1:
@@ -3310,6 +3719,9 @@ metadata:
     sort_title: Ted Lasso
     url_poster: https://theposterdb.com/api/assets/164299
     tpdb_search: https://theposterdb.com/search?term=Ted+Lasso&section=shows
+    genre.sync:
+      - Drama
+      - Comedy
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/198269
@@ -3325,6 +3737,9 @@ metadata:
     sort_title: Temptation Island (US)
     url_poster: https://theposterdb.com/api/assets/140548
     tpdb_search: https://theposterdb.com/search?term=Temptation+Island+(US)&section=shows
+    genre.sync:
+      - Drama
+      - Reality
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/140549
@@ -3344,6 +3759,8 @@ metadata:
     sort_title: Titans (2018)
     url_poster: https://theposterdb.com/api/assets/36135
     tpdb_search: https://theposterdb.com/search?term=Titans+(2018)&section=shows
+    genre.sync:
+      - Super Hero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/36136
@@ -3360,8 +3777,9 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/586062
     tpdb_search: https://theposterdb.com/search?term=To+be+Hero+X&section=shows
     audio_language: zh-CN
-    genre:
+    genre.sync:
       - Anime
+      - Super Hero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/586063
@@ -3371,6 +3789,8 @@ metadata:
     sort_title: Tom and Jerry
     url_poster: https://theposterdb.com/api/assets/165766
     tpdb_search: https://theposterdb.com/search?term=Tom+and+Jerry&section=shows
+    genre.sync:
+      - Animation
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/165767
@@ -3386,6 +3806,9 @@ metadata:
     sort_title: Total Drama
     url_poster: https://theposterdb.com/api/assets/294566
     tpdb_search: https://theposterdb.com/search?term=Total+Drama&section=shows
+    genre.sync:
+      - Animation
+      - Reality
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/294567
@@ -3404,7 +3827,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/601960
     tpdb_search: https://theposterdb.com/search?term=TOUGEN+ANKI&section=shows
     audio_language: ja-JP
-    genre:
+    genre.sync:
       - Anime
     seasons:
       0:
@@ -3422,6 +3845,8 @@ metadata:
     sort_title: Traitors
     url_poster: https://theposterdb.com/api/assets/455294
     tpdb_search: https://theposterdb.com/search?term=The+Traitors&section=shows
+    genre.sync:
+      - Reality
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/455295
@@ -3435,6 +3860,8 @@ metadata:
     sort_title: True Blood
     url_poster: https://theposterdb.com/api/assets/148581
     tpdb_search: https://theposterdb.com/search?term=True+Blood&section=shows
+    genre.sync:
+      - Drama
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/148582
@@ -3456,6 +3883,8 @@ metadata:
     sort_title: True Detective
     url_poster: https://theposterdb.com/api/assets/136982
     tpdb_search: https://theposterdb.com/search?term=True+Detective&section=shows
+    genre.sync:
+      - Drama
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/136983
@@ -3472,7 +3901,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/528021
     tpdb_search: https://theposterdb.com/search?term=Uzumaki&section=shows
     audio_language: ja-JP
-    genre:
+    genre.sync:
       - Anime
     seasons:
       1:
@@ -3483,6 +3912,9 @@ metadata:
     sort_title: Vanderpump Rules
     url_poster: https://theposterdb.com/api/assets/371895
     tpdb_search: https://theposterdb.com/search?term=Vanderpump+Rules&section=shows
+    genre.sync:
+      - Drama
+      - Reality
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/371896
@@ -3518,6 +3950,8 @@ metadata:
     sort_title: Vice Principals
     url_poster: https://theposterdb.com/api/assets/150025
     tpdb_search: https://theposterdb.com/search?term=Vice+Principals&section=shows
+    genre.sync:
+      - Comedy
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/150026
@@ -3530,6 +3964,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/145244
     tpdb_search: https://theposterdb.com/search?term=WandaVision&section=shows
     studio: Marvel Studios
+    genre.sync:
+      - Super Hero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/145245
@@ -3539,6 +3975,9 @@ metadata:
     sort_title: Westworld
     url_poster: https://theposterdb.com/api/assets/56229
     tpdb_search: https://theposterdb.com/search?term=Westworld&section=shows
+    genre.sync:
+      - Action
+      - Science Fiction
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/56230
@@ -3557,6 +3996,9 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/169286
     tpdb_search: https://theposterdb.com/search?term=What+If…!&section=shows
     studio: Marvel Studios
+    genre.sync:
+      - Animation
+      - Super Hero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/169287
@@ -3570,6 +4012,8 @@ metadata:
     sort_title: White Lotus
     url_poster: https://theposterdb.com/api/assets/169953
     tpdb_search: https://theposterdb.com/search?term=The+White+Lotus&section=shows
+    genre.sync:
+      - Drama
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/169954
@@ -3583,6 +4027,9 @@ metadata:
     sort_title: Yellowjackets
     url_poster: https://theposterdb.com/api/assets/573867
     tpdb_search: https://theposterdb.com/search?term=Yellowjackets&section=shows
+    genre.sync:
+      - Horror
+      - Thriller
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/573868
@@ -3612,6 +4059,8 @@ metadata:
     sort_title: Yellowstone
     url_poster: https://theposterdb.com/api/assets/156053
     tpdb_search: https://theposterdb.com/search?term=Yellowstone&section=shows
+    genre.sync:
+      - Drama
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/293984
@@ -3631,7 +4080,9 @@ metadata:
     sort_title: You
     url_poster: https://theposterdb.com/api/assets/180324
     tpdb_search: https://theposterdb.com/search?term=You&section=shows
-    title: You
+    genre.sync:
+      - Thriller
+      - Drama
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/180325
@@ -3650,6 +4101,9 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/569215
     tpdb_search: https://theposterdb.com/search?term=Your+Friendly+Neighborhood+Spider-Man&section=shows
     studio: Marvel Studios
+    genre.sync:
+      - Animation
+      - Super Hero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/569216
@@ -3659,6 +4113,9 @@ metadata:
     sort_title: Your Honor
     url_poster: https://theposterdb.com/api/assets/122835
     tpdb_search: https://theposterdb.com/search?term=Your+Honor&section=shows
+    genre.sync:
+      - Drama
+      - Thriller
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/122836
