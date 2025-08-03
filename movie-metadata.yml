@@ -396,6 +396,12 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Aquaman+and+the+Lost+Kingdom&section=movies
     genre.sync:
       - Super Hero
+  14191:
+    label_title: Aquamarine
+    release_year: '2006'
+    sort_title: Aquamarine
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Aquamarine&section=movies
   1051896:
     label_title: Arcadian
     release_year: '2024'
