@@ -243,7 +243,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=All+Dogs+Go+to+Heaven&section=movies
     genre.sync:
       - Animation
-      - Family
   342470:
     label_title: All the Bright Places
     sort_title: All the Bright Places
@@ -2913,7 +2912,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Lady+and+the+Tramp&section=movies
     genre.sync:
       - Animation
-      - Family
   938614:
     label_title: Late Night with the Devil
     sort_title: Late Night with the Devil
