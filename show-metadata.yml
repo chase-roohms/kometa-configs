@@ -114,7 +114,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Agatha+All+Along&section=shows
     studio: Marvel Studios
     genre.sync:
-      - Super Hero
+      - Superhero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/595592
@@ -502,7 +502,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/235785
     tpdb_search: https://theposterdb.com/search?term=The+Boys&section=shows
     genre.sync:
-      - Super Hero
+      - Superhero
       - Comedy
       - Action
     seasons:
@@ -742,7 +742,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Daredevil+-+Born+Again&section=shows
     studio: Marvel Studios
     genre.sync:
-      - Super Hero
+      - Superhero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/583963
@@ -895,7 +895,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Echo&section=shows
     studio: Marvel Studios
     genre.sync:
-      - Super Hero
+      - Superhero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/452750
@@ -972,7 +972,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Eyes+of+Wakanda&section=shows
     studio: Marvel Studios
     genre.sync:
-      - Super Hero
+      - Superhero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/630602
@@ -984,7 +984,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Falcon+and+The+Winter+Soldier&section=shows
     studio: Marvel Studios
     genre.sync:
-      - Super Hero
+      - Superhero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/144091
@@ -1196,7 +1196,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/409216
     tpdb_search: https://theposterdb.com/search?term=Gen+V&section=shows
     genre.sync:
-      - Super Hero
+      - Superhero
       - Action
     seasons:
       1:
@@ -1260,7 +1260,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Hawkeye&section=shows
     studio: Marvel Studios
     genre.sync:
-      - Super Hero
+      - Superhero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/191856
@@ -1305,7 +1305,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Helstrom&section=shows
     studio: Marvel Studios
     genre.sync:
-      - Super Hero
+      - Superhero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/146515
@@ -1356,7 +1356,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=I+Am+Groot&section=shows
     studio: Marvel Studios
     genre.sync:
-      - Super Hero
+      - Superhero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/263971
@@ -1402,7 +1402,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Ironheart&section=shows
     studio: Marvel Studios
     genre.sync:
-      - Super Hero
+      - Superhero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/609123
@@ -1616,7 +1616,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Legion&section=shows
     studio: Marvel Studios
     genre.sync:
-      - Super Hero
+      - Superhero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/152215
@@ -1675,7 +1675,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Loki&section=shows
     studio: Marvel Studios
     genre.sync:
-      - Super Hero
+      - Superhero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/152227
@@ -2174,7 +2174,7 @@ metadata:
     tpdb_search: "https://theposterdb.com/search?term=Marvel's+Agent+Carter&section=shows"
     studio: Marvel Studios
     genre.sync:
-      - Super Hero
+      - Superhero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/145237
@@ -2188,7 +2188,7 @@ metadata:
     tpdb_search: "https://theposterdb.com/search?term=Marvel's+Agents+of+S.H.I.E.L.D.&section=shows"
     studio: Marvel Studios
     genre.sync:
-      - Super Hero
+      - Superhero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/87636
@@ -2212,7 +2212,7 @@ metadata:
     tpdb_search: "https://theposterdb.com/search?term=Marvel's+Cloak+%26+Dagger&section=shows"
     studio: Marvel Studios
     genre.sync:
-      - Super Hero
+      - Superhero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/144048
@@ -2226,7 +2226,7 @@ metadata:
     tpdb_search: "https://theposterdb.com/search?term=Marvel's+Daredevil&section=shows"
     studio: Marvel Studios
     genre.sync:
-      - Super Hero
+      - Superhero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/146525
@@ -2242,7 +2242,7 @@ metadata:
     tpdb_search: "https://theposterdb.com/search?term=Marvel's+Inhumans&section=shows"
     studio: Marvel Studios
     genre.sync:
-      - Super Hero
+      - Superhero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/146519
@@ -2254,7 +2254,7 @@ metadata:
     tpdb_search: "https://theposterdb.com/search?term=Marvel's+Iron+Fist&section=shows"
     studio: Marvel Studios
     genre.sync:
-      - Super Hero
+      - Superhero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/146796
@@ -2268,7 +2268,7 @@ metadata:
     tpdb_search: "https://theposterdb.com/search?term=Marvel's+Jessica+Jones&section=shows"
     studio: Marvel Studios
     genre.sync:
-      - Super Hero
+      - Superhero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/146670
@@ -2284,7 +2284,7 @@ metadata:
     tpdb_search: "https://theposterdb.com/search?term=Marvel's+Luke+Cage&section=shows"
     studio: Marvel Studios
     genre.sync:
-      - Super Hero
+      - Superhero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/146780
@@ -2298,7 +2298,7 @@ metadata:
     tpdb_search: "https://theposterdb.com/search?term=Marvel's+Runaways&section=shows"
     studio: Marvel Studios
     genre.sync:
-      - Super Hero
+      - Superhero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/144040
@@ -2314,7 +2314,7 @@ metadata:
     tpdb_search: "https://theposterdb.com/search?term=Marvel's+The+Defenders&section=shows"
     studio: Marvel Studios
     genre.sync:
-      - Super Hero
+      - Superhero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/149158
@@ -2326,7 +2326,7 @@ metadata:
     tpdb_search: "https://theposterdb.com/search?term=Marvel's+The+Punisher&section=shows"
     studio: Marvel Studios
     genre.sync:
-      - Super Hero
+      - Superhero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/146925
@@ -2395,7 +2395,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Moon+Knight&section=shows
     studio: Marvel Studios
     genre.sync:
-      - Super Hero
+      - Superhero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/224410
@@ -2419,7 +2419,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Ms.+Marvel&section=shows
     studio: Marvel Studios
     genre.sync:
-      - Super Hero
+      - Superhero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/243987
@@ -2706,7 +2706,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/526094
     tpdb_search: https://theposterdb.com/search?term=The+Penguin&section=shows
     genre.sync:
-      - Super Hero
+      - Superhero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/526095
@@ -3014,7 +3014,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/257146
     tpdb_search: https://theposterdb.com/search?term=The+Sandman&section=shows
     genre.sync:
-      - Super Hero
+      - Superhero
       - Fantasy
     seasons:
       1:
@@ -3069,7 +3069,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Secret+Invasion&section=shows
     studio: Marvel Studios
     genre.sync:
-      - Super Hero
+      - Superhero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/379999
@@ -3140,7 +3140,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=She-Hulk+-+Attorney+at+Law&section=shows
     studio: Marvel Studios
     genre.sync:
-      - Super Hero
+      - Superhero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/261517
@@ -3750,7 +3750,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/36135
     tpdb_search: https://theposterdb.com/search?term=Titans+(2018)&section=shows
     genre.sync:
-      - Super Hero
+      - Superhero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/36136
@@ -3769,7 +3769,7 @@ metadata:
     audio_language: zh-CN
     genre.sync:
       - Anime
-      - Super Hero
+      - Superhero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/586063
@@ -3955,7 +3955,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=WandaVision&section=shows
     studio: Marvel Studios
     genre.sync:
-      - Super Hero
+      - Superhero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/145245
@@ -3988,7 +3988,7 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Animation
-      - Super Hero
+      - Superhero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/169287
@@ -4093,7 +4093,7 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Animation
-      - Super Hero
+      - Superhero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/569216
