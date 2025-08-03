@@ -55,6 +55,7 @@ jobs:
             yq -i '.metadata += {'"$tmdb_id"': {"label_title": "'"$title"'", "release_year": "'"$release_year"'", "sort_title": "'"$sort_title"'", "url_poster": "", "tpdb_search": "'"$tpdb_search"'"}}' ${{ env.MOVIE_METADATA_FILE }}
             
             # https://chatgpt.com/share/68757652-e170-8003-b6e1-d625f0fb59f8
+            # Sort title sorting
             yq -i '
               .metadata |= (
                 to_entries
@@ -73,6 +74,38 @@ jobs:
                 | from_entries
               )
               ' ${{ env.MOVIE_METADATA_FILE }}
+
+            # General key sorting
+            yq -i '
+              .metadata |= with_entries(
+                .value |= (
+                  {
+                    "label_title": .label_title,
+                    "sort_title": .sort_title,
+                    "release_year": .release_year,
+                    "url_poster": .url_poster,
+                    "tpdb_search": .tpdb_search
+                  } + .
+                )
+              )
+              ' ${{ env.MOVIE_METADATA_FILE }}
+
+            # Extra "studio" key sorting if exists
+            yq -i '
+              .metadata |= with_entries(
+                .value |= (
+                  {
+                    "label_title": .label_title,
+                    "sort_title": .sort_title,
+                    "release_year": .release_year,
+                    "url_poster": .url_poster,
+                    "tpdb_search": .tpdb_search,
+                    "studio": .studio
+                  } + .
+                )
+              )
+              ' ${{ env.MOVIE_METADATA_FILE }}
+              
             yq -i '.metadata.${{ github.event.client_payload.remoteMovie.tmdbId }}.release_year style="single"' ${{ env.MOVIE_METADATA_FILE }}
             yq -i '.metadata.${{ github.event.client_payload.remoteMovie.tmdbId }}.url_poster style="single"' ${{ env.MOVIE_METADATA_FILE }}
             yq ${{ env.MOVIE_METADATA_FILE }} # Debug
@@ -115,6 +148,7 @@ jobs:
             yq -i '.metadata += {'"$tvdb_id"': {"label_title": "'"$title"'", "release_year": "'"$release_year"'", "sort_title": "'"$sort_title"'", "url_poster": "", "tpdb_search": "'"$tpdb_search"'"}}' ${{ env.SHOW_METADATA_FILE }}
             
             # https://chatgpt.com/share/68757652-e170-8003-b6e1-d625f0fb59f8
+            # Sort title sorting
             yq -i '
               .metadata |= (
                 to_entries
@@ -133,6 +167,38 @@ jobs:
                 | from_entries
               )
               ' ${{ env.SHOW_METADATA_FILE }}
+
+            # General key sorting
+            yq -i '
+              .metadata |= with_entries(
+                .value |= (
+                  {
+                    "label_title": .label_title,
+                    "sort_title": .sort_title,
+                    "release_year": .release_year,
+                    "url_poster": .url_poster,
+                    "tpdb_search": .tpdb_search
+                  } + .
+                )
+              )
+              ' ${{ env.SHOW_METADATA_FILE }}
+
+            # Extra "studio" key sorting if exists
+            yq -i '
+              .metadata |= with_entries(
+                .value |= (
+                  {
+                    "label_title": .label_title,
+                    "sort_title": .sort_title,
+                    "release_year": .release_year,
+                    "url_poster": .url_poster,
+                    "tpdb_search": .tpdb_search,
+                    "studio": .studio
+                  } + .
+                )
+              )
+              ' ${{ env.SHOW_METADATA_FILE }}
+            
             yq -i '(.metadata[] | .seasons) |= (to_entries | sort_by(.key | tonumber) | from_entries)' ${{ env.SHOW_METADATA_FILE }}
             yq -i '.metadata.${{ github.event.client_payload.series.tvdbId }}.release_year style="single"' ${{ env.SHOW_METADATA_FILE }}
             yq -i '.metadata.${{ github.event.client_payload.series.tvdbId }}.url_poster style="single"' ${{ env.SHOW_METADATA_FILE }}
