@@ -4748,6 +4748,12 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
+  2056:
+    label_title: The Station Agent
+    release_year: '2003'
+    sort_title: Station Agent
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Station+Agent&section=movies
   10860:
     label_title: Steel Magnolias
     release_year: '1989'
