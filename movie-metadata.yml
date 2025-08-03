@@ -2236,12 +2236,46 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Hobbit+The+Battle+of+the+Five+Armies&section=movies
     genre.sync:
       - Fantasy
+  771:
+    label_title: Home Alone
+    release_year: '1990
+    sort_title: Home Alone 1
+    url_poster: https://theposterdb.com/api/assets/50688
+    tpdb_search: https://theposterdb.com/search?term=Home+Alone&section=movies
+    genre.sync:
+      - Comedy
+  772:
+    label_title: 'Home Alone 2: Lost in New York'
+    release_year: '1992'
+    sort_title: Home Alone 2
+    url_poster: https://theposterdb.com/api/assets/50689
+    tpdb_search: https://theposterdb.com/search?term=Home+Alone+2+Lost+in+New+York&section=movies
+    genre.sync:
+      - Comedy
   9714:
     label_title: Home Alone 3
     release_year: '1997'
     sort_title: Home Alone 3
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/50690
     tpdb_search: https://theposterdb.com/search?term=Home+Alone+3&section=movies
+    genre.sync:
+      - Comedy
+  12546:
+    label_title: Home Alone 4
+    release_year: '2002'
+    sort_title: Home Alone 4
+    url_poster: https://theposterdb.com/api/assets/50691
+    tpdb_search: https://theposterdb.com/search?term=Home+Alone+4&section=movies
+    genre.sync:
+      - Comedy
+  134375:
+    label_title: 'Home Alone: The Holidy Heist'
+    release_year: '2012'
+    sort_title: Home Alone 5
+    url_poster: https://theposterdb.com/api/assets/50692
+    tpdb_search: https://theposterdb.com/search?term=Home+Alone+The+Holiday+Heist&section=movies
+    genre.sync:
+      - Comedy
   76492:
     label_title: Hotel Transylvania
     release_year: '2012'
@@ -4517,8 +4551,11 @@ metadata:
     label_title: Source Code
     release_year: '2011'
     sort_title: Source Code
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/41179
     tpdb_search: https://theposterdb.com/search?term=Source+Code&section=movies
+    genre.sync:
+      - Thriller
+      - Science Fiction
   1130022:
     label_title: Sovereign
     release_year: '2025'
@@ -4764,8 +4801,11 @@ metadata:
     label_title: The Station Agent
     release_year: '2003'
     sort_title: Station Agent
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/631238
     tpdb_search: https://theposterdb.com/search?term=The+Station+Agent&section=movies
+    genre.sync:
+      - Comedy
+      - Drama
   10860:
     label_title: Steel Magnolias
     release_year: '1989'
