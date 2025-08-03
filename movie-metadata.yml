@@ -400,7 +400,7 @@ metadata:
     label_title: Aquamarine
     release_year: '2006'
     sort_title: Aquamarine
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/631120
     tpdb_search: https://theposterdb.com/search?term=Aquamarine&section=movies
   1051896:
     label_title: Arcadian
@@ -1722,9 +1722,19 @@ metadata:
   10330:
     label_title: Freaky Friday
     release_year: '2003'
-    sort_title: Freaky Friday
-    url_poster: ''
+    sort_title: Freaky Friday 1
+    url_poster: https://theposterdb.com/api/assets/588889
     tpdb_search: https://theposterdb.com/search?term=Freaky+Friday&section=movies
+    genre.sync:
+      - Comedy
+  1125257:
+    label_title: Freakier Friday
+    release_year: '2025'
+    sort_title: Freaky Friday 2
+    url_poster: https://theposterdb.com/api/assets/588888
+    tpdb_search: https://theposterdb.com/search?term=Freaky+Friday&section=movies
+    genre.sync:
+      - Comedy
   1239655:
     label_title: Friendship
     release_year: '2025'
