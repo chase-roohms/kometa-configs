@@ -191,42 +191,42 @@ metadata:
     label_title: Archer
     sort_title: Archer
     release_year: '2009'
-    url_poster: https://theposterdb.com/api/assets/404756
+    url_poster: https://theposterdb.com/api/assets/193196
     tpdb_search: https://theposterdb.com/search?term=Archer&section=shows
     genre.sync:
       - Animation
       - Comedy
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/404757
+        url_poster: https://theposterdb.com/api/assets/193197
       1:
-        url_poster: https://theposterdb.com/api/assets/404758
+        url_poster: https://theposterdb.com/api/assets/193198
       2:
-        url_poster: https://theposterdb.com/api/assets/404759
+        url_poster: https://theposterdb.com/api/assets/193199
       3:
-        url_poster: https://theposterdb.com/api/assets/404760
+        url_poster: https://theposterdb.com/api/assets/193200
       4:
-        url_poster: https://theposterdb.com/api/assets/404761
+        url_poster: https://theposterdb.com/api/assets/193201
       5:
-        url_poster: https://theposterdb.com/api/assets/404762
+        url_poster: https://theposterdb.com/api/assets/193202
       6:
-        url_poster: https://theposterdb.com/api/assets/404763
+        url_poster: https://theposterdb.com/api/assets/193203
       7:
-        url_poster: https://theposterdb.com/api/assets/404764
+        url_poster: https://theposterdb.com/api/assets/193204
       8:
-        url_poster: https://theposterdb.com/api/assets/404765
+        url_poster: https://theposterdb.com/api/assets/193205
       9:
-        url_poster: https://theposterdb.com/api/assets/404766
+        url_poster: https://theposterdb.com/api/assets/193206
       10:
-        url_poster: https://theposterdb.com/api/assets/404767
+        url_poster: https://theposterdb.com/api/assets/193207
       11:
-        url_poster: https://theposterdb.com/api/assets/404768
+        url_poster: https://theposterdb.com/api/assets/193208
       12:
-        url_poster: https://theposterdb.com/api/assets/404769
+        url_poster: https://theposterdb.com/api/assets/193209
       13:
-        url_poster: https://theposterdb.com/api/assets/404770
+        url_poster: https://theposterdb.com/api/assets/260880
       14:
-        url_poster: https://theposterdb.com/api/assets/404771
+        url_poster: https://theposterdb.com/api/assets/403871
   393221:
     label_title: ARK - The Animated Series
     sort_title: ARK - The Animated Series
@@ -1990,7 +1990,7 @@ metadata:
     label_title: Love, Death & Robots
     sort_title: Love, Death & Robots
     release_year: '2019'
-    url_poster: https://theposterdb.com/api/assets/233565
+    url_poster: https://theposterdb.com/api/assets/236472
     tpdb_search: https://theposterdb.com/search?term=Love,+Death+%26+Robots&section=shows
     url_background: https://api.mediux.pro/assets/279fc1e3-ff46-44af-8f08-61df2a5db98b
     genre.sync:
@@ -2556,31 +2556,31 @@ metadata:
     label_title: The Office (US)
     sort_title: Office (US)
     release_year: '2005'
-    url_poster: https://theposterdb.com/api/assets/62490
+    url_poster: https://theposterdb.com/api/assets/606042
     tpdb_search: https://theposterdb.com/search?term=The+Office+(US)&section=shows
     genre.sync:
       - Comedy
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/62491
+        url_poster: https://theposterdb.com/api/assets/606043
       1:
-        url_poster: https://theposterdb.com/api/assets/62492
+        url_poster: https://theposterdb.com/api/assets/606044
       2:
-        url_poster: https://theposterdb.com/api/assets/62493
+        url_poster: https://theposterdb.com/api/assets/606045
       3:
-        url_poster: https://theposterdb.com/api/assets/62494
+        url_poster: https://theposterdb.com/api/assets/606046
       4:
-        url_poster: https://theposterdb.com/api/assets/62495
+        url_poster: https://theposterdb.com/api/assets/606047
       5:
-        url_poster: https://theposterdb.com/api/assets/62496
+        url_poster: https://theposterdb.com/api/assets/606048
       6:
-        url_poster: https://theposterdb.com/api/assets/62497
+        url_poster: https://theposterdb.com/api/assets/606049
       7:
-        url_poster: https://theposterdb.com/api/assets/62498
+        url_poster: https://theposterdb.com/api/assets/606050
       8:
-        url_poster: https://theposterdb.com/api/assets/62499
+        url_poster: https://theposterdb.com/api/assets/606051
       9:
-        url_poster: https://theposterdb.com/api/assets/62500
+        url_poster: https://theposterdb.com/api/assets/606052
   421583:
     label_title: Orb - On the Movements of the Earth
     sort_title: Orb - On the Movements of the Earth
@@ -2831,50 +2831,56 @@ metadata:
     label_title: Reno 911!
     sort_title: Reno 911!
     release_year: '2003'
-    url_poster: https://theposterdb.com/api/assets/100152
+    url_poster: https://theposterdb.com/api/assets/409624
     tpdb_search: https://theposterdb.com/search?term=Reno+911!&section=shows
     genre.sync:
       - Comedy
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/409625
       1:
-        url_poster: https://theposterdb.com/api/assets/100153
+        url_poster: https://theposterdb.com/api/assets/409626
       2:
-        url_poster: https://theposterdb.com/api/assets/100154
+        url_poster: https://theposterdb.com/api/assets/409627
       3:
-        url_poster: https://theposterdb.com/api/assets/100155
+        url_poster: https://theposterdb.com/api/assets/409628
       4:
-        url_poster: https://theposterdb.com/api/assets/100156
+        url_poster: https://theposterdb.com/api/assets/409629
       5:
-        url_poster: https://theposterdb.com/api/assets/100157
+        url_poster: https://theposterdb.com/api/assets/409630
       6:
-        url_poster: https://theposterdb.com/api/assets/100158
+        url_poster: https://theposterdb.com/api/assets/409631
+      7:
+        url_poster: https://theposterdb.com/api/assets/409632
+      8:
+        url_poster: https://theposterdb.com/api/assets/409633
   275274:
     label_title: Rick and Morty
     sort_title: Rick and Morty
     release_year: '2013'
-    url_poster: https://theposterdb.com/api/assets/168176
+    url_poster: https://theposterdb.com/api/assets/608206
     tpdb_search: https://theposterdb.com/search?term=Rick+and+Morty&section=shows
     genre.sync:
       - Animation
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/168177
+        url_poster: https://theposterdb.com/api/assets/608207
       1:
-        url_poster: https://theposterdb.com/api/assets/168178
+        url_poster: https://theposterdb.com/api/assets/608208
       2:
-        url_poster: https://theposterdb.com/api/assets/168179
+        url_poster: https://theposterdb.com/api/assets/608209
       3:
-        url_poster: https://theposterdb.com/api/assets/168180
+        url_poster: https://theposterdb.com/api/assets/608210
       4:
-        url_poster: https://theposterdb.com/api/assets/168181
+        url_poster: https://theposterdb.com/api/assets/608211
       5:
-        url_poster: https://theposterdb.com/api/assets/168182
+        url_poster: https://theposterdb.com/api/assets/608212
       6:
-        url_poster: https://theposterdb.com/api/assets/263703
+        url_poster: https://theposterdb.com/api/assets/608213
       7:
-        url_poster: https://theposterdb.com/api/assets/414032
+        url_poster: https://theposterdb.com/api/assets/608214
       8:
-        url_poster: https://theposterdb.com/api/assets/603637
+        url_poster: https://theposterdb.com/api/assets/608215
   420279:
     label_title: Rick and Morty - The Anime
     sort_title: Rick and Morty - The Anime
@@ -3036,19 +3042,19 @@ metadata:
     label_title: Scooby-Doo, Where Are You!
     sort_title: Scooby-Doo, Where Are You!
     release_year: '1969'
-    url_poster: https://theposterdb.com/api/assets/165160
+    url_poster: https://theposterdb.com/api/assets/14239
     tpdb_search: https://theposterdb.com/search?term=Scooby-Doo,+Where+Are+You!&section=shows
     genre.sync:
       - Animation
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/165161
+        url_poster: https://theposterdb.com/api/assets/14240
       1:
-        url_poster: https://theposterdb.com/api/assets/165162
+        url_poster: https://theposterdb.com/api/assets/14241
       2:
-        url_poster: https://theposterdb.com/api/assets/165163
+        url_poster: https://theposterdb.com/api/assets/14242
       3:
-        url_poster: https://theposterdb.com/api/assets/165164
+        url_poster: https://theposterdb.com/api/assets/14243
   248884:
     label_title: The Secret Circle
     sort_title: Secret Circle
@@ -3518,14 +3524,14 @@ metadata:
     label_title: Stick
     sort_title: Stick
     release_year: '2025'
-    url_poster: https://theposterdb.com/api/assets/610060
+    url_poster: https://theposterdb.com/api/assets/621977
     tpdb_search: https://theposterdb.com/search?term=Stick&section=shows
     genre.sync:
       - Drama
       - Comedy
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/610061
+        url_poster: https://theposterdb.com/api/assets/621978
   305288:
     label_title: Stranger Things
     sort_title: Stranger Things
@@ -3777,7 +3783,7 @@ metadata:
     label_title: Tom and Jerry
     sort_title: Tom and Jerry
     release_year: '1940'
-    url_poster: https://theposterdb.com/api/assets/165766
+    url_poster: https://theposterdb.com/api/assets/472563
     tpdb_search: https://theposterdb.com/search?term=Tom+and+Jerry&section=shows
     genre.sync:
       - Animation
@@ -3794,22 +3800,22 @@ metadata:
     label_title: Total Drama
     sort_title: Total Drama
     release_year: '2007'
-    url_poster: https://theposterdb.com/api/assets/294566
+    url_poster: https://theposterdb.com/api/assets/620690
     tpdb_search: https://theposterdb.com/search?term=Total+Drama&section=shows
     genre.sync:
       - Animation
       - Reality
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/294567
+        url_poster: https://theposterdb.com/api/assets/619961
       2:
-        url_poster: https://theposterdb.com/api/assets/294568
+        url_poster: https://theposterdb.com/api/assets/619962
       3:
-        url_poster: https://theposterdb.com/api/assets/294569
+        url_poster: https://theposterdb.com/api/assets/619960
       4:
-        url_poster: https://theposterdb.com/api/assets/294570
+        url_poster: https://theposterdb.com/api/assets/619964
       5:
-        url_poster: https://theposterdb.com/api/assets/294571
+        url_poster: https://theposterdb.com/api/assets/619963
   449843:
     label_title: TOUGEN ANKI
     sort_title: TOUGEN ANKI
