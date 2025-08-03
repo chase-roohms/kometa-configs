@@ -2236,6 +2236,12 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Hobbit+The+Battle+of+the+Five+Armies&section=movies
     genre.sync:
       - Fantasy
+  9714:
+    label_title: Home Alone 3
+    release_year: '1997'
+    sort_title: Home Alone 3
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Home+Alone+3&section=movies
   76492:
     label_title: Hotel Transylvania
     release_year: '2012'
