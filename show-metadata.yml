@@ -2383,6 +2383,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Midnight+Gospel&section=shows
     genre.sync:
       - Animation
+    seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/149886
   422598:
