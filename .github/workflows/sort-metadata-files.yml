@@ -40,6 +40,35 @@ jobs:
               | from_entries
             )
             ' ${{ env.MOVIE_METADATA_FILE }}
+          
+          yq -i '
+            .metadata |= with_entries(
+              .value |= (
+                {
+                  "label_title": .label_title,
+                  "sort_title": .sort_title,
+                  "release_year": .release_year,
+                  "url_poster": .url_poster,
+                  "tpdb_search": .tpdb_search
+                } + .
+              )
+            )
+            ' ${{ env.MOVIE_METADATA_FILE }}
+
+          yq -i '
+            .metadata |= with_entries(
+              .value |= (
+                {
+                  "label_title": .label_title,
+                  "sort_title": .sort_title,
+                  "release_year": .release_year,
+                  "url_poster": .url_poster,
+                  "tpdb_search": .tpdb_search,
+                  "studio": .studio
+                } + .
+              )
+            )
+            ' ${{ env.MOVIE_METADATA_FILE }}
       
       - name: Update metadata file with show sorting
         shell: bash
@@ -62,6 +91,36 @@ jobs:
               | from_entries
             )
             ' ${{ env.SHOW_METADATA_FILE }}
+
+            yq -i '
+            .metadata |= with_entries(
+              .value |= (
+                {
+                  "label_title": .label_title,
+                  "sort_title": .sort_title,
+                  "release_year": .release_year,
+                  "url_poster": .url_poster,
+                  "tpdb_search": .tpdb_search
+                } + .
+              )
+            )
+            ' ${{ env.SHOW_METADATA_FILE }}
+
+          yq -i '
+            .metadata |= with_entries(
+              .value |= (
+                {
+                  "label_title": .label_title,
+                  "sort_title": .sort_title,
+                  "release_year": .release_year,
+                  "url_poster": .url_poster,
+                  "tpdb_search": .tpdb_search,
+                  "studio": .studio
+                } + .
+              )
+            )
+            ' ${{ env.SHOW_METADATA_FILE }}
+            
             yq -i '(.metadata[] | .seasons) |= (to_entries | sort_by(.key | tonumber) | from_entries)' ${{ env.SHOW_METADATA_FILE }}
       
       - name: Commit Changes to Main
