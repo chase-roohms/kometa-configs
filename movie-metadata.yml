@@ -1729,7 +1729,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/588889
     tpdb_search: https://theposterdb.com/search?term=Freaky+Friday&section=movies
     genre.sync:
-      - Comedy
+      - Family
   1125257:
     label_title: Freakier Friday
     sort_title: Freaky Friday 2
@@ -1737,7 +1737,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/588888
     tpdb_search: https://theposterdb.com/search?term=Freaky+Friday&section=movies
     genre.sync:
-      - Comedy
+      - Family
   1239655:
     label_title: Friendship
     sort_title: Friendship
