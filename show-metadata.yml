@@ -3,13 +3,13 @@ metadata:
     label_title: 3 Body Problem
     release_year: '2024'
     sort_title: 3 Body Problem
-    url_poster: https://theposterdb.com/api/assets/465293
+    url_poster: https://theposterdb.com/api/assets/464584
     tpdb_search: https://theposterdb.com/search?term=3+Body+Problem&section=shows
     genre.sync:
       - Science Fiction
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/465294
+        url_poster: https://theposterdb.com/api/assets/464585
   268592:
     label_title: The 100
     release_year: '2014'
@@ -156,13 +156,13 @@ metadata:
     label_title: American Primeval
     release_year: '2025'
     sort_title: American Primeval
-    url_poster: https://theposterdb.com/api/assets/557312
+    url_poster: https://theposterdb.com/api/assets/559741
     tpdb_search: https://theposterdb.com/search?term=American+Primeval&section=shows
     genre.sync:
       - Drama
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/557313
+        url_poster: https://theposterdb.com/api/assets/559742
   244351:
     label_title: Angry Boys
     release_year: '2011'
@@ -1055,25 +1055,25 @@ metadata:
     label_title: The Flintstones
     release_year: '1960'
     sort_title: Flintstones
-    url_poster: https://theposterdb.com/api/assets/166414
+    url_poster: https://theposterdb.com/api/assets/155348
     tpdb_search: https://theposterdb.com/search?term=The+Flintstones&section=shows
     genre.sync:
       - Animation
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/166415
+        url_poster: https://theposterdb.com/api/assets/283595
       1:
-        url_poster: https://theposterdb.com/api/assets/166428
+        url_poster: https://theposterdb.com/api/assets/155349
       2:
-        url_poster: https://theposterdb.com/api/assets/166429
+        url_poster: https://theposterdb.com/api/assets/155350
       3:
-        url_poster: https://theposterdb.com/api/assets/166430
+        url_poster: https://theposterdb.com/api/assets/155351
       4:
-        url_poster: https://theposterdb.com/api/assets/166431
+        url_poster: https://theposterdb.com/api/assets/155352
       5:
-        url_poster: https://theposterdb.com/api/assets/166432
+        url_poster: https://theposterdb.com/api/assets/155353
       6:
-        url_poster: https://theposterdb.com/api/assets/166433
+        url_poster: https://theposterdb.com/api/assets/155354
   383686:
     label_title: Fog Hill of Five Elements
     release_year: '2020'
@@ -1241,17 +1241,17 @@ metadata:
     label_title: Gravity Falls
     release_year: '2012'
     sort_title: Gravity Falls
-    url_poster: https://theposterdb.com/api/assets/16953
+    url_poster: https://theposterdb.com/api/assets/590829
     tpdb_search: https://theposterdb.com/search?term=Gravity+Falls&section=shows
     genre.sync:
       - Animation
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/16954
+        url_poster: https://theposterdb.com/api/assets/590830
       1:
-        url_poster: https://theposterdb.com/api/assets/16955
+        url_poster: https://theposterdb.com/api/assets/590831
       2:
-        url_poster: https://theposterdb.com/api/assets/16956
+        url_poster: https://theposterdb.com/api/assets/590832
   367146:
     label_title: Hawkeye
     release_year: '2021'
@@ -1366,7 +1366,7 @@ metadata:
     label_title: I Think You Should Leave with Tim Robinson
     release_year: '2019'
     sort_title: I Think You Should Leave with Tim Robinson
-    url_poster: https://theposterdb.com/api/assets/368550
+    url_poster: https://theposterdb.com/api/assets/395747
     tpdb_search: https://theposterdb.com/search?term=I+Think+You+Should+Leave+with+Tim+Robinson&section=shows
     genre.sync:
       - Comedy
@@ -1636,17 +1636,6 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/623898
-  454690:
-    label_title: Like Water for Chocolate
-    release_year: '2024'
-    sort_title: Like Water for Chocolate
-    url_poster: https://theposterdb.com/api/assets/539204
-    tpdb_search: https://theposterdb.com/search?term=Like+Water+for+Chocolate&section=shows
-    genre.sync:
-      - Drama
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/539205
   402033:
     label_title: Link Click
     release_year: '2021'
