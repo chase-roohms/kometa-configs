@@ -1375,8 +1375,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/631116
     tpdb_search: https://theposterdb.com/search?term=Durango+Kids&section=movies
     genre.sync:
-      - Science Fiction
       - Adventure
+      - Science Fiction
   559969:
     label_title: El Camino A Breaking Bad Movie
     sort_title: El Camino A Breaking Bad Movie
@@ -1466,8 +1466,8 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Everything+Everywhere+All+at+Once&section=movies
     studio: A24
     genre.sync:
-      - Science Fiction
       - Action
+      - Science Fiction
   1233069:
     label_title: Exterritorial
     sort_title: Exterritorial
@@ -2728,8 +2728,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/158969
     tpdb_search: https://theposterdb.com/search?term=Jurassic+Park&section=movies
     genre.sync:
-      - Science Fiction
       - Action
+      - Science Fiction
   330:
     label_title: The Lost World Jurassic Park
     sort_title: Jurassic Park 2
@@ -2737,8 +2737,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/158970
     tpdb_search: https://theposterdb.com/search?term=The+Lost+World+Jurassic+Park&section=movies
     genre.sync:
-      - Science Fiction
       - Action
+      - Science Fiction
   331:
     label_title: Jurassic Park III
     sort_title: Jurassic Park 3
@@ -2746,8 +2746,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/158971
     tpdb_search: https://theposterdb.com/search?term=Jurassic+Park+III&section=movies
     genre.sync:
-      - Science Fiction
       - Action
+      - Science Fiction
   135397:
     label_title: Jurassic World
     sort_title: Jurassic Park 4
@@ -2755,8 +2755,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/158972
     tpdb_search: https://theposterdb.com/search?term=Jurassic+World&section=movies
     genre.sync:
-      - Science Fiction
       - Action
+      - Science Fiction
   351286:
     label_title: Jurassic World Fallen Kingdom
     sort_title: Jurassic Park 5
@@ -2764,8 +2764,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/158973
     tpdb_search: https://theposterdb.com/search?term=Jurassic+World+Fallen+Kingdom&section=movies
     genre.sync:
-      - Science Fiction
       - Action
+      - Science Fiction
   630322:
     label_title: Battle at Big Rock
     sort_title: Jurassic Park 6
@@ -2773,8 +2773,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/158974
     tpdb_search: https://theposterdb.com/search?term=Battle+at+Big+Rock&section=movies
     genre.sync:
-      - Science Fiction
       - Action
+      - Science Fiction
   507086:
     label_title: Jurassic Park Dominion
     sort_title: Jurassic Park 7
@@ -2782,8 +2782,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/158975
     tpdb_search: https://theposterdb.com/search?term=Jurassic+Park+Dominion&section=movies
     genre.sync:
-      - Science Fiction
       - Action
+      - Science Fiction
   1234821:
     label_title: Jurassic World Rebirth
     sort_title: Jurassic Park 8
@@ -2791,8 +2791,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/625064
     tpdb_search: https://theposterdb.com/search?term=Jurassic+Park+Rebirth&section=movies
     genre.sync:
-      - Science Fiction
       - Action
+      - Science Fiction
   141052:
     label_title: Justice League
     sort_title: Justice League
@@ -2800,7 +2800,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/40933
     tpdb_search: https://theposterdb.com/search?term=Justice+League&section=movies
     genre.sync:
-      - Action
+      - Superhero
   1326106:
     label_title: 'Kaiju No. 8: Mission Recon'
     sort_title: 'Kaiju No. 8: Mission Recon'
@@ -2994,8 +2994,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/583059
     tpdb_search: https://theposterdb.com/search?term=Locked&section=movies
     genre.sync:
-      - Thriller
       - Horror
+      - Thriller
   263115:
     label_title: Logan
     sort_title: Logan
@@ -3020,8 +3020,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/509410
     tpdb_search: https://theposterdb.com/search?term=Longlegs&section=movies
     genre.sync:
-      - Thriller
       - Horror
+      - Thriller
   120:
     label_title: The Lord of the Rings The Fellowship of the Ring
     sort_title: Lord of the Rings 1
@@ -3061,8 +3061,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/305363
     tpdb_search: https://theposterdb.com/search?term=Love+%26+Other+Drugs&section=movies
     genre.sync:
-      - Drama
       - Comedy
+      - Drama
   590223:
     label_title: Love and Monsters
     sort_title: Love and Monsters
@@ -3070,8 +3070,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/465124
     tpdb_search: https://theposterdb.com/search?term=Love+and+Monsters&section=movies
     genre.sync:
-      - Comedy
       - Action
+      - Comedy
   1226406:
     label_title: Love Hurts
     sort_title: Love Hurts
@@ -3079,8 +3079,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/564478
     tpdb_search: https://theposterdb.com/search?term=Love+Hurts&section=movies
     genre.sync:
-      - Comedy
       - Action
+      - Comedy
   948549:
     label_title: Love Lies Bleeding
     sort_title: Love Lies Bleeding
@@ -3368,8 +3368,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/274026
     tpdb_search: https://theposterdb.com/search?term=The+Menu&section=movies
     genre.sync:
-      - Thriller
       - Horror
+      - Thriller
   696506:
     label_title: Mickey 17
     sort_title: Mickey 17
@@ -3395,8 +3395,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/579582
     tpdb_search: https://theposterdb.com/search?term=A+Minecraft+Movie&section=movies
     genre.sync:
-      - Comedy
       - Animation
+      - Comedy
   211672:
     label_title: Minions
     sort_title: Minions 1
@@ -3544,8 +3544,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/30848
     tpdb_search: https://theposterdb.com/search?term=Mr.+Nobody&section=movies
     genre.sync:
-      - Science Fiction
       - Drama
+      - Science Fiction
   762509:
     label_title: Mufasa The Lion King
     sort_title: Mufasa The Lion King
@@ -3651,8 +3651,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/448982
     tpdb_search: https://theposterdb.com/search?term=No+Reservations&section=movies
     genre.sync:
-      - Drama
       - Comedy
+      - Drama
   615457:
     label_title: Nobody
     sort_title: Nobody 1
@@ -3861,8 +3861,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/582725
     tpdb_search: https://theposterdb.com/search?term=The+Parenting&section=movies
     genre.sync:
-      - Horror
       - Comedy
+      - Horror
   949423:
     label_title: Pearl
     sort_title: Pearl
@@ -4023,8 +4023,8 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Predator&section=movies
     genre.sync:
       - Action
-      - Thriller
       - Science Fiction
+      - Thriller
   169:
     label_title: Predator 2
     sort_title: Predator 2
@@ -4033,8 +4033,8 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Predator+2&section=movies
     genre.sync:
       - Action
-      - Thriller
       - Science Fiction
+      - Thriller
   34851:
     label_title: Predators
     sort_title: Predator 3
@@ -4043,8 +4043,8 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Predators&section=movies
     genre.sync:
       - Action
-      - Thriller
       - Science Fiction
+      - Thriller
   346910:
     label_title: The Predator
     sort_title: Predator 4
@@ -4053,8 +4053,8 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Predator&section=movies
     genre.sync:
       - Action
-      - Thriller
       - Science Fiction
+      - Thriller
   766507:
     label_title: Prey
     sort_title: Predator 5
@@ -4063,8 +4063,8 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Prey&section=movies
     genre.sync:
       - Action
-      - Thriller
       - Science Fiction
+      - Thriller
   1376434:
     label_title: Predator Killer of Killers
     sort_title: Predator 6
@@ -4073,8 +4073,9 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Predator+Killer+of+Killers&section=movies
     genre.sync:
       - Action
-      - Thriller
+      - Animation
       - Science Fiction
+      - Thriller
   1140535:
     label_title: Presence
     sort_title: Presence
@@ -4090,8 +4091,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/147547
     tpdb_search: https://theposterdb.com/search?term=The+Prestige&section=movies
     genre.sync:
-      - Thriller
       - Science Fiction
+      - Thriller
   128:
     label_title: Princess Mononoke
     sort_title: Princess Mononoke
@@ -4203,8 +4204,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/139036
     tpdb_search: https://theposterdb.com/search?term=Requiem+for+a+Dream&section=movies
     genre.sync:
-      - Thriller
       - Drama
+      - Thriller
   11011:
     label_title: Ri¢hie Ri¢h
     sort_title: Richie Rich
@@ -4262,8 +4263,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/498592
     tpdb_search: https://theposterdb.com/search?term=Saltburn&section=movies
     genre.sync:
-      - Thriller
       - Comedy
+      - Thriller
   11528:
     label_title: The Sandlot
     sort_title: Sandlot
@@ -4322,8 +4323,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/570224
     tpdb_search: https://theposterdb.com/search?term=September+5&section=movies
     genre.sync:
-      - Thriller
       - Drama
+      - Thriller
   566525:
     label_title: Shang-Chi and the Legend of the Ten Rings
     sort_title: Shang-Chi and the Legend of the Ten Rings
@@ -4440,8 +4441,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/599014
     tpdb_search: https://theposterdb.com/search?term=A+Simple+Favor&section=movies
     genre.sync:
-      - Thriller
       - Comedy
+      - Thriller
   974573:
     label_title: Another Simple Favor
     sort_title: Simple Favor 2
@@ -4449,8 +4450,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/599015
     tpdb_search: https://theposterdb.com/search?term=Another+Simple+Favor&section=movies
     genre.sync:
-      - Thriller
       - Comedy
+      - Thriller
   10223:
     label_title: A Simple Plan
     sort_title: Simple Plan
@@ -4554,8 +4555,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/41179
     tpdb_search: https://theposterdb.com/search?term=Source+Code&section=movies
     genre.sync:
-      - Thriller
       - Science Fiction
+      - Thriller
   1130022:
     label_title: Sovereign
     sort_title: Sovereign
@@ -4877,8 +4878,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/211559
     tpdb_search: https://theposterdb.com/search?term=Sunshine&section=movies
     genre.sync:
-      - Thriller
       - Science Fiction
+      - Thriller
   502356:
     label_title: The Super Mario Bros. Movie
     sort_title: Super Mario Bros. Movie
@@ -4936,8 +4937,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/92782
     tpdb_search: https://theposterdb.com/search?term=Tenet&section=movies
     genre.sync:
-      - Thriller
       - Science Fiction
+      - Thriller
   420634:
     label_title: Terrifier
     sort_title: Terrifier
@@ -5374,8 +5375,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/627988
     tpdb_search: https://theposterdb.com/search?term=Were+All+Gonna+Die&section=movies
     genre.sync:
-      - Science Fiction
       - Comedy
+      - Science Fiction
   894205:
     label_title: Werewolf by Night
     sort_title: Werewolf by Night
@@ -5417,8 +5418,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/262094
     tpdb_search: https://theposterdb.com/search?term=When+We+First+Met&section=movies
     genre.sync:
-      - Drama
       - Comedy
+      - Drama
   244786:
     label_title: Whiplash
     sort_title: Whiplash
@@ -5476,8 +5477,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/564474
     tpdb_search: https://theposterdb.com/search?term=Wolf+Man&section=movies
     genre.sync:
-      - Horror
       - Fantasy
+      - Horror
   76170:
     label_title: The Wolverine
     sort_title: Wolverine
@@ -5494,8 +5495,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/535335
     tpdb_search: https://theposterdb.com/search?term=Woman+of+the+Hour&section=movies
     genre.sync:
-      - Thriller
       - Horror
+      - Thriller
   297762:
     label_title: Wonder Woman
     sort_title: Wonder Woman 1
