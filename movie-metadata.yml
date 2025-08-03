@@ -105,7 +105,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/20660
     tpdb_search: https://theposterdb.com/search?term=The+Adventures+of+Sharkboy+and+Lavagirl&section=movies
     genre.sync:
-      - Action
+      - Family
   537915:
     label_title: After
     sort_title: After 1
@@ -153,7 +153,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/96132
     tpdb_search: https://theposterdb.com/search?term=Air+Bud&section=movies
     genre.sync:
-      - Comedy
+      - Family
   348:
     label_title: Alien
     sort_title: Alien 1
@@ -161,8 +161,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/1214
     tpdb_search: https://theposterdb.com/search?term=Alien&section=movies
     genre.sync:
-      - Action
       - Science Fiction
+      - Thriller
   679:
     label_title: Aliens
     sort_title: Alien 2
@@ -170,8 +170,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/1215
     tpdb_search: https://theposterdb.com/search?term=Aliens&section=movies
     genre.sync:
-      - Action
       - Science Fiction
+      - Thriller
   8077:
     label_title: Alien³
     sort_title: Alien 3
@@ -179,8 +179,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/1216
     tpdb_search: https://theposterdb.com/search?term=Alien³&section=movies
     genre.sync:
-      - Action
       - Science Fiction
+      - Thriller
   8078:
     label_title: Alien Resurrection
     sort_title: Alien 4
@@ -188,8 +188,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/1217
     tpdb_search: https://theposterdb.com/search?term=Alien+Resurrection&section=movies
     genre.sync:
-      - Action
       - Science Fiction
+      - Thriller
   70981:
     label_title: Prometheus
     sort_title: Alien 5
@@ -197,8 +197,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/1220
     tpdb_search: https://theposterdb.com/search?term=Prometheus&section=movies
     genre.sync:
-      - Action
       - Science Fiction
+      - Thriller
   126889:
     label_title: Alien Covenant
     sort_title: Alien 6
@@ -206,8 +206,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/1221
     tpdb_search: https://theposterdb.com/search?term=Alien+Covenant&section=movies
     genre.sync:
-      - Action
       - Science Fiction
+      - Thriller
   945961:
     label_title: Alien Romulus
     sort_title: Alien 7
@@ -215,8 +215,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/516343
     tpdb_search: https://theposterdb.com/search?term=Alien+Romulus&section=movies
     genre.sync:
-      - Action
       - Science Fiction
+      - Thriller
   395:
     label_title: AVP Alien vs. Predator
     sort_title: Alien vs. Predator 1
@@ -224,8 +224,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/1218
     tpdb_search: https://theposterdb.com/search?term=AVP+Alien+vs.+Predator&section=movies
     genre.sync:
-      - Action
       - Science Fiction
+      - Thriller
   440:
     label_title: Aliens vs Predator Requiem
     sort_title: Alien vs. Predator 2
@@ -233,8 +233,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/1219
     tpdb_search: https://theposterdb.com/search?term=Aliens+vs+Predator+Requiem&section=movies
     genre.sync:
-      - Action
       - Science Fiction
+      - Thriller
   11497:
     label_title: All Dogs Go to Heaven
     sort_title: All Dogs Go to Heaven
@@ -243,6 +243,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=All+Dogs+Go+to+Heaven&section=movies
     genre.sync:
       - Animation
+      - Family
   342470:
     label_title: All the Bright Places
     sort_title: All the Bright Places
@@ -402,6 +403,7 @@ metadata:
     release_year: '2006'
     url_poster: https://theposterdb.com/api/assets/631120
     tpdb_search: https://theposterdb.com/search?term=Aquamarine&section=movies
+      - Family
   1051896:
     label_title: Arcadian
     sort_title: Arcadian
@@ -601,7 +603,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/575598
     tpdb_search: https://theposterdb.com/search?term=Beethoven&section=movies
     genre.sync:
-      - Comedy
+      - Family
   113082:
     label_title: Berserk The Golden Age Arc I The Egg of the King
     sort_title: Berzerk The Golden Age Arc 1
@@ -650,7 +652,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/627821
     tpdb_search: https://theposterdb.com/search?term=Bingo&section=movies
     genre.sync:
-      - Comedy
+      - Family
   495764:
     label_title: Birds of Prey and the Fantabulous Emancipation of One Harley Quinn
     sort_title: Birds of Prey and the Fantabulous Emancipation of One Harley Quinn
@@ -1055,6 +1057,8 @@ metadata:
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/576004
     tpdb_search: https://theposterdb.com/search?term=A+Complete+Unknown&section=movies
+    genre.sync:
+      - Drama
   974576:
     label_title: Conclave
     sort_title: Conclave
@@ -1375,8 +1379,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/631116
     tpdb_search: https://theposterdb.com/search?term=Durango+Kids&section=movies
     genre.sync:
-      - Adventure
-      - Science Fiction
+      - Family
   559969:
     label_title: El Camino A Breaking Bad Movie
     sort_title: El Camino A Breaking Bad Movie
@@ -2153,7 +2156,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/377654
     tpdb_search: https://theposterdb.com/search?term=The+Love+Bug&section=movies
     genre.sync:
-      - Comedy
+      - Family
   10869:
     label_title: Herbie Rides Again
     sort_title: Herbie 2
@@ -2161,7 +2164,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/377655
     tpdb_search: https://theposterdb.com/search?term=Herbie+Rides+Again&section=movies
     genre.sync:
-      - Comedy
+      - Family
   14140:
     label_title: Herbie Goes to Monte Carlo
     sort_title: Herbie 3
@@ -2169,7 +2172,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/377656
     tpdb_search: https://theposterdb.com/search?term=Herbie+Goes+to+Monte+Carlo&section=movies
     genre.sync:
-      - Comedy
+      - Family
   12129:
     label_title: Herbie Goes Bananas
     sort_title: Herbie 4
@@ -2177,7 +2180,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/377657
     tpdb_search: https://theposterdb.com/search?term=Herbie+Goes+Bananas&section=movies
     genre.sync:
-      - Comedy
+      - Family
   32643:
     label_title: The Love Bug
     sort_title: Herbie 5
@@ -2185,7 +2188,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/377658
     tpdb_search: https://theposterdb.com/search?term=The+Love+Bug&section=movies
     genre.sync:
-      - Comedy
+      - Family
   11451:
     label_title: Herbie Fully Loaded
     sort_title: Herbie 6
@@ -2193,7 +2196,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/377659
     tpdb_search: https://theposterdb.com/search?term=Herbie+Fully+Loaded&section=movies
     genre.sync:
-      - Comedy
+      - Family
   493922:
     label_title: Hereditary
     sort_title: Hereditary
@@ -2243,7 +2246,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/50688
     tpdb_search: https://theposterdb.com/search?term=Home+Alone&section=movies
     genre.sync:
-      - Comedy
+      - Family
   772:
     label_title: 'Home Alone 2: Lost in New York'
     sort_title: Home Alone 2
@@ -2251,7 +2254,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/50689
     tpdb_search: https://theposterdb.com/search?term=Home+Alone+2+Lost+in+New+York&section=movies
     genre.sync:
-      - Comedy
+      - Family
   9714:
     label_title: Home Alone 3
     sort_title: Home Alone 3
@@ -2259,7 +2262,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/50690
     tpdb_search: https://theposterdb.com/search?term=Home+Alone+3&section=movies
     genre.sync:
-      - Comedy
+      - Family
   12546:
     label_title: Home Alone 4
     sort_title: Home Alone 4
@@ -2267,7 +2270,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/50691
     tpdb_search: https://theposterdb.com/search?term=Home+Alone+4&section=movies
     genre.sync:
-      - Comedy
+      - Family
   134375:
     label_title: 'Home Alone: The Holidy Heist'
     sort_title: Home Alone 5
@@ -2275,7 +2278,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/50692
     tpdb_search: https://theposterdb.com/search?term=Home+Alone+The+Holiday+Heist&section=movies
     genre.sync:
-      - Comedy
+      - Family
   76492:
     label_title: Hotel Transylvania
     sort_title: Hotel Transylvania 1
@@ -2486,7 +2489,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/160677
     tpdb_search: https://theposterdb.com/search?term=The+Indian+in+the+Cupboard&section=movies
     genre.sync:
-      - Fantasy
+      - Family
   150540:
     label_title: Inside Out
     sort_title: Inside Out
@@ -2719,8 +2722,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/8781
     tpdb_search: https://theposterdb.com/search?term=Jumanji&section=movies
     genre.sync:
-      - Fantasy
-      - Action
+      - Family
   329:
     label_title: Jurassic Park
     sort_title: Jurassic Park 1
@@ -2911,6 +2913,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Lady+and+the+Tramp&section=movies
     genre.sync:
       - Animation
+      - Family
   938614:
     label_title: Late Night with the Devil
     sort_title: Late Night with the Devil
@@ -2959,7 +2962,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/630620
     tpdb_search: https://theposterdb.com/search?term=Life+Is+Ruff&section=movies
     genre.sync:
-      - Comedy
+      - Family
   503919:
     label_title: The Lighthouse
     sort_title: Lighthouse
@@ -2986,7 +2989,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/554954
     tpdb_search: https://theposterdb.com/search?term=Lilo+%26+Stitch&section=movies
     genre.sync:
-      - Comedy
+      - Family
   1083968:
     label_title: Locked
     sort_title: Locked
@@ -3169,8 +3172,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/413533
     tpdb_search: https://theposterdb.com/search?term=A+Man+Called+Otto&section=movies
     genre.sync:
-      - Comedy
-      - Drama
+      - Family
   49521:
     label_title: Man of Steel
     sort_title: Man of Steel
@@ -3178,7 +3180,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/40929
     tpdb_search: https://theposterdb.com/search?term=Man+of+Steel&section=movies
     genre.sync:
-      - Action
+      - Superhero
   4481:
     label_title: Manon of the Spring
     sort_title: Manon of the Spring
@@ -3248,7 +3250,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/137090
     tpdb_search: https://theposterdb.com/search?term=Matilda&section=movies
     genre.sync:
-      - Comedy
+      - Family
   603:
     label_title: The Matrix
     sort_title: Matrix 1
@@ -3377,8 +3379,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/575403
     tpdb_search: https://theposterdb.com/search?term=Mickey+17&section=movies
     genre.sync:
-      - Action
       - Comedy
+      - Science Fiction
   530385:
     label_title: Midsommar
     sort_title: Midsommar
@@ -3395,8 +3397,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/579582
     tpdb_search: https://theposterdb.com/search?term=A+Minecraft+Movie&section=movies
     genre.sync:
-      - Animation
-      - Comedy
+      - Fantasy
   211672:
     label_title: Minions
     sort_title: Minions 1
@@ -3553,7 +3554,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/575408
     tpdb_search: https://theposterdb.com/search?term=Mufasa+The+Lion+King&section=movies
     genre.sync:
-      - Animation
+      - Family
   505262:
     label_title: My Hero Academia Two Heroes
     sort_title: My Hero Academia 1
@@ -3853,7 +3854,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/30941
     tpdb_search: https://theposterdb.com/search?term=The+Parent+Trap&section=movies
     genre.sync:
-      - Comedy
+      - Family
   850920:
     label_title: The Parenting
     sort_title: Parenting
@@ -3944,7 +3945,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/51361
     tpdb_search: https://theposterdb.com/search?term=Pixels&section=movies
     genre.sync:
-      - Animation
+      - Comedy
+      - Action
   61791:
     label_title: Rise of the Planet of the Apes
     sort_title: Planet of the Apes 1
@@ -4022,7 +4024,6 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/244
     tpdb_search: https://theposterdb.com/search?term=Predator&section=movies
     genre.sync:
-      - Action
       - Science Fiction
       - Thriller
   169:
@@ -4032,7 +4033,6 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/245
     tpdb_search: https://theposterdb.com/search?term=Predator+2&section=movies
     genre.sync:
-      - Action
       - Science Fiction
       - Thriller
   34851:
@@ -4042,7 +4042,6 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/246
     tpdb_search: https://theposterdb.com/search?term=Predators&section=movies
     genre.sync:
-      - Action
       - Science Fiction
       - Thriller
   346910:
@@ -4052,7 +4051,6 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/247
     tpdb_search: https://theposterdb.com/search?term=The+Predator&section=movies
     genre.sync:
-      - Action
       - Science Fiction
       - Thriller
   766507:
@@ -4062,7 +4060,6 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/255438
     tpdb_search: https://theposterdb.com/search?term=Prey&section=movies
     genre.sync:
-      - Action
       - Science Fiction
       - Thriller
   1376434:
@@ -4072,10 +4069,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/613324
     tpdb_search: https://theposterdb.com/search?term=Predator+Killer+of+Killers&section=movies
     genre.sync:
-      - Action
       - Animation
-      - Science Fiction
-      - Thriller
   1140535:
     label_title: Presence
     sort_title: Presence
@@ -4213,7 +4207,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/120295
     tpdb_search: https://theposterdb.com/search?term=Ri¢hie+Ri¢h&section=movies
     genre.sync:
-      - Comedy
+      - Family
   1022690:
     label_title: Ricky Stanicky
     sort_title: Ricky Stanicky
@@ -4272,7 +4266,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/221978
     tpdb_search: https://theposterdb.com/search?term=The+Sandlot&section=movies
     genre.sync:
-      - Comedy
+      - Family
   9637:
     label_title: Scooby-Doo
     sort_title: Scooby-Doo 1
@@ -4280,7 +4274,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/5899
     tpdb_search: https://theposterdb.com/search?term=Scooby-Doo&section=movies
     genre.sync:
-      - Animation
+      - Family
   11024:
     label_title: Scooby-Doo 2 Monsters Unleashed
     sort_title: Scooby-Doo 2
@@ -4288,7 +4282,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/5900
     tpdb_search: https://theposterdb.com/search?term=Scooby-Doo+2+Monsters+Unleashed&section=movies
     genre.sync:
-      - Animation
+      - Family
   22538:
     label_title: Scott Pilgrim vs. the World
     sort_title: Scott Pilgrim vs. the World
@@ -4523,7 +4517,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/585404
     tpdb_search: https://theposterdb.com/search?term=Snow+White&section=movies
     genre.sync:
-      - Animation
+      - Family
   454626:
     label_title: Sonic the Hedgehog
     sort_title: Sonic the Hedgehog 1
@@ -5000,11 +4994,11 @@ metadata:
     genre.sync:
       - Superhero
   986056:
-    label_title: Thunderbolts*
+    label_title: 'Thunderbolts*'
     sort_title: Thunderbolts
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/601849
-    tpdb_search: https://theposterdb.com/search?term=Thunderbolts*&section=movies
+    tpdb_search: https://theposterdb.com/search?term=Thunderbolts&section=movies
     studio: Marvel Studios
     genre.sync:
       - Superhero
@@ -5435,7 +5429,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/497899
     tpdb_search: https://theposterdb.com/search?term=Wicked&section=movies
     genre.sync:
-      - Fantasy
+      - Family
   1184918:
     label_title: The Wild Robot
     sort_title: Wild Robot
@@ -5520,7 +5514,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/420837
     tpdb_search: https://theposterdb.com/search?term=Wonka&section=movies
     genre.sync:
-      - Fantasy
+      - Family
   1197306:
     label_title: A Working Man
     sort_title: Working Man
