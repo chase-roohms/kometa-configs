@@ -1719,6 +1719,12 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Fountain+of+Youth&section=movies
     genre.sync:
       - Action
+  10330:
+    label_title: Freaky Friday
+    release_year: '2003'
+    sort_title: Freaky Friday
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Freaky+Friday&section=movies
   1239655:
     label_title: Friendship
     release_year: '2025'
