@@ -236,17 +236,19 @@ jobs:
         run: |
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
+          old_sha=$(git rev-parse HEAD)
           git add ${{ env.MOVIE_METADATA_FILE }}
           git add ${{ env.SHOW_METADATA_FILE }}
           if ! git diff-index --quiet main; then
             git commit -m "Updating ${{ github.event.client_payload.title }}" >> "$UPDATE_SUMMARY_FILE"
-            echo >> "$UPDATE_SUMMARY_FILE"
             git push >> "$UPDATE_SUMMARY_FILE"
-            echo >> "$UPDATE_SUMMARY_FILE"
           else
             echo "No changes to commit." >> $UPDATE_SUMMARY_FILE
           fi
           sha=$(git rev-parse HEAD)
+          git diff --unified=0 --no-color "$old_sha" "$sha" >> "$UPDATE_SUMMARY_FILE"
+          git diff --unified=0 --no-color "$old_sha" "$sha"
+          git diff --unified=0 --no-color "$old_sha" "$sha" | grep '^@@'
           echo "sha=$sha" >> $GITHUB_OUTPUT
 
       - name: Create Job Summary
