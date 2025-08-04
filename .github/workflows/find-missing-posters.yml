@@ -135,3 +135,7 @@ jobs:
             echo "|-------|-----|------------|----------------|-------------|" >> $GITHUB_STEP_SUMMARY
             cat $SHOW_REPORT_FILE >> $GITHUB_STEP_SUMMARY
           fi
+
+          if [ -f "$MOVIE_REPORT_FILE" ] && [ ! -s "$MOVIE_REPORT_FILE" ] && [ -f "$SHOW_REPORT_FILE" ] && [ ! -s "$SHOW_REPORT_FILE" ]; then
+            echo "# No Posters Missing" >> $GITHUB_STEP_SUMMARY
+          fi
