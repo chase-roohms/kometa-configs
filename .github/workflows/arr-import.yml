@@ -242,13 +242,13 @@ jobs:
           if ! git diff-index --quiet main; then
             git commit -m "Updating ${{ github.event.client_payload.title }}" >> "$UPDATE_SUMMARY_FILE"
             git push >> "$UPDATE_SUMMARY_FILE"
+            new_sha=$(git rev-parse HEAD)
+            git diff --unified=0 --no-color "$old_sha" "$new_sha" >> "$UPDATE_SUMMARY_FILE"
+            sha=$new_sha
           else
             echo "No changes to commit." >> $UPDATE_SUMMARY_FILE
+            sha=$old_sha
           fi
-          sha=$(git rev-parse HEAD)
-          git diff --unified=0 --no-color "$old_sha" "$sha" >> "$UPDATE_SUMMARY_FILE"
-          git diff --unified=0 --no-color "$old_sha" "$sha"
-          git diff --unified=0 --no-color "$old_sha" "$sha" | grep '^@@'
           echo "sha=$sha" >> $GITHUB_OUTPUT
 
       - name: Create Job Summary
