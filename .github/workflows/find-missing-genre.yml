@@ -87,8 +87,8 @@ jobs:
             local output="poster_report_shows.md"
           
             {
-              echo "|TMDB ID|Title|Release Year|Find Genre"
-              echo "|-------|-----|------------|----------------|-------------|"
+              echo "|TMDB ID|Title|Release Year|Find Genre|"
+              echo "|-------|-----|------------|-------------|"
               get_missing_genres "$SHOW_METADATA_FILE" "show"
             } > "$output"
           }
