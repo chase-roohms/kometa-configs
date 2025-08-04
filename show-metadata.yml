@@ -596,8 +596,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Chief+of+War&section=shows
     genre.sync:
       - Drama
-      - History
-      - Mini-Series
     seasons:
       1:
         url_poster: ''
