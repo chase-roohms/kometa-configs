@@ -129,6 +129,7 @@ jobs:
         shell: bash
         env:
           EPISODES: ${{ toJson(github.event.client_payload.episodes) }}
+          GENRES: ${{ toJson(github.event.client_payload.series.genres) }}
         run: |
           ls # Debug
           title="${{ github.event.client_payload.series.title }}"
@@ -136,7 +137,7 @@ jobs:
           release_year="${{ github.event.client_payload.series.year }}"
           tvdb_id=${{ github.event.client_payload.series.tvdbId }}
           tpdb_search="https://theposterdb.com/search?term=$encoded_title&section=shows"
-          genres=${{ toJson(github.event.client_payload.series.genres) }}
+          genres=$GENRES
 
           lower_title="${title,,}"  # convert to lowercase for comparison
           sort_title="$title"
