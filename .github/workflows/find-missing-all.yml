@@ -1,0 +1,19 @@
+name: Find Missing Attributes
+
+on:
+  workflow_dispatch:
+
+permissions:
+  id-token: write
+  contents: write
+
+jobs:
+  find-missing-posters:
+    uses: "chase-roohms/kometa-configs/.github/workflows/find-missing-posters.yml@main"
+    with:
+      sha: ${{ github.sha }}
+      
+  find-missing-genres:
+    uses: "chase-roohms/kometa-configs/.github/workflows/find-missing-genres.yml@main"
+    with:
+      sha: ${{ github.sha }}
