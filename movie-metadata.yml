@@ -401,8 +401,7 @@ metadata:
     sort_title: Aquamarine
     release_year: '2006'
     url_poster: https://theposterdb.com/api/assets/631120
-    tpdb_search: https://theposterdb.com/search?term=Aquamarine&section=movies
-      - Family
+    tpdb_search: https://theposterdb.com/search?term=Aquamarine&section=movies - Family
   1051896:
     label_title: Arcadian
     sort_title: Arcadian
@@ -2921,6 +2920,12 @@ metadata:
     genre.sync:
       - Horror
       - Thriller
+  22803:
+    label_title: Law Abiding Citizen
+    sort_title: Law Abiding Citizen
+    release_year: '2009'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Law+Abiding+Citizen&section=movies
   526313:
     label_title: A Leaf of Faith
     sort_title: Leaf of Faith
