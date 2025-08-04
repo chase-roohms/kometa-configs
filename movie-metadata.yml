@@ -2926,8 +2926,11 @@ metadata:
     label_title: Law Abiding Citizen
     sort_title: Law Abiding Citizen
     release_year: '2009'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/45345
     tpdb_search: https://theposterdb.com/search?term=Law+Abiding+Citizen&section=movies
+    genre.sync:
+      - Thriller
+      - Action
   526313:
     label_title: A Leaf of Faith
     sort_title: Leaf of Faith
