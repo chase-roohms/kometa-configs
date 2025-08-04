@@ -120,8 +120,12 @@ jobs:
 
       - name: Create Job Summary
         run: |
+
+          cat poster_report_movies.md
+          cat poster_report_shows.md
+          
           if [ -f "poster_report_movies.md" ] && [ ! -s "poster_report_movies.md" ]; then
-            echo "# Missing Genres in Movies" >> $GITHUB_STEP_SUMMARY
+            echo "# Missing Posters in Movies" >> $GITHUB_STEP_SUMMARY
             echo "|TMDB ID|Title|Release Year|Find a Poster|" >> $GITHUB_STEP_SUMMARY
             echo "|-------|-----|------------|-------------|" >> $GITHUB_STEP_SUMMARY
             cat poster_report_movies.md >> $GITHUB_STEP_SUMMARY
