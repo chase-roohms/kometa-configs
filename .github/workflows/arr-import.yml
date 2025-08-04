@@ -37,6 +37,8 @@ jobs:
       
       - name: Update metadata file with movie information
         if: ${{ github.event.client_payload.instanceName == 'Radarr' }}
+        env:
+          GENRES: ${{ toJson(github.event.client_payload.remoteMovie.genres) }}
         shell: bash
         run: |
           ls # Debug
@@ -45,6 +47,7 @@ jobs:
           release_year="${{ github.event.client_payload.remoteMovie.year }}"
           tmdb_id=${{ github.event.client_payload.remoteMovie.tmdbId }}
           tpdb_search="https://theposterdb.com/search?term=$encoded_title&section=movies"
+          genres=$GENRES
 
           lower_title="${title,,}"  # convert to lowercase for comparison
           sort_title="$title"
@@ -65,7 +68,7 @@ jobs:
 
           if [[ $(yq '.metadata.${{ github.event.client_payload.remoteMovie.tmdbId }}' ${{ env.MOVIE_METADATA_FILE }}) == null ]]; then
             echo "Movie does not exist, adding"
-            yq -i '.metadata += {'"$tmdb_id"': {"label_title": "'"$title"'", "sort_title": "'"$sort_title"'", "release_year": "'"$release_year"'", "url_poster": "", "tpdb_search": "'"$tpdb_search"'", "genre.sync": []}}' ${{ env.MOVIE_METADATA_FILE }}
+            yq -i '.metadata += {'"$tmdb_id"': {"label_title": "'"$title"'", "sort_title": "'"$sort_title"'", "release_year": "'"$release_year"'", "url_poster": "", "tpdb_search": "'"$tpdb_search"'", "genre.sync": '"$genres"'}}' ${{ env.MOVIE_METADATA_FILE }}
             
             # https://chatgpt.com/share/68757652-e170-8003-b6e1-d625f0fb59f8
             # Sort title sorting
