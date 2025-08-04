@@ -1,0 +1,110 @@
+name: Find Missing Genres
+
+on:
+  workflow_dispatch:
+  workflow_call:
+    inputs:
+      sha:
+        description: SHA of the most recent commit, likely one created in the executing job
+        type: string
+        required: true
+
+permissions:
+  id-token: write
+  contents: read
+
+env:
+  MOVIE_METADATA_FILE: movie-metadata.yml
+  SHOW_METADATA_FILE: show-metadata.yml
+
+jobs:
+  update:
+    name: Find Missing Genres
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        if: github.event_name == 'workflow_dispatch'
+        id: checkout-dispatch
+        uses: actions/checkout@v4.2.2
+
+      - name: Checkout
+        if: github.event_name != 'workflow_dispatch'
+        id: checkout-other-events
+        uses: actions/checkout@v4.2.2
+        with:
+          ref: ${{ inputs.sha }}
+      
+      - name: Find Missing Genres
+        id: run-script
+        run: |
+          MOVIE_METADATA_FILE=$MOVIE_METADATA_FILE
+          SHOW_METADATA_FILE=$SHOW_METADATA_FILE
+          function file_exists() {
+            [[ -f "$1" ]] || { echo "File not found: $1"; exit 1; }
+          }
+          
+          function get_google_search_link() {
+            local title="$1"
+            local section="$2"
+            local year="$3"
+            search_query="$title $year $section"
+            local encoded_search_query="${search_query// /+}"
+            encoded_search_query="${encoded_search_query//&/%26}"
+            echo "https://www.google.com/search?q=${encoded_search_query}"
+          }
+          
+          function get_missing_genres() {
+            local file="$1"
+            local section="$2"
+            yq '.metadata' "$file" | yq 'to_entries | .[]' -o=json | jq -c '
+              select(.value."genre.sync" == null or .value."genre.sync" == "")
+              | {
+                  db_id: .key,
+                  title: .value.label_title,
+                  release_year: (.value.release_year // "Unknown")
+                }' | while read -r line; do
+              db_id=$(echo "$line" | jq -r '.db_id')
+              title=$(echo "$line" | jq -r '.title')
+              year=$(echo "$line" | jq -r '.release_year')
+              search_url=$(get_google_search_link "$title" "movie" "$year")
+              echo "|[${db_id}](https://www.themoviedb.org/movie/${db_id})|${title}|${year}|[Search Google](${search_url})|"
+            done
+          }
+          
+          function write_movie_report() {
+            local MOVIE_METADATA_FILE="$1"
+            local output="poster_report_movies.md"
+          
+            {
+              echo "|TMDB ID|Title|Release Year|Find Genre|"
+              echo "|-------|-----|------------|-------------|"
+              get_missing_genres "$MOVIE_METADATA_FILE" "movie"
+            } > "$output"
+          }
+          
+          function write_show_report() {
+            local SHOW_METADATA_FILE="$1"
+            local output="poster_report_shows.md"
+          
+            {
+              echo "|TMDB ID|Title|Release Year|Find Genre"
+              echo "|-------|-----|------------|----------------|-------------|"
+              get_missing_genres "$SHOW_METADATA_FILE" "show"
+            } > "$output"
+          }
+          
+          # ──────────────────────────────── MAIN ───────────────────────────────── #
+          file_exists "$MOVIE_METADATA_FILE"
+          file_exists "$SHOW_METADATA_FILE"
+
+          echo "Starting movie report"
+          write_movie_report "$MOVIE_METADATA_FILE"
+          echo "Starting show report"
+          write_show_report "$SHOW_METADATA_FILE"
+
+      - name: Create Job Summary
+        run: |
+          echo "# Missing Genres in Movies" >> $GITHUB_STEP_SUMMARY
+          cat poster_report_movies.md >> $GITHUB_STEP_SUMMARY
+          echo "# Missing Genres in Shows" >> $GITHUB_STEP_SUMMARY
+          cat poster_report_shows.md >> $GITHUB_STEP_SUMMARY
