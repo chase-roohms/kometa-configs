@@ -136,7 +136,7 @@ jobs:
           release_year="${{ github.event.client_payload.series.year }}"
           tvdb_id=${{ github.event.client_payload.series.tvdbId }}
           tpdb_search="https://theposterdb.com/search?term=$encoded_title&section=shows"
-          genres=${{ github.event.client_payload.series.genres }}
+          genres=${{ toJson(github.event.client_payload.series.genres) }}
 
           lower_title="${title,,}"  # convert to lowercase for comparison
           sort_title="$title"
@@ -156,7 +156,6 @@ jobs:
           echo $release_year
           echo $sort_title
           echo $tpdb_search
-          echo "$genres"
 
           if [[ $(yq '.metadata.${{ github.event.client_payload.series.tvdbId }}' ${{ env.SHOW_METADATA_FILE }}) == null ]]; then
             echo "Show does not exist, adding"
