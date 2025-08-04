@@ -1,4 +1,4 @@
-run-name: Imported file for ${{ github.event.client_payload.title }}
+run-name: "${{ github.event.client_payload.title }} Imported by ${{ github.event.client_payload.instanceName }}"
 name: Arr-Stack Import
 
 on:
@@ -21,6 +21,19 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4.2.2
+
+      - name: Debug Job Summary
+        env:
+          CLIENT_PAYLOAD: ${{ toJson(github.event.client_payload) }}
+          INSTANCE_NAME: ${{ github.event.client_payload.instanceName }}
+          TITLE: ${{ github.event.client_payload.title }}
+        run: |
+          echo "# Arr-Import Overview" >> $GITHUB_STEP_SUMMARY
+          echo "$TITLE imported by $INSTANCE_NAME" >> $GITHUB_STEP_SUMMARY
+          echo "## Client Payload" >> $GITHUB_STEP_SUMMARY
+          echo "\`\`\`json" >> $GITHUB_STEP_SUMMARY
+          echo "$CLIENT_PAYLOAD" >> $GITHUB_STEP_SUMMARY
+          echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
       
       - name: Update metadata file with movie information
         if: ${{ github.event.client_payload.instanceName == 'Radarr' }}
@@ -52,7 +65,7 @@ jobs:
 
           if [[ $(yq '.metadata.${{ github.event.client_payload.remoteMovie.tmdbId }}' ${{ env.MOVIE_METADATA_FILE }}) == null ]]; then
             echo "Movie does not exist, adding"
-            yq -i '.metadata += {'"$tmdb_id"': {"label_title": "'"$title"'", "release_year": "'"$release_year"'", "sort_title": "'"$sort_title"'", "url_poster": "", "tpdb_search": "'"$tpdb_search"'"}}' ${{ env.MOVIE_METADATA_FILE }}
+            yq -i '.metadata += {'"$tmdb_id"': {"label_title": "'"$title"'", "sort_title": "'"$sort_title"'", "release_year": "'"$release_year"'", "url_poster": "", "tpdb_search": "'"$tpdb_search"'", "genre.sync": []}}' ${{ env.MOVIE_METADATA_FILE }}
             
             # https://chatgpt.com/share/68757652-e170-8003-b6e1-d625f0fb59f8
             # Sort title sorting
@@ -145,7 +158,7 @@ jobs:
 
           if [[ $(yq '.metadata.${{ github.event.client_payload.series.tvdbId }}' ${{ env.SHOW_METADATA_FILE }}) == null ]]; then
             echo "Show does not exist, adding"
-            yq -i '.metadata += {'"$tvdb_id"': {"label_title": "'"$title"'", "release_year": "'"$release_year"'", "sort_title": "'"$sort_title"'", "url_poster": "", "tpdb_search": "'"$tpdb_search"'"}}' ${{ env.SHOW_METADATA_FILE }}
+            yq -i '.metadata += {'"$tvdb_id"': {"label_title": "'"$title"'", "sort_title": "'"$sort_title"'", "release_year": "'"$release_year"'", "url_poster": "", "tpdb_search": "'"$tpdb_search"'", "genre.sync": []}}' ${{ env.SHOW_METADATA_FILE }}
             
             # https://chatgpt.com/share/68757652-e170-8003-b6e1-d625f0fb59f8
             # Sort title sorting
