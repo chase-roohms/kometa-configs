@@ -592,13 +592,13 @@ metadata:
     label_title: Chief of War
     sort_title: Chief of War
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/622411
     tpdb_search: https://theposterdb.com/search?term=Chief+of+War&section=shows
     genre.sync:
       - Drama
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/622412
   405614:
     label_title: Chloe Ting
     sort_title: Chloe Ting
