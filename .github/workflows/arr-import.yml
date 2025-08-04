@@ -156,7 +156,7 @@ jobs:
           echo $release_year
           echo $sort_title
           echo $tpdb_search
-          echo $genres
+          echo "$genres"
 
           if [[ $(yq '.metadata.${{ github.event.client_payload.series.tvdbId }}' ${{ env.SHOW_METADATA_FILE }}) == null ]]; then
             echo "Show does not exist, adding"
