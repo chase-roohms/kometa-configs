@@ -20,9 +20,6 @@ jobs:
     outputs:
       sha: ${{ steps.commit-changes.outputs.sha }}
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-      
       - name: Save Client Payload to File
         env:
           CLIENT_PAYLOAD: "${{ toJson(github.event.client_payload) }}"
@@ -34,7 +31,10 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: client_payload
-          path: $CLIENT_PAYLOAD_FILE
+          path: ${{ env.CLIENT_PAYLOAD_FILE }}
+      
+      - name: Checkout
+        uses: actions/checkout@v4
       
       - name: Update metadata file with movie information
         if: ${{ github.event.client_payload.instanceName == 'Radarr' }}
