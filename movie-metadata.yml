@@ -4250,13 +4250,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-  15373:
-    label_title: Role Models
-    sort_title: Role Models
-    release_year: '2008'
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Role+Models&section=movies
-    genre.sync: null
   848187:
     label_title: Role Play
     sort_title: Role Play
