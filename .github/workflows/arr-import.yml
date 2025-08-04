@@ -13,6 +13,7 @@ env:
   MOVIE_METADATA_FILE: movie-metadata.yml
   SHOW_METADATA_FILE: show-metadata.yml
   CLIENT_PAYLOAD_FILE: json_data.json
+  UPDATE_SUMMARY_FILE: metadata_updates.md
 
 jobs:
   update:
@@ -237,9 +238,24 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git add ${{ env.MOVIE_METADATA_FILE }}
           git add ${{ env.SHOW_METADATA_FILE }}
-          git diff-index --quiet main || git commit -m "Updating ${{ github.event.client_payload.title }}" && git push
+          if ! git diff-index --quiet main; then
+            git commit -m "Updating ${{ github.event.client_payload.title }}" >> "$UPDATE_SUMMARY_FILE"
+            echo >> "$UPDATE_SUMMARY_FILE"
+            git push >> "$UPDATE_SUMMARY_FILE"
+            echo >> "$UPDATE_SUMMARY_FILE"
+          else
+            echo "No changes to commit." >> $UPDATE_SUMMARY_FILE
+          fi
           sha=$(git rev-parse HEAD)
           echo "sha=$sha" >> $GITHUB_OUTPUT
+
+      - name: Create Job Summary
+        run: |
+          echo "## Metadata Update Summary" >> $GITHUB_STEP_SUMMARY
+          echo "\`\`\`diff" >> $GITHUB_STEP_SUMMARY
+          cat "$UPDATE_SUMMARY_FILE" >> $GITHUB_STEP_SUMMARY
+          echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
+      
       
   find-missing-posters:
     needs: update
