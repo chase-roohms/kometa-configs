@@ -126,7 +126,7 @@ jobs:
             echo "# Missing Posters in Movies" >> $GITHUB_STEP_SUMMARY
             echo "|TMDB ID|Title|Release Year|Find a Poster|" >> $GITHUB_STEP_SUMMARY
             echo "|-------|-----|------------|-------------|" >> $GITHUB_STEP_SUMMARY
-            cat $SHOW_REPORT_FILE >> $GITHUB_STEP_SUMMARY
+            cat $MOVIE_REPORT_FILE >> $GITHUB_STEP_SUMMARY
           fi
           
           if [ -f "$SHOW_REPORT_FILE" ] && [ -s "$SHOW_REPORT_FILE" ]; then
