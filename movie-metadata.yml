@@ -5,7 +5,8 @@ metadata:
     release_year: '2002'
     url_poster: https://theposterdb.com/api/assets/617783
     tpdb_search: https://theposterdb.com/search?term=28+Days+Later&section=movies
-    genre.sync: []
+    genre.sync:
+      - Thriller
   1562:
     label_title: 28 Weeks Later
     sort_title: 28 Later 2
