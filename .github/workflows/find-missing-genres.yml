@@ -16,6 +16,8 @@ permissions:
 env:
   MOVIE_METADATA_FILE: movie-metadata.yml
   SHOW_METADATA_FILE: show-metadata.yml
+  MOVIE_REPORT_FILE: genre_report_movies.md
+  SHOW_REPORT_FILE: genre_report_shows.md
 
 jobs:
   update:
@@ -73,7 +75,7 @@ jobs:
           
           function write_movie_report() {
             local MOVIE_METADATA_FILE="$1"
-            local output="poster_report_movies.md"
+            local output="$MOVIE_REPORT_FILE"
           
             {
               get_missing_genres "$MOVIE_METADATA_FILE" "movie"
@@ -82,7 +84,7 @@ jobs:
           
           function write_show_report() {
             local SHOW_METADATA_FILE="$1"
-            local output="poster_report_shows.md"
+            local output="$SHOW_REPORT_FILE"
           
             {
               get_missing_genres "$SHOW_METADATA_FILE" "show"
@@ -100,16 +102,20 @@ jobs:
 
       - name: Create Job Summary
         run: |
-          if [ -f "poster_report_movies.md" ] && [ -s "poster_report_movies.md" ]; then
+          if [ -f "$MOVIE_REPORT_FILE" ] && [ -s "$MOVIE_REPORT_FILE" ]; then
             echo "# Missing Genres in Movies" >> $GITHUB_STEP_SUMMARY
             echo "|TMDB ID|Title|Release Year|Find Genre|" >> $GITHUB_STEP_SUMMARY
             echo "|-------|-----|------------|-------------|" >> $GITHUB_STEP_SUMMARY
-            cat poster_report_movies.md >> $GITHUB_STEP_SUMMARY
+            cat $MOVIE_REPORT_FILE >> $GITHUB_STEP_SUMMARY
           fi
           
-          if [ -f "poster_report_shows.md" ] && [ -s "poster_report_shows.md" ]; then
+          if [ -f "$SHOW_REPORT_FILE" ] && [ -s "$SHOW_REPORT_FILE" ]; then
             echo "# Missing Genres in Shows" >> $GITHUB_STEP_SUMMARY
             echo "|TVDB ID|Title|Release Year|Find Genre|" >> $GITHUB_STEP_SUMMARY
             echo "|-------|-----|------------|-------------|" >> $GITHUB_STEP_SUMMARY
-            cat poster_report_shows.md >> $GITHUB_STEP_SUMMARY
+            cat p$SHOW_REPORT_FILE >> $GITHUB_STEP_SUMMARY
+          fi
+
+          if [ -f "$MOVIE_REPORT_FILE" ] && [ ! -s "$MOVIE_REPORT_FILE" ] && [ -f "$SHOW_REPORT_FILE" ] && [ ! -s "$SHOW_REPORT_FILE" ]; then
+            echo "# No Genres Missing" >> $GITHUB_STEP_SUMMARY
           fi
