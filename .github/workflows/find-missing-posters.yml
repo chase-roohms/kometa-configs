@@ -16,6 +16,8 @@ permissions:
 env:
   MOVIE_METADATA_FILE: movie-metadata.yml
   SHOW_METADATA_FILE: show-metadata.yml
+  MOVIE_REPORT_FILE: poster_report_movies.md
+  SHOW_REPORT_FILE: poster_report_shows.md
 
 jobs:
   update:
@@ -93,7 +95,7 @@ jobs:
           
           function write_movie_report() {
             local MOVIE_METADATA_FILE="$1"
-            local output="poster_report_movies.md"
+            local output="$MOVIE_REPORT_FILE"
           
             {
               get_missing_movie_posters "$MOVIE_METADATA_FILE"
@@ -102,7 +104,7 @@ jobs:
           
           function write_show_report() {
             local SHOW_METADATA_FILE="$1"
-            local output="poster_report_shows.md"
+            local output="$SHOW_REPORT_FILE"
           
             {
               get_missing_show_posters "$SHOW_METADATA_FILE"
@@ -120,16 +122,16 @@ jobs:
 
       - name: Create Job Summary
         run: |
-          if [ -f "poster_report_movies.md" ] && [ -s "poster_report_movies.md" ]; then
+          if [ -f "$MOVIE_REPORT_FILE" ] && [ -s "$MOVIE_REPORT_FILE" ]; then
             echo "# Missing Posters in Movies" >> $GITHUB_STEP_SUMMARY
             echo "|TMDB ID|Title|Release Year|Find a Poster|" >> $GITHUB_STEP_SUMMARY
             echo "|-------|-----|------------|-------------|" >> $GITHUB_STEP_SUMMARY
-            cat poster_report_movies.md >> $GITHUB_STEP_SUMMARY
+            cat $SHOW_REPORT_FILE >> $GITHUB_STEP_SUMMARY
           fi
           
-          if [ -f "poster_report_shows.md" ] && [ -s "poster_report_shows.md" ]; then
+          if [ -f "$SHOW_REPORT_FILE" ] && [ -s "$SHOW_REPORT_FILE" ]; then
             echo "# Missing Posters in Shows" >> $GITHUB_STEP_SUMMARY
             echo "|TVDB ID|Title|Release Year|Missing Seasons|Find a Poster|" >> $GITHUB_STEP_SUMMARY
             echo "|-------|-----|------------|----------------|-------------|" >> $GITHUB_STEP_SUMMARY
-            cat poster_report_shows.md >> $GITHUB_STEP_SUMMARY
+            cat $SHOW_REPORT_FILE >> $GITHUB_STEP_SUMMARY
           fi
