@@ -38,7 +38,7 @@ jobs:
       - name: Update metadata file with movie information
         if: ${{ github.event.client_payload.instanceName == 'Radarr' }}
         env:
-          GENRES: ${{ toJson(github.event.client_payload.remoteMovie.genres) }}
+          GENRES: ${{ toJson(github.event.client_payload.movie.genres) }}
         shell: bash
         run: |
           ls # Debug
