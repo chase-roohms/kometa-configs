@@ -22,7 +22,7 @@ jobs:
     steps:
       - name: Save Client Payload to File
         env:
-          CLIENT_PAYLOAD: ${{ toJson(github.event.client_payload) }}
+          CLIENT_PAYLOAD: "${{ toJson(github.event.client_payload) }}"
         run: |
           echo "$CLIENT_PAYLOAD" >> $CLIENT_PAYLOAD_FILE
           echo "$CLIENT_PAYLOAD"
