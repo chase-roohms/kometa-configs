@@ -224,8 +224,14 @@ jobs:
           sha=$(git rev-parse HEAD)
           echo "sha=$sha" >> $GITHUB_OUTPUT
       
-  find-missing:
+  find-missing-posters:
     needs: update
     uses: "chase-roohms/kometa-configs/.github/workflows/find-missing-posters.yml@main"
+    with:
+      sha: ${{ needs.update.outputs.sha }}
+      
+  find-missing-genres:
+    needs: update
+    uses: "chase-roohms/kometa-configs/.github/workflows/find-missing-genres.yml@main"
     with:
       sha: ${{ needs.update.outputs.sha }}
