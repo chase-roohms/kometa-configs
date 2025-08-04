@@ -102,14 +102,14 @@ jobs:
         run: |
           if [ -f "poster_report_movies.md" ] && [ ! -s "poster_report_movies.md" ]; then
             echo "# Missing Genres in Movies" >> $GITHUB_STEP_SUMMARY
-            echo "|TMDB ID|Title|Release Year|Find Genre|"
-            echo "|-------|-----|------------|-------------|"
+            echo "|TMDB ID|Title|Release Year|Find Genre|" >> $GITHUB_STEP_SUMMARY
+            echo "|-------|-----|------------|-------------|" >> $GITHUB_STEP_SUMMARY
             cat poster_report_movies.md >> $GITHUB_STEP_SUMMARY
           fi
           
           if [ -f "poster_report_shows.md" ] && [ ! -s "poster_report_shows.md" ]; then
             echo "# Missing Genres in Shows" >> $GITHUB_STEP_SUMMARY
-            echo "|TVDB ID|Title|Release Year|Find Genre|"
-            echo "|-------|-----|------------|-------------|"
+            echo "|TVDB ID|Title|Release Year|Find Genre|" >> $GITHUB_STEP_SUMMARY
+            echo "|-------|-----|------------|-------------|" >> $GITHUB_STEP_SUMMARY
             cat poster_report_shows.md >> $GITHUB_STEP_SUMMARY
           fi
