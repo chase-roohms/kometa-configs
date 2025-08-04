@@ -125,7 +125,7 @@
         "method": "POST",
         "ret": "txt",
         "paytoqs": "body",
-        "url": "https://api.github.com/repos/ChaseRoohms/kometa-configs/dispatches",
+        "url": "https://api.github.com/repos/chase-roohms/kometa-configs/dispatches",
         "tls": "",
         "persist": false,
         "proxy": "",
