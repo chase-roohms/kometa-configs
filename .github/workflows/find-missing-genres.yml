@@ -113,7 +113,7 @@ jobs:
             echo "# Missing Genres in Shows" >> $GITHUB_STEP_SUMMARY
             echo "|TVDB ID|Title|Release Year|Find Genre|" >> $GITHUB_STEP_SUMMARY
             echo "|-------|-----|------------|-------------|" >> $GITHUB_STEP_SUMMARY
-            cat p$SHOW_REPORT_FILE >> $GITHUB_STEP_SUMMARY
+            cat $SHOW_REPORT_FILE >> $GITHUB_STEP_SUMMARY
           fi
 
           if [ -f "$MOVIE_REPORT_FILE" ] && [ ! -s "$MOVIE_REPORT_FILE" ] && [ -f "$SHOW_REPORT_FILE" ] && [ ! -s "$SHOW_REPORT_FILE" ]; then
