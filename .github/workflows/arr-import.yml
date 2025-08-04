@@ -12,6 +12,7 @@ permissions:
 env:
   MOVIE_METADATA_FILE: movie-metadata.yml
   SHOW_METADATA_FILE: show-metadata.yml
+  CLIENT_PAYLOAD_FILE: json_data.json
 
 jobs:
   update:
@@ -19,21 +20,20 @@ jobs:
     outputs:
       sha: ${{ steps.commit-changes.outputs.sha }}
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4.2.2
-
-      - name: Debug Job Summary
+      - name: Save Client Payload to File
         env:
           CLIENT_PAYLOAD: ${{ toJson(github.event.client_payload) }}
-          INSTANCE_NAME: ${{ github.event.client_payload.instanceName }}
-          TITLE: ${{ github.event.client_payload.title }}
         run: |
-          echo "# Arr-Import Overview" >> $GITHUB_STEP_SUMMARY
-          echo "$TITLE imported by $INSTANCE_NAME" >> $GITHUB_STEP_SUMMARY
-          echo "## Client Payload" >> $GITHUB_STEP_SUMMARY
-          echo "\`\`\`json" >> $GITHUB_STEP_SUMMARY
-          echo "$CLIENT_PAYLOAD" >> $GITHUB_STEP_SUMMARY
-          echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
+          echo "$CLIENT_PAYLOAD" >> $CLIENT_PAYLOAD_FILE
+
+      - name: Upload Client Payload
+        uses: actions/upload-artifact@v4
+        with:
+          name: client_payload
+          path: $CLIENT_PAYLOAD_FILE
+      
+      - name: Checkout
+        uses: actions/checkout@v4.2.2
       
       - name: Update metadata file with movie information
         if: ${{ github.event.client_payload.instanceName == 'Radarr' }}
@@ -41,7 +41,6 @@ jobs:
           GENRES: ${{ toJson(github.event.client_payload.movie.genres) }}
         shell: bash
         run: |
-          ls # Debug
           title="${{ github.event.client_payload.movie.title }}"
           encoded_title="$(echo "$title" | sed -e 's/ /+/g' -e 's/&/%26/g')"
           release_year="${{ github.event.client_payload.remoteMovie.year }}"
@@ -134,7 +133,6 @@ jobs:
           EPISODES: ${{ toJson(github.event.client_payload.episodes) }}
           GENRES: ${{ toJson(github.event.client_payload.series.genres) }}
         run: |
-          ls # Debug
           title="${{ github.event.client_payload.series.title }}"
           encoded_title="$(echo "$title" | sed -e 's/ /+/g' -e 's/&/%26/g')"
           release_year="${{ github.event.client_payload.series.year }}"
