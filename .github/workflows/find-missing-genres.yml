@@ -59,7 +59,7 @@ jobs:
             local file="$1"
             local section="$2"
             yq '.metadata' "$file" | yq 'to_entries | .[]' -o=json | jq -c '
-              select(.value."genre.sync" == null or .value."genre.sync" == "")
+              select(.value."genre.sync" == null or .value."genre.sync" == [])
               | {
                   db_id: .key,
                   title: .value.label_title,
