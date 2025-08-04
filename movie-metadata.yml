@@ -3637,6 +3637,12 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
+  1738:
+    label_title: Next
+    sort_title: Next
+    release_year: '2007'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Next&section=movies
   1072342:
     label_title: Night Swim
     sort_title: Night Swim
