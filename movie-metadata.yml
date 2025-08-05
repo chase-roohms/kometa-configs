@@ -2715,6 +2715,18 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Joker+Folie+à+Deux&section=movies
     genre.sync:
       - Superhero
+  88751:
+    label_title: Journey to the Center of the Earth
+    sort_title: Journey to the Center of the Earth
+    release_year: '2008'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Journey+to+the+Center+of+the+Earth&section=movies
+    genre.sync:
+      - Action
+      - Adventure
+      - Comedy
+      - Family
+      - Science Fiction
   8844:
     label_title: Jumanji
     sort_title: Jumanji
