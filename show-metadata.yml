@@ -1486,26 +1486,26 @@ metadata:
     label_title: Jersey Shore
     sort_title: Jersey Shore
     release_year: '2009'
-    url_poster: https://theposterdb.com/api/assets/318818
+    url_poster: https://theposterdb.com/api/assets/632081
     tpdb_search: https://theposterdb.com/search?term=Jersey+Shore&section=shows
     genre.sync:
       - Drama
       - Reality
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/318819
+        url_poster: https://theposterdb.com/api/assets/632082
       1:
-        url_poster: https://theposterdb.com/api/assets/318820
+        url_poster: https://theposterdb.com/api/assets/632083
       2:
-        url_poster: https://theposterdb.com/api/assets/318821
+        url_poster: https://theposterdb.com/api/assets/632084
       3:
-        url_poster: https://theposterdb.com/api/assets/318822
+        url_poster: https://theposterdb.com/api/assets/632085
       4:
-        url_poster: https://theposterdb.com/api/assets/318823
+        url_poster: https://theposterdb.com/api/assets/632086
       5:
-        url_poster: https://theposterdb.com/api/assets/318824
+        url_poster: https://theposterdb.com/api/assets/632087
       6:
-        url_poster: https://theposterdb.com/api/assets/318825
+        url_poster: https://theposterdb.com/api/assets/632088
   76204:
     label_title: The Jetsons
     sort_title: Jetsons
