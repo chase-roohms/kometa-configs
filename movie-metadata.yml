@@ -2719,14 +2719,10 @@ metadata:
     label_title: Journey to the Center of the Earth
     sort_title: Journey to the Center of the Earth
     release_year: '2008'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/7148
     tpdb_search: https://theposterdb.com/search?term=Journey+to+the+Center+of+the+Earth&section=movies
     genre.sync:
-      - Action
-      - Adventure
-      - Comedy
       - Family
-      - Science Fiction
   8844:
     label_title: Jumanji
     sort_title: Jumanji
@@ -4401,14 +4397,10 @@ metadata:
     label_title: Shorts
     sort_title: Shorts
     release_year: '2009'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/632286
     tpdb_search: https://theposterdb.com/search?term=Shorts&section=movies
     genre.sync:
-      - Adventure
-      - Comedy
       - Family
-      - Fantasy
-      - Science Fiction
   808:
     label_title: Shrek
     sort_title: Shrek 1
@@ -4595,10 +4587,9 @@ metadata:
     label_title: Sorry, Baby
     sort_title: Sorry, Baby
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/598606
     tpdb_search: https://theposterdb.com/search?term=Sorry,+Baby&section=movies
     genre.sync:
-      - Comedy
       - Drama
   45612:
     label_title: Source Code
