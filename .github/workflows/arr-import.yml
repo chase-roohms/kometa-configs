@@ -124,7 +124,11 @@ jobs:
                 )
               )
               ' ${{ env.MOVIE_METADATA_FILE }}
-              
+            
+            # Sort the genres array
+            yq -i '.metadata[] |= (.["genre.sync"] = (.["genre.sync"] // [] ) | .["genre.sync"] |= sort)' ${{ env.MOVIE_METADATA_FILE }}
+
+            # Replace any double quotes with single quotes
             yq -i '.metadata.${{ github.event.client_payload.remoteMovie.tmdbId }}.release_year style="single"' ${{ env.MOVIE_METADATA_FILE }}
             yq -i '.metadata.${{ github.event.client_payload.remoteMovie.tmdbId }}.url_poster style="single"' ${{ env.MOVIE_METADATA_FILE }}
             yq ${{ env.MOVIE_METADATA_FILE }} # Debug
@@ -220,8 +224,14 @@ jobs:
                 )
               )
               ' ${{ env.SHOW_METADATA_FILE }}
-            
+              
+            # Sort the genres arrays
+            yq -i '.metadata[] |= (.["genre.sync"] = (.["genre.sync"] // [] ) | .["genre.sync"] |= sort)' ${{ env.SHOW_METADATA_FILE }}
+
+            # Sort the seasons arrays
             yq -i '(.metadata[] | .seasons) |= (to_entries | sort_by(.key | tonumber) | from_entries)' ${{ env.SHOW_METADATA_FILE }}
+            
+            # Replace any double quotes with single quotes
             yq -i '.metadata.${{ github.event.client_payload.series.tvdbId }}.release_year style="single"' ${{ env.SHOW_METADATA_FILE }}
             yq -i '.metadata.${{ github.event.client_payload.series.tvdbId }}.url_poster style="single"' ${{ env.SHOW_METADATA_FILE }}
             yq ${{ env.SHOW_METADATA_FILE }} # Debug
