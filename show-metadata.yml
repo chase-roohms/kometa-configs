@@ -1510,7 +1510,7 @@ metadata:
     label_title: The Jetsons
     sort_title: Jetsons
     release_year: '1962'
-    url_poster: https://theposterdb.com/api/assets/219943
+    url_poster: https://theposterdb.com/api/assets/43682
     tpdb_search: https://theposterdb.com/search?term=The+Jetsons&section=shows
     genre.sync:
       - Animation
