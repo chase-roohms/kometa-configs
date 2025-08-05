@@ -4397,6 +4397,18 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Shining&section=movies
     genre.sync:
       - Horror
+  25132:
+    label_title: Shorts
+    sort_title: Shorts
+    release_year: '2009'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Shorts&section=movies
+    genre.sync:
+      - Adventure
+      - Comedy
+      - Family
+      - Fantasy
+      - Science Fiction
   808:
     label_title: Shrek
     sort_title: Shrek 1
