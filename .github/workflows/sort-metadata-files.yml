@@ -17,7 +17,7 @@ jobs:
     steps:
       - name: Checkout
         id: checkout
-        uses: actions/checkout@v4.2.2
+        uses: actions/checkout@v4
       
       - name: Update metadata file with movie sorting
         shell: bash
@@ -69,6 +69,8 @@ jobs:
               )
             )
             ' ${{ env.MOVIE_METADATA_FILE }}
+            
+            yq -i '.metadata[] |= (.["genre.sync"] = (.["genre.sync"] // [] ) | .["genre.sync"] |= sort)' ${{ env.MOVIE_METADATA_FILE }}
       
       - name: Update metadata file with show sorting
         shell: bash
@@ -121,6 +123,7 @@ jobs:
             )
             ' ${{ env.SHOW_METADATA_FILE }}
             
+            yq -i '.metadata[] |= (.["genre.sync"] = (.["genre.sync"] // [] ) | .["genre.sync"] |= sort)' ${{ env.SHOW_METADATA_FILE }}
             yq -i '(.metadata[] | .seasons) |= (to_entries | sort_by(.key | tonumber) | from_entries)' ${{ env.SHOW_METADATA_FILE }}
       
       - name: Commit Changes to Main
