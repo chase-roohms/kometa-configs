@@ -258,8 +258,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/14074
     tpdb_search: https://theposterdb.com/search?term=Aloha&section=movies
     genre.sync:
-      - Drama
       - Comedy
+      - Drama
   397567:
     label_title: 'Along with the Gods: The Two Worlds'
     sort_title: Along with the Gods 1
@@ -267,8 +267,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/587902
     tpdb_search: https://theposterdb.com/search?term=Along+with+the+Gods:+The+Two+Worlds&section=movies
     genre.sync:
-      - Fantasy
       - Action
+      - Fantasy
   518068:
     label_title: 'Along with the Gods: The Last 49 Days'
     sort_title: Along with the Gods 2
@@ -276,8 +276,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/587901
     tpdb_search: https://theposterdb.com/search?term=Along+with+the+Gods:+The+Last+49+Days&section=movies
     genre.sync:
-      - Fantasy
       - Action
+      - Fantasy
   1087891:
     label_title: The Amateur
     sort_title: Amateur
@@ -285,8 +285,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/584277
     tpdb_search: https://theposterdb.com/search?term=The+Amateur&section=movies
     genre.sync:
-      - Thriller
       - Action
+      - Thriller
   153518:
     label_title: The Angry Birds Movie
     sort_title: Angry Birds Movie 1
@@ -998,8 +998,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/573337
     tpdb_search: https://theposterdb.com/search?term=Catch+Me+If+You+Can&section=movies
     genre.sync:
-      - Thriller
       - Comedy
+      - Thriller
   937287:
     label_title: Challengers
     sort_title: Challengers
@@ -1172,8 +1172,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/591454
     tpdb_search: https://theposterdb.com/search?term=Dead+Talents+Society&section=movies
     genre.sync:
-      - Horror
       - Comedy
+      - Horror
   293660:
     label_title: Deadpool
     sort_title: Deadpool 1
@@ -1270,8 +1270,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/109603
     tpdb_search: https://theposterdb.com/search?term=Django+Unchained&section=movies
     genre.sync:
-      - Drama
       - Action
+      - Drama
   501170:
     label_title: Doctor Sleep
     sort_title: Doctor Sleep
@@ -1369,9 +1369,9 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/359562
     tpdb_search: https://theposterdb.com/search?term=Dungeons+and+Dragons+Honor+Among+Thieves&section=movies
     genre.sync:
-      - Fantasy
       - Action
       - Comedy
+      - Fantasy
   81379:
     label_title: Durango Kids
     sort_title: Durango Kids
@@ -2624,8 +2624,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/536133
     tpdb_search: https://theposterdb.com/search?term=Jackpot!&section=movies
     genre.sync:
-      - Comedy
       - Action
+      - Comedy
   4480:
     label_title: Jean de Florette
     sort_title: Jean de Florette
@@ -2929,8 +2929,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/45345
     tpdb_search: https://theposterdb.com/search?term=Law+Abiding+Citizen&section=movies
     genre.sync:
-      - Thriller
       - Action
+      - Thriller
   526313:
     label_title: A Leaf of Faith
     sort_title: Leaf of Faith
@@ -3772,8 +3772,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/628975
     tpdb_search: https://theposterdb.com/search?term=The+Order&section=movies
     genre.sync:
-      - Thriller
       - Action
+      - Thriller
   68726:
     label_title: Pacific Rim
     sort_title: Pacific Rim 1
@@ -3962,8 +3962,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/51361
     tpdb_search: https://theposterdb.com/search?term=Pixels&section=movies
     genre.sync:
-      - Comedy
       - Action
+      - Comedy
   61791:
     label_title: Rise of the Planet of the Apes
     sort_title: Planet of the Apes 1

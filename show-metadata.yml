@@ -502,9 +502,9 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/235785
     tpdb_search: https://theposterdb.com/search?term=The+Boys&section=shows
     genre.sync:
-      - Superhero
-      - Comedy
       - Action
+      - Comedy
+      - Superhero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/235786
@@ -764,8 +764,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/271626
     tpdb_search: https://theposterdb.com/search?term=Dark&section=shows
     genre.sync:
-      - Thriller
       - Science Fiction
+      - Thriller
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/271627
@@ -780,8 +780,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/481647
     tpdb_search: https://theposterdb.com/search?term=Dark+Matter&section=shows
     genre.sync:
-      - Thriller
       - Science Fiction
+      - Thriller
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/481648
@@ -811,8 +811,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/52478
     tpdb_search: https://theposterdb.com/search?term=Deadwood&section=shows
     genre.sync:
-      - Drama
       - Action
+      - Drama
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/52479
@@ -876,8 +876,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/553330
     tpdb_search: https://theposterdb.com/search?term=Dune+-+Prophecy&section=shows
     genre.sync:
-      - Science Fiction
       - Action
+      - Science Fiction
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/553331
@@ -1016,8 +1016,8 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Fallout&section=shows
     url_background: https://api.mediux.pro/assets/ed7033d0-3bcf-4449-bcba-72721e00ac9c
     genre.sync:
-      - Science Fiction
       - Action
+      - Science Fiction
     seasons:
       1:
         url_poster: https://api.mediux.pro/assets/d40e75a1-159e-43cf-aaa7-d62ed808fa1b
@@ -1106,8 +1106,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/182327
     tpdb_search: https://theposterdb.com/search?term=Foundation+(2021)&section=shows
     genre.sync:
-      - Science Fiction
       - Drama
+      - Science Fiction
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/182328
@@ -1179,8 +1179,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/225917
     tpdb_search: https://theposterdb.com/search?term=Game+of+Thrones&section=shows
     genre.sync:
-      - Fantasy
       - Action
+      - Fantasy
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/225918
@@ -1207,8 +1207,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/409216
     tpdb_search: https://theposterdb.com/search?term=Gen+V&section=shows
     genre.sync:
-      - Superhero
       - Action
+      - Superhero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/409217
@@ -1327,8 +1327,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/248668
     tpdb_search: https://theposterdb.com/search?term=House+of+the+Dragon&section=shows
     genre.sync:
-      - Fantasy
       - Action
+      - Fantasy
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/294073
@@ -1875,8 +1875,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/210733
     tpdb_search: https://theposterdb.com/search?term=The+Lord+of+the+Rings+-+The+Rings+of+Power&section=shows
     genre.sync:
-      - Fantasy
       - Action
+      - Fantasy
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/265779
@@ -2016,8 +2016,8 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Love,+Death+%26+Robots&section=shows
     url_background: https://api.mediux.pro/assets/279fc1e3-ff46-44af-8f08-61df2a5db98b
     genre.sync:
-      - Science Fiction
       - Animation
+      - Science Fiction
     seasons:
       1:
         url_poster: https://api.mediux.pro/assets/243d58f9-c8a8-4d7c-b40e-98a528fbb7fa
@@ -2142,8 +2142,8 @@ metadata:
     sort_title: Magicians
     url_poster: https://theposterdb.com/api/assets/35250
     genre.sync:
-      - Fantasy
       - Action
+      - Fantasy
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/35251
@@ -2179,8 +2179,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/133754
     tpdb_search: https://theposterdb.com/search?term=The+Mandalorian&section=shows
     genre.sync:
-      - Science Fiction
       - Action
+      - Science Fiction
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/133755
@@ -2480,8 +2480,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/82488
     tpdb_search: https://theposterdb.com/search?term=Mythic+Quest&section=shows
     genre.sync:
-      - Drama
       - Comedy
+      - Drama
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/82489
@@ -2569,8 +2569,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/211933
     tpdb_search: https://theposterdb.com/search?term=Obi-Wan+Kenobi&section=shows
     genre.sync:
-      - Science Fiction
       - Anime
+      - Science Fiction
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/232701
@@ -2629,8 +2629,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/120908
     tpdb_search: https://theposterdb.com/search?term=Outlander&section=shows
     genre.sync:
-      - Fantasy
       - Drama
+      - Fantasy
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/120909
@@ -2704,8 +2704,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/211777
     tpdb_search: https://theposterdb.com/search?term=Peaky+Blinders&section=shows
     genre.sync:
-      - Drama
       - Action
+      - Drama
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/211778
@@ -2739,8 +2739,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/436046
     tpdb_search: https://theposterdb.com/search?term=Percy+Jackson+and+the+Olympians&section=shows
     genre.sync:
-      - Fantasy
       - Action
+      - Fantasy
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/436047
@@ -3042,8 +3042,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/257146
     tpdb_search: https://theposterdb.com/search?term=The+Sandman&section=shows
     genre.sync:
-      - Superhero
       - Fantasy
+      - Superhero
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/257147
@@ -3084,8 +3084,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/96990
     tpdb_search: https://theposterdb.com/search?term=The+Secret+Circle&section=shows
     genre.sync:
-      - Fantasy
       - Drama
+      - Fantasy
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/96991
@@ -3109,9 +3109,9 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Secret+Level&section=shows
     url_background: https://api.mediux.pro/assets/f0b9502f-37f2-4733-a3f2-8257836e72a5
     genre.sync:
+      - Action
       - Animation
       - Science Fiction
-      - Action
     seasons:
       1:
         url_poster: https://api.mediux.pro/assets/5ef68668-4b10-4486-9a46-e69fd14bdddb
@@ -3153,8 +3153,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/386508
     tpdb_search: https://theposterdb.com/search?term=Severance&section=shows
     genre.sync:
-      - Science Fiction
       - Drama
+      - Science Fiction
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/386509
@@ -3190,8 +3190,8 @@ metadata:
     sort_title: Shrinking
     url_poster: https://theposterdb.com/api/assets/311934
     genre.sync:
-      - Drama
       - Comedy
+      - Drama
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/311935
@@ -3204,8 +3204,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/587401
     tpdb_search: https://theposterdb.com/search?term=Side+Quest&section=shows
     genre.sync:
-      - Drama
       - Comedy
+      - Drama
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/587402
@@ -3499,8 +3499,8 @@ metadata:
     audio_language: ja-JP
     genre.sync:
       - Action
-      - Science Fiction
       - Anime
+      - Science Fiction
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/205364
@@ -3549,8 +3549,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/621977
     tpdb_search: https://theposterdb.com/search?term=Stick&section=shows
     genre.sync:
-      - Drama
       - Comedy
+      - Drama
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/621978
@@ -3738,8 +3738,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/164299
     tpdb_search: https://theposterdb.com/search?term=Ted+Lasso&section=shows
     genre.sync:
-      - Drama
       - Comedy
+      - Drama
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/198269
@@ -4110,8 +4110,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/180324
     tpdb_search: https://theposterdb.com/search?term=You&section=shows
     genre.sync:
-      - Thriller
       - Drama
+      - Thriller
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/180325
