@@ -3994,7 +3994,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/630463
     tpdb_search: https://theposterdb.com/search?term=Wednesday&section=shows
     genre.sync:
-      - Drama
+      - Fantasy
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/630464
