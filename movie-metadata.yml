@@ -433,17 +433,26 @@ metadata:
     label_title: Avatar
     sort_title: Avatar 1
     release_year: '2009'
-    url_poster: https://theposterdb.com/api/assets/267821
+    url_poster: https://theposterdb.com/api/assets/233959
     tpdb_search: https://theposterdb.com/search?term=Avatar&section=movies
     genre.sync:
       - Action
       - Science Fiction
   76600:
-    label_title: Avatar The Way of Water
+    label_title: 'Avatar: The Way of Water'
     sort_title: Avatar 2
     release_year: '2022'
-    url_poster: https://theposterdb.com/api/assets/267822
+    url_poster: https://theposterdb.com/api/assets/233960
     tpdb_search: https://theposterdb.com/search?term=Avatar+The+Way+of+Water&section=movies
+    genre.sync:
+      - Action
+      - Science Fiction
+  83533:
+    label_title: 'Avatar: Fire and Ash'
+    sort_title: Avatar 3
+    release_year: '2025'
+    url_poster: https://theposterdb.com/api/assets/627259
+    tpdb_search: https://theposterdb.com/search?term=Avatar+Fire+and+Ash&section=movies
     genre.sync:
       - Action
       - Science Fiction
