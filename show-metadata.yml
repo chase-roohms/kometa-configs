@@ -1377,13 +1377,13 @@ metadata:
     label_title: I Kissed a Girl
     sort_title: I Kissed a Girl
     release_year: '2024'
-    url_poster: https://theposterdb.com/api/assets/631304
+    url_poster: https://theposterdb.com/api/assets/632295
     tpdb_search: https://theposterdb.com/search?term=I+Kissed+a+Girl&section=shows
     genre.sync:
       - Reality
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/631305
+        url_poster: https://theposterdb.com/api/assets/632296
   362753:
     label_title: I Think You Should Leave with Tim Robinson
     sort_title: I Think You Should Leave with Tim Robinson
