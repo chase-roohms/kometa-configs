@@ -1707,7 +1707,7 @@ metadata:
     label_title: Looney Tunes
     sort_title: Looney Tunes
     release_year: '1929'
-    url_poster: https://artworks.thetvdb.com/banners/posters/72514-7.jpg
+    url_poster: https://theposterdb.com/api/assets/233718
     tpdb_search: https://theposterdb.com/search?term=Looney+Tunes&section=shows
     genre.sync:
       - Animation
