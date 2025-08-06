@@ -3987,6 +3987,21 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/145245
+  397060:
+    label_title: Wednesday
+    sort_title: Wednesday
+    release_year: '2022'
+    url_poster: https://theposterdb.com/api/assets/630463
+    tpdb_search: https://theposterdb.com/search?term=Wednesday&section=shows
+    genre.sync:
+      - Drama
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/630464
+      1:
+        url_poster: https://theposterdb.com/api/assets/630465
+      2:
+        url_poster: https://theposterdb.com/api/assets/630466
   296762:
     label_title: Westworld
     sort_title: Westworld
