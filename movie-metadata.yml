@@ -2292,10 +2292,9 @@ metadata:
     label_title: Hoot
     sort_title: Hoot
     release_year: '2006'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/426595
     tpdb_search: https://theposterdb.com/search?term=Hoot&section=movies
     genre.sync:
-      - Adventure
       - Family
   76492:
     label_title: Hotel Transylvania
