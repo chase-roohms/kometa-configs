@@ -2679,7 +2679,7 @@ metadata:
     label_title: Jiang Ziya
     sort_title: Jiang Ziya 1
     release_year: '2020'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/633116
     tpdb_search: https://theposterdb.com/search?term=Jiang+Ziya&section=movies
     genre.sync:
       - Animation
