@@ -3661,6 +3661,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Napoleon&section=movies
     genre.sync:
       - Drama
+  615453:
+    label_title: Ne Zha
+    sort_title: Ne Zha
+    release_year: '2019'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Ne+Zha&section=movies
+    genre.sync:
+      - Adventure
+      - Animation
+      - Fantasy
   18491:
     label_title: 'Neon Genesis Evangelion: The End of Evangelion'
     sort_title: 'Neon Genesis Evangelion: The End of Evangelion'
