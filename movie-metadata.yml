@@ -2675,6 +2675,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Jennifers+Body&section=movies
     genre.sync:
       - Horror
+  635389:
+    label_title: Jiang Ziya
+    sort_title: Jiang Ziya 1
+    release_year: '2020'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Jiang+Ziya&section=movies
+    genre.sync:
+      - Animation
+      - Fantasy
   75761:
     label_title: John Dies at the End
     sort_title: John Dies at the End
@@ -3663,12 +3672,11 @@ metadata:
       - Drama
   615453:
     label_title: Ne Zha
-    sort_title: Ne Zha
+    sort_title: Ne Zha 1
     release_year: '2019'
     url_poster: ''
     tpdb_search: https://theposterdb.com/search?term=Ne+Zha&section=movies
     genre.sync:
-      - Adventure
       - Animation
       - Fantasy
   18491:
