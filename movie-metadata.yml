@@ -2507,6 +2507,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Indian+in+the+Cupboard&section=movies
     genre.sync:
       - Family
+  16869:
+    label_title: Inglourious Basterds
+    sort_title: Inglourious Basterds
+    release_year: '2009'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Inglourious+Basterds&section=movies
+    genre.sync:
+      - Drama
+      - Thriller
+      - War
   150540:
     label_title: Inside Out
     sort_title: Inside Out
