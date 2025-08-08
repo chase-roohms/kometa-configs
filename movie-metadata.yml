@@ -1967,12 +1967,10 @@ metadata:
     label_title: Hacksaw Ridge
     sort_title: Hacksaw Ridge
     release_year: '2016'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/40137
     tpdb_search: https://theposterdb.com/search?term=Hacksaw+Ridge&section=movies
     genre.sync:
-      - Drama
-      - History
-      - War
+      - Action
   9614:
     label_title: Happy Gilmore
     sort_title: Happy Gilmore 1
@@ -2521,12 +2519,10 @@ metadata:
     label_title: Inglourious Basterds
     sort_title: Inglourious Basterds
     release_year: '2009'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/55098
     tpdb_search: https://theposterdb.com/search?term=Inglourious+Basterds&section=movies
     genre.sync:
-      - Drama
-      - Thriller
-      - War
+      - Action
   150540:
     label_title: Inside Out
     sort_title: Inside Out
