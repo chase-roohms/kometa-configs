@@ -3674,8 +3674,17 @@ metadata:
     label_title: Ne Zha
     sort_title: Ne Zha 1
     release_year: '2019'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/448400
     tpdb_search: https://theposterdb.com/search?term=Ne+Zha&section=movies
+    genre.sync:
+      - Animation
+      - Fantasy
+  980477:
+    label_title: Ne Zha
+    sort_title: Ne Zha 2
+    release_year: '2025'
+    url_poster: https://theposterdb.com/api/assets/590554
+    tpdb_search: https://theposterdb.com/search?term=Ne+Zha+2&section=movies
     genre.sync:
       - Animation
       - Fantasy
