@@ -1963,6 +1963,16 @@ metadata:
     genre.sync:
       - Superhero
     studio: Marvel Studios
+  324786:
+    label_title: Hacksaw Ridge
+    sort_title: Hacksaw Ridge
+    release_year: '2016'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Hacksaw+Ridge&section=movies
+    genre.sync:
+      - Drama
+      - History
+      - War
   9614:
     label_title: Happy Gilmore
     sort_title: Happy Gilmore 1
