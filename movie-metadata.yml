@@ -4446,14 +4446,13 @@ metadata:
     genre.sync:
       - Superhero
   34016:
-    label_title: She's Out of My League
-    sort_title: She's Out of My League
+    label_title: "She's Out of My League"
+    sort_title: "She's Out of My League"
     release_year: '2010'
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=She's+Out+of+My+League&section=movies
+    url_poster: https://theposterdb.com/api/assets/53707
+    tpdb_search: "https://theposterdb.com/search?term=She's+Out+of+My+League&section=movies"
     genre.sync:
       - Comedy
-      - Romance
   694:
     label_title: The Shining
     sort_title: Shining
