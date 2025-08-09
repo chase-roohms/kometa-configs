@@ -51,7 +51,7 @@ jobs:
         uses: actions/checkout@v4
       
       - name: Update metadata file with movie information
-        if: env.MEDIA_TYPE == 'movie'
+        if: env.media_type == 'movie'
         env:
           tmdb_id: ${{ env.txdb_id }}
         shell: bash
@@ -59,6 +59,7 @@ jobs:
           encoded_title="$(echo "$title" | sed -e 's/ /+/g' -e 's/&/%26/g')"
           tpdb_search="https://theposterdb.com/search?term=$encoded_title&section=movies"
           IFS=',' read -ra genres <<< "$genres_comma_spaced"
+          echo "$genres"
 
           lower_title="${title,,}"  # convert to lowercase for comparison
           sort_title="$title"
