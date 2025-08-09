@@ -1,0 +1,79 @@
+name: Manually add Media
+
+on:
+  workflow_dispatch:
+    inputs:
+      title:
+        description: Title
+        required: true
+        type: string
+      release_year:
+        description: Release Year
+        required: true
+        type: string
+      media_type:
+        description: Media Type
+        required: true
+        type: choice
+        options:
+          - movie
+          - show
+      txdb_id:
+        description: TXDb ID
+        required: true
+        type: string
+      poster_url:
+        description: Poster URL
+        type: string
+      genres:
+        description: Genres, Comma Spaced
+        type: string
+
+permissions:
+  id-token: write
+  contents: write
+
+env:
+  title: ${{ inputs.title }}
+  release_year: ${{ inputs.release_year }}
+  media_type: ${{ inputs.media_type }}
+  txdb_id: ${{ inputs.txdb_id }}
+  poster_url: ${{ inputs.poster_url }}
+  genres_comma_spaced: ${{ inputs.genres }}
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    outputs:
+      sha: ${{ steps.commit-changes.outputs.sha }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      - name: Update metadata file with movie information
+        if: env.MEDIA_TYPE == 'movie'
+        env:
+          tmdb_id: ${{ env.txdb_id }}
+        shell: bash
+        run: |
+          encoded_title="$(echo "$title" | sed -e 's/ /+/g' -e 's/&/%26/g')"
+          tpdb_search="https://theposterdb.com/search?term=$encoded_title&section=movies"
+          IFS=',' read -ra genres <<< "$genres_comma_spaced"
+
+          lower_title="${title,,}"  # convert to lowercase for comparison
+          sort_title="$title"
+          for article in "a " "an " "the "; do
+              if [[ "$lower_title" == "$article"* ]]; then
+                  sort_title="${title:${#article}}"
+                  break
+              fi
+          done
+          
+          sort_title=$(echo "$sort_title" | iconv -f UTF-8 -t ASCII//TRANSLIT)
+          
+          echo $tmdb_id
+          echo $title
+          echo $release_year
+          echo $sort_title
+          echo $tpdb_search
+    
