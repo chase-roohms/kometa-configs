@@ -59,7 +59,7 @@ jobs:
           encoded_title="$(echo "$title" | sed -e 's/ /+/g' -e 's/&/%26/g')"
           tpdb_search="https://theposterdb.com/search?term=$encoded_title&section=movies"
           IFS=',' read -ra genres <<< "$genres_comma_spaced"
-          echo "$genres"
+          genres=$(printf '%s\n' "${genres[@]}" | jq -R . | jq -s .)
 
           lower_title="${title,,}"  # convert to lowercase for comparison
           sort_title="$title"
@@ -72,9 +72,11 @@ jobs:
           
           sort_title=$(echo "$sort_title" | iconv -f UTF-8 -t ASCII//TRANSLIT)
           
-          echo $tmdb_id
-          echo $title
-          echo $release_year
-          echo $sort_title
-          echo $tpdb_search
+          echo "$tmdb_id"
+          echo "$title"
+          echo "$sort_title"
+          echo "$release_year"
+          echo "$poster_url"
+          echo "$tpdb_search"
+          echo "$genres"
     
