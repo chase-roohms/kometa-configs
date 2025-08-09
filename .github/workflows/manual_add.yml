@@ -40,6 +40,9 @@ env:
   txdb_id: ${{ inputs.txdb_id }}
   poster_url: ${{ inputs.poster_url }}
   genres_comma_spaced: ${{ inputs.genres }}
+  MOVIE_METADATA_FILE: movie-metadata.yml
+  SHOW_METADATA_FILE: show-metadata.yml
+  UPDATE_SUMMARY_FILE: metadata_updates.md
 
 jobs:
   update:
@@ -79,4 +82,97 @@ jobs:
           echo "$poster_url"
           echo "$tpdb_search"
           echo "$genres"
-    
+
+          if [[ $(yq '.metadata.${{ env.tmdb_id }}' ${{ env.MOVIE_METADATA_FILE }}) == null ]]; then
+            echo "Movie does not exist, adding"
+            yq -i '.metadata += {'"$tmdb_id"': {"label_title": "'"$title"'", "sort_title": "'"$sort_title"'", "release_year": "'"$release_year"'", "url_poster": "", "tpdb_search": "'"$tpdb_search"'", "genre.sync": '"$genres"'}}' ${{ env.MOVIE_METADATA_FILE }}
+            
+            # https://chatgpt.com/share/68757652-e170-8003-b6e1-d625f0fb59f8
+            # Sort title sorting
+            yq -i '
+              .metadata |= (
+                to_entries
+                | map(
+                    .value.temp_sort = (
+                      (.value.sort_title | downcase)
+                      | sub("\\b([0-9])\\b"; "00000${1}")
+                      | sub("\\b([0-9]{2})\\b"; "0000${1}")
+                      | sub("\\b([0-9]{3})\\b"; "000${1}")
+                      | sub("\\b([0-9]{4})\\b"; "00${1}")
+                      | sub("\\b([0-9]{5})\\b"; "0${1}")
+                    )
+                  )
+                | sort_by(.value.temp_sort)
+                | map(.value |= del(.temp_sort))
+                | from_entries
+              )
+              ' ${{ env.MOVIE_METADATA_FILE }}
+
+            # General key sorting
+            yq -i '
+              .metadata |= with_entries(
+                .value |= (
+                  {
+                    "label_title": .label_title,
+                    "sort_title": .sort_title,
+                    "release_year": .release_year,
+                    "url_poster": .url_poster,
+                    "tpdb_search": .tpdb_search,
+                    "genre.sync": ."genre.sync"
+                  } + .
+                )
+              )
+              ' ${{ env.MOVIE_METADATA_FILE }}
+
+            # Extra "studio" key sorting if exists
+            yq -i '
+              .metadata |= with_entries(
+                .value |= (
+                  {
+                    "label_title": .label_title,
+                    "sort_title": .sort_title,
+                    "release_year": .release_year,
+                    "url_poster": .url_poster,
+                    "tpdb_search": .tpdb_search,
+                    "genre.sync": ."genre.sync",
+                    "studio": .studio
+                  } + .
+                )
+              )
+              ' ${{ env.MOVIE_METADATA_FILE }}
+            
+            # Sort the genres array
+            yq -i '.metadata[] |= (.["genre.sync"] = (.["genre.sync"] // [] ) | .["genre.sync"] |= sort)' ${{ env.MOVIE_METADATA_FILE }}
+
+            # Replace any double quotes with single quotes
+            yq -i '.metadata.${{ env.tmdb_id }}.release_year style="single"' ${{ env.MOVIE_METADATA_FILE }}
+            yq -i '.metadata.${{ env.tmdb_id }}.url_poster style="single"' ${{ env.MOVIE_METADATA_FILE }}
+            yq ${{ env.MOVIE_METADATA_FILE }} # Debug
+          fi
+      
+      - name: Commit Changes to Main
+        id: commit-changes
+        run: |
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          old_sha=$(git rev-parse HEAD)
+          git add ${{ env.MOVIE_METADATA_FILE }}
+          git add ${{ env.SHOW_METADATA_FILE }}
+          if ! git diff-index --quiet main; then
+            git commit -m "Updating ${{ github.event.client_payload.title }}" >> "$UPDATE_SUMMARY_FILE"
+            git push >> "$UPDATE_SUMMARY_FILE"
+            new_sha=$(git rev-parse HEAD)
+            git diff --unified=0 --no-color "$old_sha" "$new_sha" >> "$UPDATE_SUMMARY_FILE"
+            sha=$new_sha
+          else
+            echo "No changes to commit." >> $UPDATE_SUMMARY_FILE
+            sha=$old_sha
+          fi
+          echo "sha=$sha" >> $GITHUB_OUTPUT
+
+      - name: Create Job Summary
+        run: |
+          echo "## Metadata Update Summary" >> $GITHUB_STEP_SUMMARY
+          echo "\`\`\`diff" >> $GITHUB_STEP_SUMMARY
+          cat "$UPDATE_SUMMARY_FILE" >> $GITHUB_STEP_SUMMARY
+          echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
