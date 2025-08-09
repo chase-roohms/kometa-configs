@@ -118,8 +118,8 @@ jobs:
                     "release_year": .release_year,
                     "url_poster": .url_poster,
                     "tpdb_search": .tpdb_search,
-                    "genre.sync": ."genre.sync",
-                    "studio": .studio
+                    "studio": .studio,
+                    "genre.sync": ."genre.sync"
                   } + .
                 )
               )
