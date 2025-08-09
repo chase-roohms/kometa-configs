@@ -1,4 +1,13 @@
 metadata:
+  1280444:
+    label_title: The Occupant
+    sort_title: Occupant
+    release_year: '2025'
+    url_poster: https://theposterdb.com/api/assets/633392
+    tpdb_search: https://theposterdb.com/search?term=The+Occupant&section=movies
+    genre.sync:
+      - Science Fiction
+      - Thriller
   170:
     label_title: 28 Days Later
     sort_title: 28 Later 1
