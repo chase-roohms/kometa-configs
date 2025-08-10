@@ -10,8 +10,7 @@ permissions:
   contents: write
 
 env:
-  MOVIE_METADATA_FILE: movie-metadata.yml
-  SHOW_METADATA_FILE: show-metadata.yml
+  TITLE: ${{ github.event.client_payload.title }}
   CLIENT_PAYLOAD_FILE: json_data.json
   UPDATE_SUMMARY_FILE: metadata_updates.md
 
@@ -28,7 +27,7 @@ jobs:
           echo "$CLIENT_PAYLOAD" > $CLIENT_PAYLOAD_FILE
           cat "$CLIENT_PAYLOAD_FILE"
 
-      - name: Upload Client Payload
+      - name: Upload client payload
         uses: actions/upload-artifact@v4
         with:
           name: client_payload
@@ -36,70 +35,69 @@ jobs:
       
       - name: Checkout
         uses: actions/checkout@v4
-      
-      - name: Update metadata file with movie information
-        if: ${{ github.event.client_payload.instanceName == 'Radarr' }}
-        env:
-          GENRES: ${{ toJson(github.event.client_payload.movie.genres) }}
-        shell: bash
-        run: |
-          tmdb_id=${{ github.event.client_payload.remoteMovie.tmdbId }}
-          title="${{ github.event.client_payload.movie.title }}"
-          sort_title="$(bash "functions/media/get-sort-title.sh" "$title")"
-          release_year="${{ github.event.client_payload.remoteMovie.year }}"
-          tpdb_search="$(bash "functions/media/get-tpdb-search.sh" "$title" "movie")"
-          genres=$GENRES
 
-          if [[ $(yq '.metadata.${{ github.event.client_payload.remoteMovie.tmdbId }}' ${{ env.MOVIE_METADATA_FILE }}) == null ]]; then
-            echo "Movie does not exist, adding"
-            yq -i '.metadata += {'"$tmdb_id"': {"label_title": "'"$title"'", "sort_title": "'"$sort_title"'", "release_year": "'"$release_year"'", "url_poster": "", "tpdb_search": "'"$tpdb_search"'", "genre.sync": '"$genres"'}}' ${{ env.MOVIE_METADATA_FILE }}
-          fi
-    
-      - name: Update metadata file with show information
-        if: ${{ github.event.client_payload.instanceName == 'Sonarr' }}
-        shell: bash
+      - name: Set env values
         env:
+          STARR_APP: ${{ github.event.client_payload.instanceName }}
+          TVDB_ID: ${{ github.event.client_payload.series.tvdbId }}
+          TMDB_ID: ${{ github.event.client_payload.remoteMovie.tmdbId }}
+          MOVIE_YEAR: ${{ github.event.client_payload.remoteMovie.year }}
+          SHOW_YEAR: ${{ github.event.client_payload.series.year }}
+          MOVIE_GENRES: ${{ toJson(github.event.client_payload.movie.genres) }}
+          SHOW_GENRES: ${{ toJson(github.event.client_payload.series.genres) }}
           EPISODES: ${{ toJson(github.event.client_payload.episodes) }}
-          GENRES: ${{ toJson(github.event.client_payload.series.genres) }}
+          MOVIE_METADATA_FILE: movie-metadata.yml
+          SHOW_METADATA_FILE: show-metadata.yml
         run: |
-          tvdb_id=${{ github.event.client_payload.series.tvdbId }}
-          title="${{ github.event.client_payload.movie.title }}"
-          sort_title="$(bash "functions/media/get-sort-title.sh" "$title")"
-          release_year="${{ github.event.client_payload.series.year }}"
-          tpdb_search="$(bash "functions/media/get-tpdb-search.sh" "$title" "show")"
-          genres=$GENRES
-          readarray -t seasons < <(echo "$EPISODES" | jq '.[].seasonNumber' | sort -u)
-
-          if [[ $(yq '.metadata.${{ github.event.client_payload.series.tvdbId }}' ${{ env.SHOW_METADATA_FILE }}) == null ]]; then
-            echo "Show does not exist, adding"
-            yq -i '.metadata += {'"$tvdb_id"': {"label_title": "'"$title"'", "sort_title": "'"$sort_title"'", "release_year": "'"$release_year"'", "url_poster": "", "tpdb_search": "'"$tpdb_search"'", "genre.sync": '"$genres"'}}' ${{ env.SHOW_METADATA_FILE }}
+          if [[ $STARR_APP == "Radarr" ]]; then
+            MEDIA_TYPE="movie"
+            TXDB_ID="$TMDB_ID"
+            RELEASE_YEAR="$MOVIE_YEAR"
+            GENRES_COMMA_SPACED="$(echo "$MOVIE_GENRES" | jq -s -c .[])"
+            SEASONS_COMMA_SPACED=""
+            METADATA_FILE="$MOVIE_METADATA_FILE"
+          else
+            readarray -t seasons < <(echo "$EPISODES" | jq '.[].seasonNumber' | sort -u)
+            MEDIA_TYPE="show"
+            TXDB_ID="$TVDB_ID"
+            RELEASE_YEAR="$SHOW_YEAR"
+            GENRES_COMMA_SPACED="$(echo "$SHOW_GENRES" | jq -s -c .[])"
+            SEASONS_COMMA_SPACED="$(IFS=", "; echo "${seasons[*]}")"
+            METADATA_FILE="$SHOW_METADATA_FILE"
           fi
-          for season in "${seasons[@]}"; do
-            if [[ $(yq ".metadata.${{ github.event.client_payload.series.tvdbId }}.seasons.$season" ${{ env.SHOW_METADATA_FILE }}) == null ]]; then
-              echo "Season does not exist, adding"
-              yq -i '.metadata.${{ github.event.client_payload.series.tvdbId }}.seasons += {'"$season"': {"url_poster": ""}}' ${{ env.SHOW_METADATA_FILE }}
-            fi
-          done
+          echo "MEDIA_TYPE=$MEDIA_TYPE" >> $GITHUB_ENV
+          echo "TXDB_ID=$TXDB_ID" >> $GITHUB_ENV
+          echo "RELEASE_YEAR=$RELEASE_YEAR" >> $GITHUB_ENV
+          echo "GENRES_COMMA_SPACED=$GENRES_COMMA_SPACED" >> $GITHUB_ENV
+          echo "SEASONS_COMMA_SPACED=$SEASONS_COMMA_SPACED" >> $GITHUB_ENV
+          echo "METADATA_FILE=$METADATA_FILE" >> $GITHUB_ENV
+      
+      - name: Update metadata file with media information
+        run: |
+          bash "functions/yaml/insert-media-item.sh" \
+            "$MEDIA_TYPE" \
+            "$TXDB_ID" \
+            "$TITLE" \
+            "$RELEASE_YEAR" \
+            "" \
+            "$GENRES_COMMA_SPACED" \
+            "$SEASONS_COMMA_SPACED" \
+            "$METADATA_FILE"
 
       - name: Sort and format metadata files
         run: |
-          # Sort the metadata files
-          bash "functions/yaml/sort-metadata-file.sh" "$MOVIE_METADATA_FILE"
-          bash "functions/yaml/sort-metadata-file.sh" "$SHOW_METADATA_FILE"
-          
-          # Format the metadata files (mostly setting 'style="single"' to use single quotes over double quotes when applicable
-          bash "functions/yaml/sort-metadata-file.sh" "$MOVIE_METADATA_FILE"
-          bash "functions/yaml/sort-metadata-file.sh" "$SHOW_METADATA_FILE"
+          # Sort and format the metadata file
+          bash "functions/yaml/sort-metadata-file.sh" "$METADATA_FILE"
+          bash "functions/yaml/format-metadata-file.sh" "$METADATA_FILE"
       
       - name: Commit Changes to Main
         id: commit-changes
         run: |
           bash "functions/git/set-git-config.sh"
           sha=$(bash "functions/git/commit-with-summary.sh" \
-                  "Updating ${{ github.event.client_payload.title }}" \
+                  "Updating $TITLE ($RELEASE_YEAR)" \
                   "$UPDATE_SUMMARY_FILE" \
-                  "$MOVIE_METADATA_FILE" \
-                  "$SHOW_METADATA_FILE")
+                  "$METADATA_FILE")
           echo "sha=$sha" >> $GITHUB_OUTPUT
 
       - name: Create Job Summary
