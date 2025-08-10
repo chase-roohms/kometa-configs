@@ -84,7 +84,7 @@ jobs:
         run: |
           # Sort and format the metadata file
           bash "functions/yaml/sort-metadata-file.sh" "$METADATA_FILE"
-          bash "functions/yaml/sort-metadata-file.sh" "$METADATA_FILE"
+          bash "functions/yaml/format-metadata-file.sh" "$METADATA_FILE"
       
       - name: Commit Changes to Main
         id: commit-changes
