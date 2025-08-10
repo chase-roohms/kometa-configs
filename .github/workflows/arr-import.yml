@@ -70,68 +70,6 @@ jobs:
           if [[ $(yq '.metadata.${{ github.event.client_payload.remoteMovie.tmdbId }}' ${{ env.MOVIE_METADATA_FILE }}) == null ]]; then
             echo "Movie does not exist, adding"
             yq -i '.metadata += {'"$tmdb_id"': {"label_title": "'"$title"'", "sort_title": "'"$sort_title"'", "release_year": "'"$release_year"'", "url_poster": "", "tpdb_search": "'"$tpdb_search"'", "genre.sync": '"$genres"'}}' ${{ env.MOVIE_METADATA_FILE }}
-            
-            # https://chatgpt.com/share/68757652-e170-8003-b6e1-d625f0fb59f8
-            # Sort title sorting
-            yq -i '
-              .metadata |= (
-                to_entries
-                | map(
-                    .value.temp_sort = (
-                      (.value.sort_title | downcase)
-                      | sub("\\b([0-9])\\b"; "00000${1}")
-                      | sub("\\b([0-9]{2})\\b"; "0000${1}")
-                      | sub("\\b([0-9]{3})\\b"; "000${1}")
-                      | sub("\\b([0-9]{4})\\b"; "00${1}")
-                      | sub("\\b([0-9]{5})\\b"; "0${1}")
-                    )
-                  )
-                | sort_by(.value.temp_sort)
-                | map(.value |= del(.temp_sort))
-                | from_entries
-              )
-              ' ${{ env.MOVIE_METADATA_FILE }}
-
-            # General key sorting
-            yq -i '
-              .metadata |= with_entries(
-                .value |= (
-                  {
-                    "label_title": .label_title,
-                    "sort_title": .sort_title,
-                    "release_year": .release_year,
-                    "url_poster": .url_poster,
-                    "tpdb_search": .tpdb_search,
-                    "genre.sync": ."genre.sync"
-                  } + .
-                )
-              )
-              ' ${{ env.MOVIE_METADATA_FILE }}
-
-            # Extra "studio" key sorting if exists
-            yq -i '
-              .metadata |= with_entries(
-                .value |= (
-                  {
-                    "label_title": .label_title,
-                    "sort_title": .sort_title,
-                    "release_year": .release_year,
-                    "url_poster": .url_poster,
-                    "tpdb_search": .tpdb_search,
-                    "studio": .studio,
-                    "genre.sync": ."genre.sync"
-                  } + .
-                )
-              )
-              ' ${{ env.MOVIE_METADATA_FILE }}
-            
-            # Sort the genres array
-            yq -i '.metadata[] |= (.["genre.sync"] = (.["genre.sync"] // [] ) | .["genre.sync"] |= sort)' ${{ env.MOVIE_METADATA_FILE }}
-
-            # Replace any double quotes with single quotes
-            yq -i '.metadata.${{ github.event.client_payload.remoteMovie.tmdbId }}.release_year style="single"' ${{ env.MOVIE_METADATA_FILE }}
-            yq -i '.metadata.${{ github.event.client_payload.remoteMovie.tmdbId }}.url_poster style="single"' ${{ env.MOVIE_METADATA_FILE }}
-            yq ${{ env.MOVIE_METADATA_FILE }} # Debug
           fi
     
       - name: Update metadata file with show information
@@ -170,80 +108,23 @@ jobs:
           if [[ $(yq '.metadata.${{ github.event.client_payload.series.tvdbId }}' ${{ env.SHOW_METADATA_FILE }}) == null ]]; then
             echo "Show does not exist, adding"
             yq -i '.metadata += {'"$tvdb_id"': {"label_title": "'"$title"'", "sort_title": "'"$sort_title"'", "release_year": "'"$release_year"'", "url_poster": "", "tpdb_search": "'"$tpdb_search"'", "genre.sync": '"$genres"'}}' ${{ env.SHOW_METADATA_FILE }}
-            
-            # https://chatgpt.com/share/68757652-e170-8003-b6e1-d625f0fb59f8
-            # Sort title sorting
-            yq -i '
-              .metadata |= (
-                to_entries
-                | map(
-                    .value.temp_sort = (
-                      (.value.sort_title | downcase)
-                      | sub("\\b([0-9])\\b"; "00000${1}")
-                      | sub("\\b([0-9]{2})\\b"; "0000${1}")
-                      | sub("\\b([0-9]{3})\\b"; "000${1}")
-                      | sub("\\b([0-9]{4})\\b"; "00${1}")
-                      | sub("\\b([0-9]{5})\\b"; "0${1}")
-                    )
-                  )
-                | sort_by(.value.temp_sort)
-                | map(.value |= del(.temp_sort))
-                | from_entries
-              )
-              ' ${{ env.SHOW_METADATA_FILE }}
-
-            # General key sorting
-            yq -i '
-              .metadata |= with_entries(
-                .value |= (
-                  {
-                    "label_title": .label_title,
-                    "sort_title": .sort_title,
-                    "release_year": .release_year,
-                    "url_poster": .url_poster,
-                    "tpdb_search": .tpdb_search,
-                    "genre.sync": ."genre.sync"
-                  } + .
-                )
-              )
-              ' ${{ env.SHOW_METADATA_FILE }}
-
-            # Extra "studio" key sorting if exists
-            yq -i '
-              .metadata |= with_entries(
-                .value |= (
-                  {
-                    "label_title": .label_title,
-                    "sort_title": .sort_title,
-                    "release_year": .release_year,
-                    "url_poster": .url_poster,
-                    "tpdb_search": .tpdb_search,
-                    "genre.sync": ."genre.sync",
-                    "studio": .studio
-                  } + .
-                )
-              )
-              ' ${{ env.SHOW_METADATA_FILE }}
-              
-            # Sort the genres arrays
-            yq -i '.metadata[] |= (.["genre.sync"] = (.["genre.sync"] // [] ) | .["genre.sync"] |= sort)' ${{ env.SHOW_METADATA_FILE }}
-
-            # Sort the seasons arrays
-            yq -i '(.metadata[] | .seasons) |= (to_entries | sort_by(.key | tonumber) | from_entries)' ${{ env.SHOW_METADATA_FILE }}
-            
-            # Replace any double quotes with single quotes
-            yq -i '.metadata.${{ github.event.client_payload.series.tvdbId }}.release_year style="single"' ${{ env.SHOW_METADATA_FILE }}
-            yq -i '.metadata.${{ github.event.client_payload.series.tvdbId }}.url_poster style="single"' ${{ env.SHOW_METADATA_FILE }}
-            yq ${{ env.SHOW_METADATA_FILE }} # Debug
           fi
           for season in "${seasons[@]}"; do
             if [[ $(yq ".metadata.${{ github.event.client_payload.series.tvdbId }}.seasons.$season" ${{ env.SHOW_METADATA_FILE }}) == null ]]; then
               echo "Season does not exist, adding"
               yq -i '.metadata.${{ github.event.client_payload.series.tvdbId }}.seasons += {'"$season"': {"url_poster": ""}}' ${{ env.SHOW_METADATA_FILE }}
-              yq -i '.metadata.${{ github.event.client_payload.series.tvdbId }}.seasons.'"$season"'.url_poster style="single"' ${{ env.SHOW_METADATA_FILE }}
-              yq ${{ env.SHOW_METADATA_FILE }} # Debug
             fi
           done
+
+      - name: Sort and format metadata files
+        run: |
+          # Sort the metadata files
+          bash "functions/yaml/sort-metadata-file.sh" "$MOVIE_METADATA_FILE"
+          bash "functions/yaml/sort-metadata-file.sh" "$SHOW_METADATA_FILE"
+          
+          # Format the metadata files (mostly setting 'style="single"' to use single quotes over double quotes when applicable
+          bash "functions/yaml/sort-metadata-file.sh" "$MOVIE_METADATA_FILE"
+          bash "functions/yaml/sort-metadata-file.sh" "$SHOW_METADATA_FILE"
       
       - name: Commit Changes to Main
         id: commit-changes
@@ -271,7 +152,6 @@ jobs:
           echo "\`\`\`diff" >> $GITHUB_STEP_SUMMARY
           cat "$UPDATE_SUMMARY_FILE" >> $GITHUB_STEP_SUMMARY
           echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
-      
       
   find-missing-posters:
     needs: update
