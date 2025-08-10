@@ -4822,7 +4822,7 @@ metadata:
     label_title: A New Hope
     sort_title: Star Wars 01
     release_year: '1977'
-    url_poster: https://theposterdb.com/api/assets/133721
+    url_poster: https://theposterdb.com/api/assets/464773
     tpdb_search: https://theposterdb.com/search?term=A+New+Hope&section=movies
     genre.sync:
       - Action
