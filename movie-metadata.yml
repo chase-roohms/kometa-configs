@@ -1,18 +1,18 @@
 metadata:
-  1562:
-    label_title: 28 Weeks Later
-    sort_title: 28 Later 2
-    release_year: '2007'
-    url_poster: https://theposterdb.com/api/assets/617782
-    tpdb_search: https://theposterdb.com/search?term=28+Weeks+Later&section=movies
-    genre.sync:
-      - Thriller
   170:
     label_title: 28 Days Later
     sort_title: 28 Later 1
     release_year: '2002'
     url_poster: https://theposterdb.com/api/assets/617783
     tpdb_search: https://theposterdb.com/search?term=28+Days+Later&section=movies
+    genre.sync:
+      - Thriller
+  1562:
+    label_title: 28 Weeks Later
+    sort_title: 28 Later 2
+    release_year: '2007'
+    url_poster: https://theposterdb.com/api/assets/617782
+    tpdb_search: https://theposterdb.com/search?term=28+Weeks+Later&section=movies
     genre.sync:
       - Thriller
   1100988:
@@ -1027,7 +1027,7 @@ metadata:
   333371:
     label_title: 10 Cloverfield Lane
     sort_title: Cloverfield 2
-    release_year: 2016
+    release_year: '2016'
     url_poster: https://theposterdb.com/api/assets/80492
     tpdb_search: https://theposterdb.com/search?term=10+Cloverfield+Lane&section=movies
     genre.sync:
@@ -1717,7 +1717,7 @@ metadata:
   13:
     label_title: Forrest Gump
     sort_title: Forrest Gump
-    release_year: 1994
+    release_year: '1994'
     url_poster: https://theposterdb.com/api/assets/487271
     tpdb_search: https://theposterdb.com/search?term=Forrest+Gump&section=movies
     genre.sync:
