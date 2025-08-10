@@ -144,9 +144,9 @@ metadata:
   376472:
     label_title: Alice in Borderland
     sort_title: Alice in Borderland
-    release_year: null
+    release_year: '2020'
     url_poster: https://theposterdb.com/api/assets/115825
-    tpdb_search: null
+    tpdb_search: https://theposterdb.com/search?term=Alice+in+Borderland&section=shows
     genre.sync:
       - Thriller
     seasons:
@@ -836,9 +836,9 @@ metadata:
   458636:
     label_title: Devil In The Family - The Fall of Ruby Franke
     sort_title: Devil In The Family - The Fall of Ruby Franke
-    release_year: null
+    release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/580252
-    tpdb_search: null
+    tpdb_search: https://theposterdb.com/search?term=Devil+In+The Family:+The+Fall+of+Ruby+Franke&section=shows
     genre.sync:
       - Documentary
     seasons:
@@ -1006,9 +1006,9 @@ metadata:
   458706:
     label_title: The Fall of Diddy
     sort_title: Fall of Diddy
-    release_year: null
+    release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/576845
-    tpdb_search: null
+    tpdb_search: https://theposterdb.com/search?term=The+Falcon+and+The+Fall+of+Diddy&section=shows
     genre.sync:
       - Documentary
     seasons:
@@ -1606,11 +1606,11 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/554961
   281622:
-    label_title: null
+    label_title: The Last Man on Earth
     sort_title: Last Man on Earth
-    release_year: null
+    release_year: '2015'
     url_poster: https://theposterdb.com/api/assets/215608
-    tpdb_search: null
+    tpdb_search: https://theposterdb.com/search?term=The+Last+Man+on+Earth&section=shows
     genre.sync:
       - Comedy
     seasons:
@@ -2146,11 +2146,11 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/237545
   299139:
-    label_title: null
+    label_title: The Magicians
     sort_title: Magicians
-    release_year: null
+    release_year: '2015'
     url_poster: https://theposterdb.com/api/assets/35250
-    tpdb_search: null
+    tpdb_search: https://theposterdb.com/search?term=The+Magicians&section=shows
     genre.sync:
       - Action
       - Fantasy
@@ -2380,11 +2380,11 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/182525
   349659:
-    label_title: null
+    label_title: Mayans M.C.
     sort_title: Mayans M.C.
-    release_year: null
+    release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/227471
-    tpdb_search: null
+    tpdb_search: https://theposterdb.com/search?term=Mayans+M.C.&section=shows
     genre.sync:
       - Drama
     seasons:
@@ -2508,9 +2508,9 @@ metadata:
   282670:
     label_title: Narcos
     sort_title: Narcos
-    release_year: null
+    release_year: '2015'
     url_poster: https://theposterdb.com/api/assets/44816
-    tpdb_search: null
+    tpdb_search: https://theposterdb.com/search?term=Narcossection=shows
     genre.sync:
       - Drama
     seasons:
@@ -2556,9 +2556,9 @@ metadata:
   407281:
     label_title: The Night Agent
     sort_title: Night Agent
-    release_year: null
+    release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/332289
-    tpdb_search: null
+    tpdb_search: https://theposterdb.com/search?term=The+Night+Agent&section=shows
     genre.sync:
       - Thriller
     seasons:
@@ -2783,11 +2783,11 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/583994
   430020:
-    label_title: null
+    label_title: The Pradeeps of Pittsburgh
     sort_title: Pradeeps of Pittsburgh
-    release_year: null
+    release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/539122
-    tpdb_search: null
+    tpdb_search: https://theposterdb.com/search?term=The+Pradeeps+of+Pittsburgh&section=shows
     genre.sync:
       - Comedy
     seasons:
@@ -2979,9 +2979,9 @@ metadata:
   423732:
     label_title: Sakamoto Days
     sort_title: Sakamoto Days
-    release_year: null
+    release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/561171
-    tpdb_search: null
+    tpdb_search: https://theposterdb.com/search?term=Sakamoto+Days&section=shows
     audio_language: ja-JP
     genre.sync:
       - Anime
@@ -3204,11 +3204,11 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/450204
   411364:
-    label_title: null
+    label_title: Shrinking
     sort_title: Shrinking
-    release_year: null
+    release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/311934
-    tpdb_search: null
+    tpdb_search: https://theposterdb.com/search?term=Shrinking&section=shows
     genre.sync:
       - Comedy
       - Drama
@@ -3736,9 +3736,9 @@ metadata:
   405661:
     label_title: Takt op.Destiny
     sort_title: Takt op.Destiny
-    release_year: null
+    release_year: '2021'
     url_poster: https://theposterdb.com/api/assets/180261
-    tpdb_search: null
+    tpdb_search: https://theposterdb.com/search?term=Takt+op.Destiny&section=shows
     audio_language: ja-JP
     genre.sync:
       - Anime
