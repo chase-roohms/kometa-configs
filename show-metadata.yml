@@ -142,11 +142,13 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/464788
   376472:
-    genre.sync:
-      - Thriller
     label_title: Alice in Borderland
     sort_title: Alice in Borderland
+    release_year: null
     url_poster: https://theposterdb.com/api/assets/115825
+    tpdb_search: null
+    genre.sync:
+      - Thriller
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/115826
@@ -255,9 +257,9 @@ metadata:
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/396382
     tpdb_search: https://theposterdb.com/search?term=B+-+The+Beginning&section=shows
+    audio_language: ja-JP
     genre.sync:
       - Anime
-    audio_language: ja-JP
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/396384
@@ -319,9 +321,9 @@ metadata:
     release_year: '1997'
     url_poster: https://theposterdb.com/api/assets/182143
     tpdb_search: https://theposterdb.com/search?term=Berserk&section=shows
+    audio_language: ja-JP
     genre.sync:
       - Anime
-    audio_language: ja-JP
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/182144
@@ -353,11 +355,11 @@ metadata:
     sort_title: Black Mirror
     release_year: '2011'
     url_poster: https://theposterdb.com/api/assets/592830
+    url_background: https://api.mediux.pro/assets/bae9d5d9-35ba-4be4-9d53-6b626be9741b
     tpdb_search: https://theposterdb.com/search?term=Black+Mirror&section=shows
     genre.sync:
       - Science Fiction
       - Thriller
-    url_background: https://api.mediux.pro/assets/bae9d5d9-35ba-4be4-9d53-6b626be9741b
     seasons:
       0:
         url_poster: https://api.mediux.pro/assets/4d9f91ff-6370-4243-a913-e0a58b03a58a
@@ -455,9 +457,9 @@ metadata:
     release_year: '2015'
     url_poster: https://theposterdb.com/api/assets/415612
     tpdb_search: https://theposterdb.com/search?term=Blood+Blockade+Battlefront&section=shows
+    audio_language: ja-JP
     genre.sync:
       - Anime
-    audio_language: ja-JP
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/415613
@@ -564,9 +566,9 @@ metadata:
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/567743
     tpdb_search: https://theposterdb.com/search?term=Chainsaw+Man&section=shows
+    audio_language: ja-JP
     genre.sync:
       - Anime
-    audio_language: ja-JP
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/567744
@@ -707,9 +709,9 @@ metadata:
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/248652
     tpdb_search: https://theposterdb.com/search?term=Cyberpunk+-+Edgerunners&section=shows
+    audio_language: ja-JP
     genre.sync:
       - Anime
-    audio_language: ja-JP
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/248653
@@ -726,9 +728,9 @@ metadata:
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/470038
     tpdb_search: https://theposterdb.com/search?term=DAN+DA+DAN&section=shows
+    audio_language: ja-JP
     genre.sync:
       - Anime
-    audio_language: ja-JP
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/503497
@@ -791,9 +793,9 @@ metadata:
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/497213
     tpdb_search: https://theposterdb.com/search?term=DEAD+DEAD+DEMONS+DEDEDEDE+DESTRUCTION&section=shows
+    audio_language: ja-JP
     genre.sync:
       - Anime
-    audio_language: ja-JP
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/502119
@@ -832,11 +834,13 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/576313
   458636:
-    genre.sync:
-      - Documentary
     label_title: Devil In The Family - The Fall of Ruby Franke
     sort_title: Devil In The Family - The Fall of Ruby Franke
+    release_year: null
     url_poster: https://theposterdb.com/api/assets/580252
+    tpdb_search: null
+    genre.sync:
+      - Documentary
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/580252
@@ -916,9 +920,9 @@ metadata:
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/417690
     tpdb_search: https://theposterdb.com/search?term=The+Eminence+in+Shadow&section=shows
+    audio_language: ja-JP
     genre.sync:
       - Anime
-    audio_language: ja-JP
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/417691
@@ -930,9 +934,9 @@ metadata:
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/595943
     tpdb_search: https://theposterdb.com/search?term=The+Eternaut&section=shows
+    audio_language: es-ES
     genre.sync:
       - Science Fiction
-    audio_language: es-ES
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/595944
@@ -1000,11 +1004,13 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/144091
   458706:
-    genre.sync:
-      - Documentary
     label_title: The Fall of Diddy
     sort_title: Fall of Diddy
+    release_year: null
     url_poster: https://theposterdb.com/api/assets/576845
+    tpdb_search: null
+    genre.sync:
+      - Documentary
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/576846
@@ -1013,11 +1019,11 @@ metadata:
     sort_title: Fallout
     release_year: '2024'
     url_poster: https://api.mediux.pro/assets/17ee2e86-d38a-41e4-8cc5-9abe295908be
+    url_background: https://api.mediux.pro/assets/ed7033d0-3bcf-4449-bcba-72721e00ac9c
     tpdb_search: https://theposterdb.com/search?term=Fallout&section=shows
     genre.sync:
       - Action
       - Science Fiction
-    url_background: https://api.mediux.pro/assets/ed7033d0-3bcf-4449-bcba-72721e00ac9c
     seasons:
       1:
         url_poster: https://api.mediux.pro/assets/d40e75a1-159e-43cf-aaa7-d62ed808fa1b
@@ -1091,9 +1097,9 @@ metadata:
     release_year: '2020'
     url_poster: https://theposterdb.com/api/assets/425488
     tpdb_search: https://theposterdb.com/search?term=Fog+Hill+of+Five+Elements&section=shows
+    audio_language: zh-CN
     genre.sync:
       - Anime
-    audio_language: zh-CN
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/425489
@@ -1134,9 +1140,9 @@ metadata:
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/624432
     tpdb_search: https://theposterdb.com/search?term=Gachiakuta&section=shows
+    audio_language: ja-JP
     genre.sync:
       - Anime
-    audio_language: ja-JP
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/624433
@@ -1293,9 +1299,9 @@ metadata:
     release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/341624
     tpdb_search: https://theposterdb.com/search?term=Hells+Paradise&section=shows
+    audio_language: ja-JP
     genre.sync:
       - Anime
-    audio_language: ja-JP
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/450298
@@ -1342,9 +1348,9 @@ metadata:
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/543197
     tpdb_search: https://theposterdb.com/search?term=Housing+Complex+C&section=shows
+    audio_language: ja-JP
     genre.sync:
       - Anime
-    audio_language: ja-JP
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/543198
@@ -1562,9 +1568,9 @@ metadata:
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/420286
     tpdb_search: https://theposterdb.com/search?term=Kaiju+No.+8&section=shows
+    audio_language: ja-JP
     genre.sync:
       - Anime
-    audio_language: ja-JP
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/482205
@@ -1600,11 +1606,13 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/554961
   281622:
+    label_title: null
+    sort_title: Last Man on Earth
+    release_year: null
+    url_poster: https://theposterdb.com/api/assets/215608
+    tpdb_search: null
     genre.sync:
       - Comedy
-    title: The Last Man on Earth
-    sort_title: Last Man on Earth
-    url_poster: https://theposterdb.com/api/assets/215608
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/215609
@@ -1652,9 +1660,9 @@ metadata:
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/623897
     tpdb_search: https://theposterdb.com/search?term=Leviathan&section=shows
+    audio_language: ja-JP
     genre.sync:
       - Anime
-    audio_language: ja-JP
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/623898
@@ -1664,9 +1672,9 @@ metadata:
     release_year: '2021'
     url_poster: https://theposterdb.com/api/assets/205595
     tpdb_search: https://theposterdb.com/search?term=Link+Click&section=shows
+    audio_language: zh-CN
     genre.sync:
       - Anime
-    audio_language: zh-CN
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/205596
@@ -1860,9 +1868,9 @@ metadata:
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/619039
     tpdb_search: https://theposterdb.com/search?term=Lord+of+Mysteries&section=shows
+    audio_language: zh-CN
     genre.sync:
       - Anime
-    audio_language: zh-CN
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/619039
@@ -2013,11 +2021,11 @@ metadata:
     sort_title: Love, Death & Robots
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/236472
+    url_background: https://api.mediux.pro/assets/279fc1e3-ff46-44af-8f08-61df2a5db98b
     tpdb_search: https://theposterdb.com/search?term=Love,+Death+%26+Robots&section=shows
     genre.sync:
       - Animation
       - Science Fiction
-    url_background: https://api.mediux.pro/assets/279fc1e3-ff46-44af-8f08-61df2a5db98b
     seasons:
       1:
         url_poster: https://api.mediux.pro/assets/243d58f9-c8a8-4d7c-b40e-98a528fbb7fa
@@ -2127,9 +2135,9 @@ metadata:
     release_year: '2017'
     url_poster: https://theposterdb.com/api/assets/237542
     tpdb_search: https://theposterdb.com/search?term=Made+in+Abyss&section=shows
+    audio_language: ja-JP
     genre.sync:
       - Anime
-    audio_language: ja-JP
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/237543
@@ -2138,12 +2146,14 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/237545
   299139:
+    label_title: null
+    sort_title: Magicians
+    release_year: null
+    url_poster: https://theposterdb.com/api/assets/35250
+    tpdb_search: null
     genre.sync:
       - Action
       - Fantasy
-    title: The Magicians
-    sort_title: Magicians
-    url_poster: https://theposterdb.com/api/assets/35250
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/35251
@@ -2370,11 +2380,13 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/182525
   349659:
+    label_title: null
+    sort_title: Mayans M.C.
+    release_year: null
+    url_poster: https://theposterdb.com/api/assets/227471
+    tpdb_search: null
     genre.sync:
       - Drama
-    title: Mayans M.C.
-    sort_title: Mayans M.C.
-    url_poster: https://theposterdb.com/api/assets/227471
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/227472
@@ -2427,9 +2439,9 @@ metadata:
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/590567
     tpdb_search: https://theposterdb.com/search?term=Moonrise&section=shows
+    audio_language: ja-JP
     genre.sync:
       - Anime
-    audio_language: ja-JP
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/590568
@@ -2451,9 +2463,9 @@ metadata:
     release_year: '2002'
     url_poster: https://theposterdb.com/api/assets/632094
     tpdb_search: https://theposterdb.com/search?term=Mucha+Lucha&section=shows
+    episode_ordering: tmdb_aired
     genre.sync:
       - Animation
-    episode_ordering: tmdb_aired
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/630700
@@ -2494,11 +2506,13 @@ metadata:
       4:
         url_poster: https://theposterdb.com/api/assets/573520
   282670:
-    genre.sync:
-      - Drama
     label_title: Narcos
     sort_title: Narcos
+    release_year: null
     url_poster: https://theposterdb.com/api/assets/44816
+    tpdb_search: null
+    genre.sync:
+      - Drama
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/44817
@@ -2531,20 +2545,22 @@ metadata:
     release_year: '1995'
     url_poster: https://theposterdb.com/api/assets/108409
     tpdb_search: https://theposterdb.com/search?term=Neon+Genesis+Evangelion&section=shows
+    audio_language: ja-JP
     genre.sync:
       - Anime
-    audio_language: ja-JP
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/108410
       1:
         url_poster: https://theposterdb.com/api/assets/108411
   407281:
-    genre.sync:
-      - Thriller
     label_title: The Night Agent
     sort_title: Night Agent
+    release_year: null
     url_poster: https://theposterdb.com/api/assets/332289
+    tpdb_search: null
+    genre.sync:
+      - Thriller
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/332290
@@ -2556,9 +2572,9 @@ metadata:
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/450275
     tpdb_search: https://theposterdb.com/search?term=Ninja+Kamui&section=shows
+    audio_language: ja-JP
     genre.sync:
       - Anime
-    audio_language: ja-JP
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/450276
@@ -2608,9 +2624,9 @@ metadata:
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/627266
     tpdb_search: https://theposterdb.com/search?term=Orb+-+On+the+Movements+of+the+Earth&section=shows
+    audio_language: ja-JP
     genre.sync:
       - Anime
-    audio_language: ja-JP
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/627267
@@ -2767,11 +2783,13 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/583994
   430020:
+    label_title: null
+    sort_title: Pradeeps of Pittsburgh
+    release_year: null
+    url_poster: https://theposterdb.com/api/assets/539122
+    tpdb_search: null
     genre.sync:
       - Comedy
-    title: The Pradeeps of Pittsburgh
-    sort_title: Pradeeps of Pittsburgh
-    url_poster: https://theposterdb.com/api/assets/539122
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/539123
@@ -2908,9 +2926,9 @@ metadata:
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/516691
     tpdb_search: https://theposterdb.com/search?term=Rick+and+Morty+-+The+Anime&section=shows
+    audio_language: ja-JP
     genre.sync:
       - Anime
-    audio_language: ja-JP
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/516692
@@ -2959,12 +2977,14 @@ metadata:
       4:
         url_poster: https://theposterdb.com/api/assets/581512
   423732:
-    genre.sync:
-      - Anime
     label_title: Sakamoto Days
     sort_title: Sakamoto Days
+    release_year: null
     url_poster: https://theposterdb.com/api/assets/561171
+    tpdb_search: null
     audio_language: ja-JP
+    genre.sync:
+      - Anime
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/586166
@@ -2978,7 +2998,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Salad+Fingers&section=shows
     genre.sync:
       - Animation
-    summary: The surreal life of Salad Fingers, an unknown creature living in an apocalyptic wasteland.
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/602743
@@ -3105,12 +3124,12 @@ metadata:
     sort_title: Secret Level
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/549286
+    url_background: https://api.mediux.pro/assets/f0b9502f-37f2-4733-a3f2-8257836e72a5
     tpdb_search: https://theposterdb.com/search?term=Secret+Level&section=shows
     genre.sync:
       - Action
       - Animation
       - Science Fiction
-    url_background: https://api.mediux.pro/assets/f0b9502f-37f2-4733-a3f2-8257836e72a5
     seasons:
       1:
         url_poster: https://api.mediux.pro/assets/5ef68668-4b10-4486-9a46-e69fd14bdddb
@@ -3185,12 +3204,14 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/450204
   411364:
+    label_title: null
+    sort_title: Shrinking
+    release_year: null
+    url_poster: https://theposterdb.com/api/assets/311934
+    tpdb_search: null
     genre.sync:
       - Comedy
       - Drama
-    title: Shrinking
-    sort_title: Shrinking
-    url_poster: https://theposterdb.com/api/assets/311934
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/311935
@@ -3256,9 +3277,9 @@ metadata:
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/474753
     tpdb_search: https://theposterdb.com/search?term=Solo+Leveling&section=shows
+    audio_language: ja-JP
     genre.sync:
       - Anime
-    audio_language: ja-JP
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/555014
@@ -3489,11 +3510,11 @@ metadata:
     release_year: '2021'
     url_poster: https://theposterdb.com/api/assets/470291
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+-+Visions&section=shows
+    audio_language: ja-JP
     genre.sync:
       - Action
       - Anime
       - Science Fiction
-    audio_language: ja-JP
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/470292
@@ -3580,9 +3601,9 @@ metadata:
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/622082
     tpdb_search: https://theposterdb.com/search?term=The+Summer+Hikaru+Died&section=shows
+    audio_language: ja-JP
     genre.sync:
       - Anime
-    audio_language: ja-JP
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/622083
@@ -3599,9 +3620,9 @@ metadata:
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/586082
     tpdb_search: https://theposterdb.com/search?term=Super+Cube&section=shows
+    audio_language: zh-CN
     genre.sync:
       - Anime
-    audio_language: zh-CN
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/586083
@@ -3713,12 +3734,14 @@ metadata:
       48:
         url_poster: https://api.mediux.pro/assets/e9c2f94a-9da0-4863-b256-ee65e994bf24
   405661:
-    genre.sync:
-      - Anime
     label_title: Takt op.Destiny
     sort_title: Takt op.Destiny
+    release_year: null
     url_poster: https://theposterdb.com/api/assets/180261
+    tpdb_search: null
     audio_language: ja-JP
+    genre.sync:
+      - Anime
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/180263
@@ -3785,10 +3808,10 @@ metadata:
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/586062
     tpdb_search: https://theposterdb.com/search?term=To+be+Hero+X&section=shows
+    audio_language: zh-CN
     genre.sync:
       - Anime
       - Superhero
-    audio_language: zh-CN
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/586063
@@ -3835,9 +3858,9 @@ metadata:
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/601960
     tpdb_search: https://theposterdb.com/search?term=TOUGEN+ANKI&section=shows
+    audio_language: ja-JP
     genre.sync:
       - Anime
-    audio_language: ja-JP
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/618167
@@ -3909,9 +3932,9 @@ metadata:
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/528021
     tpdb_search: https://theposterdb.com/search?term=Uzumaki&section=shows
+    audio_language: ja-JP
     genre.sync:
       - Anime
-    audio_language: ja-JP
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/528022
