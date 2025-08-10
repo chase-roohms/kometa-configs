@@ -4831,7 +4831,7 @@ metadata:
     label_title: The Empire Strikes Back
     sort_title: Star Wars 02
     release_year: '1980'
-    url_poster: https://theposterdb.com/api/assets/133723
+    url_poster: https://theposterdb.com/api/assets/464772
     tpdb_search: https://theposterdb.com/search?term=The+Empire+Strikes+Back&section=movies
     genre.sync:
       - Action
@@ -4840,7 +4840,7 @@ metadata:
     label_title: Return of the Jedi
     sort_title: Star Wars 03
     release_year: '1983'
-    url_poster: https://theposterdb.com/api/assets/133724
+    url_poster: https://theposterdb.com/api/assets/464771
     tpdb_search: https://theposterdb.com/search?term=Return+of+the+Jedi&section=movies
     genre.sync:
       - Action
@@ -4849,7 +4849,7 @@ metadata:
     label_title: Star Wars Episode I The Phantom Menace
     sort_title: Star Wars 04
     release_year: '1999'
-    url_poster: https://theposterdb.com/api/assets/133725
+    url_poster: https://theposterdb.com/api/assets/464754
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+Episode+I+The+Phantom+Menace&section=movies
     genre.sync:
       - Action
@@ -4858,7 +4858,7 @@ metadata:
     label_title: Star Wars Episode II Attack of the Clones
     sort_title: Star Wars 05
     release_year: '2002'
-    url_poster: https://theposterdb.com/api/assets/133726
+    url_poster: https://theposterdb.com/api/assets/464753
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+Episode+II+Attack+of+the+Clones&section=movies
     genre.sync:
       - Action
@@ -4867,7 +4867,7 @@ metadata:
     label_title: Star Wars Episode III Revenge of the Sith
     sort_title: Star Wars 06
     release_year: '2005'
-    url_poster: https://theposterdb.com/api/assets/133727
+    url_poster: https://theposterdb.com/api/assets/464752
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+Episode+III+Revenge+of+the+Sith&section=movies
     genre.sync:
       - Action
@@ -4876,7 +4876,7 @@ metadata:
     label_title: Star Wars The Clone Wars
     sort_title: Star Wars 07
     release_year: '2008'
-    url_poster: https://theposterdb.com/api/assets/133728
+    url_poster: https://theposterdb.com/api/assets/464733
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+The+Clone+Wars&section=movies
     genre.sync:
       - Action
@@ -4885,7 +4885,7 @@ metadata:
     label_title: Star Wars The Force Awakens
     sort_title: Star Wars 08
     release_year: '2015'
-    url_poster: https://theposterdb.com/api/assets/133729
+    url_poster: https://theposterdb.com/api/assets/464801
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+The+Force+Awakens&section=movies
     genre.sync:
       - Action
@@ -4894,7 +4894,7 @@ metadata:
     label_title: Rogue One A Star Wars Story
     sort_title: Star Wars 09
     release_year: '2016'
-    url_poster: https://theposterdb.com/api/assets/133730
+    url_poster: https://theposterdb.com/api/assets/464542
     tpdb_search: https://theposterdb.com/search?term=Rogue+One+A+Star+Wars+Story&section=movies
     genre.sync:
       - Action
@@ -4903,7 +4903,7 @@ metadata:
     label_title: Star Wars The Last Jedi
     sort_title: Star Wars 10
     release_year: '2017'
-    url_poster: https://theposterdb.com/api/assets/133731
+    url_poster: https://theposterdb.com/api/assets/464800
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+The+Last+Jedi&section=movies
     genre.sync:
       - Action
@@ -4912,7 +4912,7 @@ metadata:
     label_title: Solo A Star Wars Story
     sort_title: Star Wars 11
     release_year: '2018'
-    url_poster: https://theposterdb.com/api/assets/133732
+    url_poster: https://theposterdb.com/api/assets/464541
     tpdb_search: https://theposterdb.com/search?term=Solo+A+Star+Wars+Story&section=movies
     genre.sync:
       - Action
@@ -4921,7 +4921,7 @@ metadata:
     label_title: Star Wars The Rise of Skywalker
     sort_title: Star Wars 12
     release_year: '2019'
-    url_poster: https://theposterdb.com/api/assets/133733
+    url_poster: https://theposterdb.com/api/assets/464799
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+The+Rise+of+Skywalker&section=movies
     genre.sync:
       - Action
