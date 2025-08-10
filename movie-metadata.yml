@@ -1,4 +1,15 @@
 metadata:
+  123:
+    label_title: 1 Movie Test hiii
+    sort_title: 1 Movie Test hiii
+    release_year: "2025"
+    url_poster: https://theposterdb.com/api/assets/633928
+    tpdb_search: https://theposterdb.com/search?term=1+Movie+Test+hiii&section=movies
+    genre.sync:
+      - genre 2
+      - genre1
+      - grne
+      - test hi
   170:
     label_title: 28 Days Later
     sort_title: 28 Later 1
