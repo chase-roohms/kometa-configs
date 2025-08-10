@@ -63,7 +63,7 @@ jobs:
           tpdb_search="https://theposterdb.com/search?term=$encoded_title&section=movies"
           IFS=',' read -ra genres <<< "$genres_comma_spaced"
           genres=$(printf '%s\n' "${genres[@]}" | sed 's/^[[:space:]]*//;s/[[:space:]]*$//' | jq -R . | jq -s .)
-
+          
           lower_title="${title,,}"  # convert to lowercase for comparison
           sort_title="$title"
           for article in "a " "an " "the "; do
@@ -145,9 +145,9 @@ jobs:
             yq -i '.metadata[] |= (.["genre.sync"] = (.["genre.sync"] // [] ) | .["genre.sync"] |= sort)' ${{ env.MOVIE_METADATA_FILE }}
 
             # Replace any double quotes with single quotes
-            yq -i '.metadata.${{ env.tmdb_id }}.release_year style="single"' ${{ env.MOVIE_METADATA_FILE }}
+            yq -i '.metadata.${{ env.tmdb_id }}.release_year style="single"' "$MOVIE_METADATA_FILE"
             # Don't think this next line is needed in this workflow, testing soon
-            # yq -i '.metadata.${{ env.tmdb_id }}.url_poster style="single"' ${{ env.MOVIE_METADATA_FILE }}
+            # yq -i '.metadata.${{ env.tmdb_id }}.url_poster style="single"' "$MOVIE_METADATA_FILE"
           fi
       
       - name: Commit Changes to Main
@@ -156,10 +156,10 @@ jobs:
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
           old_sha=$(git rev-parse HEAD)
-          git add ${{ env.MOVIE_METADATA_FILE }}
-          git add ${{ env.SHOW_METADATA_FILE }}
+          git add "$MOVIE_METADATA_FILE"
+          git add "$SHOW_METADATA_FILE"
           if ! git diff-index --quiet main; then
-            git commit -m "Updating ${{ github.event.client_payload.title }}" >> "$UPDATE_SUMMARY_FILE"
+            git commit -m "Updating $title" >> "$UPDATE_SUMMARY_FILE"
             git push >> "$UPDATE_SUMMARY_FILE"
             new_sha=$(git rev-parse HEAD)
             git diff --unified=0 --no-color "$old_sha" "$new_sha" >> "$UPDATE_SUMMARY_FILE"
