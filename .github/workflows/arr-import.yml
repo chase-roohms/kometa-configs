@@ -49,12 +49,6 @@ jobs:
           release_year="${{ github.event.client_payload.remoteMovie.year }}"
           tpdb_search="$(bash "functions/media/get-tpdb-search.sh" "$title" "movie")"
           genres=$GENRES
-          
-          echo $tmdb_id
-          echo $title
-          echo $release_year
-          echo $sort_title
-          echo $tpdb_search
 
           if [[ $(yq '.metadata.${{ github.event.client_payload.remoteMovie.tmdbId }}' ${{ env.MOVIE_METADATA_FILE }}) == null ]]; then
             echo "Movie does not exist, adding"
@@ -74,14 +68,7 @@ jobs:
           release_year="${{ github.event.client_payload.series.year }}"
           tpdb_search="$(bash "functions/media/get-tpdb-search.sh" "$title" "show")"
           genres=$GENRES
-          
           readarray -t seasons < <(echo "$EPISODES" | jq '.[].seasonNumber' | sort -u)
-          
-          echo $tvdb_id
-          echo $title
-          echo $release_year
-          echo $sort_title
-          echo $tpdb_search
 
           if [[ $(yq '.metadata.${{ github.event.client_payload.series.tvdbId }}' ${{ env.SHOW_METADATA_FILE }}) == null ]]; then
             echo "Show does not exist, adding"
