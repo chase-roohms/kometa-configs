@@ -46,11 +46,18 @@ else
 fi
 
 # Check if seasons is a valid JSON array otherwise try to convert comma-separated string to JSON array
-if echo "$seasons" | jq -e . >/dev/null 2>&1; then
-    seasons_json="$(echo "$seasons" | jq -s -c .[])"
-else
-    IFS=',' read -ra season_array <<< "$seasons"
-    seasons_json=$(printf '%s\n' "${season_array[@]}" | sed 's/^[[:space:]]*//;s/[[:space:]]*$//' | jq -R 'tonumber' | jq -s -c .)
+if [[ $type == "show" ]]; then
+    if [[ "$seasons" =~ ^[0-9]+$ ]]; then
+        # Just one season number
+        seasons_json="[$seasons]"
+    elif echo "$seasons" | jq -e . >/dev/null 2>&1; then
+        # JSON array
+        seasons_json="$(echo "$seasons" | jq -s -c .[])"
+    else
+        # Comma seperated string
+        IFS=',' read -ra season_array <<< "$seasons"
+        seasons_json=$(printf '%s\n' "${season_array[@]}" | sed 's/^[[:space:]]*//;s/[[:space:]]*$//' | jq -R 'tonumber' | jq -s -c .)
+    fi
 fi
 
 # Log the media item being added
