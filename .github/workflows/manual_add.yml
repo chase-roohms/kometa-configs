@@ -65,21 +65,10 @@ jobs:
           tmdb_id: ${{ env.txdb_id }}
         shell: bash
         run: |
-          encoded_title="$(echo "$title" | sed -e 's/ /+/g' -e 's/&/%26/g')"
-          tpdb_search="https://theposterdb.com/search?term=$encoded_title&section=movies"
+          sort_title="$(bash "functions/media/get-sort-title.sh" "$title")"
+          tpdb_search="$(bash "functions/media/get-tpdb-search.sh" "$title" "movie")"
           IFS=',' read -ra genres <<< "$genres_comma_spaced"
           genres=$(printf '%s\n' "${genres[@]}" | sed 's/^[[:space:]]*//;s/[[:space:]]*$//' | jq -R . | jq -s .)
-          
-          lower_title="${title,,}"  # convert to lowercase for comparison
-          sort_title="$title"
-          for article in "a " "an " "the "; do
-              if [[ "$lower_title" == "$article"* ]]; then
-                  sort_title="${title:${#article}}"
-                  break
-              fi
-          done
-          
-          sort_title=$(echo "$sort_title" | iconv -f UTF-8 -t ASCII//TRANSLIT)
           
           echo "$tmdb_id"
           echo "$title"
@@ -100,19 +89,10 @@ jobs:
         env:
           tvdb_id: ${{ env.txdb_id }}
         run: |
-          encoded_title="$(echo "$title" | sed -e 's/ /+/g' -e 's/&/%26/g')"
-          tpdb_search="https://theposterdb.com/search?term=$encoded_title&section=movies"
+          sort_title="$(bash "functions/media/get-sort-title.sh" "$title")"
+          tpdb_search="$(bash "functions/media/get-tpdb-search.sh" "$title" "show")"
           IFS=',' read -ra genres <<< "$genres_comma_spaced"
           genres=$(printf '%s\n' "${genres[@]}" | sed 's/^[[:space:]]*//;s/[[:space:]]*$//' | jq -R . | jq -s .)
-          
-          lower_title="${title,,}"  # convert to lowercase for comparison
-          sort_title="$title"
-          for article in "a " "an " "the "; do
-              if [[ "$lower_title" == "$article"* ]]; then
-                  sort_title="${title:${#article}}"
-                  break
-              fi
-          done
           
           readarray -t seasons < <(echo "$EPISODES" | jq '.[].seasonNumber' | sort -u)
           seasons=()
