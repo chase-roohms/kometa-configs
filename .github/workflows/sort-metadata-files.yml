@@ -16,14 +16,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        id: checkout
         uses: actions/checkout@v4
       
-      - name: Update metadata file with movie sorting
-        run: bash "functions/yaml/sort-metadata-file.sh" "$MOVIE_METADATA_FILE"
+      - name: Sort metadata files
+        run: |
+          bash "functions/yaml/sort-metadata-file.sh" "$MOVIE_METADATA_FILE"
+          bash "functions/yaml/sort-metadata-file.sh" "$SHOW_METADATA_FILE"
       
-      - name: Update metadata file with show sorting
-        run: bash "functions/yaml/sort-metadata-file.sh" "$MOVIE_METADATA_FILE"
+      - name: Format metadata files
+        run: |
+          bash "functions/yaml/format-metadata-file.sh" "$MOVIE_METADATA_FILE"
+          bash "functions/yaml/format-metadata-file.sh" "$SHOW_METADATA_FILE"
       
       - name: Commit Changes to Main
         id: commit-changes
