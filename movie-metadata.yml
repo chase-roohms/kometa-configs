@@ -97,7 +97,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Accountant+2&section=movies
     genre.sync:
       - Action
-    title: The Accountant 2
   14199:
     label_title: The Adventures of Sharkboy and Lavagirl
     sort_title: Adventures of Sharkboy and Lavagirl
@@ -867,7 +866,6 @@ metadata:
     studio: A24
     genre.sync:
       - Horror
-    title: Bring Her Back
   142:
     label_title: Brokeback Mountain
     sort_title: Brokeback Mountain
@@ -1219,7 +1217,6 @@ metadata:
     studio: A24
     genre.sync:
       - Horror
-    title: Death of a Unicorn
   635302:
     label_title: Demon Slayer -Kimetsu no Yaiba- The Movie Mugen Train
     sort_title: Demon Slayer -Kimetsu no Yaiba- The Movie Mugen Train
@@ -1718,11 +1715,13 @@ metadata:
     genre.sync:
       - Thriller
   13:
-    genre.sync:
-      - Comedy
     label_title: Forrest Gump
     sort_title: Forrest Gump
+    release_year: null
     url_poster: https://theposterdb.com/api/assets/487271
+    tpdb_search: null
+    genre.sync:
+      - Comedy
   1098006:
     label_title: Fountain of Youth
     sort_title: Fountain of Youth
@@ -3999,7 +3998,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Pinched&section=movies
     genre.sync:
       - Thriller
-    url_background: https://i.imgur.com/ZcrrLl9.png
   22:
     label_title: Pirates of the Caribbean The Curse of the Black Pearl
     sort_title: Pirates of the Caribbean 1
@@ -5298,7 +5296,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    title: 'Transformers: Bumblebee'
   667538:
     label_title: Transformers Rise of the Beasts
     sort_title: Transformers Beasts 1
