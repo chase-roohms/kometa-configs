@@ -1,14 +1,4 @@
 metadata:
-  100000000:
-    label_title: 1 test show
-    sort_title: 1 test show
-    release_year: '2025'
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=1+test+show&section=shows
-    genre.sync:
-      - Drama
-      - History
-      - Mini-Series
   411959:
     label_title: 3 Body Problem
     sort_title: 3 Body Problem
