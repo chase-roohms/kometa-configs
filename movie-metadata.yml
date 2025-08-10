@@ -3995,6 +3995,7 @@ metadata:
     sort_title: Pinched
     release_year: '2012'
     url_poster: https://theposterdb.com/api/assets/627824
+    url_background: https://i.imgur.com/ZcrrLl9.png
     tpdb_search: https://theposterdb.com/search?term=Pinched&section=movies
     genre.sync:
       - Thriller
