@@ -125,7 +125,7 @@ jobs:
         run: |
           bash "functions/git/set-git-config.sh"
           sha=$(bash "functions/git/commit-with-summary.sh" \
-                  "Updating ${{ github.event.client_payload.title }}" \
+                  "Updating $title" \
                   "$UPDATE_SUMMARY_FILE" \
                   "$MOVIE_METADATA_FILE" \
                   "$SHOW_METADATA_FILE")
