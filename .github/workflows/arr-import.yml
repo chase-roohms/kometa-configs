@@ -43,23 +43,12 @@ jobs:
           GENRES: ${{ toJson(github.event.client_payload.movie.genres) }}
         shell: bash
         run: |
-          title="${{ github.event.client_payload.movie.title }}"
-          encoded_title="$(echo "$title" | sed -e 's/ /+/g' -e 's/&/%26/g')"
-          release_year="${{ github.event.client_payload.remoteMovie.year }}"
           tmdb_id=${{ github.event.client_payload.remoteMovie.tmdbId }}
-          tpdb_search="https://theposterdb.com/search?term=$encoded_title&section=movies"
+          title="${{ github.event.client_payload.movie.title }}"
+          sort_title="$(bash "functions/media/get-sort-title.sh" "$title")"
+          release_year="${{ github.event.client_payload.remoteMovie.year }}"
+          tpdb_search="$(bash "functions/media/get-tpdb-search.sh" "$title" "movie")"
           genres=$GENRES
-
-          lower_title="${title,,}"  # convert to lowercase for comparison
-          sort_title="$title"
-          for article in "a " "an " "the "; do
-              if [[ "$lower_title" == "$article"* ]]; then
-                  sort_title="${title:${#article}}"
-                  break
-              fi
-          done
-          
-          sort_title=$(echo "$sort_title" | iconv -f UTF-8 -t ASCII//TRANSLIT)
           
           echo $tmdb_id
           echo $title
@@ -79,23 +68,12 @@ jobs:
           EPISODES: ${{ toJson(github.event.client_payload.episodes) }}
           GENRES: ${{ toJson(github.event.client_payload.series.genres) }}
         run: |
-          title="${{ github.event.client_payload.series.title }}"
-          encoded_title="$(echo "$title" | sed -e 's/ /+/g' -e 's/&/%26/g')"
-          release_year="${{ github.event.client_payload.series.year }}"
           tvdb_id=${{ github.event.client_payload.series.tvdbId }}
-          tpdb_search="https://theposterdb.com/search?term=$encoded_title&section=shows"
+          title="${{ github.event.client_payload.movie.title }}"
+          sort_title="$(bash "functions/media/get-sort-title.sh" "$title")"
+          release_year="${{ github.event.client_payload.series.year }}"
+          tpdb_search="$(bash "functions/media/get-tpdb-search.sh" "$title" "show")"
           genres=$GENRES
-
-          lower_title="${title,,}"  # convert to lowercase for comparison
-          sort_title="$title"
-          for article in "a " "an " "the "; do
-              if [[ "$lower_title" == "$article"* ]]; then
-                  sort_title="${title:${#article}}"
-                  break
-              fi
-          done
-          
-          sort_title=$(echo "$sort_title" | iconv -f UTF-8 -t ASCII//TRANSLIT)
           
           readarray -t seasons < <(echo "$EPISODES" | jq '.[].seasonNumber' | sort -u)
           
