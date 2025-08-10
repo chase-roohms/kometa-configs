@@ -1,13 +1,4 @@
 metadata:
-  170:
-    label_title: 28 Days Later
-    sort_title: 28 Later 1
-    release_year: '2002'
-    url_poster: https://theposterdb.com/api/assets/617783
-    tpdb_search: https://theposterdb.com/search?term=28+Days+Later&section=movies
-    genre.sync:
-      - Thriller
-    seasons: []
   1562:
     label_title: 28 Weeks Later
     sort_title: 28 Later 2
@@ -16,7 +7,14 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=28+Weeks+Later&section=movies
     genre.sync:
       - Thriller
-    seasons: []
+  170:
+    label_title: 28 Days Later
+    sort_title: 28 Later 1
+    release_year: '2002'
+    url_poster: https://theposterdb.com/api/assets/617783
+    tpdb_search: https://theposterdb.com/search?term=28+Days+Later&section=movies
+    genre.sync:
+      - Thriller
   1100988:
     label_title: 28 Years Later
     sort_title: 28 Later 3
@@ -25,7 +23,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=28+Years+Later&section=movies
     genre.sync:
       - Thriller
-    seasons: []
   1272837:
     label_title: '28 Years Later Part Two: The Bone Temple'
     sort_title: 28 Later 4
@@ -34,7 +31,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=28+Years+Later&section=movies
     genre.sync:
       - Thriller
-    seasons: []
   1271:
     label_title: '300'
     sort_title: 300 1
@@ -43,7 +39,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=300&section=movies
     genre.sync:
       - Action
-    seasons: []
   53182:
     label_title: 300 Rise of an Empire
     sort_title: 300 2
@@ -52,7 +47,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=300+Rise+of+an+Empire&section=movies
     genre.sync:
       - Action
-    seasons: []
   3021:
     label_title: '1408'
     sort_title: '1408'
@@ -62,7 +56,6 @@ metadata:
     genre.sync:
       - Fantasy
       - Thriller
-    seasons: []
   530915:
     label_title: '1917'
     sort_title: '1917'
@@ -71,7 +64,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=1917&section=movies
     genre.sync:
       - Action
-    seasons: []
   14161:
     label_title: '2012'
     sort_title: '2012'
@@ -81,7 +73,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   1023915:
     label_title: '2073'
     sort_title: '2073'
@@ -90,7 +81,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=2073&section=movies
     genre.sync:
       - Documentary
-    seasons: []
   302946:
     label_title: The Accountant
     sort_title: Accountant 1
@@ -99,7 +89,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Accountant&section=movies
     genre.sync:
       - Action
-    seasons: []
   870028:
     label_title: The Accountant 2
     sort_title: Accountant 2
@@ -108,7 +97,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Accountant+2&section=movies
     genre.sync:
       - Action
-    seasons: []
   14199:
     label_title: The Adventures of Sharkboy and Lavagirl
     sort_title: Adventures of Sharkboy and Lavagirl
@@ -117,7 +105,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Adventures+of+Sharkboy+and+Lavagirl&section=movies
     genre.sync:
       - Family
-    seasons: []
   537915:
     label_title: After
     sort_title: After 1
@@ -126,7 +113,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=After&section=movies
     genre.sync:
       - Drama
-    seasons: []
   613504:
     label_title: After We Collided
     sort_title: After 2
@@ -135,7 +121,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=After+We+Collided&section=movies
     genre.sync:
       - Drama
-    seasons: []
   744275:
     label_title: After We Fell
     sort_title: After 3
@@ -144,7 +129,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=After+We+Fell&section=movies
     genre.sync:
       - Drama
-    seasons: []
   744276:
     label_title: After Ever Happy
     sort_title: After 4
@@ -153,7 +137,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=After+Ever+Happy&section=movies
     genre.sync:
       - Drama
-    seasons: []
   820525:
     label_title: After Everything
     sort_title: After 5
@@ -162,7 +145,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=After+Everything&section=movies
     genre.sync:
       - Drama
-    seasons: []
   20737:
     label_title: Air Bud
     sort_title: Air Bud
@@ -171,7 +153,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Air+Bud&section=movies
     genre.sync:
       - Family
-    seasons: []
   348:
     label_title: Alien
     sort_title: Alien 1
@@ -181,7 +162,6 @@ metadata:
     genre.sync:
       - Science Fiction
       - Thriller
-    seasons: []
   679:
     label_title: Aliens
     sort_title: Alien 2
@@ -191,7 +171,6 @@ metadata:
     genre.sync:
       - Science Fiction
       - Thriller
-    seasons: []
   8077:
     label_title: Alien³
     sort_title: Alien 3
@@ -201,7 +180,6 @@ metadata:
     genre.sync:
       - Science Fiction
       - Thriller
-    seasons: []
   8078:
     label_title: Alien Resurrection
     sort_title: Alien 4
@@ -211,7 +189,6 @@ metadata:
     genre.sync:
       - Science Fiction
       - Thriller
-    seasons: []
   70981:
     label_title: Prometheus
     sort_title: Alien 5
@@ -221,7 +198,6 @@ metadata:
     genre.sync:
       - Science Fiction
       - Thriller
-    seasons: []
   126889:
     label_title: Alien Covenant
     sort_title: Alien 6
@@ -231,7 +207,6 @@ metadata:
     genre.sync:
       - Science Fiction
       - Thriller
-    seasons: []
   945961:
     label_title: Alien Romulus
     sort_title: Alien 7
@@ -241,7 +216,6 @@ metadata:
     genre.sync:
       - Science Fiction
       - Thriller
-    seasons: []
   395:
     label_title: AVP Alien vs. Predator
     sort_title: Alien vs. Predator 1
@@ -251,7 +225,6 @@ metadata:
     genre.sync:
       - Science Fiction
       - Thriller
-    seasons: []
   440:
     label_title: Aliens vs Predator Requiem
     sort_title: Alien vs. Predator 2
@@ -261,7 +234,6 @@ metadata:
     genre.sync:
       - Science Fiction
       - Thriller
-    seasons: []
   11497:
     label_title: All Dogs Go to Heaven
     sort_title: All Dogs Go to Heaven
@@ -270,7 +242,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=All+Dogs+Go+to+Heaven&section=movies
     genre.sync:
       - Animation
-    seasons: []
   342470:
     label_title: All the Bright Places
     sort_title: All the Bright Places
@@ -279,7 +250,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=All+the+Bright+Places&section=movies
     genre.sync:
       - Drama
-    seasons: []
   222936:
     label_title: Aloha
     sort_title: Aloha
@@ -289,7 +259,6 @@ metadata:
     genre.sync:
       - Comedy
       - Drama
-    seasons: []
   397567:
     label_title: 'Along with the Gods: The Two Worlds'
     sort_title: Along with the Gods 1
@@ -299,7 +268,6 @@ metadata:
     genre.sync:
       - Action
       - Fantasy
-    seasons: []
   518068:
     label_title: 'Along with the Gods: The Last 49 Days'
     sort_title: Along with the Gods 2
@@ -309,7 +277,6 @@ metadata:
     genre.sync:
       - Action
       - Fantasy
-    seasons: []
   1087891:
     label_title: The Amateur
     sort_title: Amateur
@@ -319,7 +286,6 @@ metadata:
     genre.sync:
       - Action
       - Thriller
-    seasons: []
   153518:
     label_title: The Angry Birds Movie
     sort_title: Angry Birds Movie 1
@@ -328,7 +294,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Angry+Birds+Movie&section=movies
     genre.sync:
       - Animation
-    seasons: []
   454640:
     label_title: The Angry Birds Movie 2
     sort_title: Angry Birds Movie 2
@@ -337,7 +302,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Angry+Birds+Movie+2&section=movies
     genre.sync:
       - Animation
-    seasons: []
   250546:
     label_title: Annabelle
     sort_title: Annabelle 1
@@ -346,7 +310,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Annabelle&section=movies
     genre.sync:
       - Horror
-    seasons: []
   396422:
     label_title: Annabelle Creation
     sort_title: Annabelle 2
@@ -355,7 +318,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Annabelle+Creation&section=movies
     genre.sync:
       - Horror
-    seasons: []
   521029:
     label_title: Annabelle Comes Home
     sort_title: Annabelle 3
@@ -364,7 +326,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Annabelle+Comes+Home&section=movies
     genre.sync:
       - Horror
-    seasons: []
   300668:
     label_title: Annihilation
     sort_title: Annihilation
@@ -374,7 +335,6 @@ metadata:
     genre.sync:
       - Science Fiction
       - Thriller
-    seasons: []
   1064213:
     label_title: Anora
     sort_title: Anora
@@ -383,7 +343,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Anora&section=movies
     genre.sync:
       - Drama
-    seasons: []
   102899:
     label_title: Ant-Man
     sort_title: Ant-Man 1
@@ -393,7 +352,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   363088:
     label_title: Ant-Man and the Wasp
     sort_title: Ant-Man 2
@@ -403,7 +361,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   640146:
     label_title: Ant-Man and the Wasp Quantumania
     sort_title: Ant-Man 3
@@ -413,7 +370,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   1118031:
     label_title: Apocalypse Z The Beginning of the End
     sort_title: Apocalypse Z The Beginning of the End
@@ -423,7 +379,6 @@ metadata:
     genre.sync:
       - Action
       - Thriller
-    seasons: []
   297802:
     label_title: Aquaman
     sort_title: Aquaman 1
@@ -432,7 +387,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Aquaman&section=movies
     genre.sync:
       - Superhero
-    seasons: []
   572802:
     label_title: Aquaman and the Lost Kingdom
     sort_title: Aquaman 2
@@ -441,7 +395,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Aquaman+and+the+Lost+Kingdom&section=movies
     genre.sync:
       - Superhero
-    seasons: []
   14191:
     label_title: Aquamarine
     sort_title: Aquamarine
@@ -450,7 +403,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Aquamarine&section=movies
     genre.sync:
       - Family
-    seasons: []
   1051896:
     label_title: Arcadian
     sort_title: Arcadian
@@ -459,7 +411,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Arcadian&section=movies
     genre.sync:
       - Horror
-    seasons: []
   256274:
     label_title: As Above So Below
     sort_title: As Above So Below
@@ -468,7 +419,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=As+Above+So+Below&section=movies
     genre.sync:
       - Horror
-    seasons: []
   931349:
     label_title: Ash
     sort_title: Ash
@@ -478,7 +428,6 @@ metadata:
     genre.sync:
       - Horror
       - Thriller
-    seasons: []
   19995:
     label_title: Avatar
     sort_title: Avatar 1
@@ -488,7 +437,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   76600:
     label_title: 'Avatar: The Way of Water'
     sort_title: Avatar 2
@@ -498,7 +446,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   83533:
     label_title: 'Avatar: Fire and Ash'
     sort_title: Avatar 3
@@ -508,7 +455,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   24428:
     label_title: The Avengers
     sort_title: Avenvers 1
@@ -518,7 +464,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   99861:
     label_title: Avengers Age of Ultron
     sort_title: Avenvers 2
@@ -528,7 +473,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   299536:
     label_title: Avengers Infinity War
     sort_title: Avenvers 3
@@ -538,7 +482,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   299534:
     label_title: Avengers Endgame
     sort_title: Avenvers 4
@@ -548,7 +491,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   1097549:
     label_title: Babygirl
     sort_title: Babygirl
@@ -558,7 +500,6 @@ metadata:
     studio: A24
     genre.sync:
       - Drama
-    seasons: []
   105:
     label_title: Back to the Future
     sort_title: Back to the Future 1
@@ -567,7 +508,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Back+to+the+Future&section=movies
     genre.sync:
       - Science Fiction
-    seasons: []
   165:
     label_title: Back to the Future Part II
     sort_title: Back to the Future 2
@@ -576,7 +516,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Back+to+the+Future+Part+II&section=movies
     genre.sync:
       - Science Fiction
-    seasons: []
   196:
     label_title: Back to the Future Part III
     sort_title: Back to the Future 3
@@ -585,7 +524,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Back+to+the+Future+Part+III&section=movies
     genre.sync:
       - Science Fiction
-    seasons: []
   31665:
     label_title: Barbarosa
     sort_title: Barbarosa
@@ -594,7 +532,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Barbarosa&section=movies
     genre.sync:
       - Action
-    seasons: []
   346698:
     label_title: Barbie
     sort_title: Barbie
@@ -603,7 +540,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Barbie&section=movies
     genre.sync:
       - Comedy
-    seasons: []
   414906:
     label_title: The Batman
     sort_title: Batman
@@ -612,7 +548,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Batman&section=movies
     genre.sync:
       - Superhero
-    seasons: []
   272:
     label_title: Batman Begins
     sort_title: Batman 1
@@ -621,7 +556,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Batman+Begins&section=movies
     genre.sync:
       - Superhero
-    seasons: []
   155:
     label_title: The Dark Knight
     sort_title: Batman 2
@@ -630,7 +564,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Dark+Knight&section=movies
     genre.sync:
       - Superhero
-    seasons: []
   49026:
     label_title: The Dark Knight Rises
     sort_title: Batman 3
@@ -639,7 +572,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Dark+Knight+Rises&section=movies
     genre.sync:
       - Superhero
-    seasons: []
   1297763:
     label_title: Batman Ninja vs. Yakuza League
     sort_title: Batman Ninja vs. Yakuza League
@@ -648,7 +580,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Batman+Ninja+vs.+Yakuza+League&section=movies
     genre.sync:
       - Anime
-    seasons: []
   209112:
     label_title: Batman v Superman Dawn of Justice
     sort_title: Batman v Superman Dawn of Justice
@@ -657,7 +588,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Batman+v+Superman+Dawn+of+Justice&section=movies
     genre.sync:
       - Superhero
-    seasons: []
   441384:
     label_title: The Beach Bum
     sort_title: Beach Bum
@@ -666,7 +596,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Beach+Bum&section=movies
     genre.sync:
       - Comedy
-    seasons: []
   866398:
     label_title: The Beekeeper
     sort_title: Beekeeper
@@ -675,7 +604,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Beekeeper&section=movies
     genre.sync:
       - Action
-    seasons: []
   11806:
     label_title: Beethoven
     sort_title: Beethoven
@@ -684,7 +612,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Beethoven&section=movies
     genre.sync:
       - Family
-    seasons: []
   113082:
     label_title: Berserk The Golden Age Arc I The Egg of the King
     sort_title: Berzerk The Golden Age Arc 1
@@ -693,7 +620,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Berserk+The+Golden+Age+Arc+I+The+Egg+of+the+King&section=movies
     genre.sync:
       - Anime
-    seasons: []
   118412:
     label_title: Berserk The Golden Age Arc II The Battle for Doldrey
     sort_title: Berzerk The Golden Age Arc 2
@@ -702,7 +628,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Berserk+The+Golden+Age+Arc+II+The+Battle+for+Doldrey&section=movies
     genre.sync:
       - Anime
-    seasons: []
   144288:
     label_title: Berserk The Golden Age Arc III The Advent
     sort_title: Berzerk The Golden Age Arc 3
@@ -711,7 +636,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Berserk+The+Golden+Age+Arc+III+The+Advent&section=movies
     genre.sync:
       - Anime
-    seasons: []
   799766:
     label_title: Better Man
     sort_title: Better Man
@@ -720,7 +644,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Better+Man&section=movies
     genre.sync:
       - Fantasy
-    seasons: []
   177572:
     label_title: Big Hero 6
     sort_title: Big Hero 6
@@ -730,7 +653,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Animation
-    seasons: []
   16790:
     label_title: Bingo
     sort_title: Bingo
@@ -739,7 +661,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Bingo&section=movies
     genre.sync:
       - Family
-    seasons: []
   495764:
     label_title: Birds of Prey and the Fantabulous Emancipation of One Harley Quinn
     sort_title: Birds of Prey and the Fantabulous Emancipation of One Harley Quinn
@@ -748,7 +669,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Birds+of+Prey+and+the+Fantabulous+Emancipation+of+One+Harley+Quinn&section=movies
     genre.sync:
       - Superhero
-    seasons: []
   436270:
     label_title: Black Adam
     sort_title: Black Adam
@@ -757,7 +677,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Black+Adam&section=movies
     genre.sync:
       - Superhero
-    seasons: []
   1233575:
     label_title: Black Bag
     sort_title: Black Bag
@@ -766,7 +685,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Black+Bag&section=movies
     genre.sync:
       - Action
-    seasons: []
   284054:
     label_title: Black Panther
     sort_title: Black Panther 1
@@ -776,7 +694,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   505642:
     label_title: Black Panther Wakanda Forever
     sort_title: Black Panther 2
@@ -786,7 +703,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   497698:
     label_title: Black Widow
     sort_title: Black Widow
@@ -796,7 +712,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   1016084:
     label_title: BlackBerry
     sort_title: BlackBerry
@@ -805,7 +720,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=BlackBerry&section=movies
     genre.sync:
       - Drama
-    seasons: []
   36647:
     label_title: Blade
     sort_title: Blade 1
@@ -815,7 +729,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   36586:
     label_title: Blade II
     sort_title: Blade 2
@@ -825,7 +738,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   36648:
     label_title: Blade Trinity
     sort_title: Blade 3
@@ -835,7 +747,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   78:
     label_title: Blade Runner
     sort_title: Blade Runner
@@ -845,7 +756,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   475946:
     label_title: Blade Runner Black Out 2022
     sort_title: Blade Runner 2022
@@ -855,7 +765,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   473072:
     label_title: 2036 Nexus Dawn
     sort_title: Blade Runner 2036
@@ -865,7 +774,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   475759:
     label_title: 2048 Nowhere to Run
     sort_title: Blade Runner 2048
@@ -875,7 +783,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   335984:
     label_title: Blade Runner 2049
     sort_title: Blade Runner 2049
@@ -885,7 +792,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   840705:
     label_title: Blink Twice
     sort_title: Blink Twice
@@ -894,7 +800,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Blink+Twice&section=movies
     genre.sync:
       - Thriller
-    seasons: []
   11368:
     label_title: Blood Simple
     sort_title: Blood Simple
@@ -903,7 +808,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Blood+Simple&section=movies
     genre.sync:
       - Thriller
-    seasons: []
   565770:
     label_title: Blue Beetle
     sort_title: Blue Beetle
@@ -912,7 +816,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Blue+Beetle&section=movies
     genre.sync:
       - Superhero
-    seasons: []
   23626:
     label_title: Blue Collar Comedy Tour The Movie
     sort_title: Blue Collar Comedy Tour The Movie
@@ -921,7 +824,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Blue+Collar+Comedy+Tour+The+Movie&section=movies
     genre.sync:
       - Comedy
-    seasons: []
   520023:
     label_title: Bodies Bodies Bodies
     sort_title: Bodies Bodies Bodies
@@ -931,7 +833,6 @@ metadata:
     studio: A24
     genre.sync:
       - Horror
-    seasons: []
   13053:
     label_title: Bolt
     sort_title: Bolt
@@ -940,7 +841,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Bolt&section=movies
     genre.sync:
       - Animation
-    seasons: []
   197:
     label_title: Braveheart
     sort_title: Braveheart
@@ -949,7 +849,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Braveheart&section=movies
     genre.sync:
       - Action
-    seasons: []
   80384:
     label_title: Breaking Wind
     sort_title: Breaking Wind
@@ -958,7 +857,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Breaking+Wind&section=movies
     genre.sync:
       - Comedy
-    seasons: []
   1151031:
     label_title: Bring Her Back
     sort_title: Bring Her Back
@@ -968,7 +866,6 @@ metadata:
     studio: A24
     genre.sync:
       - Horror
-    seasons: []
   142:
     label_title: Brokeback Mountain
     sort_title: Brokeback Mountain
@@ -977,7 +874,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Brokeback+Mountain&section=movies
     genre.sync:
       - Drama
-    seasons: []
   7445:
     label_title: Brothers
     sort_title: Brothers
@@ -986,7 +882,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Brothers&section=movies
     genre.sync:
       - Drama
-    seasons: []
   549509:
     label_title: The Brutalist
     sort_title: Brutalist
@@ -996,7 +891,6 @@ metadata:
     studio: A24
     genre.sync:
       - Drama
-    seasons: []
   9487:
     label_title: A Bugs Life
     sort_title: Bugs Life
@@ -1006,7 +900,6 @@ metadata:
     studio: Pixar
     genre.sync:
       - Animation
-    seasons: []
   1771:
     label_title: Captain America The First Avenger
     sort_title: Captain America 1
@@ -1016,7 +909,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   100402:
     label_title: Captain America The Winter Soldier
     sort_title: Captain America 2
@@ -1026,7 +918,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   271110:
     label_title: Captain America Civil War
     sort_title: Captain America 3
@@ -1036,7 +927,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   822119:
     label_title: Captain America Brave New World
     sort_title: Captain America 4
@@ -1046,7 +936,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   299537:
     label_title: Captain Marvel
     sort_title: Captain Marvel
@@ -1056,7 +945,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   1005331:
     label_title: Carry-On
     sort_title: Carry-On
@@ -1065,7 +953,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Carry-On&section=movies
     genre.sync:
       - Thriller
-    seasons: []
   920:
     label_title: Cars
     sort_title: Cars 1
@@ -1075,7 +962,6 @@ metadata:
     studio: Pixar
     genre.sync:
       - Animation
-    seasons: []
   49013:
     label_title: Cars 2
     sort_title: Cars 2
@@ -1085,7 +971,6 @@ metadata:
     studio: Pixar
     genre.sync:
       - Animation
-    seasons: []
   260514:
     label_title: Cars 3
     sort_title: Cars 3
@@ -1095,7 +980,6 @@ metadata:
     studio: Pixar
     genre.sync:
       - Animation
-    seasons: []
   10515:
     label_title: Castle in the Sky
     sort_title: Castle in the Sky
@@ -1105,7 +989,6 @@ metadata:
     studio: Studio Ghibli
     genre.sync:
       - Anime
-    seasons: []
   15370:
     label_title: The Cat Returns
     sort_title: Cat Returns
@@ -1115,7 +998,6 @@ metadata:
     studio: Studio Ghibli
     genre.sync:
       - Anime
-    seasons: []
   640:
     label_title: Catch Me If You Can
     sort_title: Catch Me If You Can
@@ -1125,7 +1007,6 @@ metadata:
     genre.sync:
       - Comedy
       - Thriller
-    seasons: []
   937287:
     label_title: Challengers
     sort_title: Challengers
@@ -1134,7 +1015,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Challengers&section=movies
     genre.sync:
       - Drama
-    seasons: []
   7191:
     label_title: Cloverfield
     sort_title: Cloverfield 1
@@ -1144,17 +1024,15 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   333371:
     label_title: 10 Cloverfield Lane
     sort_title: Cloverfield 2
-    release_year: '2016'
+    release_year: 2016
     url_poster: https://theposterdb.com/api/assets/80492
     tpdb_search: https://theposterdb.com/search?term=10+Cloverfield+Lane&section=movies
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   384521:
     label_title: The Cloverfield Paradox
     sort_title: Cloverfield 3
@@ -1164,7 +1042,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   713364:
     label_title: Clown in a Cornfield
     sort_title: Clown in a Cornfield
@@ -1173,7 +1050,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Clown+in+a+Cornfield&section=movies
     genre.sync:
       - Horror
-    seasons: []
   1084199:
     label_title: Companion
     sort_title: Companion
@@ -1182,7 +1058,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Companion&section=movies
     genre.sync:
       - Horror
-    seasons: []
   661539:
     label_title: A Complete Unknown
     sort_title: Complete Unknown
@@ -1191,7 +1066,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=A+Complete+Unknown&section=movies
     genre.sync:
       - Drama
-    seasons: []
   974576:
     label_title: Conclave
     sort_title: Conclave
@@ -1200,7 +1074,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Conclave&section=movies
     genre.sync:
       - Thriller
-    seasons: []
   138843:
     label_title: The Conjuring
     sort_title: Conjuring 1
@@ -1209,7 +1082,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Conjuring&section=movies
     genre.sync:
       - Horror
-    seasons: []
   259693:
     label_title: The Conjuring 2
     sort_title: Conjuring 2
@@ -1218,7 +1090,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Conjuring+2&section=movies
     genre.sync:
       - Horror
-    seasons: []
   423108:
     label_title: The Conjuring The Devil Made Me Do It
     sort_title: Conjuring 3
@@ -1227,7 +1098,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Conjuring+The+Devil+Made+Me+Do+It&section=movies
     genre.sync:
       - Horror
-    seasons: []
   14836:
     label_title: Coraline
     sort_title: Coraline
@@ -1236,7 +1106,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Coraline&section=movies
     genre.sync:
       - Animation
-    seasons: []
   957452:
     label_title: The Crow
     sort_title: Crow
@@ -1246,7 +1115,6 @@ metadata:
     genre.sync:
       - Action
       - Fantasy
-    seasons: []
   869291:
     label_title: Cuckoo
     sort_title: Cuckoo
@@ -1255,7 +1123,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Cuckoo&section=movies
     genre.sync:
       - Horror
-    seasons: []
   480414:
     label_title: The Curse of La Llorona
     sort_title: Curse of La Llorona
@@ -1264,7 +1131,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Curse+of+La+Llorona&section=movies
     genre.sync:
       - Horror
-    seasons: []
   1089123:
     label_title: Daddys Head
     sort_title: Daddys Head
@@ -1273,7 +1139,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Daddys+Head&section=movies
     genre.sync:
       - Horror
-    seasons: []
   850439:
     label_title: The Damned
     sort_title: Damned
@@ -1282,7 +1147,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Damned&section=movies
     genre.sync:
       - Horror
-    seasons: []
   1285965:
     label_title: Dangerous Animals
     sort_title: Dangerous Animals
@@ -1292,7 +1156,6 @@ metadata:
     genre.sync:
       - Horror
       - Thriller
-    seasons: []
   552178:
     label_title: Dark Waters
     sort_title: Dark Waters
@@ -1301,7 +1164,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Dark+Waters&section=movies
     genre.sync:
       - Drama
-    seasons: []
   9571:
     label_title: Dazed and Confused
     sort_title: Dazed and Confused
@@ -1310,7 +1172,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Dazed+and+Confused&section=movies
     genre.sync:
       - Comedy
-    seasons: []
   1006724:
     label_title: Dead Talents Society
     sort_title: Dead Talents Society
@@ -1320,7 +1181,6 @@ metadata:
     genre.sync:
       - Comedy
       - Horror
-    seasons: []
   293660:
     label_title: Deadpool
     sort_title: Deadpool 1
@@ -1330,7 +1190,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   383498:
     label_title: Deadpool 2
     sort_title: Deadpool 2
@@ -1340,7 +1199,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   533535:
     label_title: Deadpool and Wolverine
     sort_title: Deadpool 3
@@ -1350,7 +1208,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   1153714:
     label_title: Death of a Unicorn
     sort_title: Death of a Unicorn
@@ -1360,7 +1217,6 @@ metadata:
     studio: A24
     genre.sync:
       - Horror
-    seasons: []
   635302:
     label_title: Demon Slayer -Kimetsu no Yaiba- The Movie Mugen Train
     sort_title: Demon Slayer -Kimetsu no Yaiba- The Movie Mugen Train
@@ -1369,7 +1225,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Demon+Slayer+-Kimetsu+no+Yaiba-+The+Movie+Mugen+Train&section=movies
     genre.sync:
       - Anime
-    seasons: []
   20352:
     label_title: Despicable Me
     sort_title: Despicable Me 1
@@ -1379,7 +1234,6 @@ metadata:
     studio: Illumination
     genre.sync:
       - Animation
-    seasons: []
   93456:
     label_title: Despicable Me 2
     sort_title: Despicable Me 2
@@ -1389,7 +1243,6 @@ metadata:
     studio: Illumination
     genre.sync:
       - Animation
-    seasons: []
   324852:
     label_title: Despicable Me 3
     sort_title: Despicable Me 3
@@ -1399,7 +1252,6 @@ metadata:
     studio: Illumination
     genre.sync:
       - Animation
-    seasons: []
   519182:
     label_title: Despicable Me 4
     sort_title: Despicable Me 4
@@ -1409,7 +1261,6 @@ metadata:
     studio: Illumination
     genre.sync:
       - Animation
-    seasons: []
   82685:
     label_title: Division III Footballs Finest
     sort_title: Division III Footballs Finest
@@ -1418,7 +1269,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Division+III+Footballs+Finest&section=movies
     genre.sync:
       - Comedy
-    seasons: []
   68718:
     label_title: Django Unchained
     sort_title: Django Unchained
@@ -1428,7 +1278,6 @@ metadata:
     genre.sync:
       - Action
       - Drama
-    seasons: []
   501170:
     label_title: Doctor Sleep
     sort_title: Doctor Sleep
@@ -1437,7 +1286,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Doctor+Sleep&section=movies
     genre.sync:
       - Horror
-    seasons: []
   284052:
     label_title: Doctor Strange
     sort_title: Doctor Strange 1
@@ -1447,7 +1295,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   453395:
     label_title: Doctor Strange in the Multiverse of Madness
     sort_title: Doctor Strange 2
@@ -1457,7 +1304,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   141:
     label_title: Donnie Darko
     sort_title: Donnie Darko 1
@@ -1466,7 +1312,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Donnie+Darko&section=movies
     genre.sync:
       - Thriller
-    seasons: []
   17532:
     label_title: S. Darko
     sort_title: Donnie Darko 2
@@ -1475,7 +1320,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=S.+Darko&section=movies
     genre.sync:
       - Thriller
-    seasons: []
   300669:
     label_title: Dont Breathe
     sort_title: Dont Breathe 1
@@ -1484,7 +1328,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Dont+Breathe&section=movies
     genre.sync:
       - Horror
-    seasons: []
   482373:
     label_title: Dont Breathe 2
     sort_title: Dont Breathe 2
@@ -1493,7 +1336,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Dont+Breathe+2&section=movies
     genre.sync:
       - Horror
-    seasons: []
   606278:
     label_title: Dosed
     sort_title: Dosed 1
@@ -1502,7 +1344,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Dosed&section=movies
     genre.sync:
       - Documentary
-    seasons: []
   1010253:
     label_title: Dosed 2 The Trip of a Lifetime
     sort_title: Dosed 2
@@ -1511,7 +1352,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Dosed+2+The+Trip+of+a+Lifetime&section=movies
     genre.sync:
       - Documentary
-    seasons: []
   438631:
     label_title: Dune
     sort_title: Dune 1
@@ -1520,7 +1360,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Dune&section=movies
     genre.sync:
       - Science Fiction
-    seasons: []
   693134:
     label_title: Dune Part Two
     sort_title: Dune 2
@@ -1529,7 +1368,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Dune+Part+Two&section=movies
     genre.sync:
       - Science Fiction
-    seasons: []
   493529:
     label_title: Dungeons and Dragons Honor Among Thieves
     sort_title: Dungeons and Dragons Honor Among Thieves
@@ -1540,7 +1378,6 @@ metadata:
       - Action
       - Comedy
       - Fantasy
-    seasons: []
   81379:
     label_title: Durango Kids
     sort_title: Durango Kids
@@ -1549,7 +1386,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Durango+Kids&section=movies
     genre.sync:
       - Family
-    seasons: []
   559969:
     label_title: El Camino A Breaking Bad Movie
     sort_title: El Camino A Breaking Bad Movie
@@ -1558,7 +1394,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=El+Camino+A+Breaking+Bad+Movie&section=movies
     genre.sync:
       - Drama
-    seasons: []
   777443:
     label_title: The Electric State
     sort_title: Electric State
@@ -1567,7 +1402,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Electric+State&section=movies
     genre.sync:
       - Science Fiction
-    seasons: []
   156022:
     label_title: The Equalizer
     sort_title: Equalizer 1
@@ -1576,7 +1410,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Equalizer&section=movies
     genre.sync:
       - Action
-    seasons: []
   345887:
     label_title: The Equalizer 2
     sort_title: Equalizer 2
@@ -1585,7 +1418,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Equalizer+2&section=movies
     genre.sync:
       - Action
-    seasons: []
   926393:
     label_title: The Equalizer 3
     sort_title: Equalizer 3
@@ -1594,7 +1426,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Equalizer+3&section=movies
     genre.sync:
       - Action
-    seasons: []
   524434:
     label_title: Eternals
     sort_title: Eternals
@@ -1604,7 +1435,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   15137:
     label_title: 'Evangelion: 1.0 You Are (Not) Alone'
     sort_title: Evangelion Rebuild 1
@@ -1613,7 +1443,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Evangelion:+1.0+You+Are+(Not)+Alone&section=movies
     genre.sync:
       - Anime
-    seasons: []
   22843:
     label_title: 'Evangelion: 2.0 You Can (Not) Advance'
     sort_title: Evangelion Rebuild 2
@@ -1622,7 +1451,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Evangelion:+2.0+You+Can+(Not)+Advance&section=movies
     genre.sync:
       - Anime
-    seasons: []
   75629:
     label_title: 'Evangelion: 3.0 You Can (Not) Redo'
     sort_title: Evangelion Rebuild 3
@@ -1631,7 +1459,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Evangelion:+3.0+You+Can+(Not)+Redo&section=movies
     genre.sync:
       - Anime
-    seasons: []
   283566:
     label_title: 'Evangelion: 3.0+1.0 Thrice Upon a Time'
     sort_title: Evangelion Rebuild 4
@@ -1640,7 +1467,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Evangelion:+3.0+1.0+Thrice+Upon+a+Time&section=movies
     genre.sync:
       - Anime
-    seasons: []
   545611:
     label_title: Everything Everywhere All at Once
     sort_title: Everything Everywhere All at Once
@@ -1651,7 +1477,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   1233069:
     label_title: Exterritorial
     sort_title: Exterritorial
@@ -1660,7 +1485,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Exterritorial&section=movies
     genre.sync:
       - Thriller
-    seasons: []
   746036:
     label_title: The Fall Guy
     sort_title: Fall Guy
@@ -1670,7 +1494,6 @@ metadata:
     genre.sync:
       - Action
       - Comedy
-    seasons: []
   259316:
     label_title: Fantastic Beasts and Where to Find Them
     sort_title: Fantastic Beasts and Where to Find Them 1
@@ -1679,7 +1502,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Fantastic+Beasts+and+Where+to+Find+Them&section=movies
     genre.sync:
       - Fantasy
-    seasons: []
   338952:
     label_title: Fantastic Beasts The Crimes of Grindelwald
     sort_title: Fantastic Beasts and Where to Find Them 2
@@ -1688,7 +1510,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Fantastic+Beasts+The+Crimes+of+Grindelwald&section=movies
     genre.sync:
       - Fantasy
-    seasons: []
   338953:
     label_title: Fantastic Beasts The Secrets of Dumbledore
     sort_title: Fantastic Beasts and Where to Find Them 3
@@ -1697,7 +1518,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Fantastic+Beasts+The+Secrets+of+Dumbledore&section=movies
     genre.sync:
       - Fantasy
-    seasons: []
   22059:
     label_title: The Fantastic Four
     sort_title: Fantastic Four 1
@@ -1707,7 +1527,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   9738:
     label_title: Fantastic Four
     sort_title: Fantastic Four 2
@@ -1717,7 +1536,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   1979:
     label_title: Fantastic Four Rise of the Silver Surfer
     sort_title: Fantastic Four 3
@@ -1727,7 +1545,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   166424:
     label_title: Fantastic Four
     sort_title: Fantastic Four 4
@@ -1737,7 +1554,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   591273:
     label_title: Fear Street 1994
     sort_title: Fear Street 1
@@ -1746,7 +1562,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Fear+Street+1994&section=movies
     genre.sync:
       - Horror
-    seasons: []
   591274:
     label_title: Fear Street 1978
     sort_title: Fear Street 2
@@ -1755,7 +1570,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Fear+Street+1978&section=movies
     genre.sync:
       - Horror
-    seasons: []
   591275:
     label_title: Fear Street 1666
     sort_title: Fear Street 3
@@ -1764,7 +1578,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Fear+Street+1666&section=movies
     genre.sync:
       - Horror
-    seasons: []
   1001414:
     label_title: Fear Street Prom Queen
     sort_title: Fear Street 4
@@ -1773,7 +1586,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Fear+Street+Prom+Queen&section=movies
     genre.sync:
       - Horror
-    seasons: []
   550:
     label_title: Fight Club
     sort_title: Fight Club
@@ -1782,7 +1594,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Fight+Club&section=movies
     genre.sync:
       - Thriller
-    seasons: []
   1212855:
     label_title: Fight or Flight
     sort_title: Fight or Flight
@@ -1791,7 +1602,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Fight+or+Flight&section=movies
     genre.sync:
       - Action
-    seasons: []
   9532:
     label_title: Final Destination
     sort_title: Final Destination 1
@@ -1801,7 +1611,6 @@ metadata:
     genre.sync:
       - Horror
       - Thriller
-    seasons: []
   9358:
     label_title: Final Destination 2
     sort_title: Final Destination 2
@@ -1811,7 +1620,6 @@ metadata:
     genre.sync:
       - Horror
       - Thriller
-    seasons: []
   9286:
     label_title: Final Destination 3
     sort_title: Final Destination 3
@@ -1821,7 +1629,6 @@ metadata:
     genre.sync:
       - Horror
       - Thriller
-    seasons: []
   19912:
     label_title: The Final Destination
     sort_title: Final Destination 4
@@ -1831,7 +1638,6 @@ metadata:
     genre.sync:
       - Horror
       - Thriller
-    seasons: []
   55779:
     label_title: Final Destination 5
     sort_title: Final Destination 5
@@ -1841,7 +1647,6 @@ metadata:
     genre.sync:
       - Horror
       - Thriller
-    seasons: []
   574475:
     label_title: Final Destination Bloodlines
     sort_title: Final Destination 6
@@ -1851,7 +1656,6 @@ metadata:
     genre.sync:
       - Horror
       - Thriller
-    seasons: []
   12:
     label_title: Finding Nemo
     sort_title: Finding Nemo 1
@@ -1861,7 +1665,6 @@ metadata:
     studio: Pixar
     genre.sync:
       - Animation
-    seasons: []
   127380:
     label_title: Finding Dory
     sort_title: Finding Nemo 2
@@ -1871,7 +1674,6 @@ metadata:
     studio: Pixar
     genre.sync:
       - Animation
-    seasons: []
   298618:
     label_title: The Flash
     sort_title: Flash
@@ -1880,7 +1682,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Flash&section=movies
     genre.sync:
       - Superhero
-    seasons: []
   522406:
     label_title: Flashback
     sort_title: Flashback
@@ -1889,7 +1690,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Flashback&section=movies
     genre.sync:
       - Thriller
-    seasons: []
   1126166:
     label_title: Flight Risk
     sort_title: Flight Risk
@@ -1898,7 +1698,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Flight+Risk&section=movies
     genre.sync:
       - Thriller
-    seasons: []
   823219:
     label_title: Flow
     sort_title: Flow
@@ -1907,7 +1706,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Flow&section=movies
     genre.sync:
       - Animation
-    seasons: []
   488623:
     label_title: Forgotten
     sort_title: Forgotten
@@ -1916,16 +1714,14 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Forgotten&section=movies
     genre.sync:
       - Thriller
-    seasons: []
   13:
     label_title: Forrest Gump
     sort_title: Forrest Gump
-    release_year: '1994'
+    release_year: 1994
     url_poster: https://theposterdb.com/api/assets/487271
     tpdb_search: https://theposterdb.com/search?term=Forrest+Gump&section=movies
     genre.sync:
       - Comedy
-    seasons: []
   1098006:
     label_title: Fountain of Youth
     sort_title: Fountain of Youth
@@ -1934,7 +1730,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Fountain+of+Youth&section=movies
     genre.sync:
       - Action
-    seasons: []
   10330:
     label_title: Freaky Friday
     sort_title: Freaky Friday 1
@@ -1943,7 +1738,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Freaky+Friday&section=movies
     genre.sync:
       - Family
-    seasons: []
   1125257:
     label_title: Freakier Friday
     sort_title: Freaky Friday 2
@@ -1952,7 +1746,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Freaky+Friday&section=movies
     genre.sync:
       - Family
-    seasons: []
   1239655:
     label_title: Friendship
     sort_title: Friendship
@@ -1962,7 +1755,6 @@ metadata:
     studio: A24
     genre.sync:
       - Comedy
-    seasons: []
   228150:
     label_title: Fury
     sort_title: Fury
@@ -1971,7 +1763,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Fury&section=movies
     genre.sync:
       - Action
-    seasons: []
   1045938:
     label_title: G20
     sort_title: G20
@@ -1980,7 +1771,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=G20&section=movies
     genre.sync:
       - Action
-    seasons: []
   522627:
     label_title: The Gentlemen
     sort_title: Gentlemen
@@ -1990,7 +1780,6 @@ metadata:
     genre.sync:
       - Action
       - Comedy
-    seasons: []
   419430:
     label_title: Get Out
     sort_title: Get Out
@@ -2000,7 +1789,6 @@ metadata:
     genre.sync:
       - Horror
       - Thriller
-    seasons: []
   98:
     label_title: Gladiator
     sort_title: Gladiator 1
@@ -2009,7 +1797,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Gladiator&section=movies
     genre.sync:
       - Action
-    seasons: []
   558449:
     label_title: Gladiator II
     sort_title: Gladiator 2
@@ -2018,7 +1805,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Gladiator+II&section=movies
     genre.sync:
       - Action
-    seasons: []
   450465:
     label_title: Glass
     sort_title: Glass
@@ -2027,7 +1813,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Glass&section=movies
     genre.sync:
       - Action
-    seasons: []
   9665:
     label_title: Glory
     sort_title: Glory
@@ -2036,7 +1821,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Glory&section=movies
     genre.sync:
       - Drama
-    seasons: []
   238:
     label_title: The Godfather
     sort_title: Godfather 1
@@ -2046,7 +1830,6 @@ metadata:
     genre.sync:
       - Action
       - Drama
-    seasons: []
   240:
     label_title: The Godfather Part II
     sort_title: Godfather 2
@@ -2056,7 +1839,6 @@ metadata:
     genre.sync:
       - Action
       - Drama
-    seasons: []
   242:
     label_title: The Godfather Part III
     sort_title: Godfather 3
@@ -2066,7 +1848,6 @@ metadata:
     genre.sync:
       - Action
       - Drama
-    seasons: []
   124905:
     label_title: Godzilla
     sort_title: Godzilla 1
@@ -2076,7 +1857,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   373571:
     label_title: Godzilla King of the Monsters
     sort_title: Godzilla 2
@@ -2086,7 +1866,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   940721:
     label_title: Godzilla Minus One
     sort_title: Godzilla Minus One
@@ -2096,7 +1875,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   399566:
     label_title: Godzilla vs. Kong
     sort_title: Godzilla vs. Kong 1
@@ -2106,7 +1884,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   823464:
     label_title: Godzilla x Kong The New Empire
     sort_title: Godzilla vs. Kong 2
@@ -2116,7 +1893,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   1422096:
     label_title: Good Boy
     sort_title: Good Boy
@@ -2125,7 +1901,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Good+Boy&section=movies
     genre.sync:
       - Horror
-    seasons: []
   284303:
     label_title: Goodnight Mommy
     sort_title: Goodnight Mommy
@@ -2134,7 +1909,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Goodnight+Mommy&section=movies
     genre.sync:
       - Horror
-    seasons: []
   814800:
     label_title: Goodnight Mommy
     sort_title: Goodnight Mommy
@@ -2143,7 +1917,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Goodnight+Mommy&section=movies
     genre.sync:
       - Horror
-    seasons: []
   950396:
     label_title: The Gorge
     sort_title: Gorge
@@ -2153,7 +1926,6 @@ metadata:
     genre.sync:
       - Action
       - Thriller
-    seasons: []
   70476:
     label_title: Gracies Choice
     sort_title: Gracies Choice
@@ -2162,7 +1934,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Gracies+Choice&section=movies
     genre.sync:
       - Drama
-    seasons: []
   118340:
     label_title: Guardians of the Galaxy
     sort_title: Guardians of the Galaxy 1
@@ -2172,7 +1943,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   283995:
     label_title: Guardians of the Galaxy Vol. 2
     sort_title: Guardians of the Galaxy 2
@@ -2182,7 +1952,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   774752:
     label_title: The Guardians of the Galaxy Holiday Special
     sort_title: Guardians of the Galaxy 3
@@ -2192,7 +1961,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   447365:
     label_title: Guardians of the Galaxy Vol. 3
     sort_title: Guardians of the Galaxy 4
@@ -2202,7 +1970,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   324786:
     label_title: Hacksaw Ridge
     sort_title: Hacksaw Ridge
@@ -2211,7 +1978,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Hacksaw+Ridge&section=movies
     genre.sync:
       - Action
-    seasons: []
   9614:
     label_title: Happy Gilmore
     sort_title: Happy Gilmore 1
@@ -2220,7 +1986,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Happy+Gilmore&section=movies
     genre.sync:
       - Comedy
-    seasons: []
   1263256:
     label_title: Happy Gilmore 2
     sort_title: Happy Gilmore 2
@@ -2229,7 +1994,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Happy+Gilmore+2&section=movies
     genre.sync:
       - Comedy
-    seasons: []
   671:
     label_title: Harry Potter and the Philosophers Stone
     sort_title: Harry Potter 1
@@ -2238,7 +2002,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Harry+Potter+and+the+Philosophers+Stone&section=movies
     genre.sync:
       - Fantasy
-    seasons: []
   672:
     label_title: Harry Potter and the Chamber of Secrets
     sort_title: Harry Potter 2
@@ -2247,7 +2010,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Harry+Potter+and+the+Chamber+of+Secrets&section=movies
     genre.sync:
       - Fantasy
-    seasons: []
   673:
     label_title: Harry Potter and the Prisoner of Azkaban
     sort_title: Harry Potter 3
@@ -2256,7 +2018,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Harry+Potter+and+the+Prisoner+of+Azkaban&section=movies
     genre.sync:
       - Fantasy
-    seasons: []
   674:
     label_title: Harry Potter and the Goblet of Fire
     sort_title: Harry Potter 4
@@ -2265,7 +2026,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Harry+Potter+and+the+Goblet+of+Fire&section=movies
     genre.sync:
       - Fantasy
-    seasons: []
   675:
     label_title: Harry Potter and the Order of the Phoenix
     sort_title: Harry Potter 5
@@ -2274,7 +2034,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Harry+Potter+and+the+Order+of+the+Phoenix&section=movies
     genre.sync:
       - Fantasy
-    seasons: []
   767:
     label_title: Harry Potter and the Half-Blood Prince
     sort_title: Harry Potter 6
@@ -2283,7 +2042,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Harry+Potter+and+the+Half-Blood+Prince&section=movies
     genre.sync:
       - Fantasy
-    seasons: []
   12444:
     label_title: Harry Potter and the Deathly Hallows Part 1
     sort_title: Harry Potter 7
@@ -2292,7 +2050,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Harry+Potter+and+the+Deathly+Hallows+Part+1&section=movies
     genre.sync:
       - Fantasy
-    seasons: []
   12445:
     label_title: Harry Potter and the Deathly Hallows Part 2
     sort_title: Harry Potter 8
@@ -2301,7 +2058,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Harry+Potter+and+the+Deathly+Hallows+Part+2&section=movies
     genre.sync:
       - Fantasy
-    seasons: []
   668489:
     label_title: Havoc
     sort_title: Havoc
@@ -2310,7 +2066,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Havoc&section=movies
     genre.sync:
       - Action
-    seasons: []
   1302916:
     label_title: Heart Eyes
     sort_title: Heart Eyes
@@ -2319,7 +2074,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Heart+Eyes&section=movies
     genre.sync:
       - Horror
-    seasons: []
   9003:
     label_title: Hellraiser
     sort_title: Hellraiser 1
@@ -2329,7 +2083,6 @@ metadata:
     genre.sync:
       - Horror
       - Thriller
-    seasons: []
   9064:
     label_title: Hellbound Hellraiser II
     sort_title: Hellraiser 2
@@ -2339,7 +2092,6 @@ metadata:
     genre.sync:
       - Horror
       - Thriller
-    seasons: []
   11569:
     label_title: Hellraiser III Hell on Earth
     sort_title: Hellraiser 3
@@ -2349,7 +2101,6 @@ metadata:
     genre.sync:
       - Horror
       - Thriller
-    seasons: []
   8766:
     label_title: Hellraiser Bloodline
     sort_title: Hellraiser 4
@@ -2359,7 +2110,6 @@ metadata:
     genre.sync:
       - Horror
       - Thriller
-    seasons: []
   12597:
     label_title: Hellraiser Inferno
     sort_title: Hellraiser 5
@@ -2369,7 +2119,6 @@ metadata:
     genre.sync:
       - Horror
       - Thriller
-    seasons: []
   11246:
     label_title: Hellraiser Hellseeker
     sort_title: Hellraiser 6
@@ -2379,7 +2128,6 @@ metadata:
     genre.sync:
       - Horror
       - Thriller
-    seasons: []
   17455:
     label_title: Hellraiser Deader
     sort_title: Hellraiser 7
@@ -2389,7 +2137,6 @@ metadata:
     genre.sync:
       - Horror
       - Thriller
-    seasons: []
   12699:
     label_title: Hellraiser Hellworld
     sort_title: Hellraiser 8
@@ -2399,7 +2146,6 @@ metadata:
     genre.sync:
       - Horror
       - Thriller
-    seasons: []
   70584:
     label_title: Hellraiser Revelations
     sort_title: Hellraiser 9
@@ -2409,7 +2155,6 @@ metadata:
     genre.sync:
       - Horror
       - Thriller
-    seasons: []
   444149:
     label_title: Hellraiser Judgment
     sort_title: Hellraiser 10
@@ -2419,7 +2164,6 @@ metadata:
     genre.sync:
       - Horror
       - Thriller
-    seasons: []
   338947:
     label_title: Hellraiser
     sort_title: Hellraiser 11
@@ -2429,7 +2173,6 @@ metadata:
     genre.sync:
       - Horror
       - Thriller
-    seasons: []
   14136:
     label_title: The Love Bug
     sort_title: Herbie 1
@@ -2438,7 +2181,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Love+Bug&section=movies
     genre.sync:
       - Family
-    seasons: []
   10869:
     label_title: Herbie Rides Again
     sort_title: Herbie 2
@@ -2447,7 +2189,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Herbie+Rides+Again&section=movies
     genre.sync:
       - Family
-    seasons: []
   14140:
     label_title: Herbie Goes to Monte Carlo
     sort_title: Herbie 3
@@ -2456,7 +2197,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Herbie+Goes+to+Monte+Carlo&section=movies
     genre.sync:
       - Family
-    seasons: []
   12129:
     label_title: Herbie Goes Bananas
     sort_title: Herbie 4
@@ -2465,7 +2205,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Herbie+Goes+Bananas&section=movies
     genre.sync:
       - Family
-    seasons: []
   32643:
     label_title: The Love Bug
     sort_title: Herbie 5
@@ -2474,7 +2213,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Love+Bug&section=movies
     genre.sync:
       - Family
-    seasons: []
   11451:
     label_title: Herbie Fully Loaded
     sort_title: Herbie 6
@@ -2483,7 +2221,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Herbie+Fully+Loaded&section=movies
     genre.sync:
       - Family
-    seasons: []
   493922:
     label_title: Hereditary
     sort_title: Hereditary
@@ -2493,7 +2230,6 @@ metadata:
     studio: A24
     genre.sync:
       - Horror
-    seasons: []
   1138194:
     label_title: Heretic
     sort_title: Heretic
@@ -2503,7 +2239,6 @@ metadata:
     studio: A24
     genre.sync:
       - Horror
-    seasons: []
   49051:
     label_title: The Hobbit An Unexpected Journey
     sort_title: Hobbit 1
@@ -2512,7 +2247,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Hobbit+An+Unexpected+Journey&section=movies
     genre.sync:
       - Fantasy
-    seasons: []
   57158:
     label_title: The Hobbit The Desolation of Smaug
     sort_title: Hobbit 2
@@ -2521,7 +2255,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Hobbit+The+Desolation+of+Smaug&section=movies
     genre.sync:
       - Fantasy
-    seasons: []
   122917:
     label_title: The Hobbit The Battle of the Five Armies
     sort_title: Hobbit 3
@@ -2530,7 +2263,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Hobbit+The+Battle+of+the+Five+Armies&section=movies
     genre.sync:
       - Fantasy
-    seasons: []
   771:
     label_title: Home Alone
     sort_title: Home Alone 1
@@ -2539,7 +2271,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Home+Alone&section=movies
     genre.sync:
       - Family
-    seasons: []
   772:
     label_title: 'Home Alone 2: Lost in New York'
     sort_title: Home Alone 2
@@ -2548,7 +2279,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Home+Alone+2+Lost+in+New+York&section=movies
     genre.sync:
       - Family
-    seasons: []
   9714:
     label_title: Home Alone 3
     sort_title: Home Alone 3
@@ -2557,7 +2287,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Home+Alone+3&section=movies
     genre.sync:
       - Family
-    seasons: []
   12546:
     label_title: Home Alone 4
     sort_title: Home Alone 4
@@ -2566,7 +2295,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Home+Alone+4&section=movies
     genre.sync:
       - Family
-    seasons: []
   134375:
     label_title: 'Home Alone: The Holidy Heist'
     sort_title: Home Alone 5
@@ -2575,7 +2303,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Home+Alone+The+Holiday+Heist&section=movies
     genre.sync:
       - Family
-    seasons: []
   18276:
     label_title: Hoot
     sort_title: Hoot
@@ -2584,7 +2311,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Hoot&section=movies
     genre.sync:
       - Family
-    seasons: []
   76492:
     label_title: Hotel Transylvania
     sort_title: Hotel Transylvania 1
@@ -2593,7 +2319,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Hotel+Transylvania&section=movies
     genre.sync:
       - Animation
-    seasons: []
   159824:
     label_title: Hotel Transylvania 2
     sort_title: Hotel Transylvania 2
@@ -2602,7 +2327,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Hotel+Transylvania+2&section=movies
     genre.sync:
       - Animation
-    seasons: []
   400155:
     label_title: 'Hotel Transylvania 3: Summer Vacation'
     sort_title: Hotel Transylvania 3
@@ -2611,7 +2335,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Hotel+Transylvania+3:+Summer+Vacation&section=movies
     genre.sync:
       - Animation
-    seasons: []
   585083:
     label_title: 'Hotel Transylvania: Transformania'
     sort_title: Hotel Transylvania 4
@@ -2620,7 +2343,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Hotel+Transylvania:+Transformania&section=movies
     genre.sync:
       - Animation
-    seasons: []
   10191:
     label_title: How to Train Your Dragon
     sort_title: How to Train Your Dragon 1
@@ -2630,7 +2352,6 @@ metadata:
     studio: DreamWorks Animation
     genre.sync:
       - Animation
-    seasons: []
   82702:
     label_title: How to Train Your Dragon 2
     sort_title: How to Train Your Dragon 2
@@ -2640,7 +2361,6 @@ metadata:
     studio: DreamWorks Animation
     genre.sync:
       - Animation
-    seasons: []
   166428:
     label_title: How to Train Your Dragon The Hidden World
     sort_title: How to Train Your Dragon 3
@@ -2650,7 +2370,6 @@ metadata:
     studio: DreamWorks Animation
     genre.sync:
       - Animation
-    seasons: []
   1087192:
     label_title: How to Train Your Dragon
     sort_title: How to Train Your Dragon 4
@@ -2660,7 +2379,6 @@ metadata:
     studio: DreamWorks Animation
     genre.sync:
       - Fantasy
-    seasons: []
   4935:
     label_title: Howls Moving Castle
     sort_title: Howls Moving Castle
@@ -2670,7 +2388,6 @@ metadata:
     studio: Studio Ghibli
     genre.sync:
       - Anime
-    seasons: []
   1927:
     label_title: Hulk
     sort_title: Hulk 1
@@ -2680,7 +2397,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   1724:
     label_title: The Incredible Hulk
     sort_title: Hulk 2
@@ -2690,7 +2406,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   70160:
     label_title: The Hunger Games
     sort_title: Hunger Games 1
@@ -2699,7 +2414,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Hunger+Games&section=movies
     genre.sync:
       - Action
-    seasons: []
   101299:
     label_title: The Hunger Games Catching Fire
     sort_title: Hunger Games 2
@@ -2708,7 +2422,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Hunger+Games+Catching+Fire&section=movies
     genre.sync:
       - Action
-    seasons: []
   131631:
     label_title: The Hunger Games Mockingjay Part 1
     sort_title: Hunger Games 3
@@ -2717,7 +2430,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Hunger+Games+Mockingjay+Part+1&section=movies
     genre.sync:
       - Action
-    seasons: []
   131634:
     label_title: The Hunger Games Mockingjay Part 2
     sort_title: Hunger Games 4
@@ -2726,7 +2438,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Hunger+Games+Mockingjay+Part+2&section=movies
     genre.sync:
       - Action
-    seasons: []
   695721:
     label_title: The Hunger Games The Ballad of Songbirds and Snakes
     sort_title: Hunger Games 5
@@ -2735,7 +2446,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Hunger+Games+The+Ballad+of+Songbirds+and+Snakes&section=movies
     genre.sync:
       - Action
-    seasons: []
   858017:
     label_title: I Saw the TV Glow
     sort_title: I Saw the TV Glow
@@ -2745,7 +2455,6 @@ metadata:
     studio: A24
     genre.sync:
       - Horror
-    seasons: []
   504253:
     label_title: I Want to Eat Your Pancreas
     sort_title: I Want to Eat Your Pancreas
@@ -2754,7 +2463,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=I+Want+to+Eat+Your+Pancreas&section=movies
     genre.sync:
       - Anime
-    seasons: []
   1125311:
     label_title: Imaginary
     sort_title: Imaginary
@@ -2763,7 +2471,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Imaginary&section=movies
     genre.sync:
       - Horror
-    seasons: []
   1041613:
     label_title: Immaculate
     sort_title: Immaculate
@@ -2772,7 +2479,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Immaculate&section=movies
     genre.sync:
       - Horror
-    seasons: []
   1214509:
     label_title: In a Violent Nature
     sort_title: In a Violent Nature
@@ -2781,7 +2487,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=In+a+Violent+Nature&section=movies
     genre.sync:
       - Horror
-    seasons: []
   27205:
     label_title: Inception
     sort_title: Inception
@@ -2791,7 +2496,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   9806:
     label_title: The Incredibles
     sort_title: Incredibles 1
@@ -2801,7 +2505,6 @@ metadata:
     studio: Pixar
     genre.sync:
       - Animation
-    seasons: []
   260513:
     label_title: Incredibles 2
     sort_title: Incredibles 2
@@ -2811,7 +2514,6 @@ metadata:
     studio: Pixar
     genre.sync:
       - Animation
-    seasons: []
   11359:
     label_title: The Indian in the Cupboard
     sort_title: Indian in the Cupboard
@@ -2820,7 +2522,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Indian+in+the+Cupboard&section=movies
     genre.sync:
       - Family
-    seasons: []
   16869:
     label_title: Inglourious Basterds
     sort_title: Inglourious Basterds
@@ -2829,7 +2530,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Inglourious+Basterds&section=movies
     genre.sync:
       - Action
-    seasons: []
   150540:
     label_title: Inside Out
     sort_title: Inside Out
@@ -2839,7 +2539,6 @@ metadata:
     studio: Pixar
     genre.sync:
       - Animation
-    seasons: []
   1022789:
     label_title: Inside Out 2
     sort_title: Inside Out 2
@@ -2849,7 +2548,6 @@ metadata:
     studio: Pixar
     genre.sync:
       - Animation
-    seasons: []
   49018:
     label_title: Insidious
     sort_title: Insidious 1
@@ -2858,7 +2556,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Insidious&section=movies
     genre.sync:
       - Horror
-    seasons: []
   91586:
     label_title: Insidious Chapter 2
     sort_title: Insidious 2
@@ -2867,7 +2564,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Insidious+Chapter+2&section=movies
     genre.sync:
       - Horror
-    seasons: []
   280092:
     label_title: Insidious Chapter 3
     sort_title: Insidious 3
@@ -2876,7 +2572,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Insidious+Chapter+3&section=movies
     genre.sync:
       - Horror
-    seasons: []
   406563:
     label_title: Insidious The Last Key
     sort_title: Insidious 4
@@ -2885,7 +2580,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Insidious+The+Last+Key&section=movies
     genre.sync:
       - Horror
-    seasons: []
   614479:
     label_title: Insidious The Red Door
     sort_title: Insidious 5
@@ -2894,7 +2588,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Insidious+The+Red+Door&section=movies
     genre.sync:
       - Horror
-    seasons: []
   157336:
     label_title: Interstellar
     sort_title: Interstellar
@@ -2904,7 +2597,6 @@ metadata:
     genre.sync:
       - Science Fiction
       - Thriller
-    seasons: []
   850165:
     label_title: The Iron Claw
     sort_title: Iron Claw
@@ -2914,7 +2606,6 @@ metadata:
     studio: A24
     genre.sync:
       - Drama
-    seasons: []
   1726:
     label_title: Iron Man
     sort_title: Iron Man 1
@@ -2924,7 +2615,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   10138:
     label_title: Iron Man 2
     sort_title: Iron Man 2
@@ -2934,7 +2624,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   68721:
     label_title: Iron Man 3
     sort_title: Iron Man 3
@@ -2944,7 +2633,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   399174:
     label_title: Isle of Dogs
     sort_title: Isle of Dogs
@@ -2953,7 +2641,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Isle+of+Dogs&section=movies
     genre.sync:
       - Animation
-    seasons: []
   346364:
     label_title: It
     sort_title: It 1
@@ -2962,7 +2649,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=It&section=movies
     genre.sync:
       - Horror
-    seasons: []
   474350:
     label_title: It Chapter Two
     sort_title: It 2
@@ -2971,7 +2657,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=It+Chapter+Two&section=movies
     genre.sync:
       - Horror
-    seasons: []
   1094138:
     label_title: Jackpot!
     sort_title: Jackpot!
@@ -2981,7 +2666,6 @@ metadata:
     genre.sync:
       - Action
       - Comedy
-    seasons: []
   4480:
     label_title: Jean de Florette
     sort_title: Jean de Florette
@@ -2990,7 +2674,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Jean+de+Florette&section=movies
     genre.sync:
       - Drama
-    seasons: []
   19994:
     label_title: Jennifers Body
     sort_title: Jennifers Body
@@ -2999,7 +2682,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Jennifers+Body&section=movies
     genre.sync:
       - Horror
-    seasons: []
   635389:
     label_title: Jiang Ziya
     sort_title: Jiang Ziya 1
@@ -3009,7 +2691,6 @@ metadata:
     genre.sync:
       - Animation
       - Fantasy
-    seasons: []
   75761:
     label_title: John Dies at the End
     sort_title: John Dies at the End
@@ -3019,7 +2700,6 @@ metadata:
     genre.sync:
       - Action
       - Comedy
-    seasons: []
   245891:
     label_title: John Wick
     sort_title: John Wick 1
@@ -3028,7 +2708,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=John+Wick&section=movies
     genre.sync:
       - Action
-    seasons: []
   324552:
     label_title: John Wick Chapter 2
     sort_title: John Wick 2
@@ -3037,7 +2716,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=John+Wick+Chapter+2&section=movies
     genre.sync:
       - Action
-    seasons: []
   458156:
     label_title: John Wick Chapter 3 Parabellum
     sort_title: John Wick 3
@@ -3046,7 +2724,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=John+Wick+Chapter+3+Parabellum&section=movies
     genre.sync:
       - Action
-    seasons: []
   603692:
     label_title: John Wick Chapter 4
     sort_title: John Wick 4
@@ -3055,7 +2732,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=John+Wick+Chapter+4&section=movies
     genre.sync:
       - Action
-    seasons: []
   541671:
     label_title: From the World of John Wick Ballerina
     sort_title: John Wick 5
@@ -3064,7 +2740,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=From+the+World+of+John+Wick+Ballerina&section=movies
     genre.sync:
       - Action
-    seasons: []
   515001:
     label_title: Jojo Rabbit
     sort_title: Jojo Rabbit
@@ -3073,7 +2748,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Jojo+Rabbit&section=movies
     genre.sync:
       - Drama
-    seasons: []
   475557:
     label_title: Joker
     sort_title: Joker 1
@@ -3082,7 +2756,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Joker&section=movies
     genre.sync:
       - Superhero
-    seasons: []
   889737:
     label_title: Joker Folie à Deux
     sort_title: Joker 2
@@ -3091,7 +2764,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Joker+Folie+à+Deux&section=movies
     genre.sync:
       - Superhero
-    seasons: []
   88751:
     label_title: Journey to the Center of the Earth
     sort_title: Journey to the Center of the Earth
@@ -3100,7 +2772,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Journey+to+the+Center+of+the+Earth&section=movies
     genre.sync:
       - Family
-    seasons: []
   8844:
     label_title: Jumanji
     sort_title: Jumanji
@@ -3109,7 +2780,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Jumanji&section=movies
     genre.sync:
       - Family
-    seasons: []
   329:
     label_title: Jurassic Park
     sort_title: Jurassic Park 1
@@ -3119,7 +2789,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   330:
     label_title: The Lost World Jurassic Park
     sort_title: Jurassic Park 2
@@ -3129,7 +2798,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   331:
     label_title: Jurassic Park III
     sort_title: Jurassic Park 3
@@ -3139,7 +2807,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   135397:
     label_title: Jurassic World
     sort_title: Jurassic Park 4
@@ -3149,7 +2816,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   351286:
     label_title: Jurassic World Fallen Kingdom
     sort_title: Jurassic Park 5
@@ -3159,7 +2825,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   630322:
     label_title: Battle at Big Rock
     sort_title: Jurassic Park 6
@@ -3169,7 +2834,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   507086:
     label_title: Jurassic Park Dominion
     sort_title: Jurassic Park 7
@@ -3179,7 +2843,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   1234821:
     label_title: Jurassic World Rebirth
     sort_title: Jurassic Park 8
@@ -3189,7 +2852,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   141052:
     label_title: Justice League
     sort_title: Justice League
@@ -3198,7 +2860,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Justice+League&section=movies
     genre.sync:
       - Superhero
-    seasons: []
   1326106:
     label_title: 'Kaiju No. 8: Mission Recon'
     sort_title: 'Kaiju No. 8: Mission Recon'
@@ -3207,7 +2868,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Kaiju+No.+8:+Mission+Recon&section=movies
     genre.sync:
       - Anime
-    seasons: []
   24:
     label_title: Kill Bill Vol. 1
     sort_title: Kill Bill 1
@@ -3216,7 +2876,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Kill+Bill+Vol.+1&section=movies
     genre.sync:
       - Action
-    seasons: []
   393:
     label_title: Kill Bill Vol. 2
     sort_title: Kill Bill 2
@@ -3225,7 +2884,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Kill+Bill+Vol.+2&section=movies
     genre.sync:
       - Action
-    seasons: []
   414419:
     label_title: Kill Bill The Whole Bloody Affair
     sort_title: Kill Bill The Whole Bloody Affair
@@ -3234,7 +2892,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Kill+Bill+The+Whole+Bloody+Affair&section=movies
     genre.sync:
       - Action
-    seasons: []
   1495:
     label_title: Kingdom of Heaven
     sort_title: Kingdom of Heaven
@@ -3243,7 +2900,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Kingdom+of+Heaven&section=movies
     genre.sync:
       - Action
-    seasons: []
   293167:
     label_title: Kong Skull Island
     sort_title: Kong Skull Island
@@ -3253,7 +2909,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   803796:
     label_title: KPop Demon Hunters
     sort_title: KPop Demon Hunters
@@ -3262,7 +2917,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=KPop+Demon+Hunters&section=movies
     genre.sync:
       - Animation
-    seasons: []
   539972:
     label_title: Kraven the Hunter
     sort_title: Kraven the Hunter
@@ -3272,7 +2926,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   9502:
     label_title: Kung Fu Panda
     sort_title: Kung Fu Panda 1
@@ -3282,7 +2935,6 @@ metadata:
     studio: DreamWorks Animation
     genre.sync:
       - Animation
-    seasons: []
   49444:
     label_title: Kung Fu Panda 2
     sort_title: Kung Fu Panda 2
@@ -3292,7 +2944,6 @@ metadata:
     studio: DreamWorks Animation
     genre.sync:
       - Animation
-    seasons: []
   140300:
     label_title: Kung Fu Panda 3
     sort_title: Kung Fu Panda 3
@@ -3302,7 +2953,6 @@ metadata:
     studio: DreamWorks Animation
     genre.sync:
       - Animation
-    seasons: []
   1011985:
     label_title: Kung Fu Panda 4
     sort_title: Kung Fu Panda 4
@@ -3312,7 +2962,6 @@ metadata:
     studio: DreamWorks Animation
     genre.sync:
       - Animation
-    seasons: []
   10340:
     label_title: Lady and the Tramp
     sort_title: Lady and the Tramp
@@ -3321,7 +2970,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Lady+and+the+Tramp&section=movies
     genre.sync:
       - Animation
-    seasons: []
   938614:
     label_title: Late Night with the Devil
     sort_title: Late Night with the Devil
@@ -3331,7 +2979,6 @@ metadata:
     genre.sync:
       - Horror
       - Thriller
-    seasons: []
   22803:
     label_title: Law Abiding Citizen
     sort_title: Law Abiding Citizen
@@ -3341,7 +2988,6 @@ metadata:
     genre.sync:
       - Action
       - Thriller
-    seasons: []
   526313:
     label_title: A Leaf of Faith
     sort_title: Leaf of Faith
@@ -3350,7 +2996,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=A+Leaf+of+Faith&section=movies
     genre.sync:
       - Documentary
-    seasons: []
   726209:
     label_title: Leave the World Behind
     sort_title: Leave the World Behind
@@ -3359,7 +3004,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Leave+the+World+Behind&section=movies
     genre.sync:
       - Thriller
-    seasons: []
   276907:
     label_title: Legend
     sort_title: Legend
@@ -3368,7 +3012,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Legend&section=movies
     genre.sync:
       - Action
-    seasons: []
   896536:
     label_title: The Legend of Oshi
     sort_title: Legend of Oshi
@@ -3377,7 +3020,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Legend+of+Oshi&section=movies
     genre.sync:
       - Fantasy
-    seasons: []
   160155:
     label_title: Life Is Ruff
     sort_title: Life Is Ruff
@@ -3386,7 +3028,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Life+Is+Ruff&section=movies
     genre.sync:
       - Family
-    seasons: []
   503919:
     label_title: The Lighthouse
     sort_title: Lighthouse
@@ -3397,7 +3038,6 @@ metadata:
     genre.sync:
       - Horror
       - Thriller
-    seasons: []
   718789:
     label_title: Lightyear
     sort_title: Lightyear
@@ -3407,7 +3047,6 @@ metadata:
     studio: Pixar
     genre.sync:
       - Animation
-    seasons: []
   552524:
     label_title: Lilo & Stitch
     sort_title: Lilo & Stitch
@@ -3416,7 +3055,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Lilo+%26+Stitch&section=movies
     genre.sync:
       - Family
-    seasons: []
   1083968:
     label_title: Locked
     sort_title: Locked
@@ -3426,7 +3064,6 @@ metadata:
     genre.sync:
       - Horror
       - Thriller
-    seasons: []
   263115:
     label_title: Logan
     sort_title: Logan
@@ -3436,7 +3073,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   193756:
     label_title: Lone Survivor
     sort_title: Lone Survivor
@@ -3445,7 +3081,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Lone+Survivor&section=movies
     genre.sync:
       - Action
-    seasons: []
   1226578:
     label_title: Longlegs
     sort_title: Longlegs
@@ -3455,7 +3090,6 @@ metadata:
     genre.sync:
       - Horror
       - Thriller
-    seasons: []
   120:
     label_title: The Lord of the Rings The Fellowship of the Ring
     sort_title: Lord of the Rings 1
@@ -3464,7 +3098,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Lord+of+the+Rings+The+Fellowship+of+the+Ring&section=movies
     genre.sync:
       - Fantasy
-    seasons: []
   121:
     label_title: The Lord of the Rings The Two Towers
     sort_title: Lord of the Rings 2
@@ -3473,7 +3106,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Lord+of+the+Rings+The+Two+Towers&section=movies
     genre.sync:
       - Fantasy
-    seasons: []
   122:
     label_title: The Lord of the Rings The Return of the King
     sort_title: Lord of the Rings 3
@@ -3482,7 +3114,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Lord+of+the+Rings+The+Return+of+the+King&section=movies
     genre.sync:
       - Fantasy
-    seasons: []
   839033:
     label_title: The Lord of the Rings The War of the Rohirrim
     sort_title: Lord of the Rings 4
@@ -3491,7 +3122,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Lord+of+the+Rings+The+War+of+the+Rohirrim&section=movies
     genre.sync:
       - Fantasy
-    seasons: []
   43347:
     label_title: Love & Other Drugs
     sort_title: Love & Other Drugs
@@ -3501,7 +3131,6 @@ metadata:
     genre.sync:
       - Comedy
       - Drama
-    seasons: []
   590223:
     label_title: Love and Monsters
     sort_title: Love and Monsters
@@ -3511,7 +3140,6 @@ metadata:
     genre.sync:
       - Action
       - Comedy
-    seasons: []
   1226406:
     label_title: Love Hurts
     sort_title: Love Hurts
@@ -3521,7 +3149,6 @@ metadata:
     genre.sync:
       - Action
       - Comedy
-    seasons: []
   948549:
     label_title: Love Lies Bleeding
     sort_title: Love Lies Bleeding
@@ -3532,7 +3159,6 @@ metadata:
     genre.sync:
       - Action
       - Drama
-    seasons: []
   846867:
     label_title: Mad God
     sort_title: Mad God
@@ -3542,7 +3168,6 @@ metadata:
     genre.sync:
       - Animation
       - Thriller
-    seasons: []
   9659:
     label_title: Mad Max
     sort_title: Mad Max 1
@@ -3552,7 +3177,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   8810:
     label_title: Mad Max 2
     sort_title: Mad Max 2
@@ -3562,7 +3186,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   9355:
     label_title: Mad Max Beyond Thunderdome
     sort_title: Mad Max 3
@@ -3572,7 +3195,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   76341:
     label_title: Mad Max Fury Road
     sort_title: Mad Max 4
@@ -3582,7 +3204,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   786892:
     label_title: Furiosa A Mad Max Saga
     sort_title: Mad Max 5
@@ -3592,7 +3213,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   634492:
     label_title: Madame Web
     sort_title: Madame Web
@@ -3602,7 +3222,6 @@ metadata:
     studio: Marvel Entertainment
     genre.sync:
       - Superhero
-    seasons: []
   784524:
     label_title: Magazine Dreams
     sort_title: Magazine Dreams
@@ -3611,7 +3230,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Magazine+Dreams&section=movies
     genre.sync:
       - Drama
-    seasons: []
   937278:
     label_title: A Man Called Otto
     sort_title: Man Called Otto
@@ -3620,7 +3238,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=A+Man+Called+Otto&section=movies
     genre.sync:
       - Family
-    seasons: []
   49521:
     label_title: Man of Steel
     sort_title: Man of Steel
@@ -3629,7 +3246,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Man+of+Steel&section=movies
     genre.sync:
       - Superhero
-    seasons: []
   4481:
     label_title: Manon of the Spring
     sort_title: Manon of the Spring
@@ -3638,7 +3254,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Manon+of+the+Spring&section=movies
     genre.sync:
       - Drama
-    seasons: []
   76122:
     label_title: Marvel One-Shot The Consultant
     sort_title: Marvel One-Shot 1
@@ -3648,7 +3263,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   76535:
     label_title: Marvel One-Shot A Funny Thing Happened on the Way to Thors Hammer
     sort_title: Marvel One-Shot 2
@@ -3658,7 +3272,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   119569:
     label_title: Marvel One-Shot Item 47
     sort_title: Marvel One-Shot 3
@@ -3668,7 +3281,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   211387:
     label_title: Marvel One-Shot Agent Carter
     sort_title: Marvel One-Shot 4
@@ -3678,7 +3290,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   253980:
     label_title: Marvel One-Shot All Hail the King
     sort_title: Marvel One-Shot 5
@@ -3688,7 +3299,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   609681:
     label_title: The Marvels
     sort_title: Marvels
@@ -3698,7 +3308,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   10830:
     label_title: Matilda
     sort_title: Matilda
@@ -3707,7 +3316,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Matilda&section=movies
     genre.sync:
       - Family
-    seasons: []
   603:
     label_title: The Matrix
     sort_title: Matrix 1
@@ -3717,7 +3325,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   604:
     label_title: The Matrix Reloaded
     sort_title: Matrix 2
@@ -3727,7 +3334,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   605:
     label_title: The Matrix Revolutions
     sort_title: Matrix 3
@@ -3737,7 +3343,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   624860:
     label_title: The Matrix Resurrections
     sort_title: Matrix 4
@@ -3747,7 +3352,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   1023922:
     label_title: MaXXXine
     sort_title: MaXXXine
@@ -3757,7 +3361,6 @@ metadata:
     studio: A24
     genre.sync:
       - Horror
-    seasons: []
   198663:
     label_title: The Maze Runner
     sort_title: Maze Runner 1
@@ -3767,7 +3370,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   294254:
     label_title: Maze Runner The Scorch Trials
     sort_title: Maze Runner 2
@@ -3777,7 +3379,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   336843:
     label_title: Maze Runner The Death Cure
     sort_title: Maze Runner 3
@@ -3787,7 +3388,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   10625:
     label_title: Mean Girls
     sort_title: Mean Girls
@@ -3796,7 +3396,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Mean+Girls&section=movies
     genre.sync:
       - Comedy
-    seasons: []
   536554:
     label_title: M3gan
     sort_title: Megan 1
@@ -3805,7 +3404,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=M3gan&section=movies
     genre.sync:
       - Horror
-    seasons: []
   1071585:
     label_title: M3gan 2.0
     sort_title: Megan 2
@@ -3814,7 +3412,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=M3gan+2.0&section=movies
     genre.sync:
       - Horror
-    seasons: []
   77:
     label_title: Memento
     sort_title: Memento
@@ -3823,7 +3420,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Memento&section=movies
     genre.sync:
       - Thriller
-    seasons: []
   1064486:
     label_title: Memoir of a Snail
     sort_title: Memoir of a Snail
@@ -3832,7 +3428,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Memoir+of+a+Snail&section=movies
     genre.sync:
       - Animation
-    seasons: []
   593643:
     label_title: The Menu
     sort_title: Menu
@@ -3842,7 +3437,6 @@ metadata:
     genre.sync:
       - Horror
       - Thriller
-    seasons: []
   696506:
     label_title: Mickey 17
     sort_title: Mickey 17
@@ -3852,7 +3446,6 @@ metadata:
     genre.sync:
       - Comedy
       - Science Fiction
-    seasons: []
   530385:
     label_title: Midsommar
     sort_title: Midsommar
@@ -3862,7 +3455,6 @@ metadata:
     studio: A24
     genre.sync:
       - Horror
-    seasons: []
   950387:
     label_title: A Minecraft Movie
     sort_title: Minecraft Movie
@@ -3871,7 +3463,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=A+Minecraft+Movie&section=movies
     genre.sync:
       - Fantasy
-    seasons: []
   211672:
     label_title: Minions
     sort_title: Minions 1
@@ -3881,7 +3472,6 @@ metadata:
     studio: Illumination
     genre.sync:
       - Animation
-    seasons: []
   438148:
     label_title: Minions The Rise of Gru
     sort_title: Minions 2
@@ -3891,7 +3481,6 @@ metadata:
     studio: Illumination
     genre.sync:
       - Animation
-    seasons: []
   799583:
     label_title: The Ministry of Ungentlemanly Warfare
     sort_title: Ministry of Ungentlemanly Warfare
@@ -3900,7 +3489,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Ministry+of+Ungentlemanly+Warfare&section=movies
     genre.sync:
       - Action
-    seasons: []
   954:
     label_title: Mission Impossible
     sort_title: Mission Impossible 1
@@ -3909,7 +3497,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Mission+Impossible&section=movies
     genre.sync:
       - Action
-    seasons: []
   955:
     label_title: Mission Impossible II
     sort_title: Mission Impossible 2
@@ -3918,7 +3505,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Mission+Impossible+II&section=movies
     genre.sync:
       - Action
-    seasons: []
   956:
     label_title: Mission Impossible III
     sort_title: Mission Impossible 3
@@ -3927,7 +3513,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Mission+Impossible+III&section=movies
     genre.sync:
       - Action
-    seasons: []
   56292:
     label_title: Mission Impossible - Ghost Protocol
     sort_title: Mission Impossible 4
@@ -3936,7 +3521,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Mission+Impossible+-+Ghost+Protocol&section=movies
     genre.sync:
       - Action
-    seasons: []
   177677:
     label_title: Mission Impossible - Rogue Nation
     sort_title: Mission Impossible 5
@@ -3945,7 +3529,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Mission+Impossible+-+Rogue+Nation&section=movies
     genre.sync:
       - Action
-    seasons: []
   353081:
     label_title: Mission Impossible - Fallout
     sort_title: Mission Impossible 6
@@ -3954,7 +3537,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Mission+Impossible+-+Fallout&section=movies
     genre.sync:
       - Action
-    seasons: []
   575264:
     label_title: Mission Impossible - Dead Reckoning Part One
     sort_title: Mission Impossible 7
@@ -3963,7 +3545,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Mission+Impossible+-+Dead+Reckoning+Part+One&section=movies
     genre.sync:
       - Action
-    seasons: []
   277834:
     label_title: Moana
     sort_title: Moana 1
@@ -3972,7 +3553,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Moana&section=movies
     genre.sync:
       - Animation
-    seasons: []
   1241982:
     label_title: Moana 2
     sort_title: Moana 2
@@ -3981,7 +3561,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Moana+2&section=movies
     genre.sync:
       - Animation
-    seasons: []
   1124620:
     label_title: The Monkey
     sort_title: Monkey
@@ -3990,7 +3569,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Monkey&section=movies
     genre.sync:
       - Horror
-    seasons: []
   585:
     label_title: Monsters Inc.
     sort_title: Monsters Inc. 1
@@ -3999,7 +3577,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Monsters+Inc.&section=movies
     genre.sync:
       - Animation
-    seasons: []
   62211:
     label_title: Monsters University
     sort_title: Monsters Inc. 2
@@ -4008,7 +3585,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Monsters+University&section=movies
     genre.sync:
       - Animation
-    seasons: []
   376867:
     label_title: Moonlight
     sort_title: Moonlight
@@ -4018,7 +3594,6 @@ metadata:
     studio: A24
     genre.sync:
       - Drama
-    seasons: []
   526896:
     label_title: Morbius
     sort_title: Morbius
@@ -4028,7 +3603,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   31011:
     label_title: Mr. Nobody
     sort_title: Mr. Nobody
@@ -4038,7 +3612,6 @@ metadata:
     genre.sync:
       - Drama
       - Science Fiction
-    seasons: []
   762509:
     label_title: Mufasa The Lion King
     sort_title: Mufasa The Lion King
@@ -4047,7 +3620,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Mufasa+The+Lion+King&section=movies
     genre.sync:
       - Family
-    seasons: []
   505262:
     label_title: My Hero Academia Two Heroes
     sort_title: My Hero Academia 1
@@ -4056,7 +3628,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=My+Hero+Academia+Two+Heroes&section=movies
     genre.sync:
       - Anime
-    seasons: []
   1054116:
     label_title: My Hero Academia All Might Rising
     sort_title: My Hero Academia 2
@@ -4065,7 +3636,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=My+Hero+Academia+All+Might+Rising&section=movies
     genre.sync:
       - Anime
-    seasons: []
   592350:
     label_title: My Hero Academia Heroes Rising
     sort_title: My Hero Academia 3
@@ -4074,7 +3644,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=My+Hero+Academia+Heroes+Rising&section=movies
     genre.sync:
       - Anime
-    seasons: []
   768744:
     label_title: My Hero Academia World Heroes Mission
     sort_title: My Hero Academia 4
@@ -4083,7 +3652,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=My+Hero+Academia+World+Heroes+Mission&section=movies
     genre.sync:
       - Anime
-    seasons: []
   1159311:
     label_title: My Hero Academia Youre Next
     sort_title: My Hero Academia Youre Next
@@ -4092,7 +3660,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=My+Hero+Academia+Youre+Next&section=movies
     genre.sync:
       - Anime
-    seasons: []
   8392:
     label_title: My Neighbor Totoro
     sort_title: My Neighbor Totoro
@@ -4102,7 +3669,6 @@ metadata:
     studio: Studio Ghibli
     genre.sync:
       - Anime
-    seasons: []
   753342:
     label_title: Napoleon
     sort_title: Napoleon
@@ -4111,7 +3677,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Napoleon&section=movies
     genre.sync:
       - Drama
-    seasons: []
   615453:
     label_title: Ne Zha
     sort_title: Ne Zha 1
@@ -4121,7 +3686,6 @@ metadata:
     genre.sync:
       - Animation
       - Fantasy
-    seasons: []
   980477:
     label_title: Ne Zha
     sort_title: Ne Zha 2
@@ -4131,7 +3695,6 @@ metadata:
     genre.sync:
       - Animation
       - Fantasy
-    seasons: []
   18491:
     label_title: 'Neon Genesis Evangelion: The End of Evangelion'
     sort_title: 'Neon Genesis Evangelion: The End of Evangelion'
@@ -4140,7 +3703,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Neon+Genesis+Evangelion:+The+End+of+Evangelion&section=movies
     genre.sync:
       - Anime
-    seasons: []
   340102:
     label_title: The New Mutants
     sort_title: New Mutants
@@ -4150,7 +3712,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   1738:
     label_title: Next
     sort_title: Next
@@ -4160,7 +3721,6 @@ metadata:
     genre.sync:
       - Action
       - Thriller
-    seasons: []
   1072342:
     label_title: Night Swim
     sort_title: Night Swim
@@ -4169,7 +3729,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Night+Swim&section=movies
     genre.sync:
       - Horror
-    seasons: []
   728949:
     label_title: Nightbitch
     sort_title: Nightbitch
@@ -4178,7 +3737,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Nightbitch&section=movies
     genre.sync:
       - Comedy
-    seasons: []
   3638:
     label_title: No Reservations
     sort_title: No Reservations
@@ -4188,7 +3746,6 @@ metadata:
     genre.sync:
       - Comedy
       - Drama
-    seasons: []
   615457:
     label_title: Nobody
     sort_title: Nobody 1
@@ -4198,7 +3755,6 @@ metadata:
     genre.sync:
       - Action
       - Comedy
-    seasons: []
   1007734:
     label_title: Nobody 2
     sort_title: Nobody 2
@@ -4208,7 +3764,6 @@ metadata:
     genre.sync:
       - Action
       - Comedy
-    seasons: []
   762504:
     label_title: Nope
     sort_title: Nope
@@ -4218,7 +3773,6 @@ metadata:
     genre.sync:
       - Horror
       - Thriller
-    seasons: []
   426063:
     label_title: Nosferatu
     sort_title: Nosferatu
@@ -4227,7 +3781,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Nosferatu&section=movies
     genre.sync:
       - Horror
-    seasons: []
   1195506:
     label_title: Novocaine
     sort_title: Novocaine
@@ -4237,7 +3790,6 @@ metadata:
     genre.sync:
       - Action
       - Thriller
-    seasons: []
   75656:
     label_title: Now You See Me
     sort_title: Now You See Me 1
@@ -4247,7 +3799,6 @@ metadata:
     genre.sync:
       - Action
       - Thriller
-    seasons: []
   291805:
     label_title: Now You See Me 2
     sort_title: Now You See Me 2
@@ -4257,7 +3808,6 @@ metadata:
     genre.sync:
       - Action
       - Thriller
-    seasons: []
   439079:
     label_title: The Nun
     sort_title: Nun 1
@@ -4266,7 +3816,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Nun&section=movies
     genre.sync:
       - Horror
-    seasons: []
   968051:
     label_title: The Nun II
     sort_title: Nun 2
@@ -4275,7 +3824,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Nun+II&section=movies
     genre.sync:
       - Horror
-    seasons: []
   1280444:
     label_title: The Occupant
     sort_title: Occupant
@@ -4285,7 +3833,6 @@ metadata:
     genre.sync:
       - Science Fiction
       - Thriller
-    seasons: []
   1216191:
     label_title: Oddity
     sort_title: Oddity
@@ -4294,7 +3841,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Oddity&section=movies
     genre.sync:
       - Horror
-    seasons: []
   872585:
     label_title: Oppenheimer
     sort_title: Oppenheimer
@@ -4303,7 +3849,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Oppenheimer&section=movies
     genre.sync:
       - Drama
-    seasons: []
   1082195:
     label_title: The Order
     sort_title: Order
@@ -4313,7 +3858,6 @@ metadata:
     genre.sync:
       - Action
       - Thriller
-    seasons: []
   68726:
     label_title: Pacific Rim
     sort_title: Pacific Rim 1
@@ -4323,7 +3867,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   268896:
     label_title: Pacific Rim Uprising
     sort_title: Pacific Rim 2
@@ -4333,7 +3876,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   23827:
     label_title: Paranormal Activity
     sort_title: Paranormal Activity 1
@@ -4342,7 +3884,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Paranormal+Activity&section=movies
     genre.sync:
       - Horror
-    seasons: []
   41436:
     label_title: Paranormal Activity 2
     sort_title: Paranormal Activity 2
@@ -4351,7 +3892,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Paranormal+Activity+2&section=movies
     genre.sync:
       - Horror
-    seasons: []
   72571:
     label_title: Paranormal Activity 3
     sort_title: Paranormal Activity 3
@@ -4360,7 +3900,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Paranormal+Activity+3&section=movies
     genre.sync:
       - Horror
-    seasons: []
   82990:
     label_title: Paranormal Activity 4
     sort_title: Paranormal Activity 4
@@ -4369,7 +3908,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Paranormal+Activity+4&section=movies
     genre.sync:
       - Horror
-    seasons: []
   227348:
     label_title: Paranormal Activity The Marked Ones
     sort_title: Paranormal Activity 5
@@ -4378,7 +3916,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Paranormal+Activity+The+Marked+Ones&section=movies
     genre.sync:
       - Horror
-    seasons: []
   146301:
     label_title: Paranormal Activity The Ghost Dimension
     sort_title: Paranormal Activity 6
@@ -4387,7 +3924,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Paranormal+Activity+The+Ghost+Dimension&section=movies
     genre.sync:
       - Horror
-    seasons: []
   609972:
     label_title: Paranormal Activity Next of Kin
     sort_title: Paranormal Activity 7
@@ -4396,7 +3932,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Paranormal+Activity+Next+of+Kin&section=movies
     genre.sync:
       - Horror
-    seasons: []
   59429:
     label_title: Paranormal Activity Tokyo Night
     sort_title: Paranormal Activity Tokyo Night
@@ -4405,7 +3940,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Paranormal+Activity+Tokyo+Night&section=movies
     genre.sync:
       - Horror
-    seasons: []
   496243:
     label_title: Parasite
     sort_title: Parasite
@@ -4414,7 +3948,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Parasite&section=movies
     genre.sync:
       - Thriller
-    seasons: []
   9820:
     label_title: The Parent Trap
     sort_title: Parent Trap
@@ -4423,7 +3956,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Parent+Trap&section=movies
     genre.sync:
       - Family
-    seasons: []
   850920:
     label_title: The Parenting
     sort_title: Parenting
@@ -4433,7 +3965,6 @@ metadata:
     genre.sync:
       - Comedy
       - Horror
-    seasons: []
   949423:
     label_title: Pearl
     sort_title: Pearl
@@ -4443,7 +3974,6 @@ metadata:
     studio: A24
     genre.sync:
       - Horror
-    seasons: []
   32657:
     label_title: Percy Jackson and the Olympians The Lightning Thief
     sort_title: Percy Jackson 1
@@ -4452,7 +3982,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Percy+Jackson+and+the+Olympians+The+Lightning+Thief&section=movies
     genre.sync:
       - Fantasy
-    seasons: []
   76285:
     label_title: Percy Jackson Sea of Monsters
     sort_title: Percy Jackson 2
@@ -4461,7 +3990,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Percy+Jackson+Sea+of+Monsters&section=movies
     genre.sync:
       - Fantasy
-    seasons: []
   361822:
     label_title: Pinched
     sort_title: Pinched
@@ -4471,7 +3999,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Pinched&section=movies
     genre.sync:
       - Thriller
-    seasons: []
   22:
     label_title: Pirates of the Caribbean The Curse of the Black Pearl
     sort_title: Pirates of the Caribbean 1
@@ -4480,7 +4007,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Pirates+of+the+Caribbean+The+Curse+of+the+Black+Pearl&section=movies
     genre.sync:
       - Fantasy
-    seasons: []
   58:
     label_title: Pirates of the Caribbean Dead Mans Chest
     sort_title: Pirates of the Caribbean 2
@@ -4489,7 +4015,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Pirates+of+the+Caribbean+Dead+Mans+Chest&section=movies
     genre.sync:
       - Fantasy
-    seasons: []
   285:
     label_title: Pirates of the Caribbean At Worlds End
     sort_title: Pirates of the Caribbean 3
@@ -4498,7 +4023,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Pirates+of+the+Caribbean+At+Worlds+End&section=movies
     genre.sync:
       - Fantasy
-    seasons: []
   1865:
     label_title: Pirates of the Caribbean On Stranger Tides
     sort_title: Pirates of the Caribbean 4
@@ -4507,7 +4031,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Pirates+of+the+Caribbean+On+Stranger+Tides&section=movies
     genre.sync:
       - Fantasy
-    seasons: []
   166426:
     label_title: Pirates of the Caribbean Dead Men Tell No Tales
     sort_title: Pirates of the Caribbean 5
@@ -4516,7 +4039,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Pirates+of+the+Caribbean+Dead+Men+Tell+No+Tales&section=movies
     genre.sync:
       - Fantasy
-    seasons: []
   257344:
     label_title: Pixels
     sort_title: Pixels
@@ -4526,7 +4048,6 @@ metadata:
     genre.sync:
       - Action
       - Comedy
-    seasons: []
   61791:
     label_title: Rise of the Planet of the Apes
     sort_title: Planet of the Apes 1
@@ -4536,7 +4057,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   119450:
     label_title: Dawn of the Planet of the Apes
     sort_title: Planet of the Apes 2
@@ -4546,7 +4066,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   281338:
     label_title: War for the Planet of the Apes
     sort_title: Planet of the Apes 3
@@ -4556,7 +4075,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   653346:
     label_title: Kingdom of the Planet of the Apes
     sort_title: Planet of the Apes 4
@@ -4566,7 +4084,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   619264:
     label_title: The Platform
     sort_title: Platform 1
@@ -4575,7 +4092,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Platform&section=movies
     genre.sync:
       - Thriller
-    seasons: []
   1125510:
     label_title: The Platform 2
     sort_title: Platform 2
@@ -4584,7 +4100,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Platform+2&section=movies
     genre.sync:
       - Thriller
-    seasons: []
   12429:
     label_title: Ponyo
     sort_title: Ponyo
@@ -4594,7 +4109,6 @@ metadata:
     studio: Studio Ghibli
     genre.sync:
       - Anime
-    seasons: []
   792307:
     label_title: Poor Things
     sort_title: Poor Things
@@ -4604,7 +4118,6 @@ metadata:
     genre.sync:
       - Comedy
       - Fantasy
-    seasons: []
   106:
     label_title: Predator
     sort_title: Predator 1
@@ -4614,7 +4127,6 @@ metadata:
     genre.sync:
       - Science Fiction
       - Thriller
-    seasons: []
   169:
     label_title: Predator 2
     sort_title: Predator 2
@@ -4624,7 +4136,6 @@ metadata:
     genre.sync:
       - Science Fiction
       - Thriller
-    seasons: []
   34851:
     label_title: Predators
     sort_title: Predator 3
@@ -4634,7 +4145,6 @@ metadata:
     genre.sync:
       - Science Fiction
       - Thriller
-    seasons: []
   346910:
     label_title: The Predator
     sort_title: Predator 4
@@ -4644,7 +4154,6 @@ metadata:
     genre.sync:
       - Science Fiction
       - Thriller
-    seasons: []
   766507:
     label_title: Prey
     sort_title: Predator 5
@@ -4654,7 +4163,6 @@ metadata:
     genre.sync:
       - Science Fiction
       - Thriller
-    seasons: []
   1376434:
     label_title: Predator Killer of Killers
     sort_title: Predator 6
@@ -4663,7 +4171,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Predator+Killer+of+Killers&section=movies
     genre.sync:
       - Animation
-    seasons: []
   1140535:
     label_title: Presence
     sort_title: Presence
@@ -4672,7 +4179,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Presence&section=movies
     genre.sync:
       - Horror
-    seasons: []
   1124:
     label_title: The Prestige
     sort_title: Prestige
@@ -4682,7 +4188,6 @@ metadata:
     genre.sync:
       - Science Fiction
       - Thriller
-    seasons: []
   128:
     label_title: Princess Mononoke
     sort_title: Princess Mononoke
@@ -4692,7 +4197,6 @@ metadata:
     studio: Studio Ghibli
     genre.sync:
       - Anime
-    seasons: []
   680:
     label_title: Pulp Fiction
     sort_title: Pulp Fiction
@@ -4701,7 +4205,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Pulp+Fiction&section=movies
     genre.sync:
       - Thriller
-    seasons: []
   417859:
     label_title: Puss in Boots
     sort_title: Puss in Boots 1
@@ -4711,7 +4214,6 @@ metadata:
     studio: DreamWorks Animation
     genre.sync:
       - Animation
-    seasons: []
   83201:
     label_title: Puss in Boots The Three Diablos
     sort_title: Puss in Boots 2
@@ -4721,7 +4223,6 @@ metadata:
     studio: DreamWorks Animation
     genre.sync:
       - Animation
-    seasons: []
   315162:
     label_title: Puss in Boots The Last Wish
     sort_title: Puss in Boots 3
@@ -4731,7 +4232,6 @@ metadata:
     studio: DreamWorks Animation
     genre.sync:
       - Animation
-    seasons: []
   447332:
     label_title: A Quiet Place
     sort_title: Quite Place 1
@@ -4740,7 +4240,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=A+Quiet+Place&section=movies
     genre.sync:
       - Horror
-    seasons: []
   520763:
     label_title: A Quiet Place Part II
     sort_title: Quite Place 2
@@ -4749,7 +4248,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=A+Quiet+Place+Part+II&section=movies
     genre.sync:
       - Horror
-    seasons: []
   762441:
     label_title: A Quiet Place Day One
     sort_title: Quite Place 3
@@ -4758,7 +4256,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=A+Quiet+Place+Day+One&section=movies
     genre.sync:
       - Horror
-    seasons: []
   2062:
     label_title: Ratatouille
     sort_title: Ratatouille
@@ -4768,7 +4265,6 @@ metadata:
     studio: Pixar
     genre.sync:
       - Animation
-    seasons: []
   1013850:
     label_title: A Real Pain
     sort_title: Real Pain
@@ -4778,7 +4274,6 @@ metadata:
     genre.sync:
       - Comedy
       - Drama
-    seasons: []
   848326:
     label_title: Rebel Moon Part One A Child of Fire
     sort_title: Rebel Moon 1
@@ -4788,7 +4283,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   934632:
     label_title: Rebel Moon Part Two The Scargiver
     sort_title: Rebel Moon 2
@@ -4798,7 +4292,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   641:
     label_title: Requiem for a Dream
     sort_title: Requiem for a Dream
@@ -4808,7 +4301,6 @@ metadata:
     genre.sync:
       - Drama
       - Thriller
-    seasons: []
   11011:
     label_title: Ri¢hie Ri¢h
     sort_title: Richie Rich
@@ -4817,7 +4309,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Ri¢hie+Ri¢h&section=movies
     genre.sync:
       - Family
-    seasons: []
   1022690:
     label_title: Ricky Stanicky
     sort_title: Ricky Stanicky
@@ -4826,7 +4317,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Ricky+Stanicky&section=movies
     genre.sync:
       - Comedy
-    seasons: []
   1278950:
     label_title: The Ritual
     sort_title: Ritual
@@ -4835,7 +4325,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Ritual&section=movies
     genre.sync:
       - Horror
-    seasons: []
   20766:
     label_title: The Road
     sort_title: Road
@@ -4845,7 +4334,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   15373:
     label_title: Role Models
     sort_title: Role Models
@@ -4854,7 +4342,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Role+Models&section=movies
     genre.sync:
       - Comedy
-    seasons: []
   848187:
     label_title: Role Play
     sort_title: Role Play
@@ -4864,7 +4351,6 @@ metadata:
     genre.sync:
       - Action
       - Comedy
-    seasons: []
   14444:
     label_title: The Rugrats Movie
     sort_title: Rugrats Movie
@@ -4873,7 +4359,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Rugrats+Movie&section=movies
     genre.sync:
       - Animation
-    seasons: []
   930564:
     label_title: Saltburn
     sort_title: Saltburn
@@ -4883,7 +4368,6 @@ metadata:
     genre.sync:
       - Comedy
       - Thriller
-    seasons: []
   11528:
     label_title: The Sandlot
     sort_title: Sandlot
@@ -4892,7 +4376,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Sandlot&section=movies
     genre.sync:
       - Family
-    seasons: []
   9637:
     label_title: Scooby-Doo
     sort_title: Scooby-Doo 1
@@ -4901,7 +4384,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Scooby-Doo&section=movies
     genre.sync:
       - Family
-    seasons: []
   11024:
     label_title: Scooby-Doo 2 Monsters Unleashed
     sort_title: Scooby-Doo 2
@@ -4910,7 +4392,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Scooby-Doo+2+Monsters+Unleashed&section=movies
     genre.sync:
       - Family
-    seasons: []
   22538:
     label_title: Scott Pilgrim vs. the World
     sort_title: Scott Pilgrim vs. the World
@@ -4920,7 +4401,6 @@ metadata:
     genre.sync:
       - Action
       - Comedy
-    seasons: []
   807:
     label_title: Se7en
     sort_title: Se7en
@@ -4930,7 +4410,6 @@ metadata:
     genre.sync:
       - Action
       - Thriller
-    seasons: []
   51739:
     label_title: The Secret World of Arrietty
     sort_title: Secret World of Arrietty
@@ -4940,7 +4419,6 @@ metadata:
     studio: Studio Ghibli
     genre.sync:
       - Anime
-    seasons: []
   1211472:
     label_title: September 5
     sort_title: September 5
@@ -4950,7 +4428,6 @@ metadata:
     genre.sync:
       - Drama
       - Thriller
-    seasons: []
   566525:
     label_title: Shang-Chi and the Legend of the Ten Rings
     sort_title: Shang-Chi and the Legend of the Ten Rings
@@ -4960,7 +4437,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   278:
     label_title: The Shawshank Redemption
     sort_title: Shawshank Redemption
@@ -4969,7 +4445,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Shawshank+Redemption&section=movies
     genre.sync:
       - Drama
-    seasons: []
   287947:
     label_title: Shazam!
     sort_title: Shazam 1
@@ -4978,7 +4453,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Shazam!&section=movies
     genre.sync:
       - Superhero
-    seasons: []
   594767:
     label_title: Shazam! Fury of the Gods
     sort_title: Shazam 2
@@ -4987,7 +4461,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Shazam!+Fury+of+the+Gods&section=movies
     genre.sync:
       - Superhero
-    seasons: []
   34016:
     label_title: "She's Out of My League"
     sort_title: "She's Out of My League"
@@ -4996,7 +4469,6 @@ metadata:
     tpdb_search: "https://theposterdb.com/search?term=She's+Out+of+My+League&section=movies"
     genre.sync:
       - Comedy
-    seasons: []
   694:
     label_title: The Shining
     sort_title: Shining
@@ -5005,7 +4477,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Shining&section=movies
     genre.sync:
       - Horror
-    seasons: []
   25132:
     label_title: Shorts
     sort_title: Shorts
@@ -5014,7 +4485,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Shorts&section=movies
     genre.sync:
       - Family
-    seasons: []
   808:
     label_title: Shrek
     sort_title: Shrek 1
@@ -5024,7 +4494,6 @@ metadata:
     studio: DreamWorks Animation
     genre.sync:
       - Animation
-    seasons: []
   809:
     label_title: Shrek 2
     sort_title: Shrek 2
@@ -5034,7 +4503,6 @@ metadata:
     studio: DreamWorks Animation
     genre.sync:
       - Animation
-    seasons: []
   810:
     label_title: Shrek the Third
     sort_title: Shrek 3
@@ -5044,7 +4512,6 @@ metadata:
     studio: DreamWorks Animation
     genre.sync:
       - Animation
-    seasons: []
   10192:
     label_title: Shrek Forever After
     sort_title: Shrek 4
@@ -5054,7 +4521,6 @@ metadata:
     studio: DreamWorks Animation
     genre.sync:
       - Animation
-    seasons: []
   11324:
     label_title: Shutter Island
     sort_title: Shutter Island
@@ -5063,7 +4529,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Shutter+Island&section=movies
     genre.sync:
       - Thriller
-    seasons: []
   273481:
     label_title: Sicario
     sort_title: Sicario 1
@@ -5072,7 +4537,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Sicario&section=movies
     genre.sync:
       - Action
-    seasons: []
   400535:
     label_title: Sicario Day of the Soldado
     sort_title: Sicario 2
@@ -5081,7 +4545,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Sicario+Day+of+the+Soldado&section=movies
     genre.sync:
       - Action
-    seasons: []
   274:
     label_title: The Silence of the Lambs
     sort_title: Silence of the Lambs
@@ -5090,7 +4553,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Silence+of+the+Lambs&section=movies
     genre.sync:
       - Horror
-    seasons: []
   484247:
     label_title: A Simple Favor
     sort_title: Simple Favor 1
@@ -5100,7 +4562,6 @@ metadata:
     genre.sync:
       - Comedy
       - Thriller
-    seasons: []
   974573:
     label_title: Another Simple Favor
     sort_title: Simple Favor 2
@@ -5110,7 +4571,6 @@ metadata:
     genre.sync:
       - Comedy
       - Thriller
-    seasons: []
   10223:
     label_title: A Simple Plan
     sort_title: Simple Plan
@@ -5119,7 +4579,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=A+Simple+Plan&section=movies
     genre.sync:
       - Thriller
-    seasons: []
   82507:
     label_title: Sinister
     sort_title: Sinister 1
@@ -5128,7 +4587,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Sinister&section=movies
     genre.sync:
       - Horror
-    seasons: []
   283445:
     label_title: Sinister 2
     sort_title: Sinister 2
@@ -5137,7 +4595,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Sinister+2&section=movies
     genre.sync:
       - Horror
-    seasons: []
   1233413:
     label_title: Sinners
     sort_title: Sinners
@@ -5146,7 +4603,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Sinners&section=movies
     genre.sync:
       - Horror
-    seasons: []
   840326:
     label_title: Sisu
     sort_title: Sisu
@@ -5155,7 +4611,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Sisu&section=movies
     genre.sync:
       - Action
-    seasons: []
   1102493:
     label_title: Small Things Like These
     sort_title: Small Things Like These
@@ -5164,7 +4619,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Small+Things+Like+These&section=movies
     genre.sync:
       - Drama
-    seasons: []
   882598:
     label_title: Smile
     sort_title: Smile 1
@@ -5173,7 +4627,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Smile&section=movies
     genre.sync:
       - Horror
-    seasons: []
   1100782:
     label_title: Smile 2
     sort_title: Smile 2
@@ -5182,7 +4635,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Smile+2&section=movies
     genre.sync:
       - Horror
-    seasons: []
   447273:
     label_title: Snow White
     sort_title: Snow White
@@ -5191,7 +4643,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Snow+White&section=movies
     genre.sync:
       - Family
-    seasons: []
   454626:
     label_title: Sonic the Hedgehog
     sort_title: Sonic the Hedgehog 1
@@ -5200,7 +4651,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Sonic+the+Hedgehog&section=movies
     genre.sync:
       - Animation
-    seasons: []
   675353:
     label_title: Sonic the Hedgehog 2
     sort_title: Sonic the Hedgehog 2
@@ -5209,7 +4659,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Sonic+the+Hedgehog+2&section=movies
     genre.sync:
       - Animation
-    seasons: []
   939243:
     label_title: Sonic the Hedgehog 3
     sort_title: Sonic the Hedgehog 3
@@ -5218,7 +4667,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Sonic+the+Hedgehog+3&section=movies
     genre.sync:
       - Animation
-    seasons: []
   1205515:
     label_title: Sorry, Baby
     sort_title: Sorry, Baby
@@ -5227,7 +4675,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Sorry,+Baby&section=movies
     genre.sync:
       - Drama
-    seasons: []
   45612:
     label_title: Source Code
     sort_title: Source Code
@@ -5237,7 +4684,6 @@ metadata:
     genre.sync:
       - Science Fiction
       - Thriller
-    seasons: []
   1130022:
     label_title: Sovereign
     sort_title: Sovereign
@@ -5247,7 +4693,6 @@ metadata:
     genre.sync:
       - Action
       - Thriller
-    seasons: []
   636706:
     label_title: Spaceman
     sort_title: Spaceman
@@ -5257,7 +4702,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   557:
     label_title: Spider-Man
     sort_title: Spider-Man 1
@@ -5267,7 +4711,6 @@ metadata:
     studio: Marvel Entertainment
     genre.sync:
       - Superhero
-    seasons: []
   558:
     label_title: Spider-Man 2
     sort_title: Spider-Man 2
@@ -5277,7 +4720,6 @@ metadata:
     studio: Marvel Entertainment
     genre.sync:
       - Superhero
-    seasons: []
   559:
     label_title: Spider-Man 3
     sort_title: Spider-Man 3
@@ -5287,7 +4729,6 @@ metadata:
     studio: Marvel Entertainment
     genre.sync:
       - Superhero
-    seasons: []
   1930:
     label_title: The Amazing Spider-Man
     sort_title: Spider-Man Amazing 1
@@ -5297,7 +4738,6 @@ metadata:
     studio: Marvel Entertainment
     genre.sync:
       - Superhero
-    seasons: []
   102382:
     label_title: The Amazing Spider-Man 2
     sort_title: Spider-Man Amazing 2
@@ -5307,7 +4747,6 @@ metadata:
     studio: Marvel Entertainment
     genre.sync:
       - Superhero
-    seasons: []
   315635:
     label_title: Spider-Man Homecoming
     sort_title: Spider-Man MCU 1
@@ -5317,7 +4756,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   429617:
     label_title: Spider-Man Far From Home
     sort_title: Spider-Man MCU 2
@@ -5327,7 +4765,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   634649:
     label_title: Spider-Man No Way Home
     sort_title: Spider-Man MCU 3
@@ -5337,7 +4774,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   324857:
     label_title: Spider-Man Into the Spider-Verse
     sort_title: Spider-Man Spider-Verse 1
@@ -5347,7 +4783,6 @@ metadata:
     studio: Marvel Entertainment
     genre.sync:
       - Superhero
-    seasons: []
   569094:
     label_title: Spider-Man Across the Spider-Verse
     sort_title: Spider-Man Spider-Verse 2
@@ -5357,7 +4792,6 @@ metadata:
     studio: Marvel Entertainment
     genre.sync:
       - Superhero
-    seasons: []
   129:
     label_title: Spirited Away
     sort_title: Spirited Away
@@ -5367,7 +4801,6 @@ metadata:
     studio: Studio Ghibli
     genre.sync:
       - Anime
-    seasons: []
   381288:
     label_title: Split
     sort_title: Split
@@ -5376,7 +4809,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Split&section=movies
     genre.sync:
       - Action
-    seasons: []
   332562:
     label_title: A Star Is Born
     sort_title: Star Is Born
@@ -5385,7 +4817,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=A+Star+Is+Born&section=movies
     genre.sync:
       - Drama
-    seasons: []
   11:
     label_title: A New Hope
     sort_title: Star Wars 01
@@ -5395,7 +4826,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   1891:
     label_title: The Empire Strikes Back
     sort_title: Star Wars 02
@@ -5405,7 +4835,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   1892:
     label_title: Return of the Jedi
     sort_title: Star Wars 03
@@ -5415,7 +4844,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   1893:
     label_title: Star Wars Episode I The Phantom Menace
     sort_title: Star Wars 04
@@ -5425,7 +4853,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   1894:
     label_title: Star Wars Episode II Attack of the Clones
     sort_title: Star Wars 05
@@ -5435,7 +4862,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   1895:
     label_title: Star Wars Episode III Revenge of the Sith
     sort_title: Star Wars 06
@@ -5445,7 +4871,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   12180:
     label_title: Star Wars The Clone Wars
     sort_title: Star Wars 07
@@ -5455,7 +4880,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   140607:
     label_title: Star Wars The Force Awakens
     sort_title: Star Wars 08
@@ -5465,7 +4889,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   330459:
     label_title: Rogue One A Star Wars Story
     sort_title: Star Wars 09
@@ -5475,7 +4898,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   181808:
     label_title: Star Wars The Last Jedi
     sort_title: Star Wars 10
@@ -5485,7 +4907,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   348350:
     label_title: Solo A Star Wars Story
     sort_title: Star Wars 11
@@ -5495,7 +4916,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   181812:
     label_title: Star Wars The Rise of Skywalker
     sort_title: Star Wars 12
@@ -5505,7 +4925,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   2056:
     label_title: The Station Agent
     sort_title: Station Agent
@@ -5515,7 +4934,6 @@ metadata:
     genre.sync:
       - Comedy
       - Drama
-    seasons: []
   10860:
     label_title: Steel Magnolias
     sort_title: Steel Magnolias
@@ -5524,7 +4942,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Steel+Magnolias&section=movies
     genre.sync:
       - Drama
-    seasons: []
   12133:
     label_title: Step Brothers
     sort_title: Step Brothers
@@ -5533,7 +4950,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Step+Brothers&section=movies
     genre.sync:
       - Comedy
-    seasons: []
   806731:
     label_title: Stream
     sort_title: Stream
@@ -5542,7 +4958,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Stream&section=movies
     genre.sync:
       - Horror
-    seasons: []
   395993:
     label_title: Stronger
     sort_title: Stronger
@@ -5551,7 +4966,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Stronger&section=movies
     genre.sync:
       - Drama
-    seasons: []
   1064028:
     label_title: Subservience
     sort_title: Subservience
@@ -5560,7 +4974,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Subservience&section=movies
     genre.sync:
       - Horror
-    seasons: []
   933260:
     label_title: The Substance
     sort_title: Substance
@@ -5569,7 +4982,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Substance&section=movies
     genre.sync:
       - Horror
-    seasons: []
   297761:
     label_title: Suicide Squad
     sort_title: Suicide Squad 1
@@ -5578,7 +4990,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Suicide+Squad&section=movies
     genre.sync:
       - Superhero
-    seasons: []
   436969:
     label_title: The Suicide Squad
     sort_title: Suicide Squad 2
@@ -5587,7 +4998,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Suicide+Squad&section=movies
     genre.sync:
       - Superhero
-    seasons: []
   1272:
     label_title: Sunshine
     sort_title: Sunshine
@@ -5597,7 +5007,6 @@ metadata:
     genre.sync:
       - Science Fiction
       - Thriller
-    seasons: []
   502356:
     label_title: The Super Mario Bros. Movie
     sort_title: Super Mario Bros. Movie
@@ -5607,7 +5016,6 @@ metadata:
     studio: Illumination
     genre.sync:
       - Animation
-    seasons: []
   39939:
     label_title: Super Troopers
     sort_title: Super Troopers
@@ -5616,7 +5024,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Super+Troopers&section=movies
     genre.sync:
       - Comedy
-    seasons: []
   50022:
     label_title: Super Troopers 2
     sort_title: Super Troopers 2
@@ -5625,7 +5032,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Super+Troopers+2&section=movies
     genre.sync:
       - Comedy
-    seasons: []
   1061474:
     label_title: Superman
     sort_title: Superman
@@ -5634,7 +5040,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Superman&section=movies
     genre.sync:
       - Superhero
-    seasons: []
   1008042:
     label_title: Talk to Me
     sort_title: Talk to Me
@@ -5644,7 +5049,6 @@ metadata:
     studio: A24
     genre.sync:
       - Horror
-    seasons: []
   877703:
     label_title: Teen Wolf The Movie
     sort_title: Teen Wolf The Movie
@@ -5653,7 +5057,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Teen+Wolf+The+Movie&section=movies
     genre.sync:
       - Action
-    seasons: []
   577922:
     label_title: Tenet
     sort_title: Tenet
@@ -5663,7 +5066,6 @@ metadata:
     genre.sync:
       - Science Fiction
       - Thriller
-    seasons: []
   420634:
     label_title: Terrifier
     sort_title: Terrifier
@@ -5672,7 +5074,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Terrifier&section=movies
     genre.sync:
       - Horror
-    seasons: []
   663712:
     label_title: Terrifier 2
     sort_title: Terrifier 2
@@ -5681,7 +5082,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Terrifier+2&section=movies
     genre.sync:
       - Horror
-    seasons: []
   1034541:
     label_title: Terrifier 3
     sort_title: Terrifier 3
@@ -5690,7 +5090,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Terrifier+3&section=movies
     genre.sync:
       - Horror
-    seasons: []
   10195:
     label_title: Thor
     sort_title: Thor 1
@@ -5700,7 +5099,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   76338:
     label_title: Thor The Dark World
     sort_title: Thor 2
@@ -5710,7 +5108,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   284053:
     label_title: Thor Ragnarok
     sort_title: Thor 3
@@ -5720,7 +5117,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   616037:
     label_title: Thor Love and Thunder
     sort_title: Thor 4
@@ -5730,7 +5126,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   986056:
     label_title: Thunderbolts*
     sort_title: Thunderbolts
@@ -5740,7 +5135,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   597:
     label_title: Titanic
     sort_title: Titanic
@@ -5749,7 +5143,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Titanic&section=movies
     genre.sync:
       - Drama
-    seasons: []
   11969:
     label_title: Tombstone
     sort_title: Tombstone
@@ -5758,7 +5151,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Tombstone&section=movies
     genre.sync:
       - Action
-    seasons: []
   744:
     label_title: Top Gun
     sort_title: Top Gun
@@ -5767,7 +5159,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Top+Gun&section=movies
     genre.sync:
       - Action
-    seasons: []
   361743:
     label_title: Top Gun Maverick
     sort_title: Top Gun Maverick
@@ -5776,7 +5167,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Top+Gun+Maverick&section=movies
     genre.sync:
       - Action
-    seasons: []
   23168:
     label_title: The Town
     sort_title: Town
@@ -5785,7 +5175,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Town&section=movies
     genre.sync:
       - Action
-    seasons: []
   862:
     label_title: Toy Story
     sort_title: Toy Story 1
@@ -5795,7 +5184,6 @@ metadata:
     studio: Pixar
     genre.sync:
       - Animation
-    seasons: []
   863:
     label_title: Toy Story 2
     sort_title: Toy Story 2
@@ -5805,7 +5193,6 @@ metadata:
     studio: Pixar
     genre.sync:
       - Animation
-    seasons: []
   10193:
     label_title: Toy Story 3
     sort_title: Toy Story 3
@@ -5815,7 +5202,6 @@ metadata:
     studio: Pixar
     genre.sync:
       - Animation
-    seasons: []
   301528:
     label_title: Toy Story 4
     sort_title: Toy Story 4
@@ -5825,7 +5211,6 @@ metadata:
     studio: Pixar
     genre.sync:
       - Animation
-    seasons: []
   396535:
     label_title: Train to Busan
     sort_title: Train to Busan 1
@@ -5834,7 +5219,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Train+to+Busan&section=movies
     genre.sync:
       - Thriller
-    seasons: []
   389868:
     label_title: Seoul Station
     sort_title: Train to Busan 2
@@ -5843,7 +5227,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Seoul+Station&section=movies
     genre.sync:
       - Thriller
-    seasons: []
   581392:
     label_title: Peninsula
     sort_title: Train to Busan 3
@@ -5852,7 +5235,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Peninsula&section=movies
     genre.sync:
       - Thriller
-    seasons: []
   1477453:
     label_title: 'Trainwreck: The Astroworld Tragedy'
     sort_title: 'Trainwreck: The Astroworld Tragedy'
@@ -5861,7 +5243,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Trainwreck:+The+Astroworld+Tragedy&section=movies
     genre.sync:
       - Documentary
-    seasons: []
   1858:
     label_title: Transformers
     sort_title: Transformers 1
@@ -5871,7 +5252,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   8373:
     label_title: Transformers Revenge of the Fallen
     sort_title: Transformers 2
@@ -5881,7 +5261,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   38356:
     label_title: Transformers Dark of the Moon
     sort_title: Transformers 3
@@ -5891,7 +5270,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   91314:
     label_title: Transformers Age of Extinction
     sort_title: Transformers 4
@@ -5901,7 +5279,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   335988:
     label_title: Transformers The Last Knight
     sort_title: Transformers 5
@@ -5911,7 +5288,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   424783:
     label_title: Bumblebee
     sort_title: Transformers 6
@@ -5921,7 +5297,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   667538:
     label_title: Transformers Rise of the Beasts
     sort_title: Transformers Beasts 1
@@ -5931,7 +5306,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   698687:
     label_title: Transformers One
     sort_title: Transformers One
@@ -5940,7 +5314,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Transformers+One&section=movies
     genre.sync:
       - Animation
-    seasons: []
   97:
     label_title: Tron
     sort_title: Tron 1
@@ -5950,7 +5323,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   20526:
     label_title: TRON Legacy
     sort_title: Tron 2
@@ -5960,7 +5332,6 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
-    seasons: []
   8966:
     label_title: Twilight
     sort_title: Twilight 1
@@ -5969,7 +5340,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Twilight&section=movies
     genre.sync:
       - Fantasy
-    seasons: []
   18239:
     label_title: The Twilight Saga New Moon
     sort_title: Twilight 2
@@ -5978,7 +5348,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Twilight+Saga+New+Moon&section=movies
     genre.sync:
       - Fantasy
-    seasons: []
   24021:
     label_title: The Twilight Saga Eclipse
     sort_title: Twilight 3
@@ -5987,7 +5356,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Twilight+Saga+Eclipse&section=movies
     genre.sync:
       - Fantasy
-    seasons: []
   50619:
     label_title: The Twilight Saga Breaking Dawn Part 1
     sort_title: Twilight 4
@@ -5996,7 +5364,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Twilight+Saga+Breaking+Dawn+Part+1&section=movies
     genre.sync:
       - Fantasy
-    seasons: []
   50620:
     label_title: The Twilight Saga Breaking Dawn Part 2
     sort_title: Twilight 5
@@ -6005,7 +5372,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Twilight+Saga+Breaking+Dawn+Part+2&section=movies
     genre.sync:
       - Fantasy
-    seasons: []
   718821:
     label_title: Twisters
     sort_title: Twisters
@@ -6014,7 +5380,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Twisters&section=movies
     genre.sync:
       - Thriller
-    seasons: []
   1284120:
     label_title: The Ugly Stepsister
     sort_title: Ugly Stepsister
@@ -6023,7 +5388,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Ugly+Stepsister&section=movies
     genre.sync:
       - Horror
-    seasons: []
   9741:
     label_title: Unbreakable
     sort_title: Unbreakable
@@ -6032,7 +5396,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Unbreakable&section=movies
     genre.sync:
       - Action
-    seasons: []
   473033:
     label_title: Uncut Gems
     sort_title: Uncut Gems
@@ -6043,7 +5406,6 @@ metadata:
     genre.sync:
       - Comedy
       - Thriller
-    seasons: []
   1232546:
     label_title: Until Dawn
     sort_title: Until Dawn
@@ -6052,7 +5414,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Until+Dawn&section=movies
     genre.sync:
       - Horror
-    seasons: []
   14160:
     label_title: Up
     sort_title: Up
@@ -6062,7 +5423,6 @@ metadata:
     studio: Pixar
     genre.sync:
       - Animation
-    seasons: []
   458723:
     label_title: Us
     sort_title: Us
@@ -6071,7 +5431,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Us&section=movies
     genre.sync:
       - Horror
-    seasons: []
   40264:
     label_title: Vampires Suck
     sort_title: Vampires Suck
@@ -6080,7 +5439,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Vampires+Suck&section=movies
     genre.sync:
       - Comedy
-    seasons: []
   335983:
     label_title: Venom
     sort_title: Venom 1
@@ -6090,7 +5448,6 @@ metadata:
     studio: Marvel Entertainment
     genre.sync:
       - Superhero
-    seasons: []
   580489:
     label_title: Venom Let There Be Carnage
     sort_title: Venom 2
@@ -6100,7 +5457,6 @@ metadata:
     studio: Marvel Entertainment
     genre.sync:
       - Superhero
-    seasons: []
   912649:
     label_title: Venom The Last Dance
     sort_title: Venom 3
@@ -6110,7 +5466,6 @@ metadata:
     studio: Marvel Entertainment
     genre.sync:
       - Superhero
-    seasons: []
   1241436:
     label_title: Warfare
     sort_title: Warfare
@@ -6121,7 +5476,6 @@ metadata:
     genre.sync:
       - Action
       - Thriller
-    seasons: []
   533444:
     label_title: Waves
     sort_title: Waves
@@ -6131,7 +5485,6 @@ metadata:
     studio: A24
     genre.sync:
       - Drama
-    seasons: []
   1100099:
     label_title: We Live in Time
     sort_title: We Live in Time
@@ -6141,7 +5494,6 @@ metadata:
     studio: A24
     genre.sync:
       - Drama
-    seasons: []
   1164614:
     label_title: Were All Gonna Die
     sort_title: Were All Gonna Die
@@ -6151,7 +5503,6 @@ metadata:
     genre.sync:
       - Comedy
       - Science Fiction
-    seasons: []
   894205:
     label_title: Werewolf by Night
     sort_title: Werewolf by Night
@@ -6161,7 +5512,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   970450:
     label_title: Werewolves
     sort_title: Werewolves
@@ -6170,7 +5520,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Werewolves&section=movies
     genre.sync:
       - Horror
-    seasons: []
   785084:
     label_title: The Whale
     sort_title: Whale
@@ -6180,7 +5529,6 @@ metadata:
     studio: A24
     genre.sync:
       - Drama
-    seasons: []
   246741:
     label_title: What We Do in the Shadows
     sort_title: What We Do in the Shadows
@@ -6189,7 +5537,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=What+We+Do+in+the+Shadows&section=movies
     genre.sync:
       - Comedy
-    seasons: []
   433310:
     label_title: When We First Met
     sort_title: When We First Met
@@ -6199,7 +5546,6 @@ metadata:
     genre.sync:
       - Comedy
       - Drama
-    seasons: []
   244786:
     label_title: Whiplash
     sort_title: Whiplash
@@ -6208,7 +5554,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Whiplash&section=movies
     genre.sync:
       - Drama
-    seasons: []
   402431:
     label_title: Wicked
     sort_title: Wicked
@@ -6217,7 +5562,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Wicked&section=movies
     genre.sync:
       - Family
-    seasons: []
   1184918:
     label_title: The Wild Robot
     sort_title: Wild Robot
@@ -6226,7 +5570,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Wild+Robot&section=movies
     genre.sync:
       - Animation
-    seasons: []
   310131:
     label_title: The Witch
     sort_title: Witch
@@ -6237,7 +5580,6 @@ metadata:
     genre.sync:
       - Horror
       - Thriller
-    seasons: []
   666243:
     label_title: The Witcher Nightmare of the Wolf
     sort_title: Witcher 1
@@ -6246,7 +5588,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Witcher+Nightmare+of+the+Wolf&section=movies
     genre.sync:
       - Animation
-    seasons: []
   1203329:
     label_title: The Witcher Sirens of the Deep
     sort_title: Witcher 2
@@ -6255,7 +5596,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Witcher+Sirens+of+the+Deep&section=movies
     genre.sync:
       - Animation
-    seasons: []
   710295:
     label_title: Wolf Man
     sort_title: Wolf Man
@@ -6265,7 +5605,6 @@ metadata:
     genre.sync:
       - Fantasy
       - Horror
-    seasons: []
   76170:
     label_title: The Wolverine
     sort_title: Wolverine
@@ -6275,7 +5614,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   835113:
     label_title: Woman of the Hour
     sort_title: Woman of the Hour
@@ -6285,7 +5623,6 @@ metadata:
     genre.sync:
       - Horror
       - Thriller
-    seasons: []
   297762:
     label_title: Wonder Woman
     sort_title: Wonder Woman 1
@@ -6294,7 +5631,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Wonder+Woman&section=movies
     genre.sync:
       - Superhero
-    seasons: []
   464052:
     label_title: Wonder Woman 1984
     sort_title: Wonder Woman 2
@@ -6303,7 +5639,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Wonder+Woman+1984&section=movies
     genre.sync:
       - Superhero
-    seasons: []
   787699:
     label_title: Wonka
     sort_title: Wonka
@@ -6312,7 +5647,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Wonka&section=movies
     genre.sync:
       - Family
-    seasons: []
   1197306:
     label_title: A Working Man
     sort_title: Working Man
@@ -6321,7 +5655,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=A+Working+Man&section=movies
     genre.sync:
       - Action
-    seasons: []
   760104:
     label_title: X
     sort_title: X
@@ -6331,7 +5664,6 @@ metadata:
     studio: A24
     genre.sync:
       - Horror
-    seasons: []
   36657:
     label_title: X-Men
     sort_title: X-Men 1
@@ -6341,7 +5673,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   36658:
     label_title: X2
     sort_title: X-Men 2
@@ -6351,7 +5682,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   36668:
     label_title: X-Men The Last Stand
     sort_title: X-Men 3
@@ -6361,7 +5691,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   2080:
     label_title: X-Men Origins Wolverine
     sort_title: X-Men 4
@@ -6371,7 +5700,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   49538:
     label_title: X-Men First Class
     sort_title: X-Men 5
@@ -6381,7 +5709,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   127585:
     label_title: X-Men Days of Future Past
     sort_title: X-Men 6
@@ -6391,7 +5718,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   246655:
     label_title: X-Men Apocalypse
     sort_title: X-Men 7
@@ -6401,7 +5727,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   320288:
     label_title: Dark Phoenix
     sort_title: X-Men 8
@@ -6411,7 +5736,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-    seasons: []
   791373:
     label_title: Zack Snyders Justice League
     sort_title: Zack Snyders Justice League
@@ -6420,7 +5744,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Zack+Snyders+Justice+League&section=movies
     genre.sync:
       - Superhero
-    seasons: []
   467244:
     label_title: The Zone of Interest
     sort_title: Zone of Interest
@@ -6431,4 +5754,3 @@ metadata:
     genre.sync:
       - Action
       - Drama
-    seasons: []
