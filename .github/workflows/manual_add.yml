@@ -4,14 +4,6 @@ run-name: Manually add ${{ inputs.media_type }} ${{ inputs.title }}
 on:
   workflow_dispatch:
     inputs:
-      title:
-        description: Title
-        required: true
-        type: string
-      release_year:
-        description: Release Year
-        required: true
-        type: string
       media_type:
         description: Media Type
         required: true
@@ -23,6 +15,14 @@ on:
         description: TMDb or TVDb ID
         required: true
         type: string
+      title:
+        description: Title
+        required: true
+        type: string
+      release_year:
+        description: Release Year
+        required: true
+        type: string
       url_poster:
         description: Poster URL
         required: true
@@ -31,8 +31,8 @@ on:
         description: Genres, Comma Spaced
         required: true
         type: string
-      season_posters:
-        description: Seasons / Posters, Comma Spaced Season=Poster URL
+      seasons:
+        description: Seasons, Comma Spaced
         type: string
 
 permissions:
@@ -40,13 +40,13 @@ permissions:
   contents: write
 
 env:
-  title: ${{ inputs.title }}
-  release_year: ${{ inputs.release_year }}
-  media_type: ${{ inputs.media_type }}
-  txdb_id: ${{ inputs.txdb_id }}
-  url_poster: ${{ inputs.url_poster }}
-  genres_comma_spaced: ${{ inputs.genres }}
-  season_posters_comma_spaced: ${{ inputs.season_posters }}
+  MEDIA_TYPE: ${{ inputs.media_type }}
+  TXDB_ID: ${{ inputs.txdb_id }}
+  TITLE: ${{ inputs.title }}
+  RELEASE_YEAR: ${{ inputs.release_year }}
+  URL_POSTER: ${{ inputs.url_poster }}
+  GENRES_COMMA_SPACED: ${{ inputs.genres }}
+  SEASONS_COMMA_SPACED: ${{ inputs.seasons }}
   MOVIE_METADATA_FILE: movie-metadata.yml
   SHOW_METADATA_FILE: show-metadata.yml
   UPDATE_SUMMARY_FILE: metadata_updates.md
@@ -59,77 +59,41 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      
-      - name: Update metadata file with movie information
-        if: env.media_type == 'movie'
-        env:
-          tmdb_id: ${{ env.txdb_id }}
-        shell: bash
-        run: |
-          sort_title="$(bash "functions/media/get-sort-title.sh" "$title")"
-          tpdb_search="$(bash "functions/media/get-tpdb-search.sh" "$title" "movie")"
-          IFS=',' read -ra genres <<< "$genres_comma_spaced"
-          genres=$(printf '%s\n' "${genres[@]}" | sed 's/^[[:space:]]*//;s/[[:space:]]*$//' | jq -R . | jq -s .)
 
-          if [[ $(yq '.metadata.${{ env.tmdb_id }}' ${{ env.MOVIE_METADATA_FILE }}) == null ]]; then
-            echo "Movie does not exist, adding"
-            yq -i '.metadata += {'"$tmdb_id"': {"label_title": "'"$title"'", "sort_title": "'"$sort_title"'", "release_year": "'"$release_year"'", "url_poster": "'"$url_poster"'", "tpdb_search": "'"$tpdb_search"'", "genre.sync": '"$genres"'}}' ${{ env.MOVIE_METADATA_FILE }}
+      - name: Set METADATA_FILE
+        run: |
+          if [[ "$MEDIA_TYPE" == "movie" ]]; then
+              echo "METADATA_FILE=$MOVIE_METADATA_FILE" >> $GITHUB_ENV
+          else
+              echo "METADATA_FILE=$SHOW_METADATA_FILE" >> $GITHUB_ENV
           fi
       
-      - name: Update metadata file with show information
-        if: env.media_type == 'show'
-        shell: bash
-        env:
-          tvdb_id: ${{ env.txdb_id }}
+      - name: Update metadata file with media information
         run: |
-          sort_title="$(bash "functions/media/get-sort-title.sh" "$title")"
-          tpdb_search="$(bash "functions/media/get-tpdb-search.sh" "$title" "show")"
-          IFS=',' read -ra genres <<< "$genres_comma_spaced"
-          genres=$(printf '%s\n' "${genres[@]}" | sed 's/^[[:space:]]*//;s/[[:space:]]*$//' | jq -R . | jq -s .)
-          
-          IFS=',' read -ra season_poster_pairs <<< "$season_posters_comma_spaced"
-          declare -A season_posters
-          for pair in "${season_poster_pairs[@]}"; do
-            season="${pair%%=*}"
-            url="${pair#*=}"
-            # Trim leading/trailing whitespace
-            season="${season#"${season%%[![:space:]]*}"}"
-            season="${season%"${season##*[![:space:]]}"}"
-            url="${url#"${url%%[![:space:]]*}"}"
-            url="${url%"${url##*[![:space:]]}"}"
-            season_posters["$season"]="$url"
-          done
-
-          if [[ $(yq '.metadata.${{ env.tvdb_id }}' ${{ env.SHOW_METADATA_FILE }}) == null ]]; then
-            echo "Show does not exist, adding"
-            yq -i '.metadata += {'"$tvdb_id"': {"label_title": "'"$title"'", "sort_title": "'"$sort_title"'", "release_year": "'"$release_year"'", "url_poster": "'"$url_poster"'", "tpdb_search": "'"$tpdb_search"'", "genre.sync": '"$genres"'}}' ${{ env.SHOW_METADATA_FILE }}
-          fi
-          for season in "${!season_posters[@]}"; do
-            if [[ $(yq ".metadata.${{ env.tvdb_id }}.seasons.$season" ${{ env.SHOW_METADATA_FILE }}) == null ]]; then
-              echo "Season does not exist, adding"
-              yq -i '.metadata.${{ env.tvdb_id }}.seasons += {'"$season"': {"url_poster": "'"${season_posters[$season]}"'"}}' "$SHOW_METADATA_FILE"
-            fi
-          done
+          bash "functions/yaml/insert-media-item.sh" \
+            "$MEDIA_TYPE" \
+            "$TXDB_ID" \
+            "$TITLE" \
+            "$RELEASE_YEAR" \
+            "$URL_POSTER" \
+            "$GENRES_COMMA_SPACED" \
+            "$SEASONS_COMMA_SPACED" \
+            "$METADATA_FILE"
 
       - name: Sort and format metadata files
         run: |
-          # Sort the metadata files
-          bash "functions/yaml/sort-metadata-file.sh" "$MOVIE_METADATA_FILE"
-          bash "functions/yaml/sort-metadata-file.sh" "$SHOW_METADATA_FILE"
-          
-          # Format the metadata files (mostly setting 'style="single"' to use single quotes over double quotes when applicable
-          bash "functions/yaml/sort-metadata-file.sh" "$MOVIE_METADATA_FILE"
-          bash "functions/yaml/sort-metadata-file.sh" "$SHOW_METADATA_FILE"
+          # Sort and format the metadata file
+          bash "functions/yaml/sort-metadata-file.sh" "$METADATA_FILE"
+          bash "functions/yaml/sort-metadata-file.sh" "$METADATA_FILE"
       
       - name: Commit Changes to Main
         id: commit-changes
         run: |
           bash "functions/git/set-git-config.sh"
           sha=$(bash "functions/git/commit-with-summary.sh" \
-                  "Updating $title" \
+                  "Updating $TITLE ($RELEASE_YEAR)" \
                   "$UPDATE_SUMMARY_FILE" \
-                  "$MOVIE_METADATA_FILE" \
-                  "$SHOW_METADATA_FILE")
+                  "$METADATA_FILE")
           echo "sha=$sha" >> $GITHUB_OUTPUT
 
       - name: Create Job Summary
