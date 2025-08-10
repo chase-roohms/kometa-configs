@@ -1,4 +1,5 @@
-name: Manually add ${{ inputs.media_type }} ${{ inputs.title }}
+name: Manually add Media
+run-name: Manually add ${{ inputs.media_type }} ${{ inputs.title }}
 
 on:
   workflow_dispatch:
