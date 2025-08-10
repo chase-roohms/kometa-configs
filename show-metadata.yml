@@ -76,14 +76,14 @@ metadata:
     label_title: The Acolyte
     sort_title: Acolyte
     release_year: '2024'
-    url_poster: https://theposterdb.com/api/assets/489735
+    url_poster: https://theposterdb.com/api/assets/474513
     tpdb_search: https://theposterdb.com/search?term=The+Acolyte&section=shows
     genre.sync:
       - Action
       - Science Fiction
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/489736
+        url_poster: https://theposterdb.com/api/assets/474513
   452467:
     label_title: Adolescence
     sort_title: Adolescence
@@ -133,14 +133,14 @@ metadata:
     label_title: Ahsoka
     sort_title: Ahsoka
     release_year: '2023'
-    url_poster: https://theposterdb.com/api/assets/388527
+    url_poster: https://theposterdb.com/api/assets/464787
     tpdb_search: https://theposterdb.com/search?term=Ahsoka&section=shows
     genre.sync:
       - Action
       - Science Fiction
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/388528
+        url_poster: https://theposterdb.com/api/assets/464788
   376472:
     label_title: Alice in Borderland
     sort_title: Alice in Borderland
@@ -469,7 +469,7 @@ metadata:
     label_title: The Book of Boba Fett
     sort_title: Book of Boba Fett
     release_year: '2021'
-    url_poster: https://theposterdb.com/api/assets/178982
+    url_poster: https://theposterdb.com/api/assets/464789
     tpdb_search: https://theposterdb.com/search?term=The+Book+of+Boba+Fett&section=shows
     genre.sync:
       - Action
@@ -2176,18 +2176,18 @@ metadata:
     label_title: The Mandalorian
     sort_title: Mandalorian
     release_year: '2019'
-    url_poster: https://theposterdb.com/api/assets/133754
+    url_poster: https://theposterdb.com/api/assets/464790
     tpdb_search: https://theposterdb.com/search?term=The+Mandalorian&section=shows
     genre.sync:
       - Action
       - Science Fiction
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/133755
+        url_poster: https://theposterdb.com/api/assets/464791
       2:
-        url_poster: https://theposterdb.com/api/assets/133756
+        url_poster: https://theposterdb.com/api/assets/464792
       3:
-        url_poster: https://theposterdb.com/api/assets/310986
+        url_poster: https://theposterdb.com/api/assets/464793
   281485:
     label_title: Marvel's Agent Carter
     sort_title: Marvel's Agent Carter
@@ -2566,14 +2566,14 @@ metadata:
     label_title: Obi-Wan Kenobi
     sort_title: Obi-Wan Kenobi
     release_year: '2022'
-    url_poster: https://theposterdb.com/api/assets/211933
+    url_poster: https://theposterdb.com/api/assets/464545
     tpdb_search: https://theposterdb.com/search?term=Obi-Wan+Kenobi&section=shows
     genre.sync:
       - Anime
       - Science Fiction
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/232701
+        url_poster: https://theposterdb.com/api/assets/464545
   73244:
     label_title: The Office (US)
     sort_title: Office (US)
@@ -3384,112 +3384,106 @@ metadata:
     label_title: Star Wars - Andor
     sort_title: Star Wars - Andor
     release_year: '2022'
-    url_poster: https://theposterdb.com/api/assets/244084
+    url_poster: https://theposterdb.com/api/assets/464543
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+-+Andor&section=shows
     genre.sync:
       - Action
       - Science Fiction
     seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/267481
       1:
-        url_poster: https://theposterdb.com/api/assets/244085
+        url_poster: https://theposterdb.com/api/assets/464544
       2:
-        url_poster: https://theposterdb.com/api/assets/588329
+        url_poster: https://theposterdb.com/api/assets/593196
   420600:
     label_title: Star Wars - Skeleton Crew
     sort_title: Star Wars - Skeleton Crew
     release_year: '2024'
-    url_poster: https://theposterdb.com/api/assets/540401
+    url_poster: https://theposterdb.com/api/assets/517365
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+-+Skeleton+Crew&section=shows
     genre.sync:
       - Action
       - Science Fiction
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/540402
+        url_poster: https://theposterdb.com/api/assets/517365
   448549:
     label_title: Star Wars - Tales of the Empire
     sort_title: Star Wars - Tales of the Empire
     release_year: '2024'
-    url_poster: https://theposterdb.com/api/assets/481650
+    url_poster: https://theposterdb.com/api/assets/481837
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+-+Tales+of+the+Empire&section=shows
     genre.sync:
       - Action
       - Science Fiction
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/481651
+        url_poster: https://theposterdb.com/api/assets/481837
   420659:
     label_title: Star Wars - Tales of the Jedi
     sort_title: Star Wars - Tales of the Jedi
     release_year: '2022'
-    url_poster: https://theposterdb.com/api/assets/272947
+    url_poster: https://theposterdb.com/api/assets/464755
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+-+Tales+of+the+Jedi&section=shows
     genre.sync:
       - Action
       - Science Fiction
     seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/281373
       1:
-        url_poster: https://theposterdb.com/api/assets/272948
+        url_poster: https://theposterdb.com/api/assets/464755
   462199:
     label_title: Star Wars - Tales of the Underworld
     sort_title: Star Wars - Tales of the Underworld
     release_year: '2025'
-    url_poster: https://theposterdb.com/api/assets/593704
+    url_poster: https://theposterdb.com/api/assets/594290
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+-+Tales+of+the+Underworld&section=shows
     genre.sync:
       - Action
       - Science Fiction
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/593705
+        url_poster: https://theposterdb.com/api/assets/594290
   385376:
     label_title: Star Wars - The Bad Batch
     sort_title: Star Wars - The Bad Batch
     release_year: '2021'
-    url_poster: https://theposterdb.com/api/assets/143195
+    url_poster: https://theposterdb.com/api/assets/464546
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+-+The+Bad+Batch&section=shows
     genre.sync:
       - Action
       - Science Fiction
     seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/491457
       1:
-        url_poster: https://theposterdb.com/api/assets/143196
+        url_poster: https://theposterdb.com/api/assets/464547
       2:
-        url_poster: https://theposterdb.com/api/assets/304495
+        url_poster: https://theposterdb.com/api/assets/464548
       3:
-        url_poster: https://theposterdb.com/api/assets/451512
+        url_poster: https://theposterdb.com/api/assets/464549
   83268:
     label_title: Star Wars - The Clone Wars
     sort_title: Star Wars - The Clone Wars
     release_year: '2008'
-    url_poster: https://theposterdb.com/api/assets/133734
+    url_poster: https://theposterdb.com/api/assets/464734
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+-+The+Clone+Wars&section=shows
     genre.sync:
       - Action
       - Science Fiction
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/133735
+        url_poster: https://theposterdb.com/api/assets/599551
       1:
-        url_poster: https://theposterdb.com/api/assets/133736
+        url_poster: https://theposterdb.com/api/assets/464735
       2:
-        url_poster: https://theposterdb.com/api/assets/133737
+        url_poster: https://theposterdb.com/api/assets/464736
       3:
-        url_poster: https://theposterdb.com/api/assets/133738
+        url_poster: https://theposterdb.com/api/assets/464737
       4:
-        url_poster: https://theposterdb.com/api/assets/133739
+        url_poster: https://theposterdb.com/api/assets/464738
       5:
-        url_poster: https://theposterdb.com/api/assets/133740
+        url_poster: https://theposterdb.com/api/assets/464739
       6:
-        url_poster: https://theposterdb.com/api/assets/133741
+        url_poster: https://theposterdb.com/api/assets/464740
       7:
-        url_poster: https://theposterdb.com/api/assets/133742
+        url_poster: https://theposterdb.com/api/assets/464741
   393190:
     label_title: Star Wars - Visions
     sort_title: Star Wars - Visions
@@ -3510,22 +3504,20 @@ metadata:
     label_title: Star Wars Rebels
     sort_title: Star Wars Rebels
     release_year: '2014'
-    url_poster: https://theposterdb.com/api/assets/133743
+    url_poster: https://theposterdb.com/api/assets/464550
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+Rebels&section=shows
     genre.sync:
       - Action
       - Science Fiction
     seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/133744
       1:
-        url_poster: https://theposterdb.com/api/assets/133745
+        url_poster: https://theposterdb.com/api/assets/464551
       2:
-        url_poster: https://theposterdb.com/api/assets/133746
+        url_poster: https://theposterdb.com/api/assets/464552
       3:
-        url_poster: https://theposterdb.com/api/assets/133747
+        url_poster: https://theposterdb.com/api/assets/464553
       4:
-        url_poster: https://theposterdb.com/api/assets/133748
+        url_poster: https://theposterdb.com/api/assets/464554
   351575:
     label_title: Star Wars Resistance
     sort_title: Star Wars Resistance
