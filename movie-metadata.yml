@@ -1727,9 +1727,9 @@ metadata:
   13:
     label_title: Forrest Gump
     sort_title: Forrest Gump
-    release_year: null
+    release_year: 1994
     url_poster: https://theposterdb.com/api/assets/487271
-    tpdb_search: null
+    tpdb_search: https://theposterdb.com/search?term=Forrest+Gump&section=movies
     genre.sync:
       - Comedy
   1098006:
