@@ -69,14 +69,6 @@ jobs:
           tpdb_search="$(bash "functions/media/get-tpdb-search.sh" "$title" "movie")"
           IFS=',' read -ra genres <<< "$genres_comma_spaced"
           genres=$(printf '%s\n' "${genres[@]}" | sed 's/^[[:space:]]*//;s/[[:space:]]*$//' | jq -R . | jq -s .)
-          
-          echo "$tmdb_id"
-          echo "$title"
-          echo "$sort_title"
-          echo "$release_year"
-          echo "$url_poster"
-          echo "$tpdb_search"
-          echo "$genres"
 
           if [[ $(yq '.metadata.${{ env.tmdb_id }}' ${{ env.MOVIE_METADATA_FILE }}) == null ]]; then
             echo "Movie does not exist, adding"
@@ -94,34 +86,23 @@ jobs:
           IFS=',' read -ra genres <<< "$genres_comma_spaced"
           genres=$(printf '%s\n' "${genres[@]}" | sed 's/^[[:space:]]*//;s/[[:space:]]*$//' | jq -R . | jq -s .)
           
-          readarray -t seasons < <(echo "$EPISODES" | jq '.[].seasonNumber' | sort -u)
-          seasons=()
           IFS=',' read -ra season_poster_pairs <<< "$season_posters_comma_spaced"
           declare -A season_posters
           for pair in "${season_poster_pairs[@]}"; do
             season="${pair%%=*}"
             url="${pair#*=}"
-
             # Trim leading/trailing whitespace
             season="${season#"${season%%[![:space:]]*}"}"
             season="${season%"${season##*[![:space:]]}"}"
             url="${url#"${url%%[![:space:]]*}"}"
             url="${url%"${url##*[![:space:]]}"}"
-
             season_posters["$season"]="$url"
           done
-          
-          echo $tvdb_id
-          echo $title
-          echo $release_year
-          echo $sort_title
-          echo $tpdb_search
 
           if [[ $(yq '.metadata.${{ env.tvdb_id }}' ${{ env.SHOW_METADATA_FILE }}) == null ]]; then
             echo "Show does not exist, adding"
             yq -i '.metadata += {'"$tvdb_id"': {"label_title": "'"$title"'", "sort_title": "'"$sort_title"'", "release_year": "'"$release_year"'", "url_poster": "'"$url_poster"'", "tpdb_search": "'"$tpdb_search"'", "genre.sync": '"$genres"'}}' ${{ env.SHOW_METADATA_FILE }}
           fi
-          
           for season in "${!season_posters[@]}"; do
             if [[ $(yq ".metadata.${{ env.tvdb_id }}.seasons.$season" ${{ env.SHOW_METADATA_FILE }}) == null ]]; then
               echo "Season does not exist, adding"
