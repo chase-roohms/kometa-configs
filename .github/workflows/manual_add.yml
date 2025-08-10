@@ -22,7 +22,7 @@ on:
         description: TXDb ID
         required: true
         type: string
-      poster_url:
+      url_poster:
         description: Poster URL
         type: string
       genres:
@@ -38,7 +38,7 @@ env:
   release_year: ${{ inputs.release_year }}
   media_type: ${{ inputs.media_type }}
   txdb_id: ${{ inputs.txdb_id }}
-  poster_url: ${{ inputs.poster_url }}
+  url_poster: ${{ inputs.url_poster }}
   genres_comma_spaced: ${{ inputs.genres }}
   MOVIE_METADATA_FILE: movie-metadata.yml
   SHOW_METADATA_FILE: show-metadata.yml
@@ -79,7 +79,7 @@ jobs:
           echo "$title"
           echo "$sort_title"
           echo "$release_year"
-          echo "$poster_url"
+          echo "$url_poster"
           echo "$tpdb_search"
           echo "$genres"
 
