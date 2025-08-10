@@ -14,6 +14,12 @@ if [ ! -f "$METADATA_FILE" ]; then
     exit 1
 fi
 
-# Apply the style to all entries under .metadata
+# Single quote the release year
 yq -i '(.metadata[] | select(has("release_year") and .release_year != null) | .release_year) style="single"' "$METADATA_FILE"
+
+# Single quote the url_poster if it is empty (personal preference)
 yq -i '(.metadata[] | select(has("url_poster") and .url_poster == "") | .url_poster) style="single"' "$METADATA_FILE"
+
+# Single quote the url_poster for any seasons if it is empty (personal preference)
+yq -i '(.metadata[].seasons[]? | select(has("url_poster") and .url_poster == "") | .url_poster) style="single"' "$METADATA_FILE"
+
