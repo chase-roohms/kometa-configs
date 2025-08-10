@@ -1,20 +1,4 @@
 metadata:
-  123:
-    label_title: 1 test show
-    sort_title: 1 test show
-    release_year: '2025'
-    url_poster: 'https://theposterdb.com/api/assets/632836'
-    tpdb_search: https://theposterdb.com/search?term=1+test+show&section=movies
-    genre.sync:
-      - Action
-      - Super Hero
-    seasons:
-      3:
-        url_poster: https://theposterdb.com/poster/545788
-      2:
-        url_poster: https://theposterdb.com/api/assets/549260
-      1:
-        url_poster: https://theposterdb.com/poster/623955
   411959:
     label_title: 3 Body Problem
     sort_title: 3 Body Problem
