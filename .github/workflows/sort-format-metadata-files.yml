@@ -1,4 +1,4 @@
-name: Sort Metadata Files
+name: Sort and Format Metadata Files
 
 on:
   workflow_dispatch:
@@ -31,8 +31,17 @@ jobs:
       - name: Commit Changes to Main
         id: commit-changes
         run: |
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git config --global user.name "github-actions[bot]"
-          git add ${{ env.MOVIE_METADATA_FILE }}
-          git add ${{ env.SHOW_METADATA_FILE }}
-          git diff-index --quiet main || git commit -m "Sorted Metadata Files" && git push
+          bash "functions/git/set-git-config.sh"
+          sha=$(bash "functions/git/commit-with-summary.sh" \
+                  "Sorted and Formatted Metadata Files" \
+                  "$UPDATE_SUMMARY_FILE" \
+                  "$MOVIE_METADATA_FILE" \
+                  "$SHOW_METADATA_FILE")
+          echo "sha=$sha" >> $GITHUB_OUTPUT
+
+      - name: Create Job Summary
+        run: |
+          echo "## Metadata Update Summary" >> $GITHUB_STEP_SUMMARY
+          echo "\`\`\`diff" >> $GITHUB_STEP_SUMMARY
+          cat "$UPDATE_SUMMARY_FILE" >> $GITHUB_STEP_SUMMARY
+          echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
