@@ -21,5 +21,4 @@ yq -i '(.metadata[] | select(has("release_year") and .release_year != null) | .r
 yq -i '(.metadata[] | select(has("url_poster") and .url_poster == "") | .url_poster) style="single"' "$METADATA_FILE"
 
 # Single quote the url_poster for any seasons if it is empty (personal preference)
-yq -i '(.metadata[].seasons[]? | select(has("url_poster") and .url_poster == "") | .url_poster) style="single"' "$METADATA_FILE"
-
+yq -i '(.metadata[] | select(has("seasons")) | .seasons[]? | select(has("url_poster") and .url_poster == "") | .url_poster) style="single"' "$METADATA_FILE"
