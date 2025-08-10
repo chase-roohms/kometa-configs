@@ -10,6 +10,7 @@ permissions:
 env:
   MOVIE_METADATA_FILE: movie-metadata.yml
   SHOW_METADATA_FILE: show-metadata.yml
+  UPDATE_SUMMARY_FILE: metadata_updates.md
 
 jobs:
   sort:
