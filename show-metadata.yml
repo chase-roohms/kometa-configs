@@ -3494,7 +3494,7 @@ metadata:
     label_title: Star Wars - Visions
     sort_title: Star Wars - Visions
     release_year: '2021'
-    url_poster: https://theposterdb.com/api/assets/175178
+    url_poster: https://theposterdb.com/api/assets/470291
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+-+Visions&section=shows
     audio_language: ja-JP
     genre.sync:
@@ -3503,9 +3503,9 @@ metadata:
       - Science Fiction
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/205364
+        url_poster: https://theposterdb.com/api/assets/470292
       2:
-        url_poster: https://theposterdb.com/api/assets/351228
+        url_poster: https://theposterdb.com/api/assets/470293
   283468:
     label_title: Star Wars Rebels
     sort_title: Star Wars Rebels
