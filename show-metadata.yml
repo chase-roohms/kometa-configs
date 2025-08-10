@@ -2569,7 +2569,6 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/464545
     tpdb_search: https://theposterdb.com/search?term=Obi-Wan+Kenobi&section=shows
     genre.sync:
-      - Anime
       - Science Fiction
     seasons:
       1:
