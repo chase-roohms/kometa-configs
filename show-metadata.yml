@@ -1,4 +1,30 @@
 metadata:
+  123:
+    label_title: 1 test show
+    sort_title: 1 test show
+    release_year: '2025'
+    url_poster: https://theposterdb.com/api/assets/632836
+    tpdb_search: https://theposterdb.com/search?term=1+test+show&section=shows
+    genre.sync:
+      - asd
+      - ghg
+      - test
+      - test hi
+    seasons:
+      0:
+        url_poster: ''
+      1:
+        url_poster: ''
+      2:
+        url_poster: ''
+      3:
+        url_poster: ''
+      10:
+        url_poster: ''
+      23:
+        url_poster: ''
+      45:
+        url_poster: ''
   411959:
     label_title: 3 Body Problem
     sort_title: 3 Body Problem
