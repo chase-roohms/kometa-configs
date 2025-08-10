@@ -1,12 +1,4 @@
 metadata:
-  100000000:
-    label_title: 1 test movie
-    sort_title: 1 test movie
-    release_year: '2008'
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=1+test+movie&section=movies
-    genre.sync:
-      - Comedy
   170:
     label_title: 28 Days Later
     sort_title: 28 Later 1
