@@ -94,21 +94,12 @@ jobs:
       - name: Commit Changes to Main
         id: commit-changes
         run: |
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git config --global user.name "github-actions[bot]"
-          old_sha=$(git rev-parse HEAD)
-          git add ${{ env.MOVIE_METADATA_FILE }}
-          git add ${{ env.SHOW_METADATA_FILE }}
-          if ! git diff-index --quiet main; then
-            git commit -m "Updating ${{ github.event.client_payload.title }}" >> "$UPDATE_SUMMARY_FILE"
-            git push >> "$UPDATE_SUMMARY_FILE"
-            new_sha=$(git rev-parse HEAD)
-            git diff --unified=0 --no-color "$old_sha" "$new_sha" >> "$UPDATE_SUMMARY_FILE"
-            sha=$new_sha
-          else
-            echo "No changes to commit." >> $UPDATE_SUMMARY_FILE
-            sha=$old_sha
-          fi
+          bash "functions/git/set-git-config.sh"
+          sha=$(bash "functions/git/commit-with-summary.sh" \
+                  "Updating ${{ github.event.client_payload.title }}" \
+                  "$UPDATE_SUMMARY_FILE" \
+                  "$MOVIE_METADATA_FILE" \
+                  "$SHOW_METADATA_FILE")
           echo "sha=$sha" >> $GITHUB_OUTPUT
 
       - name: Create Job Summary
