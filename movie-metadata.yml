@@ -9,6 +9,14 @@ metadata:
       - Action
       - Horror
       - Science Fiction
+  12345:
+    label_title: 2 movie test
+    sort_title: 2 movie test
+    release_year: '2025'
+    url_poster: https://theposterdb.com/poster/625065
+    tpdb_search: https://theposterdb.com/search?term=2+movie+test&section=movies
+    genre.sync:
+      - test
   170:
     label_title: 28 Days Later
     sort_title: 28 Later 1
