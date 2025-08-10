@@ -1,349 +1,359 @@
 metadata:
+  123:
+    genre.sync:
+      - Action
+      - Horror
+      - Science Fiction
+    label_title: 1 Movie Test
+    sort_title: 1 Movie Test
+    release_year: '2025'
+    url_poster: ""
+    tpdb_search: https://theposterdb.com/search?term=1+Movie+Test&section=movies
   170:
+    genre.sync:
+      - Thriller
     label_title: 28 Days Later
     sort_title: 28 Later 1
     release_year: '2002'
     url_poster: https://theposterdb.com/api/assets/617783
     tpdb_search: https://theposterdb.com/search?term=28+Days+Later&section=movies
+  1562:
     genre.sync:
       - Thriller
-  1562:
     label_title: 28 Weeks Later
     sort_title: 28 Later 2
     release_year: '2007'
     url_poster: https://theposterdb.com/api/assets/617782
     tpdb_search: https://theposterdb.com/search?term=28+Weeks+Later&section=movies
+  1100988:
     genre.sync:
       - Thriller
-  1100988:
     label_title: 28 Years Later
     sort_title: 28 Later 3
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/617781
     tpdb_search: https://theposterdb.com/search?term=28+Years+Later&section=movies
+  1272837:
     genre.sync:
       - Thriller
-  1272837:
     label_title: '28 Years Later Part Two: The Bone Temple'
     sort_title: 28 Later 4
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/617780
     tpdb_search: https://theposterdb.com/search?term=28+Years+Later&section=movies
-    genre.sync:
-      - Thriller
   1271:
+    genre.sync:
+      - Action
     label_title: '300'
     sort_title: 300 1
     release_year: '2007'
     url_poster: https://theposterdb.com/api/assets/51722
     tpdb_search: https://theposterdb.com/search?term=300&section=movies
+  53182:
     genre.sync:
       - Action
-  53182:
     label_title: 300 Rise of an Empire
     sort_title: 300 2
     release_year: '2014'
     url_poster: https://theposterdb.com/api/assets/51723
     tpdb_search: https://theposterdb.com/search?term=300+Rise+of+an+Empire&section=movies
-    genre.sync:
-      - Action
   3021:
+    genre.sync:
+      - Fantasy
+      - Thriller
     label_title: '1408'
     sort_title: '1408'
     release_year: '2007'
     url_poster: https://theposterdb.com/api/assets/24135
     tpdb_search: https://theposterdb.com/search?term=1408&section=movies
-    genre.sync:
-      - Fantasy
-      - Thriller
   530915:
+    genre.sync:
+      - Action
     label_title: '1917'
     sort_title: '1917'
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/48473
     tpdb_search: https://theposterdb.com/search?term=1917&section=movies
+  14161:
     genre.sync:
       - Action
-  14161:
+      - Science Fiction
     label_title: '2012'
     sort_title: '2012'
     release_year: '2009'
     url_poster: https://theposterdb.com/api/assets/21898
     tpdb_search: https://theposterdb.com/search?term=2012&section=movies
-    genre.sync:
-      - Action
-      - Science Fiction
   1023915:
+    genre.sync:
+      - Documentary
     label_title: '2073'
     sort_title: '2073'
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/596173
     tpdb_search: https://theposterdb.com/search?term=2073&section=movies
-    genre.sync:
-      - Documentary
   302946:
+    genre.sync:
+      - Action
     label_title: The Accountant
     sort_title: Accountant 1
     release_year: '2016'
     url_poster: https://theposterdb.com/api/assets/578150
     tpdb_search: https://theposterdb.com/search?term=The+Accountant&section=movies
+  870028:
     genre.sync:
       - Action
-  870028:
     label_title: The Accountant 2
     sort_title: Accountant 2
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/578149
     tpdb_search: https://theposterdb.com/search?term=The+Accountant+2&section=movies
-    genre.sync:
-      - Action
     title: The Accountant 2
   14199:
+    genre.sync:
+      - Family
     label_title: The Adventures of Sharkboy and Lavagirl
     sort_title: Adventures of Sharkboy and Lavagirl
     release_year: '2005'
     url_poster: https://theposterdb.com/api/assets/20660
     tpdb_search: https://theposterdb.com/search?term=The+Adventures+of+Sharkboy+and+Lavagirl&section=movies
-    genre.sync:
-      - Family
   537915:
+    genre.sync:
+      - Drama
     label_title: After
     sort_title: After 1
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/178592
     tpdb_search: https://theposterdb.com/search?term=After&section=movies
+  613504:
     genre.sync:
       - Drama
-  613504:
     label_title: After We Collided
     sort_title: After 2
     release_year: '2020'
     url_poster: https://theposterdb.com/api/assets/178593
     tpdb_search: https://theposterdb.com/search?term=After+We+Collided&section=movies
+  744275:
     genre.sync:
       - Drama
-  744275:
     label_title: After We Fell
     sort_title: After 3
     release_year: '2021'
     url_poster: https://theposterdb.com/api/assets/178594
     tpdb_search: https://theposterdb.com/search?term=After+We+Fell&section=movies
+  744276:
     genre.sync:
       - Drama
-  744276:
     label_title: After Ever Happy
     sort_title: After 4
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/426220
     tpdb_search: https://theposterdb.com/search?term=After+Ever+Happy&section=movies
+  820525:
     genre.sync:
       - Drama
-  820525:
     label_title: After Everything
     sort_title: After 5
     release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/426221
     tpdb_search: https://theposterdb.com/search?term=After+Everything&section=movies
-    genre.sync:
-      - Drama
   20737:
+    genre.sync:
+      - Family
     label_title: Air Bud
     sort_title: Air Bud
     release_year: '1997'
     url_poster: https://theposterdb.com/api/assets/96132
     tpdb_search: https://theposterdb.com/search?term=Air+Bud&section=movies
-    genre.sync:
-      - Family
   348:
+    genre.sync:
+      - Science Fiction
+      - Thriller
     label_title: Alien
     sort_title: Alien 1
     release_year: '1979'
     url_poster: https://theposterdb.com/api/assets/1214
     tpdb_search: https://theposterdb.com/search?term=Alien&section=movies
+  679:
     genre.sync:
       - Science Fiction
       - Thriller
-  679:
     label_title: Aliens
     sort_title: Alien 2
     release_year: '1986'
     url_poster: https://theposterdb.com/api/assets/1215
     tpdb_search: https://theposterdb.com/search?term=Aliens&section=movies
+  8077:
     genre.sync:
       - Science Fiction
       - Thriller
-  8077:
     label_title: Alien³
     sort_title: Alien 3
     release_year: '1992'
     url_poster: https://theposterdb.com/api/assets/1216
     tpdb_search: https://theposterdb.com/search?term=Alien³&section=movies
+  8078:
     genre.sync:
       - Science Fiction
       - Thriller
-  8078:
     label_title: Alien Resurrection
     sort_title: Alien 4
     release_year: '1997'
     url_poster: https://theposterdb.com/api/assets/1217
     tpdb_search: https://theposterdb.com/search?term=Alien+Resurrection&section=movies
+  70981:
     genre.sync:
       - Science Fiction
       - Thriller
-  70981:
     label_title: Prometheus
     sort_title: Alien 5
     release_year: '2012'
     url_poster: https://theposterdb.com/api/assets/1220
     tpdb_search: https://theposterdb.com/search?term=Prometheus&section=movies
+  126889:
     genre.sync:
       - Science Fiction
       - Thriller
-  126889:
     label_title: Alien Covenant
     sort_title: Alien 6
     release_year: '2017'
     url_poster: https://theposterdb.com/api/assets/1221
     tpdb_search: https://theposterdb.com/search?term=Alien+Covenant&section=movies
+  945961:
     genre.sync:
       - Science Fiction
       - Thriller
-  945961:
     label_title: Alien Romulus
     sort_title: Alien 7
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/516343
     tpdb_search: https://theposterdb.com/search?term=Alien+Romulus&section=movies
+  395:
     genre.sync:
       - Science Fiction
       - Thriller
-  395:
     label_title: AVP Alien vs. Predator
     sort_title: Alien vs. Predator 1
     release_year: '2004'
     url_poster: https://theposterdb.com/api/assets/1218
     tpdb_search: https://theposterdb.com/search?term=AVP+Alien+vs.+Predator&section=movies
+  440:
     genre.sync:
       - Science Fiction
       - Thriller
-  440:
     label_title: Aliens vs Predator Requiem
     sort_title: Alien vs. Predator 2
     release_year: '2007'
     url_poster: https://theposterdb.com/api/assets/1219
     tpdb_search: https://theposterdb.com/search?term=Aliens+vs+Predator+Requiem&section=movies
-    genre.sync:
-      - Science Fiction
-      - Thriller
   11497:
+    genre.sync:
+      - Animation
     label_title: All Dogs Go to Heaven
     sort_title: All Dogs Go to Heaven
     release_year: '1989'
     url_poster: https://theposterdb.com/api/assets/20679
     tpdb_search: https://theposterdb.com/search?term=All+Dogs+Go+to+Heaven&section=movies
-    genre.sync:
-      - Animation
   342470:
+    genre.sync:
+      - Drama
     label_title: All the Bright Places
     sort_title: All the Bright Places
     release_year: '2020'
     url_poster: https://theposterdb.com/api/assets/52906
     tpdb_search: https://theposterdb.com/search?term=All+the+Bright+Places&section=movies
-    genre.sync:
-      - Drama
   222936:
+    genre.sync:
+      - Comedy
+      - Drama
     label_title: Aloha
     sort_title: Aloha
     release_year: '2015'
     url_poster: https://theposterdb.com/api/assets/14074
     tpdb_search: https://theposterdb.com/search?term=Aloha&section=movies
-    genre.sync:
-      - Comedy
-      - Drama
   397567:
+    genre.sync:
+      - Action
+      - Fantasy
     label_title: 'Along with the Gods: The Two Worlds'
     sort_title: Along with the Gods 1
     release_year: '2017'
     url_poster: https://theposterdb.com/api/assets/587902
     tpdb_search: https://theposterdb.com/search?term=Along+with+the+Gods:+The+Two+Worlds&section=movies
+  518068:
     genre.sync:
       - Action
       - Fantasy
-  518068:
     label_title: 'Along with the Gods: The Last 49 Days'
     sort_title: Along with the Gods 2
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/587901
     tpdb_search: https://theposterdb.com/search?term=Along+with+the+Gods:+The+Last+49+Days&section=movies
+  1087891:
     genre.sync:
       - Action
-      - Fantasy
-  1087891:
+      - Thriller
     label_title: The Amateur
     sort_title: Amateur
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/584277
     tpdb_search: https://theposterdb.com/search?term=The+Amateur&section=movies
-    genre.sync:
-      - Action
-      - Thriller
   153518:
+    genre.sync:
+      - Animation
     label_title: The Angry Birds Movie
     sort_title: Angry Birds Movie 1
     release_year: '2016'
     url_poster: https://theposterdb.com/api/assets/23355
     tpdb_search: https://theposterdb.com/search?term=The+Angry+Birds+Movie&section=movies
+  454640:
     genre.sync:
       - Animation
-  454640:
     label_title: The Angry Birds Movie 2
     sort_title: Angry Birds Movie 2
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/23356
     tpdb_search: https://theposterdb.com/search?term=The+Angry+Birds+Movie+2&section=movies
-    genre.sync:
-      - Animation
   250546:
+    genre.sync:
+      - Horror
     label_title: Annabelle
     sort_title: Annabelle 1
     release_year: '2014'
     url_poster: https://theposterdb.com/api/assets/23526
     tpdb_search: https://theposterdb.com/search?term=Annabelle&section=movies
+  396422:
     genre.sync:
       - Horror
-  396422:
     label_title: Annabelle Creation
     sort_title: Annabelle 2
     release_year: '2017'
     url_poster: https://theposterdb.com/api/assets/23528
     tpdb_search: https://theposterdb.com/search?term=Annabelle+Creation&section=movies
+  521029:
     genre.sync:
       - Horror
-  521029:
     label_title: Annabelle Comes Home
     sort_title: Annabelle 3
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/23531
     tpdb_search: https://theposterdb.com/search?term=Annabelle+Comes+Home&section=movies
-    genre.sync:
-      - Horror
   300668:
+    genre.sync:
+      - Science Fiction
+      - Thriller
     label_title: Annihilation
     sort_title: Annihilation
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/10249
     tpdb_search: https://theposterdb.com/search?term=Annihilation&section=movies
-    genre.sync:
-      - Science Fiction
-      - Thriller
   1064213:
+    genre.sync:
+      - Drama
     label_title: Anora
     sort_title: Anora
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/562800
     tpdb_search: https://theposterdb.com/search?term=Anora&section=movies
-    genre.sync:
-      - Drama
   102899:
     label_title: Ant-Man
     sort_title: Ant-Man 1
@@ -372,90 +382,90 @@ metadata:
     genre.sync:
       - Superhero
   1118031:
+    genre.sync:
+      - Action
+      - Thriller
     label_title: Apocalypse Z The Beginning of the End
     sort_title: Apocalypse Z The Beginning of the End
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/541036
     tpdb_search: https://theposterdb.com/search?term=Apocalypse+Z+The+Beginning+of+the+End&section=movies
-    genre.sync:
-      - Action
-      - Thriller
   297802:
+    genre.sync:
+      - Superhero
     label_title: Aquaman
     sort_title: Aquaman 1
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/40934
     tpdb_search: https://theposterdb.com/search?term=Aquaman&section=movies
+  572802:
     genre.sync:
       - Superhero
-  572802:
     label_title: Aquaman and the Lost Kingdom
     sort_title: Aquaman 2
     release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/453625
     tpdb_search: https://theposterdb.com/search?term=Aquaman+and+the+Lost+Kingdom&section=movies
-    genre.sync:
-      - Superhero
   14191:
+    genre.sync:
+      - Family
     label_title: Aquamarine
     sort_title: Aquamarine
     release_year: '2006'
     url_poster: https://theposterdb.com/api/assets/631120
     tpdb_search: https://theposterdb.com/search?term=Aquamarine&section=movies
-    genre.sync:
-      - Family
   1051896:
+    genre.sync:
+      - Horror
     label_title: Arcadian
     sort_title: Arcadian
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/487318
     tpdb_search: https://theposterdb.com/search?term=Arcadian&section=movies
+  256274:
     genre.sync:
       - Horror
-  256274:
     label_title: As Above So Below
     sort_title: As Above So Below
     release_year: '2014'
     url_poster: https://theposterdb.com/api/assets/235417
     tpdb_search: https://theposterdb.com/search?term=As+Above+So+Below&section=movies
+  931349:
     genre.sync:
       - Horror
-  931349:
+      - Thriller
     label_title: Ash
     sort_title: Ash
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/596498
     tpdb_search: https://theposterdb.com/search?term=Ash&section=movies
-    genre.sync:
-      - Horror
-      - Thriller
   19995:
+    genre.sync:
+      - Action
+      - Science Fiction
     label_title: Avatar
     sort_title: Avatar 1
     release_year: '2009'
     url_poster: https://theposterdb.com/api/assets/233959
     tpdb_search: https://theposterdb.com/search?term=Avatar&section=movies
+  76600:
     genre.sync:
       - Action
       - Science Fiction
-  76600:
     label_title: 'Avatar: The Way of Water'
     sort_title: Avatar 2
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/233960
     tpdb_search: https://theposterdb.com/search?term=Avatar+The+Way+of+Water&section=movies
+  83533:
     genre.sync:
       - Action
       - Science Fiction
-  83533:
     label_title: 'Avatar: Fire and Ash'
     sort_title: Avatar 3
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/627259
     tpdb_search: https://theposterdb.com/search?term=Avatar+Fire+and+Ash&section=movies
-    genre.sync:
-      - Action
-      - Science Fiction
   24428:
     label_title: The Avengers
     sort_title: Avenvers 1
@@ -502,149 +512,149 @@ metadata:
     genre.sync:
       - Drama
   105:
+    genre.sync:
+      - Science Fiction
     label_title: Back to the Future
     sort_title: Back to the Future 1
     release_year: '1985'
     url_poster: https://theposterdb.com/api/assets/87589
     tpdb_search: https://theposterdb.com/search?term=Back+to+the+Future&section=movies
+  165:
     genre.sync:
       - Science Fiction
-  165:
     label_title: Back to the Future Part II
     sort_title: Back to the Future 2
     release_year: '1989'
     url_poster: https://theposterdb.com/api/assets/87590
     tpdb_search: https://theposterdb.com/search?term=Back+to+the+Future+Part+II&section=movies
+  196:
     genre.sync:
       - Science Fiction
-  196:
     label_title: Back to the Future Part III
     sort_title: Back to the Future 3
     release_year: '1990'
     url_poster: https://theposterdb.com/api/assets/87591
     tpdb_search: https://theposterdb.com/search?term=Back+to+the+Future+Part+III&section=movies
-    genre.sync:
-      - Science Fiction
   31665:
+    genre.sync:
+      - Action
     label_title: Barbarosa
     sort_title: Barbarosa
     release_year: '1982'
     url_poster: https://theposterdb.com/api/assets/236539
     tpdb_search: https://theposterdb.com/search?term=Barbarosa&section=movies
-    genre.sync:
-      - Action
   346698:
+    genre.sync:
+      - Comedy
     label_title: Barbie
     sort_title: Barbie
     release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/419728
     tpdb_search: https://theposterdb.com/search?term=Barbie&section=movies
-    genre.sync:
-      - Comedy
   414906:
+    genre.sync:
+      - Superhero
     label_title: The Batman
     sort_title: Batman
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/185105
     tpdb_search: https://theposterdb.com/search?term=The+Batman&section=movies
+  272:
     genre.sync:
       - Superhero
-  272:
     label_title: Batman Begins
     sort_title: Batman 1
     release_year: '2005'
     url_poster: https://theposterdb.com/api/assets/4791
     tpdb_search: https://theposterdb.com/search?term=Batman+Begins&section=movies
+  155:
     genre.sync:
       - Superhero
-  155:
     label_title: The Dark Knight
     sort_title: Batman 2
     release_year: '2008'
     url_poster: https://theposterdb.com/api/assets/4792
     tpdb_search: https://theposterdb.com/search?term=The+Dark+Knight&section=movies
+  49026:
     genre.sync:
       - Superhero
-  49026:
     label_title: The Dark Knight Rises
     sort_title: Batman 3
     release_year: '2012'
     url_poster: https://theposterdb.com/api/assets/4793
     tpdb_search: https://theposterdb.com/search?term=The+Dark+Knight+Rises&section=movies
-    genre.sync:
-      - Superhero
   1297763:
+    genre.sync:
+      - Anime
     label_title: Batman Ninja vs. Yakuza League
     sort_title: Batman Ninja vs. Yakuza League
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/622055
     tpdb_search: https://theposterdb.com/search?term=Batman+Ninja+vs.+Yakuza+League&section=movies
-    genre.sync:
-      - Anime
   209112:
+    genre.sync:
+      - Superhero
     label_title: Batman v Superman Dawn of Justice
     sort_title: Batman v Superman Dawn of Justice
     release_year: '2016'
     url_poster: https://theposterdb.com/api/assets/40930
     tpdb_search: https://theposterdb.com/search?term=Batman+v+Superman+Dawn+of+Justice&section=movies
-    genre.sync:
-      - Superhero
   441384:
+    genre.sync:
+      - Comedy
     label_title: The Beach Bum
     sort_title: Beach Bum
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/75279
     tpdb_search: https://theposterdb.com/search?term=The+Beach+Bum&section=movies
-    genre.sync:
-      - Comedy
   866398:
+    genre.sync:
+      - Action
     label_title: The Beekeeper
     sort_title: Beekeeper
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/417477
     tpdb_search: https://theposterdb.com/search?term=The+Beekeeper&section=movies
-    genre.sync:
-      - Action
   11806:
+    genre.sync:
+      - Family
     label_title: Beethoven
     sort_title: Beethoven
     release_year: '1992'
     url_poster: https://theposterdb.com/api/assets/575598
     tpdb_search: https://theposterdb.com/search?term=Beethoven&section=movies
-    genre.sync:
-      - Family
   113082:
+    genre.sync:
+      - Anime
     label_title: Berserk The Golden Age Arc I The Egg of the King
     sort_title: Berzerk The Golden Age Arc 1
     release_year: '2012'
     url_poster: https://theposterdb.com/api/assets/182150
     tpdb_search: https://theposterdb.com/search?term=Berserk+The+Golden+Age+Arc+I+The+Egg+of+the+King&section=movies
+  118412:
     genre.sync:
       - Anime
-  118412:
     label_title: Berserk The Golden Age Arc II The Battle for Doldrey
     sort_title: Berzerk The Golden Age Arc 2
     release_year: '2012'
     url_poster: https://theposterdb.com/api/assets/182151
     tpdb_search: https://theposterdb.com/search?term=Berserk+The+Golden+Age+Arc+II+The+Battle+for+Doldrey&section=movies
+  144288:
     genre.sync:
       - Anime
-  144288:
     label_title: Berserk The Golden Age Arc III The Advent
     sort_title: Berzerk The Golden Age Arc 3
     release_year: '2013'
     url_poster: https://theposterdb.com/api/assets/182152
     tpdb_search: https://theposterdb.com/search?term=Berserk+The+Golden+Age+Arc+III+The+Advent&section=movies
-    genre.sync:
-      - Anime
   799766:
+    genre.sync:
+      - Fantasy
     label_title: Better Man
     sort_title: Better Man
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/574285
     tpdb_search: https://theposterdb.com/search?term=Better+Man&section=movies
-    genre.sync:
-      - Fantasy
   177572:
     label_title: Big Hero 6
     sort_title: Big Hero 6
@@ -655,37 +665,37 @@ metadata:
     genre.sync:
       - Animation
   16790:
+    genre.sync:
+      - Family
     label_title: Bingo
     sort_title: Bingo
     release_year: '1991'
     url_poster: https://theposterdb.com/api/assets/627821
     tpdb_search: https://theposterdb.com/search?term=Bingo&section=movies
-    genre.sync:
-      - Family
   495764:
+    genre.sync:
+      - Superhero
     label_title: Birds of Prey and the Fantabulous Emancipation of One Harley Quinn
     sort_title: Birds of Prey and the Fantabulous Emancipation of One Harley Quinn
     release_year: '2020'
     url_poster: https://theposterdb.com/api/assets/72575
     tpdb_search: https://theposterdb.com/search?term=Birds+of+Prey+and+the+Fantabulous+Emancipation+of+One+Harley+Quinn&section=movies
+  436270:
     genre.sync:
       - Superhero
-  436270:
     label_title: Black Adam
     sort_title: Black Adam
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/348372
     tpdb_search: https://theposterdb.com/search?term=Black+Adam&section=movies
-    genre.sync:
-      - Superhero
   1233575:
+    genre.sync:
+      - Action
     label_title: Black Bag
     sort_title: Black Bag
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/588912
     tpdb_search: https://theposterdb.com/search?term=Black+Bag&section=movies
-    genre.sync:
-      - Action
   284054:
     label_title: Black Panther
     sort_title: Black Panther 1
@@ -714,13 +724,13 @@ metadata:
     genre.sync:
       - Superhero
   1016084:
+    genre.sync:
+      - Drama
     label_title: BlackBerry
     sort_title: BlackBerry
     release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/480963
     tpdb_search: https://theposterdb.com/search?term=BlackBerry&section=movies
-    genre.sync:
-      - Drama
   36647:
     label_title: Blade
     sort_title: Blade 1
@@ -749,82 +759,82 @@ metadata:
     genre.sync:
       - Superhero
   78:
+    genre.sync:
+      - Action
+      - Science Fiction
     label_title: Blade Runner
     sort_title: Blade Runner
     release_year: '1982'
     url_poster: https://theposterdb.com/api/assets/247576
     tpdb_search: https://theposterdb.com/search?term=Blade+Runner&section=movies
+  475946:
     genre.sync:
       - Action
       - Science Fiction
-  475946:
     label_title: Blade Runner Black Out 2022
     sort_title: Blade Runner 2022
     release_year: '2017'
     url_poster: https://theposterdb.com/api/assets/247579
     tpdb_search: https://theposterdb.com/search?term=Blade+Runner+Black+Out+2022&section=movies
+  473072:
     genre.sync:
       - Action
       - Science Fiction
-  473072:
     label_title: 2036 Nexus Dawn
     sort_title: Blade Runner 2036
     release_year: '2017'
     url_poster: https://theposterdb.com/api/assets/247577
     tpdb_search: https://theposterdb.com/search?term=2036+Nexus+Dawn&section=movies
+  475759:
     genre.sync:
       - Action
       - Science Fiction
-  475759:
     label_title: 2048 Nowhere to Run
     sort_title: Blade Runner 2048
     release_year: '2017'
     url_poster: https://theposterdb.com/api/assets/247578
     tpdb_search: https://theposterdb.com/search?term=2048+Nowhere+to+Run&section=movies
+  335984:
     genre.sync:
       - Action
       - Science Fiction
-  335984:
     label_title: Blade Runner 2049
     sort_title: Blade Runner 2049
     release_year: '2017'
     url_poster: https://theposterdb.com/api/assets/247580
     tpdb_search: https://theposterdb.com/search?term=Blade+Runner+2049&section=movies
-    genre.sync:
-      - Action
-      - Science Fiction
   840705:
+    genre.sync:
+      - Thriller
     label_title: Blink Twice
     sort_title: Blink Twice
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/526591
     tpdb_search: https://theposterdb.com/search?term=Blink+Twice&section=movies
+  11368:
     genre.sync:
       - Thriller
-  11368:
     label_title: Blood Simple
     sort_title: Blood Simple
     release_year: '1984'
     url_poster: https://theposterdb.com/api/assets/50643
     tpdb_search: https://theposterdb.com/search?term=Blood+Simple&section=movies
-    genre.sync:
-      - Thriller
   565770:
+    genre.sync:
+      - Superhero
     label_title: Blue Beetle
     sort_title: Blue Beetle
     release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/348372
     tpdb_search: https://theposterdb.com/search?term=Blue+Beetle&section=movies
-    genre.sync:
-      - Superhero
   23626:
+    genre.sync:
+      - Comedy
     label_title: Blue Collar Comedy Tour The Movie
     sort_title: Blue Collar Comedy Tour The Movie
     release_year: '2003'
     url_poster: https://theposterdb.com/api/assets/468519
     tpdb_search: https://theposterdb.com/search?term=Blue+Collar+Comedy+Tour+The+Movie&section=movies
-    genre.sync:
-      - Comedy
   520023:
     label_title: Bodies Bodies Bodies
     sort_title: Bodies Bodies Bodies
@@ -835,29 +845,29 @@ metadata:
     genre.sync:
       - Horror
   13053:
+    genre.sync:
+      - Animation
     label_title: Bolt
     sort_title: Bolt
     release_year: '2008'
     url_poster: https://theposterdb.com/api/assets/11833
     tpdb_search: https://theposterdb.com/search?term=Bolt&section=movies
-    genre.sync:
-      - Animation
   197:
+    genre.sync:
+      - Action
     label_title: Braveheart
     sort_title: Braveheart
     release_year: '1995'
     url_poster: https://theposterdb.com/api/assets/59649
     tpdb_search: https://theposterdb.com/search?term=Braveheart&section=movies
-    genre.sync:
-      - Action
   80384:
+    genre.sync:
+      - Comedy
     label_title: Breaking Wind
     sort_title: Breaking Wind
     release_year: '2012'
     url_poster: https://theposterdb.com/api/assets/538400
     tpdb_search: https://theposterdb.com/search?term=Breaking+Wind&section=movies
-    genre.sync:
-      - Comedy
   1151031:
     label_title: Bring Her Back
     sort_title: Bring Her Back
@@ -869,21 +879,21 @@ metadata:
       - Horror
     title: Bring Her Back
   142:
+    genre.sync:
+      - Drama
     label_title: Brokeback Mountain
     sort_title: Brokeback Mountain
     release_year: '2005'
     url_poster: https://theposterdb.com/api/assets/52182
     tpdb_search: https://theposterdb.com/search?term=Brokeback+Mountain&section=movies
+  7445:
     genre.sync:
       - Drama
-  7445:
     label_title: Brothers
     sort_title: Brothers
     release_year: '2009'
     url_poster: https://theposterdb.com/api/assets/92875
     tpdb_search: https://theposterdb.com/search?term=Brothers&section=movies
-    genre.sync:
-      - Drama
   549509:
     label_title: The Brutalist
     sort_title: Brutalist
@@ -948,13 +958,13 @@ metadata:
     genre.sync:
       - Superhero
   1005331:
+    genre.sync:
+      - Thriller
     label_title: Carry-On
     sort_title: Carry-On
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/552016
     tpdb_search: https://theposterdb.com/search?term=Carry-On&section=movies
-    genre.sync:
-      - Thriller
   920:
     label_title: Cars
     sort_title: Cars 1
@@ -1001,188 +1011,188 @@ metadata:
     genre.sync:
       - Anime
   640:
+    genre.sync:
+      - Comedy
+      - Thriller
     label_title: Catch Me If You Can
     sort_title: Catch Me If You Can
     release_year: '2002'
     url_poster: https://theposterdb.com/api/assets/573337
     tpdb_search: https://theposterdb.com/search?term=Catch+Me+If+You+Can&section=movies
-    genre.sync:
-      - Comedy
-      - Thriller
   937287:
+    genre.sync:
+      - Drama
     label_title: Challengers
     sort_title: Challengers
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/493908
     tpdb_search: https://theposterdb.com/search?term=Challengers&section=movies
-    genre.sync:
-      - Drama
   7191:
+    genre.sync:
+      - Action
+      - Science Fiction
     label_title: Cloverfield
     sort_title: Cloverfield 1
     release_year: '2008'
     url_poster: https://theposterdb.com/api/assets/80491
     tpdb_search: https://theposterdb.com/search?term=Cloverfield&section=movies
+  333371:
     genre.sync:
       - Action
       - Science Fiction
-  333371:
     label_title: 10 Cloverfield Lane
     sort_title: Cloverfield 2
     release_year: 2016
     url_poster: https://theposterdb.com/api/assets/80492
     tpdb_search: https://theposterdb.com/search?term=10+Cloverfield+Lane&section=movies
+  384521:
     genre.sync:
       - Action
       - Science Fiction
-  384521:
     label_title: The Cloverfield Paradox
     sort_title: Cloverfield 3
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/80493
     tpdb_search: https://theposterdb.com/search?term=The+Cloverfield+Paradox&section=movies
-    genre.sync:
-      - Action
-      - Science Fiction
   713364:
+    genre.sync:
+      - Horror
     label_title: Clown in a Cornfield
     sort_title: Clown in a Cornfield
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/603803
     tpdb_search: https://theposterdb.com/search?term=Clown+in+a+Cornfield&section=movies
+  1084199:
     genre.sync:
       - Horror
-  1084199:
     label_title: Companion
     sort_title: Companion
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/564477
     tpdb_search: https://theposterdb.com/search?term=Companion&section=movies
-    genre.sync:
-      - Horror
   661539:
+    genre.sync:
+      - Drama
     label_title: A Complete Unknown
     sort_title: Complete Unknown
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/576004
     tpdb_search: https://theposterdb.com/search?term=A+Complete+Unknown&section=movies
-    genre.sync:
-      - Drama
   974576:
+    genre.sync:
+      - Thriller
     label_title: Conclave
     sort_title: Conclave
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/572333
     tpdb_search: https://theposterdb.com/search?term=Conclave&section=movies
-    genre.sync:
-      - Thriller
   138843:
+    genre.sync:
+      - Horror
     label_title: The Conjuring
     sort_title: Conjuring 1
     release_year: '2013'
     url_poster: https://theposterdb.com/api/assets/23525
     tpdb_search: https://theposterdb.com/search?term=The+Conjuring&section=movies
+  259693:
     genre.sync:
       - Horror
-  259693:
     label_title: The Conjuring 2
     sort_title: Conjuring 2
     release_year: '2016'
     url_poster: https://theposterdb.com/api/assets/23527
     tpdb_search: https://theposterdb.com/search?term=The+Conjuring+2&section=movies
+  423108:
     genre.sync:
       - Horror
-  423108:
     label_title: The Conjuring The Devil Made Me Do It
     sort_title: Conjuring 3
     release_year: '2021'
     url_poster: https://theposterdb.com/api/assets/156035
     tpdb_search: https://theposterdb.com/search?term=The+Conjuring+The+Devil+Made+Me+Do+It&section=movies
-    genre.sync:
-      - Horror
   14836:
+    genre.sync:
+      - Animation
     label_title: Coraline
     sort_title: Coraline
     release_year: '2009'
     url_poster: https://theposterdb.com/api/assets/12034
     tpdb_search: https://theposterdb.com/search?term=Coraline&section=movies
-    genre.sync:
-      - Animation
   957452:
+    genre.sync:
+      - Action
+      - Fantasy
     label_title: The Crow
     sort_title: Crow
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/467051
     tpdb_search: https://theposterdb.com/search?term=The+Crow&section=movies
-    genre.sync:
-      - Action
-      - Fantasy
   869291:
+    genre.sync:
+      - Horror
     label_title: Cuckoo
     sort_title: Cuckoo
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/600771
     tpdb_search: https://theposterdb.com/search?term=Cuckoo&section=movies
+  480414:
     genre.sync:
       - Horror
-  480414:
     label_title: The Curse of La Llorona
     sort_title: Curse of La Llorona
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/23530
     tpdb_search: https://theposterdb.com/search?term=The+Curse+of+La+Llorona&section=movies
+  1089123:
     genre.sync:
       - Horror
-  1089123:
     label_title: Daddys Head
     sort_title: Daddys Head
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/588743
     tpdb_search: https://theposterdb.com/search?term=Daddys+Head&section=movies
+  850439:
     genre.sync:
       - Horror
-  850439:
     label_title: The Damned
     sort_title: Damned
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/563277
     tpdb_search: https://theposterdb.com/search?term=The+Damned&section=movies
+  1285965:
     genre.sync:
       - Horror
-  1285965:
+      - Thriller
     label_title: Dangerous Animals
     sort_title: Dangerous Animals
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/627539
     tpdb_search: https://theposterdb.com/search?term=Dangerous+Animals&section=movies
-    genre.sync:
-      - Horror
-      - Thriller
   552178:
+    genre.sync:
+      - Drama
     label_title: Dark Waters
     sort_title: Dark Waters
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/51804
     tpdb_search: https://theposterdb.com/search?term=Dark+Waters&section=movies
-    genre.sync:
-      - Drama
   9571:
+    genre.sync:
+      - Comedy
     label_title: Dazed and Confused
     sort_title: Dazed and Confused
     release_year: '1993'
     url_poster: https://theposterdb.com/api/assets/490993
     tpdb_search: https://theposterdb.com/search?term=Dazed+and+Confused&section=movies
+  1006724:
     genre.sync:
       - Comedy
-  1006724:
+      - Horror
     label_title: Dead Talents Society
     sort_title: Dead Talents Society
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/591454
     tpdb_search: https://theposterdb.com/search?term=Dead+Talents+Society&section=movies
-    genre.sync:
-      - Comedy
-      - Horror
   293660:
     label_title: Deadpool
     sort_title: Deadpool 1
@@ -1221,13 +1231,13 @@ metadata:
       - Horror
     title: Death of a Unicorn
   635302:
+    genre.sync:
+      - Anime
     label_title: Demon Slayer -Kimetsu no Yaiba- The Movie Mugen Train
     sort_title: Demon Slayer -Kimetsu no Yaiba- The Movie Mugen Train
     release_year: '2020'
     url_poster: https://theposterdb.com/api/assets/418263
     tpdb_search: https://theposterdb.com/search?term=Demon+Slayer+-Kimetsu+no+Yaiba-+The+Movie+Mugen+Train&section=movies
-    genre.sync:
-      - Anime
   20352:
     label_title: Despicable Me
     sort_title: Despicable Me 1
@@ -1265,30 +1275,30 @@ metadata:
     genre.sync:
       - Animation
   82685:
+    genre.sync:
+      - Comedy
     label_title: Division III Footballs Finest
     sort_title: Division III Footballs Finest
     release_year: '2011'
     url_poster: https://theposterdb.com/api/assets/594672
     tpdb_search: https://theposterdb.com/search?term=Division+III+Footballs+Finest&section=movies
-    genre.sync:
-      - Comedy
   68718:
+    genre.sync:
+      - Action
+      - Drama
     label_title: Django Unchained
     sort_title: Django Unchained
     release_year: '2012'
     url_poster: https://theposterdb.com/api/assets/109603
     tpdb_search: https://theposterdb.com/search?term=Django+Unchained&section=movies
-    genre.sync:
-      - Action
-      - Drama
   501170:
+    genre.sync:
+      - Horror
     label_title: Doctor Sleep
     sort_title: Doctor Sleep
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/32303
     tpdb_search: https://theposterdb.com/search?term=Doctor+Sleep&section=movies
-    genre.sync:
-      - Horror
   284052:
     label_title: Doctor Strange
     sort_title: Doctor Strange 1
@@ -1308,127 +1318,127 @@ metadata:
     genre.sync:
       - Superhero
   141:
+    genre.sync:
+      - Thriller
     label_title: Donnie Darko
     sort_title: Donnie Darko 1
     release_year: '2001'
     url_poster: https://theposterdb.com/api/assets/128287
     tpdb_search: https://theposterdb.com/search?term=Donnie+Darko&section=movies
+  17532:
     genre.sync:
       - Thriller
-  17532:
     label_title: S. Darko
     sort_title: Donnie Darko 2
     release_year: '2009'
     url_poster: https://theposterdb.com/api/assets/128288
     tpdb_search: https://theposterdb.com/search?term=S.+Darko&section=movies
-    genre.sync:
-      - Thriller
   300669:
+    genre.sync:
+      - Horror
     label_title: Dont Breathe
     sort_title: Dont Breathe 1
     release_year: '2016'
     url_poster: https://theposterdb.com/api/assets/168638
     tpdb_search: https://theposterdb.com/search?term=Dont+Breathe&section=movies
+  482373:
     genre.sync:
       - Horror
-  482373:
     label_title: Dont Breathe 2
     sort_title: Dont Breathe 2
     release_year: '2021'
     url_poster: https://theposterdb.com/api/assets/168639
     tpdb_search: https://theposterdb.com/search?term=Dont+Breathe+2&section=movies
-    genre.sync:
-      - Horror
   606278:
+    genre.sync:
+      - Documentary
     label_title: Dosed
     sort_title: Dosed 1
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/88430
     tpdb_search: https://theposterdb.com/search?term=Dosed&section=movies
+  1010253:
     genre.sync:
       - Documentary
-  1010253:
     label_title: Dosed 2 The Trip of a Lifetime
     sort_title: Dosed 2
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/598011
     tpdb_search: https://theposterdb.com/search?term=Dosed+2+The+Trip+of+a+Lifetime&section=movies
-    genre.sync:
-      - Documentary
   438631:
+    genre.sync:
+      - Science Fiction
     label_title: Dune
     sort_title: Dune 1
     release_year: '2021'
     url_poster: https://theposterdb.com/api/assets/478770
     tpdb_search: https://theposterdb.com/search?term=Dune&section=movies
+  693134:
     genre.sync:
       - Science Fiction
-  693134:
     label_title: Dune Part Two
     sort_title: Dune 2
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/478769
     tpdb_search: https://theposterdb.com/search?term=Dune+Part+Two&section=movies
-    genre.sync:
-      - Science Fiction
   493529:
+    genre.sync:
+      - Action
+      - Comedy
+      - Fantasy
     label_title: Dungeons and Dragons Honor Among Thieves
     sort_title: Dungeons and Dragons Honor Among Thieves
     release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/359562
     tpdb_search: https://theposterdb.com/search?term=Dungeons+and+Dragons+Honor+Among+Thieves&section=movies
-    genre.sync:
-      - Action
-      - Comedy
-      - Fantasy
   81379:
+    genre.sync:
+      - Family
     label_title: Durango Kids
     sort_title: Durango Kids
     release_year: '1999'
     url_poster: https://theposterdb.com/api/assets/631116
     tpdb_search: https://theposterdb.com/search?term=Durango+Kids&section=movies
-    genre.sync:
-      - Family
   559969:
+    genre.sync:
+      - Drama
     label_title: El Camino A Breaking Bad Movie
     sort_title: El Camino A Breaking Bad Movie
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/20287
     tpdb_search: https://theposterdb.com/search?term=El+Camino+A+Breaking+Bad+Movie&section=movies
-    genre.sync:
-      - Drama
   777443:
+    genre.sync:
+      - Science Fiction
     label_title: The Electric State
     sort_title: Electric State
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/577408
     tpdb_search: https://theposterdb.com/search?term=The+Electric+State&section=movies
-    genre.sync:
-      - Science Fiction
   156022:
+    genre.sync:
+      - Action
     label_title: The Equalizer
     sort_title: Equalizer 1
     release_year: '2014'
     url_poster: https://theposterdb.com/api/assets/131878
     tpdb_search: https://theposterdb.com/search?term=The+Equalizer&section=movies
+  345887:
     genre.sync:
       - Action
-  345887:
     label_title: The Equalizer 2
     sort_title: Equalizer 2
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/131879
     tpdb_search: https://theposterdb.com/search?term=The+Equalizer+2&section=movies
+  926393:
     genre.sync:
       - Action
-  926393:
     label_title: The Equalizer 3
     sort_title: Equalizer 3
     release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/422215
     tpdb_search: https://theposterdb.com/search?term=The+Equalizer+3&section=movies
-    genre.sync:
-      - Action
   524434:
     label_title: Eternals
     sort_title: Eternals
@@ -1439,37 +1449,37 @@ metadata:
     genre.sync:
       - Superhero
   15137:
+    genre.sync:
+      - Anime
     label_title: 'Evangelion: 1.0 You Are (Not) Alone'
     sort_title: Evangelion Rebuild 1
     release_year: '2007'
     url_poster: https://theposterdb.com/api/assets/168848
     tpdb_search: https://theposterdb.com/search?term=Evangelion:+1.0+You+Are+(Not)+Alone&section=movies
+  22843:
     genre.sync:
       - Anime
-  22843:
     label_title: 'Evangelion: 2.0 You Can (Not) Advance'
     sort_title: Evangelion Rebuild 2
     release_year: '2009'
     url_poster: https://theposterdb.com/api/assets/168849
     tpdb_search: https://theposterdb.com/search?term=Evangelion:+2.0+You+Can+(Not)+Advance&section=movies
+  75629:
     genre.sync:
       - Anime
-  75629:
     label_title: 'Evangelion: 3.0 You Can (Not) Redo'
     sort_title: Evangelion Rebuild 3
     release_year: '2012'
     url_poster: https://theposterdb.com/api/assets/168850
     tpdb_search: https://theposterdb.com/search?term=Evangelion:+3.0+You+Can+(Not)+Redo&section=movies
+  283566:
     genre.sync:
       - Anime
-  283566:
     label_title: 'Evangelion: 3.0+1.0 Thrice Upon a Time'
     sort_title: Evangelion Rebuild 4
     release_year: '2021'
     url_poster: https://theposterdb.com/api/assets/168851
     tpdb_search: https://theposterdb.com/search?term=Evangelion:+3.0+1.0+Thrice+Upon+a+Time&section=movies
-    genre.sync:
-      - Anime
   545611:
     label_title: Everything Everywhere All at Once
     sort_title: Everything Everywhere All at Once
@@ -1481,46 +1491,46 @@ metadata:
       - Action
       - Science Fiction
   1233069:
+    genre.sync:
+      - Thriller
     label_title: Exterritorial
     sort_title: Exterritorial
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/599438
     tpdb_search: https://theposterdb.com/search?term=Exterritorial&section=movies
-    genre.sync:
-      - Thriller
   746036:
+    genre.sync:
+      - Action
+      - Comedy
     label_title: The Fall Guy
     sort_title: Fall Guy
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/489533
     tpdb_search: https://theposterdb.com/search?term=The+Fall+Guy&section=movies
-    genre.sync:
-      - Action
-      - Comedy
   259316:
+    genre.sync:
+      - Fantasy
     label_title: Fantastic Beasts and Where to Find Them
     sort_title: Fantastic Beasts and Where to Find Them 1
     release_year: '2016'
     url_poster: https://theposterdb.com/api/assets/217953
     tpdb_search: https://theposterdb.com/search?term=Fantastic+Beasts+and+Where+to+Find+Them&section=movies
+  338952:
     genre.sync:
       - Fantasy
-  338952:
     label_title: Fantastic Beasts The Crimes of Grindelwald
     sort_title: Fantastic Beasts and Where to Find Them 2
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/217954
     tpdb_search: https://theposterdb.com/search?term=Fantastic+Beasts+The+Crimes+of+Grindelwald&section=movies
+  338953:
     genre.sync:
       - Fantasy
-  338953:
     label_title: Fantastic Beasts The Secrets of Dumbledore
     sort_title: Fantastic Beasts and Where to Find Them 3
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/217955
     tpdb_search: https://theposterdb.com/search?term=Fantastic+Beasts+The+Secrets+of+Dumbledore&section=movies
-    genre.sync:
-      - Fantasy
   22059:
     label_title: The Fantastic Four
     sort_title: Fantastic Four 1
@@ -1558,107 +1568,107 @@ metadata:
     genre.sync:
       - Superhero
   591273:
+    genre.sync:
+      - Horror
     label_title: Fear Street 1994
     sort_title: Fear Street 1
     release_year: '2021'
     url_poster: https://theposterdb.com/api/assets/598984
     tpdb_search: https://theposterdb.com/search?term=Fear+Street+1994&section=movies
+  591274:
     genre.sync:
       - Horror
-  591274:
     label_title: Fear Street 1978
     sort_title: Fear Street 2
     release_year: '2021'
     url_poster: https://theposterdb.com/api/assets/598983
     tpdb_search: https://theposterdb.com/search?term=Fear+Street+1978&section=movies
+  591275:
     genre.sync:
       - Horror
-  591275:
     label_title: Fear Street 1666
     sort_title: Fear Street 3
     release_year: '2021'
     url_poster: https://theposterdb.com/api/assets/598982
     tpdb_search: https://theposterdb.com/search?term=Fear+Street+1666&section=movies
+  1001414:
     genre.sync:
       - Horror
-  1001414:
     label_title: Fear Street Prom Queen
     sort_title: Fear Street 4
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/598985
     tpdb_search: https://theposterdb.com/search?term=Fear+Street+Prom+Queen&section=movies
-    genre.sync:
-      - Horror
   550:
+    genre.sync:
+      - Thriller
     label_title: Fight Club
     sort_title: Fight Club
     release_year: '1999'
     url_poster: https://theposterdb.com/api/assets/64093
     tpdb_search: https://theposterdb.com/search?term=Fight+Club&section=movies
-    genre.sync:
-      - Thriller
   1212855:
+    genre.sync:
+      - Action
     label_title: Fight or Flight
     sort_title: Fight or Flight
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/597408
     tpdb_search: https://theposterdb.com/search?term=Fight+or+Flight&section=movies
-    genre.sync:
-      - Action
   9532:
+    genre.sync:
+      - Horror
+      - Thriller
     label_title: Final Destination
     sort_title: Final Destination 1
     release_year: '2000'
     url_poster: https://theposterdb.com/api/assets/568759
     tpdb_search: https://theposterdb.com/search?term=Final+Destination&section=movies
+  9358:
     genre.sync:
       - Horror
       - Thriller
-  9358:
     label_title: Final Destination 2
     sort_title: Final Destination 2
     release_year: '2003'
     url_poster: https://theposterdb.com/api/assets/568758
     tpdb_search: https://theposterdb.com/search?term=Final+Destination+2&section=movies
+  9286:
     genre.sync:
       - Horror
       - Thriller
-  9286:
     label_title: Final Destination 3
     sort_title: Final Destination 3
     release_year: '2006'
     url_poster: https://theposterdb.com/api/assets/568757
     tpdb_search: https://theposterdb.com/search?term=Final+Destination+3&section=movies
+  19912:
     genre.sync:
       - Horror
       - Thriller
-  19912:
     label_title: The Final Destination
     sort_title: Final Destination 4
     release_year: '2009'
     url_poster: https://theposterdb.com/api/assets/568756
     tpdb_search: https://theposterdb.com/search?term=The+Final+Destination&section=movies
+  55779:
     genre.sync:
       - Horror
       - Thriller
-  55779:
     label_title: Final Destination 5
     sort_title: Final Destination 5
     release_year: '2011'
     url_poster: https://theposterdb.com/api/assets/568755
     tpdb_search: https://theposterdb.com/search?term=Final+Destination+5&section=movies
+  574475:
     genre.sync:
       - Horror
       - Thriller
-  574475:
     label_title: Final Destination Bloodlines
     sort_title: Final Destination 6
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/568754
     tpdb_search: https://theposterdb.com/search?term=Final+Destination+Bloodlines&section=movies
-    genre.sync:
-      - Horror
-      - Thriller
   12:
     label_title: Finding Nemo
     sort_title: Finding Nemo 1
@@ -1678,45 +1688,45 @@ metadata:
     genre.sync:
       - Animation
   298618:
+    genre.sync:
+      - Superhero
     label_title: The Flash
     sort_title: Flash
     release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/427021
     tpdb_search: https://theposterdb.com/search?term=The+Flash&section=movies
-    genre.sync:
-      - Superhero
   522406:
+    genre.sync:
+      - Thriller
     label_title: Flashback
     sort_title: Flashback
     release_year: '2020'
     url_poster: https://theposterdb.com/api/assets/507520
     tpdb_search: https://theposterdb.com/search?term=Flashback&section=movies
+  1126166:
     genre.sync:
       - Thriller
-  1126166:
     label_title: Flight Risk
     sort_title: Flight Risk
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/573854
     tpdb_search: https://theposterdb.com/search?term=Flight+Risk&section=movies
-    genre.sync:
-      - Thriller
   823219:
+    genre.sync:
+      - Animation
     label_title: Flow
     sort_title: Flow
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/553136
     tpdb_search: https://theposterdb.com/search?term=Flow&section=movies
-    genre.sync:
-      - Animation
   488623:
+    genre.sync:
+      - Thriller
     label_title: Forgotten
     sort_title: Forgotten
     release_year: '2017'
     url_poster: https://theposterdb.com/api/assets/170360
     tpdb_search: https://theposterdb.com/search?term=Forgotten&section=movies
-    genre.sync:
-      - Thriller
   13:
     genre.sync:
       - Comedy
@@ -1724,29 +1734,29 @@ metadata:
     sort_title: Forrest Gump
     url_poster: https://theposterdb.com/api/assets/487271
   1098006:
+    genre.sync:
+      - Action
     label_title: Fountain of Youth
     sort_title: Fountain of Youth
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/607168
     tpdb_search: https://theposterdb.com/search?term=Fountain+of+Youth&section=movies
-    genre.sync:
-      - Action
   10330:
+    genre.sync:
+      - Family
     label_title: Freaky Friday
     sort_title: Freaky Friday 1
     release_year: '2003'
     url_poster: https://theposterdb.com/api/assets/588889
     tpdb_search: https://theposterdb.com/search?term=Freaky+Friday&section=movies
+  1125257:
     genre.sync:
       - Family
-  1125257:
     label_title: Freakier Friday
     sort_title: Freaky Friday 2
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/588888
     tpdb_search: https://theposterdb.com/search?term=Freaky+Friday&section=movies
-    genre.sync:
-      - Family
   1239655:
     label_title: Friendship
     sort_title: Friendship
@@ -1757,176 +1767,176 @@ metadata:
     genre.sync:
       - Comedy
   228150:
+    genre.sync:
+      - Action
     label_title: Fury
     sort_title: Fury
     release_year: '2014'
     url_poster: https://theposterdb.com/api/assets/254590
     tpdb_search: https://theposterdb.com/search?term=Fury&section=movies
+  1045938:
     genre.sync:
       - Action
-  1045938:
     label_title: G20
     sort_title: G20
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/592849
     tpdb_search: https://theposterdb.com/search?term=G20&section=movies
+  522627:
     genre.sync:
       - Action
-  522627:
+      - Comedy
     label_title: The Gentlemen
     sort_title: Gentlemen
     release_year: '2020'
     url_poster: https://theposterdb.com/api/assets/80252
     tpdb_search: https://theposterdb.com/search?term=The+Gentlemen&section=movies
-    genre.sync:
-      - Action
-      - Comedy
   419430:
+    genre.sync:
+      - Horror
+      - Thriller
     label_title: Get Out
     sort_title: Get Out
     release_year: '2017'
     url_poster: https://theposterdb.com/api/assets/256813
     tpdb_search: https://theposterdb.com/search?term=Get+Out&section=movies
-    genre.sync:
-      - Horror
-      - Thriller
   98:
+    genre.sync:
+      - Action
     label_title: Gladiator
     sort_title: Gladiator 1
     release_year: '2000'
     url_poster: https://theposterdb.com/api/assets/536336
     tpdb_search: https://theposterdb.com/search?term=Gladiator&section=movies
+  558449:
     genre.sync:
       - Action
-  558449:
     label_title: Gladiator II
     sort_title: Gladiator 2
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/536335
     tpdb_search: https://theposterdb.com/search?term=Gladiator+II&section=movies
+  450465:
     genre.sync:
       - Action
-  450465:
     label_title: Glass
     sort_title: Glass
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/569189
     tpdb_search: https://theposterdb.com/search?term=Glass&section=movies
-    genre.sync:
-      - Action
   9665:
+    genre.sync:
+      - Drama
     label_title: Glory
     sort_title: Glory
     release_year: '1989'
     url_poster: https://theposterdb.com/api/assets/75471
     tpdb_search: https://theposterdb.com/search?term=Glory&section=movies
-    genre.sync:
-      - Drama
   238:
+    genre.sync:
+      - Action
+      - Drama
     label_title: The Godfather
     sort_title: Godfather 1
     release_year: '1972'
     url_poster: https://theposterdb.com/api/assets/8935
     tpdb_search: https://theposterdb.com/search?term=The+Godfather&section=movies
+  240:
     genre.sync:
       - Action
       - Drama
-  240:
     label_title: The Godfather Part II
     sort_title: Godfather 2
     release_year: '1974'
     url_poster: https://theposterdb.com/api/assets/8936
     tpdb_search: https://theposterdb.com/search?term=The+Godfather+Part+II&section=movies
+  242:
     genre.sync:
       - Action
       - Drama
-  242:
     label_title: The Godfather Part III
     sort_title: Godfather 3
     release_year: '1990'
     url_poster: https://theposterdb.com/api/assets/8937
     tpdb_search: https://theposterdb.com/search?term=The+Godfather+Part+III&section=movies
+  124905:
     genre.sync:
       - Action
-      - Drama
-  124905:
+      - Science Fiction
     label_title: Godzilla
     sort_title: Godzilla 1
     release_year: '2014'
     url_poster: https://theposterdb.com/api/assets/478508
     tpdb_search: https://theposterdb.com/search?term=Godzilla&section=movies
+  373571:
     genre.sync:
       - Action
       - Science Fiction
-  373571:
     label_title: Godzilla King of the Monsters
     sort_title: Godzilla 2
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/478506
     tpdb_search: https://theposterdb.com/search?term=Godzilla+King+of+the+Monsters&section=movies
+  940721:
     genre.sync:
       - Action
       - Science Fiction
-  940721:
     label_title: Godzilla Minus One
     sort_title: Godzilla Minus One
     release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/486391
     tpdb_search: https://theposterdb.com/search?term=Godzilla+Minus+One&section=movies
+  399566:
     genre.sync:
       - Action
       - Science Fiction
-  399566:
     label_title: Godzilla vs. Kong
     sort_title: Godzilla vs. Kong 1
     release_year: '2021'
     url_poster: https://theposterdb.com/api/assets/478505
     tpdb_search: https://theposterdb.com/search?term=Godzilla+vs.+Kong&section=movies
+  823464:
     genre.sync:
       - Action
       - Science Fiction
-  823464:
     label_title: Godzilla x Kong The New Empire
     sort_title: Godzilla vs. Kong 2
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/478504
     tpdb_search: https://theposterdb.com/search?term=Godzilla+x+Kong+The+New+Empire&section=movies
-    genre.sync:
-      - Action
-      - Science Fiction
   284303:
+    genre.sync:
+      - Horror
     label_title: Goodnight Mommy
     sort_title: Goodnight Mommy
     release_year: '2014'
     url_poster: https://theposterdb.com/api/assets/185090
     tpdb_search: https://theposterdb.com/search?term=Goodnight+Mommy&section=movies
+  814800:
     genre.sync:
       - Horror
-  814800:
     label_title: Goodnight Mommy
     sort_title: Goodnight Mommy
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/267073
     tpdb_search: https://theposterdb.com/search?term=Goodnight+Mommy&section=movies
-    genre.sync:
-      - Horror
   950396:
+    genre.sync:
+      - Action
+      - Thriller
     label_title: The Gorge
     sort_title: Gorge
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/562720
     tpdb_search: https://theposterdb.com/search?term=The+Gorge&section=movies
-    genre.sync:
-      - Action
-      - Thriller
   70476:
+    genre.sync:
+      - Drama
     label_title: Gracies Choice
     sort_title: Gracies Choice
     release_year: '2004'
     url_poster: https://theposterdb.com/api/assets/603985
     tpdb_search: https://theposterdb.com/search?term=Gracies+Choice&section=movies
-    genre.sync:
-      - Drama
   118340:
     label_title: Guardians of the Galaxy
     sort_title: Guardians of the Galaxy 1
@@ -1964,256 +1974,256 @@ metadata:
     genre.sync:
       - Superhero
   324786:
+    genre.sync:
+      - Action
     label_title: Hacksaw Ridge
     sort_title: Hacksaw Ridge
     release_year: '2016'
     url_poster: https://theposterdb.com/api/assets/40137
     tpdb_search: https://theposterdb.com/search?term=Hacksaw+Ridge&section=movies
-    genre.sync:
-      - Action
   9614:
+    genre.sync:
+      - Comedy
     label_title: Happy Gilmore
     sort_title: Happy Gilmore 1
     release_year: '1996'
     url_poster: https://theposterdb.com/api/assets/628365
     tpdb_search: https://theposterdb.com/search?term=Happy+Gilmore&section=movies
+  1263256:
     genre.sync:
       - Comedy
-  1263256:
     label_title: Happy Gilmore 2
     sort_title: Happy Gilmore 2
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/628364
     tpdb_search: https://theposterdb.com/search?term=Happy+Gilmore+2&section=movies
-    genre.sync:
-      - Comedy
   671:
+    genre.sync:
+      - Fantasy
     label_title: Harry Potter and the Philosophers Stone
     sort_title: Harry Potter 1
     release_year: '2001'
     url_poster: https://theposterdb.com/api/assets/218029
     tpdb_search: https://theposterdb.com/search?term=Harry+Potter+and+the+Philosophers+Stone&section=movies
+  672:
     genre.sync:
       - Fantasy
-  672:
     label_title: Harry Potter and the Chamber of Secrets
     sort_title: Harry Potter 2
     release_year: '2002'
     url_poster: https://theposterdb.com/api/assets/218030
     tpdb_search: https://theposterdb.com/search?term=Harry+Potter+and+the+Chamber+of+Secrets&section=movies
+  673:
     genre.sync:
       - Fantasy
-  673:
     label_title: Harry Potter and the Prisoner of Azkaban
     sort_title: Harry Potter 3
     release_year: '2004'
     url_poster: https://theposterdb.com/api/assets/218031
     tpdb_search: https://theposterdb.com/search?term=Harry+Potter+and+the+Prisoner+of+Azkaban&section=movies
+  674:
     genre.sync:
       - Fantasy
-  674:
     label_title: Harry Potter and the Goblet of Fire
     sort_title: Harry Potter 4
     release_year: '2005'
     url_poster: https://theposterdb.com/api/assets/218032
     tpdb_search: https://theposterdb.com/search?term=Harry+Potter+and+the+Goblet+of+Fire&section=movies
+  675:
     genre.sync:
       - Fantasy
-  675:
     label_title: Harry Potter and the Order of the Phoenix
     sort_title: Harry Potter 5
     release_year: '2007'
     url_poster: https://theposterdb.com/api/assets/218033
     tpdb_search: https://theposterdb.com/search?term=Harry+Potter+and+the+Order+of+the+Phoenix&section=movies
+  767:
     genre.sync:
       - Fantasy
-  767:
     label_title: Harry Potter and the Half-Blood Prince
     sort_title: Harry Potter 6
     release_year: '2009'
     url_poster: https://theposterdb.com/api/assets/218034
     tpdb_search: https://theposterdb.com/search?term=Harry+Potter+and+the+Half-Blood+Prince&section=movies
+  12444:
     genre.sync:
       - Fantasy
-  12444:
     label_title: Harry Potter and the Deathly Hallows Part 1
     sort_title: Harry Potter 7
     release_year: '2010'
     url_poster: https://theposterdb.com/api/assets/218035
     tpdb_search: https://theposterdb.com/search?term=Harry+Potter+and+the+Deathly+Hallows+Part+1&section=movies
+  12445:
     genre.sync:
       - Fantasy
-  12445:
     label_title: Harry Potter and the Deathly Hallows Part 2
     sort_title: Harry Potter 8
     release_year: '2011'
     url_poster: https://theposterdb.com/api/assets/218036
     tpdb_search: https://theposterdb.com/search?term=Harry+Potter+and+the+Deathly+Hallows+Part+2&section=movies
-    genre.sync:
-      - Fantasy
   668489:
+    genre.sync:
+      - Action
     label_title: Havoc
     sort_title: Havoc
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/597265
     tpdb_search: https://theposterdb.com/search?term=Havoc&section=movies
-    genre.sync:
-      - Action
   1302916:
+    genre.sync:
+      - Horror
     label_title: Heart Eyes
     sort_title: Heart Eyes
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/580272
     tpdb_search: https://theposterdb.com/search?term=Heart+Eyes&section=movies
+  9003:
     genre.sync:
       - Horror
-  9003:
+      - Thriller
     label_title: Hellraiser
     sort_title: Hellraiser 1
     release_year: '1987'
     url_poster: https://theposterdb.com/api/assets/402700
     tpdb_search: https://theposterdb.com/search?term=Hellraiser&section=movies
+  9064:
     genre.sync:
       - Horror
       - Thriller
-  9064:
     label_title: Hellbound Hellraiser II
     sort_title: Hellraiser 2
     release_year: '1988'
     url_poster: https://theposterdb.com/api/assets/402701
     tpdb_search: https://theposterdb.com/search?term=Hellbound+Hellraiser+II&section=movies
+  11569:
     genre.sync:
       - Horror
       - Thriller
-  11569:
     label_title: Hellraiser III Hell on Earth
     sort_title: Hellraiser 3
     release_year: '1992'
     url_poster: https://theposterdb.com/api/assets/402702
     tpdb_search: https://theposterdb.com/search?term=Hellraiser+III+Hell+on+Earth&section=movies
+  8766:
     genre.sync:
       - Horror
       - Thriller
-  8766:
     label_title: Hellraiser Bloodline
     sort_title: Hellraiser 4
     release_year: '1996'
     url_poster: https://theposterdb.com/api/assets/402703
     tpdb_search: https://theposterdb.com/search?term=Hellraiser+Bloodline&section=movies
+  12597:
     genre.sync:
       - Horror
       - Thriller
-  12597:
     label_title: Hellraiser Inferno
     sort_title: Hellraiser 5
     release_year: '2000'
     url_poster: https://theposterdb.com/api/assets/402704
     tpdb_search: https://theposterdb.com/search?term=Hellraiser+Inferno&section=movies
+  11246:
     genre.sync:
       - Horror
       - Thriller
-  11246:
     label_title: Hellraiser Hellseeker
     sort_title: Hellraiser 6
     release_year: '2002'
     url_poster: https://theposterdb.com/api/assets/402705
     tpdb_search: https://theposterdb.com/search?term=Hellraiser+Hellseeker&section=movies
+  17455:
     genre.sync:
       - Horror
       - Thriller
-  17455:
     label_title: Hellraiser Deader
     sort_title: Hellraiser 7
     release_year: '2005'
     url_poster: https://theposterdb.com/api/assets/402706
     tpdb_search: https://theposterdb.com/search?term=Hellraiser+Deader&section=movies
+  12699:
     genre.sync:
       - Horror
       - Thriller
-  12699:
     label_title: Hellraiser Hellworld
     sort_title: Hellraiser 8
     release_year: '2005'
     url_poster: https://theposterdb.com/api/assets/402707
     tpdb_search: https://theposterdb.com/search?term=Hellraiser+Hellworld&section=movies
+  70584:
     genre.sync:
       - Horror
       - Thriller
-  70584:
     label_title: Hellraiser Revelations
     sort_title: Hellraiser 9
     release_year: '2011'
     url_poster: https://theposterdb.com/api/assets/402708
     tpdb_search: https://theposterdb.com/search?term=Hellraiser+Revelations&section=movies
+  444149:
     genre.sync:
       - Horror
       - Thriller
-  444149:
     label_title: Hellraiser Judgment
     sort_title: Hellraiser 10
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/402709
     tpdb_search: https://theposterdb.com/search?term=Hellraiser+Judgment&section=movies
+  338947:
     genre.sync:
       - Horror
       - Thriller
-  338947:
     label_title: Hellraiser
     sort_title: Hellraiser 11
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/402710
     tpdb_search: https://theposterdb.com/search?term=Hellraiser&section=movies
-    genre.sync:
-      - Horror
-      - Thriller
   14136:
+    genre.sync:
+      - Family
     label_title: The Love Bug
     sort_title: Herbie 1
     release_year: '1968'
     url_poster: https://theposterdb.com/api/assets/377654
     tpdb_search: https://theposterdb.com/search?term=The+Love+Bug&section=movies
+  10869:
     genre.sync:
       - Family
-  10869:
     label_title: Herbie Rides Again
     sort_title: Herbie 2
     release_year: '1974'
     url_poster: https://theposterdb.com/api/assets/377655
     tpdb_search: https://theposterdb.com/search?term=Herbie+Rides+Again&section=movies
+  14140:
     genre.sync:
       - Family
-  14140:
     label_title: Herbie Goes to Monte Carlo
     sort_title: Herbie 3
     release_year: '1977'
     url_poster: https://theposterdb.com/api/assets/377656
     tpdb_search: https://theposterdb.com/search?term=Herbie+Goes+to+Monte+Carlo&section=movies
+  12129:
     genre.sync:
       - Family
-  12129:
     label_title: Herbie Goes Bananas
     sort_title: Herbie 4
     release_year: '1980'
     url_poster: https://theposterdb.com/api/assets/377657
     tpdb_search: https://theposterdb.com/search?term=Herbie+Goes+Bananas&section=movies
+  32643:
     genre.sync:
       - Family
-  32643:
     label_title: The Love Bug
     sort_title: Herbie 5
     release_year: '1997'
     url_poster: https://theposterdb.com/api/assets/377658
     tpdb_search: https://theposterdb.com/search?term=The+Love+Bug&section=movies
+  11451:
     genre.sync:
       - Family
-  11451:
     label_title: Herbie Fully Loaded
     sort_title: Herbie 6
     release_year: '2005'
     url_poster: https://theposterdb.com/api/assets/377659
     tpdb_search: https://theposterdb.com/search?term=Herbie+Fully+Loaded&section=movies
-    genre.sync:
-      - Family
   493922:
     label_title: Hereditary
     sort_title: Hereditary
@@ -2233,109 +2243,109 @@ metadata:
     genre.sync:
       - Horror
   49051:
+    genre.sync:
+      - Fantasy
     label_title: The Hobbit An Unexpected Journey
     sort_title: Hobbit 1
     release_year: '2012'
     url_poster: https://theposterdb.com/api/assets/1723
     tpdb_search: https://theposterdb.com/search?term=The+Hobbit+An+Unexpected+Journey&section=movies
+  57158:
     genre.sync:
       - Fantasy
-  57158:
     label_title: The Hobbit The Desolation of Smaug
     sort_title: Hobbit 2
     release_year: '2013'
     url_poster: https://theposterdb.com/api/assets/1724
     tpdb_search: https://theposterdb.com/search?term=The+Hobbit+The+Desolation+of+Smaug&section=movies
+  122917:
     genre.sync:
       - Fantasy
-  122917:
     label_title: The Hobbit The Battle of the Five Armies
     sort_title: Hobbit 3
     release_year: '2014'
     url_poster: https://theposterdb.com/api/assets/1725
     tpdb_search: https://theposterdb.com/search?term=The+Hobbit+The+Battle+of+the+Five+Armies&section=movies
-    genre.sync:
-      - Fantasy
   771:
+    genre.sync:
+      - Family
     label_title: Home Alone
     sort_title: Home Alone 1
     release_year: '1990'
     url_poster: https://theposterdb.com/api/assets/50688
     tpdb_search: https://theposterdb.com/search?term=Home+Alone&section=movies
+  772:
     genre.sync:
       - Family
-  772:
     label_title: 'Home Alone 2: Lost in New York'
     sort_title: Home Alone 2
     release_year: '1992'
     url_poster: https://theposterdb.com/api/assets/50689
     tpdb_search: https://theposterdb.com/search?term=Home+Alone+2+Lost+in+New+York&section=movies
+  9714:
     genre.sync:
       - Family
-  9714:
     label_title: Home Alone 3
     sort_title: Home Alone 3
     release_year: '1997'
     url_poster: https://theposterdb.com/api/assets/50690
     tpdb_search: https://theposterdb.com/search?term=Home+Alone+3&section=movies
+  12546:
     genre.sync:
       - Family
-  12546:
     label_title: Home Alone 4
     sort_title: Home Alone 4
     release_year: '2002'
     url_poster: https://theposterdb.com/api/assets/50691
     tpdb_search: https://theposterdb.com/search?term=Home+Alone+4&section=movies
+  134375:
     genre.sync:
       - Family
-  134375:
     label_title: 'Home Alone: The Holidy Heist'
     sort_title: Home Alone 5
     release_year: '2012'
     url_poster: https://theposterdb.com/api/assets/50692
     tpdb_search: https://theposterdb.com/search?term=Home+Alone+The+Holiday+Heist&section=movies
+  18276:
     genre.sync:
       - Family
-  18276:
     label_title: Hoot
     sort_title: Hoot
     release_year: '2006'
     url_poster: https://theposterdb.com/api/assets/632832
     tpdb_search: https://theposterdb.com/search?term=Hoot&section=movies
-    genre.sync:
-      - Family
   76492:
+    genre.sync:
+      - Animation
     label_title: Hotel Transylvania
     sort_title: Hotel Transylvania 1
     release_year: '2012'
     url_poster: https://theposterdb.com/api/assets/246969
     tpdb_search: https://theposterdb.com/search?term=Hotel+Transylvania&section=movies
+  159824:
     genre.sync:
       - Animation
-  159824:
     label_title: Hotel Transylvania 2
     sort_title: Hotel Transylvania 2
     release_year: '2015'
     url_poster: https://theposterdb.com/api/assets/246973
     tpdb_search: https://theposterdb.com/search?term=Hotel+Transylvania+2&section=movies
+  400155:
     genre.sync:
       - Animation
-  400155:
     label_title: 'Hotel Transylvania 3: Summer Vacation'
     sort_title: Hotel Transylvania 3
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/246982
     tpdb_search: https://theposterdb.com/search?term=Hotel+Transylvania+3:+Summer+Vacation&section=movies
+  585083:
     genre.sync:
       - Animation
-  585083:
     label_title: 'Hotel Transylvania: Transformania'
     sort_title: Hotel Transylvania 4
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/246991
     tpdb_search: https://theposterdb.com/search?term=Hotel+Transylvania:+Transformania&section=movies
-    genre.sync:
-      - Animation
   10191:
     label_title: How to Train Your Dragon
     sort_title: How to Train Your Dragon 1
@@ -2400,45 +2410,45 @@ metadata:
     genre.sync:
       - Superhero
   70160:
+    genre.sync:
+      - Action
     label_title: The Hunger Games
     sort_title: Hunger Games 1
     release_year: '2012'
     url_poster: https://theposterdb.com/api/assets/534802
     tpdb_search: https://theposterdb.com/search?term=The+Hunger+Games&section=movies
+  101299:
     genre.sync:
       - Action
-  101299:
     label_title: The Hunger Games Catching Fire
     sort_title: Hunger Games 2
     release_year: '2013'
     url_poster: https://theposterdb.com/api/assets/534801
     tpdb_search: https://theposterdb.com/search?term=The+Hunger+Games+Catching+Fire&section=movies
+  131631:
     genre.sync:
       - Action
-  131631:
     label_title: The Hunger Games Mockingjay Part 1
     sort_title: Hunger Games 3
     release_year: '2014'
     url_poster: https://theposterdb.com/api/assets/534800
     tpdb_search: https://theposterdb.com/search?term=The+Hunger+Games+Mockingjay+Part+1&section=movies
+  131634:
     genre.sync:
       - Action
-  131634:
     label_title: The Hunger Games Mockingjay Part 2
     sort_title: Hunger Games 4
     release_year: '2015'
     url_poster: https://theposterdb.com/api/assets/534799
     tpdb_search: https://theposterdb.com/search?term=The+Hunger+Games+Mockingjay+Part+2&section=movies
+  695721:
     genre.sync:
       - Action
-  695721:
     label_title: The Hunger Games The Ballad of Songbirds and Snakes
     sort_title: Hunger Games 5
     release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/534798
     tpdb_search: https://theposterdb.com/search?term=The+Hunger+Games+The+Ballad+of+Songbirds+and+Snakes&section=movies
-    genre.sync:
-      - Action
   858017:
     label_title: I Saw the TV Glow
     sort_title: I Saw the TV Glow
@@ -2449,46 +2459,46 @@ metadata:
     genre.sync:
       - Horror
   504253:
+    genre.sync:
+      - Anime
     label_title: I Want to Eat Your Pancreas
     sort_title: I Want to Eat Your Pancreas
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/520389
     tpdb_search: https://theposterdb.com/search?term=I+Want+to+Eat+Your+Pancreas&section=movies
-    genre.sync:
-      - Anime
   1125311:
+    genre.sync:
+      - Horror
     label_title: Imaginary
     sort_title: Imaginary
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/473240
     tpdb_search: https://theposterdb.com/search?term=Imaginary&section=movies
+  1041613:
     genre.sync:
       - Horror
-  1041613:
     label_title: Immaculate
     sort_title: Immaculate
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/536696
     tpdb_search: https://theposterdb.com/search?term=Immaculate&section=movies
+  1214509:
     genre.sync:
       - Horror
-  1214509:
     label_title: In a Violent Nature
     sort_title: In a Violent Nature
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/581915
     tpdb_search: https://theposterdb.com/search?term=In+a+Violent+Nature&section=movies
-    genre.sync:
-      - Horror
   27205:
+    genre.sync:
+      - Action
+      - Science Fiction
     label_title: Inception
     sort_title: Inception
     release_year: '2010'
     url_poster: https://theposterdb.com/api/assets/80608
     tpdb_search: https://theposterdb.com/search?term=Inception&section=movies
-    genre.sync:
-      - Action
-      - Science Fiction
   9806:
     label_title: The Incredibles
     sort_title: Incredibles 1
@@ -2508,21 +2518,21 @@ metadata:
     genre.sync:
       - Animation
   11359:
+    genre.sync:
+      - Family
     label_title: The Indian in the Cupboard
     sort_title: Indian in the Cupboard
     release_year: '1995'
     url_poster: https://theposterdb.com/api/assets/160677
     tpdb_search: https://theposterdb.com/search?term=The+Indian+in+the+Cupboard&section=movies
-    genre.sync:
-      - Family
   16869:
+    genre.sync:
+      - Action
     label_title: Inglourious Basterds
     sort_title: Inglourious Basterds
     release_year: '2009'
     url_poster: https://theposterdb.com/api/assets/55098
     tpdb_search: https://theposterdb.com/search?term=Inglourious+Basterds&section=movies
-    genre.sync:
-      - Action
   150540:
     label_title: Inside Out
     sort_title: Inside Out
@@ -2542,54 +2552,54 @@ metadata:
     genre.sync:
       - Animation
   49018:
+    genre.sync:
+      - Horror
     label_title: Insidious
     sort_title: Insidious 1
     release_year: '2011'
     url_poster: https://theposterdb.com/api/assets/391914
     tpdb_search: https://theposterdb.com/search?term=Insidious&section=movies
+  91586:
     genre.sync:
       - Horror
-  91586:
     label_title: Insidious Chapter 2
     sort_title: Insidious 2
     release_year: '2013'
     url_poster: https://theposterdb.com/api/assets/391915
     tpdb_search: https://theposterdb.com/search?term=Insidious+Chapter+2&section=movies
+  280092:
     genre.sync:
       - Horror
-  280092:
     label_title: Insidious Chapter 3
     sort_title: Insidious 3
     release_year: '2015'
     url_poster: https://theposterdb.com/api/assets/391916
     tpdb_search: https://theposterdb.com/search?term=Insidious+Chapter+3&section=movies
+  406563:
     genre.sync:
       - Horror
-  406563:
     label_title: Insidious The Last Key
     sort_title: Insidious 4
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/391917
     tpdb_search: https://theposterdb.com/search?term=Insidious+The+Last+Key&section=movies
+  614479:
     genre.sync:
       - Horror
-  614479:
     label_title: Insidious The Red Door
     sort_title: Insidious 5
     release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/391918
     tpdb_search: https://theposterdb.com/search?term=Insidious+The+Red+Door&section=movies
-    genre.sync:
-      - Horror
   157336:
+    genre.sync:
+      - Science Fiction
+      - Thriller
     label_title: Interstellar
     sort_title: Interstellar
     release_year: '2014'
     url_poster: https://theposterdb.com/api/assets/20544
     tpdb_search: https://theposterdb.com/search?term=Interstellar&section=movies
-    genre.sync:
-      - Science Fiction
-      - Thriller
   850165:
     label_title: The Iron Claw
     sort_title: Iron Claw
@@ -2627,289 +2637,289 @@ metadata:
     genre.sync:
       - Superhero
   399174:
+    genre.sync:
+      - Animation
     label_title: Isle of Dogs
     sort_title: Isle of Dogs
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/47716
     tpdb_search: https://theposterdb.com/search?term=Isle+of+Dogs&section=movies
-    genre.sync:
-      - Animation
   346364:
+    genre.sync:
+      - Horror
     label_title: It
     sort_title: It 1
     release_year: '2017'
     url_poster: https://theposterdb.com/api/assets/19250
     tpdb_search: https://theposterdb.com/search?term=It&section=movies
+  474350:
     genre.sync:
       - Horror
-  474350:
     label_title: It Chapter Two
     sort_title: It 2
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/19251
     tpdb_search: https://theposterdb.com/search?term=It+Chapter+Two&section=movies
-    genre.sync:
-      - Horror
   1094138:
+    genre.sync:
+      - Action
+      - Comedy
     label_title: Jackpot!
     sort_title: Jackpot!
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/536133
     tpdb_search: https://theposterdb.com/search?term=Jackpot!&section=movies
-    genre.sync:
-      - Action
-      - Comedy
   4480:
+    genre.sync:
+      - Drama
     label_title: Jean de Florette
     sort_title: Jean de Florette
     release_year: '1986'
     url_poster: https://theposterdb.com/api/assets/562903
     tpdb_search: https://theposterdb.com/search?term=Jean+de+Florette&section=movies
-    genre.sync:
-      - Drama
   19994:
+    genre.sync:
+      - Horror
     label_title: Jennifers Body
     sort_title: Jennifers Body
     release_year: '2009'
     url_poster: https://theposterdb.com/api/assets/378243
     tpdb_search: https://theposterdb.com/search?term=Jennifers+Body&section=movies
-    genre.sync:
-      - Horror
   635389:
+    genre.sync:
+      - Animation
+      - Fantasy
     label_title: Jiang Ziya
     sort_title: Jiang Ziya 1
     release_year: '2020'
     url_poster: https://theposterdb.com/api/assets/633116
     tpdb_search: https://theposterdb.com/search?term=Jiang+Ziya&section=movies
-    genre.sync:
-      - Animation
-      - Fantasy
   75761:
+    genre.sync:
+      - Action
+      - Comedy
     label_title: John Dies at the End
     sort_title: John Dies at the End
     release_year: '2013'
     url_poster: https://theposterdb.com/api/assets/448961
     tpdb_search: https://theposterdb.com/search?term=John+Dies+at+the+End&section=movies
+  245891:
     genre.sync:
       - Action
-      - Comedy
-  245891:
     label_title: John Wick
     sort_title: John Wick 1
     release_year: '2014'
     url_poster: https://theposterdb.com/api/assets/366292
     tpdb_search: https://theposterdb.com/search?term=John+Wick&section=movies
+  324552:
     genre.sync:
       - Action
-  324552:
     label_title: John Wick Chapter 2
     sort_title: John Wick 2
     release_year: '2017'
     url_poster: https://theposterdb.com/api/assets/366293
     tpdb_search: https://theposterdb.com/search?term=John+Wick+Chapter+2&section=movies
+  458156:
     genre.sync:
       - Action
-  458156:
     label_title: John Wick Chapter 3 Parabellum
     sort_title: John Wick 3
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/366294
     tpdb_search: https://theposterdb.com/search?term=John+Wick+Chapter+3+Parabellum&section=movies
+  603692:
     genre.sync:
       - Action
-  603692:
     label_title: John Wick Chapter 4
     sort_title: John Wick 4
     release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/366295
     tpdb_search: https://theposterdb.com/search?term=John+Wick+Chapter+4&section=movies
+  541671:
     genre.sync:
       - Action
-  541671:
     label_title: From the World of John Wick Ballerina
     sort_title: John Wick 5
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/611990
     tpdb_search: https://theposterdb.com/search?term=From+the+World+of+John+Wick+Ballerina&section=movies
-    genre.sync:
-      - Action
   515001:
+    genre.sync:
+      - Drama
     label_title: Jojo Rabbit
     sort_title: Jojo Rabbit
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/41442
     tpdb_search: https://theposterdb.com/search?term=Jojo+Rabbit&section=movies
-    genre.sync:
-      - Drama
   475557:
+    genre.sync:
+      - Superhero
     label_title: Joker
     sort_title: Joker 1
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/535283
     tpdb_search: https://theposterdb.com/search?term=Joker&section=movies
+  889737:
     genre.sync:
       - Superhero
-  889737:
     label_title: Joker Folie à Deux
     sort_title: Joker 2
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/535282
     tpdb_search: https://theposterdb.com/search?term=Joker+Folie+à+Deux&section=movies
-    genre.sync:
-      - Superhero
   88751:
+    genre.sync:
+      - Family
     label_title: Journey to the Center of the Earth
     sort_title: Journey to the Center of the Earth
     release_year: '2008'
     url_poster: https://theposterdb.com/api/assets/7148
     tpdb_search: https://theposterdb.com/search?term=Journey+to+the+Center+of+the+Earth&section=movies
+  8844:
     genre.sync:
       - Family
-  8844:
     label_title: Jumanji
     sort_title: Jumanji
     release_year: '1995'
     url_poster: https://theposterdb.com/api/assets/8781
     tpdb_search: https://theposterdb.com/search?term=Jumanji&section=movies
-    genre.sync:
-      - Family
   329:
+    genre.sync:
+      - Action
+      - Science Fiction
     label_title: Jurassic Park
     sort_title: Jurassic Park 1
     release_year: '1993'
     url_poster: https://theposterdb.com/api/assets/158969
     tpdb_search: https://theposterdb.com/search?term=Jurassic+Park&section=movies
+  330:
     genre.sync:
       - Action
       - Science Fiction
-  330:
     label_title: The Lost World Jurassic Park
     sort_title: Jurassic Park 2
     release_year: '1997'
     url_poster: https://theposterdb.com/api/assets/158970
     tpdb_search: https://theposterdb.com/search?term=The+Lost+World+Jurassic+Park&section=movies
+  331:
     genre.sync:
       - Action
       - Science Fiction
-  331:
     label_title: Jurassic Park III
     sort_title: Jurassic Park 3
     release_year: '2001'
     url_poster: https://theposterdb.com/api/assets/158971
     tpdb_search: https://theposterdb.com/search?term=Jurassic+Park+III&section=movies
+  135397:
     genre.sync:
       - Action
       - Science Fiction
-  135397:
     label_title: Jurassic World
     sort_title: Jurassic Park 4
     release_year: '2015'
     url_poster: https://theposterdb.com/api/assets/158972
     tpdb_search: https://theposterdb.com/search?term=Jurassic+World&section=movies
+  351286:
     genre.sync:
       - Action
       - Science Fiction
-  351286:
     label_title: Jurassic World Fallen Kingdom
     sort_title: Jurassic Park 5
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/158973
     tpdb_search: https://theposterdb.com/search?term=Jurassic+World+Fallen+Kingdom&section=movies
+  630322:
     genre.sync:
       - Action
       - Science Fiction
-  630322:
     label_title: Battle at Big Rock
     sort_title: Jurassic Park 6
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/158974
     tpdb_search: https://theposterdb.com/search?term=Battle+at+Big+Rock&section=movies
+  507086:
     genre.sync:
       - Action
       - Science Fiction
-  507086:
     label_title: Jurassic Park Dominion
     sort_title: Jurassic Park 7
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/158975
     tpdb_search: https://theposterdb.com/search?term=Jurassic+Park+Dominion&section=movies
+  1234821:
     genre.sync:
       - Action
       - Science Fiction
-  1234821:
     label_title: Jurassic World Rebirth
     sort_title: Jurassic Park 8
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/625064
     tpdb_search: https://theposterdb.com/search?term=Jurassic+Park+Rebirth&section=movies
-    genre.sync:
-      - Action
-      - Science Fiction
   141052:
+    genre.sync:
+      - Superhero
     label_title: Justice League
     sort_title: Justice League
     release_year: '2017'
     url_poster: https://theposterdb.com/api/assets/40933
     tpdb_search: https://theposterdb.com/search?term=Justice+League&section=movies
-    genre.sync:
-      - Superhero
   1326106:
+    genre.sync:
+      - Anime
     label_title: 'Kaiju No. 8: Mission Recon'
     sort_title: 'Kaiju No. 8: Mission Recon'
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/584789
     tpdb_search: https://theposterdb.com/search?term=Kaiju+No.+8:+Mission+Recon&section=movies
-    genre.sync:
-      - Anime
   24:
+    genre.sync:
+      - Action
     label_title: Kill Bill Vol. 1
     sort_title: Kill Bill 1
     release_year: '2003'
     url_poster: https://theposterdb.com/api/assets/81976
     tpdb_search: https://theposterdb.com/search?term=Kill+Bill+Vol.+1&section=movies
+  393:
     genre.sync:
       - Action
-  393:
     label_title: Kill Bill Vol. 2
     sort_title: Kill Bill 2
     release_year: '2004'
     url_poster: https://theposterdb.com/api/assets/81977
     tpdb_search: https://theposterdb.com/search?term=Kill+Bill+Vol.+2&section=movies
+  414419:
     genre.sync:
       - Action
-  414419:
     label_title: Kill Bill The Whole Bloody Affair
     sort_title: Kill Bill The Whole Bloody Affair
     release_year: '2011'
     url_poster: https://theposterdb.com/api/assets/82100
     tpdb_search: https://theposterdb.com/search?term=Kill+Bill+The+Whole+Bloody+Affair&section=movies
+  1495:
     genre.sync:
       - Action
-  1495:
     label_title: Kingdom of Heaven
     sort_title: Kingdom of Heaven
     release_year: '2005'
     url_poster: https://theposterdb.com/api/assets/74216
     tpdb_search: https://theposterdb.com/search?term=Kingdom+of+Heaven&section=movies
+  293167:
     genre.sync:
       - Action
-  293167:
+      - Science Fiction
     label_title: Kong Skull Island
     sort_title: Kong Skull Island
     release_year: '2017'
     url_poster: https://theposterdb.com/api/assets/478507
     tpdb_search: https://theposterdb.com/search?term=Kong+Skull+Island&section=movies
-    genre.sync:
-      - Action
-      - Science Fiction
   803796:
+    genre.sync:
+      - Animation
     label_title: KPop Demon Hunters
     sort_title: KPop Demon Hunters
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/618093
     tpdb_search: https://theposterdb.com/search?term=KPop+Demon+Hunters&section=movies
-    genre.sync:
-      - Animation
   539972:
     label_title: Kraven the Hunter
     sort_title: Kraven the Hunter
@@ -2956,71 +2966,71 @@ metadata:
     genre.sync:
       - Animation
   10340:
+    genre.sync:
+      - Animation
     label_title: Lady and the Tramp
     sort_title: Lady and the Tramp
     release_year: '1955'
     url_poster: https://theposterdb.com/api/assets/81876
     tpdb_search: https://theposterdb.com/search?term=Lady+and+the+Tramp&section=movies
-    genre.sync:
-      - Animation
   938614:
+    genre.sync:
+      - Horror
+      - Thriller
     label_title: Late Night with the Devil
     sort_title: Late Night with the Devil
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/493909
     tpdb_search: https://theposterdb.com/search?term=Late+Night+with+the+Devil&section=movies
-    genre.sync:
-      - Horror
-      - Thriller
   22803:
+    genre.sync:
+      - Action
+      - Thriller
     label_title: Law Abiding Citizen
     sort_title: Law Abiding Citizen
     release_year: '2009'
     url_poster: https://theposterdb.com/api/assets/45345
     tpdb_search: https://theposterdb.com/search?term=Law+Abiding+Citizen&section=movies
-    genre.sync:
-      - Action
-      - Thriller
   526313:
+    genre.sync:
+      - Documentary
     label_title: A Leaf of Faith
     sort_title: Leaf of Faith
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/594675
     tpdb_search: https://theposterdb.com/search?term=A+Leaf+of+Faith&section=movies
-    genre.sync:
-      - Documentary
   726209:
+    genre.sync:
+      - Thriller
     label_title: Leave the World Behind
     sort_title: Leave the World Behind
     release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/442256
     tpdb_search: https://theposterdb.com/search?term=Leave+the+World+Behind&section=movies
-    genre.sync:
-      - Thriller
   276907:
+    genre.sync:
+      - Action
     label_title: Legend
     sort_title: Legend
     release_year: '2015'
     url_poster: https://theposterdb.com/api/assets/45349
     tpdb_search: https://theposterdb.com/search?term=Legend&section=movies
-    genre.sync:
-      - Action
   896536:
+    genre.sync:
+      - Fantasy
     label_title: The Legend of Oshi
     sort_title: Legend of Oshi
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/535072
     tpdb_search: https://theposterdb.com/search?term=The+Legend+of+Oshi&section=movies
-    genre.sync:
-      - Fantasy
   160155:
+    genre.sync:
+      - Family
     label_title: Life Is Ruff
     sort_title: Life Is Ruff
     release_year: '2005'
     url_poster: https://theposterdb.com/api/assets/630620
     tpdb_search: https://theposterdb.com/search?term=Life+Is+Ruff&section=movies
-    genre.sync:
-      - Family
   503919:
     label_title: The Lighthouse
     sort_title: Lighthouse
@@ -3041,22 +3051,22 @@ metadata:
     genre.sync:
       - Animation
   552524:
+    genre.sync:
+      - Family
     label_title: Lilo & Stitch
     sort_title: Lilo & Stitch
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/554954
     tpdb_search: https://theposterdb.com/search?term=Lilo+%26+Stitch&section=movies
-    genre.sync:
-      - Family
   1083968:
+    genre.sync:
+      - Horror
+      - Thriller
     label_title: Locked
     sort_title: Locked
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/583059
     tpdb_search: https://theposterdb.com/search?term=Locked&section=movies
-    genre.sync:
-      - Horror
-      - Thriller
   263115:
     label_title: Logan
     sort_title: Logan
@@ -3067,81 +3077,81 @@ metadata:
     genre.sync:
       - Superhero
   193756:
+    genre.sync:
+      - Action
     label_title: Lone Survivor
     sort_title: Lone Survivor
     release_year: '2013'
     url_poster: https://theposterdb.com/api/assets/56195
     tpdb_search: https://theposterdb.com/search?term=Lone+Survivor&section=movies
-    genre.sync:
-      - Action
   1226578:
+    genre.sync:
+      - Horror
+      - Thriller
     label_title: Longlegs
     sort_title: Longlegs
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/509410
     tpdb_search: https://theposterdb.com/search?term=Longlegs&section=movies
-    genre.sync:
-      - Horror
-      - Thriller
   120:
+    genre.sync:
+      - Fantasy
     label_title: The Lord of the Rings The Fellowship of the Ring
     sort_title: Lord of the Rings 1
     release_year: '2001'
     url_poster: https://theposterdb.com/api/assets/1719
     tpdb_search: https://theposterdb.com/search?term=The+Lord+of+the+Rings+The+Fellowship+of+the+Ring&section=movies
+  121:
     genre.sync:
       - Fantasy
-  121:
     label_title: The Lord of the Rings The Two Towers
     sort_title: Lord of the Rings 2
     release_year: '2002'
     url_poster: https://theposterdb.com/api/assets/1721
     tpdb_search: https://theposterdb.com/search?term=The+Lord+of+the+Rings+The+Two+Towers&section=movies
+  122:
     genre.sync:
       - Fantasy
-  122:
     label_title: The Lord of the Rings The Return of the King
     sort_title: Lord of the Rings 3
     release_year: '2003'
     url_poster: https://theposterdb.com/api/assets/1722
     tpdb_search: https://theposterdb.com/search?term=The+Lord+of+the+Rings+The+Return+of+the+King&section=movies
+  839033:
     genre.sync:
       - Fantasy
-  839033:
     label_title: The Lord of the Rings The War of the Rohirrim
     sort_title: Lord of the Rings 4
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/574283
     tpdb_search: https://theposterdb.com/search?term=The+Lord+of+the+Rings+The+War+of+the+Rohirrim&section=movies
-    genre.sync:
-      - Fantasy
   43347:
+    genre.sync:
+      - Comedy
+      - Drama
     label_title: Love & Other Drugs
     sort_title: Love & Other Drugs
     release_year: '2010'
     url_poster: https://theposterdb.com/api/assets/305363
     tpdb_search: https://theposterdb.com/search?term=Love+%26+Other+Drugs&section=movies
-    genre.sync:
-      - Comedy
-      - Drama
   590223:
+    genre.sync:
+      - Action
+      - Comedy
     label_title: Love and Monsters
     sort_title: Love and Monsters
     release_year: '2020'
     url_poster: https://theposterdb.com/api/assets/465124
     tpdb_search: https://theposterdb.com/search?term=Love+and+Monsters&section=movies
+  1226406:
     genre.sync:
       - Action
       - Comedy
-  1226406:
     label_title: Love Hurts
     sort_title: Love Hurts
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/564478
     tpdb_search: https://theposterdb.com/search?term=Love+Hurts&section=movies
-    genre.sync:
-      - Action
-      - Comedy
   948549:
     label_title: Love Lies Bleeding
     sort_title: Love Lies Bleeding
@@ -3153,59 +3163,59 @@ metadata:
       - Action
       - Drama
   846867:
+    genre.sync:
+      - Animation
+      - Thriller
     label_title: Mad God
     sort_title: Mad God
     release_year: '2021'
     url_poster: https://theposterdb.com/api/assets/243402
     tpdb_search: https://theposterdb.com/search?term=Mad+God&section=movies
-    genre.sync:
-      - Animation
-      - Thriller
   9659:
+    genre.sync:
+      - Action
+      - Science Fiction
     label_title: Mad Max
     sort_title: Mad Max 1
     release_year: '1979'
     url_poster: https://theposterdb.com/api/assets/465666
     tpdb_search: https://theposterdb.com/search?term=Mad+Max&section=movies
+  8810:
     genre.sync:
       - Action
       - Science Fiction
-  8810:
     label_title: Mad Max 2
     sort_title: Mad Max 2
     release_year: '1981'
     url_poster: https://theposterdb.com/api/assets/465665
     tpdb_search: https://theposterdb.com/search?term=Mad+Max+2&section=movies
+  9355:
     genre.sync:
       - Action
       - Science Fiction
-  9355:
     label_title: Mad Max Beyond Thunderdome
     sort_title: Mad Max 3
     release_year: '1985'
     url_poster: https://theposterdb.com/api/assets/465664
     tpdb_search: https://theposterdb.com/search?term=Mad+Max+Beyond+Thunderdome&section=movies
+  76341:
     genre.sync:
       - Action
       - Science Fiction
-  76341:
     label_title: Mad Max Fury Road
     sort_title: Mad Max 4
     release_year: '2015'
     url_poster: https://theposterdb.com/api/assets/465663
     tpdb_search: https://theposterdb.com/search?term=Mad+Max+Fury+Road&section=movies
+  786892:
     genre.sync:
       - Action
       - Science Fiction
-  786892:
     label_title: Furiosa A Mad Max Saga
     sort_title: Mad Max 5
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/465630
     tpdb_search: https://theposterdb.com/search?term=Furiosa+A+Mad+Max+Saga&section=movies
-    genre.sync:
-      - Action
-      - Science Fiction
   634492:
     label_title: Madame Web
     sort_title: Madame Web
@@ -3216,37 +3226,37 @@ metadata:
     genre.sync:
       - Superhero
   784524:
+    genre.sync:
+      - Drama
     label_title: Magazine Dreams
     sort_title: Magazine Dreams
     release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/623810
     tpdb_search: https://theposterdb.com/search?term=Magazine+Dreams&section=movies
-    genre.sync:
-      - Drama
   937278:
+    genre.sync:
+      - Family
     label_title: A Man Called Otto
     sort_title: Man Called Otto
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/413533
     tpdb_search: https://theposterdb.com/search?term=A+Man+Called+Otto&section=movies
-    genre.sync:
-      - Family
   49521:
+    genre.sync:
+      - Superhero
     label_title: Man of Steel
     sort_title: Man of Steel
     release_year: '2013'
     url_poster: https://theposterdb.com/api/assets/40929
     tpdb_search: https://theposterdb.com/search?term=Man+of+Steel&section=movies
-    genre.sync:
-      - Superhero
   4481:
+    genre.sync:
+      - Drama
     label_title: Manon of the Spring
     sort_title: Manon of the Spring
     release_year: '1986'
     url_poster: https://theposterdb.com/api/assets/562904
     tpdb_search: https://theposterdb.com/search?term=Manon+of+the+Spring&section=movies
-    genre.sync:
-      - Drama
   76122:
     label_title: Marvel One-Shot The Consultant
     sort_title: Marvel One-Shot 1
@@ -3302,49 +3312,49 @@ metadata:
     genre.sync:
       - Superhero
   10830:
+    genre.sync:
+      - Family
     label_title: Matilda
     sort_title: Matilda
     release_year: '1996'
     url_poster: https://theposterdb.com/api/assets/137090
     tpdb_search: https://theposterdb.com/search?term=Matilda&section=movies
-    genre.sync:
-      - Family
   603:
+    genre.sync:
+      - Action
+      - Science Fiction
     label_title: The Matrix
     sort_title: Matrix 1
     release_year: '1999'
     url_poster: https://theposterdb.com/api/assets/12042
     tpdb_search: https://theposterdb.com/search?term=The+Matrix&section=movies
+  604:
     genre.sync:
       - Action
       - Science Fiction
-  604:
     label_title: The Matrix Reloaded
     sort_title: Matrix 2
     release_year: '2003'
     url_poster: https://theposterdb.com/api/assets/12043
     tpdb_search: https://theposterdb.com/search?term=The+Matrix+Reloaded&section=movies
+  605:
     genre.sync:
       - Action
       - Science Fiction
-  605:
     label_title: The Matrix Revolutions
     sort_title: Matrix 3
     release_year: '2003'
     url_poster: https://theposterdb.com/api/assets/12044
     tpdb_search: https://theposterdb.com/search?term=The+Matrix+Revolutions&section=movies
+  624860:
     genre.sync:
       - Action
       - Science Fiction
-  624860:
     label_title: The Matrix Resurrections
     sort_title: Matrix 4
     release_year: '2021'
     url_poster: https://theposterdb.com/api/assets/195234
     tpdb_search: https://theposterdb.com/search?term=The+Matrix+Resurrections&section=movies
-    genre.sync:
-      - Action
-      - Science Fiction
   1023922:
     label_title: MaXXXine
     sort_title: MaXXXine
@@ -3355,90 +3365,90 @@ metadata:
     genre.sync:
       - Horror
   198663:
+    genre.sync:
+      - Action
+      - Science Fiction
     label_title: The Maze Runner
     sort_title: Maze Runner 1
     release_year: '2014'
     url_poster: https://theposterdb.com/api/assets/1028
     tpdb_search: https://theposterdb.com/search?term=The+Maze+Runner&section=movies
+  294254:
     genre.sync:
       - Action
       - Science Fiction
-  294254:
     label_title: Maze Runner The Scorch Trials
     sort_title: Maze Runner 2
     release_year: '2015'
     url_poster: https://theposterdb.com/api/assets/1030
     tpdb_search: https://theposterdb.com/search?term=Maze+Runner+The+Scorch+Trials&section=movies
+  336843:
     genre.sync:
       - Action
       - Science Fiction
-  336843:
     label_title: Maze Runner The Death Cure
     sort_title: Maze Runner 3
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/1031
     tpdb_search: https://theposterdb.com/search?term=Maze+Runner+The+Death+Cure&section=movies
-    genre.sync:
-      - Action
-      - Science Fiction
   10625:
+    genre.sync:
+      - Comedy
     label_title: Mean Girls
     sort_title: Mean Girls
     release_year: '2004'
     url_poster: https://theposterdb.com/api/assets/437526
     tpdb_search: https://theposterdb.com/search?term=Mean+Girls&section=movies
-    genre.sync:
-      - Comedy
   536554:
+    genre.sync:
+      - Horror
     label_title: M3gan
     sort_title: Megan 1
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/590838
     tpdb_search: https://theposterdb.com/search?term=M3gan&section=movies
+  1071585:
     genre.sync:
       - Horror
-  1071585:
     label_title: M3gan 2.0
     sort_title: Megan 2
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/590837
     tpdb_search: https://theposterdb.com/search?term=M3gan+2.0&section=movies
-    genre.sync:
-      - Horror
   77:
+    genre.sync:
+      - Thriller
     label_title: Memento
     sort_title: Memento
     release_year: '2000'
     url_poster: https://theposterdb.com/api/assets/58467
     tpdb_search: https://theposterdb.com/search?term=Memento&section=movies
-    genre.sync:
-      - Thriller
   1064486:
+    genre.sync:
+      - Animation
     label_title: Memoir of a Snail
     sort_title: Memoir of a Snail
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/572315
     tpdb_search: https://theposterdb.com/search?term=Memoir+of+a+Snail&section=movies
-    genre.sync:
-      - Animation
   593643:
+    genre.sync:
+      - Horror
+      - Thriller
     label_title: The Menu
     sort_title: Menu
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/274026
     tpdb_search: https://theposterdb.com/search?term=The+Menu&section=movies
-    genre.sync:
-      - Horror
-      - Thriller
   696506:
+    genre.sync:
+      - Comedy
+      - Science Fiction
     label_title: Mickey 17
     sort_title: Mickey 17
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/575403
     tpdb_search: https://theposterdb.com/search?term=Mickey+17&section=movies
-    genre.sync:
-      - Comedy
-      - Science Fiction
   530385:
     label_title: Midsommar
     sort_title: Midsommar
@@ -3449,13 +3459,13 @@ metadata:
     genre.sync:
       - Horror
   950387:
+    genre.sync:
+      - Fantasy
     label_title: A Minecraft Movie
     sort_title: Minecraft Movie
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/579582
     tpdb_search: https://theposterdb.com/search?term=A+Minecraft+Movie&section=movies
-    genre.sync:
-      - Fantasy
   211672:
     label_title: Minions
     sort_title: Minions 1
@@ -3475,109 +3485,109 @@ metadata:
     genre.sync:
       - Animation
   799583:
+    genre.sync:
+      - Action
     label_title: The Ministry of Ungentlemanly Warfare
     sort_title: Ministry of Ungentlemanly Warfare
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/490934
     tpdb_search: https://theposterdb.com/search?term=The+Ministry+of+Ungentlemanly+Warfare&section=movies
+  954:
     genre.sync:
       - Action
-  954:
     label_title: Mission Impossible
     sort_title: Mission Impossible 1
     release_year: '1996'
     url_poster: https://theposterdb.com/api/assets/393559
     tpdb_search: https://theposterdb.com/search?term=Mission+Impossible&section=movies
+  955:
     genre.sync:
       - Action
-  955:
     label_title: Mission Impossible II
     sort_title: Mission Impossible 2
     release_year: '2000'
     url_poster: https://theposterdb.com/api/assets/393560
     tpdb_search: https://theposterdb.com/search?term=Mission+Impossible+II&section=movies
+  956:
     genre.sync:
       - Action
-  956:
     label_title: Mission Impossible III
     sort_title: Mission Impossible 3
     release_year: '2006'
     url_poster: https://theposterdb.com/api/assets/393561
     tpdb_search: https://theposterdb.com/search?term=Mission+Impossible+III&section=movies
+  56292:
     genre.sync:
       - Action
-  56292:
     label_title: Mission Impossible - Ghost Protocol
     sort_title: Mission Impossible 4
     release_year: '2011'
     url_poster: https://theposterdb.com/api/assets/393562
     tpdb_search: https://theposterdb.com/search?term=Mission+Impossible+-+Ghost+Protocol&section=movies
+  177677:
     genre.sync:
       - Action
-  177677:
     label_title: Mission Impossible - Rogue Nation
     sort_title: Mission Impossible 5
     release_year: '2015'
     url_poster: https://theposterdb.com/api/assets/393563
     tpdb_search: https://theposterdb.com/search?term=Mission+Impossible+-+Rogue+Nation&section=movies
+  353081:
     genre.sync:
       - Action
-  353081:
     label_title: Mission Impossible - Fallout
     sort_title: Mission Impossible 6
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/393564
     tpdb_search: https://theposterdb.com/search?term=Mission+Impossible+-+Fallout&section=movies
+  575264:
     genre.sync:
       - Action
-  575264:
     label_title: Mission Impossible - Dead Reckoning Part One
     sort_title: Mission Impossible 7
     release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/393565
     tpdb_search: https://theposterdb.com/search?term=Mission+Impossible+-+Dead+Reckoning+Part+One&section=movies
-    genre.sync:
-      - Action
   277834:
+    genre.sync:
+      - Animation
     label_title: Moana
     sort_title: Moana 1
     release_year: '2016'
     url_poster: https://theposterdb.com/api/assets/566974
     tpdb_search: https://theposterdb.com/search?term=Moana&section=movies
+  1241982:
     genre.sync:
       - Animation
-  1241982:
     label_title: Moana 2
     sort_title: Moana 2
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/566973
     tpdb_search: https://theposterdb.com/search?term=Moana+2&section=movies
-    genre.sync:
-      - Animation
   1124620:
+    genre.sync:
+      - Horror
     label_title: The Monkey
     sort_title: Monkey
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/576254
     tpdb_search: https://theposterdb.com/search?term=The+Monkey&section=movies
-    genre.sync:
-      - Horror
   585:
+    genre.sync:
+      - Animation
     label_title: Monsters Inc.
     sort_title: Monsters Inc. 1
     release_year: '2001'
     url_poster: https://theposterdb.com/api/assets/60689
     tpdb_search: https://theposterdb.com/search?term=Monsters+Inc.&section=movies
+  62211:
     genre.sync:
       - Animation
-  62211:
     label_title: Monsters University
     sort_title: Monsters Inc. 2
     release_year: '2013'
     url_poster: https://theposterdb.com/api/assets/60699
     tpdb_search: https://theposterdb.com/search?term=Monsters+University&section=movies
-    genre.sync:
-      - Animation
   376867:
     label_title: Moonlight
     sort_title: Moonlight
@@ -3597,62 +3607,62 @@ metadata:
     genre.sync:
       - Superhero
   31011:
+    genre.sync:
+      - Drama
+      - Science Fiction
     label_title: Mr. Nobody
     sort_title: Mr. Nobody
     release_year: '2009'
     url_poster: https://theposterdb.com/api/assets/30848
     tpdb_search: https://theposterdb.com/search?term=Mr.+Nobody&section=movies
-    genre.sync:
-      - Drama
-      - Science Fiction
   762509:
+    genre.sync:
+      - Family
     label_title: Mufasa The Lion King
     sort_title: Mufasa The Lion King
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/575408
     tpdb_search: https://theposterdb.com/search?term=Mufasa+The+Lion+King&section=movies
-    genre.sync:
-      - Family
   505262:
+    genre.sync:
+      - Anime
     label_title: My Hero Academia Two Heroes
     sort_title: My Hero Academia 1
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/503727
     tpdb_search: https://theposterdb.com/search?term=My+Hero+Academia+Two+Heroes&section=movies
+  1054116:
     genre.sync:
       - Anime
-  1054116:
     label_title: My Hero Academia All Might Rising
     sort_title: My Hero Academia 2
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/503726
     tpdb_search: https://theposterdb.com/search?term=My+Hero+Academia+All+Might+Rising&section=movies
+  592350:
     genre.sync:
       - Anime
-  592350:
     label_title: My Hero Academia Heroes Rising
     sort_title: My Hero Academia 3
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/503725
     tpdb_search: https://theposterdb.com/search?term=My+Hero+Academia+Heroes+Rising&section=movies
+  768744:
     genre.sync:
       - Anime
-  768744:
     label_title: My Hero Academia World Heroes Mission
     sort_title: My Hero Academia 4
     release_year: '2021'
     url_poster: https://theposterdb.com/api/assets/503724
     tpdb_search: https://theposterdb.com/search?term=My+Hero+Academia+World+Heroes+Mission&section=movies
+  1159311:
     genre.sync:
       - Anime
-  1159311:
     label_title: My Hero Academia Youre Next
     sort_title: My Hero Academia Youre Next
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/503723
     tpdb_search: https://theposterdb.com/search?term=My+Hero+Academia+Youre+Next&section=movies
-    genre.sync:
-      - Anime
   8392:
     label_title: My Neighbor Totoro
     sort_title: My Neighbor Totoro
@@ -3663,39 +3673,39 @@ metadata:
     genre.sync:
       - Anime
   753342:
+    genre.sync:
+      - Drama
     label_title: Napoleon
     sort_title: Napoleon
     release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/383586
     tpdb_search: https://theposterdb.com/search?term=Napoleon&section=movies
-    genre.sync:
-      - Drama
   615453:
+    genre.sync:
+      - Animation
+      - Fantasy
     label_title: Ne Zha
     sort_title: Ne Zha 1
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/448400
     tpdb_search: https://theposterdb.com/search?term=Ne+Zha&section=movies
+  980477:
     genre.sync:
       - Animation
       - Fantasy
-  980477:
     label_title: Ne Zha
     sort_title: Ne Zha 2
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/590554
     tpdb_search: https://theposterdb.com/search?term=Ne+Zha+2&section=movies
-    genre.sync:
-      - Animation
-      - Fantasy
   18491:
+    genre.sync:
+      - Anime
     label_title: 'Neon Genesis Evangelion: The End of Evangelion'
     sort_title: 'Neon Genesis Evangelion: The End of Evangelion'
     release_year: '1997'
     url_poster: https://theposterdb.com/api/assets/108406
     tpdb_search: https://theposterdb.com/search?term=Neon+Genesis+Evangelion:+The+End+of+Evangelion&section=movies
-    genre.sync:
-      - Anime
   340102:
     label_title: The New Mutants
     sort_title: New Mutants
@@ -3706,258 +3716,258 @@ metadata:
     genre.sync:
       - Superhero
   1738:
+    genre.sync:
+      - Action
+      - Thriller
     label_title: Next
     sort_title: Next
     release_year: '2007'
     url_poster: https://theposterdb.com/api/assets/78811
     tpdb_search: https://theposterdb.com/search?term=Next&section=movies
-    genre.sync:
-      - Action
-      - Thriller
   1072342:
+    genre.sync:
+      - Horror
     label_title: Night Swim
     sort_title: Night Swim
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/464038
     tpdb_search: https://theposterdb.com/search?term=Night+Swim&section=movies
-    genre.sync:
-      - Horror
   728949:
+    genre.sync:
+      - Comedy
     label_title: Nightbitch
     sort_title: Nightbitch
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/555332
     tpdb_search: https://theposterdb.com/search?term=Nightbitch&section=movies
+  3638:
     genre.sync:
       - Comedy
-  3638:
+      - Drama
     label_title: No Reservations
     sort_title: No Reservations
     release_year: '2007'
     url_poster: https://theposterdb.com/api/assets/448982
     tpdb_search: https://theposterdb.com/search?term=No+Reservations&section=movies
-    genre.sync:
-      - Comedy
-      - Drama
   615457:
+    genre.sync:
+      - Action
+      - Comedy
     label_title: Nobody
     sort_title: Nobody 1
     release_year: '2021'
     url_poster: https://theposterdb.com/api/assets/629220
     tpdb_search: https://theposterdb.com/search?term=Nobody&section=movies
+  1007734:
     genre.sync:
       - Action
       - Comedy
-  1007734:
     label_title: Nobody 2
     sort_title: Nobody 2
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/629219
     tpdb_search: https://theposterdb.com/search?term=Nobody+2&section=movies
-    genre.sync:
-      - Action
-      - Comedy
   762504:
+    genre.sync:
+      - Horror
+      - Thriller
     label_title: Nope
     sort_title: Nope
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/243418
     tpdb_search: https://theposterdb.com/search?term=Nope&section=movies
+  426063:
     genre.sync:
       - Horror
-      - Thriller
-  426063:
     label_title: Nosferatu
     sort_title: Nosferatu
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/555373
     tpdb_search: https://theposterdb.com/search?term=Nosferatu&section=movies
-    genre.sync:
-      - Horror
   1195506:
+    genre.sync:
+      - Action
+      - Thriller
     label_title: Novocaine
     sort_title: Novocaine
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/583792
     tpdb_search: https://theposterdb.com/search?term=Novocaine&section=movies
+  75656:
     genre.sync:
       - Action
       - Thriller
-  75656:
     label_title: Now You See Me
     sort_title: Now You See Me 1
     release_year: '2013'
     url_poster: https://theposterdb.com/api/assets/10166
     tpdb_search: https://theposterdb.com/search?term=Now+You+See+Me&section=movies
+  291805:
     genre.sync:
       - Action
       - Thriller
-  291805:
     label_title: Now You See Me 2
     sort_title: Now You See Me 2
     release_year: '2016'
     url_poster: https://theposterdb.com/api/assets/10167
     tpdb_search: https://theposterdb.com/search?term=Now+You+See+Me+2&section=movies
-    genre.sync:
-      - Action
-      - Thriller
   439079:
+    genre.sync:
+      - Horror
     label_title: The Nun
     sort_title: Nun 1
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/23529
     tpdb_search: https://theposterdb.com/search?term=The+Nun&section=movies
+  968051:
     genre.sync:
       - Horror
-  968051:
     label_title: The Nun II
     sort_title: Nun 2
     release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/461995
     tpdb_search: https://theposterdb.com/search?term=The+Nun+II&section=movies
-    genre.sync:
-      - Horror
   1280444:
+    genre.sync:
+      - Science Fiction
+      - Thriller
     label_title: The Occupant
     sort_title: Occupant
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/633392
     tpdb_search: https://theposterdb.com/search?term=The+Occupant&section=movies
-    genre.sync:
-      - Science Fiction
-      - Thriller
   1216191:
+    genre.sync:
+      - Horror
     label_title: Oddity
     sort_title: Oddity
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/527341
     tpdb_search: https://theposterdb.com/search?term=Oddity&section=movies
-    genre.sync:
-      - Horror
   872585:
+    genre.sync:
+      - Drama
     label_title: Oppenheimer
     sort_title: Oppenheimer
     release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/389038
     tpdb_search: https://theposterdb.com/search?term=Oppenheimer&section=movies
-    genre.sync:
-      - Drama
   1082195:
+    genre.sync:
+      - Action
+      - Thriller
     label_title: The Order
     sort_title: Order
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/628975
     tpdb_search: https://theposterdb.com/search?term=The+Order&section=movies
+  68726:
     genre.sync:
       - Action
-      - Thriller
-  68726:
+      - Science Fiction
     label_title: Pacific Rim
     sort_title: Pacific Rim 1
     release_year: '2013'
     url_poster: https://theposterdb.com/api/assets/10220
     tpdb_search: https://theposterdb.com/search?term=Pacific+Rim&section=movies
+  268896:
     genre.sync:
       - Action
       - Science Fiction
-  268896:
     label_title: Pacific Rim Uprising
     sort_title: Pacific Rim 2
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/10221
     tpdb_search: https://theposterdb.com/search?term=Pacific+Rim+Uprising&section=movies
-    genre.sync:
-      - Action
-      - Science Fiction
   23827:
+    genre.sync:
+      - Horror
     label_title: Paranormal Activity
     sort_title: Paranormal Activity 1
     release_year: '2007'
     url_poster: https://theposterdb.com/api/assets/565391
     tpdb_search: https://theposterdb.com/search?term=Paranormal+Activity&section=movies
+  41436:
     genre.sync:
       - Horror
-  41436:
     label_title: Paranormal Activity 2
     sort_title: Paranormal Activity 2
     release_year: '2010'
     url_poster: https://theposterdb.com/api/assets/565390
     tpdb_search: https://theposterdb.com/search?term=Paranormal+Activity+2&section=movies
+  72571:
     genre.sync:
       - Horror
-  72571:
     label_title: Paranormal Activity 3
     sort_title: Paranormal Activity 3
     release_year: '2011'
     url_poster: https://theposterdb.com/api/assets/565388
     tpdb_search: https://theposterdb.com/search?term=Paranormal+Activity+3&section=movies
+  82990:
     genre.sync:
       - Horror
-  82990:
     label_title: Paranormal Activity 4
     sort_title: Paranormal Activity 4
     release_year: '2012'
     url_poster: https://theposterdb.com/api/assets/565387
     tpdb_search: https://theposterdb.com/search?term=Paranormal+Activity+4&section=movies
+  227348:
     genre.sync:
       - Horror
-  227348:
     label_title: Paranormal Activity The Marked Ones
     sort_title: Paranormal Activity 5
     release_year: '2014'
     url_poster: https://theposterdb.com/api/assets/565386
     tpdb_search: https://theposterdb.com/search?term=Paranormal+Activity+The+Marked+Ones&section=movies
+  146301:
     genre.sync:
       - Horror
-  146301:
     label_title: Paranormal Activity The Ghost Dimension
     sort_title: Paranormal Activity 6
     release_year: '2015'
     url_poster: https://theposterdb.com/api/assets/565385
     tpdb_search: https://theposterdb.com/search?term=Paranormal+Activity+The+Ghost+Dimension&section=movies
+  609972:
     genre.sync:
       - Horror
-  609972:
     label_title: Paranormal Activity Next of Kin
     sort_title: Paranormal Activity 7
     release_year: '2021'
     url_poster: https://theposterdb.com/api/assets/565384
     tpdb_search: https://theposterdb.com/search?term=Paranormal+Activity+Next+of+Kin&section=movies
+  59429:
     genre.sync:
       - Horror
-  59429:
     label_title: Paranormal Activity Tokyo Night
     sort_title: Paranormal Activity Tokyo Night
     release_year: '2010'
     url_poster: https://theposterdb.com/api/assets/565389
     tpdb_search: https://theposterdb.com/search?term=Paranormal+Activity+Tokyo+Night&section=movies
-    genre.sync:
-      - Horror
   496243:
+    genre.sync:
+      - Thriller
     label_title: Parasite
     sort_title: Parasite
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/47915
     tpdb_search: https://theposterdb.com/search?term=Parasite&section=movies
-    genre.sync:
-      - Thriller
   9820:
+    genre.sync:
+      - Family
     label_title: The Parent Trap
     sort_title: Parent Trap
     release_year: '1998'
     url_poster: https://theposterdb.com/api/assets/30941
     tpdb_search: https://theposterdb.com/search?term=The+Parent+Trap&section=movies
-    genre.sync:
-      - Family
   850920:
+    genre.sync:
+      - Comedy
+      - Horror
     label_title: The Parenting
     sort_title: Parenting
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/582725
     tpdb_search: https://theposterdb.com/search?term=The+Parenting&section=movies
-    genre.sync:
-      - Comedy
-      - Horror
   949423:
     label_title: Pearl
     sort_title: Pearl
@@ -3968,131 +3978,131 @@ metadata:
     genre.sync:
       - Horror
   32657:
+    genre.sync:
+      - Fantasy
     label_title: Percy Jackson and the Olympians The Lightning Thief
     sort_title: Percy Jackson 1
     release_year: '2010'
     url_poster: https://theposterdb.com/api/assets/52876
     tpdb_search: https://theposterdb.com/search?term=Percy+Jackson+and+the+Olympians+The+Lightning+Thief&section=movies
+  76285:
     genre.sync:
       - Fantasy
-  76285:
     label_title: Percy Jackson Sea of Monsters
     sort_title: Percy Jackson 2
     release_year: '2013'
     url_poster: https://theposterdb.com/api/assets/52877
     tpdb_search: https://theposterdb.com/search?term=Percy+Jackson+Sea+of+Monsters&section=movies
-    genre.sync:
-      - Fantasy
   361822:
+    genre.sync:
+      - Thriller
     label_title: Pinched
     sort_title: Pinched
     release_year: '2012'
     url_poster: https://theposterdb.com/api/assets/627824
     tpdb_search: https://theposterdb.com/search?term=Pinched&section=movies
-    genre.sync:
-      - Thriller
     url_background: https://i.imgur.com/ZcrrLl9.png
   22:
+    genre.sync:
+      - Fantasy
     label_title: Pirates of the Caribbean The Curse of the Black Pearl
     sort_title: Pirates of the Caribbean 1
     release_year: '2003'
     url_poster: https://theposterdb.com/api/assets/71935
     tpdb_search: https://theposterdb.com/search?term=Pirates+of+the+Caribbean+The+Curse+of+the+Black+Pearl&section=movies
+  58:
     genre.sync:
       - Fantasy
-  58:
     label_title: Pirates of the Caribbean Dead Mans Chest
     sort_title: Pirates of the Caribbean 2
     release_year: '2006'
     url_poster: https://theposterdb.com/api/assets/71936
     tpdb_search: https://theposterdb.com/search?term=Pirates+of+the+Caribbean+Dead+Mans+Chest&section=movies
+  285:
     genre.sync:
       - Fantasy
-  285:
     label_title: Pirates of the Caribbean At Worlds End
     sort_title: Pirates of the Caribbean 3
     release_year: '2007'
     url_poster: https://theposterdb.com/api/assets/71937
     tpdb_search: https://theposterdb.com/search?term=Pirates+of+the+Caribbean+At+Worlds+End&section=movies
+  1865:
     genre.sync:
       - Fantasy
-  1865:
     label_title: Pirates of the Caribbean On Stranger Tides
     sort_title: Pirates of the Caribbean 4
     release_year: '2011'
     url_poster: https://theposterdb.com/api/assets/71938
     tpdb_search: https://theposterdb.com/search?term=Pirates+of+the+Caribbean+On+Stranger+Tides&section=movies
+  166426:
     genre.sync:
       - Fantasy
-  166426:
     label_title: Pirates of the Caribbean Dead Men Tell No Tales
     sort_title: Pirates of the Caribbean 5
     release_year: '2017'
     url_poster: https://theposterdb.com/api/assets/71939
     tpdb_search: https://theposterdb.com/search?term=Pirates+of+the+Caribbean+Dead+Men+Tell+No+Tales&section=movies
-    genre.sync:
-      - Fantasy
   257344:
+    genre.sync:
+      - Action
+      - Comedy
     label_title: Pixels
     sort_title: Pixels
     release_year: '2015'
     url_poster: https://theposterdb.com/api/assets/51361
     tpdb_search: https://theposterdb.com/search?term=Pixels&section=movies
+  61791:
     genre.sync:
       - Action
-      - Comedy
-  61791:
+      - Science Fiction
     label_title: Rise of the Planet of the Apes
     sort_title: Planet of the Apes 1
     release_year: '2011'
     url_poster: https://theposterdb.com/api/assets/138600
     tpdb_search: https://theposterdb.com/search?term=Rise+of+the+Planet+of+the+Apes&section=movies
+  119450:
     genre.sync:
       - Action
       - Science Fiction
-  119450:
     label_title: Dawn of the Planet of the Apes
     sort_title: Planet of the Apes 2
     release_year: '2014'
     url_poster: https://theposterdb.com/api/assets/138601
     tpdb_search: https://theposterdb.com/search?term=Dawn+of+the+Planet+of+the+Apes&section=movies
+  281338:
     genre.sync:
       - Action
       - Science Fiction
-  281338:
     label_title: War for the Planet of the Apes
     sort_title: Planet of the Apes 3
     release_year: '2017'
     url_poster: https://theposterdb.com/api/assets/138602
     tpdb_search: https://theposterdb.com/search?term=War+for+the+Planet+of+the+Apes&section=movies
+  653346:
     genre.sync:
       - Action
       - Science Fiction
-  653346:
     label_title: Kingdom of the Planet of the Apes
     sort_title: Planet of the Apes 4
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/483882
     tpdb_search: https://theposterdb.com/search?term=Kingdom+of+the+Planet+of+the+Apes&section=movies
-    genre.sync:
-      - Action
-      - Science Fiction
   619264:
+    genre.sync:
+      - Thriller
     label_title: The Platform
     sort_title: Platform 1
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/530965
     tpdb_search: https://theposterdb.com/search?term=The+Platform&section=movies
+  1125510:
     genre.sync:
       - Thriller
-  1125510:
     label_title: The Platform 2
     sort_title: Platform 2
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/530964
     tpdb_search: https://theposterdb.com/search?term=The+Platform+2&section=movies
-    genre.sync:
-      - Thriller
   12429:
     label_title: Ponyo
     sort_title: Ponyo
@@ -4103,84 +4113,84 @@ metadata:
     genre.sync:
       - Anime
   792307:
+    genre.sync:
+      - Comedy
+      - Fantasy
     label_title: Poor Things
     sort_title: Poor Things
     release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/406893
     tpdb_search: https://theposterdb.com/search?term=Poor+Things&section=movies
-    genre.sync:
-      - Comedy
-      - Fantasy
   106:
+    genre.sync:
+      - Science Fiction
+      - Thriller
     label_title: Predator
     sort_title: Predator 1
     release_year: '1987'
     url_poster: https://theposterdb.com/api/assets/244
     tpdb_search: https://theposterdb.com/search?term=Predator&section=movies
+  169:
     genre.sync:
       - Science Fiction
       - Thriller
-  169:
     label_title: Predator 2
     sort_title: Predator 2
     release_year: '1990'
     url_poster: https://theposterdb.com/api/assets/245
     tpdb_search: https://theposterdb.com/search?term=Predator+2&section=movies
+  34851:
     genre.sync:
       - Science Fiction
       - Thriller
-  34851:
     label_title: Predators
     sort_title: Predator 3
     release_year: '2010'
     url_poster: https://theposterdb.com/api/assets/246
     tpdb_search: https://theposterdb.com/search?term=Predators&section=movies
+  346910:
     genre.sync:
       - Science Fiction
       - Thriller
-  346910:
     label_title: The Predator
     sort_title: Predator 4
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/247
     tpdb_search: https://theposterdb.com/search?term=The+Predator&section=movies
+  766507:
     genre.sync:
       - Science Fiction
       - Thriller
-  766507:
     label_title: Prey
     sort_title: Predator 5
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/255438
     tpdb_search: https://theposterdb.com/search?term=Prey&section=movies
-    genre.sync:
-      - Science Fiction
-      - Thriller
   1376434:
+    genre.sync:
+      - Animation
     label_title: Predator Killer of Killers
     sort_title: Predator 6
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/613324
     tpdb_search: https://theposterdb.com/search?term=Predator+Killer+of+Killers&section=movies
-    genre.sync:
-      - Animation
   1140535:
+    genre.sync:
+      - Horror
     label_title: Presence
     sort_title: Presence
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/577042
     tpdb_search: https://theposterdb.com/search?term=Presence&section=movies
-    genre.sync:
-      - Horror
   1124:
+    genre.sync:
+      - Science Fiction
+      - Thriller
     label_title: The Prestige
     sort_title: Prestige
     release_year: '2006'
     url_poster: https://theposterdb.com/api/assets/147547
     tpdb_search: https://theposterdb.com/search?term=The+Prestige&section=movies
-    genre.sync:
-      - Science Fiction
-      - Thriller
   128:
     label_title: Princess Mononoke
     sort_title: Princess Mononoke
@@ -4191,13 +4201,13 @@ metadata:
     genre.sync:
       - Anime
   680:
+    genre.sync:
+      - Thriller
     label_title: Pulp Fiction
     sort_title: Pulp Fiction
     release_year: '1994'
     url_poster: https://theposterdb.com/api/assets/31972
     tpdb_search: https://theposterdb.com/search?term=Pulp+Fiction&section=movies
-    genre.sync:
-      - Thriller
   417859:
     label_title: Puss in Boots
     sort_title: Puss in Boots 1
@@ -4226,29 +4236,29 @@ metadata:
     genre.sync:
       - Animation
   447332:
+    genre.sync:
+      - Horror
     label_title: A Quiet Place
     sort_title: Quite Place 1
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/511154
     tpdb_search: https://theposterdb.com/search?term=A+Quiet+Place&section=movies
+  520763:
     genre.sync:
       - Horror
-  520763:
     label_title: A Quiet Place Part II
     sort_title: Quite Place 2
     release_year: '2021'
     url_poster: https://theposterdb.com/api/assets/511155
     tpdb_search: https://theposterdb.com/search?term=A+Quiet+Place+Part+II&section=movies
+  762441:
     genre.sync:
       - Horror
-  762441:
     label_title: A Quiet Place Day One
     sort_title: Quite Place 3
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/511156
     tpdb_search: https://theposterdb.com/search?term=A+Quiet+Place+Day+One&section=movies
-    genre.sync:
-      - Horror
   2062:
     label_title: Ratatouille
     sort_title: Ratatouille
@@ -4259,150 +4269,150 @@ metadata:
     genre.sync:
       - Animation
   1013850:
+    genre.sync:
+      - Comedy
+      - Drama
     label_title: A Real Pain
     sort_title: Real Pain
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/557403
     tpdb_search: https://theposterdb.com/search?term=A+Real+Pain&section=movies
-    genre.sync:
-      - Comedy
-      - Drama
   848326:
+    genre.sync:
+      - Action
+      - Science Fiction
     label_title: Rebel Moon Part One A Child of Fire
     sort_title: Rebel Moon 1
     release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/484018
     tpdb_search: https://theposterdb.com/search?term=Rebel+Moon+Part+One+A+Child+of+Fire&section=movies
+  934632:
     genre.sync:
       - Action
       - Science Fiction
-  934632:
     label_title: Rebel Moon Part Two The Scargiver
     sort_title: Rebel Moon 2
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/484017
     tpdb_search: https://theposterdb.com/search?term=Rebel+Moon+Part+Two+The+Scargiver&section=movies
-    genre.sync:
-      - Action
-      - Science Fiction
   641:
+    genre.sync:
+      - Drama
+      - Thriller
     label_title: Requiem for a Dream
     sort_title: Requiem for a Dream
     release_year: '2000'
     url_poster: https://theposterdb.com/api/assets/139036
     tpdb_search: https://theposterdb.com/search?term=Requiem+for+a+Dream&section=movies
-    genre.sync:
-      - Drama
-      - Thriller
   11011:
+    genre.sync:
+      - Family
     label_title: Ri¢hie Ri¢h
     sort_title: Richie Rich
     release_year: '1994'
     url_poster: https://theposterdb.com/api/assets/120295
     tpdb_search: https://theposterdb.com/search?term=Ri¢hie+Ri¢h&section=movies
-    genre.sync:
-      - Family
   1022690:
+    genre.sync:
+      - Comedy
     label_title: Ricky Stanicky
     sort_title: Ricky Stanicky
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/507798
     tpdb_search: https://theposterdb.com/search?term=Ricky+Stanicky&section=movies
-    genre.sync:
-      - Comedy
   1278950:
+    genre.sync:
+      - Horror
     label_title: The Ritual
     sort_title: Ritual
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/601748
     tpdb_search: https://theposterdb.com/search?term=The+Ritual&section=movies
-    genre.sync:
-      - Horror
   20766:
+    genre.sync:
+      - Action
+      - Science Fiction
     label_title: The Road
     sort_title: Road
     release_year: '2009'
     url_poster: https://theposterdb.com/api/assets/123152
     tpdb_search: https://theposterdb.com/search?term=The+Road&section=movies
-    genre.sync:
-      - Action
-      - Science Fiction
   15373:
+    genre.sync:
+      - Comedy
     label_title: Role Models
     sort_title: Role Models
     release_year: '2008'
     url_poster: https://theposterdb.com/api/assets/53083
     tpdb_search: https://theposterdb.com/search?term=Role+Models&section=movies
-    genre.sync:
-      - Comedy
   848187:
+    genre.sync:
+      - Action
+      - Comedy
     label_title: Role Play
     sort_title: Role Play
     release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/452839
     tpdb_search: https://theposterdb.com/search?term=Role+Play&section=movies
-    genre.sync:
-      - Action
-      - Comedy
   14444:
+    genre.sync:
+      - Animation
     label_title: The Rugrats Movie
     sort_title: Rugrats Movie
     release_year: '1998'
     url_poster: https://theposterdb.com/api/assets/82876
     tpdb_search: https://theposterdb.com/search?term=The+Rugrats+Movie&section=movies
-    genre.sync:
-      - Animation
   930564:
+    genre.sync:
+      - Comedy
+      - Thriller
     label_title: Saltburn
     sort_title: Saltburn
     release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/498592
     tpdb_search: https://theposterdb.com/search?term=Saltburn&section=movies
-    genre.sync:
-      - Comedy
-      - Thriller
   11528:
+    genre.sync:
+      - Family
     label_title: The Sandlot
     sort_title: Sandlot
     release_year: '1993'
     url_poster: https://theposterdb.com/api/assets/221978
     tpdb_search: https://theposterdb.com/search?term=The+Sandlot&section=movies
+  9637:
     genre.sync:
       - Family
-  9637:
     label_title: Scooby-Doo
     sort_title: Scooby-Doo 1
     release_year: '2002'
     url_poster: https://theposterdb.com/api/assets/5899
     tpdb_search: https://theposterdb.com/search?term=Scooby-Doo&section=movies
+  11024:
     genre.sync:
       - Family
-  11024:
     label_title: Scooby-Doo 2 Monsters Unleashed
     sort_title: Scooby-Doo 2
     release_year: '2004'
     url_poster: https://theposterdb.com/api/assets/5900
     tpdb_search: https://theposterdb.com/search?term=Scooby-Doo+2+Monsters+Unleashed&section=movies
-    genre.sync:
-      - Family
   22538:
+    genre.sync:
+      - Action
+      - Comedy
     label_title: Scott Pilgrim vs. the World
     sort_title: Scott Pilgrim vs. the World
     release_year: '2010'
     url_poster: https://theposterdb.com/api/assets/54722
     tpdb_search: https://theposterdb.com/search?term=Scott+Pilgrim+vs.+the+World&section=movies
+  807:
     genre.sync:
       - Action
-      - Comedy
-  807:
+      - Thriller
     label_title: Se7en
     sort_title: Se7en
     release_year: '1995'
     url_poster: https://theposterdb.com/api/assets/514688
     tpdb_search: https://theposterdb.com/search?term=Se7en&section=movies
-    genre.sync:
-      - Action
-      - Thriller
   51739:
     label_title: The Secret World of Arrietty
     sort_title: Secret World of Arrietty
@@ -4413,14 +4423,14 @@ metadata:
     genre.sync:
       - Anime
   1211472:
+    genre.sync:
+      - Drama
+      - Thriller
     label_title: September 5
     sort_title: September 5
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/570224
     tpdb_search: https://theposterdb.com/search?term=September+5&section=movies
-    genre.sync:
-      - Drama
-      - Thriller
   566525:
     label_title: Shang-Chi and the Legend of the Ten Rings
     sort_title: Shang-Chi and the Legend of the Ten Rings
@@ -4431,53 +4441,53 @@ metadata:
     genre.sync:
       - Superhero
   278:
+    genre.sync:
+      - Drama
     label_title: The Shawshank Redemption
     sort_title: Shawshank Redemption
     release_year: '1994'
     url_poster: https://theposterdb.com/api/assets/51857
     tpdb_search: https://theposterdb.com/search?term=The+Shawshank+Redemption&section=movies
-    genre.sync:
-      - Drama
   287947:
+    genre.sync:
+      - Superhero
     label_title: Shazam!
     sort_title: Shazam 1
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/40935
     tpdb_search: https://theposterdb.com/search?term=Shazam!&section=movies
+  594767:
     genre.sync:
       - Superhero
-  594767:
     label_title: Shazam! Fury of the Gods
     sort_title: Shazam 2
     release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/348385
     tpdb_search: https://theposterdb.com/search?term=Shazam!+Fury+of+the+Gods&section=movies
-    genre.sync:
-      - Superhero
   34016:
+    genre.sync:
+      - Comedy
     label_title: "She's Out of My League"
     sort_title: "She's Out of My League"
     release_year: '2010'
     url_poster: https://theposterdb.com/api/assets/53707
     tpdb_search: "https://theposterdb.com/search?term=She's+Out+of+My+League&section=movies"
-    genre.sync:
-      - Comedy
   694:
+    genre.sync:
+      - Horror
     label_title: The Shining
     sort_title: Shining
     release_year: '1980'
     url_poster: https://theposterdb.com/api/assets/32302
     tpdb_search: https://theposterdb.com/search?term=The+Shining&section=movies
-    genre.sync:
-      - Horror
   25132:
+    genre.sync:
+      - Family
     label_title: Shorts
     sort_title: Shorts
     release_year: '2009'
     url_poster: https://theposterdb.com/api/assets/632286
     tpdb_search: https://theposterdb.com/search?term=Shorts&section=movies
-    genre.sync:
-      - Family
   808:
     label_title: Shrek
     sort_title: Shrek 1
@@ -4515,186 +4525,186 @@ metadata:
     genre.sync:
       - Animation
   11324:
+    genre.sync:
+      - Thriller
     label_title: Shutter Island
     sort_title: Shutter Island
     release_year: '2010'
     url_poster: https://theposterdb.com/api/assets/476934
     tpdb_search: https://theposterdb.com/search?term=Shutter+Island&section=movies
-    genre.sync:
-      - Thriller
   273481:
+    genre.sync:
+      - Action
     label_title: Sicario
     sort_title: Sicario 1
     release_year: '2015'
     url_poster: https://theposterdb.com/api/assets/5943
     tpdb_search: https://theposterdb.com/search?term=Sicario&section=movies
+  400535:
     genre.sync:
       - Action
-  400535:
     label_title: Sicario Day of the Soldado
     sort_title: Sicario 2
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/5944
     tpdb_search: https://theposterdb.com/search?term=Sicario+Day+of+the+Soldado&section=movies
-    genre.sync:
-      - Action
   274:
+    genre.sync:
+      - Horror
     label_title: The Silence of the Lambs
     sort_title: Silence of the Lambs
     release_year: '1991'
     url_poster: https://theposterdb.com/api/assets/21371
     tpdb_search: https://theposterdb.com/search?term=The+Silence+of+the+Lambs&section=movies
-    genre.sync:
-      - Horror
   484247:
+    genre.sync:
+      - Comedy
+      - Thriller
     label_title: A Simple Favor
     sort_title: Simple Favor 1
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/599014
     tpdb_search: https://theposterdb.com/search?term=A+Simple+Favor&section=movies
+  974573:
     genre.sync:
       - Comedy
       - Thriller
-  974573:
     label_title: Another Simple Favor
     sort_title: Simple Favor 2
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/599015
     tpdb_search: https://theposterdb.com/search?term=Another+Simple+Favor&section=movies
-    genre.sync:
-      - Comedy
-      - Thriller
   10223:
+    genre.sync:
+      - Thriller
     label_title: A Simple Plan
     sort_title: Simple Plan
     release_year: '1998'
     url_poster: https://theposterdb.com/api/assets/36103
     tpdb_search: https://theposterdb.com/search?term=A+Simple+Plan&section=movies
-    genre.sync:
-      - Thriller
   82507:
+    genre.sync:
+      - Horror
     label_title: Sinister
     sort_title: Sinister 1
     release_year: '2012'
     url_poster: https://theposterdb.com/api/assets/108461
     tpdb_search: https://theposterdb.com/search?term=Sinister&section=movies
+  283445:
     genre.sync:
       - Horror
-  283445:
     label_title: Sinister 2
     sort_title: Sinister 2
     release_year: '2015'
     url_poster: https://theposterdb.com/api/assets/108462
     tpdb_search: https://theposterdb.com/search?term=Sinister+2&section=movies
+  1233413:
     genre.sync:
       - Horror
-  1233413:
     label_title: Sinners
     sort_title: Sinners
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/584649
     tpdb_search: https://theposterdb.com/search?term=Sinners&section=movies
-    genre.sync:
-      - Horror
   840326:
+    genre.sync:
+      - Action
     label_title: Sisu
     sort_title: Sisu
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/392023
     tpdb_search: https://theposterdb.com/search?term=Sisu&section=movies
-    genre.sync:
-      - Action
   1102493:
+    genre.sync:
+      - Drama
     label_title: Small Things Like These
     sort_title: Small Things Like These
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/553578
     tpdb_search: https://theposterdb.com/search?term=Small+Things+Like+These&section=movies
-    genre.sync:
-      - Drama
   882598:
+    genre.sync:
+      - Horror
     label_title: Smile
     sort_title: Smile 1
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/545246
     tpdb_search: https://theposterdb.com/search?term=Smile&section=movies
+  1100782:
     genre.sync:
       - Horror
-  1100782:
     label_title: Smile 2
     sort_title: Smile 2
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/545245
     tpdb_search: https://theposterdb.com/search?term=Smile+2&section=movies
-    genre.sync:
-      - Horror
   447273:
+    genre.sync:
+      - Family
     label_title: Snow White
     sort_title: Snow White
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/585404
     tpdb_search: https://theposterdb.com/search?term=Snow+White&section=movies
-    genre.sync:
-      - Family
   454626:
+    genre.sync:
+      - Animation
     label_title: Sonic the Hedgehog
     sort_title: Sonic the Hedgehog 1
     release_year: '2020'
     url_poster: https://theposterdb.com/api/assets/486372
     tpdb_search: https://theposterdb.com/search?term=Sonic+the+Hedgehog&section=movies
+  675353:
     genre.sync:
       - Animation
-  675353:
     label_title: Sonic the Hedgehog 2
     sort_title: Sonic the Hedgehog 2
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/486371
     tpdb_search: https://theposterdb.com/search?term=Sonic+the+Hedgehog+2&section=movies
+  939243:
     genre.sync:
       - Animation
-  939243:
     label_title: Sonic the Hedgehog 3
     sort_title: Sonic the Hedgehog 3
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/564230
     tpdb_search: https://theposterdb.com/search?term=Sonic+the+Hedgehog+3&section=movies
-    genre.sync:
-      - Animation
   1205515:
+    genre.sync:
+      - Drama
     label_title: Sorry, Baby
     sort_title: Sorry, Baby
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/598606
     tpdb_search: https://theposterdb.com/search?term=Sorry,+Baby&section=movies
-    genre.sync:
-      - Drama
   45612:
+    genre.sync:
+      - Science Fiction
+      - Thriller
     label_title: Source Code
     sort_title: Source Code
     release_year: '2011'
     url_poster: https://theposterdb.com/api/assets/41179
     tpdb_search: https://theposterdb.com/search?term=Source+Code&section=movies
-    genre.sync:
-      - Science Fiction
-      - Thriller
   1130022:
+    genre.sync:
+      - Action
+      - Thriller
     label_title: Sovereign
     sort_title: Sovereign
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/624088
     tpdb_search: https://theposterdb.com/search?term=Sovereign&section=movies
+  636706:
     genre.sync:
       - Action
-      - Thriller
-  636706:
+      - Science Fiction
     label_title: Spaceman
     sort_title: Spaceman
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/461294
     tpdb_search: https://theposterdb.com/search?term=Spaceman&section=movies
-    genre.sync:
-      - Action
-      - Science Fiction
   557:
     label_title: Spider-Man
     sort_title: Spider-Man 1
@@ -4795,211 +4805,211 @@ metadata:
     genre.sync:
       - Anime
   381288:
+    genre.sync:
+      - Action
     label_title: Split
     sort_title: Split
     release_year: '2017'
     url_poster: https://theposterdb.com/api/assets/569190
     tpdb_search: https://theposterdb.com/search?term=Split&section=movies
-    genre.sync:
-      - Action
   332562:
+    genre.sync:
+      - Drama
     label_title: A Star Is Born
     sort_title: Star Is Born
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/44712
     tpdb_search: https://theposterdb.com/search?term=A+Star+Is+Born&section=movies
-    genre.sync:
-      - Drama
   11:
+    genre.sync:
+      - Action
+      - Science Fiction
     label_title: A New Hope
     sort_title: Star Wars 01
     release_year: '1977'
     url_poster: https://theposterdb.com/api/assets/133721
     tpdb_search: https://theposterdb.com/search?term=A+New+Hope&section=movies
+  1891:
     genre.sync:
       - Action
       - Science Fiction
-  1891:
     label_title: The Empire Strikes Back
     sort_title: Star Wars 02
     release_year: '1980'
     url_poster: https://theposterdb.com/api/assets/133723
     tpdb_search: https://theposterdb.com/search?term=The+Empire+Strikes+Back&section=movies
+  1892:
     genre.sync:
       - Action
       - Science Fiction
-  1892:
     label_title: Return of the Jedi
     sort_title: Star Wars 03
     release_year: '1983'
     url_poster: https://theposterdb.com/api/assets/133724
     tpdb_search: https://theposterdb.com/search?term=Return+of+the+Jedi&section=movies
+  1893:
     genre.sync:
       - Action
       - Science Fiction
-  1893:
     label_title: Star Wars Episode I The Phantom Menace
     sort_title: Star Wars 04
     release_year: '1999'
     url_poster: https://theposterdb.com/api/assets/133725
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+Episode+I+The+Phantom+Menace&section=movies
+  1894:
     genre.sync:
       - Action
       - Science Fiction
-  1894:
     label_title: Star Wars Episode II Attack of the Clones
     sort_title: Star Wars 05
     release_year: '2002'
     url_poster: https://theposterdb.com/api/assets/133726
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+Episode+II+Attack+of+the+Clones&section=movies
+  1895:
     genre.sync:
       - Action
       - Science Fiction
-  1895:
     label_title: Star Wars Episode III Revenge of the Sith
     sort_title: Star Wars 06
     release_year: '2005'
     url_poster: https://theposterdb.com/api/assets/133727
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+Episode+III+Revenge+of+the+Sith&section=movies
+  12180:
     genre.sync:
       - Action
       - Science Fiction
-  12180:
     label_title: Star Wars The Clone Wars
     sort_title: Star Wars 07
     release_year: '2008'
     url_poster: https://theposterdb.com/api/assets/133728
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+The+Clone+Wars&section=movies
+  140607:
     genre.sync:
       - Action
       - Science Fiction
-  140607:
     label_title: Star Wars The Force Awakens
     sort_title: Star Wars 08
     release_year: '2015'
     url_poster: https://theposterdb.com/api/assets/133729
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+The+Force+Awakens&section=movies
+  330459:
     genre.sync:
       - Action
       - Science Fiction
-  330459:
     label_title: Rogue One A Star Wars Story
     sort_title: Star Wars 09
     release_year: '2016'
     url_poster: https://theposterdb.com/api/assets/133730
     tpdb_search: https://theposterdb.com/search?term=Rogue+One+A+Star+Wars+Story&section=movies
+  181808:
     genre.sync:
       - Action
       - Science Fiction
-  181808:
     label_title: Star Wars The Last Jedi
     sort_title: Star Wars 10
     release_year: '2017'
     url_poster: https://theposterdb.com/api/assets/133731
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+The+Last+Jedi&section=movies
+  348350:
     genre.sync:
       - Action
       - Science Fiction
-  348350:
     label_title: Solo A Star Wars Story
     sort_title: Star Wars 11
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/133732
     tpdb_search: https://theposterdb.com/search?term=Solo+A+Star+Wars+Story&section=movies
+  181812:
     genre.sync:
       - Action
       - Science Fiction
-  181812:
     label_title: Star Wars The Rise of Skywalker
     sort_title: Star Wars 12
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/133733
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+The+Rise+of+Skywalker&section=movies
-    genre.sync:
-      - Action
-      - Science Fiction
   2056:
+    genre.sync:
+      - Comedy
+      - Drama
     label_title: The Station Agent
     sort_title: Station Agent
     release_year: '2003'
     url_poster: https://theposterdb.com/api/assets/631238
     tpdb_search: https://theposterdb.com/search?term=The+Station+Agent&section=movies
-    genre.sync:
-      - Comedy
-      - Drama
   10860:
+    genre.sync:
+      - Drama
     label_title: Steel Magnolias
     sort_title: Steel Magnolias
     release_year: '1989'
     url_poster: https://theposterdb.com/api/assets/456785
     tpdb_search: https://theposterdb.com/search?term=Steel+Magnolias&section=movies
-    genre.sync:
-      - Drama
   12133:
+    genre.sync:
+      - Comedy
     label_title: Step Brothers
     sort_title: Step Brothers
     release_year: '2008'
     url_poster: https://theposterdb.com/api/assets/104938
     tpdb_search: https://theposterdb.com/search?term=Step+Brothers&section=movies
-    genre.sync:
-      - Comedy
   806731:
+    genre.sync:
+      - Horror
     label_title: Stream
     sort_title: Stream
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/630693
     tpdb_search: https://theposterdb.com/search?term=Stream&section=movies
-    genre.sync:
-      - Horror
   395993:
+    genre.sync:
+      - Drama
     label_title: Stronger
     sort_title: Stronger
     release_year: '2017'
     url_poster: https://theposterdb.com/api/assets/504902
     tpdb_search: https://theposterdb.com/search?term=Stronger&section=movies
-    genre.sync:
-      - Drama
   1064028:
+    genre.sync:
+      - Horror
     label_title: Subservience
     sort_title: Subservience
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/524560
     tpdb_search: https://theposterdb.com/search?term=Subservience&section=movies
+  933260:
     genre.sync:
       - Horror
-  933260:
     label_title: The Substance
     sort_title: Substance
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/519057
     tpdb_search: https://theposterdb.com/search?term=The+Substance&section=movies
-    genre.sync:
-      - Horror
   297761:
+    genre.sync:
+      - Superhero
     label_title: Suicide Squad
     sort_title: Suicide Squad 1
     release_year: '2016'
     url_poster: https://theposterdb.com/api/assets/40931
     tpdb_search: https://theposterdb.com/search?term=Suicide+Squad&section=movies
+  436969:
     genre.sync:
       - Superhero
-  436969:
     label_title: The Suicide Squad
     sort_title: Suicide Squad 2
     release_year: '2021'
     url_poster: https://theposterdb.com/api/assets/167990
     tpdb_search: https://theposterdb.com/search?term=The+Suicide+Squad&section=movies
-    genre.sync:
-      - Superhero
   1272:
+    genre.sync:
+      - Science Fiction
+      - Thriller
     label_title: Sunshine
     sort_title: Sunshine
     release_year: '2007'
     url_poster: https://theposterdb.com/api/assets/211559
     tpdb_search: https://theposterdb.com/search?term=Sunshine&section=movies
-    genre.sync:
-      - Science Fiction
-      - Thriller
   502356:
     label_title: The Super Mario Bros. Movie
     sort_title: Super Mario Bros. Movie
@@ -5010,29 +5020,29 @@ metadata:
     genre.sync:
       - Animation
   39939:
+    genre.sync:
+      - Comedy
     label_title: Super Troopers
     sort_title: Super Troopers
     release_year: '2001'
     url_poster: https://theposterdb.com/api/assets/220022
     tpdb_search: https://theposterdb.com/search?term=Super+Troopers&section=movies
+  50022:
     genre.sync:
       - Comedy
-  50022:
     label_title: Super Troopers 2
     sort_title: Super Troopers 2
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/220023
     tpdb_search: https://theposterdb.com/search?term=Super+Troopers+2&section=movies
-    genre.sync:
-      - Comedy
   1061474:
+    genre.sync:
+      - Superhero
     label_title: Superman
     sort_title: Superman
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/625065
     tpdb_search: https://theposterdb.com/search?term=Superman&section=movies
-    genre.sync:
-      - Superhero
   1008042:
     label_title: Talk to Me
     sort_title: Talk to Me
@@ -5043,46 +5053,46 @@ metadata:
     genre.sync:
       - Horror
   877703:
+    genre.sync:
+      - Action
     label_title: Teen Wolf The Movie
     sort_title: Teen Wolf The Movie
     release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/293897
     tpdb_search: https://theposterdb.com/search?term=Teen+Wolf+The+Movie&section=movies
-    genre.sync:
-      - Action
   577922:
+    genre.sync:
+      - Science Fiction
+      - Thriller
     label_title: Tenet
     sort_title: Tenet
     release_year: '2020'
     url_poster: https://theposterdb.com/api/assets/92782
     tpdb_search: https://theposterdb.com/search?term=Tenet&section=movies
-    genre.sync:
-      - Science Fiction
-      - Thriller
   420634:
+    genre.sync:
+      - Horror
     label_title: Terrifier
     sort_title: Terrifier
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/535096
     tpdb_search: https://theposterdb.com/search?term=Terrifier&section=movies
+  663712:
     genre.sync:
       - Horror
-  663712:
     label_title: Terrifier 2
     sort_title: Terrifier 2
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/535097
     tpdb_search: https://theposterdb.com/search?term=Terrifier+2&section=movies
+  1034541:
     genre.sync:
       - Horror
-  1034541:
     label_title: Terrifier 3
     sort_title: Terrifier 3
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/535098
     tpdb_search: https://theposterdb.com/search?term=Terrifier+3&section=movies
-    genre.sync:
-      - Horror
   10195:
     label_title: Thor
     sort_title: Thor 1
@@ -5129,45 +5139,45 @@ metadata:
     genre.sync:
       - Superhero
   597:
+    genre.sync:
+      - Drama
     label_title: Titanic
     sort_title: Titanic
     release_year: '1997'
     url_poster: https://theposterdb.com/api/assets/101730
     tpdb_search: https://theposterdb.com/search?term=Titanic&section=movies
-    genre.sync:
-      - Drama
   11969:
+    genre.sync:
+      - Action
     label_title: Tombstone
     sort_title: Tombstone
     release_year: '1993'
     url_poster: https://theposterdb.com/api/assets/53836
     tpdb_search: https://theposterdb.com/search?term=Tombstone&section=movies
+  744:
     genre.sync:
       - Action
-  744:
     label_title: Top Gun
     sort_title: Top Gun
     release_year: '1986'
     url_poster: https://theposterdb.com/api/assets/251590
     tpdb_search: https://theposterdb.com/search?term=Top+Gun&section=movies
+  361743:
     genre.sync:
       - Action
-  361743:
     label_title: Top Gun Maverick
     sort_title: Top Gun Maverick
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/251591
     tpdb_search: https://theposterdb.com/search?term=Top+Gun+Maverick&section=movies
+  23168:
     genre.sync:
       - Action
-  23168:
     label_title: The Town
     sort_title: Town
     release_year: '2010'
     url_poster: https://theposterdb.com/api/assets/456926
     tpdb_search: https://theposterdb.com/search?term=The+Town&section=movies
-    genre.sync:
-      - Action
   862:
     label_title: Toy Story
     sort_title: Toy Story 1
@@ -5205,191 +5215,191 @@ metadata:
     genre.sync:
       - Animation
   396535:
+    genre.sync:
+      - Thriller
     label_title: Train to Busan
     sort_title: Train to Busan 1
     release_year: '2016'
     url_poster: https://theposterdb.com/api/assets/82794
     tpdb_search: https://theposterdb.com/search?term=Train+to+Busan&section=movies
+  389868:
     genre.sync:
       - Thriller
-  389868:
     label_title: Seoul Station
     sort_title: Train to Busan 2
     release_year: '2016'
     url_poster: https://theposterdb.com/api/assets/82795
     tpdb_search: https://theposterdb.com/search?term=Seoul+Station&section=movies
+  581392:
     genre.sync:
       - Thriller
-  581392:
     label_title: Peninsula
     sort_title: Train to Busan 3
     release_year: '2020'
     url_poster: https://theposterdb.com/api/assets/82796
     tpdb_search: https://theposterdb.com/search?term=Peninsula&section=movies
-    genre.sync:
-      - Thriller
   1477453:
+    genre.sync:
+      - Documentary
     label_title: 'Trainwreck: The Astroworld Tragedy'
     sort_title: 'Trainwreck: The Astroworld Tragedy'
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/623311
     tpdb_search: https://theposterdb.com/search?term=Trainwreck:+The+Astroworld+Tragedy&section=movies
-    genre.sync:
-      - Documentary
   1858:
+    genre.sync:
+      - Action
+      - Science Fiction
     label_title: Transformers
     sort_title: Transformers 1
     release_year: '2007'
     url_poster: https://theposterdb.com/api/assets/385807
     tpdb_search: https://theposterdb.com/search?term=Transformers&section=movies
+  8373:
     genre.sync:
       - Action
       - Science Fiction
-  8373:
     label_title: Transformers Revenge of the Fallen
     sort_title: Transformers 2
     release_year: '2009'
     url_poster: https://theposterdb.com/api/assets/385808
     tpdb_search: https://theposterdb.com/search?term=Transformers+Revenge+of+the+Fallen&section=movies
+  38356:
     genre.sync:
       - Action
       - Science Fiction
-  38356:
     label_title: Transformers Dark of the Moon
     sort_title: Transformers 3
     release_year: '2011'
     url_poster: https://theposterdb.com/api/assets/385809
     tpdb_search: https://theposterdb.com/search?term=Transformers+Dark+of+the+Moon&section=movies
+  91314:
     genre.sync:
       - Action
       - Science Fiction
-  91314:
     label_title: Transformers Age of Extinction
     sort_title: Transformers 4
     release_year: '2014'
     url_poster: https://theposterdb.com/api/assets/385810
     tpdb_search: https://theposterdb.com/search?term=Transformers+Age+of+Extinction&section=movies
+  335988:
     genre.sync:
       - Action
       - Science Fiction
-  335988:
     label_title: Transformers The Last Knight
     sort_title: Transformers 5
     release_year: '2017'
     url_poster: https://theposterdb.com/api/assets/385811
     tpdb_search: https://theposterdb.com/search?term=Transformers+The+Last+Knight&section=movies
+  424783:
     genre.sync:
       - Action
       - Science Fiction
-  424783:
     label_title: Bumblebee
     sort_title: Transformers 6
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/385812
     tpdb_search: https://theposterdb.com/search?term=Bumblebee&section=movies
+    title: 'Transformers: Bumblebee'
+  667538:
     genre.sync:
       - Action
       - Science Fiction
-    title: 'Transformers: Bumblebee'
-  667538:
     label_title: Transformers Rise of the Beasts
     sort_title: Transformers Beasts 1
     release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/385814
     tpdb_search: https://theposterdb.com/search?term=Transformers+Rise+of+the+Beasts&section=movies
-    genre.sync:
-      - Action
-      - Science Fiction
   698687:
+    genre.sync:
+      - Animation
     label_title: Transformers One
     sort_title: Transformers One
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/537050
     tpdb_search: https://theposterdb.com/search?term=Transformers+One&section=movies
-    genre.sync:
-      - Animation
   97:
+    genre.sync:
+      - Action
+      - Science Fiction
     label_title: Tron
     sort_title: Tron 1
     release_year: '1982'
     url_poster: https://theposterdb.com/api/assets/6985
     tpdb_search: https://theposterdb.com/search?term=Tron&section=movies
+  20526:
     genre.sync:
       - Action
       - Science Fiction
-  20526:
     label_title: TRON Legacy
     sort_title: Tron 2
     release_year: '2010'
     url_poster: https://theposterdb.com/api/assets/6986
     tpdb_search: https://theposterdb.com/search?term=TRON+Legacy&section=movies
-    genre.sync:
-      - Action
-      - Science Fiction
   8966:
+    genre.sync:
+      - Fantasy
     label_title: Twilight
     sort_title: Twilight 1
     release_year: '2008'
     url_poster: https://theposterdb.com/api/assets/1133
     tpdb_search: https://theposterdb.com/search?term=Twilight&section=movies
+  18239:
     genre.sync:
       - Fantasy
-  18239:
     label_title: The Twilight Saga New Moon
     sort_title: Twilight 2
     release_year: '2009'
     url_poster: https://theposterdb.com/api/assets/1134
     tpdb_search: https://theposterdb.com/search?term=The+Twilight+Saga+New+Moon&section=movies
+  24021:
     genre.sync:
       - Fantasy
-  24021:
     label_title: The Twilight Saga Eclipse
     sort_title: Twilight 3
     release_year: '2010'
     url_poster: https://theposterdb.com/api/assets/1135
     tpdb_search: https://theposterdb.com/search?term=The+Twilight+Saga+Eclipse&section=movies
+  50619:
     genre.sync:
       - Fantasy
-  50619:
     label_title: The Twilight Saga Breaking Dawn Part 1
     sort_title: Twilight 4
     release_year: '2011'
     url_poster: https://theposterdb.com/api/assets/1136
     tpdb_search: https://theposterdb.com/search?term=The+Twilight+Saga+Breaking+Dawn+Part+1&section=movies
+  50620:
     genre.sync:
       - Fantasy
-  50620:
     label_title: The Twilight Saga Breaking Dawn Part 2
     sort_title: Twilight 5
     release_year: '2012'
     url_poster: https://theposterdb.com/api/assets/1137
     tpdb_search: https://theposterdb.com/search?term=The+Twilight+Saga+Breaking+Dawn+Part+2&section=movies
-    genre.sync:
-      - Fantasy
   718821:
+    genre.sync:
+      - Thriller
     label_title: Twisters
     sort_title: Twisters
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/515955
     tpdb_search: https://theposterdb.com/search?term=Twisters&section=movies
-    genre.sync:
-      - Thriller
   1284120:
+    genre.sync:
+      - Horror
     label_title: The Ugly Stepsister
     sort_title: Ugly Stepsister
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/596816
     tpdb_search: https://theposterdb.com/search?term=The+Ugly+Stepsister&section=movies
-    genre.sync:
-      - Horror
   9741:
+    genre.sync:
+      - Action
     label_title: Unbreakable
     sort_title: Unbreakable
     release_year: '2000'
     url_poster: https://theposterdb.com/api/assets/569191
     tpdb_search: https://theposterdb.com/search?term=Unbreakable&section=movies
-    genre.sync:
-      - Action
   473033:
     label_title: Uncut Gems
     sort_title: Uncut Gems
@@ -5401,13 +5411,13 @@ metadata:
       - Comedy
       - Thriller
   1232546:
+    genre.sync:
+      - Horror
     label_title: Until Dawn
     sort_title: Until Dawn
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/597385
     tpdb_search: https://theposterdb.com/search?term=Until+Dawn&section=movies
-    genre.sync:
-      - Horror
   14160:
     label_title: Up
     sort_title: Up
@@ -5418,21 +5428,21 @@ metadata:
     genre.sync:
       - Animation
   458723:
+    genre.sync:
+      - Horror
     label_title: Us
     sort_title: Us
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/12679
     tpdb_search: https://theposterdb.com/search?term=Us&section=movies
-    genre.sync:
-      - Horror
   40264:
+    genre.sync:
+      - Comedy
     label_title: Vampires Suck
     sort_title: Vampires Suck
     release_year: '2010'
     url_poster: https://theposterdb.com/api/assets/146176
     tpdb_search: https://theposterdb.com/search?term=Vampires+Suck&section=movies
-    genre.sync:
-      - Comedy
   335983:
     label_title: Venom
     sort_title: Venom 1
@@ -5489,14 +5499,14 @@ metadata:
     genre.sync:
       - Drama
   1164614:
+    genre.sync:
+      - Comedy
+      - Science Fiction
     label_title: Were All Gonna Die
     sort_title: Were All Gonna Die
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/627988
     tpdb_search: https://theposterdb.com/search?term=Were+All+Gonna+Die&section=movies
-    genre.sync:
-      - Comedy
-      - Science Fiction
   894205:
     label_title: Werewolf by Night
     sort_title: Werewolf by Night
@@ -5507,13 +5517,13 @@ metadata:
     genre.sync:
       - Superhero
   970450:
+    genre.sync:
+      - Horror
     label_title: Werewolves
     sort_title: Werewolves
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/543620
     tpdb_search: https://theposterdb.com/search?term=Werewolves&section=movies
-    genre.sync:
-      - Horror
   785084:
     label_title: The Whale
     sort_title: Whale
@@ -5524,46 +5534,46 @@ metadata:
     genre.sync:
       - Drama
   246741:
+    genre.sync:
+      - Comedy
     label_title: What We Do in the Shadows
     sort_title: What We Do in the Shadows
     release_year: '2014'
     url_poster: https://theposterdb.com/api/assets/100401
     tpdb_search: https://theposterdb.com/search?term=What+We+Do+in+the+Shadows&section=movies
+  433310:
     genre.sync:
       - Comedy
-  433310:
+      - Drama
     label_title: When We First Met
     sort_title: When We First Met
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/262094
     tpdb_search: https://theposterdb.com/search?term=When+We+First+Met&section=movies
-    genre.sync:
-      - Comedy
-      - Drama
   244786:
+    genre.sync:
+      - Drama
     label_title: Whiplash
     sort_title: Whiplash
     release_year: '2014'
     url_poster: https://theposterdb.com/api/assets/139193
     tpdb_search: https://theposterdb.com/search?term=Whiplash&section=movies
-    genre.sync:
-      - Drama
   402431:
+    genre.sync:
+      - Family
     label_title: Wicked
     sort_title: Wicked
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/497899
     tpdb_search: https://theposterdb.com/search?term=Wicked&section=movies
-    genre.sync:
-      - Family
   1184918:
+    genre.sync:
+      - Animation
     label_title: The Wild Robot
     sort_title: Wild Robot
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/531118
     tpdb_search: https://theposterdb.com/search?term=The+Wild+Robot&section=movies
-    genre.sync:
-      - Animation
   310131:
     label_title: The Witch
     sort_title: Witch
@@ -5575,30 +5585,30 @@ metadata:
       - Horror
       - Thriller
   666243:
+    genre.sync:
+      - Animation
     label_title: The Witcher Nightmare of the Wolf
     sort_title: Witcher 1
     release_year: '2021'
     url_poster: https://theposterdb.com/api/assets/527302
     tpdb_search: https://theposterdb.com/search?term=The+Witcher+Nightmare+of+the+Wolf&section=movies
+  1203329:
     genre.sync:
       - Animation
-  1203329:
     label_title: The Witcher Sirens of the Deep
     sort_title: Witcher 2
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/572724
     tpdb_search: https://theposterdb.com/search?term=The+Witcher+Sirens+of+the+Deep&section=movies
-    genre.sync:
-      - Animation
   710295:
+    genre.sync:
+      - Fantasy
+      - Horror
     label_title: Wolf Man
     sort_title: Wolf Man
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/564474
     tpdb_search: https://theposterdb.com/search?term=Wolf+Man&section=movies
-    genre.sync:
-      - Fantasy
-      - Horror
   76170:
     label_title: The Wolverine
     sort_title: Wolverine
@@ -5609,46 +5619,46 @@ metadata:
     genre.sync:
       - Superhero
   835113:
+    genre.sync:
+      - Horror
+      - Thriller
     label_title: Woman of the Hour
     sort_title: Woman of the Hour
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/535335
     tpdb_search: https://theposterdb.com/search?term=Woman+of+the+Hour&section=movies
-    genre.sync:
-      - Horror
-      - Thriller
   297762:
+    genre.sync:
+      - Superhero
     label_title: Wonder Woman
     sort_title: Wonder Woman 1
     release_year: '2017'
     url_poster: https://theposterdb.com/api/assets/40932
     tpdb_search: https://theposterdb.com/search?term=Wonder+Woman&section=movies
+  464052:
     genre.sync:
       - Superhero
-  464052:
     label_title: Wonder Woman 1984
     sort_title: Wonder Woman 2
     release_year: '2020'
     url_poster: https://theposterdb.com/api/assets/167987
     tpdb_search: https://theposterdb.com/search?term=Wonder+Woman+1984&section=movies
-    genre.sync:
-      - Superhero
   787699:
+    genre.sync:
+      - Family
     label_title: Wonka
     sort_title: Wonka
     release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/420837
     tpdb_search: https://theposterdb.com/search?term=Wonka&section=movies
-    genre.sync:
-      - Family
   1197306:
+    genre.sync:
+      - Action
     label_title: A Working Man
     sort_title: Working Man
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/593448
     tpdb_search: https://theposterdb.com/search?term=A+Working+Man&section=movies
-    genre.sync:
-      - Action
   760104:
     label_title: X
     sort_title: X
@@ -5731,13 +5741,13 @@ metadata:
     genre.sync:
       - Superhero
   791373:
+    genre.sync:
+      - Superhero
     label_title: Zack Snyders Justice League
     sort_title: Zack Snyders Justice League
     release_year: '2021'
     url_poster: https://theposterdb.com/api/assets/139179
     tpdb_search: https://theposterdb.com/search?term=Zack+Snyders+Justice+League&section=movies
-    genre.sync:
-      - Superhero
   467244:
     label_title: The Zone of Interest
     sort_title: Zone of Interest
