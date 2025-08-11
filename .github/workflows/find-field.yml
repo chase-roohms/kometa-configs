@@ -41,7 +41,7 @@ env:
   OUTPUT_FILE: find_field_output.md
 
 jobs:
-  update:
+  find:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -49,8 +49,8 @@ jobs:
 
       - name: Find and Report
         run: |
-          JSON_ARRAY="$(bash functions/yaml.find-field.sh "$KEY" "$VALUE" "$MEDIA_TYPE" "$MOVIE_METADATA_FILE" "$SHOW_METADATA_FILE")"
-          bash pretty-print-json-metadata.sh "$JSON_ARRAY" "$OUTPUT_FILE"
+          JSON_ARRAY="$(bash functions/yaml/find-field.sh "$KEY" "$VALUE" "$MEDIA_TYPE" "$MOVIE_METADATA_FILE" "$SHOW_METADATA_FILE")"
+          bash functions/strings/pretty-print-json-metadata.sh "$JSON_ARRAY" "$OUTPUT_FILE"
 
       - name: Upload as Artifact
         uses: actions/upload-artifact@v4
