@@ -11,6 +11,7 @@ permissions:
 env:
   MOVIE_METADATA_FILE: movie-metadata.yml
   SHOW_METADATA_FILE: show-metadata.yml
+  UPDATE_SUMMARY_FILE: metadata_updates.md
   JSON_DATA_FILE: json-data.json
   ARTIFACT_NAME: json-data
   PAYLOAD: ${{ toJSON(github.event.client_payload.data) }}
