@@ -75,8 +75,8 @@ jobs:
         run: |
           # Sort and format the metadata files
           bash "functions/yaml/sort-metadata-file.sh" "$MOVIE_METADATA_FILE"
-          bash "functions/yaml/sort-metadata-file.sh" "$MOVIE_METADATA_FILE"
-          bash "functions/yaml/format-metadata-file.sh" "$SHOW_METADATA_FILE"
+          bash "functions/yaml/sort-metadata-file.sh" "$SHOW_METADATA_FILE"
+          bash "functions/yaml/format-metadata-file.sh" "$MOVIE_METADATA_FILE"
           bash "functions/yaml/format-metadata-file.sh" "$SHOW_METADATA_FILE"
       
       - name: Commit Changes to Main
@@ -86,7 +86,8 @@ jobs:
           sha=$(bash "functions/git/commit-with-summary.sh" \
                   "Updating $TITLE ($RELEASE_YEAR)" \
                   "$UPDATE_SUMMARY_FILE" \
-                  "$METADATA_FILE")
+                  "$MOVIE_METADATA_FILE" \
+                  "$SHOW_METADATA_FILE")
           echo "sha=$sha" >> $GITHUB_OUTPUT
 
       - name: Create Job Summary
