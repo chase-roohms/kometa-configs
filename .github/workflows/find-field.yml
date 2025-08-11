@@ -17,11 +17,12 @@ on:
         required: true
         type: choice
         options:
-          - label_title
-          - sort_title
           - release_year
           - studio
           - genre.sync
+          - audio_language
+          - label_title
+          - sort_title
           - url_poster
       value:
         description: Value to Search for
