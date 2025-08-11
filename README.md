@@ -1,29 +1,137 @@
-# Kometa Configs 
+# kometa-configs
 
 This repository contains a collection of configuration files for use with **Kometa**, designed to manage metadata, playlists, collections, and more for a Plex instance.
 
-Metadata files are auto updated with new entries when files are imported via the [servarr apps](https://wiki.servarr.com/).
+---
 
 ## Table of Contents
+
 - [Overview](#overview)
-- [Features](#features)
-- [Prerequisites](#prerequisites)
+- [Repository Structure](#repository-structure)
+- [Getting Started](#getting-started)
+- [Metadata Automation](#metadata-automation)
+- [Manual Metadata Management](#manual-metadata-management)
+- [Collections & Playlists](#collections--playlists)
+- [Workflows & Automation](#workflows--automation)
+- [Testing](#testing)
+- [Contributing](#contributing)
+- [FAQ](#faq)
+- [Links & Resources](#links--resources)
+
+---
 
 ## Overview
-The **Kometa Configs** repository serves as a centralized source for managing and organizing Plex metadata, playlists, and collections. These configurations provide "metadata as code", ensuring that my media is consistently organized and that customization is retained even if my server goes down or my library is lsot. This data is pulled by the Kometa application and used to udate of media, playlists and collections on my Plex server.
 
-## Features
-- **Metadata Management**: Easily customize and organize metadata for my Plex library.
-- **Playlists & Collections**: Create and manage playlists and collections to enhance my Plex experience.
-- **Automated Updates**: Metadata automatically added when media is imported via the [servarr apps](https://wiki.servarr.com/) (specifically Radarr and Sonarr).
+This repository centralizes your Plex metadata, collections, and playlist configurations as code. It enables automated and manual updates, preserves customizations, and ensures easy recovery or migration for your media library using **Kometa** and supporting tools.
 
-## Prerequisites
-- **Kometa**: Ensure that the Kometa tool is installed and set up correctly.
-- **Plex Media Server**: A working Plex Media Server instance.
-- **Sonarr or Radarr**: Media managers that will trigger a Node-Red workflow via webhook.
-- **Node-Red**: Middle man to make the servarr app's webhooks compatible with GitHub Actions
+---
 
-## Usage
+## Repository Structure
+
+- **movie-collections.yml / show-collections.yml** – Collection definitions for movies and TV shows.
+- **playlists.yml** – Playlist definitions and rules.
+- **movie-metadata.yml / show-metadata.yml** – Centralized metadata for movies and shows (auto-updated).
+- **functions/** – Bash scripts for manipulating metadata, sorting, formatting, and more.
+- **.github/workflows/** – GitHub Actions for automation (import, linting, sorting, manual add, etc.).
+- **node-red/** – Node-RED flows for processing webhooks from Servarr apps.
+- **scripts/** – Python scripts for one-time or advanced operations.
+- **tests/** – Bats test suite for shell functions.
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+- A running Plex Media Server
+- [Kometa](https://kometa.wiki/en/latest/)
+- [Sonarr](https://sonarr.tv/) and/or [Radarr](https://radarr.video/)
+- [Node-Red](https://nodered.org/) (to bridge webhooks & GitHub)
+- A fork of this repository
+
+### Quick Start
+
+1. **Fork this repository.**
+2. **[Set up Node-Red with the provided flow.](/node-red/metadata-update-flow.json)**
+3. **Configure Servarr webhooks** to POST to your Node-Red instance.
+4. **[Point Kometa to your repo for metadata.](https://kometa.wiki/en/latest/config/settings/#custom_repo)**
+5. **(Optional) Run [kometa-post-metadata-info.py](/scripts/kometa-post-metadata-info.py)** to seed metadata from your media directories.
+
+See [Detailed Instructions](#detailed-instructions) for step-by-step instructions.
+
+---
+
+## Metadata Automation
+
+Metadata is kept up-to-date automatically when new files are imported via Servarr (Radarr/Sonarr). The workflow is:
+
+1. Radarr/Sonarr imports new media and triggers a webhook.
+2. Node-Red processes the webhook and triggers a GitHub Action.
+3. The Action updates `movie-metadata.yml` or `show-metadata.yml`.
+4. Kometa pulls the latest metadata on its next sync.
+
+---
+
+## Manual Metadata Management
+
+You can manually add metadata using [workflow_dispatch](https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#workflow_dispatch) workflows or by editing YAML files directly. Scripts are provided for linting, sorting, and formatting to ensure consistency.
+
+- **Manual Add Workflow:** Use the "Manually add Media" GitHub Action to insert a new movie/show.
+
+---
+
+## Collections & Playlists
+
+Define and customize your collections and playlists in YAML:
+
+- **Collections:** `movie-collections.yml`, `show-collections.yml`
+- **Playlists:** `playlists.yml`
+
+---
+
+## Workflows & Automation
+
+This repo leverages GitHub Actions for:
+
+- Automated metadata updates on webhook/import
+- Linting and formatting YAML
+- Finding missing posters/genres
+- Manual add & sync operations
+- Monthly tagging for backup/snapshots
+
+---
+
+## Testing
+
+Shell scripts are tested with [Bats](https://github.com/bats-core/bats-core). See [tests/README.md](/tests/README.md) for structure and how to run tests.
+
+---
+
+## FAQ
+
+**Q: What happens if I lose my Plex server?**  
+A: Just restore your repo and point Kometa to it — your metadata, collections, and playlists are preserved!
+
+**Q: Can I add custom fields?**  
+A: Yes, but keep YAML structure consistent and update sorting/formatting scripts as needed.
+
+**Q: How do I get alerts for YAML errors?**  
+A: Configure the Discord webhook and use the provided linting workflow.
+
+---
+
+## Links & Resources
+
+- [Kometa Documentation](https://kometa.wiki/en/latest/)
+- [Plex Media Server](https://www.plex.tv/)
+- [Node-Red](https://nodered.org/)
+- [Sonarr](https://sonarr.tv/)
+- [Radarr](https://radarr.video/)
+- [Bats Core](https://github.com/bats-core/bats-core)
+
+---
+
+## Detailed Instructions
 *The general workflow looks like the following diagram.*
 <img width="1361" height="251" alt="kometa-configs-management" src="https://github.com/user-attachments/assets/c658f546-0827-41dc-a660-50c5dc7a43e9" />
 
