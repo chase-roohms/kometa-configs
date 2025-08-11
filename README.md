@@ -62,7 +62,7 @@ kometa-configs/
 1. **Fork this repository.**
 2. **[Set up Node-Red with the provided flow.](/node-red/metadata-update-flow.json)**
 3. **Configure Servarr webhooks** to POST to your Node-Red instance.
-4. **[Point Kometa to your repo for metadata.](https://kometa.wiki/en/latest/config/settings/#custom_repo)**
+4. **[Point Kometa to your repo for metadata.](https://kometa.wiki/en/latest/config/settings/?h=custom_repo#attributes)**
 5. **(Optional) Run [kometa-post-metadata-info.py](/scripts/kometa-post-metadata-info.py)** to seed metadata from your media directories.
 
 See [Detailed Instructions](#detailed-instructions) for step-by-step instructions.
@@ -82,7 +82,7 @@ Metadata is kept up-to-date automatically when new files are imported via Servar
 
 ## Manual Metadata Management
 
-You can manually add metadata using [workflow_dispatch](https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#workflow_dispatch) workflows or by editing YAML files directly. Scripts are provided for linting, sorting, and formatting to ensure consistency.
+You can manually add metadata using [workflow_dispatch](https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#workflow_dispatch) workflows or by editing YAML files directly. Functions are provided for sorting and formatting to ensure consistency.
 
 - **Manual Add Workflow:** Use the "Manually add Media" GitHub Action to insert a new movie/show.
 
