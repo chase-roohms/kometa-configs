@@ -34,3 +34,76 @@ jobs:
         with:
           name: ${{ env.ARTIFACT_NAME }}
           path: ${{ env.JSON_DATA_FILE }}
+
+      - name: Update Metadata Files
+        run: |
+          if [[ ! -f "$JSON_DATA_FILE" ]]; then
+            echo "Error: $JSON_DATA_FILE not found!"
+            exit 1
+          fi
+          
+          for type in "movie" "show"
+          do
+            jq -c ".${type}s[]" "$JSON_DATA_FILE" | nl -v0 | while read -r i media_item; do
+              if [[ "$type" == "show" ]]; then
+                metadata_file="$SHOW_METADATA_FILE"
+              else
+                metadata_file="$MOVIE_METADATA_FILE"
+              fi
+              txdb_id=$(jq -r '.db_id' <<<"$media_item")
+              if [[ $(yq ".metadata.$txdb_id" "$metadata_file") != null ]]; then
+                # Media exists, skipping to next one
+                continue
+              fi
+              title=$(jq -r '.title' <<<"$media_item")
+              release_year=$(jq -r '.release_year' <<<"$media_item")
+              if [[ "$release_year" == "Unknown" ]]; then
+                release_year=""
+              fi
+              url_poster=""
+              genres=""
+              seasons=""
+              if [[ "$type" == "show" ]] && jq -e '.seasons != null' <<<"$media_item" >/dev/null; then
+                # Create comma spaced string of season numbers
+                seasons=$(jq -r '.seasons[].number' <<<"$media_item" | sort -n | tr '\n' ',' | sed 's/,$//')
+              fi
+              bash functions/yaml/insert-media-item.sh "$txdb_id" "$type" "$title" "$release_year" "$url_poster" "$genres" "$seasons" "$metadata_file"
+            done
+          done
+      
+      - name: Sort and format metadata files
+        run: |
+          # Sort and format the metadata files
+          bash "functions/yaml/sort-metadata-file.sh" "$MOVIE_METADATA_FILE"
+          bash "functions/yaml/sort-metadata-file.sh" "$MOVIE_METADATA_FILE"
+          bash "functions/yaml/format-metadata-file.sh" "$SHOW_METADATA_FILE"
+          bash "functions/yaml/format-metadata-file.sh" "$SHOW_METADATA_FILE"
+      
+      - name: Commit Changes to Main
+        id: commit-changes
+        run: |
+          bash "functions/git/set-git-config.sh"
+          sha=$(bash "functions/git/commit-with-summary.sh" \
+                  "Updating $TITLE ($RELEASE_YEAR)" \
+                  "$UPDATE_SUMMARY_FILE" \
+                  "$METADATA_FILE")
+          echo "sha=$sha" >> $GITHUB_OUTPUT
+
+      - name: Create Job Summary
+        run: |
+          echo "## Metadata Update Summary" >> $GITHUB_STEP_SUMMARY
+          echo "\`\`\`diff" >> $GITHUB_STEP_SUMMARY
+          cat "$UPDATE_SUMMARY_FILE" >> $GITHUB_STEP_SUMMARY
+          echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
+      
+  find-missing-posters:
+    needs: update
+    uses: "chase-roohms/kometa-configs/.github/workflows/find-missing-posters.yml@main"
+    with:
+      sha: ${{ needs.update.outputs.sha }}
+      
+  find-missing-genres:
+    needs: update
+    uses: "chase-roohms/kometa-configs/.github/workflows/find-missing-genres.yml@main"
+    with:
+      sha: ${{ needs.update.outputs.sha }}
