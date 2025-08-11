@@ -1,5 +1,8 @@
 # kometa-configs
 
+<img width="1201" height="431" alt="Image showing data flowing between different services with a text box saying 'you are here' pointed at GitHub" src="https://github.com/user-attachments/assets/c5ccee69-abbc-4d3e-bfb6-e545ea7cd1e5" />
+
+
 This repository contains a collection of configuration files for use with **Kometa**, designed to manage metadata, playlists, collections, and more for a Plex instance.
 
 ---
