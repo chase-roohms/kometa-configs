@@ -22,4 +22,6 @@ for article in "a " "an " "the "; do
     fi
 done
 
-echo "$sort_title" | iconv -f UTF-8 -t ASCII//TRANSLIT
+result="$(echo "$sort_title" | iconv -f UTF-8 -t ASCII//TRANSLIT -c 2>/dev/null)"
+# Trim trailing whitespace (spaces, tabs, newlines)
+echo "$result" | sed 's/[[:space:]]*$//'
