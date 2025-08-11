@@ -35,10 +35,9 @@ metadata:
     label_title: 57 Seconds
     sort_title: 57 Seconds
     release_year: '2023'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/454532
     tpdb_search: https://theposterdb.com/search?term=57+Seconds&section=movies
     genre.sync:
-      - Action
       - Science Fiction
       - Thriller
   1271:
