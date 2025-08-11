@@ -31,7 +31,7 @@ This repository centralizes your Plex metadata, collections, and playlist config
 ```
 kometa-configs/
 ├── .github/workflows/       # GitHub Actions for automation (import, linting, sorting, manual add, etc.)
-└── functions/               # Bash scripts for reused logic (manipulating metadata, sorting, formatting, etc.)
+├── functions/               # Bash scripts for reused logic (manipulating metadata, sorting, formatting, etc.)
 ├── node-red/                # Node-RED flows for processing webhooks from Servarr apps
 ├── scripts/                 # Python scripts for one-time or advanced operations
 ├── tests/                   # Bats test suite for shell functions.
