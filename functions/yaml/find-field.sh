@@ -35,7 +35,7 @@ case "$type" in
         ;;
 esac
 
-allowed_keys=("label_title" "sort_title" "release_year" "studio" "genre.sync" "url_poster")
+allowed_keys=("label_title" "sort_title" "release_year" "studio" "genre.sync" "url_poster" "audio_language")
 
 if [[ ! " ${allowed_keys[@]} " =~ " ${key} " ]]; then
     echo "Invalid key: $key. Allowed keys are: ${allowed_keys[*]}"
