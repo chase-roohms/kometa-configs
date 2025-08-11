@@ -1,5 +1,5 @@
 name: Find Items by Field
-run-name: Find ${{ inputs.key }} == ${{ inputs.value }}
+run-name: Find ${{ inputs.media_type }} where ${{ inputs.key }} matches / contains ${{ inputs.value }}
 
 on:
   workflow_dispatch:
