@@ -18,39 +18,6 @@ tests/
 
 Each test file follows the naming convention `<function-name>.bats` and mirrors the structure of the corresponding function in the `functions/` directory.
 
-### Current Test Coverage
-
-#### Git Functions (`tests/git/`)
-- **`set-git-config.bats`** - Tests for `functions/git/set-git-config.sh`
-  - ✅ Script execution validation
-  - ✅ Git configuration setting verification
-  - ✅ Overwrite behavior testing
-  - ✅ Configuration cleanup and restoration
-
-#### Media Functions (`tests/media/`)
-- **`get-sort-title.bats`** - Tests for `functions/media/get-sort-title.sh`
-  - ✅ Article removal functionality
-  - ✅ Special character handling
-  - ✅ Case preservation
-  - ✅ Emoji and unicode processing
-  - ✅ Argument validation
-
-- **`get-tpdb-search.bats`** - Tests for `functions/media/get-tpdb-search.sh`
-  - ✅ Argument validation (count and type)
-  - ✅ URL encoding (spaces, ampersands, special characters)
-  - ✅ Movie vs. show section handling
-  - ✅ Edge cases (empty titles, complex strings)
-
-#### String Functions (`tests/strings/`)
-- **Pending**: Tests for `functions/strings/pretty-print-json-metadata.sh`
-
-#### YAML Functions (`tests/yaml/`)
-- **Pending**: Tests for the following functions:
-  - `functions/yaml/find-field.sh`
-  - `functions/yaml/format-metadata-file.sh`
-  - `functions/yaml/insert-media-item.sh`
-  - `functions/yaml/sort-metadata-file.sh`
-
 ## Running Tests
 
 ### Prerequisites
@@ -59,7 +26,7 @@ Install Bats testing framework:
 
 ```bash
 # macOS (using Homebrew)
-brew install bats-core
+brew install bats
 
 # Ubuntu/Debian
 sudo apt-get install bats
@@ -160,16 +127,6 @@ When adding tests for new functions:
    - Edge cases
    - Error conditions
 4. Add appropriate setup/teardown if the function has side effects
-
-## Contributing
-
-When contributing new tests:
-
-1. Ensure tests follow the established patterns
-2. Include both positive and negative test cases
-3. Test edge cases and error conditions
-4. Verify tests pass before submitting
-5. Update documentation as needed
 
 ## Troubleshooting
 
