@@ -1,0 +1,63 @@
+name: Find Items by Field
+run-name: Find ${{ inputs.key }} == ${{ inputs.value }}
+
+on:
+  workflow_dispatch:
+    inputs:
+      media_type:
+        description: Media Type
+        required: true
+        type: choice
+        options:
+          - movie
+          - show
+          - all
+      key:
+        description: Key to Search
+        required: true
+        type: choice
+        options:
+          - label_title
+          - sort_title
+          - release_year
+          - studio
+          - genre.sync
+          - url_poster
+      value:
+        description: Value to Search for
+        required: true
+        type: string
+
+permissions:
+  id-token: write
+  contents: read
+
+env:
+  MEDIA_TYPE: ${{ inputs.media_type }}
+  KEY: ${{ inputs.key }}
+  VALUE: ${{ inputs.value }}
+  MOVIE_METADATA_FILE: movie-metadata.yml
+  SHOW_METADATA_FILE: show-metadata.yml
+  OUTPUT_FILE: find_field_output.md
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Find and Report
+        run: |
+          JSON_ARRAY="$(bash functions/yaml.find-field.sh "$KEY" "$VALUE" "$MEDIA_TYPE" "$MOVIE_METADATA_FILE" "$SHOW_METADATA_FILE")"
+          bash pretty-print-json-metadata.sh "$JSON_ARRAY" "$OUTPUT_FILE"
+
+      - name: Upload as Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: markdown_report
+          path: ${{ env.OUTPUT_FILE }}
+
+      - name: Create Job Summary
+        run: cat "$OUTPUT_FILE" >> $GITHUB_STEP_SUMMARY
+
