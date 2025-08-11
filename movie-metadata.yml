@@ -31,6 +31,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=28+Years+Later&section=movies
     genre.sync:
       - Thriller
+  937249:
+    label_title: 57 Seconds
+    sort_title: 57 Seconds
+    release_year: '2023'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=57+Seconds&section=movies
+    genre.sync:
+      - Action
+      - Science Fiction
+      - Thriller
   1271:
     label_title: '300'
     sort_title: 300 1
