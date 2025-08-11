@@ -28,14 +28,19 @@ This repository centralizes your Plex metadata, collections, and playlist config
 
 ## Repository Structure
 
-- **movie-collections.yml / show-collections.yml** – Collection definitions for movies and TV shows.
-- **playlists.yml** – Playlist definitions and rules.
-- **movie-metadata.yml / show-metadata.yml** – Centralized metadata for movies and shows (auto-updated).
-- **functions/** – Bash scripts for manipulating metadata, sorting, formatting, and more.
-- **.github/workflows/** – GitHub Actions for automation (import, linting, sorting, manual add, etc.).
-- **node-red/** – Node-RED flows for processing webhooks from Servarr apps.
-- **scripts/** – Python scripts for one-time or advanced operations.
-- **tests/** – Bats test suite for shell functions.
+```
+kometa-configs/
+├── .github/workflows/       # GitHub Actions for automation (import, linting, sorting, manual add, etc.)
+└── functions/               # Bash scripts for reused logic (manipulating metadata, sorting, formatting, etc.)
+├── node-red/                # Node-RED flows for processing webhooks from Servarr apps
+├── scripts/                 # Python scripts for one-time or advanced operations
+├── tests/                   # Bats test suite for shell functions.
+├── movie-collections.yml    # Collection definitions for movies
+├── show-collections.yml     # Collection definitions for TV shows
+├── movie-metadata.yml       # Centralized metadata for movies (auto-updated)
+├── show-metadata.yml        # Centralized metadata for TV shows (auto-updated)
+└── playlists.yml            # Playlist definitions and rules
+```
 
 ---
 
