@@ -20,6 +20,7 @@ This repository contains a collection of configuration files for use with **Kome
 - [Contributing](#contributing)
 - [FAQ](#faq)
 - [Links & Resources](#links--resources)
+- [Detailed Instructions](#detailed-instructions)
 
 ---
 
