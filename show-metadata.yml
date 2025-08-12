@@ -2604,6 +2604,17 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/450276
+  318009:
+    label_title: Norsemen
+    sort_title: Norsemen
+    release_year: '2016'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Norsemen&section=shows
+    genre.sync:
+      - Comedy
+    seasons:
+      1:
+        url_poster: ''
   393199:
     label_title: Obi-Wan Kenobi
     sort_title: Obi-Wan Kenobi
