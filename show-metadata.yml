@@ -878,19 +878,16 @@ metadata:
     label_title: Devilman Crybaby
     sort_title: Devilman Crybaby
     release_year: '2018'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/288482
     tpdb_search: https://theposterdb.com/search?term=Devilman+Crybaby&section=shows
+    audio_language: ja-JP
     genre.sync:
-      - Action
-      - Animation
       - Anime
-      - Drama
-      - Fantasy
-      - Horror
-      - Suspense
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/288482
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/288483
   452595:
     label_title: 'Dexter: Resurrection'
     sort_title: 'Dexter: Resurrection'
