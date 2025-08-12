@@ -8,7 +8,7 @@ from pprint import pp
 
 movie_dir = '/media/plex/movies' # Replace with the path to your movies root dir
 show_dir = '/media/plex/shows' # Replace with the path to your shows root dir
-kometa_configs_repository = 'ChaseRoohms/kometa-configs' # Replace with your repository
+kometa_configs_repository = 'chase-roohms/kometa-configs' # Replace with your repository
 token = 'REPLACE_ME_WITH_GH_FGPAT'
 post_data = {
     'movies': list(),
