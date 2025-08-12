@@ -467,6 +467,20 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/415614
       2:
         url_poster: https://theposterdb.com/api/assets/415615
+  434151:
+    label_title: Blue Eye Samurai
+    sort_title: Blue Eye Samurai
+    release_year: '2023'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Blue+Eye+Samurai&section=shows
+    genre.sync:
+      - Action
+      - Adventure
+      - Animation
+      - Drama
+    seasons:
+      1:
+        url_poster: ''
   393589:
     label_title: The Book of Boba Fett
     sort_title: Book of Boba Fett
