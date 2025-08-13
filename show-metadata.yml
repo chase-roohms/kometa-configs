@@ -158,13 +158,14 @@ metadata:
     label_title: 'Alien: Earth'
     sort_title: 'Alien: Earth'
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/634407
     tpdb_search: https://theposterdb.com/search?term=Alien:+Earth&section=shows
     genre.sync:
       - Science Fiction
+      - Thriller
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/633354
   428066:
     label_title: American Primeval
     sort_title: American Primeval
