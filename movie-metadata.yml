@@ -4403,6 +4403,14 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Sandlot&section=movies
     genre.sync:
       - Family
+  518496:
+    label_title: Sauvage
+    sort_title: Sauvage
+    release_year: '2018'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Sauvage&section=movies
+    genre.sync:
+      - Drama
   9637:
     label_title: Scooby-Doo
     sort_title: Scooby-Doo 1
