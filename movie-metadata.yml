@@ -5527,6 +5527,14 @@ metadata:
     studio: A24
     genre.sync:
       - Drama
+  1078605:
+    label_title: Weapons
+    sort_title: Weapons
+    release_year: '2025'
+    url_poster: https://theposterdb.com/api/assets/598488
+    tpdb_search: https://theposterdb.com/search?term=Weapons&section=movies
+    genre.sync:
+      - Horror
   1164614:
     label_title: Were All Gonna Die
     sort_title: Were All Gonna Die
