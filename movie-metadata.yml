@@ -2508,12 +2508,10 @@ metadata:
     label_title: Incendies
     sort_title: Incendies
     release_year: '2010'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/532045
     tpdb_search: https://theposterdb.com/search?term=Incendies&section=movies
     genre.sync:
       - Drama
-      - Mystery
-      - War
   27205:
     label_title: Inception
     sort_title: Inception
@@ -4407,7 +4405,7 @@ metadata:
     label_title: Sauvage
     sort_title: Sauvage
     release_year: '2018'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/634950
     tpdb_search: https://theposterdb.com/search?term=Sauvage&section=movies
     genre.sync:
       - Drama
