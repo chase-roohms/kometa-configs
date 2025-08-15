@@ -1571,6 +1571,14 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
+  612654:
+    label_title: Fantastic Fungi
+    sort_title: Fantastic Fungi
+    release_year: '2019'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Fantastic+Fungi&section=movies
+    genre.sync:
+      - Documentary
   591273:
     label_title: Fear Street 1994
     sort_title: Fear Street 1
