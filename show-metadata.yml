@@ -911,6 +911,23 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/622998
+  354167:
+    label_title: Dororo (2019)
+    sort_title: Dororo (2019)
+    release_year: '2019'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Dororo+(2019)&section=shows
+    genre.sync:
+      - Action
+      - Adventure
+      - Animation
+      - Anime
+      - Fantasy
+      - Horror
+      - Suspense
+    seasons:
+      1:
+        url_poster: ''
   367118:
     label_title: Dune - Prophecy
     sort_title: Dune - Prophecy
