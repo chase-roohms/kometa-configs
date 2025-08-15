@@ -5373,6 +5373,14 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Transformers+One&section=movies
     genre.sync:
       - Animation
+  1005031:
+    label_title: A Trip to Infinity
+    sort_title: Trip to Infinity
+    release_year: '2022'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=A+Trip+to+Infinity&section=movies
+    genre.sync:
+      - Documentary
   97:
     label_title: Tron
     sort_title: Tron 1
