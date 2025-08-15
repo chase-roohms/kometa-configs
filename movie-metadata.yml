@@ -3912,12 +3912,10 @@ metadata:
     label_title: Opus
     sort_title: Opus
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/563379
     tpdb_search: https://theposterdb.com/search?term=Opus&section=movies
     genre.sync:
       - Horror
-      - Mystery
-      - Thriller
   1082195:
     label_title: The Order
     sort_title: Order
