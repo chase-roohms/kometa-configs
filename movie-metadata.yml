@@ -4520,6 +4520,14 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Sew+Torn&section=movies
     genre.sync:
       - Thriller
+  1339166:
+    label_title: Shaman
+    sort_title: Shaman
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Shaman&section=movies
+    genre.sync:
+      - Horror
   566525:
     label_title: Shang-Chi and the Legend of the Ten Rings
     sort_title: Shang-Chi and the Legend of the Ten Rings
