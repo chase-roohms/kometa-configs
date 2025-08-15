@@ -1703,7 +1703,7 @@ metadata:
     label_title: Fixed
     sort_title: Fixed
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/634718
     tpdb_search: https://theposterdb.com/search?term=Fixed&section=movies
     genre.sync:
       - Animation
@@ -5377,7 +5377,7 @@ metadata:
     label_title: A Trip to Infinity
     sort_title: Trip to Infinity
     release_year: '2022'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/635273
     tpdb_search: https://theposterdb.com/search?term=A+Trip+to+Infinity&section=movies
     genre.sync:
       - Documentary
