@@ -4495,6 +4495,16 @@ metadata:
     genre.sync:
       - Drama
       - Thriller
+  1046758:
+    label_title: Sew Torn
+    sort_title: Sew Torn
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Sew+Torn&section=movies
+    genre.sync:
+      - Comedy
+      - Crime
+      - Thriller
   566525:
     label_title: Shang-Chi and the Legend of the Ten Rings
     sort_title: Shang-Chi and the Legend of the Ten Rings
