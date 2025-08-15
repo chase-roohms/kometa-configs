@@ -1744,12 +1744,10 @@ metadata:
     label_title: Flubber
     sort_title: Flubber
     release_year: '1997'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/22661
     tpdb_search: https://theposterdb.com/search?term=Flubber&section=movies
     genre.sync:
-      - Comedy
       - Family
-      - Science Fiction
   488623:
     label_title: Forgotten
     sort_title: Forgotten
