@@ -17,4 +17,10 @@ collections:
       name: Favorites
       owner_name: Chase
       user: neonvariant
-    #url_poster: https://i.imgur.com/iXaMmV7.png
+    url_poster: https://i.imgur.com/XuHstJ0.png
+  #Clark's Favorites:
+  #  template:
+  #    name: Favorites
+  #    owner_name: Clark
+  #    user: # TODO
+  #  url_poster: https://i.imgur.com/kHLXWrl.png
