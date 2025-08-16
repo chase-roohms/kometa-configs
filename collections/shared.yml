@@ -1,3 +1,20 @@
 templates:
+  Favorites:
+    summary: |-
+      <<owner_name>>'s all time favorites.
+    sort_title: '!001_<<owner_name>>'
+    collection_order: alpha
+    trakt_userlist:
+      user: <<user>>
+      sort_by: title
+      userlist: favorites
+    sync_mode: sync
+    minimum_items: 1
 
 collections:
+  Chase's Favorites:
+    template:
+      name: Favorites
+      owner_name: Chase
+      user: neonvariant
+    #url_poster: https://i.imgur.com/iXaMmV7.png
