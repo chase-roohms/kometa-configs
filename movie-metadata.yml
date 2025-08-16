@@ -1403,6 +1403,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Durango+Kids&section=movies
     genre.sync:
       - Family
+  1151334:
+    label_title: Eenie Meanie
+    sort_title: Eenie Meanie
+    release_year: '2025'
+    url_poster: https://theposterdb.com/api/assets/635274
+    tpdb_search: https://theposterdb.com/search?term=Eenie+Meanie&section=movies
+    genre.sync:
+      - Action
+      - Comedy
   559969:
     label_title: El Camino A Breaking Bad Movie
     sort_title: El Camino A Breaking Bad Movie
