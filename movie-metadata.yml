@@ -4140,6 +4140,18 @@ metadata:
     genre.sync:
       - Action
       - Comedy
+  16866:
+    label_title: Planet 51
+    sort_title: Planet 51
+    release_year: '2009'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Planet+51&section=movies
+    genre.sync:
+      - Adventure
+      - Animation
+      - Comedy
+      - Family
+      - Science Fiction
   61791:
     label_title: Rise of the Planet of the Apes
     sort_title: Planet of the Apes 1
