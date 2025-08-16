@@ -537,11 +537,10 @@ metadata:
     label_title: Barbarian
     sort_title: Barbarian
     release_year: '2022'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/252533
     tpdb_search: https://theposterdb.com/search?term=Barbarian&section=movies
     genre.sync:
       - Horror
-      - Thriller
   31665:
     label_title: Barbarosa
     sort_title: Barbarosa
@@ -3923,6 +3922,7 @@ metadata:
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/563379
     tpdb_search: https://theposterdb.com/search?term=Opus&section=movies
+    studio: A24
     genre.sync:
       - Horror
   1082195:
@@ -4524,7 +4524,7 @@ metadata:
     label_title: Shaman
     sort_title: Shaman
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/634752
     tpdb_search: https://theposterdb.com/search?term=Shaman&section=movies
     genre.sync:
       - Horror
