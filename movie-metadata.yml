@@ -4144,14 +4144,11 @@ metadata:
     label_title: Planet 51
     sort_title: Planet 51
     release_year: '2009'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/70018
     tpdb_search: https://theposterdb.com/search?term=Planet+51&section=movies
     genre.sync:
-      - Adventure
       - Animation
-      - Comedy
       - Family
-      - Science Fiction
   61791:
     label_title: Rise of the Planet of the Apes
     sort_title: Planet of the Apes 1
@@ -4467,12 +4464,10 @@ metadata:
     label_title: Run Hide Fight
     sort_title: Run Hide Fight
     release_year: '2021'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/124286
     tpdb_search: https://theposterdb.com/search?term=Run+Hide+Fight&section=movies
     genre.sync:
       - Action
-      - Crime
-      - Thriller
   930564:
     label_title: Saltburn
     sort_title: Saltburn
