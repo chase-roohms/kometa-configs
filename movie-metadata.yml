@@ -1494,6 +1494,14 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
+  1408208:
+    label_title: Exit 8
+    sort_title: Exit 8
+    release_year: '2025'
+    url_poster: https://theposterdb.com/api/assets/635689
+    tpdb_search: https://theposterdb.com/search?term=Exit+8&section=movies
+    genre.sync:
+      - Horror
   1233069:
     label_title: Exterritorial
     sort_title: Exterritorial
