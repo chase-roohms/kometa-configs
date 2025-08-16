@@ -2943,6 +2943,14 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Kaiju+No.+8:+Mission+Recon&section=movies
     genre.sync:
       - Anime
+  1288072:
+    label_title: Keeper
+    sort_title: Keeper
+    release_year: '2025'
+    url_poster: https://theposterdb.com/api/assets/629236
+    tpdb_search: https://theposterdb.com/search?term=Keeper&section=movies
+    genre.sync:
+      - Horror
   24:
     label_title: Kill Bill Vol. 1
     sort_title: Kill Bill 1
