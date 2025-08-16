@@ -1,0 +1,15 @@
+playlists:
+  Anime Openings:
+    sync_mode: sync
+    libraries: TV Shows
+    sync_to_users: all
+    collection_order: custom
+    builder_level: episode
+    summary: A collection of anime openings.
+    url_poster: https://i.imgur.com/Cz3cLNu.jpeg
+    plex_search:
+      type: episode
+      sort_by: show.asc
+      all:
+        episode_title.begins: "Opening: "
+        genre: Anime
