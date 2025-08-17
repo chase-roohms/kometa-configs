@@ -5716,10 +5716,9 @@ metadata:
     label_title: White Boy Rick
     sort_title: White Boy Rick
     release_year: '2018'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/36538
     tpdb_search: https://theposterdb.com/search?term=White+Boy+Rick&section=movies
     genre.sync:
-      - Crime
       - Drama
   402431:
     label_title: Wicked
