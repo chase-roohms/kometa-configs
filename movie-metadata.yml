@@ -1428,6 +1428,18 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Electric+State&section=movies
     genre.sync:
       - Science Fiction
+  1022787:
+    label_title: Elio
+    sort_title: Elio
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Elio&section=movies
+    genre.sync:
+      - Adventure
+      - Animation
+      - Comedy
+      - Family
+      - Science Fiction
   156022:
     label_title: The Equalizer
     sort_title: Equalizer 1
