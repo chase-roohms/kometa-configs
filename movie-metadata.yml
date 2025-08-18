@@ -3637,6 +3637,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Mission+Impossible+-+Dead+Reckoning+Part+One&section=movies
     genre.sync:
       - Action
+  575265:
+    label_title: 'Mission: Impossible - The Final Reckoning'
+    sort_title: 'Mission: Impossible - The Final Reckoning'
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Mission:+Impossible+-+The+Final+Reckoning&section=movies
+    genre.sync:
+      - Action
+      - Adventure
+      - Thriller
   277834:
     label_title: Moana
     sort_title: Moana 1
