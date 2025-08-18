@@ -1432,14 +1432,11 @@ metadata:
     label_title: Elio
     sort_title: Elio
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/618420
     tpdb_search: https://theposterdb.com/search?term=Elio&section=movies
+    studio: Pixar
     genre.sync:
-      - Adventure
       - Animation
-      - Comedy
-      - Family
-      - Science Fiction
   156022:
     label_title: The Equalizer
     sort_title: Equalizer 1
