@@ -3143,12 +3143,10 @@ metadata:
     label_title: Like Mike
     sort_title: Like Mike
     release_year: '2002'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/196195
     tpdb_search: https://theposterdb.com/search?term=Like+Mike&section=movies
     genre.sync:
-      - Comedy
       - Family
-      - Fantasy
   552524:
     label_title: Lilo & Stitch
     sort_title: Lilo & Stitch
@@ -4775,14 +4773,11 @@ metadata:
     label_title: Small Soldiers
     sort_title: Small Soldiers
     release_year: '1998'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/117907
     tpdb_search: https://theposterdb.com/search?term=Small+Soldiers&section=movies
     genre.sync:
       - Action
-      - Adventure
       - Comedy
-      - Fantasy
-      - Science Fiction
   1102493:
     label_title: Small Things Like These
     sort_title: Small Things Like These
