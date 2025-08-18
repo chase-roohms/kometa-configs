@@ -4771,6 +4771,18 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Sisu&section=movies
     genre.sync:
       - Action
+  11551:
+    label_title: Small Soldiers
+    sort_title: Small Soldiers
+    release_year: '1998'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Small+Soldiers&section=movies
+    genre.sync:
+      - Action
+      - Adventure
+      - Comedy
+      - Fantasy
+      - Science Fiction
   1102493:
     label_title: Small Things Like These
     sort_title: Small Things Like These
