@@ -3139,6 +3139,16 @@ metadata:
     studio: Pixar
     genre.sync:
       - Animation
+  21972:
+    label_title: Like Mike
+    sort_title: Like Mike
+    release_year: '2002'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Like+Mike&section=movies
+    genre.sync:
+      - Comedy
+      - Family
+      - Fantasy
   552524:
     label_title: Lilo & Stitch
     sort_title: Lilo & Stitch
