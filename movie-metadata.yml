@@ -4306,6 +4306,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Predator+Killer+of+Killers&section=movies
     genre.sync:
       - Animation
+  49526:
+    label_title: Premium Rush
+    sort_title: Premium Rush
+    release_year: '2012'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Premium+Rush&section=movies
+    genre.sync:
+      - Action
+      - Crime
+      - Thriller
   1140535:
     label_title: Presence
     sort_title: Presence
