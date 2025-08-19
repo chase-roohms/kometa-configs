@@ -245,13 +245,13 @@ metadata:
     label_title: Are You My First?
     sort_title: Are You My First?
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/636390
     tpdb_search: https://theposterdb.com/search?term=Are+You+My+First?&section=shows
     genre.sync:
       - Reality
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/636391
   393221:
     label_title: ARK - The Animated Series
     sort_title: ARK - The Animated Series
@@ -267,15 +267,37 @@ metadata:
     label_title: Australian Survivor
     sort_title: Australian Survivor
     release_year: '2002'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/344822
     tpdb_search: https://theposterdb.com/search?term=Australian+Survivor&section=shows
     genre.sync:
-      - Adventure
-      - Game Show
       - Reality
     seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/636054
+      2:
+        url_poster: https://theposterdb.com/api/assets/636055
+      3:
+        url_poster: https://theposterdb.com/api/assets/636057
+      4:
+        url_poster: https://theposterdb.com/api/assets/636058
+      5:
+        url_poster: https://theposterdb.com/api/assets/452087
+      6:
+        url_poster: https://theposterdb.com/api/assets/452088
+      7:
+        url_poster: https://theposterdb.com/api/assets/452089
+      8:
+        url_poster: https://theposterdb.com/api/assets/452090
+      9:
+        url_poster: https://theposterdb.com/api/assets/452091
+      10:
+        url_poster: https://theposterdb.com/api/assets/452092
+      11:
+        url_poster: https://theposterdb.com/api/assets/452093
+      12:
+        url_poster: https://theposterdb.com/api/assets/577705
       13:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/636042
   385925:
     label_title: Avatar - The Last Airbender
     sort_title: Avatar - The Last Airbender
