@@ -4310,12 +4310,10 @@ metadata:
     label_title: Premium Rush
     sort_title: Premium Rush
     release_year: '2012'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/75535
     tpdb_search: https://theposterdb.com/search?term=Premium+Rush&section=movies
     genre.sync:
       - Action
-      - Crime
-      - Thriller
   1140535:
     label_title: Presence
     sort_title: Presence
