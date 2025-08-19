@@ -263,6 +263,19 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/470904
+  303904:
+    label_title: Australian Survivor
+    sort_title: Australian Survivor
+    release_year: '2002'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Australian+Survivor&section=shows
+    genre.sync:
+      - Adventure
+      - Game Show
+      - Reality
+    seasons:
+      13:
+        url_poster: ''
   385925:
     label_title: Avatar - The Last Airbender
     sort_title: Avatar - The Last Airbender
