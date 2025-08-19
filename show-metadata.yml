@@ -4179,6 +4179,20 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/276087
       3:
         url_poster: https://theposterdb.com/api/assets/567288
+  82834:
+    label_title: 'Xam''d: Lost Memories'
+    sort_title: 'Xam''d: Lost Memories'
+    release_year: '2008'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Xam'd:+Lost+Memories&section=shows
+    genre.sync:
+      - Action
+      - Adventure
+      - Animation
+      - Science Fiction
+    seasons:
+      1:
+        url_poster: ''
   399731:
     label_title: Yellowjackets
     sort_title: Yellowjackets
