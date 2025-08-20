@@ -263,6 +263,25 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/470904
+  267440:
+    label_title: Attack on Titan
+    sort_title: Attack on Titan
+    release_year: '2013'
+    url_poster: https://theposterdb.com/api/assets/68678
+    tpdb_search: https://theposterdb.com/search?term=Attack+on+Titan&section=shows
+    genre.sync:
+      - Anime
+    seasons:
+      0:
+        url_poster: ''
+      1:
+        url_poster: ''
+      2:
+        url_poster: ''
+      3:
+        url_poster: ''
+      4:
+        url_poster: ''
   303904:
     label_title: Australian Survivor
     sort_title: Australian Survivor
