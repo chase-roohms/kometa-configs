@@ -718,6 +718,18 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/429981
       3:
         url_poster: https://theposterdb.com/api/assets/429982
+  451793:
+    label_title: Clevatess
+    sort_title: Clevatess
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Clevatess&section=shows
+    genre.sync:
+      - Animation
+      - Anime
+    seasons:
+      1:
+        url_poster: ''
   436198:
     label_title: Common Side Effects
     sort_title: Common Side Effects
