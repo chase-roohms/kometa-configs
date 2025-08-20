@@ -3856,23 +3856,6 @@ metadata:
         url_poster: https://api.mediux.pro/assets/5042b9f6-1948-4eca-bca6-b344da40377d
       48:
         url_poster: https://api.mediux.pro/assets/e9c2f94a-9da0-4863-b256-ee65e994bf24
-  457645:
-    label_title: Takopi's Original Sin
-    sort_title: Takopi's Original Sin
-    release_year: '2025'
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Takopi's+Original+Sin&section=shows
-    genre.sync:
-      - Animation
-      - Anime
-      - Drama
-      - Horror
-      - Mystery
-      - Science Fiction
-      - Thriller
-    seasons:
-      1:
-        url_poster: ''
   405661:
     label_title: Takt op.Destiny
     sort_title: Takt op.Destiny
