@@ -1,4 +1,4 @@
-name: Find Missing Posters
+name: Missing Posters
 
 on:
   workflow_dispatch:
