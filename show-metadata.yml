@@ -4180,19 +4180,16 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/567288
   82834:
-    label_title: 'Xam''d: Lost Memories'
-    sort_title: 'Xam''d: Lost Memories'
+    label_title: "Xam'd: Lost Memories"
+    sort_title: "Xam'd: Lost Memories"
     release_year: '2008'
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Xam'd:+Lost+Memories&section=shows
+    url_poster: https://theposterdb.com/api/assets/268302
+    tpdb_search: "https://theposterdb.com/search?term=Xam'd:+Lost+Memories&section=shows"
     genre.sync:
-      - Action
-      - Adventure
-      - Animation
-      - Science Fiction
+      - Anime
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/268303
   399731:
     label_title: Yellowjackets
     sort_title: Yellowjackets
