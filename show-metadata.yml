@@ -2981,6 +2981,17 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/111130
+  417983:
+    label_title: Ragna Crimson
+    sort_title: Ragna Crimson
+    release_year: '2023'
+    url_poster: https://theposterdb.com/api/assets/417770
+    tpdb_search: https://theposterdb.com/search?term=Ragna+Crimson&section=shows
+    genre.sync:
+      - Anime
+    seasons:
+      1:
+        url_poster: ''
   366924:
     label_title: Reacher
     sort_title: Reacher
