@@ -269,19 +269,20 @@ metadata:
     release_year: '2013'
     url_poster: https://theposterdb.com/api/assets/68678
     tpdb_search: https://theposterdb.com/search?term=Attack+on+Titan&section=shows
+    audio_language: ja-JP
     genre.sync:
       - Anime
     seasons:
       0:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/68679
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/68680
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/68681
       3:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/68682
       4:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/140416
   303904:
     label_title: Australian Survivor
     sort_title: Australian Survivor
