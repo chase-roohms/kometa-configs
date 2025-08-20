@@ -724,6 +724,7 @@ metadata:
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/625864
     tpdb_search: https://theposterdb.com/search?term=Clevatess&section=shows
+    audio_language: ja-JP
     genre.sync:
       - Anime
     seasons:
