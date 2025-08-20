@@ -2991,7 +2991,7 @@ metadata:
       - Anime
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/417771
   366924:
     label_title: Reacher
     sort_title: Reacher
