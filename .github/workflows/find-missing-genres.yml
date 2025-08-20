@@ -1,4 +1,4 @@
-name: Find Missing Genres
+name: Missing Genres
 
 on:
   workflow_dispatch:
