@@ -5354,13 +5354,10 @@ metadata:
     label_title: 'Tom and Jerry: The Magic Ring'
     sort_title: 'Tom and Jerry: The Magic Ring'
     release_year: '2002'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/472557
     tpdb_search: https://theposterdb.com/search?term=Tom+and+Jerry:+The+Magic+Ring&section=movies
     genre.sync:
       - Animation
-      - Comedy
-      - Family
-      - Fantasy
   11969:
     label_title: Tombstone
     sort_title: Tombstone
