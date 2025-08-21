@@ -4893,6 +4893,14 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Space+Jam&section=movies
     genre.sync:
       - Animation
+  379686:
+    label_title: 'Space Jam: A New Legacy'
+    sort_title: 'Space Jam: A New Legacy'
+    release_year: '2021'
+    url_poster: https://theposterdb.com/api/assets/163486
+    tpdb_search: https://theposterdb.com/search?term=Space+Jam:+A+New+Legacy&section=movies
+    genre.sync:
+      - Animation
   636706:
     label_title: Spaceman
     sort_title: Spaceman
