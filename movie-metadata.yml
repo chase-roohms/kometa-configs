@@ -1025,16 +1025,13 @@ metadata:
       - Comedy
       - Thriller
   24662:
-    label_title: Cats Don't Dance
-    sort_title: Cats Don't Dance
+    label_title: "Cats Don't Dance"
+    sort_title: "Cats Don't Dance"
     release_year: '1997'
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Cats+Don't+Dance&section=movies
+    url_poster: https://theposterdb.com/api/assets/131642
+    tpdb_search: "https://theposterdb.com/search?term=Cats+Don't+Dance&section=movies"
     genre.sync:
       - Animation
-      - Comedy
-      - Family
-      - Music
   937287:
     label_title: Challengers
     sort_title: Challengers
@@ -4892,14 +4889,10 @@ metadata:
     label_title: Space Jam
     sort_title: Space Jam
     release_year: '1996'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/163485
     tpdb_search: https://theposterdb.com/search?term=Space+Jam&section=movies
     genre.sync:
-      - Adventure
       - Animation
-      - Comedy
-      - Family
-      - Science Fiction
   636706:
     label_title: Spaceman
     sort_title: Spaceman
