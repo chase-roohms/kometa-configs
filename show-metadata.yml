@@ -1794,6 +1794,19 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/623898
+  393215:
+    label_title: Limitless with Chris Hemsworth
+    sort_title: Limitless with Chris Hemsworth
+    release_year: '2022'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Limitless+with+Chris+Hemsworth&section=shows
+    genre.sync:
+      - Adventure
+      - Documentary
+      - Mini-Series
+    seasons:
+      1:
+        url_poster: ''
   466926:
     label_title: 'Limitless: Live Better Now'
     sort_title: 'Limitless: Live Better Now'
