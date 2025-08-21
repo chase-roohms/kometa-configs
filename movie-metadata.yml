@@ -1024,6 +1024,17 @@ metadata:
     genre.sync:
       - Comedy
       - Thriller
+  24662:
+    label_title: Cats Don't Dance
+    sort_title: Cats Don't Dance
+    release_year: '1997'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Cats+Don't+Dance&section=movies
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
+      - Music
   937287:
     label_title: Challengers
     sort_title: Challengers
