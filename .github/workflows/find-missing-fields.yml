@@ -64,7 +64,7 @@ jobs:
       - name: Find Movie Missing Genres
         run: |
           missing_movie_genres="$(bash functions/yaml/find-missing.sh \
-                                      "genres" \
+                                      "genre.sync" \
                                       "movie" \
                                       "$MOVIE_METADATA_FILE" \
                                       "$SHOW_METADATA_FILE")"
@@ -76,7 +76,7 @@ jobs:
       - name: Find Show Missing Genres
         run: |
           missing_show_genres="$(bash functions/yaml/find-missing.sh \
-                                      "genres" \
+                                      "genre.sync" \
                                       "show" \
                                       "$MOVIE_METADATA_FILE" \
                                       "$SHOW_METADATA_FILE")"
