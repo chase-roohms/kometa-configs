@@ -1,0 +1,113 @@
+name: Find Missing Fields
+
+on:
+  workflow_dispatch:
+  workflow_call:
+    inputs:
+      sha:
+        description: SHA of the most recent commit, likely one created in the executing job
+        type: string
+        required: true
+
+env:
+  MOVIE_METADATA_FILE: movie-metadata.yml
+  SHOW_METADATA_FILE: show-metadata.yml
+  MOVIE_POSTER_REPORT: movie-poster-report.md
+  MOVIE_GENRE_REPORT: movie-genre-report.md
+  SHOW_POSTER_REPORT: show-poster-report.md
+  SHOW_GENRE_REPORT: show-genre-report.md
+
+permissions:
+  id-token: write
+  contents: read
+
+jobs:
+  find-missing-fields:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        if: github.event_name == 'workflow_dispatch'
+        id: checkout-dispatch
+        uses: actions/checkout@v4
+
+      - name: Checkout
+        if: github.event_name != 'workflow_dispatch'
+        id: checkout-other-events
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ inputs.sha }}
+      
+      - name: Find Movie Missing Posters
+        run: |
+          missing_movie_posters="$(bash functions/yaml/find-missing.sh \
+                                      "url_poster" \
+                                      "movie" \
+                                      "$MOVIE_METADATA_FILE" \
+                                      "$SHOW_METADATA_FILE")"
+          report=$(bash functions/strings/json-metadata-table-report.sh "$missing_movie_posters")
+          if [[ -n "$report" ]]; then
+              echo "$report" > "$MOVIE_POSTER_REPORT"
+          fi
+      
+      - name: Find Show Missing Posters
+        run: |
+          missing_show_posters="$(bash functions/yaml/find-missing.sh \
+                                      "url_poster" \
+                                      "show" \
+                                      "$MOVIE_METADATA_FILE" \
+                                      "$SHOW_METADATA_FILE")"
+          report=$(bash functions/strings/json-metadata-table-report.sh "$missing_show_posters")
+          if [[ -n "$report" ]]; then
+              echo "$report" > "$SHOW_POSTER_REPORT"
+          fi
+      
+      - name: Find Movie Missing Genres
+        run: |
+          missing_movie_genres="$(bash functions/yaml/find-missing.sh \
+                                      "genres" \
+                                      "movie" \
+                                      "$MOVIE_METADATA_FILE" \
+                                      "$SHOW_METADATA_FILE")"
+          report=$(bash functions/strings/json-metadata-table-report.sh "$missing_movie_genres")
+          if [[ -n "$report" ]]; then
+              echo "$report" > "$MOVIE_GENRE_REPORT"
+          fi
+
+      - name: Find Show Missing Genres
+        run: |
+          missing_show_genres="$(bash functions/yaml/find-missing.sh \
+                                      "genres" \
+                                      "show" \
+                                      "$MOVIE_METADATA_FILE" \
+                                      "$SHOW_METADATA_FILE")"
+          report=$(bash functions/strings/json-metadata-table-report.sh "$missing_show_genres")
+          if [[ -n "$report" ]]; then
+              echo "$report" > "$SHOW_GENRE_REPORT"
+          fi
+      
+      - name: Create Job Summary
+        run: |
+            if [[ ! -f "$MOVIE_POSTER_REPORT" && 
+                  ! -f "$SHOW_POSTER_REPORT" && 
+                  ! -f "$MOVIE_GENRE_REPORT" && 
+                  ! -f "$SHOW_GENRE_REPORT" ]]; then
+              echo "# ✅ No missing fields" >> "$GITHUB_STEP_SUMMARY"
+            else
+              echo "# ❌ Missing fields found" >> "$GITHUB_STEP_SUMMARY"
+              if [[ -f "$MOVIE_POSTER_REPORT" ]]; then
+                  echo "## Movie Posters" >> "$GITHUB_STEP_SUMMARY"
+                  cat "$MOVIE_POSTER_REPORT" >> "$GITHUB_STEP_SUMMARY"
+              fi
+              if [[ -f "$SHOW_POSTER_REPORT" ]]; then
+                  echo "## Show Posters" >> "$GITHUB_STEP_SUMMARY"
+                  cat "$SHOW_POSTER_REPORT" >> "$GITHUB_STEP_SUMMARY"
+              fi
+              if [[ -f "$MOVIE_GENRE_REPORT" ]]; then
+                  echo "## Movie Genres" >> "$GITHUB_STEP_SUMMARY"
+                  cat "$MOVIE_GENRE_REPORT" >> "$GITHUB_STEP_SUMMARY"
+              fi
+              if [[ -f "$SHOW_GENRE_REPORT" ]]; then
+                  echo "## Show Genres" >> "$GITHUB_STEP_SUMMARY"
+                  cat "$SHOW_GENRE_REPORT" >> "$GITHUB_STEP_SUMMARY"
+              fi
+            fi
