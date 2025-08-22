@@ -1536,6 +1536,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Exterritorial&section=movies
     genre.sync:
       - Thriller
+  911430:
+    label_title: F1
+    sort_title: F1
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=F1&section=movies
+    genre.sync:
+      - Action
+      - Drama
   746036:
     label_title: The Fall Guy
     sort_title: Fall Guy
