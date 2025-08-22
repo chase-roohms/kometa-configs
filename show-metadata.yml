@@ -2879,6 +2879,8 @@ metadata:
       - Comedy
       - Science Fiction
     seasons:
+      1:
+        url_poster: ''
       2:
         url_poster: ''
   270915:
