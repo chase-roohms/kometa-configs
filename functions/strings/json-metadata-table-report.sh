@@ -25,9 +25,9 @@ get_db_link() {
     # For shows, typically use TVDB; for movies, typically use TMDB
     # You may need to adjust this logic based on your specific setup
     if [[ "$type" == "show" ]]; then
-        "bash functions/media/get-tvdb-link.sh" "$id"
+        bash functions/media/get-tvdb-link.sh "$id"
     else
-        "bash functions/media/get-tmdb-link.sh" "$id"
+        bash functions/media/get-tmdb-link.sh "$id"
     fi
 }
 
@@ -66,8 +66,8 @@ echo "$json_metadata" | while IFS= read -r line; do
         
         # Generate links
         db_link=$(get_db_link "$txdb_id" "$media_type")
-        tpdb_link=$("bash functions/media/get-tpdb-search.sh" "$title" "$media_type")
-        google_link=$("bash functions/media/get-google-search.sh" "$title" "$release_year" "$media_type")
+        tpdb_link=$(bash functions/media/get-tpdb-search.sh "$title" "$media_type")
+        google_link=$(bash functions/media/get-google-search.sh "$title" "$release_year" "$media_type")
 
         # Create markdown table row
         printf "| [%s](%s) | %s | %s | [TPDb](%s) | [Google](%s) |\n" \
