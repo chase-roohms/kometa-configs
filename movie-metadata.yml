@@ -1540,7 +1540,7 @@ metadata:
     label_title: F1
     sort_title: F1
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/608277
     tpdb_search: https://theposterdb.com/search?term=F1&section=movies
     genre.sync:
       - Action
