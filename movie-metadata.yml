@@ -2388,11 +2388,11 @@ metadata:
     genre.sync:
       - Family
   1149504:
-    label_title: Honey Don't!
-    sort_title: Honey Don't!
+    label_title: "Honey Don't!"
+    sort_title: "Honey Don't!"
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/634980
-    tpdb_search: https://theposterdb.com/search?term=Honey+Don't!&section=movies
+    tpdb_search: "https://theposterdb.com/search?term=Honey+Don't!&section=movies"
     genre.sync:
       - Comedy
       - Drama

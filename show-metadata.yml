@@ -1563,11 +1563,11 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/609123
   75805:
-    label_title: It's Always Sunny in Philadelphia
-    sort_title: It's Always Sunny in Philadelphia
+    label_title: "It's Always Sunny in Philadelphia"
+    sort_title: "It's Always Sunny in Philadelphia"
     release_year: '2005'
     url_poster: https://theposterdb.com/api/assets/150028
-    tpdb_search: https://theposterdb.com/search?term=It's+Always+Sunny+in+Philadelphia&section=shows
+    tpdb_search: "https://theposterdb.com/search?term=It's+Always+Sunny+in+Philadelphia&section=shows"
     genre.sync:
       - Comedy
     seasons:
@@ -1606,11 +1606,11 @@ metadata:
       17:
         url_poster: https://theposterdb.com/api/assets/623907
   273106:
-    label_title: Ja'mie - Private School Girl
-    sort_title: Ja'mie - Private School Girl
+    label_title: "Ja'mie - Private School Girl"
+    sort_title: "Ja'mie - Private School Girl"
     release_year: '2013'
     url_poster: https://theposterdb.com/api/assets/630696
-    tpdb_search: https://theposterdb.com/search?term=Ja'mie+-+Private+School+Girl&section=shows
+    tpdb_search: "https://theposterdb.com/search?term=Ja'mie+-+Private+School+Girl&section=shows"
     genre.sync:
       - Comedy
     seasons:
@@ -2340,11 +2340,11 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/464793
   281485:
-    label_title: Marvel's Agent Carter
-    sort_title: Marvel's Agent Carter
+    label_title: "Marvel's Agent Carter"
+    sort_title: "Marvel's Agent Carter"
     release_year: '2015'
     url_poster: https://theposterdb.com/api/assets/145236
-    tpdb_search: https://theposterdb.com/search?term=Marvel's+Agent+Carter&section=shows
+    tpdb_search: "https://theposterdb.com/search?term=Marvel's+Agent+Carter&section=shows"
     studio: Marvel Studios
     genre.sync:
       - Superhero
@@ -2354,11 +2354,11 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/145238
   263365:
-    label_title: Marvel's Agents of S.H.I.E.L.D.
-    sort_title: Marvel's Agents of S.H.I.E.L.D.
+    label_title: "Marvel's Agents of S.H.I.E.L.D."
+    sort_title: "Marvel's Agents of S.H.I.E.L.D."
     release_year: '2013'
     url_poster: https://theposterdb.com/api/assets/87635
-    tpdb_search: https://theposterdb.com/search?term=Marvel's+Agents+of+S.H.I.E.L.D.&section=shows
+    tpdb_search: "https://theposterdb.com/search?term=Marvel's+Agents+of+S.H.I.E.L.D.&section=shows"
     studio: Marvel Studios
     genre.sync:
       - Superhero
@@ -2378,11 +2378,11 @@ metadata:
       7:
         url_poster: https://theposterdb.com/api/assets/87642
   341455:
-    label_title: Marvel's Cloak & Dagger
-    sort_title: Marvel's Cloak & Dagger
+    label_title: "Marvel's Cloak & Dagger"
+    sort_title: "Marvel's Cloak & Dagger"
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/144047
-    tpdb_search: https://theposterdb.com/search?term=Marvel's+Cloak+%26+Dagger&section=shows
+    tpdb_search: "https://theposterdb.com/search?term=Marvel's+Cloak+%26+Dagger&section=shows"
     studio: Marvel Studios
     genre.sync:
       - Superhero
@@ -2392,11 +2392,11 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/144049
   281662:
-    label_title: Marvel's Daredevil
-    sort_title: Marvel's Daredevil
+    label_title: "Marvel's Daredevil"
+    sort_title: "Marvel's Daredevil"
     release_year: '2015'
     url_poster: https://theposterdb.com/api/assets/146524
-    tpdb_search: https://theposterdb.com/search?term=Marvel's+Daredevil&section=shows
+    tpdb_search: "https://theposterdb.com/search?term=Marvel's+Daredevil&section=shows"
     studio: Marvel Studios
     genre.sync:
       - Superhero
@@ -2408,11 +2408,11 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/146527
   320558:
-    label_title: Marvel's Inhumans
-    sort_title: Marvel's Inhumans
+    label_title: "Marvel's Inhumans"
+    sort_title: "Marvel's Inhumans"
     release_year: '2017'
     url_poster: https://theposterdb.com/api/assets/146518
-    tpdb_search: https://theposterdb.com/search?term=Marvel's+Inhumans&section=shows
+    tpdb_search: "https://theposterdb.com/search?term=Marvel's+Inhumans&section=shows"
     studio: Marvel Studios
     genre.sync:
       - Superhero
@@ -2420,11 +2420,11 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/146519
   317953:
-    label_title: Marvel's Iron Fist
-    sort_title: Marvel's Iron Fist
+    label_title: "Marvel's Iron Fist"
+    sort_title: "Marvel's Iron Fist"
     release_year: '2017'
     url_poster: https://theposterdb.com/api/assets/146795
-    tpdb_search: https://theposterdb.com/search?term=Marvel's+Iron+Fist&section=shows
+    tpdb_search: "https://theposterdb.com/search?term=Marvel's+Iron+Fist&section=shows"
     studio: Marvel Studios
     genre.sync:
       - Superhero
@@ -2434,11 +2434,11 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/146797
   284190:
-    label_title: Marvel's Jessica Jones
-    sort_title: Marvel's Jessica Jones
+    label_title: "Marvel's Jessica Jones"
+    sort_title: "Marvel's Jessica Jones"
     release_year: '2015'
     url_poster: https://theposterdb.com/api/assets/146669
-    tpdb_search: https://theposterdb.com/search?term=Marvel's+Jessica+Jones&section=shows
+    tpdb_search: "https://theposterdb.com/search?term=Marvel's+Jessica+Jones&section=shows"
     studio: Marvel Studios
     genre.sync:
       - Superhero
@@ -2450,11 +2450,11 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/146672
   304219:
-    label_title: Marvel's Luke Cage
-    sort_title: Marvel's Luke Cage
+    label_title: "Marvel's Luke Cage"
+    sort_title: "Marvel's Luke Cage"
     release_year: '2016'
     url_poster: https://theposterdb.com/api/assets/146779
-    tpdb_search: https://theposterdb.com/search?term=Marvel's+Luke+Cage&section=shows
+    tpdb_search: "https://theposterdb.com/search?term=Marvel's+Luke+Cage&section=shows"
     studio: Marvel Studios
     genre.sync:
       - Superhero
@@ -2464,11 +2464,11 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/146781
   332027:
-    label_title: Marvel's Runaways
-    sort_title: Marvel's Runaways
+    label_title: "Marvel's Runaways"
+    sort_title: "Marvel's Runaways"
     release_year: '2017'
     url_poster: https://theposterdb.com/api/assets/144039
-    tpdb_search: https://theposterdb.com/search?term=Marvel's+Runaways&section=shows
+    tpdb_search: "https://theposterdb.com/search?term=Marvel's+Runaways&section=shows"
     studio: Marvel Studios
     genre.sync:
       - Superhero
@@ -2480,11 +2480,11 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/144042
   326490:
-    label_title: Marvel's The Defenders
-    sort_title: Marvel's The Defenders
+    label_title: "Marvel's The Defenders"
+    sort_title: "Marvel's The Defenders"
     release_year: '2017'
     url_poster: https://theposterdb.com/api/assets/149157
-    tpdb_search: https://theposterdb.com/search?term=Marvel's+The+Defenders&section=shows
+    tpdb_search: "https://theposterdb.com/search?term=Marvel's+The+Defenders&section=shows"
     studio: Marvel Studios
     genre.sync:
       - Superhero
@@ -2492,11 +2492,11 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/149158
   331980:
-    label_title: Marvel's The Punisher
-    sort_title: Marvel's The Punisher
+    label_title: "Marvel's The Punisher"
+    sort_title: "Marvel's The Punisher"
     release_year: '2017'
     url_poster: https://theposterdb.com/api/assets/146924
-    tpdb_search: https://theposterdb.com/search?term=Marvel's+The+Punisher&section=shows
+    tpdb_search: "https://theposterdb.com/search?term=Marvel's+The+Punisher&section=shows"
     studio: Marvel Studios
     genre.sync:
       - Superhero
@@ -2984,11 +2984,11 @@ metadata:
       5:
         url_poster: https://theposterdb.com/api/assets/135475
   387115:
-    label_title: The Queen's Gambit
-    sort_title: Queen's Gambit
+    label_title: "The Queen's Gambit"
+    sort_title: "Queen's Gambit"
     release_year: '2020'
     url_poster: https://theposterdb.com/api/assets/111129
-    tpdb_search: https://theposterdb.com/search?term=The+Queen's+Gambit&section=shows
+    tpdb_search: "https://theposterdb.com/search?term=The+Queen's+Gambit&section=shows"
     genre.sync:
       - Drama
     seasons:
