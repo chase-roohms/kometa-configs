@@ -13,7 +13,7 @@ fi
 json_metadata="$1"
 if [[ -z "$json_metadata" ]]; then
     echo "Warning: No JSON metadata provided." >&2
-    exit 1
+    exit 0
 fi
 
 # Function to determine if ID is TMDB or TVDB based on context/length
