@@ -891,6 +891,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Brokeback+Mountain&section=movies
     genre.sync:
       - Drama
+  1607:
+    label_title: A Bronx Tale
+    sort_title: Bronx Tale
+    release_year: '1993'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=A+Bronx+Tale&section=movies
+    genre.sync:
+      - Crime
+      - Drama
   7445:
     label_title: Brothers
     sort_title: Brothers
