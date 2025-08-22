@@ -1,11 +1,4 @@
 metadata:
-  123456789:
-    label_title: 1 Example Movie
-    sort_title: 1 Example Movie
-    release_year: '1999'
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=1+Example+Movie&section=movies
-    genre.sync: []
   170:
     label_title: 28 Days Later
     sort_title: 28 Later 1
