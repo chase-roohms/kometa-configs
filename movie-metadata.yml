@@ -1732,6 +1732,16 @@ metadata:
       - Crime
       - Mystery
       - Thriller
+  384018:
+    label_title: 'Fast & Furious Presents: Hobbs & Shaw'
+    sort_title: 'Fast & Furious Presents: Hobbs & Shaw'
+    release_year: '2019'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Fast+%26+Furious+Presents:+Hobbs+%26+Shaw&section=movies
+    genre.sync:
+      - Action
+      - Adventure
+      - Comedy
   337339:
     label_title: The Fate of the Furious
     sort_title: Fate of the Furious
