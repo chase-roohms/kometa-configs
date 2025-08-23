@@ -1679,6 +1679,16 @@ metadata:
       - Crime
       - Drama
       - Thriller
+  51497:
+    label_title: Fast Five
+    sort_title: Fast Five
+    release_year: '2011'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Fast+Five&section=movies
+    genre.sync:
+      - Action
+      - Crime
+      - Thriller
   385687:
     label_title: Fast X
     sort_title: Fast X
