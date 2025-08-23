@@ -1658,6 +1658,18 @@ metadata:
       - Action
       - Crime
       - Thriller
+  385687:
+    label_title: Fast X
+    sort_title: Fast X
+    release_year: '2023'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Fast+X&section=movies
+    genre.sync:
+      - Action
+      - Adventure
+      - Crime
+      - Mystery
+      - Thriller
   591273:
     label_title: Fear Street 1994
     sort_title: Fear Street 1
