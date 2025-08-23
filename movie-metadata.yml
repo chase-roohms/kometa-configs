@@ -1648,6 +1648,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Fantastic+Fungi&section=movies
     genre.sync:
       - Documentary
+  82992:
+    label_title: Fast & Furious 6
+    sort_title: Fast & Furious 6
+    release_year: '2013'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Fast+%26+Furious+6&section=movies
+    genre.sync:
+      - Action
+      - Crime
+      - Thriller
   9799:
     label_title: The Fast and the Furious
     sort_title: Fast and the Furious
