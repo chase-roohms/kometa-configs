@@ -2872,17 +2872,17 @@ metadata:
     label_title: Peacemaker
     sort_title: Peacemaker
     release_year: '2022'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/636581
     tpdb_search: https://theposterdb.com/search?term=Peacemaker&section=shows
     genre.sync:
-      - Action
-      - Comedy
-      - Science Fiction
+      - Superhero
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/636582
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/636583
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/636584
   270915:
     label_title: Peaky Blinders
     sort_title: Peaky Blinders
