@@ -1732,6 +1732,16 @@ metadata:
       - Crime
       - Mystery
       - Thriller
+  337339:
+    label_title: The Fate of the Furious
+    sort_title: Fate of the Furious
+    release_year: '2017'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Fate+of+the+Furious&section=movies
+    genre.sync:
+      - Action
+      - Crime
+      - Thriller
   591273:
     label_title: Fear Street 1994
     sort_title: Fear Street 1
