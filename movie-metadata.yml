@@ -1929,6 +1929,16 @@ metadata:
     studio: A24
     genre.sync:
       - Comedy
+  168259:
+    label_title: Furious 7
+    sort_title: Furious 7
+    release_year: '2015'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Furious+7&section=movies
+    genre.sync:
+      - Action
+      - Crime
+      - Thriller
   228150:
     label_title: Fury
     sort_title: Fury
