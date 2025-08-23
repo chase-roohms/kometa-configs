@@ -1,14 +1,4 @@
 metadata:
-  584:
-    label_title: 2 Fast 2 Furious
-    sort_title: Fast & Furious 2
-    release_year: '2003'
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=2+Fast+2+Furious&section=movies
-    genre.sync:
-      - Action
-      - Crime
-      - Thriller
   170:
     label_title: 28 Days Later
     sort_title: 28 Later 1
@@ -1563,16 +1553,6 @@ metadata:
     genre.sync:
       - Action
       - Drama
-  385128:
-    label_title: F9
-    sort_title: Fast & Furious 9
-    release_year: '2021'
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=F9&section=movies
-    genre.sync:
-      - Action
-      - Adventure
-      - Crime
   746036:
     label_title: The Fall Guy
     sort_title: Fall Guy
@@ -1658,33 +1638,22 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Fantastic+Fungi&section=movies
     genre.sync:
       - Documentary
-  13804:
-    label_title: Fast & Furious
-    sort_title: Fast & Furious 4
-    release_year: '2009'
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Fast+%26+Furious&section=movies
-    genre.sync:
-      - Action
-      - Crime
-      - Drama
-      - Thriller
-  82992:
-    label_title: Fast & Furious 6
-    sort_title: Fast & Furious 6
-    release_year: '2013'
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Fast+%26+Furious+6&section=movies
-    genre.sync:
-      - Action
-      - Crime
-      - Thriller
   9799:
     label_title: The Fast and the Furious
     sort_title: Fast & Furious 1
     release_year: '2001'
     url_poster: ''
     tpdb_search: https://theposterdb.com/search?term=The+Fast+and+the+Furious&section=movies
+    genre.sync:
+      - Action
+      - Crime
+      - Thriller
+  584:
+    label_title: 2 Fast 2 Furious
+    sort_title: Fast & Furious 2
+    release_year: '2003'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=2+Fast+2+Furious&section=movies
     genre.sync:
       - Action
       - Crime
@@ -1700,6 +1669,17 @@ metadata:
       - Crime
       - Drama
       - Thriller
+  13804:
+    label_title: Fast & Furious
+    sort_title: Fast & Furious 4
+    release_year: '2009'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Fast+%26+Furious&section=movies
+    genre.sync:
+      - Action
+      - Crime
+      - Drama
+      - Thriller
   51497:
     label_title: Fast Five
     sort_title: Fast & Furious 5
@@ -1710,6 +1690,36 @@ metadata:
       - Action
       - Crime
       - Thriller
+  82992:
+    label_title: Fast & Furious 6
+    sort_title: Fast & Furious 6
+    release_year: '2013'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Fast+%26+Furious+6&section=movies
+    genre.sync:
+      - Action
+      - Crime
+      - Thriller
+  168259:
+    label_title: Furious 7
+    sort_title: Fast & Furious 7
+    release_year: '2015'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Furious+7&section=movies
+    genre.sync:
+      - Action
+      - Crime
+      - Thriller
+  385128:
+    label_title: F9
+    sort_title: Fast & Furious 9
+    release_year: '2021'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=F9&section=movies
+    genre.sync:
+      - Action
+      - Adventure
+      - Crime
   385687:
     label_title: Fast X
     sort_title: Fast & Furious 10
@@ -1940,16 +1950,6 @@ metadata:
     studio: A24
     genre.sync:
       - Comedy
-  168259:
-    label_title: Furious 7
-    sort_title: Fast & Furious 7
-    release_year: '2015'
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Furious+7&section=movies
-    genre.sync:
-      - Action
-      - Crime
-      - Thriller
   228150:
     label_title: Fury
     sort_title: Fury
