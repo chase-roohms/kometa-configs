@@ -1658,6 +1658,17 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Fantastic+Fungi&section=movies
     genre.sync:
       - Documentary
+  13804:
+    label_title: Fast & Furious
+    sort_title: Fast & Furious
+    release_year: '2009'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Fast+%26+Furious&section=movies
+    genre.sync:
+      - Action
+      - Crime
+      - Drama
+      - Thriller
   82992:
     label_title: Fast & Furious 6
     sort_title: Fast & Furious 6
