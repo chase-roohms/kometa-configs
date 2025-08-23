@@ -1638,6 +1638,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Fantastic+Fungi&section=movies
     genre.sync:
       - Documentary
+  9799:
+    label_title: The Fast and the Furious
+    sort_title: Fast and the Furious
+    release_year: '2001'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Fast+and+the+Furious&section=movies
+    genre.sync:
+      - Action
+      - Crime
+      - Thriller
   591273:
     label_title: Fear Street 1994
     sort_title: Fear Street 1
