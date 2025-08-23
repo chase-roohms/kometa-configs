@@ -1642,7 +1642,7 @@ metadata:
     label_title: The Fast and the Furious
     sort_title: Fast & Furious 1
     release_year: '2001'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/166163
     tpdb_search: https://theposterdb.com/search?term=The+Fast+and+the+Furious&section=movies
     genre.sync:
       - Action
@@ -1650,7 +1650,7 @@ metadata:
     label_title: 2 Fast 2 Furious
     sort_title: Fast & Furious 2
     release_year: '2003'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/166164
     tpdb_search: https://theposterdb.com/search?term=2+Fast+2+Furious&section=movies
     genre.sync:
       - Action
@@ -1658,7 +1658,7 @@ metadata:
     label_title: 'The Fast and the Furious: Tokyo Drift'
     sort_title: Fast & Furious 3
     release_year: '2006'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/166165
     tpdb_search: https://theposterdb.com/search?term=The+Fast+and+the+Furious:+Tokyo+Drift&section=movies
     genre.sync:
       - Action
@@ -1666,7 +1666,7 @@ metadata:
     label_title: Fast & Furious
     sort_title: Fast & Furious 4
     release_year: '2009'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/166166
     tpdb_search: https://theposterdb.com/search?term=Fast+%26+Furious&section=movies
     genre.sync:
       - Action
@@ -1674,7 +1674,7 @@ metadata:
     label_title: Fast Five
     sort_title: Fast & Furious 5
     release_year: '2011'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/166167
     tpdb_search: https://theposterdb.com/search?term=Fast+Five&section=movies
     genre.sync:
       - Action
@@ -1682,7 +1682,7 @@ metadata:
     label_title: Fast & Furious 6
     sort_title: Fast & Furious 6
     release_year: '2013'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/166168
     tpdb_search: https://theposterdb.com/search?term=Fast+%26+Furious+6&section=movies
     genre.sync:
       - Action
@@ -1690,7 +1690,7 @@ metadata:
     label_title: Furious 7
     sort_title: Fast & Furious 7
     release_year: '2015'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/166169
     tpdb_search: https://theposterdb.com/search?term=Furious+7&section=movies
     genre.sync:
       - Action
@@ -1698,7 +1698,7 @@ metadata:
     label_title: The Fate of the Furious
     sort_title: Fast & Furious 8
     release_year: '2017'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/166170
     tpdb_search: https://theposterdb.com/search?term=The+Fate+of+the+Furious&section=movies
     genre.sync:
       - Action
@@ -1706,7 +1706,7 @@ metadata:
     label_title: 'Fast & Furious Presents: Hobbs & Shaw'
     sort_title: Fast & Furious 9
     release_year: '2019'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/166171
     tpdb_search: https://theposterdb.com/search?term=Fast+%26+Furious+Presents:+Hobbs+%26+Shaw&section=movies
     genre.sync:
       - Action
@@ -1714,7 +1714,7 @@ metadata:
     label_title: F9
     sort_title: Fast & Furious 10
     release_year: '2021'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/166172
     tpdb_search: https://theposterdb.com/search?term=F9&section=movies
     genre.sync:
       - Action
@@ -1722,7 +1722,7 @@ metadata:
     label_title: Fast X
     sort_title: Fast & Furious 11
     release_year: '2023'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/333396
     tpdb_search: https://theposterdb.com/search?term=Fast+X&section=movies
     genre.sync:
       - Action
