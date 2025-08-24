@@ -1385,6 +1385,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Dosed+2+The+Trip+of+a+Lifetime&section=movies
     genre.sync:
       - Documentary
+  567797:
+    label_title: The Dry
+    sort_title: Dry
+    release_year: '2021'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Dry&section=movies
+    genre.sync:
+      - Crime
+      - Mystery
+      - Thriller
   438631:
     label_title: Dune
     sort_title: Dune 1
