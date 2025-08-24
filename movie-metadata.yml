@@ -4213,6 +4213,17 @@ metadata:
     studio: A24
     genre.sync:
       - Horror
+  676:
+    label_title: Pearl Harbor
+    sort_title: Pearl Harbor
+    release_year: '2001'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Pearl+Harbor&section=movies
+    genre.sync:
+      - Action
+      - History
+      - Romance
+      - War
   32657:
     label_title: Percy Jackson and the Olympians The Lightning Thief
     sort_title: Percy Jackson 1
