@@ -3291,6 +3291,7 @@ metadata:
     release_year: '2014'
     url_poster: https://theposterdb.com/api/assets/360285
     tpdb_search: https://theposterdb.com/search?term=Life+After+Beth&section=movies
+    studio: A24
     genre.sync:
       - Comedy
       - Horror
