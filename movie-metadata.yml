@@ -2151,6 +2151,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Gracies+Choice&section=movies
     genre.sync:
       - Drama
+  516486:
+    label_title: Greyhound
+    sort_title: Greyhound
+    release_year: '2020'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Greyhound&section=movies
+    genre.sync:
+      - Action
+      - Drama
+      - War
   118340:
     label_title: Guardians of the Galaxy
     sort_title: Guardians of the Galaxy 1
