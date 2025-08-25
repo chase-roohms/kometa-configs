@@ -1561,6 +1561,14 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
+  264660:
+    label_title: Ex Machina
+    sort_title: Ex Machina
+    release_year: '2015'
+    url_poster: https://theposterdb.com/api/assets/360297
+    tpdb_search: https://theposterdb.com/search?term=Ex+Machina&section=movies
+    genre.sync:
+      - Science Fiction
   1408208:
     label_title: Exit 8
     sort_title: Exit 8
