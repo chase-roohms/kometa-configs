@@ -1510,6 +1510,15 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
+  1259102:
+    label_title: Eternity
+    sort_title: Eternity
+    release_year: '2025'
+    url_poster: https://theposterdb.com/api/assets/636880
+    tpdb_search: https://theposterdb.com/search?term=Eternity&section=movies
+    genre.sync:
+      - Comedy
+      - Drama
   15137:
     label_title: 'Evangelion: 1.0 You Are (Not) Alone'
     sort_title: Evangelion Rebuild 1
