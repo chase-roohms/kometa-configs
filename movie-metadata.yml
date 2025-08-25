@@ -1387,13 +1387,19 @@ metadata:
       - Documentary
   567797:
     label_title: The Dry
-    sort_title: Dry
+    sort_title: Dry 1
     release_year: '2021'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/493515
     tpdb_search: https://theposterdb.com/search?term=The+Dry&section=movies
     genre.sync:
-      - Crime
-      - Mystery
+      - Thriller
+  832262:
+    label_title: 'Forces of Nature: The Dry 2'
+    sort_title: Dry 2
+    release_year: '2024'
+    url_poster: https://theposterdb.com/api/assets/493514
+    tpdb_search: https://theposterdb.com/search?term=Forces+of+Nature:+The+Dry+2&section=movies
+    genre.sync:
       - Thriller
   438631:
     label_title: Dune
