@@ -3727,6 +3727,18 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Ministry+of+Ungentlemanly+Warfare&section=movies
     genre.sync:
       - Action
+  22371:
+    label_title: Minutemen
+    sort_title: Minutemen
+    release_year: '2008'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Minutemen&section=movies
+    genre.sync:
+      - Adventure
+      - Comedy
+      - Family
+      - Science Fiction
+      - TV Movie
   954:
     label_title: Mission Impossible
     sort_title: Mission Impossible 1
