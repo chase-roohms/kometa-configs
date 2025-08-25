@@ -4347,6 +4347,7 @@ metadata:
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/636879
     tpdb_search: https://theposterdb.com/search?term=The+Yogurt+Shop+Murders&section=shows
+    studio: A24
     genre.sync:
       - Documentary
     seasons:
