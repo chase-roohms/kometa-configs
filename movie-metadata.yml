@@ -3285,6 +3285,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Legend+of+Oshi&section=movies
     genre.sync:
       - Fantasy
+  244566:
+    label_title: Life After Beth
+    sort_title: Life After Beth
+    release_year: '2014'
+    url_poster: https://theposterdb.com/api/assets/360285
+    tpdb_search: https://theposterdb.com/search?term=Life+After+Beth&section=movies
+    genre.sync:
+      - Comedy
+      - Horror
   160155:
     label_title: Life Is Ruff
     sort_title: Life Is Ruff
