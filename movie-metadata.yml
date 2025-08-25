@@ -2623,7 +2623,7 @@ metadata:
     label_title: How to Train Your Dragon
     sort_title: How to Train Your Dragon 4
     release_year: '2025'
-    url_poster: https://theposterdb.com/api/assets/615539
+    url_poster: https://theposterdb.com/api/assets/608866
     tpdb_search: https://theposterdb.com/search?term=How+to+Train+Your+Dragon&section=movies
     studio: DreamWorks Animation
     genre.sync:
@@ -6006,8 +6006,9 @@ metadata:
     label_title: The Wild Robot
     sort_title: Wild Robot
     release_year: '2024'
-    url_poster: https://theposterdb.com/api/assets/531118
+    url_poster: https://theposterdb.com/api/assets/532877
     tpdb_search: https://theposterdb.com/search?term=The+Wild+Robot&section=movies
+    studio: DreamWorks Animation
     genre.sync:
       - Animation
   310131:
