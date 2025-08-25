@@ -1032,6 +1032,18 @@ metadata:
     genre.sync:
       - Comedy
       - Thriller
+  10992:
+    label_title: Cats & Dogs
+    sort_title: Cats & Dogs
+    release_year: '2001'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Cats+%26+Dogs&section=movies
+    genre.sync:
+      - Action
+      - Adventure
+      - Comedy
+      - Family
+      - Fantasy
   24662:
     label_title: "Cats Don't Dance"
     sort_title: "Cats Don't Dance"
