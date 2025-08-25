@@ -1516,6 +1516,7 @@ metadata:
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/636880
     tpdb_search: https://theposterdb.com/search?term=Eternity&section=movies
+    studio: A24
     genre.sync:
       - Comedy
       - Drama
@@ -1567,6 +1568,7 @@ metadata:
     release_year: '2015'
     url_poster: https://theposterdb.com/api/assets/360297
     tpdb_search: https://theposterdb.com/search?term=Ex+Machina&section=movies
+    studio: A24
     genre.sync:
       - Science Fiction
   1408208:
