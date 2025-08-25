@@ -4809,11 +4809,10 @@ metadata:
     label_title: "She's the Man"
     sort_title: "She's the Man"
     release_year: '2006'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/456756
     tpdb_search: "https://theposterdb.com/search?term=She's+the+Man&section=movies"
     genre.sync:
       - Comedy
-      - Romance
   694:
     label_title: The Shining
     sort_title: Shining
