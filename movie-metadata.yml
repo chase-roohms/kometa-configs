@@ -2695,6 +2695,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Hunger+Games+The+Ballad+of+Songbirds+and+Snakes&section=movies
     genre.sync:
       - Action
+  1083433:
+    label_title: I Know What You Did Last Summer
+    sort_title: I Know What You Did Last Summer
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=I+Know+What+You+Did+Last+Summer&section=movies
+    genre.sync:
+      - Horror
+      - Mystery
+      - Thriller
   858017:
     label_title: I Saw the TV Glow
     sort_title: I Saw the TV Glow
