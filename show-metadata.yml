@@ -1537,14 +1537,13 @@ metadata:
     label_title: The Institute
     sort_title: Institute
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/622381
     tpdb_search: https://theposterdb.com/search?term=The+Institute&section=shows
     genre.sync:
-      - Mini-Series
       - Thriller
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/622382
   368207:
     label_title: Invincible
     sort_title: Invincible
