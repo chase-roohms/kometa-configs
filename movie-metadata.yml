@@ -2695,16 +2695,38 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Hunger+Games+The+Ballad+of+Songbirds+and+Snakes&section=movies
     genre.sync:
       - Action
-  1083433:
+  3597:
     label_title: I Know What You Did Last Summer
-    sort_title: I Know What You Did Last Summer
-    release_year: '2025'
-    url_poster: ''
+    sort_title: I Know What You Did Last Summer 1
+    release_year: '1997'
+    url_poster: https://theposterdb.com/api/assets/621887
     tpdb_search: https://theposterdb.com/search?term=I+Know+What+You+Did+Last+Summer&section=movies
     genre.sync:
       - Horror
-      - Mystery
-      - Thriller
+  3600:
+    label_title: I Still Know What You Did Last Summer
+    sort_title: I Know What You Did Last Summer 2
+    release_year: '1998'
+    url_poster: https://theposterdb.com/api/assets/621886
+    tpdb_search: https://theposterdb.com/search?term=I+Still+Know+What+You+Did+Last+Summer&section=movies
+    genre.sync:
+      - Horror
+  3602:
+    label_title: "I'll Always Know What You Did Last Summer"
+    sort_title: I Know What You Did Last Summer 3
+    release_year: '2006'
+    url_poster: https://theposterdb.com/api/assets/621885
+    tpdb_search: "https://theposterdb.com/search?term=I'll+Always+Know+What+You+Did+Last+Summer&section=movies"
+    genre.sync:
+      - Horror
+  1083433:
+    label_title: I Know What You Did Last Summer
+    sort_title: I Know What You Did Last Summer 4
+    release_year: '2025'
+    url_poster: https://theposterdb.com/api/assets/621884
+    tpdb_search: https://theposterdb.com/search?term=I+Know+What+You+Did+Last+Summer&section=movies
+    genre.sync:
+      - Horror
   858017:
     label_title: I Saw the TV Glow
     sort_title: I Saw the TV Glow
