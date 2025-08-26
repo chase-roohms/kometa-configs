@@ -5555,11 +5555,10 @@ metadata:
     label_title: Together
     sort_title: Together
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/629253
     tpdb_search: https://theposterdb.com/search?term=Together&section=movies
     genre.sync:
       - Horror
-      - Romance
   14787:
     label_title: 'Tom and Jerry: The Magic Ring'
     sort_title: 'Tom and Jerry: The Magic Ring'
