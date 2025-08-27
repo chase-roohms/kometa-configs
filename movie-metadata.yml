@@ -5935,6 +5935,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Us&section=movies
     genre.sync:
       - Horror
+  340945:
+    label_title: 'USS Indianapolis: Men of Courage'
+    sort_title: 'USS Indianapolis: Men of Courage'
+    release_year: '2016'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=USS+Indianapolis:+Men+of+Courage&section=movies
+    genre.sync:
+      - Action
+      - War
   40264:
     label_title: Vampires Suck
     sort_title: Vampires Suck
