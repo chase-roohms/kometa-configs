@@ -1147,6 +1147,17 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Coraline&section=movies
     genre.sync:
       - Animation
+  8963:
+    label_title: Crimson Tide
+    sort_title: Crimson Tide
+    release_year: '1995'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Crimson+Tide&section=movies
+    genre.sync:
+      - Action
+      - Drama
+      - Thriller
+      - War
   957452:
     label_title: The Crow
     sort_title: Crow
