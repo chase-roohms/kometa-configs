@@ -4005,6 +4005,20 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/587071
       6:
         url_poster: https://theposterdb.com/api/assets/587069
+  464185:
+    label_title: 'The Terminal List: Dark Wolf'
+    sort_title: 'Terminal List: Dark Wolf'
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Terminal+List:+Dark+Wolf&section=shows
+    genre.sync:
+      - Action
+      - Adventure
+      - Suspense
+      - Thriller
+    seasons:
+      1:
+        url_poster: ''
   341663:
     label_title: Titans (2018)
     sort_title: Titans (2018)
