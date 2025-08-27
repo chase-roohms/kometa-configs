@@ -2772,10 +2772,9 @@ metadata:
     label_title: In Time
     sort_title: In Time
     release_year: '2011'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/83791
     tpdb_search: https://theposterdb.com/search?term=In+Time&section=movies
     genre.sync:
-      - Action
       - Science Fiction
       - Thriller
   46738:
