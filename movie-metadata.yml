@@ -437,6 +437,16 @@ metadata:
     genre.sync:
       - Horror
       - Thriller
+  1317088:
+    label_title: The Assessment
+    sort_title: Assessment
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Assessment&section=movies
+    genre.sync:
+      - Drama
+      - Science Fiction
+      - Thriller
   19995:
     label_title: Avatar
     sort_title: Avatar 1
