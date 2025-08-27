@@ -3800,6 +3800,16 @@ metadata:
     studio: A24
     genre.sync:
       - Horror
+  522162:
+    label_title: Midway
+    sort_title: Midway
+    release_year: '2019'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Midway&section=movies
+    genre.sync:
+      - Action
+      - History
+      - War
   950387:
     label_title: A Minecraft Movie
     sort_title: Minecraft Movie
