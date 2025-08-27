@@ -2768,6 +2768,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=In+a+Violent+Nature&section=movies
     genre.sync:
       - Horror
+  49530:
+    label_title: In Time
+    sort_title: In Time
+    release_year: '2011'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=In+Time&section=movies
+    genre.sync:
+      - Action
+      - Science Fiction
+      - Thriller
   46738:
     label_title: Incendies
     sort_title: Incendies
