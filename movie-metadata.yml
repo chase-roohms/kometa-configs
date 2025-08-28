@@ -626,12 +626,11 @@ metadata:
     label_title: Beau Is Afraid
     sort_title: Beau Is Afraid
     release_year: '2023'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/360619
     tpdb_search: https://theposterdb.com/search?term=Beau+Is+Afraid&section=movies
+    studio: A24
     genre.sync:
-      - Adventure
       - Comedy
-      - Fantasy
   866398:
     label_title: The Beekeeper
     sort_title: Beekeeper
@@ -1474,12 +1473,11 @@ metadata:
     label_title: Eddington
     sort_title: Eddington
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/598335
     tpdb_search: https://theposterdb.com/search?term=Eddington&section=movies
+    studio: A24
     genre.sync:
       - Comedy
-      - Crime
-      - Western
   1151334:
     label_title: Eenie Meanie
     sort_title: Eenie Meanie
