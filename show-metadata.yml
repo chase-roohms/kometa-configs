@@ -397,15 +397,20 @@ metadata:
     label_title: Being Human (US)
     sort_title: Being Human (US)
     release_year: '2011'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/63077
     tpdb_search: https://theposterdb.com/search?term=Being+Human+(US)&section=shows
     genre.sync:
-      - Drama
       - Fantasy
       - Horror
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/87448
+      2:
+        url_poster: https://theposterdb.com/api/assets/87449
+      3:
+        url_poster: https://theposterdb.com/api/assets/87450
+      4:
+        url_poster: https://theposterdb.com/api/assets/87451
   73752:
     label_title: Berserk
     sort_title: Berserk
