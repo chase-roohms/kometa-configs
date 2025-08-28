@@ -5941,7 +5941,7 @@ metadata:
     label_title: 'USS Indianapolis: The Legacy'
     sort_title: 'USS Indianapolis: The Legacy'
     release_year: '2015'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/638248
     tpdb_search: https://theposterdb.com/search?term=USS+Indianapolis:+The+Legacy&section=movies
     genre.sync:
       - Documentary
