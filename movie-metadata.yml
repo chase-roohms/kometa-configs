@@ -622,6 +622,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Beach+Bum&section=movies
     genre.sync:
       - Comedy
+  798286:
+    label_title: Beau Is Afraid
+    sort_title: Beau Is Afraid
+    release_year: '2023'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Beau+Is+Afraid&section=movies
+    genre.sync:
+      - Adventure
+      - Comedy
+      - Fantasy
   866398:
     label_title: The Beekeeper
     sort_title: Beekeeper
