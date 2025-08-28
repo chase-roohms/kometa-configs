@@ -5937,6 +5937,14 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=USS+Indianapolis:+Men+of+Courage&section=movies
     genre.sync:
       - Action
+  418703:
+    label_title: 'USS Indianapolis: The Legacy'
+    sort_title: 'USS Indianapolis: The Legacy'
+    release_year: '2015'
+    url_poster: https://www.themoviedb.org/t/p/w1280/hodQYPwrzZcmeOeUN37XDUmy6MX.jpg
+    tpdb_search: https://theposterdb.com/search?term=USS+Indianapolis:+The+Legacy&section=movies
+    genre.sync:
+      - Documentary
   40264:
     label_title: Vampires Suck
     sort_title: Vampires Suck
