@@ -441,10 +441,9 @@ metadata:
     label_title: The Assessment
     sort_title: Assessment
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/592190
     tpdb_search: https://theposterdb.com/search?term=The+Assessment&section=movies
     genre.sync:
-      - Drama
       - Science Fiction
       - Thriller
   19995:
@@ -1161,13 +1160,10 @@ metadata:
     label_title: Crimson Tide
     sort_title: Crimson Tide
     release_year: '1995'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/537372
     tpdb_search: https://theposterdb.com/search?term=Crimson+Tide&section=movies
     genre.sync:
       - Action
-      - Drama
-      - Thriller
-      - War
   957452:
     label_title: The Crow
     sort_title: Crow
@@ -3814,12 +3810,10 @@ metadata:
     label_title: Midway
     sort_title: Midway
     release_year: '2019'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/53481
     tpdb_search: https://theposterdb.com/search?term=Midway&section=movies
     genre.sync:
       - Action
-      - History
-      - War
   950387:
     label_title: A Minecraft Movie
     sort_title: Minecraft Movie
@@ -5939,11 +5933,10 @@ metadata:
     label_title: 'USS Indianapolis: Men of Courage'
     sort_title: 'USS Indianapolis: Men of Courage'
     release_year: '2016'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/189724
     tpdb_search: https://theposterdb.com/search?term=USS+Indianapolis:+Men+of+Courage&section=movies
     genre.sync:
       - Action
-      - War
   40264:
     label_title: Vampires Suck
     sort_title: Vampires Suck
