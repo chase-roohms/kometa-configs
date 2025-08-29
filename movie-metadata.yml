@@ -1,25 +1,4 @@
 metadata:
-  12345:
-    label_title: 1 Movie Test
-    sort_title: 1 Movie Test
-    release_year: '1234'
-    url_poster: https://theposterdb.com/api/assets/632836
-    tpdb_search: https://theposterdb.com/search?term=1+Movie+Test&section=movies
-    studio: A24
-    genre.sync:
-      - genre 2
-      - genre1
-      - grne
-      - test hi
-  1234567890:
-    label_title: 2 Movie Test
-    sort_title: 2 Movie Test
-    release_year: '2025'
-    url_poster: https://theposterdb.com/api/assets/163486
-    tpdb_search: https://theposterdb.com/search?term=2+Movie+Test&section=movies
-    genre.sync:
-      - Comedy
-      - Horror
   170:
     label_title: 28 Days Later
     sort_title: 28 Later 1
