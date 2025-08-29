@@ -3131,6 +3131,18 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Jumanji&section=movies
     genre.sync:
       - Family
+  353486:
+    label_title: 'Jumanji: Welcome to the Jungle'
+    sort_title: 'Jumanji: Welcome to the Jungle'
+    release_year: '2017'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Jumanji:+Welcome+to+the+Jungle&section=movies
+    genre.sync:
+      - Action
+      - Adventure
+      - Comedy
+      - Family
+      - Fantasy
   8247:
     label_title: Jumper
     sort_title: Jumper
