@@ -1342,13 +1342,10 @@ metadata:
     label_title: "The Devil's Advocate"
     sort_title: "Devil's Advocate"
     release_year: '1997'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/39951
     tpdb_search: "https://theposterdb.com/search?term=The+Devil's+Advocate&section=movies"
     genre.sync:
-      - Drama
       - Horror
-      - Mystery
-      - Thriller
   82685:
     label_title: Division III Footballs Finest
     sort_title: Division III Footballs Finest
@@ -5103,21 +5100,18 @@ metadata:
     label_title: Sketch
     sort_title: Sketch
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/637823
     tpdb_search: https://theposterdb.com/search?term=Sketch&section=movies
     genre.sync:
-      - Adventure
       - Comedy
       - Fantasy
   11459:
     label_title: Sky High
     sort_title: Sky High
     release_year: '2005'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/73159
     tpdb_search: https://theposterdb.com/search?term=Sky+High&section=movies
     genre.sync:
-      - Adventure
-      - Comedy
       - Family
   11551:
     label_title: Small Soldiers
@@ -5977,15 +5971,10 @@ metadata:
     label_title: Underdog
     sort_title: Underdog
     release_year: '2007'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/98038
     tpdb_search: https://theposterdb.com/search?term=Underdog&section=movies
     genre.sync:
-      - Action
-      - Adventure
-      - Comedy
       - Family
-      - Fantasy
-      - Science Fiction
   1232546:
     label_title: Until Dawn
     sort_title: Until Dawn
