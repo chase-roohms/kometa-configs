@@ -5088,6 +5088,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Sisu&section=movies
     genre.sync:
       - Action
+  1319969:
+    label_title: Sketch
+    sort_title: Sketch
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Sketch&section=movies
+    genre.sync:
+      - Adventure
+      - Comedy
+      - Fantasy
   11551:
     label_title: Small Soldiers
     sort_title: Small Soldiers
