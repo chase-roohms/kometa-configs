@@ -5098,6 +5098,16 @@ metadata:
       - Adventure
       - Comedy
       - Fantasy
+  11459:
+    label_title: Sky High
+    sort_title: Sky High
+    release_year: '2005'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Sky+High&section=movies
+    genre.sync:
+      - Adventure
+      - Comedy
+      - Family
   11551:
     label_title: Small Soldiers
     sort_title: Small Soldiers
