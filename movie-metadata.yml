@@ -6091,23 +6091,20 @@ metadata:
       - Drama
   8357:
     label_title: 'What the #$*! Do We (K)now!?'
-    sort_title: 'What the #$*! Do We (K)now!?'
+    sort_title: What the Bleep 1
     release_year: '2004'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/638393
     tpdb_search: https://theposterdb.com/search?term=What+the+#$*!+Do+We+(K)now!?&section=movies
     genre.sync:
-      - Comedy
       - Documentary
-      - Drama
   24654:
     label_title: What the Bleep! Down the Rabbit Hole
-    sort_title: What the Bleep! Down the Rabbit Hole
+    sort_title: What the Bleep 2
     release_year: '2006'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/638394
     tpdb_search: https://theposterdb.com/search?term=What+the+Bleep!+Down+the+Rabbit+Hole&section=movies
     genre.sync:
       - Documentary
-      - Drama
   246741:
     label_title: What We Do in the Shadows
     sort_title: What We Do in the Shadows
