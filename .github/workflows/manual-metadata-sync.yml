@@ -68,7 +68,16 @@ jobs:
                 # Create comma spaced string of season numbers
                 seasons=$(jq -r '.seasons[].number' <<<"$media_item" | sort -n | tr '\n' ',' | sed 's/,$//')
               fi
-              bash functions/yaml/insert-media-item.sh "$txdb_id" "$type" "$title" "$release_year" "$url_poster" "$genres" "$seasons" "$metadata_file"
+              bash functions/yaml/insert-media-item.sh \
+                "$txdb_id" \
+                "$type" \
+                "$title" \
+                "$release_year" \
+                "$url_poster" \
+                "$genres" \
+                "$seasons" \
+                "" \
+                "$metadata_file"
             done
           done
       

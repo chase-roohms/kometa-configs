@@ -82,6 +82,7 @@ jobs:
             "" \
             "$GENRES_COMMA_SPACED" \
             "$SEASONS_COMMA_SPACED" \
+            "" \
             "$METADATA_FILE"
 
       - name: Sort and format metadata files

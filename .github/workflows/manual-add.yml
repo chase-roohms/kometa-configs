@@ -49,6 +49,7 @@ env:
   URL_POSTER: ${{ inputs.url_poster }}
   GENRES_COMMA_SPACED: ${{ inputs.genres }}
   SEASONS_COMMA_SPACED: ${{ inputs.seasons }}
+  STUDIO: ${{ inputs.studio }}
   MOVIE_METADATA_FILE: movie-metadata.yml
   SHOW_METADATA_FILE: show-metadata.yml
   UPDATE_SUMMARY_FILE: metadata_updates.md
@@ -80,6 +81,7 @@ jobs:
             "$URL_POSTER" \
             "$GENRES_COMMA_SPACED" \
             "$SEASONS_COMMA_SPACED" \
+            "$STUDIO" \
             "$METADATA_FILE"
 
       - name: Sort and format metadata files
