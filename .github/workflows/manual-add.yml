@@ -31,6 +31,8 @@ on:
         description: Genres, Comma Spaced
         required: true
         type: string
+      studio:
+        description: Studio
       seasons:
         description: Seasons, Comma Spaced
         type: string
