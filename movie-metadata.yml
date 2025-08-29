@@ -3135,11 +3135,10 @@ metadata:
     label_title: Jumper
     sort_title: Jumper
     release_year: '2008'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/73594
     tpdb_search: https://theposterdb.com/search?term=Jumper&section=movies
     genre.sync:
       - Action
-      - Adventure
       - Science Fiction
   329:
     label_title: Jurassic Park
@@ -4733,11 +4732,10 @@ metadata:
     label_title: Real Steel
     sort_title: Real Steel
     release_year: '2011'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/47280
     tpdb_search: https://theposterdb.com/search?term=Real+Steel&section=movies
     genre.sync:
       - Action
-      - Drama
       - Science Fiction
   848326:
     label_title: Rebel Moon Part One A Child of Fire
@@ -5343,13 +5341,10 @@ metadata:
     label_title: The Spiderwick Chronicles
     sort_title: Spiderwick Chronicles
     release_year: '2008'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/87939
     tpdb_search: https://theposterdb.com/search?term=The+Spiderwick+Chronicles&section=movies
     genre.sync:
-      - Adventure
-      - Drama
       - Family
-      - Fantasy
   129:
     label_title: Spirited Away
     sort_title: Spirited Away
@@ -6397,12 +6392,10 @@ metadata:
     label_title: 'Zathura: A Space Adventure'
     sort_title: 'Zathura: A Space Adventure'
     release_year: '2005'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/9256
     tpdb_search: https://theposterdb.com/search?term=Zathura:+A+Space+Adventure&section=movies
     genre.sync:
-      - Adventure
       - Family
-      - Science Fiction
   467244:
     label_title: The Zone of Interest
     sort_title: Zone of Interest
