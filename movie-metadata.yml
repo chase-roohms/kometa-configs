@@ -4719,6 +4719,16 @@ metadata:
     genre.sync:
       - Comedy
       - Drama
+  39254:
+    label_title: Real Steel
+    sort_title: Real Steel
+    release_year: '2011'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Real+Steel&section=movies
+    genre.sync:
+      - Action
+      - Drama
+      - Science Fiction
   848326:
     label_title: Rebel Moon Part One A Child of Fire
     sort_title: Rebel Moon 1
