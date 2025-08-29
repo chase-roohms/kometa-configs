@@ -5319,6 +5319,17 @@ metadata:
     studio: Marvel Entertainment
     genre.sync:
       - Superhero
+  8204:
+    label_title: The Spiderwick Chronicles
+    sort_title: Spiderwick Chronicles
+    release_year: '2008'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Spiderwick+Chronicles&section=movies
+    genre.sync:
+      - Adventure
+      - Drama
+      - Family
+      - Fantasy
   129:
     label_title: Spirited Away
     sort_title: Spirited Away
