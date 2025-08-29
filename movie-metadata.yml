@@ -3131,6 +3131,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Jumanji&section=movies
     genre.sync:
       - Family
+  512200:
+    label_title: 'Jumanji: The Next Level'
+    sort_title: 'Jumanji: The Next Level'
+    release_year: '2019'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Jumanji:+The+Next+Level&section=movies
+    genre.sync:
+      - Adventure
+      - Comedy
+      - Fantasy
   353486:
     label_title: 'Jumanji: Welcome to the Jungle'
     sort_title: 'Jumanji: Welcome to the Jungle'
