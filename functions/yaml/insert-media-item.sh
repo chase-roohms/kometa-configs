@@ -1,7 +1,7 @@
 #!/bin/bash
 
-if [ "$#" -ne 8 ]; then
-    echo "Usage: $0 <type> <txdb_id> <title> <release_year> <url_poster> <genres [json array|comma spaced string]> <seasons [bash array|comma spaced string]> <metadata_file>"
+if [ "$#" -ne 9 ]; then
+    echo "Usage: $0 <type> <txdb_id> <title> <release_year> <url_poster> <genres [json array|comma spaced string]> <seasons [bash array|comma spaced string]> <studio> <metadata_file>"
     exit 1
 fi
 
@@ -14,7 +14,8 @@ url_poster="$5"
 tpdb_search="$(bash functions/media/get-tpdb-search.sh "$title" "$type")"
 genres="$6"
 seasons="$7"
-metadata_file="$8"
+studio="$8"
+metadata_file="$9"
 
 # Validate that txdb_id contains only numbers
 if ! [[ "$txdb_id" =~ ^[0-9]+$ ]]; then
@@ -74,6 +75,9 @@ echo "  Release Year: $release_year"
 echo "  URL Poster: $url_poster"
 echo "  TPDB Search: $tpdb_search"
 echo "  Genres: $genres_json"
+if [[ -n "$studio" ]]; then
+    echo "  Studio: $studio"
+fi
 if [[ $type == "show" ]]; then
     echo "  Seasons: $seasons_json"
 fi
@@ -81,7 +85,11 @@ fi
 # Add the media item to the metadata file
 if [[ $(yq ".metadata.$txdb_id" "$metadata_file") == null ]]; then
     echo "Media does not exist, adding"
-    yq -i '.metadata += {'"$txdb_id"': {"label_title": "'"$title"'", "sort_title": "'"$sort_title"'", "release_year": "'"$release_year"'", "url_poster": "'"$url_poster"'", "tpdb_search": "'"$tpdb_search"'", "genre.sync": '"$genres_json"'}}' "$metadata_file"
+    if [[ -n "$studio" ]]; then
+        yq -i '.metadata += {'"$txdb_id"': {"label_title": "'"$title"'", "sort_title": "'"$sort_title"'", "release_year": "'"$release_year"'", "url_poster": "'"$url_poster"'", "tpdb_search": "'"$tpdb_search"'", "studio": "'"$studio"'", "genre.sync": '"$genres_json"'}}' "$metadata_file"
+    else
+        yq -i '.metadata += {'"$txdb_id"': {"label_title": "'"$title"'", "sort_title": "'"$sort_title"'", "release_year": "'"$release_year"'", "url_poster": "'"$url_poster"'", "tpdb_search": "'"$tpdb_search"'", "genre.sync": '"$genres_json"'}}' "$metadata_file"
+    fi
 fi
 if [[ $type == "show" ]]; then
     echo "$seasons_json" | jq -c '.[]' | while read -r season; do
