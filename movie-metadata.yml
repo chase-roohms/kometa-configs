@@ -6089,6 +6089,16 @@ metadata:
     studio: A24
     genre.sync:
       - Drama
+  8357:
+    label_title: 'What the #$*! Do We (K)now!?'
+    sort_title: 'What the #$*! Do We (K)now!?'
+    release_year: '2004'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=What+the+#$*!+Do+We+(K)now!?&section=movies
+    genre.sync:
+      - Comedy
+      - Documentary
+      - Drama
   24654:
     label_title: What the Bleep! Down the Rabbit Hole
     sort_title: What the Bleep! Down the Rabbit Hole
