@@ -5952,6 +5952,19 @@ metadata:
     genre.sync:
       - Comedy
       - Thriller
+  6589:
+    label_title: Underdog
+    sort_title: Underdog
+    release_year: '2007'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Underdog&section=movies
+    genre.sync:
+      - Action
+      - Adventure
+      - Comedy
+      - Family
+      - Fantasy
+      - Science Fiction
   1232546:
     label_title: Until Dawn
     sort_title: Until Dawn
