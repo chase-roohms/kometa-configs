@@ -1338,6 +1338,17 @@ metadata:
     studio: Illumination
     genre.sync:
       - Animation
+  1813:
+    label_title: "The Devil's Advocate"
+    sort_title: "Devil's Advocate"
+    release_year: '1997'
+    url_poster: ''
+    tpdb_search: "https://theposterdb.com/search?term=The+Devil's+Advocate&section=movies"
+    genre.sync:
+      - Drama
+      - Horror
+      - Mystery
+      - Thriller
   82685:
     label_title: Division III Footballs Finest
     sort_title: Division III Footballs Finest
