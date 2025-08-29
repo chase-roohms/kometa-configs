@@ -3131,6 +3131,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Jumanji&section=movies
     genre.sync:
       - Family
+  8247:
+    label_title: Jumper
+    sort_title: Jumper
+    release_year: '2008'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Jumper&section=movies
+    genre.sync:
+      - Action
+      - Adventure
+      - Science Fiction
   329:
     label_title: Jurassic Park
     sort_title: Jurassic Park 1
