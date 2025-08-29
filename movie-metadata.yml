@@ -6089,6 +6089,15 @@ metadata:
     studio: A24
     genre.sync:
       - Drama
+  24654:
+    label_title: What the Bleep! Down the Rabbit Hole
+    sort_title: What the Bleep! Down the Rabbit Hole
+    release_year: '2006'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=What+the+Bleep!+Down+the+Rabbit+Hole&section=movies
+    genre.sync:
+      - Documentary
+      - Drama
   246741:
     label_title: What We Do in the Shadows
     sort_title: What We Do in the Shadows
