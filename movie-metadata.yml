@@ -631,6 +631,7 @@ metadata:
     studio: A24
     genre.sync:
       - Comedy
+      - Drama
   866398:
     label_title: The Beekeeper
     sort_title: Beekeeper
@@ -1496,6 +1497,7 @@ metadata:
     studio: A24
     genre.sync:
       - Comedy
+      - Drama
   1151334:
     label_title: Eenie Meanie
     sort_title: Eenie Meanie
