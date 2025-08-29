@@ -3125,34 +3125,28 @@ metadata:
       - Family
   8844:
     label_title: Jumanji
-    sort_title: Jumanji
+    sort_title: Jumanji 1
     release_year: '1995'
-    url_poster: https://theposterdb.com/api/assets/8781
+    url_poster: https://theposterdb.com/api/assets/256610
     tpdb_search: https://theposterdb.com/search?term=Jumanji&section=movies
     genre.sync:
       - Family
   512200:
     label_title: 'Jumanji: The Next Level'
-    sort_title: 'Jumanji: The Next Level'
+    sort_title: Jumanji 3
     release_year: '2019'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/256613
     tpdb_search: https://theposterdb.com/search?term=Jumanji:+The+Next+Level&section=movies
     genre.sync:
-      - Adventure
-      - Comedy
-      - Fantasy
+      - Family
   353486:
     label_title: 'Jumanji: Welcome to the Jungle'
-    sort_title: 'Jumanji: Welcome to the Jungle'
+    sort_title: Jumanji 2
     release_year: '2017'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/256612
     tpdb_search: https://theposterdb.com/search?term=Jumanji:+Welcome+to+the+Jungle&section=movies
     genre.sync:
-      - Action
-      - Adventure
-      - Comedy
       - Family
-      - Fantasy
   8247:
     label_title: Jumper
     sort_title: Jumper
@@ -6414,7 +6408,7 @@ metadata:
     label_title: 'Zathura: A Space Adventure'
     sort_title: 'Zathura: A Space Adventure'
     release_year: '2005'
-    url_poster: https://theposterdb.com/api/assets/9256
+    url_poster: https://theposterdb.com/api/assets/256611
     tpdb_search: https://theposterdb.com/search?term=Zathura:+A+Space+Adventure&section=movies
     genre.sync:
       - Family
