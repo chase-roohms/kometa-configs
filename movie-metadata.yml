@@ -6373,6 +6373,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Zack+Snyders+Justice+League&section=movies
     genre.sync:
       - Superhero
+  6795:
+    label_title: 'Zathura: A Space Adventure'
+    sort_title: 'Zathura: A Space Adventure'
+    release_year: '2005'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Zathura:+A+Space+Adventure&section=movies
+    genre.sync:
+      - Adventure
+      - Family
+      - Science Fiction
   467244:
     label_title: The Zone of Interest
     sort_title: Zone of Interest
