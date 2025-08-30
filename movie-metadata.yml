@@ -542,6 +542,18 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Back+to+the+Future+Part+III&section=movies
     genre.sync:
       - Science Fiction
+  629542:
+    label_title: The Bad Guys
+    sort_title: Bad Guys
+    release_year: '2022'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Bad+Guys&section=movies
+    genre.sync:
+      - Adventure
+      - Animation
+      - Comedy
+      - Crime
+      - Family
   913290:
     label_title: Barbarian
     sort_title: Barbarian
