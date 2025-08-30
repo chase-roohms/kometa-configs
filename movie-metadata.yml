@@ -546,14 +546,11 @@ metadata:
     label_title: The Bad Guys
     sort_title: Bad Guys
     release_year: '2022'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/531621
     tpdb_search: https://theposterdb.com/search?term=The+Bad+Guys&section=movies
+    studio: DreamWorks Animation
     genre.sync:
-      - Adventure
       - Animation
-      - Comedy
-      - Crime
-      - Family
   913290:
     label_title: Barbarian
     sort_title: Barbarian
@@ -951,7 +948,7 @@ metadata:
     label_title: A Bugs Life
     sort_title: Bugs Life
     release_year: '1998'
-    url_poster: https://theposterdb.com/api/assets/60687
+    url_poster: https://theposterdb.com/api/assets/532261
     tpdb_search: https://theposterdb.com/search?term=A+Bugs+Life&section=movies
     studio: Pixar
     genre.sync:
@@ -1013,7 +1010,7 @@ metadata:
     label_title: Cars
     sort_title: Cars 1
     release_year: '2006'
-    url_poster: https://theposterdb.com/api/assets/60692
+    url_poster: https://theposterdb.com/api/assets/532256
     tpdb_search: https://theposterdb.com/search?term=Cars&section=movies
     studio: Pixar
     genre.sync:
@@ -1022,7 +1019,7 @@ metadata:
     label_title: Cars 2
     sort_title: Cars 2
     release_year: '2011'
-    url_poster: https://theposterdb.com/api/assets/60697
+    url_poster: https://theposterdb.com/api/assets/532250
     tpdb_search: https://theposterdb.com/search?term=Cars+2&section=movies
     studio: Pixar
     genre.sync:
@@ -1031,7 +1028,7 @@ metadata:
     label_title: Cars 3
     sort_title: Cars 3
     release_year: '2017'
-    url_poster: https://theposterdb.com/api/assets/60703
+    url_poster: https://theposterdb.com/api/assets/532244
     tpdb_search: https://theposterdb.com/search?term=Cars+3&section=movies
     studio: Pixar
     genre.sync:
@@ -1539,7 +1536,7 @@ metadata:
     label_title: Elio
     sort_title: Elio
     release_year: '2025'
-    url_poster: https://theposterdb.com/api/assets/618420
+    url_poster: https://theposterdb.com/api/assets/605504
     tpdb_search: https://theposterdb.com/search?term=Elio&section=movies
     studio: Pixar
     genre.sync:
@@ -1942,7 +1939,7 @@ metadata:
     label_title: Finding Nemo
     sort_title: Finding Nemo 1
     release_year: '2003'
-    url_poster: https://theposterdb.com/api/assets/60690
+    url_poster: https://theposterdb.com/api/assets/532258
     tpdb_search: https://theposterdb.com/search?term=Finding+Nemo&section=movies
     studio: Pixar
     genre.sync:
@@ -1951,7 +1948,7 @@ metadata:
     label_title: Finding Dory
     sort_title: Finding Nemo 2
     release_year: '2016'
-    url_poster: https://theposterdb.com/api/assets/60702
+    url_poster: https://theposterdb.com/api/assets/532245
     tpdb_search: https://theposterdb.com/search?term=Finding+Dory&section=movies
     studio: Pixar
     genre.sync:
@@ -2865,7 +2862,7 @@ metadata:
     label_title: The Incredibles
     sort_title: Incredibles 1
     release_year: '2004'
-    url_poster: https://theposterdb.com/api/assets/60691
+    url_poster: https://theposterdb.com/api/assets/532257
     tpdb_search: https://theposterdb.com/search?term=The+Incredibles&section=movies
     studio: Pixar
     genre.sync:
@@ -2874,7 +2871,7 @@ metadata:
     label_title: Incredibles 2
     sort_title: Incredibles 2
     release_year: '2018'
-    url_poster: https://theposterdb.com/api/assets/60705
+    url_poster: https://theposterdb.com/api/assets/532242
     tpdb_search: https://theposterdb.com/search?term=Incredibles+2&section=movies
     studio: Pixar
     genre.sync:
@@ -2899,7 +2896,7 @@ metadata:
     label_title: Inside Out
     sort_title: Inside Out
     release_year: '2015'
-    url_poster: https://theposterdb.com/api/assets/60700
+    url_poster: https://theposterdb.com/api/assets/532247
     tpdb_search: https://theposterdb.com/search?term=Inside+Out&section=movies
     studio: Pixar
     genre.sync:
@@ -2908,7 +2905,7 @@ metadata:
     label_title: Inside Out 2
     sort_title: Inside Out 2
     release_year: '2024'
-    url_poster: https://theposterdb.com/api/assets/494002
+    url_poster: https://theposterdb.com/api/assets/532234
     tpdb_search: https://theposterdb.com/search?term=Inside+Out+2&section=movies
     studio: Pixar
     genre.sync:
@@ -3460,7 +3457,7 @@ metadata:
     label_title: Lightyear
     sort_title: Lightyear
     release_year: '2022'
-    url_poster: https://theposterdb.com/api/assets/218896
+    url_poster: https://theposterdb.com/api/assets/532236
     tpdb_search: https://theposterdb.com/search?term=Lightyear&section=movies
     studio: Pixar
     genre.sync:
@@ -4023,16 +4020,18 @@ metadata:
     label_title: Monsters Inc.
     sort_title: Monsters Inc. 1
     release_year: '2001'
-    url_poster: https://theposterdb.com/api/assets/60689
+    url_poster: https://theposterdb.com/api/assets/532259
     tpdb_search: https://theposterdb.com/search?term=Monsters+Inc.&section=movies
+    studio: Pixar
     genre.sync:
       - Animation
   62211:
     label_title: Monsters University
     sort_title: Monsters Inc. 2
     release_year: '2013'
-    url_poster: https://theposterdb.com/api/assets/60699
+    url_poster: https://theposterdb.com/api/assets/532248
     tpdb_search: https://theposterdb.com/search?term=Monsters+University&section=movies
+    studio: Pixar
     genre.sync:
       - Animation
   376867:
@@ -4744,7 +4743,7 @@ metadata:
     label_title: Ratatouille
     sort_title: Ratatouille
     release_year: '2007'
-    url_poster: https://theposterdb.com/api/assets/60693
+    url_poster: https://theposterdb.com/api/assets/532255
     tpdb_search: https://theposterdb.com/search?term=Ratatouille&section=movies
     studio: Pixar
     genre.sync:
@@ -5778,7 +5777,7 @@ metadata:
     label_title: Toy Story
     sort_title: Toy Story 1
     release_year: '1995'
-    url_poster: https://theposterdb.com/api/assets/60686
+    url_poster: https://theposterdb.com/api/assets/532262
     tpdb_search: https://theposterdb.com/search?term=Toy+Story&section=movies
     studio: Pixar
     genre.sync:
@@ -5787,7 +5786,7 @@ metadata:
     label_title: Toy Story 2
     sort_title: Toy Story 2
     release_year: '1999'
-    url_poster: https://theposterdb.com/api/assets/60688
+    url_poster: https://theposterdb.com/api/assets/532260
     tpdb_search: https://theposterdb.com/search?term=Toy+Story+2&section=movies
     studio: Pixar
     genre.sync:
@@ -5796,7 +5795,7 @@ metadata:
     label_title: Toy Story 3
     sort_title: Toy Story 3
     release_year: '2010'
-    url_poster: https://theposterdb.com/api/assets/60696
+    url_poster: https://theposterdb.com/api/assets/532251
     tpdb_search: https://theposterdb.com/search?term=Toy+Story+3&section=movies
     studio: Pixar
     genre.sync:
@@ -5805,7 +5804,7 @@ metadata:
     label_title: Toy Story 4
     sort_title: Toy Story 4
     release_year: '2019'
-    url_poster: https://theposterdb.com/api/assets/60706
+    url_poster: https://theposterdb.com/api/assets/532241
     tpdb_search: https://theposterdb.com/search?term=Toy+Story+4&section=movies
     studio: Pixar
     genre.sync:
@@ -5943,13 +5942,11 @@ metadata:
     label_title: Turning Red
     sort_title: Turning Red
     release_year: '2022'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/532237
     tpdb_search: https://theposterdb.com/search?term=Turning+Red&section=movies
+    studio: Pixar
     genre.sync:
       - Animation
-      - Comedy
-      - Family
-      - Fantasy
   246403:
     label_title: Tusk
     sort_title: Tusk
@@ -6054,7 +6051,7 @@ metadata:
     label_title: Up
     sort_title: Up
     release_year: '2009'
-    url_poster: https://theposterdb.com/api/assets/60695
+    url_poster: https://theposterdb.com/api/assets/532252
     tpdb_search: https://theposterdb.com/search?term=Up&section=movies
     studio: Pixar
     genre.sync:
