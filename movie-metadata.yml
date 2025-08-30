@@ -388,6 +388,15 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
+  8916:
+    label_title: Antz
+    sort_title: Antz
+    release_year: '1998'
+    url_poster: https://theposterdb.com/api/assets/531687
+    tpdb_search: https://theposterdb.com/search?term=Antz&section=movies
+    studio: DreamWorks Animation
+    genre.sync:
+      - Animation
   1118031:
     label_title: Apocalypse Z The Beginning of the End
     sort_title: Apocalypse Z The Beginning of the End
