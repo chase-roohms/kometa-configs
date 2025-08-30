@@ -3954,6 +3954,15 @@ metadata:
     studio: DreamWorks Animation
     genre.sync:
       - Animation
+  1239251:
+    label_title: Megamind vs. The Doom Syndicate
+    sort_title: Megamind vs. The Doom Syndicate
+    release_year: '2024'
+    url_poster: https://theposterdb.com/api/assets/531607
+    tpdb_search: https://theposterdb.com/search?term=Megamind+vs.+The+Doom+Syndicate&section=movies
+    studio: DreamWorks Animation
+    genre.sync:
+      - Animation
   536554:
     label_title: M3gan
     sort_title: Megan 1
