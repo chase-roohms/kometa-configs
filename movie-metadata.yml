@@ -971,6 +971,15 @@ metadata:
     studio: Pixar
     genre.sync:
       - Animation
+  13413:
+    label_title: BURN·E
+    sort_title: BURN.E
+    release_year: '2008'
+    url_poster: https://theposterdb.com/api/assets/532275
+    tpdb_search: https://theposterdb.com/search?term=BURN·E&section=movies
+    studio: Pixar
+    genre.sync:
+      - Animation
   1771:
     label_title: Captain America The First Avenger
     sort_title: Captain America 1
