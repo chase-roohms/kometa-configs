@@ -3735,6 +3735,15 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
+  953:
+    label_title: Madagascar
+    sort_title: Madagascar
+    release_year: '2005'
+    url_poster: https://theposterdb.com/api/assets/531283
+    tpdb_search: https://theposterdb.com/search?term=Madagascar&section=movies
+    studio: DreamWorks Animation
+    genre.sync:
+      - Animation
   634492:
     label_title: Madame Web
     sort_title: Madame Web
