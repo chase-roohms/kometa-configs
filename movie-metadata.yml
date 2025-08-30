@@ -3771,21 +3771,21 @@ metadata:
     studio: DreamWorks Animation
     genre.sync:
       - Animation
-  80321:
-    label_title: "Madagascar 3: Europe's Most Wanted"
-    sort_title: Madagascar 3
-    release_year: '2012'
-    url_poster: https://theposterdb.com/api/assets/531279
-    tpdb_search: "https://theposterdb.com/search?term=Madagascar+3:+Europe's+Most+Wanted&section=movies"
-    studio: DreamWorks Animation
-    genre.sync:
-      - Animation
   10527:
     label_title: 'Madagascar: Escape 2 Africa'
     sort_title: Madagascar 2
     release_year: '2008'
     url_poster: https://theposterdb.com/api/assets/531281
     tpdb_search: https://theposterdb.com/search?term=Madagascar:+Escape+2+Africa&section=movies
+    studio: DreamWorks Animation
+    genre.sync:
+      - Animation
+  80321:
+    label_title: "Madagascar 3: Europe's Most Wanted"
+    sort_title: Madagascar 3
+    release_year: '2012'
+    url_poster: https://theposterdb.com/api/assets/531279
+    tpdb_search: "https://theposterdb.com/search?term=Madagascar+3:+Europe's+Most+Wanted&section=movies"
     studio: DreamWorks Animation
     genre.sync:
       - Animation
@@ -5077,6 +5077,15 @@ metadata:
     genre.sync:
       - Action
       - Comedy
+  1040148:
+    label_title: Ruby Gillman, Teenage Kraken
+    sort_title: Ruby Gillman, Teenage Kraken
+    release_year: '2023'
+    url_poster: https://theposterdb.com/api/assets/531670
+    tpdb_search: https://theposterdb.com/search?term=Ruby+Gillman,+Teenage+Kraken&section=movies
+    studio: DreamWorks Animation
+    genre.sync:
+      - Animation
   14444:
     label_title: The Rugrats Movie
     sort_title: Rugrats Movie
@@ -6181,21 +6190,21 @@ metadata:
     studio: DreamWorks Animation
     genre.sync:
       - Animation
-  901362:
-    label_title: Trolls Band Together
-    sort_title: Trolls 3
-    release_year: '2023'
-    url_poster: https://theposterdb.com/api/assets/531431
-    tpdb_search: https://theposterdb.com/search?term=Trolls+Band+Together&section=movies
-    studio: DreamWorks Animation
-    genre.sync:
-      - Animation
   446893:
     label_title: Trolls World Tour
     sort_title: Trolls 2
     release_year: '2020'
     url_poster: https://theposterdb.com/api/assets/531433
     tpdb_search: https://theposterdb.com/search?term=Trolls+World+Tour&section=movies
+    studio: DreamWorks Animation
+    genre.sync:
+      - Animation
+  901362:
+    label_title: Trolls Band Together
+    sort_title: Trolls 3
+    release_year: '2023'
+    url_poster: https://theposterdb.com/api/assets/531431
+    tpdb_search: https://theposterdb.com/search?term=Trolls+Band+Together&section=movies
     studio: DreamWorks Animation
     genre.sync:
       - Animation
