@@ -6181,6 +6181,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=A+Trip+to+Infinity&section=movies
     genre.sync:
       - Documentary
+  730840:
+    label_title: 'Trollhunters: Rise of the Titans'
+    sort_title: 'Trollhunters: Rise of the Titans'
+    release_year: '2021'
+    url_poster: https://theposterdb.com/api/assets/531671
+    tpdb_search: https://theposterdb.com/search?term=Trollhunters:+Rise+of+the+Titans&section=movies
+    studio: DreamWorks Animation
+    genre.sync:
+      - Animation
   136799:
     label_title: Trolls
     sort_title: Trolls 1
