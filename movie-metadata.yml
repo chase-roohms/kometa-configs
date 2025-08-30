@@ -6190,6 +6190,15 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
+  77950:
+    label_title: Turbo
+    sort_title: Turbo
+    release_year: '2013'
+    url_poster: https://theposterdb.com/api/assets/531691
+    tpdb_search: https://theposterdb.com/search?term=Turbo&section=movies
+    studio: DreamWorks Animation
+    genre.sync:
+      - Animation
   508947:
     label_title: Turning Red
     sort_title: Turning Red
