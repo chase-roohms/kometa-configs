@@ -4469,6 +4469,15 @@ metadata:
     genre.sync:
       - Action
       - Thriller
+  1139829:
+    label_title: Orion and The Dark
+    sort_title: Orion and The Dark
+    release_year: '2024'
+    url_poster: https://theposterdb.com/api/assets/531669
+    tpdb_search: https://theposterdb.com/search?term=Orion+and+The+Dark&section=movies
+    studio: DreamWorks Animation
+    genre.sync:
+      - Animation
   68726:
     label_title: Pacific Rim
     sort_title: Pacific Rim 1
