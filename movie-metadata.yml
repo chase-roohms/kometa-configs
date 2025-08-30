@@ -650,6 +650,15 @@ metadata:
     genre.sync:
       - Comedy
       - Drama
+  5559:
+    label_title: Bee Movie
+    sort_title: Bee Movie
+    release_year: '2007'
+    url_poster: https://theposterdb.com/api/assets/531677
+    tpdb_search: https://theposterdb.com/search?term=Bee+Movie&section=movies
+    studio: DreamWorks Animation
+    genre.sync:
+      - Animation
   866398:
     label_title: The Beekeeper
     sort_title: Beekeeper
