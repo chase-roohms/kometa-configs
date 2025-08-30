@@ -1541,6 +1541,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Electric+State&section=movies
     genre.sync:
       - Science Fiction
+  976573:
+    label_title: Elemental
+    sort_title: Elemental
+    release_year: '2023'
+    url_poster: https://theposterdb.com/api/assets/532235
+    tpdb_search: https://theposterdb.com/search?term=Elemental&section=movies
+    studio: Pixar
+    genre.sync:
+      - Animation
   1022787:
     label_title: Elio
     sort_title: Elio
