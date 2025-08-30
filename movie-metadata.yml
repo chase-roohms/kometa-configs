@@ -6187,6 +6187,15 @@ metadata:
     studio: Marvel Entertainment
     genre.sync:
       - Superhero
+  10681:
+    label_title: WALL·E
+    sort_title: WALL.E
+    release_year: '2008'
+    url_poster: https://theposterdb.com/api/assets/532254
+    tpdb_search: https://theposterdb.com/search?term=WALL·E&section=movies
+    studio: Pixar
+    genre.sync:
+      - Animation
   1241436:
     label_title: Warfare
     sort_title: Warfare
