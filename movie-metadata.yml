@@ -5242,6 +5242,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Sorry,+Baby&section=movies
     genre.sync:
       - Drama
+  508442:
+    label_title: Soul
+    sort_title: Soul
+    release_year: '2020'
+    url_poster: https://theposterdb.com/api/assets/532239
+    tpdb_search: https://theposterdb.com/search?term=Soul&section=movies
+    studio: Pixar
+    genre.sync:
+      - Animation
   45612:
     label_title: Source Code
     sort_title: Source Code
