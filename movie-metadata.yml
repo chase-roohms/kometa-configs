@@ -895,6 +895,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Bolt&section=movies
     genre.sync:
       - Animation
+  295693:
+    label_title: The Boss Baby
+    sort_title: Boss Baby
+    release_year: '2017'
+    url_poster: https://theposterdb.com/api/assets/531144
+    tpdb_search: https://theposterdb.com/search?term=The+Boss+Baby&section=movies
+    studio: DreamWorks Animation
+    genre.sync:
+      - Animation
   62177:
     label_title: Brave
     sort_title: Brave
