@@ -5016,6 +5016,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Ricky+Stanicky&section=movies
     genre.sync:
       - Comedy
+  81188:
+    label_title: Rise of The Guardians
+    sort_title: Rise of The Guardians
+    release_year: '2012'
+    url_poster: https://theposterdb.com/api/assets/531675
+    tpdb_search: https://theposterdb.com/search?term=Rise+of+The+Guardians&section=movies
+    studio: DreamWorks Animation
+    genre.sync:
+      - Animation
   1278950:
     label_title: The Ritual
     sort_title: Ritual
