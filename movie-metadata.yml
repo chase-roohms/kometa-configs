@@ -3945,6 +3945,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Mean+Girls&section=movies
     genre.sync:
       - Comedy
+  38055:
+    label_title: Megamind
+    sort_title: Megamind
+    release_year: '2010'
+    url_poster: https://theposterdb.com/api/assets/531608
+    tpdb_search: https://theposterdb.com/search?term=Megamind&section=movies
+    studio: DreamWorks Animation
+    genre.sync:
+      - Animation
   536554:
     label_title: M3gan
     sort_title: Megan 1
