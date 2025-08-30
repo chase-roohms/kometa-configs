@@ -1138,6 +1138,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Clown+in+a+Cornfield&section=movies
     genre.sync:
       - Horror
+  354912:
+    label_title: Coco
+    sort_title: Coco
+    release_year: '2017'
+    url_poster: https://theposterdb.com/api/assets/532243
+    tpdb_search: https://theposterdb.com/search?term=Coco&section=movies
+    studio: Pixar
+    genre.sync:
+      - Animation
   1084199:
     label_title: Companion
     sort_title: Companion
