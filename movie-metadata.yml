@@ -4241,6 +4241,15 @@ metadata:
     genre.sync:
       - Drama
       - Science Fiction
+  82703:
+    label_title: Mr. Peabody & Sherman
+    sort_title: Mr. Peabody & Sherman
+    release_year: '2014'
+    url_poster: https://theposterdb.com/api/assets/531674
+    tpdb_search: https://theposterdb.com/search?term=Mr.+Peabody+%26+Sherman&section=movies
+    studio: DreamWorks Animation
+    genre.sync:
+      - Animation
   762509:
     label_title: Mufasa The Lion King
     sort_title: Mufasa The Lion King
