@@ -6064,6 +6064,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=A+Trip+to+Infinity&section=movies
     genre.sync:
       - Documentary
+  136799:
+    label_title: Trolls
+    sort_title: Trolls
+    release_year: '2016'
+    url_poster: https://theposterdb.com/api/assets/531436
+    tpdb_search: https://theposterdb.com/search?term=Trolls&section=movies
+    studio: DreamWorks Animation
+    genre.sync:
+      - Animation
   97:
     label_title: Tron
     sort_title: Tron 1
