@@ -5168,6 +5168,15 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
+  10555:
+    label_title: Shark Tale
+    sort_title: Shark Tale
+    release_year: '2004'
+    url_poster: https://theposterdb.com/api/assets/531681
+    tpdb_search: https://theposterdb.com/search?term=Shark+Tale&section=movies
+    studio: DreamWorks Animation
+    genre.sync:
+      - Animation
   278:
     label_title: The Shawshank Redemption
     sort_title: Shawshank Redemption
