@@ -3591,6 +3591,15 @@ metadata:
     genre.sync:
       - Action
       - Drama
+  508943:
+    label_title: Luca
+    sort_title: Luca
+    release_year: '2021'
+    url_poster: https://theposterdb.com/api/assets/532238
+    tpdb_search: https://theposterdb.com/search?term=Luca&section=movies
+    studio: Pixar
+    genre.sync:
+      - Animation
   846867:
     label_title: Mad God
     sort_title: Mad God
