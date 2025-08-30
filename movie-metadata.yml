@@ -5927,6 +5927,17 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
+  508947:
+    label_title: Turning Red
+    sort_title: Turning Red
+    release_year: '2022'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Turning+Red&section=movies
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
+      - Fantasy
   246403:
     label_title: Tusk
     sort_title: Tusk
