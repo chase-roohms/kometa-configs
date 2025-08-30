@@ -551,6 +551,15 @@ metadata:
     studio: DreamWorks Animation
     genre.sync:
       - Animation
+  1175942:
+    label_title: The Bad Guys 2
+    sort_title: Bad Guys 2
+    release_year: '2025'
+    url_poster: https://theposterdb.com/api/assets/632838
+    tpdb_search: https://theposterdb.com/search?term=The+Bad+Guys+2&section=movies
+    studio: DreamWorks Animation
+    genre.sync:
+      - Animation
   913290:
     label_title: Barbarian
     sort_title: Barbarian
