@@ -4187,6 +4187,15 @@ metadata:
     studio: Pixar
     genre.sync:
       - Animation
+  15512:
+    label_title: Monsters vs Aliens
+    sort_title: Monsters vs Aliens
+    release_year: '2009'
+    url_poster: https://theposterdb.com/api/assets/531676
+    tpdb_search: https://theposterdb.com/search?term=Monsters+vs+Aliens&section=movies
+    studio: DreamWorks Animation
+    genre.sync:
+      - Animation
   376867:
     label_title: Moonlight
     sort_title: Moonlight
