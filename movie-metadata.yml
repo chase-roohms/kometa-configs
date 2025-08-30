@@ -6073,6 +6073,15 @@ metadata:
     studio: DreamWorks Animation
     genre.sync:
       - Animation
+  901362:
+    label_title: Trolls Band Together
+    sort_title: Trolls Band Together
+    release_year: '2023'
+    url_poster: https://theposterdb.com/api/assets/531431
+    tpdb_search: https://theposterdb.com/search?term=Trolls+Band+Together&section=movies
+    studio: DreamWorks Animation
+    genre.sync:
+      - Animation
   446893:
     label_title: Trolls World Tour
     sort_title: Trolls World Tour
