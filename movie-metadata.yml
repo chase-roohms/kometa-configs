@@ -1229,6 +1229,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Crimson+Tide&section=movies
     genre.sync:
       - Action
+  49519:
+    label_title: The Croods
+    sort_title: Croods
+    release_year: '2013'
+    url_poster: https://theposterdb.com/api/assets/531082
+    tpdb_search: https://theposterdb.com/search?term=The+Croods&section=movies
+    studio: DreamWorks Animation
+    genre.sync:
+      - Animation
   957452:
     label_title: The Crow
     sort_title: Crow
