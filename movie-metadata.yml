@@ -1238,6 +1238,15 @@ metadata:
     studio: DreamWorks Animation
     genre.sync:
       - Animation
+  529203:
+    label_title: 'The Croods: A New Age'
+    sort_title: 'Croods: A New Age'
+    release_year: '2020'
+    url_poster: https://theposterdb.com/api/assets/531081
+    tpdb_search: https://theposterdb.com/search?term=The+Croods:+A+New+Age&section=movies
+    studio: DreamWorks Animation
+    genre.sync:
+      - Animation
   957452:
     label_title: The Crow
     sort_title: Crow
