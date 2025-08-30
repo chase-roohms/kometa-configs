@@ -906,7 +906,7 @@ metadata:
       - Animation
   295693:
     label_title: The Boss Baby
-    sort_title: Boss Baby
+    sort_title: Boss Baby 1
     release_year: '2017'
     url_poster: https://theposterdb.com/api/assets/531144
     tpdb_search: https://theposterdb.com/search?term=The+Boss+Baby&section=movies
@@ -915,7 +915,7 @@ metadata:
       - Animation
   459151:
     label_title: 'The Boss Baby: Family Business'
-    sort_title: 'Boss Baby: Family Business'
+    sort_title: Boss Baby 2
     release_year: '2021'
     url_poster: https://theposterdb.com/api/assets/531143
     tpdb_search: https://theposterdb.com/search?term=The+Boss+Baby:+Family+Business&section=movies
@@ -1258,7 +1258,7 @@ metadata:
       - Action
   49519:
     label_title: The Croods
-    sort_title: Croods
+    sort_title: Croods 1
     release_year: '2013'
     url_poster: https://theposterdb.com/api/assets/531082
     tpdb_search: https://theposterdb.com/search?term=The+Croods&section=movies
@@ -1267,7 +1267,7 @@ metadata:
       - Animation
   529203:
     label_title: 'The Croods: A New Age'
-    sort_title: 'Croods: A New Age'
+    sort_title: Croods 2
     release_year: '2020'
     url_poster: https://theposterdb.com/api/assets/531081
     tpdb_search: https://theposterdb.com/search?term=The+Croods:+A+New+Age&section=movies
@@ -3764,7 +3764,7 @@ metadata:
       - Science Fiction
   953:
     label_title: Madagascar
-    sort_title: Madagascar
+    sort_title: Madagascar 1
     release_year: '2005'
     url_poster: https://theposterdb.com/api/assets/531283
     tpdb_search: https://theposterdb.com/search?term=Madagascar&section=movies
@@ -3773,7 +3773,7 @@ metadata:
       - Animation
   80321:
     label_title: "Madagascar 3: Europe's Most Wanted"
-    sort_title: "Madagascar 3: Europe's Most Wanted"
+    sort_title: Madagascar 3
     release_year: '2012'
     url_poster: https://theposterdb.com/api/assets/531279
     tpdb_search: "https://theposterdb.com/search?term=Madagascar+3:+Europe's+Most+Wanted&section=movies"
@@ -3782,7 +3782,7 @@ metadata:
       - Animation
   10527:
     label_title: 'Madagascar: Escape 2 Africa'
-    sort_title: 'Madagascar: Escape 2 Africa'
+    sort_title: Madagascar 2
     release_year: '2008'
     url_poster: https://theposterdb.com/api/assets/531281
     tpdb_search: https://theposterdb.com/search?term=Madagascar:+Escape+2+Africa&section=movies
@@ -3974,7 +3974,7 @@ metadata:
       - Comedy
   38055:
     label_title: Megamind
-    sort_title: Megamind
+    sort_title: Megamind 1
     release_year: '2010'
     url_poster: https://theposterdb.com/api/assets/531608
     tpdb_search: https://theposterdb.com/search?term=Megamind&section=movies
@@ -3983,7 +3983,7 @@ metadata:
       - Animation
   1239251:
     label_title: Megamind vs. The Doom Syndicate
-    sort_title: Megamind vs. The Doom Syndicate
+    sort_title: Megamind 2
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/531607
     tpdb_search: https://theposterdb.com/search?term=Megamind+vs.+The+Doom+Syndicate&section=movies
@@ -6174,7 +6174,7 @@ metadata:
       - Documentary
   136799:
     label_title: Trolls
-    sort_title: Trolls
+    sort_title: Trolls 1
     release_year: '2016'
     url_poster: https://theposterdb.com/api/assets/531436
     tpdb_search: https://theposterdb.com/search?term=Trolls&section=movies
@@ -6183,7 +6183,7 @@ metadata:
       - Animation
   901362:
     label_title: Trolls Band Together
-    sort_title: Trolls Band Together
+    sort_title: Trolls 3
     release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/531431
     tpdb_search: https://theposterdb.com/search?term=Trolls+Band+Together&section=movies
@@ -6192,7 +6192,7 @@ metadata:
       - Animation
   446893:
     label_title: Trolls World Tour
-    sort_title: Trolls World Tour
+    sort_title: Trolls 2
     release_year: '2020'
     url_poster: https://theposterdb.com/api/assets/531433
     tpdb_search: https://theposterdb.com/search?term=Trolls+World+Tour&section=movies
