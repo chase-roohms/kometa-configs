@@ -90,6 +90,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=2073&section=movies
     genre.sync:
       - Documentary
+  431580:
+    label_title: Abominable
+    sort_title: Abominable
+    release_year: '2019'
+    url_poster: https://theposterdb.com/api/assets/531672
+    tpdb_search: https://theposterdb.com/search?term=Abominable&section=movies
+    studio: DreamWorks Animation
+    genre.sync:
+      - Animation
   302946:
     label_title: The Accountant
     sort_title: Accountant 1
