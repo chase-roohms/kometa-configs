@@ -2092,6 +2092,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Flubber&section=movies
     genre.sync:
       - Family
+  11619:
+    label_title: Flushed Away
+    sort_title: Flushed Away
+    release_year: '2006'
+    url_poster: https://theposterdb.com/api/assets/531678
+    tpdb_search: https://theposterdb.com/search?term=Flushed+Away&section=movies
+    studio: DreamWorks Animation
+    genre.sync:
+      - Animation
   488623:
     label_title: Forgotten
     sort_title: Forgotten
