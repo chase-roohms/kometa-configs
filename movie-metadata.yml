@@ -4299,6 +4299,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Oddity&section=movies
     genre.sync:
       - Horror
+  508439:
+    label_title: Onward
+    sort_title: Onward
+    release_year: '2020'
+    url_poster: https://theposterdb.com/api/assets/532240
+    tpdb_search: https://theposterdb.com/search?term=Onward&section=movies
+    studio: Pixar
+    genre.sync:
+      - Animation
   872585:
     label_title: Oppenheimer
     sort_title: Oppenheimer
