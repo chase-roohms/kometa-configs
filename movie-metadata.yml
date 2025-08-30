@@ -3744,6 +3744,15 @@ metadata:
     studio: DreamWorks Animation
     genre.sync:
       - Animation
+  80321:
+    label_title: "Madagascar 3: Europe's Most Wanted"
+    sort_title: "Madagascar 3: Europe's Most Wanted"
+    release_year: '2012'
+    url_poster: https://theposterdb.com/api/assets/531279
+    tpdb_search: "https://theposterdb.com/search?term=Madagascar+3:+Europe's+Most+Wanted&section=movies"
+    studio: DreamWorks Animation
+    genre.sync:
+      - Animation
   10527:
     label_title: 'Madagascar: Escape 2 Africa'
     sort_title: 'Madagascar: Escape 2 Africa'
