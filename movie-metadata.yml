@@ -4656,6 +4656,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Pearl+Harbor&section=movies
     genre.sync:
       - Action
+  270946:
+    label_title: Penguins of Madagascar
+    sort_title: Penguins of Madagascar
+    release_year: '2014'
+    url_poster: https://theposterdb.com/api/assets/531285
+    tpdb_search: https://theposterdb.com/search?term=Penguins+of+Madagascar&section=movies
+    studio: DreamWorks Animation
+    genre.sync:
+      - Animation
   32657:
     label_title: Percy Jackson and the Olympians The Lightning Thief
     sort_title: Percy Jackson 1
