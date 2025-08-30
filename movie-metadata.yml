@@ -4514,6 +4514,15 @@ metadata:
     studio: DreamWorks Animation
     genre.sync:
       - Animation
+  7518:
+    label_title: Over The Hedge
+    sort_title: Over The Hedge
+    release_year: '2006'
+    url_poster: https://theposterdb.com/api/assets/531679
+    tpdb_search: https://theposterdb.com/search?term=Over+The+Hedge&section=movies
+    studio: DreamWorks Animation
+    genre.sync:
+      - Animation
   68726:
     label_title: Pacific Rim
     sort_title: Pacific Rim 1
