@@ -2224,6 +2224,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Good+Boy&section=movies
     genre.sync:
       - Horror
+  105864:
+    label_title: The Good Dinosaur
+    sort_title: Good Dinosaur
+    release_year: '2015'
+    url_poster: https://theposterdb.com/api/assets/532246
+    tpdb_search: https://theposterdb.com/search?term=The+Good+Dinosaur&section=movies
+    studio: Pixar
+    genre.sync:
+      - Animation
   284303:
     label_title: Goodnight Mommy
     sort_title: Goodnight Mommy
