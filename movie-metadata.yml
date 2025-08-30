@@ -904,6 +904,15 @@ metadata:
     studio: DreamWorks Animation
     genre.sync:
       - Animation
+  459151:
+    label_title: 'The Boss Baby: Family Business'
+    sort_title: 'Boss Baby: Family Business'
+    release_year: '2021'
+    url_poster: https://theposterdb.com/api/assets/531143
+    tpdb_search: https://theposterdb.com/search?term=The+Boss+Baby:+Family+Business&section=movies
+    studio: DreamWorks Animation
+    genre.sync:
+      - Animation
   62177:
     label_title: Brave
     sort_title: Brave
