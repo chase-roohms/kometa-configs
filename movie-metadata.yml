@@ -1109,7 +1109,7 @@ metadata:
     label_title: Castle in the Sky
     sort_title: Castle in the Sky
     release_year: '1986'
-    url_poster: https://theposterdb.com/api/assets/100967
+    url_poster: https://theposterdb.com/api/assets/100577
     tpdb_search: https://theposterdb.com/search?term=Castle+in+the+Sky&section=movies
     studio: Studio Ghibli
     genre.sync:
@@ -1118,7 +1118,7 @@ metadata:
     label_title: The Cat Returns
     sort_title: Cat Returns
     release_year: '2002'
-    url_poster: https://theposterdb.com/api/assets/100979
+    url_poster: https://theposterdb.com/api/assets/100589
     tpdb_search: https://theposterdb.com/search?term=The+Cat+Returns&section=movies
     studio: Studio Ghibli
     genre.sync:
@@ -2849,7 +2849,7 @@ metadata:
     label_title: Howls Moving Castle
     sort_title: Howls Moving Castle
     release_year: '2004'
-    url_poster: https://theposterdb.com/api/assets/100980
+    url_poster: https://theposterdb.com/api/assets/100590
     tpdb_search: https://theposterdb.com/search?term=Howls+Moving+Castle&section=movies
     studio: Studio Ghibli
     genre.sync:
@@ -4356,7 +4356,7 @@ metadata:
     label_title: My Neighbor Totoro
     sort_title: My Neighbor Totoro
     release_year: '1988'
-    url_poster: https://theposterdb.com/api/assets/100968
+    url_poster: https://theposterdb.com/api/assets/100578
     tpdb_search: https://theposterdb.com/search?term=My+Neighbor+Totoro&section=movies
     studio: Studio Ghibli
     genre.sync:
@@ -4858,7 +4858,7 @@ metadata:
     label_title: Ponyo
     sort_title: Ponyo
     release_year: '2008'
-    url_poster: https://theposterdb.com/api/assets/100982
+    url_poster: https://theposterdb.com/api/assets/100592
     tpdb_search: https://theposterdb.com/search?term=Ponyo&section=movies
     studio: Studio Ghibli
     genre.sync:
@@ -4954,7 +4954,7 @@ metadata:
     label_title: Princess Mononoke
     sort_title: Princess Mononoke
     release_year: '1997'
-    url_poster: https://theposterdb.com/api/assets/100976
+    url_poster: https://theposterdb.com/api/assets/100586
     tpdb_search: https://theposterdb.com/search?term=Princess+Mononoke&section=movies
     studio: Studio Ghibli
     genre.sync:
@@ -5237,7 +5237,7 @@ metadata:
     label_title: The Secret World of Arrietty
     sort_title: Secret World of Arrietty
     release_year: '2010'
-    url_poster: https://theposterdb.com/api/assets/100983
+    url_poster: https://theposterdb.com/api/assets/100593
     tpdb_search: https://theposterdb.com/search?term=The+Secret+World+of+Arrietty&section=movies
     studio: Studio Ghibli
     genre.sync:
@@ -5729,7 +5729,7 @@ metadata:
     label_title: Spirited Away
     sort_title: Spirited Away
     release_year: '2001'
-    url_poster: https://theposterdb.com/api/assets/100978
+    url_poster: https://theposterdb.com/api/assets/100588
     tpdb_search: https://theposterdb.com/search?term=Spirited+Away&section=movies
     studio: Studio Ghibli
     genre.sync:
