@@ -2364,6 +2364,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Greyhound&section=movies
     genre.sync:
       - Action
+  360920:
+    label_title: The Grinch
+    sort_title: Grinch
+    release_year: '2018'
+    url_poster: https://theposterdb.com/api/assets/531414
+    tpdb_search: https://theposterdb.com/search?term=The+Grinch&section=movies
+    studio: Illumination
+    genre.sync:
+      - Animation
   118340:
     label_title: Guardians of the Galaxy
     sort_title: Guardians of the Galaxy 1
