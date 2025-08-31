@@ -2768,6 +2768,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Hoot&section=movies
     genre.sync:
       - Family
+  50359:
+    label_title: Hop
+    sort_title: Hop
+    release_year: '2011'
+    url_poster: https://theposterdb.com/api/assets/531416
+    tpdb_search: https://theposterdb.com/search?term=Hop&section=movies
+    studio: Illumination
+    genre.sync:
+      - Animation
   76492:
     label_title: Hotel Transylvania
     sort_title: Hotel Transylvania 1
