@@ -1,3 +1,5 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/kometa-team/kometa/nightly/json-schema/config-schema.json
+
 url_poster_mappings:
   franchise_posters: &franchise_posters
     url_poster_1565: https://theposterdb.com/api/assets/629678    # 28 Days/Weeks Later
