@@ -3657,6 +3657,15 @@ metadata:
     genre.sync:
       - Horror
       - Thriller
+  73723:
+    label_title: The Lorax
+    sort_title: Lorax
+    release_year: '2012'
+    url_poster: https://theposterdb.com/api/assets/531415
+    tpdb_search: https://theposterdb.com/search?term=The+Lorax&section=movies
+    studio: Illumination
+    genre.sync:
+      - Animation
   120:
     label_title: The Lord of the Rings The Fellowship of the Ring
     sort_title: Lord of the Rings 1
