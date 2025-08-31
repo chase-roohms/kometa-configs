@@ -107,6 +107,13 @@ url_poster_mappings:
     url_poster_Pixar: https://theposterdb.com/api/assets/573147
     url_poster_Studio Ghibli: https://theposterdb.com/api/assets/573155
   streaming_posters: &streaming_posters
+    url_poster_appletv:
+    url_poster_disney:
+    url_poster_crunchyroll:
+    url_poster_hulu:
+    url_poster_max:
+    url_poster_netflix:
+    url_poster_amazon:
   tautulli_posters: &tautulli_posters
     url_poster_popular: https://theposterdb.com/api/assets/632287
   universe_posters: &universe_posters
