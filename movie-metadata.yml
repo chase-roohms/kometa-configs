@@ -365,7 +365,7 @@ metadata:
     label_title: Ant-Man
     sort_title: Ant-Man 1
     release_year: '2015'
-    url_poster: https://theposterdb.com/api/assets/162907
+    url_poster: https://theposterdb.com/api/assets/517997
     tpdb_search: https://theposterdb.com/search?term=Ant-Man&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -374,7 +374,7 @@ metadata:
     label_title: Ant-Man and the Wasp
     sort_title: Ant-Man 2
     release_year: '2018'
-    url_poster: https://theposterdb.com/api/assets/162915
+    url_poster: https://theposterdb.com/api/assets/517996
     tpdb_search: https://theposterdb.com/search?term=Ant-Man+and+the+Wasp&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -383,7 +383,7 @@ metadata:
     label_title: Ant-Man and the Wasp Quantumania
     sort_title: Ant-Man 3
     release_year: '2023'
-    url_poster: https://theposterdb.com/api/assets/352073
+    url_poster: https://theposterdb.com/api/assets/517995
     tpdb_search: https://theposterdb.com/search?term=Ant-Man+and+the+Wasp+Quantumania&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -495,7 +495,7 @@ metadata:
     label_title: The Avengers
     sort_title: Avenvers 1
     release_year: '2012'
-    url_poster: https://theposterdb.com/api/assets/162901
+    url_poster: https://theposterdb.com/api/assets/517845
     tpdb_search: https://theposterdb.com/search?term=The+Avengers&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -504,7 +504,7 @@ metadata:
     label_title: Avengers Age of Ultron
     sort_title: Avenvers 2
     release_year: '2015'
-    url_poster: https://theposterdb.com/api/assets/162906
+    url_poster: https://theposterdb.com/api/assets/517844
     tpdb_search: https://theposterdb.com/search?term=Avengers+Age+of+Ultron&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -513,7 +513,7 @@ metadata:
     label_title: Avengers Infinity War
     sort_title: Avenvers 3
     release_year: '2018'
-    url_poster: https://theposterdb.com/api/assets/162914
+    url_poster: https://theposterdb.com/api/assets/517843
     tpdb_search: https://theposterdb.com/search?term=Avengers+Infinity+War&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -522,7 +522,7 @@ metadata:
     label_title: Avengers Endgame
     sort_title: Avenvers 4
     release_year: '2019'
-    url_poster: https://theposterdb.com/api/assets/162917
+    url_poster: https://theposterdb.com/api/assets/517842
     tpdb_search: https://theposterdb.com/search?term=Avengers+Endgame&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -729,7 +729,7 @@ metadata:
     label_title: Big Hero 6
     sort_title: Big Hero 6
     release_year: '2014'
-    url_poster: https://theposterdb.com/api/assets/203021
+    url_poster: https://theposterdb.com/api/assets/518585
     tpdb_search: https://theposterdb.com/search?term=Big+Hero+6&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -770,7 +770,7 @@ metadata:
     label_title: Black Panther
     sort_title: Black Panther 1
     release_year: '2018'
-    url_poster: https://theposterdb.com/api/assets/162913
+    url_poster: https://theposterdb.com/api/assets/518104
     tpdb_search: https://theposterdb.com/search?term=Black+Panther&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -779,7 +779,7 @@ metadata:
     label_title: Black Panther Wakanda Forever
     sort_title: Black Panther 2
     release_year: '2022'
-    url_poster: https://theposterdb.com/api/assets/274296
+    url_poster: https://theposterdb.com/api/assets/518103
     tpdb_search: https://theposterdb.com/search?term=Black+Panther+Wakanda+Forever&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -788,7 +788,7 @@ metadata:
     label_title: Black Widow
     sort_title: Black Widow
     release_year: '2021'
-    url_poster: https://theposterdb.com/api/assets/162919
+    url_poster: https://theposterdb.com/api/assets/518155
     tpdb_search: https://theposterdb.com/search?term=Black+Widow&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -805,7 +805,7 @@ metadata:
     label_title: Blade
     sort_title: Blade 1
     release_year: '1998'
-    url_poster: https://theposterdb.com/api/assets/163860
+    url_poster: https://theposterdb.com/api/assets/518558
     tpdb_search: https://theposterdb.com/search?term=Blade&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -814,7 +814,7 @@ metadata:
     label_title: Blade II
     sort_title: Blade 2
     release_year: '2002'
-    url_poster: https://theposterdb.com/api/assets/163861
+    url_poster: https://theposterdb.com/api/assets/518557
     tpdb_search: https://theposterdb.com/search?term=Blade+II&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -823,7 +823,7 @@ metadata:
     label_title: Blade Trinity
     sort_title: Blade 3
     release_year: '2004'
-    url_poster: https://theposterdb.com/api/assets/163862
+    url_poster: https://theposterdb.com/api/assets/518556
     tpdb_search: https://theposterdb.com/search?term=Blade+Trinity&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -1029,7 +1029,7 @@ metadata:
     label_title: Captain America The First Avenger
     sort_title: Captain America 1
     release_year: '2011'
-    url_poster: https://theposterdb.com/api/assets/162900
+    url_poster: https://theposterdb.com/api/assets/517866
     tpdb_search: https://theposterdb.com/search?term=Captain+America+The+First+Avenger&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -1038,7 +1038,7 @@ metadata:
     label_title: Captain America The Winter Soldier
     sort_title: Captain America 2
     release_year: '2014'
-    url_poster: https://theposterdb.com/api/assets/162904
+    url_poster: https://theposterdb.com/api/assets/517865
     tpdb_search: https://theposterdb.com/search?term=Captain+America+The+Winter+Soldier&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -1047,7 +1047,7 @@ metadata:
     label_title: Captain America Civil War
     sort_title: Captain America 3
     release_year: '2016'
-    url_poster: https://theposterdb.com/api/assets/162908
+    url_poster: https://theposterdb.com/api/assets/517864
     tpdb_search: https://theposterdb.com/search?term=Captain+America+Civil+War&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -1056,7 +1056,7 @@ metadata:
     label_title: Captain America Brave New World
     sort_title: Captain America 4
     release_year: '2025'
-    url_poster: https://theposterdb.com/api/assets/595571
+    url_poster: https://theposterdb.com/api/assets/552292
     tpdb_search: https://theposterdb.com/search?term=Captain+America+Brave+New+World&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -1065,7 +1065,7 @@ metadata:
     label_title: Captain Marvel
     sort_title: Captain Marvel
     release_year: '2019'
-    url_poster: https://theposterdb.com/api/assets/162916
+    url_poster: https://theposterdb.com/api/assets/518090
     tpdb_search: https://theposterdb.com/search?term=Captain+Marvel&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -1371,7 +1371,7 @@ metadata:
     label_title: Deadpool
     sort_title: Deadpool 1
     release_year: '2016'
-    url_poster: https://theposterdb.com/api/assets/163902
+    url_poster: https://theposterdb.com/api/assets/518051
     tpdb_search: https://theposterdb.com/search?term=Deadpool&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -1380,7 +1380,7 @@ metadata:
     label_title: Deadpool 2
     sort_title: Deadpool 2
     release_year: '2018'
-    url_poster: https://theposterdb.com/api/assets/163903
+    url_poster: https://theposterdb.com/api/assets/518049
     tpdb_search: https://theposterdb.com/search?term=Deadpool+2&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -1389,7 +1389,7 @@ metadata:
     label_title: Deadpool and Wolverine
     sort_title: Deadpool 3
     release_year: '2024'
-    url_poster: https://theposterdb.com/api/assets/587595
+    url_poster: https://theposterdb.com/api/assets/518047
     tpdb_search: https://theposterdb.com/search?term=Deadpool+and+Wolverine&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -1484,7 +1484,7 @@ metadata:
     label_title: Doctor Strange
     sort_title: Doctor Strange 1
     release_year: '2016'
-    url_poster: https://theposterdb.com/api/assets/162909
+    url_poster: https://theposterdb.com/api/assets/517913
     tpdb_search: https://theposterdb.com/search?term=Doctor+Strange&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -1493,7 +1493,7 @@ metadata:
     label_title: Doctor Strange in the Multiverse of Madness
     sort_title: Doctor Strange 2
     release_year: '2022'
-    url_poster: https://theposterdb.com/api/assets/198589
+    url_poster: https://theposterdb.com/api/assets/517912
     tpdb_search: https://theposterdb.com/search?term=Doctor+Strange+in+the+Multiverse+of+Madness&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -1677,7 +1677,7 @@ metadata:
     label_title: Eternals
     sort_title: Eternals
     release_year: '2021'
-    url_poster: https://theposterdb.com/api/assets/162921
+    url_poster: https://theposterdb.com/api/assets/518153
     tpdb_search: https://theposterdb.com/search?term=Eternals&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -1781,10 +1781,11 @@ metadata:
     label_title: 'The Fantastic 4: First Steps'
     sort_title: 'Fantastic 4: First Steps'
     release_year: '2025'
-    url_poster: https://theposterdb.com/api/assets/602407
+    url_poster: https://theposterdb.com/api/assets/630953
     tpdb_search: https://theposterdb.com/search?term=The+Fantastic+4:+First+Steps&section=movies
+    studio: Marvel Studios
     genre.sync:
-      - Super Hero
+      - Superhero
   259316:
     label_title: Fantastic Beasts and Where to Find Them
     sort_title: Fantastic Beasts and Where to Find Them 1
@@ -1822,7 +1823,7 @@ metadata:
     label_title: Fantastic Four
     sort_title: Fantastic Four 2
     release_year: '2005'
-    url_poster: https://theposterdb.com/api/assets/163906
+    url_poster: https://theposterdb.com/api/assets/518609
     tpdb_search: https://theposterdb.com/search?term=Fantastic+Four&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -1831,7 +1832,7 @@ metadata:
     label_title: Fantastic Four Rise of the Silver Surfer
     sort_title: Fantastic Four 3
     release_year: '2007'
-    url_poster: https://theposterdb.com/api/assets/163907
+    url_poster: https://theposterdb.com/api/assets/518608
     tpdb_search: https://theposterdb.com/search?term=Fantastic+Four+Rise+of+the+Silver+Surfer&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -1840,7 +1841,7 @@ metadata:
     label_title: Fantastic Four
     sort_title: Fantastic Four 4
     release_year: '2015'
-    url_poster: https://theposterdb.com/api/assets/163908
+    url_poster: https://theposterdb.com/api/assets/518606
     tpdb_search: https://theposterdb.com/search?term=Fantastic+Four&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -2377,7 +2378,7 @@ metadata:
     label_title: Guardians of the Galaxy
     sort_title: Guardians of the Galaxy 1
     release_year: '2014'
-    url_poster: https://theposterdb.com/api/assets/162905
+    url_poster: https://theposterdb.com/api/assets/518131
     tpdb_search: https://theposterdb.com/search?term=Guardians+of+the+Galaxy&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -2386,7 +2387,7 @@ metadata:
     label_title: Guardians of the Galaxy Vol. 2
     sort_title: Guardians of the Galaxy 2
     release_year: '2017'
-    url_poster: https://theposterdb.com/api/assets/162910
+    url_poster: https://theposterdb.com/api/assets/518130
     tpdb_search: https://theposterdb.com/search?term=Guardians+of+the+Galaxy+Vol.+2&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -2395,7 +2396,7 @@ metadata:
     label_title: The Guardians of the Galaxy Holiday Special
     sort_title: Guardians of the Galaxy 3
     release_year: '2022'
-    url_poster: https://theposterdb.com/api/assets/314342
+    url_poster: https://theposterdb.com/api/assets/518129
     tpdb_search: https://theposterdb.com/search?term=The+Guardians+of+the+Galaxy+Holiday+Special&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -2404,7 +2405,7 @@ metadata:
     label_title: Guardians of the Galaxy Vol. 3
     sort_title: Guardians of the Galaxy 4
     release_year: '2023'
-    url_poster: https://theposterdb.com/api/assets/392840
+    url_poster: https://theposterdb.com/api/assets/518132
     tpdb_search: https://theposterdb.com/search?term=Guardians+of+the+Galaxy+Vol.+3&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -2858,7 +2859,7 @@ metadata:
     label_title: Hulk
     sort_title: Hulk 1
     release_year: '2003'
-    url_poster: https://theposterdb.com/api/assets/163880
+    url_poster: https://theposterdb.com/api/assets/518587
     tpdb_search: https://theposterdb.com/search?term=Hulk&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -2867,7 +2868,7 @@ metadata:
     label_title: The Incredible Hulk
     sort_title: Hulk 2
     release_year: '2008'
-    url_poster: https://theposterdb.com/api/assets/162897
+    url_poster: https://theposterdb.com/api/assets/518156
     tpdb_search: https://theposterdb.com/search?term=The+Incredible+Hulk&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -3125,7 +3126,7 @@ metadata:
     label_title: Iron Man
     sort_title: Iron Man 1
     release_year: '2008'
-    url_poster: https://theposterdb.com/api/assets/162896
+    url_poster: https://theposterdb.com/api/assets/517804
     tpdb_search: https://theposterdb.com/search?term=Iron+Man&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -3134,7 +3135,7 @@ metadata:
     label_title: Iron Man 2
     sort_title: Iron Man 2
     release_year: '2010'
-    url_poster: https://theposterdb.com/api/assets/162898
+    url_poster: https://theposterdb.com/api/assets/517803
     tpdb_search: https://theposterdb.com/search?term=Iron+Man+2&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -3143,7 +3144,7 @@ metadata:
     label_title: Iron Man 3
     sort_title: Iron Man 3
     release_year: '2013'
-    url_poster: https://theposterdb.com/api/assets/162902
+    url_poster: https://theposterdb.com/api/assets/517802
     tpdb_search: https://theposterdb.com/search?term=Iron+Man+3&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -3644,7 +3645,7 @@ metadata:
     label_title: Logan
     sort_title: Logan
     release_year: '2017'
-    url_poster: https://theposterdb.com/api/assets/163890
+    url_poster: https://theposterdb.com/api/assets/518321
     tpdb_search: https://theposterdb.com/search?term=Logan&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -3838,7 +3839,7 @@ metadata:
     label_title: Madame Web
     sort_title: Madame Web
     release_year: '2024'
-    url_poster: https://theposterdb.com/api/assets/469080
+    url_poster: https://theposterdb.com/api/assets/518159
     tpdb_search: https://theposterdb.com/search?term=Madame+Web&section=movies
     studio: Marvel Entertainment
     genre.sync:
@@ -3924,7 +3925,7 @@ metadata:
     label_title: The Marvels
     sort_title: Marvels
     release_year: '2023'
-    url_poster: https://theposterdb.com/api/assets/452675
+    url_poster: https://theposterdb.com/api/assets/518089
     tpdb_search: https://theposterdb.com/search?term=The+Marvels&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -4281,7 +4282,7 @@ metadata:
     label_title: Morbius
     sort_title: Morbius
     release_year: '2022'
-    url_poster: https://theposterdb.com/api/assets/235382
+    url_poster: https://theposterdb.com/api/assets/518584
     tpdb_search: https://theposterdb.com/search?term=Morbius&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -4399,7 +4400,7 @@ metadata:
     label_title: The New Mutants
     sort_title: New Mutants
     release_year: '2020'
-    url_poster: https://theposterdb.com/api/assets/163847
+    url_poster: https://theposterdb.com/api/assets/518266
     tpdb_search: https://theposterdb.com/search?term=The+New+Mutants&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -5269,9 +5270,9 @@ metadata:
       - Horror
   566525:
     label_title: Shang-Chi and the Legend of the Ten Rings
-    sort_title: Shang-Chi and the Legend of the Ten Rings
+    sort_title: Shang-Chi 1
     release_year: '2021'
-    url_poster: https://theposterdb.com/api/assets/162920
+    url_poster: https://theposterdb.com/api/assets/518154
     tpdb_search: https://theposterdb.com/search?term=Shang-Chi+and+the+Legend+of+the+Ten+Rings&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -5631,7 +5632,7 @@ metadata:
     label_title: Spider-Man
     sort_title: Spider-Man 1
     release_year: '2002'
-    url_poster: https://theposterdb.com/api/assets/163871
+    url_poster: https://theposterdb.com/api/assets/518387
     tpdb_search: https://theposterdb.com/search?term=Spider-Man&section=movies
     studio: Marvel Entertainment
     genre.sync:
@@ -5640,7 +5641,7 @@ metadata:
     label_title: Spider-Man 2
     sort_title: Spider-Man 2
     release_year: '2004'
-    url_poster: https://theposterdb.com/api/assets/163872
+    url_poster: https://theposterdb.com/api/assets/518386
     tpdb_search: https://theposterdb.com/search?term=Spider-Man+2&section=movies
     studio: Marvel Entertainment
     genre.sync:
@@ -5649,7 +5650,7 @@ metadata:
     label_title: Spider-Man 3
     sort_title: Spider-Man 3
     release_year: '2007'
-    url_poster: https://theposterdb.com/api/assets/163873
+    url_poster: https://theposterdb.com/api/assets/518385
     tpdb_search: https://theposterdb.com/search?term=Spider-Man+3&section=movies
     studio: Marvel Entertainment
     genre.sync:
@@ -5658,7 +5659,7 @@ metadata:
     label_title: The Amazing Spider-Man
     sort_title: Spider-Man Amazing 1
     release_year: '2012'
-    url_poster: https://theposterdb.com/api/assets/163876
+    url_poster: https://theposterdb.com/api/assets/518354
     tpdb_search: https://theposterdb.com/search?term=The+Amazing+Spider-Man&section=movies
     studio: Marvel Entertainment
     genre.sync:
@@ -5667,7 +5668,7 @@ metadata:
     label_title: The Amazing Spider-Man 2
     sort_title: Spider-Man Amazing 2
     release_year: '2014'
-    url_poster: https://theposterdb.com/api/assets/163877
+    url_poster: https://theposterdb.com/api/assets/518353
     tpdb_search: https://theposterdb.com/search?term=The+Amazing+Spider-Man+2&section=movies
     studio: Marvel Entertainment
     genre.sync:
@@ -5676,7 +5677,7 @@ metadata:
     label_title: Spider-Man Homecoming
     sort_title: Spider-Man MCU 1
     release_year: '2017'
-    url_poster: https://theposterdb.com/api/assets/162911
+    url_poster: https://theposterdb.com/api/assets/517888
     tpdb_search: https://theposterdb.com/search?term=Spider-Man+Homecoming&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -5685,7 +5686,7 @@ metadata:
     label_title: Spider-Man Far From Home
     sort_title: Spider-Man MCU 2
     release_year: '2019'
-    url_poster: https://theposterdb.com/api/assets/162918
+    url_poster: https://theposterdb.com/api/assets/517887
     tpdb_search: https://theposterdb.com/search?term=Spider-Man+Far+From+Home&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -5694,7 +5695,7 @@ metadata:
     label_title: Spider-Man No Way Home
     sort_title: Spider-Man MCU 3
     release_year: '2021'
-    url_poster: https://theposterdb.com/api/assets/190131
+    url_poster: https://theposterdb.com/api/assets/517886
     tpdb_search: https://theposterdb.com/search?term=Spider-Man+No+Way+Home&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -5703,7 +5704,7 @@ metadata:
     label_title: Spider-Man Into the Spider-Verse
     sort_title: Spider-Man Spider-Verse 1
     release_year: '2018'
-    url_poster: https://theposterdb.com/api/assets/421249
+    url_poster: https://theposterdb.com/api/assets/518525
     tpdb_search: https://theposterdb.com/search?term=Spider-Man+Into+the+Spider-Verse&section=movies
     studio: Marvel Entertainment
     genre.sync:
@@ -5712,7 +5713,7 @@ metadata:
     label_title: Spider-Man Across the Spider-Verse
     sort_title: Spider-Man Spider-Verse 2
     release_year: '2023'
-    url_poster: https://theposterdb.com/api/assets/421250
+    url_poster: https://theposterdb.com/api/assets/518524
     tpdb_search: https://theposterdb.com/search?term=Spider-Man+Across+the+Spider-Verse&section=movies
     studio: Marvel Entertainment
     genre.sync:
@@ -6027,7 +6028,7 @@ metadata:
     label_title: Thor
     sort_title: Thor 1
     release_year: '2011'
-    url_poster: https://theposterdb.com/api/assets/162899
+    url_poster: https://theposterdb.com/api/assets/517899
     tpdb_search: https://theposterdb.com/search?term=Thor&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -6036,7 +6037,7 @@ metadata:
     label_title: Thor The Dark World
     sort_title: Thor 2
     release_year: '2013'
-    url_poster: https://theposterdb.com/api/assets/162903
+    url_poster: https://theposterdb.com/api/assets/517898
     tpdb_search: https://theposterdb.com/search?term=Thor+The+Dark+World&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -6045,7 +6046,7 @@ metadata:
     label_title: Thor Ragnarok
     sort_title: Thor 3
     release_year: '2017'
-    url_poster: https://theposterdb.com/api/assets/162912
+    url_poster: https://theposterdb.com/api/assets/517897
     tpdb_search: https://theposterdb.com/search?term=Thor+Ragnarok&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -6054,7 +6055,7 @@ metadata:
     label_title: Thor Love and Thunder
     sort_title: Thor 4
     release_year: '2022'
-    url_poster: https://theposterdb.com/api/assets/265776
+    url_poster: https://theposterdb.com/api/assets/517896
     tpdb_search: https://theposterdb.com/search?term=Thor+Love+and+Thunder&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -6063,7 +6064,7 @@ metadata:
     label_title: Thunderbolts*
     sort_title: Thunderbolts
     release_year: '2025'
-    url_poster: https://theposterdb.com/api/assets/601849
+    url_poster: https://theposterdb.com/api/assets/527108
     tpdb_search: https://theposterdb.com/search?term=Thunderbolts*&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -6488,7 +6489,7 @@ metadata:
     label_title: Venom
     sort_title: Venom 1
     release_year: '2018'
-    url_poster: https://theposterdb.com/api/assets/163926
+    url_poster: https://theposterdb.com/api/assets/517927
     tpdb_search: https://theposterdb.com/search?term=Venom&section=movies
     studio: Marvel Entertainment
     genre.sync:
@@ -6497,7 +6498,7 @@ metadata:
     label_title: Venom Let There Be Carnage
     sort_title: Venom 2
     release_year: '2021'
-    url_poster: https://theposterdb.com/api/assets/192206
+    url_poster: https://theposterdb.com/api/assets/517926
     tpdb_search: https://theposterdb.com/search?term=Venom+Let+There+Be+Carnage&section=movies
     studio: Marvel Entertainment
     genre.sync:
@@ -6506,7 +6507,7 @@ metadata:
     label_title: Venom The Last Dance
     sort_title: Venom 3
     release_year: '2024'
-    url_poster: https://theposterdb.com/api/assets/595581
+    url_poster: https://theposterdb.com/api/assets/517925
     tpdb_search: https://theposterdb.com/search?term=Venom+The+Last+Dance&section=movies
     studio: Marvel Entertainment
     genre.sync:
@@ -6569,7 +6570,7 @@ metadata:
     label_title: Werewolf by Night
     sort_title: Werewolf by Night
     release_year: '2022'
-    url_poster: https://theposterdb.com/api/assets/274295
+    url_poster: https://theposterdb.com/api/assets/518152
     tpdb_search: https://theposterdb.com/search?term=Werewolf+by+Night&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -6696,7 +6697,7 @@ metadata:
     label_title: The Wolverine
     sort_title: Wolverine
     release_year: '2013'
-    url_poster: https://theposterdb.com/api/assets/163889
+    url_poster: https://theposterdb.com/api/assets/518322
     tpdb_search: https://theposterdb.com/search?term=The+Wolverine&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -6755,7 +6756,7 @@ metadata:
     label_title: X-Men
     sort_title: X-Men 1
     release_year: '2000'
-    url_poster: https://theposterdb.com/api/assets/163840
+    url_poster: https://theposterdb.com/api/assets/518273
     tpdb_search: https://theposterdb.com/search?term=X-Men&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -6764,7 +6765,7 @@ metadata:
     label_title: X2
     sort_title: X-Men 2
     release_year: '2003'
-    url_poster: https://theposterdb.com/api/assets/163841
+    url_poster: https://theposterdb.com/api/assets/518272
     tpdb_search: https://theposterdb.com/search?term=X2&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -6773,7 +6774,7 @@ metadata:
     label_title: X-Men The Last Stand
     sort_title: X-Men 3
     release_year: '2006'
-    url_poster: https://theposterdb.com/api/assets/163842
+    url_poster: https://theposterdb.com/api/assets/518271
     tpdb_search: https://theposterdb.com/search?term=X-Men+The+Last+Stand&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -6782,7 +6783,7 @@ metadata:
     label_title: X-Men Origins Wolverine
     sort_title: X-Men 4
     release_year: '2009'
-    url_poster: https://theposterdb.com/api/assets/163888
+    url_poster: https://theposterdb.com/api/assets/518323
     tpdb_search: https://theposterdb.com/search?term=X-Men+Origins+Wolverine&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -6791,7 +6792,7 @@ metadata:
     label_title: X-Men First Class
     sort_title: X-Men 5
     release_year: '2011'
-    url_poster: https://theposterdb.com/api/assets/163843
+    url_poster: https://theposterdb.com/api/assets/518270
     tpdb_search: https://theposterdb.com/search?term=X-Men+First+Class&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -6800,7 +6801,7 @@ metadata:
     label_title: X-Men Days of Future Past
     sort_title: X-Men 6
     release_year: '2014'
-    url_poster: https://theposterdb.com/api/assets/163844
+    url_poster: https://theposterdb.com/api/assets/518269
     tpdb_search: https://theposterdb.com/search?term=X-Men+Days+of+Future+Past&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -6809,7 +6810,7 @@ metadata:
     label_title: X-Men Apocalypse
     sort_title: X-Men 7
     release_year: '2016'
-    url_poster: https://theposterdb.com/api/assets/163845
+    url_poster: https://theposterdb.com/api/assets/518268
     tpdb_search: https://theposterdb.com/search?term=X-Men+Apocalypse&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -6818,7 +6819,7 @@ metadata:
     label_title: Dark Phoenix
     sort_title: X-Men 8
     release_year: '2019'
-    url_poster: https://theposterdb.com/api/assets/163846
+    url_poster: https://theposterdb.com/api/assets/518267
     tpdb_search: https://theposterdb.com/search?term=Dark+Phoenix&section=movies
     studio: Marvel Studios
     genre.sync:
