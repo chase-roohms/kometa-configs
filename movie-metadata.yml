@@ -3529,6 +3529,16 @@ metadata:
     genre.sync:
       - Comedy
       - Drama
+  616:
+    label_title: The Last Samurai
+    sort_title: Last Samurai
+    release_year: '2003'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Last+Samurai&section=movies
+    genre.sync:
+      - Action
+      - Drama
+      - War
   938614:
     label_title: Late Night with the Devil
     sort_title: Late Night with the Devil
