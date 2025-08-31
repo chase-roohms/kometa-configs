@@ -25,4 +25,8 @@ if [[ "$url" =~ ^[0-9]+$ ]]; then
 fi
 
 user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
-curl -s -A "$user_agent" "$url" -o "${output_directory}/${collection_id}.jpg"
+http_status=$(curl -s -A "$user_agent" -w "%{http_code}" -o "${output_directory}/${collection_id}.jpg" "$url")
+if [ "$http_status" -ne 200 ]; then
+    echo "Error: Failed to download image. HTTP status code: $http_status"
+    exit 1
+fi
