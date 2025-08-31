@@ -5381,6 +5381,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=A+Simple+Plan&section=movies
     genre.sync:
       - Thriller
+  335797:
+    label_title: Sing
+    sort_title: Sing
+    release_year: '2016'
+    url_poster: https://theposterdb.com/api/assets/531408
+    tpdb_search: https://theposterdb.com/search?term=Sing&section=movies
+    studio: Illumination
+    genre.sync:
+      - Animation
   82507:
     label_title: Sinister
     sort_title: Sinister 1
