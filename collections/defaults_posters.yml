@@ -94,9 +94,9 @@ genre_posters:
   Superhero: https://theposterdb.com/api/assets/631181
   Thriller: https://theposterdb.com/api/assets/631180
 imdb_posters:
-  popular: https://theposterdb.com/api/assets/593556
-  top: https://theposterdb.com/api/assets/593554
-  lowest: https://theposterdb.com/api/assets/593555
+  imdb_popular: https://theposterdb.com/api/assets/593556
+  imdb_top: https://theposterdb.com/api/assets/593554
+  imdb_lowest: https://theposterdb.com/api/assets/593555
 studio_posters:
   A24: https://theposterdb.com/api/assets/573071
   DreamWorks Studios: https://theposterdb.com/api/assets/573103
@@ -106,7 +106,7 @@ studio_posters:
   Pixar: https://theposterdb.com/api/assets/573147
   Studio Ghibli: https://theposterdb.com/api/assets/573155
 tautulli_posters:
-  popular: https://theposterdb.com/api/assets/632287
+  tautulli_popular: https://theposterdb.com/api/assets/632287
 universe_posters:
   avp: https://i.imgur.com/RpEVeN1.png
   conjuring: https://i.imgur.com/1xfs7Kl.png
