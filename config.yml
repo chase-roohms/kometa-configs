@@ -94,11 +94,11 @@ url_poster_mappings:
     url_poster_Science Fiction: https://theposterdb.com/api/assets/631171
     url_poster_Superhero: https://theposterdb.com/api/assets/631181
     url_poster_Thriller: https://theposterdb.com/api/assets/631180
-  imdb_posters:
+  imdb_posters: &imdb_posters
     url_poster_popular: https://theposterdb.com/api/assets/593556
     url_poster_top: https://theposterdb.com/api/assets/593554
     url_poster_lowest: https://theposterdb.com/api/assets/593555
-  studio_posters:
+  studio_posters: &studio_posters
     url_poster_A24: https://theposterdb.com/api/assets/573071
     url_poster_DreamWorks Studios: https://theposterdb.com/api/assets/573103
     url_poster_Dropout: https://theposterdb.com/api/assets/595173
@@ -106,9 +106,10 @@ url_poster_mappings:
     url_poster_Marvel Studios: https://theposterdb.com/api/assets/573128
     url_poster_Pixar: https://theposterdb.com/api/assets/573147
     url_poster_Studio Ghibli: https://theposterdb.com/api/assets/573155
-  tautulli_posters:
+  streaming_posters: &streaming_posters
+  tautulli_posters: &tautulli_posters
     url_poster_popular: https://theposterdb.com/api/assets/632287
-  universe_posters:
+  universe_posters: &universe_posters
     url_poster_avp: https://i.imgur.com/RpEVeN1.png
     url_poster_conjuring: https://i.imgur.com/1xfs7Kl.png
     url_poster_dcu: https://i.imgur.com/Zxd8r7z.png
@@ -128,7 +129,7 @@ shared_collection_files:
     list_days_popular: 30
     visible_library: true
     summary_popular: <<library_typeU>>s that are popular with other users in the past 30 days - ordered by popularity.
-    url_poster_popular: https://theposterdb.com/api/assets/632287
+    <<: *tautulli_posters
 
 - &imdb_collection
   default: imdb
@@ -136,9 +137,7 @@ shared_collection_files:
     use_popular: true
     use_top: true
     use_lowest: false
-    url_poster_popular: https://theposterdb.com/api/assets/593556
-    url_poster_top: https://theposterdb.com/api/assets/593554
-    url_poster_lowest: https://theposterdb.com/api/assets/593555
+    <<: *imdb_posters
 
 - &streaming_collection
   default: streaming
@@ -152,6 +151,7 @@ shared_collection_files:
     - max
     - netflix
     - amazon
+    <<: *streaming_posters
 
 - &studio_collection
   default: studio
@@ -166,13 +166,7 @@ shared_collection_files:
     - Pixar
     - Studio Ghibli
     sort_by: title.asc
-    url_poster_A24: https://theposterdb.com/api/assets/573071
-    url_poster_DreamWorks Studios: https://theposterdb.com/api/assets/573103
-    url_poster_Dropout: https://theposterdb.com/api/assets/595173
-    url_poster_Illumination Entertainment: https://theposterdb.com/api/assets/573116
-    url_poster_Marvel Studios: https://theposterdb.com/api/assets/573128
-    url_poster_Pixar: https://theposterdb.com/api/assets/573147
-    url_poster_Studio Ghibli: https://theposterdb.com/api/assets/573155
+    <<: *studio_posters
 
 - &genre_collection
   default: genre
@@ -220,16 +214,7 @@ shared_collection_files:
     - monster      # Monsterverse, just don't want it
     - wizard       # Wizarding World of Harry Potter, just don't want it
     collection_order: release
-    url_poster_avp: https://i.imgur.com/RpEVeN1.png
-    url_poster_conjuring: https://i.imgur.com/1xfs7Kl.png
-    url_poster_dcu: https://i.imgur.com/Zxd8r7z.png
-    url_poster_fast: https://i.imgur.com/JQpMkTu.png
-    url_poster_mcu: https://i.imgur.com/f8b6jpK.png
-    url_poster_middle: https://i.imgur.com/ZPNbTt3.png
-    url_poster_monster: https://i.imgur.com/GU6LAfr.png
-    url_poster_star: https://i.imgur.com/u4xJ8Gf.png
-    url_poster_wizard: https://i.imgur.com/d155RSF.png
-    url_poster_xmen: https://i.imgur.com/JxBEN17.png
+    <<: *universe_posters
 
 - &franchise_collection
   default: franchise
@@ -262,6 +247,7 @@ shared_collection_files:
     sort_title_125574: Spider-Man Amazing
     sort_title_531241: Spider-Man MCU
     sort_title_573436: Spider-Man Spider-Verse
+    <<: *franchise_posters
 
 operations: &operation_settings
   delete_collections:
