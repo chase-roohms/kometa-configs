@@ -6448,7 +6448,7 @@ metadata:
     label_title: 'Unknown Number: The High School Catfish'
     sort_title: 'Unknown Number: The High School Catfish'
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/638937
     tpdb_search: https://theposterdb.com/search?term=Unknown+Number:+The+High+School+Catfish&section=movies
     genre.sync:
       - Documentary
