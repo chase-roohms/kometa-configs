@@ -4075,6 +4075,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Midway&section=movies
     genre.sync:
       - Action
+  940551:
+    label_title: Migration
+    sort_title: Migration
+    release_year: '2023'
+    url_poster: https://theposterdb.com/api/assets/531413
+    tpdb_search: https://theposterdb.com/search?term=Migration&section=movies
+    studio: Illumination
+    genre.sync:
+      - Animation
   950387:
     label_title: A Minecraft Movie
     sort_title: Minecraft Movie
