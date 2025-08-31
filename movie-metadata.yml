@@ -5215,6 +5215,15 @@ metadata:
     genre.sync:
       - Action
       - Thriller
+  328111:
+    label_title: The Secret Life of Pets
+    sort_title: Secret Life of Pets
+    release_year: '2016'
+    url_poster: https://theposterdb.com/api/assets/516981
+    tpdb_search: https://theposterdb.com/search?term=The+Secret+Life+of+Pets&section=movies
+    studio: Illumination
+    genre.sync:
+      - Animation
   51739:
     label_title: The Secret World of Arrietty
     sort_title: Secret World of Arrietty
