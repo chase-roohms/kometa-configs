@@ -1,0 +1,404 @@
+shared_collection_files:
+- &tautulli_collection
+  default: tautulli
+  template_variables:
+    use_watched: false
+    list_days_popular: 30
+    visible_library: true
+    summary_popular: <<library_typeU>>s that are popular with other users in the past 30 days - ordered by popularity.
+    url_poster_popular: https://theposterdb.com/api/assets/632287
+
+- &imdb_collection
+  default: imdb
+  template_variables:
+    use_popular: true
+    use_top: true
+    use_lowest: false
+    url_poster_popular: https://theposterdb.com/api/assets/593556
+    url_poster_top: https://theposterdb.com/api/assets/593554
+    url_poster_lowest: https://theposterdb.com/api/assets/593555
+
+- &streaming_collection
+  default: streaming
+  template_variables:
+    sort_by: title.asc
+    include:
+    - appletv
+    - disney
+    - crunchyroll
+    - hulu
+    - max
+    - netflix
+    - amazon
+
+- &studio_collection
+  default: studio
+  template_variables:
+    collection_section: 035
+    include:
+    - A24
+    - DreamWorks Studios
+    - Dropout
+    - Illumination Entertainment
+    - Marvel Studios
+    - Pixar
+    - Studio Ghibli
+    sort_by: title.asc
+    url_poster_A24: https://theposterdb.com/api/assets/573071
+    url_poster_DreamWorks Studios: https://theposterdb.com/api/assets/573103
+    url_poster_Dropout: https://theposterdb.com/api/assets/595173
+    url_poster_Illumination Entertainment: https://theposterdb.com/api/assets/573116
+    url_poster_Marvel Studios: https://theposterdb.com/api/assets/573128
+    url_poster_Pixar: https://theposterdb.com/api/assets/573147
+    url_poster_Studio Ghibli: https://theposterdb.com/api/assets/573155
+
+- &genre_collection
+  default: genre
+  template_variables:
+    collection_section: '010'
+    sort_prefix: ZZZ
+    visible_library: true
+    visible_library_Anime: false
+    visible_library_Documentary: false
+    visible_library_Fantasy: false
+    visible_library_Reality: false
+    visible_library_Superhero: false
+    sort_by: release.desc
+    summary_format: <<library_typeU>>s that have the genre <<key_name>> - ordered by release date.
+    append_addons:
+      Thriller:
+      - Mystery
+      - Suspense
+      Drama:
+      - Romance
+    include:
+    - Action
+    - Animation
+    - Anime
+    - Comedy
+    - Documentary
+    - Drama
+    - Family
+    - Fantasy
+    - Horror
+    - Reality
+    - Science Fiction
+    - Superhero
+    - Thriller
+    url_poster_Action: https://theposterdb.com/api/assets/631161
+    url_poster_Animation: https://theposterdb.com/api/assets/631179
+    url_poster_Anime: https://theposterdb.com/api/assets/631178
+    url_poster_Comedy: https://theposterdb.com/api/assets/631164
+    url_poster_Documentary: https://theposterdb.com/api/assets/631176
+    url_poster_Drama: https://theposterdb.com/api/assets/631175
+    url_poster_Family: https://theposterdb.com/api/assets/631294
+    url_poster_Fantasy: https://theposterdb.com/api/assets/631167
+    url_poster_Horror: https://theposterdb.com/api/assets/631168
+    url_poster_Reality: https://theposterdb.com/api/assets/631169
+    url_poster_Science Fiction: https://theposterdb.com/api/assets/631171
+    url_poster_Superhero: https://theposterdb.com/api/assets/631181
+    url_poster_Thriller: https://theposterdb.com/api/assets/631180
+
+- &universe_collection
+  default: universe
+  template_variables:
+    exclude:
+    - marvel       # In Association with Marvel, just don't want it
+    - trek         # Star Trek, just don't want it
+    - dca          # DC Animated Universe, just don't want it
+    - middle       # Middle Earth, just don't want it
+    - monster      # Monsterverse, just don't want it
+    - wizard       # Wizarding World of Harry Potter, just don't want it
+    collection_order: release
+    url_poster_avp: https://i.imgur.com/RpEVeN1.png
+    url_poster_conjuring: https://i.imgur.com/1xfs7Kl.png
+    url_poster_dcu: https://i.imgur.com/Zxd8r7z.png
+    url_poster_fast: https://i.imgur.com/JQpMkTu.png
+    url_poster_mcu: https://i.imgur.com/f8b6jpK.png
+    url_poster_middle: https://i.imgur.com/ZPNbTt3.png
+    url_poster_monster: https://i.imgur.com/GU6LAfr.png
+    url_poster_star: https://i.imgur.com/u4xJ8Gf.png
+    url_poster_wizard: https://i.imgur.com/d155RSF.png
+    url_poster_xmen: https://i.imgur.com/JxBEN17.png
+
+- &franchise_collection
+  default: franchise
+  template_variables:
+    movie_422837:   # Blade Runner
+    - 475946          # Blackout 2022
+    - 473072          # 2036 Nexus Dawn
+    - 475759          # 2048 Nowhere to Run
+    movie_790370:   # Fear Street
+    - 1001414         # Fear Street: Prom Queen
+    movie_8917:     # Hellraiser
+    - 338947          # Hellraiser (2022)
+    movie_404609:   # John Wick
+    - 541671          # Ballerina
+    movie_41437:    # Paranormal Activity
+    - 59429           # Tokyo Night
+    movie_399:      # Predator
+    - 1376434         # Predator: Killer of Killers (Animated)
+    movie_619537:   # Train to Busan
+    - 389868          # Seoul Station
+    movie_8650:     # Transformers
+    - 424783          # Bumblebee
+    collection_order: release
+    exclude:
+    - 115762        # AVP (Not the full, this is just 2 movies)
+    - 1427405       # Studio Ghibli, we want it taken care of in "studio"
+    - 1412          # Arroverse, will be taken care of in the universe section
+    - 10            # Star Wars (Handled in universe)
+    - 85536         # Star Wars (Handled in universe)
+    sort_title_125574: Spider-Man Amazing
+    sort_title_531241: Spider-Man MCU
+    sort_title_573436: Spider-Man Spider-Verse
+    url_poster_1565: https://theposterdb.com/api/assets/629678    # 28 Days/Weeks Later
+    url_poster_125570: https://theposterdb.com/api/assets/51721   # 300
+    url_poster_702624: https://theposterdb.com/api/assets/178591  # After
+    url_poster_8091: https://theposterdb.com/api/assets/1213      # Alien
+    url_poster_531566: https://theposterdb.com/api/assets/587900  # Along with the Gods
+    url_poster_531315: https://theposterdb.com/api/assets/23354   # Angry Birds
+    url_poster_422834: https://theposterdb.com/api/assets/517998  # Ant-Man
+    url_poster_86311: https://theposterdb.com/api/assets/517841   # Avengers
+    url_poster_264: https://theposterdb.com/api/assets/87588      # Back to the Future
+    url_poster_1231053: https://theposterdb.com/api/assets/531622 # The Bad Guys
+    url_poster_118415: https://theposterdb.com/api/assets/182149  # Berzerk Golden Age Arc
+    url_poster_529892: https://theposterdb.com/api/assets/518102  # Black Panther
+    url_poster_422837: https://theposterdb.com/api/assets/22405   # Blade Runner
+    url_poster_735: https://theposterdb.com/api/assets/518555     # Blade Trilogy
+    url_poster_519457: https://theposterdb.com/api/assets/531145  # The Boss Baby
+    url_poster_131295: https://theposterdb.com/api/assets/517867  # Captain America
+    url_poster_623911: https://theposterdb.com/api/assets/518088  # Captain Marvel
+    url_poster_87118: https://theposterdb.com/api/assets/532265   # Cars
+    url_poster_464577: https://theposterdb.com/api/assets/531083  # The Croods
+    url_poster_448150: https://theposterdb.com/api/assets/518046  # Deadpool
+    url_poster_86066: https://theposterdb.com/api/assets/568351   # Despicable Me
+    url_poster_618529: https://theposterdb.com/api/assets/517911  # Doctor Strange
+    url_poster_178106: https://theposterdb.com/api/assets/128286  # Donnie Darko
+    url_poster_748919: https://theposterdb.com/api/assets/168637  # Don't Breathe
+    url_poster_1438141: https://theposterdb.com/api/assets/10346  # Eastrail 177 (Unbreakable)
+    url_poster_523855: https://theposterdb.com/api/assets/131877  # Equalizer
+    url_poster_284433: https://theposterdb.com/api/assets/518128  # Guardians of the Galaxy
+    url_poster_230: https://theposterdb.com/api/assets/8934       # Godfather
+    url_poster_435259: https://theposterdb.com/api/assets/217952  # Fantastic Beasts
+    url_poster_9744: https://theposterdb.com/api/assets/518607    # Fantastic Four
+    url_poster_790370: https://theposterdb.com/api/assets/598981  # Fear Street
+    url_poster_8864: https://theposterdb.com/api/assets/568753    # Final Destination
+    url_poster_137697: https://theposterdb.com/api/assets/532267  # Finding Nemo
+    url_poster_1241: https://theposterdb.com/api/assets/218038    # Harry Potter
+    url_poster_8917: https://theposterdb.com/api/assets/402699    # Hellraiser
+    url_poster_12087: https://theposterdb.com/api/assets/377653   # Herbie Collection
+    url_poster_121938: https://theposterdb.com/api/assets/36974   # Hobbit
+    url_poster_89137: https://theposterdb.com/api/assets/531077   # How to Train Your Dragon
+    url_poster_131635: https://theposterdb.com/api/assets/534797  # Hunger Games
+    url_poster_3601: https://theposterdb.com/api/assets/621883    # I Know What You Did Last Summer
+    url_poster_468222: https://theposterdb.com/api/assets/532266  # Incredibles
+    url_poster_1022790: https://theposterdb.com/api/assets/532269 # Inside Out
+    url_poster_131292: https://theposterdb.com/api/assets/517801  # Iron Man
+    url_poster_477962: https://theposterdb.com/api/assets/19249   # IT
+    url_poster_404609: https://theposterdb.com/api/assets/352409  # John Wick
+    url_poster_987044: https://theposterdb.com/api/assets/535281  # Joker
+    url_poster_495527: https://theposterdb.com/api/assets/256609  # Jumanji
+    url_poster_328: https://theposterdb.com/api/assets/530809     # Jurassic Park
+    url_poster_77816: https://theposterdb.com/api/assets/531068   # Kung Fu Panda
+    url_poster_119: https://theposterdb.com/api/assets/33509      # Lord of the Rings
+    url_poster_14740: https://theposterdb.com/api/assets/531284   # Madagascar
+    url_poster_87359: https://theposterdb.com/api/assets/608242   # Mission: Impossible
+    url_poster_1239518: https://theposterdb.com/api/assets/531609 # Megamind
+    url_poster_1071588: https://theposterdb.com/api/assets/590836 # M3gan
+    url_poster_137696: https://theposterdb.com/api/assets/532264  # Monster's Inc.
+    url_poster_1129084: https://theposterdb.com/api/assets/629218 # Nobody
+    url_poster_179919: https://theposterdb.com/api/assets/52875   # Percy Jackson
+    url_poster_295: https://theposterdb.com/api/assets/71934      # Pirates of the Caribbean
+    url_poster_173710: https://theposterdb.com/api/assets/138599  # Planet of the Apes
+    url_poster_399: https://theposterdb.com/api/assets/243        # Predator
+    url_poster_94602: https://theposterdb.com/api/assets/531051   # Puss in Boots
+    url_poster_210303: https://theposterdb.com/api/assets/168847  # Rebuild of Evangelion
+    url_poster_86860: https://theposterdb.com/api/assets/5898     # Scooby-Doo
+    url_poster_2150: https://theposterdb.com/api/assets/531125    # Shrek
+    url_poster_556: https://theposterdb.com/api/assets/518384     # Spider-Man (Original)
+    url_poster_125574: https://theposterdb.com/api/assets/518352  # Spider-Man (Amazing)
+    url_poster_531241: https://theposterdb.com/api/assets/517885  # Spider-Man Marvel
+    url_poster_573436: https://theposterdb.com/api/assets/518523  # Spider-Man Spider-Verse
+    url_poster_531242: https://theposterdb.com/api/assets/127936  # Suicide Squad
+    url_poster_131296: https://theposterdb.com/api/assets/517895  # Thor
+    url_poster_10194: https://theposterdb.com/api/assets/532263   # Toy Story
+    url_poster_619537: https://theposterdb.com/api/assets/82793   # Train to Busan
+    url_poster_8650: https://theposterdb.com/api/assets/385806    # Transformers
+    url_poster_489724: https://theposterdb.com/api/assets/531437  # Trolls
+    url_poster_63043: https://theposterdb.com/api/assets/6984     # Tron
+    url_poster_558216: https://theposterdb.com/api/assets/517924  # Venom
+    url_poster_453993: https://theposterdb.com/api/assets/518320  # The Wolverine
+    url_poster_1399: https://theposterdb.com/api/assets/269678    # World of Ice and Fire (GoT)
+    url_poster_748: https://theposterdb.com/api/assets/518265     # X-Men
+    url_poster_73586: https://theposterdb.com/api/assets/409022   # Yellowstone
+
+operations: &operation_settings
+  delete_collections:
+    configured: false
+
+playlist_files:
+- repo: playlists/shared
+- repo: playlists/shows
+- repo: playlists/movies
+- default: playlist
+  template_variables:
+    libraries:
+    - Movies
+    - TV Shows
+
+libraries:
+  Movies:
+    remove_overlays: true
+    template_variables:
+      use_separator: false
+    metadata_files:
+    - repo: movie-metadata
+    collection_files:
+    #- repo: collections/movies
+    - repo: collections/shared
+    #- *streaming_collection
+    - *tautulli_collection
+    - *genre_collection
+    - *imdb_collection
+    - *studio_collection
+    - *universe_collection
+    - *franchise_collection
+    operations: *operation_settings
+  TV Shows:
+    remove_overlays: true
+    template_variables:
+      use_separator: false
+    metadata_files:
+    - repo: show-metadata
+    collection_files:
+    #- repo: collections/shows
+    - repo: collections/shared
+    #- *streaming_collection
+    - *tautulli_collection
+    - *genre_collection
+    - *imdb_collection
+    - *studio_collection
+    - *universe_collection
+    - *franchise_collection
+    operations: *operation_settings
+
+settings:
+  run_order:
+  - operations
+  - metadata
+  - collections
+  - overlays
+  cache: true
+  cache_expiration: 60
+  asset_directory:
+  asset_folders: false
+  asset_depth: 0
+  create_asset_folders: false
+  prioritize_assets: false
+  dimensional_asset_rename: false
+  download_url_assets: false
+  show_missing_season_assets: false
+  show_missing_episode_assets: false
+  show_asset_not_needed: true
+  sync_mode: sync
+  minimum_items: 1
+  default_collection_order:
+  delete_below_minimum: true
+  delete_not_scheduled: false
+  run_again_delay: 2
+  missing_only_released: false
+  only_filter_missing: false
+  show_unmanaged: true
+  show_unconfigured: true
+  show_filtered: false
+  show_options: true
+  show_missing: true
+  show_missing_assets: true
+  save_report: false
+  tvdb_language: eng
+  ignore_ids:
+  ignore_imdb_ids:
+  item_refresh_delay: 0
+  playlist_sync_to_users: all
+  playlist_exclude_users:
+  playlist_report: false
+  verify_ssl: true
+  custom_repo: https://github.com/chase-roohms/kometa-configs/tree/main
+  overlay_artwork_filetype: jpg
+  overlay_artwork_quality: 75
+  show_unfiltered: false
+webhooks:
+  error:
+  version:
+  run_start:
+  run_end:
+  changes:
+  delete:
+plex:
+  url: <<SERVERURL>>:32400
+  token: <<PLEXTOKEN>>
+  timeout: 60
+  db_cache:
+  clean_bundles: false
+  empty_trash: false
+  optimize: false
+  verify_ssl:
+tmdb:
+  apikey: <<TMDBKEY>>
+  language: en
+  cache_expiration: 60
+  region:
+tautulli:
+  url: <<SERVERURL>>:9091
+  apikey: <<TAUTULLIKEY>>
+github:
+  token: <<GITHUBPAT>>
+omdb:
+  apikey: <<OMDBKEY>>
+  cache_expiration: 60
+mdblist:
+  apikey: <<MDBLISTKEY>>
+  cache_expiration: 60
+anidb:
+  username: <<ANIDBUSER>>
+  password: <<ANIDBPASS>>
+  language: en
+  client: <<ANIDBCLIENT>>
+  version: 1
+  cache_expiration: 60
+radarr:
+  url: <<SERVERURL>>:9073
+  token: <<RADARRKEY>>
+  add_missing: false
+  add_existing: false
+  upgrade_existing: false
+  monitor_existing: false
+  root_folder_path: /movies
+  monitor: true
+  availability: announced
+  quality_profile: High-Quality HD
+  tag: kometa
+  search: false
+  radarr_path:
+  plex_path:
+  ignore_cache: false
+sonarr:
+  url: <<SERVERURL>>:9072
+  token: <<SONARRKEY>>
+  add_missing: false
+  add_existing: false
+  upgrade_existing: false
+  monitor_existing: false
+  root_folder_path: /tv
+  monitor: all
+  quality_profile: High-Quality HD
+  language_profile: English
+  series_type: standard
+  season_folder: true
+  tag: kometa
+  search: false
+  cutoff_search: false
+  sonarr_path:
+  plex_path:
+  ignore_cache: false
