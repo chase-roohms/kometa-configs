@@ -6444,6 +6444,14 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Underdog&section=movies
     genre.sync:
       - Family
+  1517772:
+    label_title: 'Unknown Number: The High School Catfish'
+    sort_title: 'Unknown Number: The High School Catfish'
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Unknown+Number:+The+High+School+Catfish&section=movies
+    genre.sync:
+      - Documentary
   1232546:
     label_title: Until Dawn
     sort_title: Until Dawn
