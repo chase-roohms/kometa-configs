@@ -1415,7 +1415,7 @@ metadata:
     label_title: Despicable Me
     sort_title: Despicable Me 1
     release_year: '2010'
-    url_poster: https://theposterdb.com/api/assets/568350
+    url_poster: https://theposterdb.com/api/assets/531339
     tpdb_search: https://theposterdb.com/search?term=Despicable+Me&section=movies
     studio: Illumination
     genre.sync:
@@ -1424,7 +1424,7 @@ metadata:
     label_title: Despicable Me 2
     sort_title: Despicable Me 2
     release_year: '2013'
-    url_poster: https://theposterdb.com/api/assets/568347
+    url_poster: https://theposterdb.com/api/assets/531338
     tpdb_search: https://theposterdb.com/search?term=Despicable+Me+2&section=movies
     studio: Illumination
     genre.sync:
@@ -1433,7 +1433,7 @@ metadata:
     label_title: Despicable Me 3
     sort_title: Despicable Me 3
     release_year: '2017'
-    url_poster: https://theposterdb.com/api/assets/568343
+    url_poster: https://theposterdb.com/api/assets/531336
     tpdb_search: https://theposterdb.com/search?term=Despicable+Me+3&section=movies
     studio: Illumination
     genre.sync:
@@ -1442,7 +1442,7 @@ metadata:
     label_title: Despicable Me 4
     sort_title: Despicable Me 4
     release_year: '2024'
-    url_poster: https://theposterdb.com/api/assets/568335
+    url_poster: https://theposterdb.com/api/assets/531334
     tpdb_search: https://theposterdb.com/search?term=Despicable+Me+4&section=movies
     studio: Illumination
     genre.sync:
@@ -4087,7 +4087,7 @@ metadata:
     label_title: Minions
     sort_title: Minions 1
     release_year: '2015'
-    url_poster: https://theposterdb.com/api/assets/568346
+    url_poster: https://theposterdb.com/api/assets/531337
     tpdb_search: https://theposterdb.com/search?term=Minions&section=movies
     studio: Illumination
     genre.sync:
@@ -4096,7 +4096,7 @@ metadata:
     label_title: Minions The Rise of Gru
     sort_title: Minions 2
     release_year: '2022'
-    url_poster: https://theposterdb.com/api/assets/568339
+    url_poster: https://theposterdb.com/api/assets/531335
     tpdb_search: https://theposterdb.com/search?term=Minions+The+Rise+of+Gru&section=movies
     studio: Illumination
     genre.sync:
@@ -5872,7 +5872,7 @@ metadata:
     label_title: The Super Mario Bros. Movie
     sort_title: Super Mario Bros. Movie
     release_year: '2023'
-    url_poster: https://theposterdb.com/api/assets/568338
+    url_poster: https://theposterdb.com/api/assets/517024
     tpdb_search: https://theposterdb.com/search?term=The+Super+Mario+Bros.+Movie&section=movies
     studio: Illumination
     genre.sync:
