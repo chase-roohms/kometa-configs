@@ -5224,6 +5224,15 @@ metadata:
     studio: Illumination
     genre.sync:
       - Animation
+  412117:
+    label_title: The Secret Life of Pets 2
+    sort_title: Secret Life of Pets 2
+    release_year: '2019'
+    url_poster: https://theposterdb.com/api/assets/516980
+    tpdb_search: https://theposterdb.com/search?term=The+Secret+Life+of+Pets+2&section=movies
+    studio: Illumination
+    genre.sync:
+      - Animation
   51739:
     label_title: The Secret World of Arrietty
     sort_title: Secret World of Arrietty
