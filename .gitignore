@@ -1,0 +1,5 @@
+.env
+config.cache
+logs/
+overlays/
+UUID
