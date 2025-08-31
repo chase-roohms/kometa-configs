@@ -5217,7 +5217,7 @@ metadata:
       - Thriller
   328111:
     label_title: The Secret Life of Pets
-    sort_title: Secret Life of Pets
+    sort_title: Secret Life of Pets 1
     release_year: '2016'
     url_poster: https://theposterdb.com/api/assets/516981
     tpdb_search: https://theposterdb.com/search?term=The+Secret+Life+of+Pets&section=movies
@@ -5437,7 +5437,7 @@ metadata:
       - Thriller
   335797:
     label_title: Sing
-    sort_title: Sing
+    sort_title: Sing 1
     release_year: '2016'
     url_poster: https://theposterdb.com/api/assets/531408
     tpdb_search: https://theposterdb.com/search?term=Sing&section=movies
