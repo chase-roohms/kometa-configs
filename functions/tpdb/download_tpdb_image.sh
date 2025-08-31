@@ -1,16 +1,18 @@
 #!/bin/bash
 
 # Download an image from TPDb using either a direct API URL or TPDb asset ID.
-# Usage: download_tpdb_image.sh <url|tpdb_id>
+# Usage: download_tpdb_image.sh <url|tpdb_id> <collection_id> <output_directory>
 # Example: download_tpdb_image.sh 123456
 #          download_tpdb_image.sh https://theposterdb.com/api/assets/123456
 
-if [ "$#" -ne 1 ]; then
-    echo "Usage: $0 <url|tpdb_id>"
+if [ "$#" -ne 3 ]; then
+    echo "Usage: $0 <url|tpdb_id> <collection_id> <output_directory>"
     exit 1
 fi
 
 url="$1"
+collection_id="$2"
+output_directory="$3"
 
 if [[ ! "$url" =~ ^https://theposterdb\.com/api/assets/ ]] && [[ ! "$url" =~ ^[0-9]+$ ]]; then
     echo "Error: URL must start with 'https://theposterdb.com/api/assets/' or be just a TPDb ID."
@@ -23,12 +25,10 @@ if [[ "$url" =~ ^[0-9]+$ ]]; then
 fi
 
 user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
-
-# Extract the asset ID from the URL
-asset_id=$(basename "$url")
+tmp_file=$(mktemp "${collection_id}.XXXXXX.tmp")
 
 # Download with single curl and extract content type from response headers
-response=$(curl -sD - -A "$user_agent" "$url" -o "${asset_id}.tmp")
+response=$(curl -sD - -A "$user_agent" "$url" -o "$tmp_file")
 content_type=$(echo "$response" | grep -i '^Content-Type:' | awk '{print $2}' | tr -d '\r')
 
 # Map content type to extension
@@ -40,4 +40,4 @@ case "$content_type" in
 esac
 
 # Rename file with correct extension
-mv "${asset_id}.tmp" "${asset_id}.${ext}"
+cp "$tmp_file" "${output_directory}/${collection_id}.${ext}"
