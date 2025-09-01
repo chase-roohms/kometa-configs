@@ -2,8 +2,9 @@
 
 url_poster_mappings:
   franchise_posters: &franchise_posters
-    url_poster_1565: https://theposterdb.com/api/assets/629678    # 28 Days/Weeks Later
+    url_poster_1565: https://theposterdb.com/api/assets/617779    # 28 Days/Weeks Later
     url_poster_125570: https://theposterdb.com/api/assets/5575    # 300
+    url_poster_870339: https://theposterdb.com/api/assets/592034  # The Accountant
     url_poster_702624: https://theposterdb.com/api/assets/178591  # After
     url_poster_8091: https://theposterdb.com/api/assets/1213      # Alien
     url_poster_531566: https://theposterdb.com/api/assets/587900  # Along with the Gods
@@ -39,6 +40,7 @@ url_poster_mappings:
     url_poster_535313: https://theposterdb.com/api/assets/5962    # Godzilla
     url_poster_435259: https://theposterdb.com/api/assets/217952  # Fantastic Beasts
     url_poster_9744: https://theposterdb.com/api/assets/518607    # Fantastic Four
+    url_poster_9485: https://theposterdb.com/api/assets/166162    # Fast & Furious
     url_poster_790370: https://theposterdb.com/api/assets/598981  # Fear Street
     url_poster_8864: https://theposterdb.com/api/assets/568753    # Final Destination
     url_poster_137697: https://theposterdb.com/api/assets/532267  # Finding Nemo
