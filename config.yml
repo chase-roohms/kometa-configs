@@ -269,6 +269,7 @@ shared_collection_files:
     - middle       # Middle Earth, just don't want it
     - monster      # Monsterverse, just don't want it
     - wizard       # Wizarding World of Harry Potter, just don't want it
+    - fast         # Fast & Furious, taken care of in franchises
     collection_order: release
     <<: *universe_posters
 
