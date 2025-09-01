@@ -2207,7 +2207,7 @@ metadata:
     label_title: Gladiator
     sort_title: Gladiator 1
     release_year: '2000'
-    url_poster: https://theposterdb.com/api/assets/536336
+    url_poster: https://theposterdb.com/api/assets/535429
     tpdb_search: https://theposterdb.com/search?term=Gladiator&section=movies
     genre.sync:
       - Action
@@ -2215,7 +2215,7 @@ metadata:
     label_title: Gladiator II
     sort_title: Gladiator 2
     release_year: '2024'
-    url_poster: https://theposterdb.com/api/assets/536335
+    url_poster: https://theposterdb.com/api/assets/535428
     tpdb_search: https://theposterdb.com/search?term=Gladiator+II&section=movies
     genre.sync:
       - Action
