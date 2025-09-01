@@ -22,19 +22,22 @@ url_poster_mappings:
     url_poster_87118: https://theposterdb.com/api/assets/532265   # Cars
     url_poster_464577: https://theposterdb.com/api/assets/531083  # The Croods
     url_poster_448150: https://theposterdb.com/api/assets/518046  # Deadpool
-    url_poster_86066: https://theposterdb.com/api/assets/568351   # Despicable Me
+    url_poster_86066: https://theposterdb.com/api/assets/531340   # Despicable Me
     url_poster_618529: https://theposterdb.com/api/assets/517911  # Doctor Strange
     url_poster_178106: https://theposterdb.com/api/assets/128286  # Donnie Darko
     url_poster_748919: https://theposterdb.com/api/assets/168637  # Don't Breathe
+    url_poster_726871: https://theposterdb.com/api/assets/478768  # Dune
     url_poster_1438141: https://theposterdb.com/api/assets/10346  # Eastrail 177 (Unbreakable)
     url_poster_523855: https://theposterdb.com/api/assets/131877  # Equalizer
     url_poster_284433: https://theposterdb.com/api/assets/518128  # Guardians of the Galaxy
     url_poster_230: https://theposterdb.com/api/assets/8934       # Godfather
+    url_poster_535313: https://theposterdb.com/api/assets/5962    # Godzilla
     url_poster_435259: https://theposterdb.com/api/assets/217952  # Fantastic Beasts
     url_poster_9744: https://theposterdb.com/api/assets/518607    # Fantastic Four
     url_poster_790370: https://theposterdb.com/api/assets/598981  # Fear Street
     url_poster_8864: https://theposterdb.com/api/assets/568753    # Final Destination
     url_poster_137697: https://theposterdb.com/api/assets/532267  # Finding Nemo
+    url_poster_1263259: https://theposterdb.com/api/assets/628363 # Happy Gilmore
     url_poster_1241: https://theposterdb.com/api/assets/218038    # Harry Potter
     url_poster_8917: https://theposterdb.com/api/assets/402699    # Hellraiser
     url_poster_12087: https://theposterdb.com/api/assets/377653   # Herbie Collection
@@ -46,13 +49,15 @@ url_poster_mappings:
     url_poster_1022790: https://theposterdb.com/api/assets/532269 # Inside Out
     url_poster_131292: https://theposterdb.com/api/assets/517801  # Iron Man
     url_poster_477962: https://theposterdb.com/api/assets/19249   # IT
-    url_poster_404609: https://theposterdb.com/api/assets/352409  # John Wick
+    url_poster_404609: https://theposterdb.com/api/assets/15646   # John Wick
     url_poster_987044: https://theposterdb.com/api/assets/535281  # Joker
     url_poster_495527: https://theposterdb.com/api/assets/256609  # Jumanji
-    url_poster_328: https://theposterdb.com/api/assets/530809     # Jurassic Park
+    url_poster_328: https://theposterdb.com/api/assets/158968     # Jurassic Park
+    url_poster_2883: https://theposterdb.com/api/assets/63400     # Kill Bill
     url_poster_77816: https://theposterdb.com/api/assets/531068   # Kung Fu Panda
     url_poster_119: https://theposterdb.com/api/assets/33509      # Lord of the Rings
     url_poster_14740: https://theposterdb.com/api/assets/531284   # Madagascar
+    url_poster_209131: https://theposterdb.com/api/assets/517110  # Man of Steel
     url_poster_87359: https://theposterdb.com/api/assets/608242   # Mission: Impossible
     url_poster_1239518: https://theposterdb.com/api/assets/531609 # Megamind
     url_poster_1071588: https://theposterdb.com/api/assets/590836 # M3gan
@@ -65,7 +70,9 @@ url_poster_mappings:
     url_poster_94602: https://theposterdb.com/api/assets/531051   # Puss in Boots
     url_poster_210303: https://theposterdb.com/api/assets/168847  # Rebuild of Evangelion
     url_poster_86860: https://theposterdb.com/api/assets/5898     # Scooby-Doo
+    url_poster_427084: https://theposterdb.com/api/assets/516979  # Secret Life of Pets
     url_poster_2150: https://theposterdb.com/api/assets/531125    # Shrek
+    url_poster_544670: https://theposterdb.com/api/assets/531409  # Sing
     url_poster_556: https://theposterdb.com/api/assets/518384     # Spider-Man (Original)
     url_poster_125574: https://theposterdb.com/api/assets/518352  # Spider-Man (Amazing)
     url_poster_531241: https://theposterdb.com/api/assets/517885  # Spider-Man Marvel
