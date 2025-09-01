@@ -1568,6 +1568,21 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/146515
+  361835:
+    label_title: "Marvel's Hit-Monkey"
+    sort_title: Hit-Monkey
+    release_year: '2021'
+    url_poster: https://theposterdb.com/api/assets/519434
+    tpdb_search: "https://theposterdb.com/search?term=Marvel's+Hit-Monkey&section=shows"
+    studio: Marvel Studios
+    genre.sync:
+      - Animation
+      - Superhero
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/519435
+      2:
+        url_poster: https://theposterdb.com/api/assets/519436
   371572:
     label_title: House of the Dragon
     sort_title: House of the Dragon
@@ -2456,6 +2471,19 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/463777
       2:
         url_poster: https://theposterdb.com/api/assets/463778
+  361834:
+    label_title: "Marvel's M.O.D.O.K."
+    sort_title: M.O.D.O.K.
+    release_year: '2021'
+    url_poster: https://theposterdb.com/api/assets/519439
+    tpdb_search: "https://theposterdb.com/search?term=Marvel's+M.O.D.O.K.&section=shows"
+    studio: Marvel Studios
+    genre.sync:
+      - Animation
+      - Superhero
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/519440
   326109:
     label_title: Made in Abyss
     sort_title: Made in Abyss
@@ -2525,34 +2553,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/464792
       3:
         url_poster: https://theposterdb.com/api/assets/464793
-  361835:
-    label_title: "Marvel's Hit-Monkey"
-    sort_title: Hit-Monkey
-    release_year: '2021'
-    url_poster: https://theposterdb.com/api/assets/519434
-    tpdb_search: "https://theposterdb.com/search?term=Marvel's+Hit-Monkey&section=shows"
-    studio: Marvel Studios
-    genre.sync:
-      - Animation
-      - Superhero
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/519435
-      2:
-        url_poster: https://theposterdb.com/api/assets/519436
-  361834:
-    label_title: "Marvel's M.O.D.O.K."
-    sort_title: M.O.D.O.K.
-    release_year: '2021'
-    url_poster: https://theposterdb.com/api/assets/519439
-    tpdb_search: "https://theposterdb.com/search?term=Marvel's+M.O.D.O.K.&section=shows"
-    studio: Marvel Studios
-    genre.sync:
-      - Animation
-      - Superhero
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/519440
   82207:
     label_title: The Marvelous Misadventures of Flapjack
     sort_title: Marvelous Misadventures of Flapjack
