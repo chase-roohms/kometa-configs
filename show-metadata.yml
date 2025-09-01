@@ -2524,6 +2524,20 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/464792
       3:
         url_poster: https://theposterdb.com/api/assets/464793
+  361835:
+    label_title: "Marvel's Hit-Monkey"
+    sort_title: "Marvel's Hit-Monkey"
+    release_year: '2021'
+    url_poster: https://theposterdb.com/api/assets/519434
+    tpdb_search: "https://theposterdb.com/search?term=Marvel's+Hit-Monkey&section=shows"
+    studio: Marvel Studios
+    genre.sync:
+      - Superhero
+    seasons:
+      1:
+        url_poster: ''
+      2:
+        url_poster: ''
   361834:
     label_title: "Marvel's M.O.D.O.K."
     sort_title: "Marvel's M.O.D.O.K."
