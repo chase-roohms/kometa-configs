@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/kometa-team/kometa/nightly/json-schema/config-schema.json
 
 url_poster_mappings:
-  franchise_posters: &franchise_posters
+  franchise_movie_posters: &franchise_movie_posters
     url_poster_1565: https://theposterdb.com/api/assets/617779    # 28 Days/Weeks Later
     url_poster_125570: https://theposterdb.com/api/assets/5575    # 300
     url_poster_870339: https://theposterdb.com/api/assets/592034  # The Accountant
@@ -33,9 +33,8 @@ url_poster_mappings:
     url_poster_618529: https://theposterdb.com/api/assets/517911  # Doctor Strange
     url_poster_178106: https://theposterdb.com/api/assets/128286  # Donnie Darko
     url_poster_748919: https://theposterdb.com/api/assets/168637  # Don't Breathe
-    url_poster_1471785:   # Dosed
+    url_poster_1471785: https://theposterdb.com/api/assets/639434 # Dosed
     url_poster_726871: https://theposterdb.com/api/assets/478768  # Dune
-    url_poster_1438141: https://theposterdb.com/api/assets/10346  # Eastrail 177 (Unbreakable)
     url_poster_523855: https://theposterdb.com/api/assets/131877  # Equalizer
     url_poster_435259: https://theposterdb.com/api/assets/217952  # Fantastic Beasts
     url_poster_9744: https://theposterdb.com/api/assets/518607    # Fantastic Four
@@ -125,10 +124,13 @@ url_poster_mappings:
     url_poster_476065: https://theposterdb.com/api/assets/639081  # What The Bleep Do We Know!?
     url_poster_453993: https://theposterdb.com/api/assets/518320  # The Wolverine
     url_poster_468552: https://theposterdb.com/api/assets/517277  # Wonder Woman
-    url_poster_1399: https://theposterdb.com/api/assets/269678    # World of Ice and Fire (GoT)
     url_poster_950289: https://theposterdb.com/api/assets/541906  # X Collection
     url_poster_748: https://theposterdb.com/api/assets/518265     # X-Men
+  franchise_show_posters: &franchise_show_posters
+    url_poster_1399: https://theposterdb.com/api/assets/269678    # World of Ice and Fire (GoT)
     url_poster_73586: https://theposterdb.com/api/assets/409022   # Yellowstone
+  franchise_posters: &franchise_posters
+    <<: [*franchise_show_posters, *franchise_movie_posters]
   genre_posters: &genre_posters
     url_poster_Action: https://theposterdb.com/api/assets/631161
     url_poster_Animation: https://theposterdb.com/api/assets/631179
@@ -269,7 +271,7 @@ shared_collection_files:
     - middle       # Middle Earth, just don't want it
     - monster      # Monsterverse, just don't want it
     - wizard       # Wizarding World of Harry Potter, just don't want it
-    - fast         # Fast & Furious, taken care of in franchises
+    - fast         # Fast & Furious, handled during franchises
     collection_order: release
     <<: *universe_posters
 
