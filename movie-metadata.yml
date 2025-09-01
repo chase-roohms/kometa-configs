@@ -4815,7 +4815,7 @@ metadata:
     label_title: Rise of the Planet of the Apes
     sort_title: Planet of the Apes 1
     release_year: '2011'
-    url_poster: https://theposterdb.com/api/assets/138600
+    url_poster: https://theposterdb.com/api/assets/214944
     tpdb_search: https://theposterdb.com/search?term=Rise+of+the+Planet+of+the+Apes&section=movies
     genre.sync:
       - Action
@@ -4824,7 +4824,7 @@ metadata:
     label_title: Dawn of the Planet of the Apes
     sort_title: Planet of the Apes 2
     release_year: '2014'
-    url_poster: https://theposterdb.com/api/assets/138601
+    url_poster: https://theposterdb.com/api/assets/214945
     tpdb_search: https://theposterdb.com/search?term=Dawn+of+the+Planet+of+the+Apes&section=movies
     genre.sync:
       - Action
@@ -4833,7 +4833,7 @@ metadata:
     label_title: War for the Planet of the Apes
     sort_title: Planet of the Apes 3
     release_year: '2017'
-    url_poster: https://theposterdb.com/api/assets/138602
+    url_poster: https://theposterdb.com/api/assets/214946
     tpdb_search: https://theposterdb.com/search?term=War+for+the+Planet+of+the+Apes&section=movies
     genre.sync:
       - Action
@@ -4842,7 +4842,7 @@ metadata:
     label_title: Kingdom of the Planet of the Apes
     sort_title: Planet of the Apes 4
     release_year: '2024'
-    url_poster: https://theposterdb.com/api/assets/483882
+    url_poster: https://theposterdb.com/api/assets/494476
     tpdb_search: https://theposterdb.com/search?term=Kingdom+of+the+Planet+of+the+Apes&section=movies
     genre.sync:
       - Action
@@ -5944,7 +5944,7 @@ metadata:
     label_title: Sunshine
     sort_title: Sunshine
     release_year: '2007'
-    url_poster: https://theposterdb.com/api/assets/211559
+    url_poster: https://theposterdb.com/api/assets/20579
     tpdb_search: https://theposterdb.com/search?term=Sunshine&section=movies
     genre.sync:
       - Science Fiction
