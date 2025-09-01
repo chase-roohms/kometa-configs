@@ -1469,9 +1469,9 @@ metadata:
       - Superhero
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/519412
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/519413
   447905:
     label_title: Good American Family
     sort_title: Good American Family
@@ -1615,6 +1615,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=I+Am+Groot&section=shows
     studio: Marvel Studios
     genre.sync:
+      - Animation
       - Superhero
     seasons:
       1:
@@ -2526,30 +2527,32 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/464793
   361835:
     label_title: "Marvel's Hit-Monkey"
-    sort_title: "Marvel's Hit-Monkey"
+    sort_title: Hit-Monkey
     release_year: '2021'
     url_poster: https://theposterdb.com/api/assets/519434
     tpdb_search: "https://theposterdb.com/search?term=Marvel's+Hit-Monkey&section=shows"
     studio: Marvel Studios
     genre.sync:
+      - Animation
       - Superhero
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/519435
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/519436
   361834:
     label_title: "Marvel's M.O.D.O.K."
-    sort_title: "Marvel's M.O.D.O.K."
+    sort_title: M.O.D.O.K.
     release_year: '2021'
     url_poster: https://theposterdb.com/api/assets/519439
     tpdb_search: "https://theposterdb.com/search?term=Marvel's+M.O.D.O.K.&section=shows"
     studio: Marvel Studios
     genre.sync:
+      - Animation
       - Superhero
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/519440
   82207:
     label_title: The Marvelous Misadventures of Flapjack
     sort_title: Marvelous Misadventures of Flapjack
@@ -4359,6 +4362,19 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/276087
       3:
         url_poster: https://theposterdb.com/api/assets/567288
+  412432:
+    label_title: "X-Men '97"
+    sort_title: X-Men 97
+    release_year: '2024'
+    url_poster: https://theposterdb.com/api/assets/519284
+    tpdb_search: "https://theposterdb.com/search?term=X-Men+'97&section=shows"
+    studio: Marvel Studios
+    genre.sync:
+      - Animation
+      - Superhero
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/519285
   82834:
     label_title: "Xam'd: Lost Memories"
     sort_title: "Xam'd: Lost Memories"
