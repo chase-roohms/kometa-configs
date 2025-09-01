@@ -606,7 +606,7 @@ metadata:
     label_title: The Batman
     sort_title: Batman
     release_year: '2022'
-    url_poster: https://theposterdb.com/api/assets/185105
+    url_poster: https://theposterdb.com/api/assets/511487
     tpdb_search: https://theposterdb.com/search?term=The+Batman&section=movies
     genre.sync:
       - Superhero
@@ -614,7 +614,7 @@ metadata:
     label_title: Batman Begins
     sort_title: Batman 1
     release_year: '2005'
-    url_poster: https://theposterdb.com/api/assets/4791
+    url_poster: https://theposterdb.com/api/assets/516816
     tpdb_search: https://theposterdb.com/search?term=Batman+Begins&section=movies
     genre.sync:
       - Superhero
@@ -622,7 +622,7 @@ metadata:
     label_title: The Dark Knight
     sort_title: Batman 2
     release_year: '2008'
-    url_poster: https://theposterdb.com/api/assets/4792
+    url_poster: https://theposterdb.com/api/assets/516815
     tpdb_search: https://theposterdb.com/search?term=The+Dark+Knight&section=movies
     genre.sync:
       - Superhero
@@ -630,7 +630,7 @@ metadata:
     label_title: The Dark Knight Rises
     sort_title: Batman 3
     release_year: '2012'
-    url_poster: https://theposterdb.com/api/assets/4793
+    url_poster: https://theposterdb.com/api/assets/516814
     tpdb_search: https://theposterdb.com/search?term=The+Dark+Knight+Rises&section=movies
     genre.sync:
       - Superhero
@@ -3268,7 +3268,7 @@ metadata:
     label_title: Joker
     sort_title: Joker 1
     release_year: '2019'
-    url_poster: https://theposterdb.com/api/assets/535283
+    url_poster: https://theposterdb.com/api/assets/517586
     tpdb_search: https://theposterdb.com/search?term=Joker&section=movies
     genre.sync:
       - Superhero
@@ -3276,7 +3276,7 @@ metadata:
     label_title: Joker Folie à Deux
     sort_title: Joker 2
     release_year: '2024'
-    url_poster: https://theposterdb.com/api/assets/535282
+    url_poster: https://theposterdb.com/api/assets/517586
     tpdb_search: https://theposterdb.com/search?term=Joker+Folie+à+Deux&section=movies
     genre.sync:
       - Superhero
