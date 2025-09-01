@@ -294,9 +294,9 @@ operations: &operation_settings
     configured: false
 
 playlist_files:
-- repo: playlists/shared
+#- repo: playlists/shared
+#- repo: playlists/movies
 - repo: playlists/shows
-- repo: playlists/movies
 - default: playlist
   template_variables:
     libraries:
@@ -312,7 +312,7 @@ libraries:
     - repo: movie-metadata
     collection_files:
     #- repo: collections/movies
-    - repo: collections/shared
+    #- repo: collections/shared
     #- *streaming_collection
     - *tautulli_collection
     - *genre_collection
@@ -329,7 +329,7 @@ libraries:
     - repo: show-metadata
     collection_files:
     #- repo: collections/shows
-    - repo: collections/shared
+    #- repo: collections/shared
     #- *streaming_collection
     - *tautulli_collection
     - *genre_collection
