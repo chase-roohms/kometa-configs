@@ -2782,32 +2782,36 @@ metadata:
     label_title: Hotel Transylvania
     sort_title: Hotel Transylvania 1
     release_year: '2012'
-    url_poster: https://theposterdb.com/api/assets/246969
+    url_poster: https://theposterdb.com/api/assets/639010
     tpdb_search: https://theposterdb.com/search?term=Hotel+Transylvania&section=movies
+    studio: Sony Pictures Animation
     genre.sync:
       - Animation
   159824:
     label_title: Hotel Transylvania 2
     sort_title: Hotel Transylvania 2
     release_year: '2015'
-    url_poster: https://theposterdb.com/api/assets/246973
+    url_poster: https://theposterdb.com/api/assets/639009
     tpdb_search: https://theposterdb.com/search?term=Hotel+Transylvania+2&section=movies
+    studio: Sony Pictures Animation
     genre.sync:
       - Animation
   400155:
     label_title: 'Hotel Transylvania 3: Summer Vacation'
     sort_title: Hotel Transylvania 3
     release_year: '2018'
-    url_poster: https://theposterdb.com/api/assets/246982
+    url_poster: https://theposterdb.com/api/assets/639008
     tpdb_search: https://theposterdb.com/search?term=Hotel+Transylvania+3:+Summer+Vacation&section=movies
+    studio: Sony Pictures Animation
     genre.sync:
       - Animation
   585083:
     label_title: 'Hotel Transylvania: Transformania'
     sort_title: Hotel Transylvania 4
     release_year: '2022'
-    url_poster: https://theposterdb.com/api/assets/246991
+    url_poster: https://theposterdb.com/api/assets/639007
     tpdb_search: https://theposterdb.com/search?term=Hotel+Transylvania:+Transformania&section=movies
+    studio: Sony Pictures Animation
     genre.sync:
       - Animation
   10191:
