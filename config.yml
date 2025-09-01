@@ -9,9 +9,11 @@ url_poster_mappings:
     url_poster_531566: https://theposterdb.com/api/assets/587900  # Along with the Gods
     url_poster_531315: https://theposterdb.com/api/assets/23354   # Angry Birds
     url_poster_422834: https://theposterdb.com/api/assets/517998  # Ant-Man
+    url_poster_573693: https://theposterdb.com/api/assets/517137  # Aquaman
     url_poster_86311: https://theposterdb.com/api/assets/517841   # Avengers
     url_poster_264: https://theposterdb.com/api/assets/87588      # Back to the Future
     url_poster_1231053: https://theposterdb.com/api/assets/531622 # The Bad Guys
+    url_poster_948485: https://theposterdb.com/api/assets/511486  # The Batman
     url_poster_118415: https://theposterdb.com/api/assets/182149  # Berzerk Golden Age Arc
     url_poster_529892: https://theposterdb.com/api/assets/518102  # Black Panther
     url_poster_422837: https://theposterdb.com/api/assets/22405   # Blade Runner
@@ -21,6 +23,7 @@ url_poster_mappings:
     url_poster_623911: https://theposterdb.com/api/assets/518088  # Captain Marvel
     url_poster_87118: https://theposterdb.com/api/assets/532265   # Cars
     url_poster_464577: https://theposterdb.com/api/assets/531083  # The Croods
+    url_poster_263: https://theposterdb.com/api/assets/516813     # The Dark Knight Trilogy
     url_poster_448150: https://theposterdb.com/api/assets/518046  # Deadpool
     url_poster_86066: https://theposterdb.com/api/assets/531340   # Despicable Me
     url_poster_618529: https://theposterdb.com/api/assets/517911  # Doctor Strange
@@ -71,6 +74,7 @@ url_poster_mappings:
     url_poster_210303: https://theposterdb.com/api/assets/168847  # Rebuild of Evangelion
     url_poster_86860: https://theposterdb.com/api/assets/5898     # Scooby-Doo
     url_poster_427084: https://theposterdb.com/api/assets/516979  # Secret Life of Pets
+    url_poster_724848: https://theposterdb.com/api/assets/517272  # Shazam
     url_poster_2150: https://theposterdb.com/api/assets/531125    # Shrek
     url_poster_544670: https://theposterdb.com/api/assets/531409  # Sing
     url_poster_556: https://theposterdb.com/api/assets/518384     # Spider-Man (Original)
@@ -86,6 +90,7 @@ url_poster_mappings:
     url_poster_63043: https://theposterdb.com/api/assets/6984     # Tron
     url_poster_558216: https://theposterdb.com/api/assets/517924  # Venom
     url_poster_453993: https://theposterdb.com/api/assets/518320  # The Wolverine
+    url_poster_468552: https://theposterdb.com/api/assets/517277  # Wonder Woman
     url_poster_1399: https://theposterdb.com/api/assets/269678    # World of Ice and Fire (GoT)
     url_poster_748: https://theposterdb.com/api/assets/518265     # X-Men
     url_poster_73586: https://theposterdb.com/api/assets/409022   # Yellowstone
