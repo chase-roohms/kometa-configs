@@ -3,7 +3,7 @@
 url_poster_mappings:
   franchise_posters: &franchise_posters
     url_poster_1565: https://theposterdb.com/api/assets/629678    # 28 Days/Weeks Later
-    url_poster_125570: https://theposterdb.com/api/assets/51721   # 300
+    url_poster_125570: https://theposterdb.com/api/assets/5575    # 300
     url_poster_702624: https://theposterdb.com/api/assets/178591  # After
     url_poster_8091: https://theposterdb.com/api/assets/1213      # Alien
     url_poster_531566: https://theposterdb.com/api/assets/587900  # Along with the Gods
@@ -75,6 +75,7 @@ url_poster_mappings:
     url_poster_179919: https://theposterdb.com/api/assets/52875   # Percy Jackson
     url_poster_295: https://theposterdb.com/api/assets/71934      # Pirates of the Caribbean
     url_poster_173710: https://theposterdb.com/api/assets/138599  # Planet of the Apes
+    url_poster_1126392: https://theposterdb.com/api/assets/530963 # The Platform
     url_poster_399: https://theposterdb.com/api/assets/243        # Predator
     url_poster_94602: https://theposterdb.com/api/assets/531051   # Puss in Boots
     url_poster_521226: https://theposterdb.com/api/assets/511153  # A Quiet Place
