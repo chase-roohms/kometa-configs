@@ -35,9 +35,10 @@ url_poster_mappings:
     url_poster_726871: https://theposterdb.com/api/assets/478768  # Dune
     url_poster_1438141: https://theposterdb.com/api/assets/10346  # Eastrail 177 (Unbreakable)
     url_poster_523855: https://theposterdb.com/api/assets/131877  # Equalizer
-    url_poster_284433: https://theposterdb.com/api/assets/518128  # Guardians of the Galaxy
+    url_poster_1069584: https://theposterdb.com/api/assets/535427 # Gladiator
     url_poster_230: https://theposterdb.com/api/assets/8934       # Godfather
     url_poster_535313: https://theposterdb.com/api/assets/5962    # Godzilla
+    url_poster_284433: https://theposterdb.com/api/assets/518128  # Guardians of the Galaxy
     url_poster_435259: https://theposterdb.com/api/assets/217952  # Fantastic Beasts
     url_poster_9744: https://theposterdb.com/api/assets/518607    # Fantastic Four
     url_poster_9485: https://theposterdb.com/api/assets/166162    # Fast & Furious
@@ -76,7 +77,7 @@ url_poster_mappings:
     url_poster_41437: https://theposterdb.com/api/assets/565383   # Paranormal Activity
     url_poster_179919: https://theposterdb.com/api/assets/52875   # Percy Jackson
     url_poster_295: https://theposterdb.com/api/assets/71934      # Pirates of the Caribbean
-    url_poster_173710: https://theposterdb.com/api/assets/138599  # Planet of the Apes
+    url_poster_173710: https://theposterdb.com/api/assets/214943  # Planet of the Apes
     url_poster_1126392: https://theposterdb.com/api/assets/530963 # The Platform
     url_poster_399: https://theposterdb.com/api/assets/243        # Predator
     url_poster_94602: https://theposterdb.com/api/assets/531051   # Puss in Boots
