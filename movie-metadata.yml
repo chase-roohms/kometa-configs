@@ -1994,7 +1994,7 @@ metadata:
     label_title: Final Destination
     sort_title: Final Destination 1
     release_year: '2000'
-    url_poster: https://theposterdb.com/api/assets/568759
+    url_poster: https://theposterdb.com/api/assets/883
     tpdb_search: https://theposterdb.com/search?term=Final+Destination&section=movies
     genre.sync:
       - Horror
@@ -2003,7 +2003,7 @@ metadata:
     label_title: Final Destination 2
     sort_title: Final Destination 2
     release_year: '2003'
-    url_poster: https://theposterdb.com/api/assets/568758
+    url_poster: https://theposterdb.com/api/assets/886
     tpdb_search: https://theposterdb.com/search?term=Final+Destination+2&section=movies
     genre.sync:
       - Horror
@@ -2012,7 +2012,7 @@ metadata:
     label_title: Final Destination 3
     sort_title: Final Destination 3
     release_year: '2006'
-    url_poster: https://theposterdb.com/api/assets/568757
+    url_poster: https://theposterdb.com/api/assets/888
     tpdb_search: https://theposterdb.com/search?term=Final+Destination+3&section=movies
     genre.sync:
       - Horror
@@ -2021,7 +2021,7 @@ metadata:
     label_title: The Final Destination
     sort_title: Final Destination 4
     release_year: '2009'
-    url_poster: https://theposterdb.com/api/assets/568756
+    url_poster: https://theposterdb.com/api/assets/617092
     tpdb_search: https://theposterdb.com/search?term=The+Final+Destination&section=movies
     genre.sync:
       - Horror
@@ -2030,7 +2030,7 @@ metadata:
     label_title: Final Destination 5
     sort_title: Final Destination 5
     release_year: '2011'
-    url_poster: https://theposterdb.com/api/assets/568755
+    url_poster: https://theposterdb.com/api/assets/891
     tpdb_search: https://theposterdb.com/search?term=Final+Destination+5&section=movies
     genre.sync:
       - Horror
@@ -2039,7 +2039,7 @@ metadata:
     label_title: Final Destination Bloodlines
     sort_title: Final Destination 6
     release_year: '2025'
-    url_poster: https://theposterdb.com/api/assets/568754
+    url_poster: https://theposterdb.com/api/assets/617091
     tpdb_search: https://theposterdb.com/search?term=Final+Destination+Bloodlines&section=movies
     genre.sync:
       - Horror
