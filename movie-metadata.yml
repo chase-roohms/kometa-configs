@@ -6612,7 +6612,7 @@ metadata:
     label_title: 'What the #$*! Do We (K)now!?'
     sort_title: What the Bleep 1
     release_year: '2004'
-    url_poster: https://theposterdb.com/api/assets/638393
+    url_poster: https://theposterdb.com/api/assets/639083
     tpdb_search: https://theposterdb.com/search?term=What+the+#$*!+Do+We+(K)now!?&section=movies
     genre.sync:
       - Documentary
@@ -6620,7 +6620,7 @@ metadata:
     label_title: What the Bleep! Down the Rabbit Hole
     sort_title: What the Bleep 2
     release_year: '2006'
-    url_poster: https://theposterdb.com/api/assets/638394
+    url_poster: https://theposterdb.com/api/assets/639082
     tpdb_search: https://theposterdb.com/search?term=What+the+Bleep!+Down+the+Rabbit+Hole&section=movies
     genre.sync:
       - Documentary
