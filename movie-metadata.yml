@@ -410,7 +410,7 @@ metadata:
     label_title: Aquaman
     sort_title: Aquaman 1
     release_year: '2018'
-    url_poster: https://theposterdb.com/api/assets/40934
+    url_poster: https://theposterdb.com/api/assets/517136
     tpdb_search: https://theposterdb.com/search?term=Aquaman&section=movies
     genre.sync:
       - Superhero
@@ -418,7 +418,7 @@ metadata:
     label_title: Aquaman and the Lost Kingdom
     sort_title: Aquaman 2
     release_year: '2023'
-    url_poster: https://theposterdb.com/api/assets/453625
+    url_poster: https://theposterdb.com/api/assets/517135
     tpdb_search: https://theposterdb.com/search?term=Aquaman+and+the+Lost+Kingdom&section=movies
     genre.sync:
       - Superhero
@@ -646,7 +646,7 @@ metadata:
     label_title: Batman v Superman Dawn of Justice
     sort_title: Batman v Superman Dawn of Justice
     release_year: '2016'
-    url_poster: https://theposterdb.com/api/assets/40930
+    url_poster: https://theposterdb.com/api/assets/517108
     tpdb_search: https://theposterdb.com/search?term=Batman+v+Superman+Dawn+of+Justice&section=movies
     genre.sync:
       - Superhero
@@ -746,7 +746,7 @@ metadata:
     label_title: Birds of Prey and the Fantabulous Emancipation of One Harley Quinn
     sort_title: Birds of Prey and the Fantabulous Emancipation of One Harley Quinn
     release_year: '2020'
-    url_poster: https://theposterdb.com/api/assets/72575
+    url_poster: https://theposterdb.com/api/assets/517287
     tpdb_search: https://theposterdb.com/search?term=Birds+of+Prey+and+the+Fantabulous+Emancipation+of+One+Harley+Quinn&section=movies
     genre.sync:
       - Superhero
@@ -754,7 +754,7 @@ metadata:
     label_title: Black Adam
     sort_title: Black Adam
     release_year: '2022'
-    url_poster: https://theposterdb.com/api/assets/348372
+    url_poster: https://theposterdb.com/api/assets/517140
     tpdb_search: https://theposterdb.com/search?term=Black+Adam&section=movies
     genre.sync:
       - Superhero
@@ -893,7 +893,7 @@ metadata:
     label_title: Blue Beetle
     sort_title: Blue Beetle
     release_year: '2023'
-    url_poster: https://theposterdb.com/api/assets/427022
+    url_poster: https://theposterdb.com/api/assets/517288
     tpdb_search: https://theposterdb.com/search?term=Blue+Beetle&section=movies
     genre.sync:
       - Superhero
@@ -2075,7 +2075,7 @@ metadata:
     label_title: The Flash
     sort_title: Flash
     release_year: '2023'
-    url_poster: https://theposterdb.com/api/assets/427021
+    url_poster: https://theposterdb.com/api/assets/517149
     tpdb_search: https://theposterdb.com/search?term=The+Flash&section=movies
     genre.sync:
       - Superhero
@@ -3397,7 +3397,7 @@ metadata:
     label_title: Justice League
     sort_title: Justice League
     release_year: '2017'
-    url_poster: https://theposterdb.com/api/assets/40933
+    url_poster: https://theposterdb.com/api/assets/517279
     tpdb_search: https://theposterdb.com/search?term=Justice+League&section=movies
     genre.sync:
       - Superhero
@@ -3872,7 +3872,7 @@ metadata:
     label_title: Man of Steel
     sort_title: Man of Steel
     release_year: '2013'
-    url_poster: https://theposterdb.com/api/assets/40929
+    url_poster: https://theposterdb.com/api/assets/517109
     tpdb_search: https://theposterdb.com/search?term=Man+of+Steel&section=movies
     genre.sync:
       - Superhero
@@ -5306,7 +5306,7 @@ metadata:
     label_title: Shazam!
     sort_title: Shazam 1
     release_year: '2019'
-    url_poster: https://theposterdb.com/api/assets/40935
+    url_poster: https://theposterdb.com/api/assets/517271
     tpdb_search: https://theposterdb.com/search?term=Shazam!&section=movies
     genre.sync:
       - Superhero
@@ -5314,7 +5314,7 @@ metadata:
     label_title: Shazam! Fury of the Gods
     sort_title: Shazam 2
     release_year: '2023'
-    url_poster: https://theposterdb.com/api/assets/348385
+    url_poster: https://theposterdb.com/api/assets/517270
     tpdb_search: https://theposterdb.com/search?term=Shazam!+Fury+of+the+Gods&section=movies
     genre.sync:
       - Superhero
@@ -5928,7 +5928,7 @@ metadata:
     label_title: Suicide Squad
     sort_title: Suicide Squad 1
     release_year: '2016'
-    url_poster: https://theposterdb.com/api/assets/40931
+    url_poster: https://theposterdb.com/api/assets/517281
     tpdb_search: https://theposterdb.com/search?term=Suicide+Squad&section=movies
     genre.sync:
       - Superhero
@@ -5936,7 +5936,7 @@ metadata:
     label_title: The Suicide Squad
     sort_title: Suicide Squad 2
     release_year: '2021'
-    url_poster: https://theposterdb.com/api/assets/167990
+    url_poster: https://theposterdb.com/api/assets/517280
     tpdb_search: https://theposterdb.com/search?term=The+Suicide+Squad&section=movies
     genre.sync:
       - Superhero
@@ -6731,7 +6731,7 @@ metadata:
     label_title: Wonder Woman
     sort_title: Wonder Woman 1
     release_year: '2017'
-    url_poster: https://theposterdb.com/api/assets/40932
+    url_poster: https://theposterdb.com/api/assets/517276
     tpdb_search: https://theposterdb.com/search?term=Wonder+Woman&section=movies
     genre.sync:
       - Superhero
@@ -6739,7 +6739,7 @@ metadata:
     label_title: Wonder Woman 1984
     sort_title: Wonder Woman 2
     release_year: '2020'
-    url_poster: https://theposterdb.com/api/assets/167987
+    url_poster: https://theposterdb.com/api/assets/517275
     tpdb_search: https://theposterdb.com/search?term=Wonder+Woman+1984&section=movies
     genre.sync:
       - Superhero
@@ -6844,7 +6844,7 @@ metadata:
     label_title: Zack Snyders Justice League
     sort_title: Zack Snyders Justice League
     release_year: '2021'
-    url_poster: https://theposterdb.com/api/assets/139179
+    url_poster: https://theposterdb.com/api/assets/517278
     tpdb_search: https://theposterdb.com/search?term=Zack+Snyders+Justice+League&section=movies
     genre.sync:
       - Superhero
