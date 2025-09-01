@@ -2524,6 +2524,18 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/464792
       3:
         url_poster: https://theposterdb.com/api/assets/464793
+  361834:
+    label_title: "Marvel's M.O.D.O.K."
+    sort_title: "Marvel's M.O.D.O.K."
+    release_year: '2021'
+    url_poster: https://theposterdb.com/api/assets/519439
+    tpdb_search: "https://theposterdb.com/search?term=Marvel's+M.O.D.O.K.&section=shows"
+    studio: Marvel Studios
+    genre.sync:
+      - Superhero
+    seasons:
+      1:
+        url_poster: ''
   82207:
     label_title: The Marvelous Misadventures of Flapjack
     sort_title: Marvelous Misadventures of Flapjack
