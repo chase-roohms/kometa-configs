@@ -4052,7 +4052,7 @@ metadata:
     label_title: M3gan
     sort_title: Megan 1
     release_year: '2022'
-    url_poster: https://theposterdb.com/api/assets/590838
+    url_poster: https://theposterdb.com/api/assets/625657
     tpdb_search: https://theposterdb.com/search?term=M3gan&section=movies
     genre.sync:
       - Horror
@@ -4060,7 +4060,7 @@ metadata:
     label_title: M3gan 2.0
     sort_title: Megan 2
     release_year: '2025'
-    url_poster: https://theposterdb.com/api/assets/590837
+    url_poster: https://theposterdb.com/api/assets/625656
     tpdb_search: https://theposterdb.com/search?term=M3gan+2.0&section=movies
     genre.sync:
       - Horror
