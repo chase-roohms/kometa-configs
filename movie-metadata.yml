@@ -4633,6 +4633,14 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Paranormal+Activity+2&section=movies
     genre.sync:
       - Horror
+  59429:
+    label_title: Paranormal Activity Tokyo Night
+    sort_title: Paranormal Activity 3
+    release_year: '2010'
+    url_poster: https://theposterdb.com/api/assets/639476
+    tpdb_search: https://theposterdb.com/search?term=Paranormal+Activity+Tokyo+Night&section=movies
+    genre.sync:
+      - Horror
   72571:
     label_title: Paranormal Activity 3
     sort_title: Paranormal Activity 4
@@ -4671,14 +4679,6 @@ metadata:
     release_year: '2021'
     url_poster: https://theposterdb.com/api/assets/639471
     tpdb_search: https://theposterdb.com/search?term=Paranormal+Activity+Next+of+Kin&section=movies
-    genre.sync:
-      - Horror
-  59429:
-    label_title: Paranormal Activity Tokyo Night
-    sort_title: Paranormal Activity 3
-    release_year: '2010'
-    url_poster: https://theposterdb.com/api/assets/639476
-    tpdb_search: https://theposterdb.com/search?term=Paranormal+Activity+Tokyo+Night&section=movies
     genre.sync:
       - Horror
   496243:
@@ -4757,6 +4757,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Pinched&section=movies
     genre.sync:
       - Thriller
+  12104:
+    label_title: 'Pink Floyd: The Wall'
+    sort_title: 'Pink Floyd: The Wall'
+    release_year: '1982'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Pink+Floyd:+The+Wall&section=movies
+    genre.sync:
+      - Drama
+      - Music
   22:
     label_title: Pirates of the Caribbean The Curse of the Black Pearl
     sort_title: Pirates of the Caribbean 1
