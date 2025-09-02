@@ -4621,7 +4621,7 @@ metadata:
     label_title: Paranormal Activity
     sort_title: Paranormal Activity 1
     release_year: '2007'
-    url_poster: https://theposterdb.com/api/assets/565391
+    url_poster: https://theposterdb.com/api/assets/639478
     tpdb_search: https://theposterdb.com/search?term=Paranormal+Activity&section=movies
     genre.sync:
       - Horror
@@ -4629,55 +4629,55 @@ metadata:
     label_title: Paranormal Activity 2
     sort_title: Paranormal Activity 2
     release_year: '2010'
-    url_poster: https://theposterdb.com/api/assets/565390
+    url_poster: https://theposterdb.com/api/assets/639477
     tpdb_search: https://theposterdb.com/search?term=Paranormal+Activity+2&section=movies
     genre.sync:
       - Horror
   72571:
     label_title: Paranormal Activity 3
-    sort_title: Paranormal Activity 3
+    sort_title: Paranormal Activity 4
     release_year: '2011'
-    url_poster: https://theposterdb.com/api/assets/565388
+    url_poster: https://theposterdb.com/api/assets/639475
     tpdb_search: https://theposterdb.com/search?term=Paranormal+Activity+3&section=movies
     genre.sync:
       - Horror
   82990:
     label_title: Paranormal Activity 4
-    sort_title: Paranormal Activity 4
+    sort_title: Paranormal Activity 5
     release_year: '2012'
-    url_poster: https://theposterdb.com/api/assets/565387
+    url_poster: https://theposterdb.com/api/assets/639474
     tpdb_search: https://theposterdb.com/search?term=Paranormal+Activity+4&section=movies
     genre.sync:
       - Horror
   227348:
     label_title: Paranormal Activity The Marked Ones
-    sort_title: Paranormal Activity 5
+    sort_title: Paranormal Activity 6
     release_year: '2014'
-    url_poster: https://theposterdb.com/api/assets/565386
+    url_poster: https://theposterdb.com/api/assets/639473
     tpdb_search: https://theposterdb.com/search?term=Paranormal+Activity+The+Marked+Ones&section=movies
     genre.sync:
       - Horror
   146301:
     label_title: Paranormal Activity The Ghost Dimension
-    sort_title: Paranormal Activity 6
+    sort_title: Paranormal Activity 7
     release_year: '2015'
-    url_poster: https://theposterdb.com/api/assets/565385
+    url_poster: https://theposterdb.com/api/assets/639472
     tpdb_search: https://theposterdb.com/search?term=Paranormal+Activity+The+Ghost+Dimension&section=movies
     genre.sync:
       - Horror
   609972:
     label_title: Paranormal Activity Next of Kin
-    sort_title: Paranormal Activity 7
+    sort_title: Paranormal Activity 8
     release_year: '2021'
-    url_poster: https://theposterdb.com/api/assets/565384
+    url_poster: https://theposterdb.com/api/assets/639471
     tpdb_search: https://theposterdb.com/search?term=Paranormal+Activity+Next+of+Kin&section=movies
     genre.sync:
       - Horror
   59429:
     label_title: Paranormal Activity Tokyo Night
-    sort_title: Paranormal Activity Tokyo Night
+    sort_title: Paranormal Activity 3
     release_year: '2010'
-    url_poster: https://theposterdb.com/api/assets/565389
+    url_poster: https://theposterdb.com/api/assets/639476
     tpdb_search: https://theposterdb.com/search?term=Paranormal+Activity+Tokyo+Night&section=movies
     genre.sync:
       - Horror
