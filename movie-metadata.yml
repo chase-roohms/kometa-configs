@@ -2683,7 +2683,7 @@ metadata:
     label_title: The Hobbit An Unexpected Journey
     sort_title: Hobbit 1
     release_year: '2012'
-    url_poster: https://theposterdb.com/api/assets/1723
+    url_poster: https://theposterdb.com/api/assets/529388
     tpdb_search: https://theposterdb.com/search?term=The+Hobbit+An+Unexpected+Journey&section=movies
     genre.sync:
       - Fantasy
@@ -2691,7 +2691,7 @@ metadata:
     label_title: The Hobbit The Desolation of Smaug
     sort_title: Hobbit 2
     release_year: '2013'
-    url_poster: https://theposterdb.com/api/assets/1724
+    url_poster: https://theposterdb.com/api/assets/529387
     tpdb_search: https://theposterdb.com/search?term=The+Hobbit+The+Desolation+of+Smaug&section=movies
     genre.sync:
       - Fantasy
@@ -2699,7 +2699,7 @@ metadata:
     label_title: The Hobbit The Battle of the Five Armies
     sort_title: Hobbit 3
     release_year: '2014'
-    url_poster: https://theposterdb.com/api/assets/1725
+    url_poster: https://theposterdb.com/api/assets/529386
     tpdb_search: https://theposterdb.com/search?term=The+Hobbit+The+Battle+of+the+Five+Armies&section=movies
     genre.sync:
       - Fantasy
@@ -3692,7 +3692,7 @@ metadata:
     label_title: The Lord of the Rings The Fellowship of the Ring
     sort_title: Lord of the Rings 1
     release_year: '2001'
-    url_poster: https://theposterdb.com/api/assets/1719
+    url_poster: https://theposterdb.com/api/assets/529391
     tpdb_search: https://theposterdb.com/search?term=The+Lord+of+the+Rings+The+Fellowship+of+the+Ring&section=movies
     genre.sync:
       - Fantasy
@@ -3700,7 +3700,7 @@ metadata:
     label_title: The Lord of the Rings The Two Towers
     sort_title: Lord of the Rings 2
     release_year: '2002'
-    url_poster: https://theposterdb.com/api/assets/1721
+    url_poster: https://theposterdb.com/api/assets/529390
     tpdb_search: https://theposterdb.com/search?term=The+Lord+of+the+Rings+The+Two+Towers&section=movies
     genre.sync:
       - Fantasy
@@ -3708,7 +3708,7 @@ metadata:
     label_title: The Lord of the Rings The Return of the King
     sort_title: Lord of the Rings 3
     release_year: '2003'
-    url_poster: https://theposterdb.com/api/assets/1722
+    url_poster: https://theposterdb.com/api/assets/529389
     tpdb_search: https://theposterdb.com/search?term=The+Lord+of+the+Rings+The+Return+of+the+King&section=movies
     genre.sync:
       - Fantasy
@@ -3716,7 +3716,7 @@ metadata:
     label_title: The Lord of the Rings The War of the Rohirrim
     sort_title: Lord of the Rings 4
     release_year: '2024'
-    url_poster: https://theposterdb.com/api/assets/574283
+    url_poster: https://theposterdb.com/api/assets/529451
     tpdb_search: https://theposterdb.com/search?term=The+Lord+of+the+Rings+The+War+of+the+Rohirrim&section=movies
     genre.sync:
       - Fantasy
