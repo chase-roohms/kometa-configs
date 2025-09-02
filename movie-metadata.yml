@@ -4378,12 +4378,11 @@ metadata:
     label_title: The Naked Gun
     sort_title: Naked Gun
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/619578
     tpdb_search: https://theposterdb.com/search?term=The+Naked+Gun&section=movies
     genre.sync:
       - Action
       - Comedy
-      - Crime
   753342:
     label_title: Napoleon
     sort_title: Napoleon
@@ -4771,11 +4770,10 @@ metadata:
     label_title: 'Pink Floyd: The Wall'
     sort_title: 'Pink Floyd: The Wall'
     release_year: '1982'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/448988
     tpdb_search: https://theposterdb.com/search?term=Pink+Floyd:+The+Wall&section=movies
     genre.sync:
       - Drama
-      - Music
   22:
     label_title: Pirates of the Caribbean The Curse of the Black Pearl
     sort_title: Pirates of the Caribbean 1
