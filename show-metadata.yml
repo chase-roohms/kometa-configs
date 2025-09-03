@@ -2880,6 +2880,17 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/263744
       2:
         url_poster: https://theposterdb.com/api/assets/421196
+  449872:
+    label_title: The Paper
+    sort_title: Paper
+    release_year: '2025'
+    url_poster: https://theposterdb.com/api/assets/638454
+    tpdb_search: https://theposterdb.com/search?term=The+Paper&section=shows
+    genre.sync:
+      - Comedy
+    seasons:
+      1:
+        url_poster: ''
   454565:
     label_title: Paradise
     sort_title: Paradise
