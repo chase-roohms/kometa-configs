@@ -2805,6 +2805,15 @@ metadata:
     studio: Sony Pictures Animation
     genre.sync:
       - Animation
+  813258:
+    label_title: 'Monster Pets: A Hotel Transylvania Short'
+    sort_title: Hotel Transylvania 4
+    release_year: '2021'
+    url_poster: https://theposterdb.com/api/assets/639523
+    tpdb_search: https://theposterdb.com/search?term=Monster+Pets:+A+Hotel+Transylvania+Short&section=movies
+    studio: Sony Pictures Animation
+    genre.sync:
+      - Animation
   585083:
     label_title: 'Hotel Transylvania: Transformania'
     sort_title: Hotel Transylvania 5
@@ -4254,15 +4263,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Monkey&section=movies
     genre.sync:
       - Horror
-  813258:
-    label_title: 'Monster Pets: A Hotel Transylvania Short'
-    sort_title: Hotel Transylvania 4
-    release_year: '2021'
-    url_poster: https://theposterdb.com/api/assets/639523
-    tpdb_search: https://theposterdb.com/search?term=Monster+Pets:+A+Hotel+Transylvania+Short&section=movies
-    studio: Sony Pictures Animation
-    genre.sync:
-      - Animation
   585:
     label_title: Monsters Inc.
     sort_title: Monsters Inc. 1
