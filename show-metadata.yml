@@ -2890,7 +2890,7 @@ metadata:
       - Comedy
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/638455
   454565:
     label_title: Paradise
     sort_title: Paradise
