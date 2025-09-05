@@ -1362,6 +1362,20 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/347291
       3:
         url_poster: https://theposterdb.com/api/assets/515190
+  73871:
+    label_title: Futurama
+    sort_title: Futurama
+    release_year: '1999'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Futurama&section=shows
+    genre.sync:
+      - Adventure
+      - Animation
+      - Comedy
+      - Science Fiction
+    seasons:
+      1:
+        url_poster: ''
   450537:
     label_title: Gachiakuta
     sort_title: Gachiakuta
