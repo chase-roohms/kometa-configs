@@ -5882,6 +5882,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Snow+White&section=movies
     genre.sync:
       - Family
+  408:
+    label_title: Snow White and the Seven Dwarfs
+    sort_title: Snow White and the Seven Dwarfs
+    release_year: '1938'
+    url_poster: https://theposterdb.com/api/assets/535776
+    tpdb_search: https://theposterdb.com/search?term=Snow+White+and+the+Seven+Dwarfs&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   454626:
     label_title: Sonic the Hedgehog
     sort_title: Sonic the Hedgehog 1
