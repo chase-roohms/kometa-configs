@@ -6356,6 +6356,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Step+Brothers&section=movies
     genre.sync:
       - Comedy
+  15567:
+    label_title: Stitch! The Movie
+    sort_title: Stitch! The Movie
+    release_year: '2003'
+    url_poster: https://theposterdb.com/api/assets/533134
+    tpdb_search: https://theposterdb.com/search?term=Stitch!+The+Movie&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   877269:
     label_title: Strange World
     sort_title: Strange World
