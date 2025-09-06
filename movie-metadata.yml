@@ -545,6 +545,15 @@ metadata:
     genre.sync:
       - Science Fiction
       - Thriller
+  8965:
+    label_title: "Atlantis: Milo's Return"
+    sort_title: "Atlantis: Milo's Return"
+    release_year: '2003'
+    url_poster: https://theposterdb.com/api/assets/533127
+    tpdb_search: "https://theposterdb.com/search?term=Atlantis:+Milo's+Return&section=movies"
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   10865:
     label_title: 'Atlantis: The Lost Empire'
     sort_title: 'Atlantis: The Lost Empire'
