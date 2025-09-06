@@ -659,6 +659,15 @@ metadata:
     studio: DreamWorks Animation
     genre.sync:
       - Animation
+  3170:
+    label_title: Bambi
+    sort_title: Bambi
+    release_year: '1942'
+    url_poster: https://theposterdb.com/api/assets/533688
+    tpdb_search: https://theposterdb.com/search?term=Bambi&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   913290:
     label_title: Barbarian
     sort_title: Barbarian
