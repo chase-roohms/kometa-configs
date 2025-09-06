@@ -1171,6 +1171,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=A+Bronx+Tale&section=movies
     genre.sync:
       - Drama
+  10009:
+    label_title: Brother Bear
+    sort_title: Brother Bear
+    release_year: '2003'
+    url_poster: https://theposterdb.com/api/assets/533123
+    tpdb_search: https://theposterdb.com/search?term=Brother+Bear&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   7445:
     label_title: Brothers
     sort_title: Brothers
