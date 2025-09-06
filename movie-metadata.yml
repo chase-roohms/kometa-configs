@@ -1174,6 +1174,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Challengers&section=movies
     genre.sync:
       - Drama
+  420814:
+    label_title: Christopher Robin
+    sort_title: Christopher Robin
+    release_year: '2018'
+    url_poster: https://theposterdb.com/api/assets/536992
+    tpdb_search: https://theposterdb.com/search?term=Christopher+Robin&section=movies
+    studio: Disney
+    genre.sync:
+      - Family
   929590:
     label_title: Civil War
     sort_title: Civil War
