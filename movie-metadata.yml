@@ -4783,6 +4783,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Percy+Jackson+Sea+of+Monsters&section=movies
     genre.sync:
       - Fantasy
+  294272:
+    label_title: "Pete's Dragon"
+    sort_title: "Pete's Dragon"
+    release_year: '2016'
+    url_poster: https://theposterdb.com/api/assets/536994
+    tpdb_search: "https://theposterdb.com/search?term=Pete's+Dragon&section=movies"
+    studio: Disney
+    genre.sync:
+      - Family
   361822:
     label_title: Pinched
     sort_title: Pinched
