@@ -42,7 +42,7 @@ metadata:
       - Thriller
   11674:
     label_title: 101 Dalmatians
-    sort_title: 101 Dalmatians
+    sort_title: 101 Dalmatians 1
     release_year: '1996'
     url_poster: https://theposterdb.com/api/assets/537001
     tpdb_search: https://theposterdb.com/search?term=101+Dalmatians&section=movies
@@ -51,7 +51,7 @@ metadata:
       - Family
   10481:
     label_title: 102 Dalmatians
-    sort_title: 102 Dalmatians
+    sort_title: 101 Dalmatians 2
     release_year: '2000'
     url_poster: https://theposterdb.com/api/assets/537000
     tpdb_search: https://theposterdb.com/search?term=102+Dalmatians&section=movies
@@ -200,7 +200,7 @@ metadata:
       - Family
   12155:
     label_title: Alice in Wonderland
-    sort_title: Alice in Wonderland
+    sort_title: Alice in Wonderland 1
     release_year: '2010'
     url_poster: https://theposterdb.com/api/assets/536999
     tpdb_search: https://theposterdb.com/search?term=Alice+in+Wonderland&section=movies
@@ -209,7 +209,7 @@ metadata:
       - Family
   241259:
     label_title: Alice Through the Looking Glass
-    sort_title: Alice Through the Looking Glass
+    sort_title: Alice in Wonderland 2
     release_year: '2016'
     url_poster: https://theposterdb.com/api/assets/536995
     tpdb_search: https://theposterdb.com/search?term=Alice+Through+the+Looking+Glass&section=movies
@@ -3426,7 +3426,7 @@ metadata:
       - Science Fiction
   10714:
     label_title: The Jungle Book
-    sort_title: Jungle Book
+    sort_title: Jungle Book 1
     release_year: '1994'
     url_poster: https://theposterdb.com/api/assets/537002
     tpdb_search: https://theposterdb.com/search?term=The+Jungle+Book&section=movies
@@ -3435,7 +3435,7 @@ metadata:
       - Family
   278927:
     label_title: The Jungle Book
-    sort_title: Jungle Book
+    sort_title: Jungle Book 2
     release_year: '2016'
     url_poster: https://theposterdb.com/api/assets/536996
     tpdb_search: https://theposterdb.com/search?term=The+Jungle+Book&section=movies
@@ -4026,7 +4026,7 @@ metadata:
       - Drama
   102651:
     label_title: Maleficent
-    sort_title: Maleficent
+    sort_title: Maleficent 1
     release_year: '2014'
     url_poster: https://theposterdb.com/api/assets/536998
     tpdb_search: https://theposterdb.com/search?term=Maleficent&section=movies
@@ -4035,7 +4035,7 @@ metadata:
       - Family
   420809:
     label_title: 'Maleficent: Mistriss of Evil'
-    sort_title: 'Maleficent: Mistriss of Evil'
+    sort_title: Maleficent 2
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/536988
     tpdb_search: https://theposterdb.com/search?term=Maleficent:+Mistriss+of+Evil&section=movies
@@ -6555,17 +6555,29 @@ metadata:
     label_title: Tron
     sort_title: Tron 1
     release_year: '1982'
-    url_poster: https://theposterdb.com/api/assets/6985
+    url_poster: https://theposterdb.com/api/assets/640493
     tpdb_search: https://theposterdb.com/search?term=Tron&section=movies
+    studio: Disney
     genre.sync:
       - Action
       - Science Fiction
   20526:
-    label_title: TRON Legacy
+    label_title: 'TRON: Legacy'
     sort_title: Tron 2
     release_year: '2010'
-    url_poster: https://theposterdb.com/api/assets/6986
+    url_poster: https://theposterdb.com/api/assets/640492
     tpdb_search: https://theposterdb.com/search?term=TRON+Legacy&section=movies
+    studio: Disney
+    genre.sync:
+      - Action
+      - Science Fiction
+  533533:
+    label_title: 'TRON: Ares'
+    sort_title: Tron 2
+    release_year: '2025'
+    url_poster: https://theposterdb.com/api/assets/640491
+    tpdb_search: https://theposterdb.com/search?term=TRON+Ares&section=movies
+    studio: Disney
     genre.sync:
       - Action
       - Science Fiction
