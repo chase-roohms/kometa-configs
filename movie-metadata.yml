@@ -2449,6 +2449,15 @@ metadata:
     studio: A24
     genre.sync:
       - Comedy
+  109445:
+    label_title: Frozen
+    sort_title: Frozen
+    release_year: '2013'
+    url_poster: https://theposterdb.com/api/assets/517018
+    tpdb_search: https://theposterdb.com/search?term=Frozen&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   228150:
     label_title: Fury
     sort_title: Fury
