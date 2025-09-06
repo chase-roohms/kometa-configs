@@ -5490,6 +5490,15 @@ metadata:
     studio: Walt Disney Animation Studios
     genre.sync:
       - Animation
+  13761:
+    label_title: 'Pocahontas II: Journey to a New World'
+    sort_title: 'Pocahontas II: Journey to a New World'
+    release_year: '1998'
+    url_poster: https://theposterdb.com/api/assets/534021
+    tpdb_search: https://theposterdb.com/search?term=Pocahontas+II:+Journey+to+a+New+World&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   12429:
     label_title: Ponyo
     sort_title: Ponyo
