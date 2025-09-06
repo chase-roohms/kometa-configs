@@ -6473,6 +6473,15 @@ metadata:
     studio: Walt Disney Animation Studios
     genre.sync:
       - Animation
+  15657:
+    label_title: Tarzan II
+    sort_title: Tarzan II
+    release_year: '2005'
+    url_poster: https://theposterdb.com/api/assets/533150
+    tpdb_search: https://theposterdb.com/search?term=Tarzan+II&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   877703:
     label_title: Teen Wolf The Movie
     sort_title: Teen Wolf The Movie
