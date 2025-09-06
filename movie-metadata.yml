@@ -5047,6 +5047,15 @@ metadata:
     studio: Disney
     genre.sync:
       - Family
+  10895:
+    label_title: Pinocchio
+    sort_title: Pinocchio
+    release_year: '1940'
+    url_poster: https://theposterdb.com/api/assets/535775
+    tpdb_search: https://theposterdb.com/search?term=Pinocchio&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   22:
     label_title: Pirates of the Caribbean The Curse of the Black Pearl
     sort_title: Pirates of the Caribbean 1
