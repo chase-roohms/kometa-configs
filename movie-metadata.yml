@@ -3433,6 +3433,15 @@ metadata:
     studio: Disney
     genre.sync:
       - Family
+  278927:
+    label_title: The Jungle Book
+    sort_title: Jungle Book
+    release_year: '2016'
+    url_poster: https://theposterdb.com/api/assets/536996
+    tpdb_search: https://theposterdb.com/search?term=The+Jungle+Book&section=movies
+    studio: Disney
+    genre.sync:
+      - Family
   451048:
     label_title: Jungle Cruise
     sort_title: Jungle Cruise
