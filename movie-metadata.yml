@@ -5339,6 +5339,15 @@ metadata:
     studio: Pixar
     genre.sync:
       - Animation
+  527774:
+    label_title: Raya and the Last Dragon
+    sort_title: Raya and the Last Dragon
+    release_year: '2021'
+    url_poster: https://theposterdb.com/api/assets/532950
+    tpdb_search: https://theposterdb.com/search?term=Raya+and+the+Last+Dragon&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   1013850:
     label_title: A Real Pain
     sort_title: Real Pain
