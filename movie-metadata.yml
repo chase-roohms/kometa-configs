@@ -1839,6 +1839,15 @@ metadata:
     studio: Pixar
     genre.sync:
       - Animation
+  11688:
+    label_title: "The Emporer's New Groove"
+    sort_title: "Emporer's New Groove"
+    release_year: '2000'
+    url_poster: https://theposterdb.com/api/assets/532999
+    tpdb_search: "https://theposterdb.com/search?term=The+Emporer's+New+Groove&section=movies"
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   568124:
     label_title: Encanto
     sort_title: Encanto
