@@ -740,6 +740,15 @@ metadata:
     studio: Disney
     genre.sync:
       - Family
+  10020:
+    label_title: Beauty and the Beast
+    sort_title: Beauty and the Beast
+    release_year: '1991'
+    url_poster: https://theposterdb.com/api/assets/534028
+    tpdb_search: https://theposterdb.com/search?term=Beauty+and+the+Beast&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   5559:
     label_title: Bee Movie
     sort_title: Bee Movie
