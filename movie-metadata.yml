@@ -4150,6 +4150,15 @@ metadata:
     studio: Walt Disney Animation Studios
     genre.sync:
       - Animation
+  9732:
+    label_title: "The Lion King II: Simba's Pride"
+    sort_title: "Lion King II: Simba's Pride"
+    release_year: '1998'
+    url_poster: https://theposterdb.com/api/assets/533169
+    tpdb_search: "https://theposterdb.com/search?term=The+Lion+King+II:+Simba's+Pride&section=movies"
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   420818:
     label_title: The Lion King
     sort_title: Lion King Reboot 1
