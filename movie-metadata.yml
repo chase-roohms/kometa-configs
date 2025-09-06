@@ -4103,6 +4103,15 @@ metadata:
     studio: Walt Disney Animation Studios
     genre.sync:
       - Animation
+  13676:
+    label_title: "The Little Mermaid: Ariel's Beginning"
+    sort_title: "Little Mermaid: Ariel's Beginning"
+    release_year: '2008'
+    url_poster: https://theposterdb.com/api/assets/533467
+    tpdb_search: "https://theposterdb.com/search?term=The+Little+Mermaid:+Ariel's+Beginning&section=movies"
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   1083968:
     label_title: Locked
     sort_title: Locked
