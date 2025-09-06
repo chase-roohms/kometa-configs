@@ -1180,6 +1180,15 @@ metadata:
     studio: Walt Disney Animation Studios
     genre.sync:
       - Animation
+  10010:
+    label_title: Brother Bear 2
+    sort_title: Brother Bear 2
+    release_year: '2006'
+    url_poster: https://theposterdb.com/api/assets/533122
+    tpdb_search: https://theposterdb.com/search?term=Brother+Bear+2&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   7445:
     label_title: Brothers
     sort_title: Brothers
