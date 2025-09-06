@@ -3943,6 +3943,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Magazine+Dreams&section=movies
     genre.sync:
       - Drama
+  102651:
+    label_title: Maleficent
+    sort_title: Maleficent
+    release_year: '2014'
+    url_poster: https://theposterdb.com/api/assets/536998
+    tpdb_search: https://theposterdb.com/search?term=Maleficent&section=movies
+    studio: Disney
+    genre.sync:
+      - Family
   937278:
     label_title: A Man Called Otto
     sort_title: Man Called Otto
