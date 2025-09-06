@@ -256,6 +256,7 @@ shared_collection_files:
         - Walt Disney Animation Studios
         - Walt Disney Productions
         - Walt Disney Television
+        - Disney
     sort_by: title.asc
     <<: *studio_posters
 
