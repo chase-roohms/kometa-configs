@@ -1373,6 +1373,15 @@ metadata:
     studio: Walt Disney Animation Studios
     genre.sync:
       - Animation
+  16119:
+    label_title: 'Cinderella II: A Twist in Time'
+    sort_title: 'Cinderella II: A Twist in Time'
+    release_year: '2007'
+    url_poster: https://theposterdb.com/api/assets/533182
+    tpdb_search: https://theposterdb.com/search?term=Cinderella+II:+A+Twist+in+Time&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   14128:
     label_title: 'Cinderella II: Dreams Come True'
     sort_title: 'Cinderella II: Dreams Come True'
