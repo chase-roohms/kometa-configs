@@ -3,9 +3,11 @@
 url_poster_mappings:
   franchise_movie_posters: &franchise_movie_posters
     url_poster_1565: https://theposterdb.com/api/assets/617779    # 28 Days/Weeks Later
+    url_poster_124916: https://theposterdb.com/api/assets/537005  # 101 Dalmations (Live-Action)
     url_poster_125570: https://theposterdb.com/api/assets/5575    # 300
     url_poster_870339: https://theposterdb.com/api/assets/592034  # The Accountant
     url_poster_702624: https://theposterdb.com/api/assets/178591  # After
+    url_poster_261307: https://theposterdb.com/api/assets/537004  # Alice in Wonderland
     url_poster_8091: https://theposterdb.com/api/assets/1213      # Alien
     url_poster_531566: https://theposterdb.com/api/assets/587900  # Along with the Gods
     url_poster_531315: https://theposterdb.com/api/assets/23354   # Angry Birds
@@ -66,9 +68,11 @@ url_poster_mappings:
     url_poster_328: https://theposterdb.com/api/assets/158968     # Jurassic Park
     url_poster_2883: https://theposterdb.com/api/assets/63400     # Kill Bill
     url_poster_77816: https://theposterdb.com/api/assets/531068   # Kung Fu Panda
+    url_poster_762512: https://theposterdb.com/api/assets/548897  # The Lion King
     url_poster_119: https://theposterdb.com/api/assets/529392     # Lord of the Rings
     url_poster_8945: https://theposterdb.com/api/assets/8317      # Mad Max
     url_poster_14740: https://theposterdb.com/api/assets/531284   # Madagascar
+    url_poster_531331: https://theposterdb.com/api/assets/537003  # Maleficent
     url_poster_209131: https://theposterdb.com/api/assets/517110  # Man of Steel
     url_poster_2344: https://theposterdb.com/api/assets/147306    # Matrix
     url_poster_295130: https://theposterdb.com/api/assets/1026    # Maze Runner
@@ -117,7 +121,7 @@ url_poster_mappings:
     url_poster_619537: https://theposterdb.com/api/assets/96438   # Train to Busan
     url_poster_8650: https://theposterdb.com/api/assets/385806    # Transformers
     url_poster_489724: https://theposterdb.com/api/assets/531437  # Trolls
-    url_poster_63043: https://theposterdb.com/api/assets/404058   # Tron
+    url_poster_63043: https://theposterdb.com/api/assets/640490   # Tron
     url_poster_33514: https://theposterdb.com/api/assets/1132     # The Twighlight Saga
     url_poster_558216: https://theposterdb.com/api/assets/517924  # Venom
     url_poster_39460: https://theposterdb.com/api/assets/639440   # Water of The Hills (Jean de Florette)
@@ -157,6 +161,7 @@ url_poster_mappings:
     url_poster_Marvel Studios: https://theposterdb.com/api/assets/573128
     url_poster_Pixar: https://theposterdb.com/api/assets/573147
     url_poster_Studio Ghibli: https://theposterdb.com/api/assets/573155
+    url_poster_Walt Disney Pictures: https://theposterdb.com/api/assets/573172
   streaming_posters: &streaming_posters
     url_poster_appletv:
     url_poster_disney:
@@ -202,13 +207,13 @@ shared_collection_files:
   template_variables:
     sort_by: title.asc
     include:
-    - appletv
-    - disney
-    - crunchyroll
-    - hulu
-    - max
-    - netflix
-    - amazon
+      - appletv
+      - disney
+      - crunchyroll
+      - hulu
+      - max
+      - netflix
+      - amazon
     <<: *streaming_posters
 
 - &studio_collection
@@ -216,13 +221,19 @@ shared_collection_files:
   template_variables:
     collection_section: 035
     include:
-    - A24
-    - DreamWorks Studios
-    - Dropout
-    - Illumination Entertainment
-    - Marvel Studios
-    - Pixar
-    - Studio Ghibli
+      - A24
+      - DreamWorks Studios
+      - Dropout
+      - Illumination Entertainment
+      - Marvel Studios
+      - Pixar
+      - Studio Ghibli
+      - Walt Disney Pictures
+    append_addons:
+      Walt Disney Pictures:
+        - Walt Disney Animation Studios
+        - Walt Disney Productions
+        - Walt Disney Television
     sort_by: title.asc
     <<: *studio_posters
 
@@ -241,37 +252,37 @@ shared_collection_files:
     summary_format: <<library_typeU>>s that have the genre <<key_name>> - ordered by release date.
     append_addons:
       Thriller:
-      - Mystery
-      - Suspense
+        - Mystery
+        - Suspense
       Drama:
-      - Romance
+        - Romance
     include:
-    - Action
-    - Animation
-    - Anime
-    - Comedy
-    - Documentary
-    - Drama
-    - Family
-    - Fantasy
-    - Horror
-    - Reality
-    - Science Fiction
-    - Superhero
-    - Thriller
+      - Action
+      - Animation
+      - Anime
+      - Comedy
+      - Documentary
+      - Drama
+      - Family
+      - Fantasy
+      - Horror
+      - Reality
+      - Science Fiction
+      - Superhero
+      - Thriller
     <<: *genre_posters
 
 - &universe_collection
   default: universe
   template_variables:
     exclude:
-    - marvel       # In Association with Marvel, just don't want it
-    - trek         # Star Trek, just don't want it
-    - dca          # DC Animated Universe, just don't want it
-    - middle       # Middle Earth, just don't want it
-    - monster      # Monsterverse, just don't want it
-    - wizard       # Wizarding World of Harry Potter, just don't want it
-    - fast         # Fast & Furious, handled during franchises
+      - marvel       # In Association with Marvel, just don't want it
+      - trek         # Star Trek, just don't want it
+      - dca          # DC Animated Universe, just don't want it
+      - middle       # Middle Earth, just don't want it
+      - monster      # Monsterverse, just don't want it
+      - wizard       # Wizarding World of Harry Potter, just don't want it
+      - fast         # Fast & Furious, handled during franchises
     collection_order: release
     <<: *universe_posters
 
@@ -279,30 +290,30 @@ shared_collection_files:
   default: franchise
   template_variables:
     movie_422837:   # Blade Runner
-    - 475946          # Blackout 2022
-    - 473072          # 2036 Nexus Dawn
-    - 475759          # 2048 Nowhere to Run
+      - 475946          # Blackout 2022
+      - 473072          # 2036 Nexus Dawn
+      - 475759          # 2048 Nowhere to Run
     movie_790370:   # Fear Street
-    - 1001414         # Fear Street: Prom Queen
+      - 1001414         # Fear Street: Prom Queen
     movie_8917:     # Hellraiser
-    - 338947          # Hellraiser (2022)
+      - 338947          # Hellraiser (2022)
     movie_404609:   # John Wick
-    - 541671          # Ballerina
+      - 541671          # Ballerina
     movie_41437:    # Paranormal Activity
-    - 59429           # Tokyo Night
+      - 59429           # Tokyo Night
     movie_399:      # Predator
-    - 1376434         # Predator: Killer of Killers (Animated)
+      - 1376434         # Predator: Killer of Killers (Animated)
     movie_619537:   # Train to Busan
-    - 389868          # Seoul Station
+      - 389868          # Seoul Station
     movie_8650:     # Transformers
-    - 424783          # Bumblebee
+      - 424783          # Bumblebee
     collection_order: release
     exclude:
-    - 115762        # AVP (Not the full, this is just 2 movies)
-    - 1427405       # Studio Ghibli, we want it taken care of in "studio"
-    - 1412          # Arroverse, will be taken care of in the universe section
-    - 10            # Star Wars (Handled in universe)
-    - 85536         # Star Wars (Handled in universe)
+      - 115762        # AVP (Not the full, this is just 2 movies)
+      - 1427405       # Studio Ghibli, we want it taken care of in "studio"
+      - 1412          # Arroverse, will be taken care of in the universe section
+      - 10            # Star Wars (Handled in universe)
+      - 85536         # Star Wars (Handled in universe)
     sort_title_125574: Spider-Man Amazing
     sort_title_531241: Spider-Man MCU
     sort_title_573436: Spider-Man Spider-Verse
@@ -328,42 +339,42 @@ libraries:
     template_variables:
       use_separator: false
     metadata_files:
-    - repo: movie-metadata
+      - repo: movie-metadata
     collection_files:
-    #- repo: collections/movies
-    #- repo: collections/shared
-    #- *streaming_collection
-    - *tautulli_collection
-    - *genre_collection
-    - *imdb_collection
-    - *studio_collection
-    - *universe_collection
-    - *franchise_collection
+      #- repo: collections/movies
+      #- repo: collections/shared
+      #- *streaming_collection
+      - *tautulli_collection
+      - *genre_collection
+      - *imdb_collection
+      - *studio_collection
+      - *universe_collection
+      - *franchise_collection
     operations: *operation_settings
   TV Shows:
     remove_overlays: true
     template_variables:
       use_separator: false
     metadata_files:
-    - repo: show-metadata
+      - repo: show-metadata
     collection_files:
-    #- repo: collections/shows
-    #- repo: collections/shared
-    #- *streaming_collection
-    - *tautulli_collection
-    - *genre_collection
-    - *imdb_collection
-    - *studio_collection
-    - *universe_collection
-    - *franchise_collection
+      #- repo: collections/shows
+      #- repo: collections/shared
+      #- *streaming_collection
+      - *tautulli_collection
+      - *genre_collection
+      - *imdb_collection
+      - *studio_collection
+      - *universe_collection
+      - *franchise_collection
     operations: *operation_settings
 
 settings:
   run_order:
-  - operations
-  - metadata
-  - collections
-  - overlays
+    - operations
+    - metadata
+    - collections
+    - overlays
   cache: true
   cache_expiration: 60
   asset_directory:
