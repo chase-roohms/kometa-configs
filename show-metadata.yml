@@ -1366,20 +1366,34 @@ metadata:
     label_title: Futurama
     sort_title: Futurama
     release_year: '1999'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/514738
     tpdb_search: https://theposterdb.com/search?term=Futurama&section=shows
     genre.sync:
-      - Adventure
       - Animation
       - Comedy
-      - Science Fiction
     seasons:
       0:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/173331
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/173332
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/173333
+      3:
+        url_poster: https://theposterdb.com/api/assets/173334
+      4:
+        url_poster: https://theposterdb.com/api/assets/173335
+      5:
+        url_poster: https://theposterdb.com/api/assets/173336
+      6:
+        url_poster: https://theposterdb.com/api/assets/173337
+      7:
+        url_poster: https://theposterdb.com/api/assets/173338
+      8:
+        url_poster: https://theposterdb.com/api/assets/386008
+      9:
+        url_poster: https://theposterdb.com/api/assets/513769
+      10:
+        url_poster: https://theposterdb.com/api/assets/639787
   450537:
     label_title: Gachiakuta
     sort_title: Gachiakuta
@@ -3589,15 +3603,15 @@ metadata:
     label_title: The Son
     sort_title: Son
     release_year: '2017'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/179945
     tpdb_search: https://theposterdb.com/search?term=The+Son&section=shows
     genre.sync:
       - Drama
-      - History
-      - Western
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/179946
+      2:
+        url_poster: https://theposterdb.com/api/assets/179947
   82696:
     label_title: Sons of Anarchy
     sort_title: Sons of Anarchy
