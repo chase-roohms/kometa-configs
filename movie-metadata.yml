@@ -2842,6 +2842,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Herbie+Fully+Loaded&section=movies
     genre.sync:
       - Family
+  11970:
+    label_title: Hercules
+    sort_title: Hercules
+    release_year: '1997'
+    url_poster: https://theposterdb.com/api/assets/534042
+    tpdb_search: https://theposterdb.com/search?term=Hercules&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   493922:
     label_title: Hereditary
     sort_title: Hereditary
