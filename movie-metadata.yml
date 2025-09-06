@@ -6347,6 +6347,15 @@ metadata:
     studio: A24
     genre.sync:
       - Horror
+  38757:
+    label_title: Tangled
+    sort_title: Tangled
+    release_year: '2010'
+    url_poster: https://theposterdb.com/api/assets/532954
+    tpdb_search: https://theposterdb.com/search?term=Tangled&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   877703:
     label_title: Teen Wolf The Movie
     sort_title: Teen Wolf The Movie
