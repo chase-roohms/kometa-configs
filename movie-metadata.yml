@@ -40,6 +40,15 @@ metadata:
     genre.sync:
       - Science Fiction
       - Thriller
+  11674:
+    label_title: 101 Dalmatians
+    sort_title: 101 Dalmatians
+    release_year: '1996'
+    url_poster: https://theposterdb.com/api/assets/537001
+    tpdb_search: https://theposterdb.com/search?term=101+Dalmatians&section=movies
+    studio: Disney
+    genre.sync:
+      - Family
   1271:
     label_title: '300'
     sort_title: 300 1
