@@ -171,6 +171,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Air+Bud&section=movies
     genre.sync:
       - Family
+  241259:
+    label_title: Alice Through the Looking Glass
+    sort_title: Alice Through the Looking Glass
+    release_year: '2016'
+    url_poster: https://theposterdb.com/api/assets/536995
+    tpdb_search: https://theposterdb.com/search?term=Alice+Through+the+Looking+Glass&section=movies
+    studio: Disney
+    genre.sync:
+      - Family
   348:
     label_title: Alien
     sort_title: Alien 1
@@ -3653,6 +3662,22 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Lilo+%26+Stitch&section=movies
     genre.sync:
       - Family
+  420818:
+    label_title: The Lion King
+    sort_title: Lion King Reboot 1
+    release_year: '2019'
+    url_poster: https://theposterdb.com/api/assets/548899
+    tpdb_search: https://theposterdb.com/search?term=The+Lion+King&section=movies
+    genre.sync:
+      - Family
+  762509:
+    label_title: Mufasa The Lion King
+    sort_title: Lion King Reboot 2
+    release_year: '2024'
+    url_poster: https://theposterdb.com/api/assets/548898
+    tpdb_search: https://theposterdb.com/search?term=Mufasa+The+Lion+King&section=movies
+    genre.sync:
+      - Family
   1083968:
     label_title: Locked
     sort_title: Locked
@@ -4326,22 +4351,6 @@ metadata:
     studio: DreamWorks Animation
     genre.sync:
       - Animation
-  420818:
-    label_title: The Lion King
-    sort_title: Lion King Reboot 1
-    release_year: '2019'
-    url_poster: https://theposterdb.com/api/assets/548899
-    tpdb_search: https://theposterdb.com/search?term=The+Lion+King&section=movies
-    genre.sync:
-      - Family
-  762509:
-    label_title: Mufasa The Lion King
-    sort_title: Lion King Reboot 2
-    release_year: '2024'
-    url_poster: https://theposterdb.com/api/assets/548898
-    tpdb_search: https://theposterdb.com/search?term=Mufasa+The+Lion+King&section=movies
-    genre.sync:
-      - Family
   505262:
     label_title: My Hero Academia Two Heroes
     sort_title: My Hero Academia 1
