@@ -4141,6 +4141,15 @@ metadata:
     studio: Walt Disney Animation Studios
     genre.sync:
       - Animation
+  8587:
+    label_title: The Lion King
+    sort_title: Lion King
+    release_year: '1994'
+    url_poster: https://theposterdb.com/api/assets/533170
+    tpdb_search: https://theposterdb.com/search?term=The+Lion+King&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   420818:
     label_title: The Lion King
     sort_title: Lion King Reboot 1
