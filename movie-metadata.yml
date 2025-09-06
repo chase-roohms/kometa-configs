@@ -492,6 +492,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Arcadian&section=movies
     genre.sync:
       - Horror
+  10112:
+    label_title: The Aristocats
+    sort_title: Aristocats
+    release_year: '1970'
+    url_poster: https://theposterdb.com/api/assets/535763
+    tpdb_search: https://theposterdb.com/search?term=The+Aristocats&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   256274:
     label_title: As Above So Below
     sort_title: As Above So Below
