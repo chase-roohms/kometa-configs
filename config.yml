@@ -251,9 +251,6 @@ shared_collection_files:
       - Pixar
       - Studio Ghibli
       - Disney
-    apend_addons:
-      Disney:
-        - Walt Disney Animation Studios
     sort_by: title.asc
     <<: *studio_posters
 
