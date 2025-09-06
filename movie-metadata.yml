@@ -4326,11 +4326,19 @@ metadata:
     studio: DreamWorks Animation
     genre.sync:
       - Animation
+  420818:
+    label_title: The Lion King
+    sort_title: Lion King Reboot 1
+    release_year: '2019'
+    url_poster: https://theposterdb.com/api/assets/548899
+    tpdb_search: https://theposterdb.com/search?term=The+Lion+King&section=movies
+    genre.sync:
+      - Family
   762509:
     label_title: Mufasa The Lion King
-    sort_title: Mufasa The Lion King
+    sort_title: Lion King Reboot 2
     release_year: '2024'
-    url_poster: https://theposterdb.com/api/assets/575408
+    url_poster: https://theposterdb.com/api/assets/548898
     tpdb_search: https://theposterdb.com/search?term=Mufasa+The+Lion+King&section=movies
     genre.sync:
       - Family
