@@ -783,9 +783,9 @@ metadata:
     label_title: Big Hero 6
     sort_title: Big Hero 6
     release_year: '2014'
-    url_poster: https://theposterdb.com/api/assets/518585
+    url_poster: https://theposterdb.com/api/assets/532952
     tpdb_search: https://theposterdb.com/search?term=Big+Hero+6&section=movies
-    studio: Marvel Studios
+    studio: Walt Disney Animation Studios
     genre.sync:
       - Animation
   16790:
@@ -972,8 +972,9 @@ metadata:
     label_title: Bolt
     sort_title: Bolt
     release_year: '2008'
-    url_poster: https://theposterdb.com/api/assets/11833
+    url_poster: https://theposterdb.com/api/assets/532956
     tpdb_search: https://theposterdb.com/search?term=Bolt&section=movies
+    studio: Walt Disney Animation Studios
     genre.sync:
       - Animation
   295693:
@@ -3643,15 +3644,25 @@ metadata:
       - Animation
   10340:
     label_title: Lady and the Tramp
-    sort_title: Lady and the Tramp
+    sort_title: Lady and the Tramp (Animated) 1
     release_year: '1955'
-    url_poster: https://theposterdb.com/api/assets/81876
+    url_poster: https://theposterdb.com/api/assets/535716
     tpdb_search: https://theposterdb.com/search?term=Lady+and+the+Tramp&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
+  18269:
+    label_title: "Lady and the Tramp II: Scamp's Adventure"
+    sort_title: Lady and the Tramp (Animated) 2
+    release_year: '1955'
+    url_poster: https://theposterdb.com/api/assets/535715
+    tpdb_search: https://theposterdb.com/search?term=Lady+and+the+Tramp&section=movies
+    studio: Walt Disney Animation Studios
     genre.sync:
       - Animation
   512895:
     label_title: Lady and the Tramp
-    sort_title: Lady and the Tramp
+    sort_title: Lady and the Tramp (Live-Action)
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/536987
     tpdb_search: https://theposterdb.com/search?term=Lady+and+the+Tramp&section=movies
@@ -4412,16 +4423,18 @@ metadata:
     label_title: Moana
     sort_title: Moana 1
     release_year: '2016'
-    url_poster: https://theposterdb.com/api/assets/566974
+    url_poster: https://theposterdb.com/api/assets/532965
     tpdb_search: https://theposterdb.com/search?term=Moana&section=movies
+    studio: Walt Disney Animation Studios
     genre.sync:
       - Animation
   1241982:
     label_title: Moana 2
     sort_title: Moana 2
     release_year: '2024'
-    url_poster: https://theposterdb.com/api/assets/566973
+    url_poster: https://theposterdb.com/api/assets/532964
     tpdb_search: https://theposterdb.com/search?term=Moana+2&section=movies
+    studio: Walt Disney Animation Studios
     genre.sync:
       - Animation
   1124620:
