@@ -677,6 +677,15 @@ metadata:
     genre.sync:
       - Comedy
       - Drama
+  321612:
+    label_title: Beauty and the Beast
+    sort_title: Beauty and the Beast
+    release_year: '2017'
+    url_poster: https://theposterdb.com/api/assets/536993
+    tpdb_search: https://theposterdb.com/search?term=Beauty+and+the+Beast&section=movies
+    studio: Disney
+    genre.sync:
+      - Family
   5559:
     label_title: Bee Movie
     sort_title: Bee Movie
