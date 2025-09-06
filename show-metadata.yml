@@ -1347,6 +1347,21 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/182328
       2:
         url_poster: https://theposterdb.com/api/assets/362222
+  424536:
+    label_title: "Frieren: Beyond Journey's End"
+    sort_title: "Frieren: Beyond Journey's End"
+    release_year: '2023'
+    url_poster: https://theposterdb.com/api/assets/388818
+    tpdb_search: "https://theposterdb.com/search?term=Frieren:+Beyond+Journey's+End&section=shows"
+    genre.sync:
+      - Anime
+    seasons:
+      0:
+        url_poster: ''
+      1:
+        url_poster: ''
+      2:
+        url_poster: ''
   401003:
     label_title: FROM
     sort_title: FROM
