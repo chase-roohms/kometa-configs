@@ -1555,6 +1555,15 @@ metadata:
     tpdb_search: "https://theposterdb.com/search?term=The+Devil's+Advocate&section=movies"
     genre.sync:
       - Horror
+  10567:
+    label_title: Dinosaur
+    sort_title: Dinosaur
+    release_year: '2000'
+    url_poster: ' https://theposterdb.com/api/assets/532990'
+    tpdb_search: https://theposterdb.com/search?term=Dinosaur&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   82685:
     label_title: Division III Footballs Finest
     sort_title: Division III Footballs Finest
