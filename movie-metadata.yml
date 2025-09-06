@@ -1337,6 +1337,15 @@ metadata:
     genre.sync:
       - Action
       - Fantasy
+  337404:
+    label_title: Cruella
+    sort_title: Cruella
+    release_year: '2021'
+    url_poster: https://theposterdb.com/api/assets/536985
+    tpdb_search: https://theposterdb.com/search?term=Cruella&section=movies
+    studio: Disney
+    genre.sync:
+      - Family
   869291:
     label_title: Cuckoo
     sort_title: Cuckoo
