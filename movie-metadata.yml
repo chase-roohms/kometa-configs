@@ -3577,6 +3577,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Lady+and+the+Tramp&section=movies
     genre.sync:
       - Animation
+  512895:
+    label_title: Lady and the Tramp
+    sort_title: Lady and the Tramp
+    release_year: '2019'
+    url_poster: https://theposterdb.com/api/assets/536987
+    tpdb_search: https://theposterdb.com/search?term=Lady+and+the+Tramp&section=movies
+    studio: Disney
+    genre.sync:
+      - Family
   391713:
     label_title: Lady Bird
     sort_title: Lady Bird
