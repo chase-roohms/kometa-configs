@@ -5789,6 +5789,17 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=A+Star+Is+Born&section=movies
     genre.sync:
       - Drama
+  54007:
+    label_title: Star Kid
+    sort_title: Star Kid
+    release_year: '1997'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Star+Kid&section=movies
+    genre.sync:
+      - Action
+      - Adventure
+      - Family
+      - Science Fiction
   11:
     label_title: A New Hope
     sort_title: Star Wars 01
