@@ -6455,6 +6455,15 @@ metadata:
     studio: Walt Disney Animation Studios
     genre.sync:
       - Animation
+  37135:
+    label_title: Tarzan
+    sort_title: Tarzan
+    release_year: '1999'
+    url_poster: https://theposterdb.com/api/assets/533152
+    tpdb_search: https://theposterdb.com/search?term=Tarzan&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   877703:
     label_title: Teen Wolf The Movie
     sort_title: Teen Wolf The Movie
