@@ -5832,6 +5832,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Sky+High&section=movies
     genre.sync:
       - Family
+  10882:
+    label_title: Sleeping Beauty
+    sort_title: Sleeping Beauty
+    release_year: '1959'
+    url_poster: https://theposterdb.com/api/assets/535765
+    tpdb_search: https://theposterdb.com/search?term=Sleeping+Beauty&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   11551:
     label_title: Small Soldiers
     sort_title: Small Soldiers
