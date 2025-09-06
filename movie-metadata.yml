@@ -1364,6 +1364,15 @@ metadata:
     studio: Disney
     genre.sync:
       - Family
+  11224:
+    label_title: Cinderella
+    sort_title: Cinderella
+    release_year: '1950'
+    url_poster: https://theposterdb.com/api/assets/533184
+    tpdb_search: https://theposterdb.com/search?term=Cinderella&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   929590:
     label_title: Civil War
     sort_title: Civil War
