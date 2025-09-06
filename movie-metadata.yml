@@ -4792,6 +4792,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Oddity&section=movies
     genre.sync:
       - Horror
+  12233:
+    label_title: Oliver & Company
+    sort_title: Oliver & Company
+    release_year: '1988'
+    url_poster: https://theposterdb.com/api/assets/535759
+    tpdb_search: https://theposterdb.com/search?term=Oliver+%26+Company&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   508439:
     label_title: Onward
     sort_title: Onward
