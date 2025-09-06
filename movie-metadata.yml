@@ -4823,6 +4823,15 @@ metadata:
     studio: Disney
     genre.sync:
       - Family
+  10674:
+    label_title: Mulan
+    sort_title: Mulan
+    release_year: '1998'
+    url_poster: https://theposterdb.com/api/assets/533156
+    tpdb_search: https://theposterdb.com/search?term=Mulan&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   505262:
     label_title: My Hero Academia Two Heroes
     sort_title: My Hero Academia 1
