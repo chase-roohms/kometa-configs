@@ -7096,6 +7096,15 @@ metadata:
     studio: DreamWorks Animation
     genre.sync:
       - Animation
+  1022796:
+    label_title: Wish
+    sort_title: Wish
+    release_year: '2023'
+    url_poster: https://theposterdb.com/api/assets/532947
+    tpdb_search: https://theposterdb.com/search?term=Wish&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   310131:
     label_title: The Witch
     sort_title: Witch
