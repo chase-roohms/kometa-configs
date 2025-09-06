@@ -5537,6 +5537,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=A+Quiet+Place+Day+One&section=movies
     genre.sync:
       - Horror
+  404368:
+    label_title: Ralph Breaks the Internet
+    sort_title: Ralph Breaks the Internet
+    release_year: '2018'
+    url_poster: https://theposterdb.com/api/assets/532967
+    tpdb_search: https://theposterdb.com/search?term=Ralph+Breaks+the+Internet&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   2062:
     label_title: Ratatouille
     sort_title: Ratatouille
