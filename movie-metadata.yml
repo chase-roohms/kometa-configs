@@ -7297,3 +7297,12 @@ metadata:
     genre.sync:
       - Action
       - Drama
+  269149:
+    label_title: Zootopia
+    sort_title: Zootopia
+    release_year: '2016'
+    url_poster: https://theposterdb.com/api/assets/532951
+    tpdb_search: https://theposterdb.com/search?term=Zootopia&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
