@@ -1357,11 +1357,11 @@ metadata:
       - Anime
     seasons:
       0:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/421200
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/388819
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/580572
   401003:
     label_title: FROM
     sort_title: FROM
