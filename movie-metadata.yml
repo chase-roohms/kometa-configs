@@ -5555,6 +5555,15 @@ metadata:
     genre.sync:
       - Drama
       - Thriller
+  15969:
+    label_title: The Return of Jafar
+    sort_title: Return of Jafar
+    release_year: '1994'
+    url_poster: https://theposterdb.com/api/assets/533695
+    tpdb_search: https://theposterdb.com/search?term=The+Return+of+Jafar&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   11011:
     label_title: Ri¢hie Ri¢h
     sort_title: Richie Rich
