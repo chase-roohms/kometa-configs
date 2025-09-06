@@ -5372,6 +5372,15 @@ metadata:
     studio: Disney
     genre.sync:
       - Family
+  10693:
+    label_title: Peter Pan
+    sort_title: Peter Pan
+    release_year: '1953'
+    url_poster: https://theposterdb.com/api/assets/534031
+    tpdb_search: https://theposterdb.com/search?term=Peter+Pan&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   420808:
     label_title: Peter Pan and Wendy
     sort_title: Peter Pan and Wendy
