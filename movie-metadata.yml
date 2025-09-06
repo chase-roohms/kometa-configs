@@ -42,7 +42,7 @@ metadata:
       - Thriller
   12230:
     label_title: 101 Dalmatians
-    sort_title: 101 Dalmatians
+    sort_title: 101 Dalmatians (Animated) 1
     release_year: '1961'
     url_poster: https://theposterdb.com/api/assets/535713
     tpdb_search: https://theposterdb.com/search?term=101+Dalmatians&section=movies
@@ -51,7 +51,7 @@ metadata:
       - Animation
   11674:
     label_title: 101 Dalmatians
-    sort_title: 101 Dalmatians 1
+    sort_title: 101 Dalmatians (Live-Action) 1
     release_year: '1996'
     url_poster: https://theposterdb.com/api/assets/537001
     tpdb_search: https://theposterdb.com/search?term=101+Dalmatians&section=movies
@@ -60,7 +60,7 @@ metadata:
       - Family
   10481:
     label_title: 102 Dalmatians
-    sort_title: 101 Dalmatians 2
+    sort_title: 101 Dalmatians (Live-Action) 2
     release_year: '2000'
     url_poster: https://theposterdb.com/api/assets/537000
     tpdb_search: https://theposterdb.com/search?term=102+Dalmatians&section=movies
@@ -69,7 +69,7 @@ metadata:
       - Family
   13654:
     label_title: "101 Dalmatians II: Patch's London Adventure"
-    sort_title: "101 Dalmatians II: Patch's London Adventure"
+    sort_title: 101 Dalmatians (Animated) 2
     release_year: '2003'
     url_poster: https://theposterdb.com/api/assets/535712
     tpdb_search: "https://theposterdb.com/search?term=101+Dalmatians+II:+Patch's+London+Adventure&section=movies"
@@ -209,7 +209,7 @@ metadata:
       - Family
   420817:
     label_title: Aladdin
-    sort_title: Aladdin
+    sort_title: Aladdin (Live-Action) 1
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/536990
     tpdb_search: https://theposterdb.com/search?term=Aladdin&section=movies
@@ -218,7 +218,7 @@ metadata:
       - Family
   812:
     label_title: Aladdin
-    sort_title: Aladdin
+    sort_title: Aladdin (Animated) 1
     release_year: '1992'
     url_poster: https://theposterdb.com/api/assets/533696
     tpdb_search: https://theposterdb.com/search?term=Aladdin&section=movies
@@ -227,7 +227,7 @@ metadata:
       - Animation
   11238:
     label_title: Aladdin and the King of Thieves
-    sort_title: Aladdin and the King of Thieves
+    sort_title: Aladdin (Animated) 3
     release_year: '1996'
     url_poster: https://theposterdb.com/api/assets/533694
     tpdb_search: https://theposterdb.com/search?term=Aladdin+and+the+King+of+Thieves&section=movies
@@ -565,7 +565,7 @@ metadata:
       - Thriller
   8965:
     label_title: "Atlantis: Milo's Return"
-    sort_title: "Atlantis: Milo's Return"
+    sort_title: Atlantis 2
     release_year: '2003'
     url_poster: https://theposterdb.com/api/assets/533127
     tpdb_search: "https://theposterdb.com/search?term=Atlantis:+Milo's+Return&section=movies"
@@ -574,7 +574,7 @@ metadata:
       - Animation
   10865:
     label_title: 'Atlantis: The Lost Empire'
-    sort_title: 'Atlantis: The Lost Empire'
+    sort_title: Atlantis 1
     release_year: '2001'
     url_poster: https://theposterdb.com/api/assets/533128
     tpdb_search: https://theposterdb.com/search?term=Atlantis:+The+Lost+Empire&section=movies
@@ -697,7 +697,7 @@ metadata:
       - Animation
   3170:
     label_title: Bambi
-    sort_title: Bambi
+    sort_title: Bambi 1
     release_year: '1942'
     url_poster: https://theposterdb.com/api/assets/533688
     tpdb_search: https://theposterdb.com/search?term=Bambi&section=movies
@@ -706,7 +706,7 @@ metadata:
       - Animation
   13205:
     label_title: Bambi II
-    sort_title: Bambi II
+    sort_title: Bambi 2
     release_year: '2006'
     url_poster: https://theposterdb.com/api/assets/533687
     tpdb_search: https://theposterdb.com/search?term=Bambi+II&section=movies
@@ -805,7 +805,7 @@ metadata:
       - Drama
   321612:
     label_title: Beauty and the Beast
-    sort_title: Beauty and the Beast
+    sort_title: Beauty and the Beast (Live-Action) 1
     release_year: '2017'
     url_poster: https://theposterdb.com/api/assets/536993
     tpdb_search: https://theposterdb.com/search?term=Beauty+and+the+Beast&section=movies
@@ -814,7 +814,7 @@ metadata:
       - Family
   10020:
     label_title: Beauty and the Beast
-    sort_title: Beauty and the Beast
+    sort_title: Beauty and the Beast (Animated) 1
     release_year: '1991'
     url_poster: https://theposterdb.com/api/assets/534028
     tpdb_search: https://theposterdb.com/search?term=Beauty+and+the+Beast&section=movies
@@ -823,7 +823,7 @@ metadata:
       - Animation
   13313:
     label_title: 'Beauty and the Beast: The Enchanted Christmas'
-    sort_title: 'Beauty and the Beast: The Enchanted Christmas'
+    sort_title: Beauty and the Beast (Animated) 2
     release_year: '1997'
     url_poster: https://theposterdb.com/api/assets/534027
     tpdb_search: https://theposterdb.com/search?term=Beauty+and+the+Beast:+The+Enchanted+Christmas&section=movies
@@ -857,7 +857,7 @@ metadata:
       - Family
   20235:
     label_title: "Belle's Magical World"
-    sort_title: "Belle's Magical World"
+    sort_title: Beauty and the Beast (Animated) 3
     release_year: '1998'
     url_poster: https://theposterdb.com/api/assets/534026
     tpdb_search: "https://theposterdb.com/search?term=Belle's+Magical+World&section=movies"
@@ -1173,7 +1173,7 @@ metadata:
       - Drama
   10009:
     label_title: Brother Bear
-    sort_title: Brother Bear
+    sort_title: Brother Bear 1
     release_year: '2003'
     url_poster: https://theposterdb.com/api/assets/533123
     tpdb_search: https://theposterdb.com/search?term=Brother+Bear&section=movies
@@ -1375,7 +1375,7 @@ metadata:
       - Family
   150689:
     label_title: Cinderella
-    sort_title: Cinderella
+    sort_title: Cinderella (Live-Action) 1
     release_year: '2015'
     url_poster: https://theposterdb.com/api/assets/536997
     tpdb_search: https://theposterdb.com/search?term=Cinderella&section=movies
@@ -1384,7 +1384,7 @@ metadata:
       - Family
   11224:
     label_title: Cinderella
-    sort_title: Cinderella
+    sort_title: Cinderella (Animated) 1
     release_year: '1950'
     url_poster: https://theposterdb.com/api/assets/533184
     tpdb_search: https://theposterdb.com/search?term=Cinderella&section=movies
@@ -1392,8 +1392,8 @@ metadata:
     genre.sync:
       - Animation
   16119:
-    label_title: 'Cinderella II: A Twist in Time'
-    sort_title: 'Cinderella II: A Twist in Time'
+    label_title: 'Cinderella III: A Twist in Time'
+    sort_title: Cinderella (Animated) 3
     release_year: '2007'
     url_poster: https://theposterdb.com/api/assets/533182
     tpdb_search: https://theposterdb.com/search?term=Cinderella+II:+A+Twist+in+Time&section=movies
@@ -1402,7 +1402,7 @@ metadata:
       - Animation
   14128:
     label_title: 'Cinderella II: Dreams Come True'
-    sort_title: 'Cinderella II: Dreams Come True'
+    sort_title: Cinderella (Animated) 2
     release_year: '2002'
     url_poster: https://theposterdb.com/api/assets/533183
     tpdb_search: https://theposterdb.com/search?term=Cinderella+II:+Dreams+Come+True&section=movies
@@ -1940,7 +1940,7 @@ metadata:
       - Animation
   11688:
     label_title: "The Emporer's New Groove"
-    sort_title: "Emporer's New Groove"
+    sort_title: "Emporer's New Groove 1"
     release_year: '2000'
     url_poster: https://theposterdb.com/api/assets/532999
     tpdb_search: "https://theposterdb.com/search?term=The+Emporer's+New+Groove&section=movies"
@@ -2453,7 +2453,7 @@ metadata:
       - Action
   10948:
     label_title: The Fox and the Hound
-    sort_title: Fox and the Hound
+    sort_title: Fox and the Hound 1
     release_year: '1981'
     url_poster: https://theposterdb.com/api/assets/535709
     tpdb_search: https://theposterdb.com/search?term=The+Fox+and+the+Hound&section=movies
@@ -2496,7 +2496,7 @@ metadata:
       - Comedy
   109445:
     label_title: Frozen
-    sort_title: Frozen
+    sort_title: Frozen 1
     release_year: '2013'
     url_poster: https://theposterdb.com/api/assets/517018
     tpdb_search: https://theposterdb.com/search?term=Frozen&section=movies
@@ -2505,7 +2505,7 @@ metadata:
       - Animation
   330457:
     label_title: Frozen II
-    sort_title: Frozen II
+    sort_title: Frozen 2
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/517017
     tpdb_search: https://theposterdb.com/search?term=Frozen+II&section=movies
@@ -3006,7 +3006,7 @@ metadata:
       - Family
   11970:
     label_title: Hercules
-    sort_title: Hercules
+    sort_title: Hercules 1
     release_year: '1997'
     url_poster: https://theposterdb.com/api/assets/534042
     tpdb_search: https://theposterdb.com/search?term=Hercules&section=movies
@@ -3015,7 +3015,7 @@ metadata:
       - Animation
   153609:
     label_title: 'Hercules: Zero to Hero'
-    sort_title: 'Hercules: Zero to Hero'
+    sort_title: Hercules 2
     release_year: '1999'
     url_poster: https://theposterdb.com/api/assets/534041
     tpdb_search: https://theposterdb.com/search?term=Hercules:+Zero+to+Hero&section=movies
@@ -3258,7 +3258,7 @@ metadata:
       - Superhero
   10545:
     label_title: The Hunchback of Notre Dame
-    sort_title: Hunchback of Notre Dame
+    sort_title: Hunchback of Notre Dame 1
     release_year: '1996'
     url_poster: https://theposterdb.com/api/assets/534016
     tpdb_search: https://theposterdb.com/search?term=The+Hunchback+of+Notre+Dame&section=movies
@@ -3267,7 +3267,7 @@ metadata:
       - Animation
   12448:
     label_title: The Hunchback of Notre Dame II
-    sort_title: Hunchback of Notre Dame II
+    sort_title: Hunchback of Notre Dame 2
     release_year: '2002'
     url_poster: https://theposterdb.com/api/assets/534015
     tpdb_search: https://theposterdb.com/search?term=The+Hunchback+of+Notre+Dame+II&section=movies
@@ -3724,7 +3724,7 @@ metadata:
       - Science Fiction
   9325:
     label_title: The Jungle Book
-    sort_title: Jungle Book
+    sort_title: Jungle Book (Animated) 1
     release_year: '1967'
     url_poster: https://theposterdb.com/api/assets/534019
     tpdb_search: https://theposterdb.com/search?term=The+Jungle+Book&section=movies
@@ -3733,7 +3733,7 @@ metadata:
       - Animation
   10714:
     label_title: The Jungle Book
-    sort_title: Jungle Book 1
+    sort_title: Jungle Book (Live-Action) 1
     release_year: '1994'
     url_poster: https://theposterdb.com/api/assets/537002
     tpdb_search: https://theposterdb.com/search?term=The+Jungle+Book&section=movies
@@ -3742,7 +3742,7 @@ metadata:
       - Family
   278927:
     label_title: The Jungle Book
-    sort_title: Jungle Book 2
+    sort_title: Jungle Book (Live-Action) 2
     release_year: '2016'
     url_poster: https://theposterdb.com/api/assets/536996
     tpdb_search: https://theposterdb.com/search?term=The+Jungle+Book&section=movies
@@ -3751,7 +3751,7 @@ metadata:
       - Family
   14873:
     label_title: The Jungle Book 2
-    sort_title: Jungle Book 2
+    sort_title: Jungle Book (Animated) 2
     release_year: '2003'
     url_poster: https://theposterdb.com/api/assets/534018
     tpdb_search: https://theposterdb.com/search?term=The+Jungle+Book+2&section=movies
@@ -3923,7 +3923,7 @@ metadata:
       - Superhero
   13417:
     label_title: "Kronk's New Groove"
-    sort_title: "Kronk's New Groove"
+    sort_title: "Emporer's New Groove 2"
     release_year: '2005'
     url_poster: https://theposterdb.com/api/assets/532998
     tpdb_search: "https://theposterdb.com/search?term=Kronk's+New+Groove&section=movies"
@@ -3986,7 +3986,7 @@ metadata:
       - Animation
   512895:
     label_title: Lady and the Tramp
-    sort_title: Lady and the Tramp (Live-Action)
+    sort_title: Lady and the Tramp (Live-Action) 1
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/536987
     tpdb_search: https://theposterdb.com/search?term=Lady+and+the+Tramp&section=movies
@@ -4063,7 +4063,7 @@ metadata:
       - Fantasy
   21316:
     label_title: Leroy & Stitch
-    sort_title: Leroy & Stitch
+    sort_title: Lilo & Stitch (Animated) 4
     release_year: '2006'
     url_poster: https://theposterdb.com/api/assets/533132
     tpdb_search: https://theposterdb.com/search?term=Leroy+%26+Stitch&section=movies
@@ -4117,7 +4117,7 @@ metadata:
       - Family
   552524:
     label_title: Lilo & Stitch
-    sort_title: Lilo & Stitch
+    sort_title: Lilo & Stitch (Live-Action) 1
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/554954
     tpdb_search: https://theposterdb.com/search?term=Lilo+%26+Stitch&section=movies
@@ -4125,7 +4125,7 @@ metadata:
       - Family
   11544:
     label_title: Lilo & Stitch
-    sort_title: Lilo & Stitch
+    sort_title: Lilo & Stitch (Animated) 1
     release_year: '2002'
     url_poster: https://theposterdb.com/api/assets/533135
     tpdb_search: https://theposterdb.com/search?term=Lilo+%26+Stitch&section=movies
@@ -4134,7 +4134,7 @@ metadata:
       - Animation
   20760:
     label_title: 'Lilo & Stitch 2: Stitch Has a Glitch'
-    sort_title: 'Lilo & Stitch 2: Stitch Has a Glitch'
+    sort_title: Lilo & Stitch (Animated) 3
     release_year: '2005'
     url_poster: https://theposterdb.com/api/assets/533133
     tpdb_search: https://theposterdb.com/search?term=Lilo+%26+Stitch+2:+Stitch+Has+a+Glitch&section=movies
@@ -4143,7 +4143,7 @@ metadata:
       - Animation
   8587:
     label_title: The Lion King
-    sort_title: Lion King
+    sort_title: Lion King (Animated) 1
     release_year: '1994'
     url_poster: https://theposterdb.com/api/assets/533170
     tpdb_search: https://theposterdb.com/search?term=The+Lion+King&section=movies
@@ -4152,7 +4152,7 @@ metadata:
       - Animation
   11430:
     label_title: The Lion King 1½
-    sort_title: Lion King 1 1/2
+    sort_title: Lion King (Animated) 2
     release_year: '2004'
     url_poster: https://theposterdb.com/api/assets/533168
     tpdb_search: https://theposterdb.com/search?term=The+Lion+King+1½&section=movies
@@ -4161,7 +4161,7 @@ metadata:
       - Animation
   9732:
     label_title: "The Lion King II: Simba's Pride"
-    sort_title: "Lion King II: Simba's Pride"
+    sort_title: Lion King (Animated) 3
     release_year: '1998'
     url_poster: https://theposterdb.com/api/assets/533169
     tpdb_search: "https://theposterdb.com/search?term=The+Lion+King+II:+Simba's+Pride&section=movies"
@@ -4170,7 +4170,7 @@ metadata:
       - Animation
   420818:
     label_title: The Lion King
-    sort_title: Lion King Reboot 1
+    sort_title: Lion King (Live-Action) 1
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/548899
     tpdb_search: https://theposterdb.com/search?term=The+Lion+King&section=movies
@@ -4178,7 +4178,7 @@ metadata:
       - Family
   762509:
     label_title: Mufasa The Lion King
-    sort_title: Lion King Reboot 2
+    sort_title: Lion King (Live-Action) 2
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/548898
     tpdb_search: https://theposterdb.com/search?term=Mufasa+The+Lion+King&section=movies
@@ -4186,7 +4186,7 @@ metadata:
       - Family
   447277:
     label_title: The Little Mermaid
-    sort_title: Little Mermaid
+    sort_title: Little Mermaid (Live-Action)
     release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/536982
     tpdb_search: https://theposterdb.com/search?term=The+Little+Mermaid&section=movies
@@ -4195,7 +4195,7 @@ metadata:
       - Family
   10144:
     label_title: The Little Mermaid
-    sort_title: Little Mermaid
+    sort_title: Little Mermaid (Animated) 1
     release_year: '1989'
     url_poster: https://theposterdb.com/api/assets/533469
     tpdb_search: https://theposterdb.com/search?term=The+Little+Mermaid&section=movies
@@ -4204,7 +4204,7 @@ metadata:
       - Animation
   10898:
     label_title: 'The Little Mermaid II: Return to the Sea'
-    sort_title: 'Little Mermaid II: Return to the Sea'
+    sort_title: Little Mermaid (Animated) 2
     release_year: '2000'
     url_poster: https://theposterdb.com/api/assets/533468
     tpdb_search: https://theposterdb.com/search?term=The+Little+Mermaid+II:+Return+to+the+Sea&section=movies
@@ -4213,7 +4213,7 @@ metadata:
       - Animation
   13676:
     label_title: "The Little Mermaid: Ariel's Beginning"
-    sort_title: "Little Mermaid: Ariel's Beginning"
+    sort_title: Little Mermaid (Animated) 3
     release_year: '2008'
     url_poster: https://theposterdb.com/api/assets/533467
     tpdb_search: "https://theposterdb.com/search?term=The+Little+Mermaid:+Ariel's+Beginning&section=movies"
@@ -4924,7 +4924,7 @@ metadata:
       - Animation
   337401:
     label_title: Mulan
-    sort_title: Mulan
+    sort_title: Mulan (Live-Action) 1
     release_year: '2020'
     url_poster: https://theposterdb.com/api/assets/536986
     tpdb_search: https://theposterdb.com/search?term=Mulan&section=movies
@@ -4933,7 +4933,7 @@ metadata:
       - Family
   10674:
     label_title: Mulan
-    sort_title: Mulan
+    sort_title: Mulan (Animated) 1
     release_year: '1998'
     url_poster: https://theposterdb.com/api/assets/533156
     tpdb_search: https://theposterdb.com/search?term=Mulan&section=movies
@@ -4942,7 +4942,7 @@ metadata:
       - Animation
   12242:
     label_title: Mulan II
-    sort_title: Mulan II
+    sort_title: Mulan (Animated) 2
     release_year: '2004'
     url_poster: https://theposterdb.com/api/assets/533155
     tpdb_search: https://theposterdb.com/search?term=Mulan+II&section=movies
@@ -5401,7 +5401,7 @@ metadata:
       - Family
   10693:
     label_title: Peter Pan
-    sort_title: Peter Pan
+    sort_title: Peter Pan (Animated) 1
     release_year: '1953'
     url_poster: https://theposterdb.com/api/assets/534031
     tpdb_search: https://theposterdb.com/search?term=Peter+Pan&section=movies
@@ -5410,7 +5410,7 @@ metadata:
       - Animation
   420808:
     label_title: Peter Pan and Wendy
-    sort_title: Peter Pan and Wendy
+    sort_title: Peter Pan (Live-Action) 1
     release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/536983
     tpdb_search: https://theposterdb.com/search?term=Peter+Pan+and+Wendy&section=movies
@@ -5564,7 +5564,7 @@ metadata:
       - Thriller
   10530:
     label_title: Pocahontas
-    sort_title: Pocahontas
+    sort_title: Pocahontas 1
     release_year: '1995'
     url_poster: https://theposterdb.com/api/assets/534022
     tpdb_search: https://theposterdb.com/search?term=Pocahontas&section=movies
@@ -5573,7 +5573,7 @@ metadata:
       - Animation
   13761:
     label_title: 'Pocahontas II: Journey to a New World'
-    sort_title: 'Pocahontas II: Journey to a New World'
+    sort_title: Pocahontas 2
     release_year: '1998'
     url_poster: https://theposterdb.com/api/assets/534021
     tpdb_search: https://theposterdb.com/search?term=Pocahontas+II:+Journey+to+a+New+World&section=movies
@@ -5755,7 +5755,7 @@ metadata:
       - Horror
   404368:
     label_title: Ralph Breaks the Internet
-    sort_title: Ralph Breaks the Internet
+    sort_title: Wreck-It Ralph 2
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/532967
     tpdb_search: https://theposterdb.com/search?term=Ralph+Breaks+the+Internet&section=movies
@@ -5827,7 +5827,7 @@ metadata:
       - Thriller
   15969:
     label_title: The Return of Jafar
-    sort_title: Return of Jafar
+    sort_title: Aladdin (Animated) 2
     release_year: '1994'
     url_poster: https://theposterdb.com/api/assets/533695
     tpdb_search: https://theposterdb.com/search?term=The+Return+of+Jafar&section=movies
@@ -5836,7 +5836,7 @@ metadata:
       - Animation
   16690:
     label_title: Return to Never Land
-    sort_title: Return to Never Land
+    sort_title: Peter Pan (Animated) 2
     release_year: '2002'
     url_poster: https://theposterdb.com/api/assets/534030
     tpdb_search: https://theposterdb.com/search?term=Return+to+Never+Land&section=movies
@@ -6691,7 +6691,7 @@ metadata:
       - Comedy
   15567:
     label_title: Stitch! The Movie
-    sort_title: Stitch! The Movie
+    sort_title: Lilo & Stitch (Animated) 2
     release_year: '2003'
     url_poster: https://theposterdb.com/api/assets/533134
     tpdb_search: https://theposterdb.com/search?term=Stitch!+The+Movie&section=movies
@@ -6826,7 +6826,7 @@ metadata:
       - Animation
   37135:
     label_title: Tarzan
-    sort_title: Tarzan
+    sort_title: Tarzan 1
     release_year: '1999'
     url_poster: https://theposterdb.com/api/assets/533152
     tpdb_search: https://theposterdb.com/search?term=Tarzan&section=movies
@@ -6835,7 +6835,7 @@ metadata:
       - Animation
   13683:
     label_title: Tarzan & Jane
-    sort_title: Tarzan & Jane
+    sort_title: Tarzan 2
     release_year: '2002'
     url_poster: https://theposterdb.com/api/assets/533151
     tpdb_search: https://theposterdb.com/search?term=Tarzan+%26+Jane&section=movies
@@ -6844,7 +6844,7 @@ metadata:
       - Animation
   15657:
     label_title: Tarzan II
-    sort_title: Tarzan II
+    sort_title: Tarzan 3
     release_year: '2005'
     url_poster: https://theposterdb.com/api/assets/533150
     tpdb_search: https://theposterdb.com/search?term=Tarzan+II&section=movies
@@ -7651,7 +7651,7 @@ metadata:
       - Action
   82690:
     label_title: Wreck-It Ralph
-    sort_title: Wreck-It Ralph
+    sort_title: Wreck-It Ralph 1
     release_year: '2012'
     url_poster: https://theposterdb.com/api/assets/532968
     tpdb_search: https://theposterdb.com/search?term=Wreck-It+Ralph&section=movies
