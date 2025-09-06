@@ -1680,6 +1680,15 @@ metadata:
     studio: Disney
     genre.sync:
       - Family
+  11360:
+    label_title: Dumbo
+    sort_title: Dumbo
+    release_year: '1941'
+    url_poster: https://theposterdb.com/api/assets/535773
+    tpdb_search: https://theposterdb.com/search?term=Dumbo&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   438631:
     label_title: Dune
     sort_title: Dune 1
