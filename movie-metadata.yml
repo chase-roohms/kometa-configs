@@ -2352,6 +2352,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Fountain+of+Youth&section=movies
     genre.sync:
       - Action
+  10948:
+    label_title: The Fox and the Hound
+    sort_title: Fox and the Hound
+    release_year: '1981'
+    url_poster: https://theposterdb.com/api/assets/535709
+    tpdb_search: https://theposterdb.com/search?term=The+Fox+and+the+Hound&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   10330:
     label_title: Freaky Friday
     sort_title: Freaky Friday 1
