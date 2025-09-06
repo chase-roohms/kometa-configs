@@ -3103,6 +3103,15 @@ metadata:
     studio: Walt Disney Animation Studios
     genre.sync:
       - Animation
+  12448:
+    label_title: The Hunchback of Notre Dame II
+    sort_title: Hunchback of Notre Dame II
+    release_year: '2002'
+    url_poster: https://theposterdb.com/api/assets/534015
+    tpdb_search: https://theposterdb.com/search?term=The+Hunchback+of+Notre+Dame+II&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   70160:
     label_title: The Hunger Games
     sort_title: Hunger Games 1
