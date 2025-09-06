@@ -1219,6 +1219,15 @@ metadata:
     studio: Disney
     genre.sync:
       - Family
+  150689:
+    label_title: Cinderella
+    sort_title: Cinderella
+    release_year: '2015'
+    url_poster: https://theposterdb.com/api/assets/536997
+    tpdb_search: https://theposterdb.com/search?term=Cinderella&section=movies
+    studio: Disney
+    genre.sync:
+      - Family
   929590:
     label_title: Civil War
     sort_title: Civil War
