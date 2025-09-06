@@ -545,6 +545,15 @@ metadata:
     genre.sync:
       - Science Fiction
       - Thriller
+  10865:
+    label_title: 'Atlantis: The Lost Empire'
+    sort_title: 'Atlantis: The Lost Empire'
+    release_year: '2001'
+    url_poster: https://theposterdb.com/api/assets/533128
+    tpdb_search: https://theposterdb.com/search?term=Atlantis:+The+Lost+Empire&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   19995:
     label_title: Avatar
     sort_title: Avatar 1
