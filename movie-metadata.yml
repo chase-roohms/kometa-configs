@@ -3872,6 +3872,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Legend+of+Oshi&section=movies
     genre.sync:
       - Fantasy
+  21316:
+    label_title: Leroy & Stitch
+    sort_title: Leroy & Stitch
+    release_year: '2006'
+    url_poster: https://theposterdb.com/api/assets/533132
+    tpdb_search: https://theposterdb.com/search?term=Leroy+%26+Stitch&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   244566:
     label_title: Life After Beth
     sort_title: Life After Beth
