@@ -838,6 +838,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Black+Bag&section=movies
     genre.sync:
       - Action
+  10957:
+    label_title: The Black Cauldron
+    sort_title: Black Cauldron
+    release_year: '1985'
+    url_poster: https://theposterdb.com/api/assets/535761
+    tpdb_search: https://theposterdb.com/search?term=The+Black+Cauldron&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   284054:
     label_title: Black Panther
     sort_title: Black Panther 1
