@@ -5481,6 +5481,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Platform+2&section=movies
     genre.sync:
       - Thriller
+  10530:
+    label_title: Pocahontas
+    sort_title: Pocahontas
+    release_year: '1995'
+    url_poster: https://theposterdb.com/api/assets/534022
+    tpdb_search: https://theposterdb.com/search?term=Pocahontas&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   12429:
     label_title: Ponyo
     sort_title: Ponyo
