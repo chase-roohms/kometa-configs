@@ -5435,6 +5435,15 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
+  11886:
+    label_title: Robin Hood
+    sort_title: Robin Hood
+    release_year: '1973'
+    url_poster: https://theposterdb.com/api/assets/535762
+    tpdb_search: https://theposterdb.com/search?term=Robin+Hood&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   15373:
     label_title: Role Models
     sort_title: Role Models
