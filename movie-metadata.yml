@@ -3094,6 +3094,15 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
+  10545:
+    label_title: The Hunchback of Notre Dame
+    sort_title: Hunchback of Notre Dame
+    release_year: '1996'
+    url_poster: https://theposterdb.com/api/assets/534016
+    tpdb_search: https://theposterdb.com/search?term=The+Hunchback+of+Notre+Dame&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   70160:
     label_title: The Hunger Games
     sort_title: Hunger Games 1
