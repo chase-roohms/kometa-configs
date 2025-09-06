@@ -6239,6 +6239,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Step+Brothers&section=movies
     genre.sync:
       - Comedy
+  877269:
+    label_title: Strange World
+    sort_title: Strange World
+    release_year: '2022'
+    url_poster: https://theposterdb.com/api/assets/532948
+    tpdb_search: https://theposterdb.com/search?term=Strange+World&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   806731:
     label_title: Stream
     sort_title: Stream
