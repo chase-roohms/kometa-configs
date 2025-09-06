@@ -4414,6 +4414,15 @@ metadata:
     studio: DreamWorks Animation
     genre.sync:
       - Animation
+  337401:
+    label_title: Mulan
+    sort_title: Mulan
+    release_year: '2020'
+    url_poster: https://theposterdb.com/api/assets/536986
+    tpdb_search: https://theposterdb.com/search?term=Mulan&section=movies
+    studio: Disney
+    genre.sync:
+      - Family
   505262:
     label_title: My Hero Academia Two Heroes
     sort_title: My Hero Academia 1
