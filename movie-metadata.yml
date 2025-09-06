@@ -783,6 +783,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Beethoven&section=movies
     genre.sync:
       - Family
+  20235:
+    label_title: "Belle's Magical World"
+    sort_title: "Belle's Magical World"
+    release_year: '1998'
+    url_poster: https://theposterdb.com/api/assets/534026
+    tpdb_search: "https://theposterdb.com/search?term=Belle's+Magical+World&section=movies"
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   113082:
     label_title: Berserk The Golden Age Arc I The Egg of the King
     sort_title: Berzerk The Golden Age Arc 1
