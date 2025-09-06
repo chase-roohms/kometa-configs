@@ -171,6 +171,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Air+Bud&section=movies
     genre.sync:
       - Family
+  420817:
+    label_title: Aladdin
+    sort_title: Aladdin
+    release_year: '2019'
+    url_poster: https://theposterdb.com/api/assets/536990
+    tpdb_search: https://theposterdb.com/search?term=Aladdin&section=movies
+    studio: Disney
+    genre.sync:
+      - Family
   241259:
     label_title: Alice Through the Looking Glass
     sort_title: Alice Through the Looking Glass
