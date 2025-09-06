@@ -46,7 +46,7 @@ metadata:
     release_year: '1961'
     url_poster: https://theposterdb.com/api/assets/535713
     tpdb_search: https://theposterdb.com/search?term=101+Dalmatians&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   13654:
@@ -55,7 +55,7 @@ metadata:
     release_year: '2003'
     url_poster: https://theposterdb.com/api/assets/535712
     tpdb_search: "https://theposterdb.com/search?term=101+Dalmatians+II:+Patch's+London+Adventure&section=movies"
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   11674:
@@ -213,7 +213,7 @@ metadata:
     release_year: '1992'
     url_poster: https://theposterdb.com/api/assets/533696
     tpdb_search: https://theposterdb.com/search?term=Aladdin&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   15969:
@@ -222,7 +222,7 @@ metadata:
     release_year: '1994'
     url_poster: https://theposterdb.com/api/assets/533695
     tpdb_search: https://theposterdb.com/search?term=The+Return+of+Jafar&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   11238:
@@ -231,7 +231,7 @@ metadata:
     release_year: '1996'
     url_poster: https://theposterdb.com/api/assets/533694
     tpdb_search: https://theposterdb.com/search?term=Aladdin+and+the+King+of+Thieves&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   420817:
@@ -249,7 +249,7 @@ metadata:
     release_year: '1951'
     url_poster: https://theposterdb.com/api/assets/535766
     tpdb_search: https://theposterdb.com/search?term=Alice+in+Wonderland&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   12155:
@@ -543,7 +543,7 @@ metadata:
     release_year: '1970'
     url_poster: https://theposterdb.com/api/assets/535763
     tpdb_search: https://theposterdb.com/search?term=The+Aristocats&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   256274:
@@ -578,7 +578,7 @@ metadata:
     release_year: '2001'
     url_poster: https://theposterdb.com/api/assets/533128
     tpdb_search: https://theposterdb.com/search?term=Atlantis:+The+Lost+Empire&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   8965:
@@ -587,7 +587,7 @@ metadata:
     release_year: '2003'
     url_poster: https://theposterdb.com/api/assets/533127
     tpdb_search: "https://theposterdb.com/search?term=Atlantis:+Milo's+Return&section=movies"
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   19995:
@@ -710,7 +710,7 @@ metadata:
     release_year: '1942'
     url_poster: https://theposterdb.com/api/assets/533688
     tpdb_search: https://theposterdb.com/search?term=Bambi&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   13205:
@@ -719,7 +719,7 @@ metadata:
     release_year: '2006'
     url_poster: https://theposterdb.com/api/assets/533687
     tpdb_search: https://theposterdb.com/search?term=Bambi+II&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   913290:
@@ -818,7 +818,7 @@ metadata:
     release_year: '1991'
     url_poster: https://theposterdb.com/api/assets/534028
     tpdb_search: https://theposterdb.com/search?term=Beauty+and+the+Beast&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   13313:
@@ -827,7 +827,7 @@ metadata:
     release_year: '1997'
     url_poster: https://theposterdb.com/api/assets/534027
     tpdb_search: https://theposterdb.com/search?term=Beauty+and+the+Beast:+The+Enchanted+Christmas&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   20235:
@@ -836,7 +836,7 @@ metadata:
     release_year: '1998'
     url_poster: https://theposterdb.com/api/assets/534026
     tpdb_search: "https://theposterdb.com/search?term=Belle's+Magical+World&section=movies"
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   321612:
@@ -911,7 +911,7 @@ metadata:
     release_year: '2014'
     url_poster: https://theposterdb.com/api/assets/532952
     tpdb_search: https://theposterdb.com/search?term=Big+Hero+6&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   16790:
@@ -952,7 +952,7 @@ metadata:
     release_year: '1985'
     url_poster: https://theposterdb.com/api/assets/535761
     tpdb_search: https://theposterdb.com/search?term=The+Black+Cauldron&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   284054:
@@ -1109,7 +1109,7 @@ metadata:
     release_year: '2008'
     url_poster: https://theposterdb.com/api/assets/532956
     tpdb_search: https://theposterdb.com/search?term=Bolt&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   295693:
@@ -1186,7 +1186,7 @@ metadata:
     release_year: '2003'
     url_poster: https://theposterdb.com/api/assets/533123
     tpdb_search: https://theposterdb.com/search?term=Brother+Bear&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   10010:
@@ -1195,7 +1195,7 @@ metadata:
     release_year: '2006'
     url_poster: https://theposterdb.com/api/assets/533122
     tpdb_search: https://theposterdb.com/search?term=Brother+Bear+2&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   7445:
@@ -1370,7 +1370,7 @@ metadata:
     release_year: '2005'
     url_poster: https://theposterdb.com/api/assets/532958
     tpdb_search: https://theposterdb.com/search?term=Chicken+Little&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   420814:
@@ -1388,7 +1388,7 @@ metadata:
     release_year: '1950'
     url_poster: https://theposterdb.com/api/assets/533184
     tpdb_search: https://theposterdb.com/search?term=Cinderella&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   14128:
@@ -1397,7 +1397,7 @@ metadata:
     release_year: '2002'
     url_poster: https://theposterdb.com/api/assets/533183
     tpdb_search: https://theposterdb.com/search?term=Cinderella+II:+Dreams+Come+True&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   16119:
@@ -1406,7 +1406,7 @@ metadata:
     release_year: '2007'
     url_poster: https://theposterdb.com/api/assets/533182
     tpdb_search: https://theposterdb.com/search?term=Cinderella+II:+A+Twist+in+Time&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   150689:
@@ -1732,7 +1732,7 @@ metadata:
     release_year: '2000'
     url_poster: ' https://theposterdb.com/api/assets/532990'
     tpdb_search: https://theposterdb.com/search?term=Dinosaur&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   82685:
@@ -1857,7 +1857,7 @@ metadata:
     release_year: '1941'
     url_poster: https://theposterdb.com/api/assets/535773
     tpdb_search: https://theposterdb.com/search?term=Dumbo&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   438631:
@@ -1953,7 +1953,7 @@ metadata:
     release_year: '2000'
     url_poster: https://theposterdb.com/api/assets/532999
     tpdb_search: "https://theposterdb.com/search?term=The+Emporer's+New+Groove&section=movies"
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   13417:
@@ -1962,7 +1962,7 @@ metadata:
     release_year: '2005'
     url_poster: https://theposterdb.com/api/assets/532998
     tpdb_search: "https://theposterdb.com/search?term=Kronk's+New+Groove&section=movies"
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   568124:
@@ -1971,7 +1971,7 @@ metadata:
     release_year: '2021'
     url_poster: https://theposterdb.com/api/assets/532949
     tpdb_search: https://theposterdb.com/search?term=Encanto&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   156022:
@@ -2475,7 +2475,7 @@ metadata:
     release_year: '1981'
     url_poster: https://theposterdb.com/api/assets/535709
     tpdb_search: https://theposterdb.com/search?term=The+Fox+and+the+Hound&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   9948:
@@ -2484,7 +2484,7 @@ metadata:
     release_year: '2006'
     url_poster: https://theposterdb.com/api/assets/535708
     tpdb_search: https://theposterdb.com/search?term=The+Fox+and+the+Hound+2&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   10330:
@@ -2518,7 +2518,7 @@ metadata:
     release_year: '2013'
     url_poster: https://theposterdb.com/api/assets/517018
     tpdb_search: https://theposterdb.com/search?term=Frozen&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   330457:
@@ -2527,7 +2527,7 @@ metadata:
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/517017
     tpdb_search: https://theposterdb.com/search?term=Frozen+II&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   228150:
@@ -3028,7 +3028,7 @@ metadata:
     release_year: '1997'
     url_poster: https://theposterdb.com/api/assets/534042
     tpdb_search: https://theposterdb.com/search?term=Hercules&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   153609:
@@ -3037,7 +3037,7 @@ metadata:
     release_year: '1999'
     url_poster: https://theposterdb.com/api/assets/534041
     tpdb_search: https://theposterdb.com/search?term=Hercules:+Zero+to+Hero&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   493922:
@@ -3137,7 +3137,7 @@ metadata:
     release_year: '2004'
     url_poster: https://theposterdb.com/api/assets/532959
     tpdb_search: https://theposterdb.com/search?term=Home+on+the+Range&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   1149504:
@@ -3280,7 +3280,7 @@ metadata:
     release_year: '1996'
     url_poster: https://theposterdb.com/api/assets/534016
     tpdb_search: https://theposterdb.com/search?term=The+Hunchback+of+Notre+Dame&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   12448:
@@ -3289,7 +3289,7 @@ metadata:
     release_year: '2002'
     url_poster: https://theposterdb.com/api/assets/534015
     tpdb_search: https://theposterdb.com/search?term=The+Hunchback+of+Notre+Dame+II&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   70160:
@@ -3746,7 +3746,7 @@ metadata:
     release_year: '1967'
     url_poster: https://theposterdb.com/api/assets/534019
     tpdb_search: https://theposterdb.com/search?term=The+Jungle+Book&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   14873:
@@ -3755,7 +3755,7 @@ metadata:
     release_year: '2003'
     url_poster: https://theposterdb.com/api/assets/534018
     tpdb_search: https://theposterdb.com/search?term=The+Jungle+Book+2&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   10714:
@@ -3981,7 +3981,7 @@ metadata:
     release_year: '1955'
     url_poster: https://theposterdb.com/api/assets/535716
     tpdb_search: https://theposterdb.com/search?term=Lady+and+the+Tramp&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   18269:
@@ -3990,7 +3990,7 @@ metadata:
     release_year: '1955'
     url_poster: https://theposterdb.com/api/assets/535715
     tpdb_search: https://theposterdb.com/search?term=Lady+and+the+Tramp&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   512895:
@@ -4121,7 +4121,7 @@ metadata:
     release_year: '2002'
     url_poster: https://theposterdb.com/api/assets/533135
     tpdb_search: https://theposterdb.com/search?term=Lilo+%26+Stitch&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   15567:
@@ -4130,7 +4130,7 @@ metadata:
     release_year: '2003'
     url_poster: https://theposterdb.com/api/assets/533134
     tpdb_search: https://theposterdb.com/search?term=Stitch!+The+Movie&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   20760:
@@ -4139,7 +4139,7 @@ metadata:
     release_year: '2005'
     url_poster: https://theposterdb.com/api/assets/533133
     tpdb_search: https://theposterdb.com/search?term=Lilo+%26+Stitch+2:+Stitch+Has+a+Glitch&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   21316:
@@ -4148,7 +4148,7 @@ metadata:
     release_year: '2006'
     url_poster: https://theposterdb.com/api/assets/533132
     tpdb_search: https://theposterdb.com/search?term=Leroy+%26+Stitch&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   552524:
@@ -4165,7 +4165,7 @@ metadata:
     release_year: '1994'
     url_poster: https://theposterdb.com/api/assets/533170
     tpdb_search: https://theposterdb.com/search?term=The+Lion+King&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   11430:
@@ -4174,7 +4174,7 @@ metadata:
     release_year: '2004'
     url_poster: https://theposterdb.com/api/assets/533168
     tpdb_search: https://theposterdb.com/search?term=The+Lion+King+1½&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   9732:
@@ -4183,7 +4183,7 @@ metadata:
     release_year: '1998'
     url_poster: https://theposterdb.com/api/assets/533169
     tpdb_search: "https://theposterdb.com/search?term=The+Lion+King+II:+Simba's+Pride&section=movies"
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   420818:
@@ -4208,7 +4208,7 @@ metadata:
     release_year: '1989'
     url_poster: https://theposterdb.com/api/assets/533469
     tpdb_search: https://theposterdb.com/search?term=The+Little+Mermaid&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   10898:
@@ -4217,7 +4217,7 @@ metadata:
     release_year: '2000'
     url_poster: https://theposterdb.com/api/assets/533468
     tpdb_search: https://theposterdb.com/search?term=The+Little+Mermaid+II:+Return+to+the+Sea&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   13676:
@@ -4226,7 +4226,7 @@ metadata:
     release_year: '2008'
     url_poster: https://theposterdb.com/api/assets/533467
     tpdb_search: "https://theposterdb.com/search?term=The+Little+Mermaid:+Ariel's+Beginning&section=movies"
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   447277:
@@ -4648,7 +4648,7 @@ metadata:
     release_year: '2007'
     url_poster: https://theposterdb.com/api/assets/532957
     tpdb_search: https://theposterdb.com/search?term=Meet+the+Robinsons&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   38055:
@@ -4857,7 +4857,7 @@ metadata:
     release_year: '2016'
     url_poster: https://theposterdb.com/api/assets/532965
     tpdb_search: https://theposterdb.com/search?term=Moana&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   1241982:
@@ -4866,7 +4866,7 @@ metadata:
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/532964
     tpdb_search: https://theposterdb.com/search?term=Moana+2&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   1124620:
@@ -4946,7 +4946,7 @@ metadata:
     release_year: '1998'
     url_poster: https://theposterdb.com/api/assets/533156
     tpdb_search: https://theposterdb.com/search?term=Mulan&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   12242:
@@ -4955,7 +4955,7 @@ metadata:
     release_year: '2004'
     url_poster: https://theposterdb.com/api/assets/533155
     tpdb_search: https://theposterdb.com/search?term=Mulan+II&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   337401:
@@ -5203,7 +5203,7 @@ metadata:
     release_year: '1988'
     url_poster: https://theposterdb.com/api/assets/535759
     tpdb_search: https://theposterdb.com/search?term=Oliver+%26+Company&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   508439:
@@ -5423,7 +5423,7 @@ metadata:
     release_year: '1953'
     url_poster: https://theposterdb.com/api/assets/534031
     tpdb_search: https://theposterdb.com/search?term=Peter+Pan&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   16690:
@@ -5432,7 +5432,7 @@ metadata:
     release_year: '2002'
     url_poster: https://theposterdb.com/api/assets/534030
     tpdb_search: https://theposterdb.com/search?term=Return+to+Never+Land&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   420808:
@@ -5476,7 +5476,7 @@ metadata:
     release_year: '1940'
     url_poster: https://theposterdb.com/api/assets/535775
     tpdb_search: https://theposterdb.com/search?term=Pinocchio&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   22:
@@ -5595,7 +5595,7 @@ metadata:
     release_year: '1995'
     url_poster: https://theposterdb.com/api/assets/534022
     tpdb_search: https://theposterdb.com/search?term=Pocahontas&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   13761:
@@ -5604,7 +5604,7 @@ metadata:
     release_year: '1998'
     url_poster: https://theposterdb.com/api/assets/534021
     tpdb_search: https://theposterdb.com/search?term=Pocahontas+II:+Journey+to+a+New+World&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   12429:
@@ -5709,7 +5709,7 @@ metadata:
     release_year: '2009'
     url_poster: https://theposterdb.com/api/assets/532955
     tpdb_search: https://theposterdb.com/search?term=The+Princess+and+the+Frog&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   128:
@@ -5795,7 +5795,7 @@ metadata:
     release_year: '2021'
     url_poster: https://theposterdb.com/api/assets/532950
     tpdb_search: https://theposterdb.com/search?term=Raya+and+the+Last+Dragon&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   1013850:
@@ -5891,7 +5891,7 @@ metadata:
     release_year: '1973'
     url_poster: https://theposterdb.com/api/assets/535762
     tpdb_search: https://theposterdb.com/search?term=Robin+Hood&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   15373:
@@ -6288,7 +6288,7 @@ metadata:
     release_year: '1959'
     url_poster: https://theposterdb.com/api/assets/535765
     tpdb_search: https://theposterdb.com/search?term=Sleeping+Beauty&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   11551:
@@ -6338,7 +6338,7 @@ metadata:
     release_year: '1938'
     url_poster: https://theposterdb.com/api/assets/535776
     tpdb_search: https://theposterdb.com/search?term=Snow+White+and+the+Seven+Dwarfs&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   454626:
@@ -6695,7 +6695,7 @@ metadata:
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/532948
     tpdb_search: https://theposterdb.com/search?term=Strange+World&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   806731:
@@ -6794,7 +6794,7 @@ metadata:
     release_year: '1963'
     url_poster: https://theposterdb.com/api/assets/535764
     tpdb_search: https://theposterdb.com/search?term=The+Sword+in+the+Stone&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   1008042:
@@ -6812,7 +6812,7 @@ metadata:
     release_year: '2010'
     url_poster: https://theposterdb.com/api/assets/532954
     tpdb_search: https://theposterdb.com/search?term=Tangled&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   37135:
@@ -6821,7 +6821,7 @@ metadata:
     release_year: '1999'
     url_poster: https://theposterdb.com/api/assets/533152
     tpdb_search: https://theposterdb.com/search?term=Tarzan&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   13683:
@@ -6830,7 +6830,7 @@ metadata:
     release_year: '2002'
     url_poster: https://theposterdb.com/api/assets/533151
     tpdb_search: https://theposterdb.com/search?term=Tarzan+%26+Jane&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   15657:
@@ -6839,7 +6839,7 @@ metadata:
     release_year: '2005'
     url_poster: https://theposterdb.com/api/assets/533150
     tpdb_search: https://theposterdb.com/search?term=Tarzan+II&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   877703:
@@ -7129,7 +7129,7 @@ metadata:
     release_year: '2002'
     url_poster: https://theposterdb.com/api/assets/532987
     tpdb_search: https://theposterdb.com/search?term=Treasure+Planet&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   1005031:
@@ -7552,7 +7552,7 @@ metadata:
     release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/532947
     tpdb_search: https://theposterdb.com/search?term=Wish&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   310131:
@@ -7646,7 +7646,7 @@ metadata:
     release_year: '2012'
     url_poster: https://theposterdb.com/api/assets/532968
     tpdb_search: https://theposterdb.com/search?term=Wreck-It+Ralph&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   404368:
@@ -7655,7 +7655,7 @@ metadata:
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/532967
     tpdb_search: https://theposterdb.com/search?term=Ralph+Breaks+the+Internet&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
   760104:
@@ -7771,6 +7771,6 @@ metadata:
     release_year: '2016'
     url_poster: https://theposterdb.com/api/assets/532951
     tpdb_search: https://theposterdb.com/search?term=Zootopia&section=movies
-    studio: Walt Disney Animation Studios
+    studio: Disney
     genre.sync:
       - Animation
