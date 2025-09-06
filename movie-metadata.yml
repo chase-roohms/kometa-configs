@@ -3925,6 +3925,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Lilo+%26+Stitch&section=movies
     genre.sync:
       - Family
+  11544:
+    label_title: Lilo & Stitch
+    sort_title: Lilo & Stitch
+    release_year: '2002'
+    url_poster: https://theposterdb.com/api/assets/533135
+    tpdb_search: https://theposterdb.com/search?term=Lilo+%26+Stitch&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   420818:
     label_title: The Lion King
     sort_title: Lion King Reboot 1
