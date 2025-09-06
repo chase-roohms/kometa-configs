@@ -198,6 +198,15 @@ metadata:
     studio: Disney
     genre.sync:
       - Family
+  12155:
+    label_title: Alice in Wonderland
+    sort_title: Alice in Wonderland
+    release_year: '2010'
+    url_poster: https://theposterdb.com/api/assets/536999
+    tpdb_search: https://theposterdb.com/search?term=Alice+in+Wonderland&section=movies
+    studio: Disney
+    genre.sync:
+      - Family
   241259:
     label_title: Alice Through the Looking Glass
     sort_title: Alice Through the Looking Glass
