@@ -1580,6 +1580,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Forces+of+Nature:+The+Dry+2&section=movies
     genre.sync:
       - Thriller
+  329996:
+    label_title: Dumbo
+    sort_title: Dumbo
+    release_year: '2019'
+    url_poster: https://theposterdb.com/api/assets/536991
+    tpdb_search: https://theposterdb.com/search?term=Dumbo&section=movies
+    studio: Disney
+    genre.sync:
+      - Family
   438631:
     label_title: Dune
     sort_title: Dune 1
