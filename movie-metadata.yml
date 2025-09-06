@@ -6673,6 +6673,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Transformers+One&section=movies
     genre.sync:
       - Animation
+  9016:
+    label_title: Treasure Planet
+    sort_title: Treasure Planet
+    release_year: '2002'
+    url_poster: https://theposterdb.com/api/assets/532987
+    tpdb_search: https://theposterdb.com/search?term=Treasure+Planet&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   1005031:
     label_title: A Trip to Infinity
     sort_title: Trip to Infinity
