@@ -242,6 +242,8 @@ shared_collection_files:
   default: studio
   template_variables:
     collection_section: 035
+    append_include:
+      - Disney
     include:
       - A24
       - DreamWorks Studios
