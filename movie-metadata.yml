@@ -749,6 +749,15 @@ metadata:
     studio: Walt Disney Animation Studios
     genre.sync:
       - Animation
+  13313:
+    label_title: 'Beauty and the Beast: The Enchanted Christmas'
+    sort_title: 'Beauty and the Beast: The Enchanted Christmas'
+    release_year: '1997'
+    url_poster: https://theposterdb.com/api/assets/534027
+    tpdb_search: https://theposterdb.com/search?term=Beauty+and+the+Beast:+The+Enchanted+Christmas&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   5559:
     label_title: Bee Movie
     sort_title: Bee Movie
