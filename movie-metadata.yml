@@ -3388,6 +3388,15 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
+  451048:
+    label_title: Jungle Cruise
+    sort_title: Jungle Cruise
+    release_year: '2021'
+    url_poster: https://theposterdb.com/api/assets/537724
+    tpdb_search: https://theposterdb.com/search?term=Jungle+Cruise&section=movies
+    studio: Disney
+    genre.sync:
+      - Family
   329:
     label_title: Jurassic Park
     sort_title: Jurassic Park 1
