@@ -207,6 +207,15 @@ metadata:
     studio: Walt Disney Animation Studios
     genre.sync:
       - Animation
+  11238:
+    label_title: Aladdin and the King of Thieves
+    sort_title: Aladdin and the King of Thieves
+    release_year: '1996'
+    url_poster: https://theposterdb.com/api/assets/533694
+    tpdb_search: https://theposterdb.com/search?term=Aladdin+and+the+King+of+Thieves&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   12092:
     label_title: Alice in Wonderland
     sort_title: Alice in Wonderland
