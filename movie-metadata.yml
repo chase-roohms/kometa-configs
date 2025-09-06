@@ -3497,6 +3497,15 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
+  9325:
+    label_title: The Jungle Book
+    sort_title: Jungle Book
+    release_year: '1967'
+    url_poster: https://theposterdb.com/api/assets/534019
+    tpdb_search: https://theposterdb.com/search?term=The+Jungle+Book&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   10714:
     label_title: The Jungle Book
     sort_title: Jungle Book 1
