@@ -6365,6 +6365,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Superman&section=movies
     genre.sync:
       - Superhero
+  9078:
+    label_title: The Sword in the Stone
+    sort_title: Sword in the Stone
+    release_year: '1963'
+    url_poster: https://theposterdb.com/api/assets/535764
+    tpdb_search: https://theposterdb.com/search?term=The+Sword+in+the+Stone&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   1008042:
     label_title: Talk to Me
     sort_title: Talk to Me
