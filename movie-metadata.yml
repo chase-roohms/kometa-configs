@@ -7415,6 +7415,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=A+Working+Man&section=movies
     genre.sync:
       - Action
+  82690:
+    label_title: Wreck-It Ralph
+    sort_title: Wreck-It Ralph
+    release_year: '2012'
+    url_poster: https://theposterdb.com/api/assets/532968
+    tpdb_search: https://theposterdb.com/search?term=Wreck-It+Ralph&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   760104:
     label_title: X
     sort_title: X
