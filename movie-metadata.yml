@@ -198,6 +198,15 @@ metadata:
     studio: Disney
     genre.sync:
       - Family
+  12092:
+    label_title: Alice in Wonderland
+    sort_title: Alice in Wonderland
+    release_year: '1951'
+    url_poster: https://theposterdb.com/api/assets/535766
+    tpdb_search: https://theposterdb.com/search?term=Alice+in+Wonderland&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   12155:
     label_title: Alice in Wonderland
     sort_title: Alice in Wonderland 1
