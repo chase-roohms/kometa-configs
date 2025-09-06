@@ -49,6 +49,15 @@ metadata:
     studio: Walt Disney Animation Studios
     genre.sync:
       - Animation
+  13654:
+    label_title: "101 Dalmatians II: Patch's London Adventure"
+    sort_title: 101 Dalmatians (Animated) 2
+    release_year: '2003'
+    url_poster: https://theposterdb.com/api/assets/535712
+    tpdb_search: "https://theposterdb.com/search?term=101+Dalmatians+II:+Patch's+London+Adventure&section=movies"
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   11674:
     label_title: 101 Dalmatians
     sort_title: 101 Dalmatians (Live-Action) 1
@@ -67,15 +76,6 @@ metadata:
     studio: Disney
     genre.sync:
       - Family
-  13654:
-    label_title: "101 Dalmatians II: Patch's London Adventure"
-    sort_title: 101 Dalmatians (Animated) 2
-    release_year: '2003'
-    url_poster: https://theposterdb.com/api/assets/535712
-    tpdb_search: "https://theposterdb.com/search?term=101+Dalmatians+II:+Patch's+London+Adventure&section=movies"
-    studio: Walt Disney Animation Studios
-    genre.sync:
-      - Animation
   1271:
     label_title: '300'
     sort_title: 300 1
@@ -207,21 +207,21 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Air+Bud&section=movies
     genre.sync:
       - Family
-  420817:
-    label_title: Aladdin
-    sort_title: Aladdin (Live-Action) 1
-    release_year: '2019'
-    url_poster: https://theposterdb.com/api/assets/536990
-    tpdb_search: https://theposterdb.com/search?term=Aladdin&section=movies
-    studio: Disney
-    genre.sync:
-      - Family
   812:
     label_title: Aladdin
     sort_title: Aladdin (Animated) 1
     release_year: '1992'
     url_poster: https://theposterdb.com/api/assets/533696
     tpdb_search: https://theposterdb.com/search?term=Aladdin&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
+  15969:
+    label_title: The Return of Jafar
+    sort_title: Aladdin (Animated) 2
+    release_year: '1994'
+    url_poster: https://theposterdb.com/api/assets/533695
+    tpdb_search: https://theposterdb.com/search?term=The+Return+of+Jafar&section=movies
     studio: Walt Disney Animation Studios
     genre.sync:
       - Animation
@@ -234,6 +234,15 @@ metadata:
     studio: Walt Disney Animation Studios
     genre.sync:
       - Animation
+  420817:
+    label_title: Aladdin
+    sort_title: Aladdin (Live-Action) 1
+    release_year: '2019'
+    url_poster: https://theposterdb.com/api/assets/536990
+    tpdb_search: https://theposterdb.com/search?term=Aladdin&section=movies
+    studio: Disney
+    genre.sync:
+      - Family
   12092:
     label_title: Alice in Wonderland
     sort_title: Alice in Wonderland
@@ -563,21 +572,21 @@ metadata:
     genre.sync:
       - Science Fiction
       - Thriller
-  8965:
-    label_title: "Atlantis: Milo's Return"
-    sort_title: Atlantis 2
-    release_year: '2003'
-    url_poster: https://theposterdb.com/api/assets/533127
-    tpdb_search: "https://theposterdb.com/search?term=Atlantis:+Milo's+Return&section=movies"
-    studio: Walt Disney Animation Studios
-    genre.sync:
-      - Animation
   10865:
     label_title: 'Atlantis: The Lost Empire'
     sort_title: Atlantis 1
     release_year: '2001'
     url_poster: https://theposterdb.com/api/assets/533128
     tpdb_search: https://theposterdb.com/search?term=Atlantis:+The+Lost+Empire&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
+  8965:
+    label_title: "Atlantis: Milo's Return"
+    sort_title: Atlantis 2
+    release_year: '2003'
+    url_poster: https://theposterdb.com/api/assets/533127
+    tpdb_search: "https://theposterdb.com/search?term=Atlantis:+Milo's+Return&section=movies"
     studio: Walt Disney Animation Studios
     genre.sync:
       - Animation
@@ -803,15 +812,6 @@ metadata:
     genre.sync:
       - Comedy
       - Drama
-  321612:
-    label_title: Beauty and the Beast
-    sort_title: Beauty and the Beast (Live-Action) 1
-    release_year: '2017'
-    url_poster: https://theposterdb.com/api/assets/536993
-    tpdb_search: https://theposterdb.com/search?term=Beauty+and+the+Beast&section=movies
-    studio: Disney
-    genre.sync:
-      - Family
   10020:
     label_title: Beauty and the Beast
     sort_title: Beauty and the Beast (Animated) 1
@@ -830,6 +830,24 @@ metadata:
     studio: Walt Disney Animation Studios
     genre.sync:
       - Animation
+  20235:
+    label_title: "Belle's Magical World"
+    sort_title: Beauty and the Beast (Animated) 3
+    release_year: '1998'
+    url_poster: https://theposterdb.com/api/assets/534026
+    tpdb_search: "https://theposterdb.com/search?term=Belle's+Magical+World&section=movies"
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
+  321612:
+    label_title: Beauty and the Beast
+    sort_title: Beauty and the Beast (Live-Action) 1
+    release_year: '2017'
+    url_poster: https://theposterdb.com/api/assets/536993
+    tpdb_search: https://theposterdb.com/search?term=Beauty+and+the+Beast&section=movies
+    studio: Disney
+    genre.sync:
+      - Family
   5559:
     label_title: Bee Movie
     sort_title: Bee Movie
@@ -855,15 +873,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Beethoven&section=movies
     genre.sync:
       - Family
-  20235:
-    label_title: "Belle's Magical World"
-    sort_title: Beauty and the Beast (Animated) 3
-    release_year: '1998'
-    url_poster: https://theposterdb.com/api/assets/534026
-    tpdb_search: "https://theposterdb.com/search?term=Belle's+Magical+World&section=movies"
-    studio: Walt Disney Animation Studios
-    genre.sync:
-      - Animation
   113082:
     label_title: Berserk The Golden Age Arc I The Egg of the King
     sort_title: Berzerk The Golden Age Arc 1
@@ -1373,30 +1382,12 @@ metadata:
     studio: Disney
     genre.sync:
       - Family
-  150689:
-    label_title: Cinderella
-    sort_title: Cinderella (Live-Action) 1
-    release_year: '2015'
-    url_poster: https://theposterdb.com/api/assets/536997
-    tpdb_search: https://theposterdb.com/search?term=Cinderella&section=movies
-    studio: Disney
-    genre.sync:
-      - Family
   11224:
     label_title: Cinderella
     sort_title: Cinderella (Animated) 1
     release_year: '1950'
     url_poster: https://theposterdb.com/api/assets/533184
     tpdb_search: https://theposterdb.com/search?term=Cinderella&section=movies
-    studio: Walt Disney Animation Studios
-    genre.sync:
-      - Animation
-  16119:
-    label_title: 'Cinderella III: A Twist in Time'
-    sort_title: Cinderella (Animated) 3
-    release_year: '2007'
-    url_poster: https://theposterdb.com/api/assets/533182
-    tpdb_search: https://theposterdb.com/search?term=Cinderella+II:+A+Twist+in+Time&section=movies
     studio: Walt Disney Animation Studios
     genre.sync:
       - Animation
@@ -1409,6 +1400,24 @@ metadata:
     studio: Walt Disney Animation Studios
     genre.sync:
       - Animation
+  16119:
+    label_title: 'Cinderella III: A Twist in Time'
+    sort_title: Cinderella (Animated) 3
+    release_year: '2007'
+    url_poster: https://theposterdb.com/api/assets/533182
+    tpdb_search: https://theposterdb.com/search?term=Cinderella+II:+A+Twist+in+Time&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
+  150689:
+    label_title: Cinderella
+    sort_title: Cinderella (Live-Action) 1
+    release_year: '2015'
+    url_poster: https://theposterdb.com/api/assets/536997
+    tpdb_search: https://theposterdb.com/search?term=Cinderella&section=movies
+    studio: Disney
+    genre.sync:
+      - Family
   929590:
     label_title: Civil War
     sort_title: Civil War
@@ -1944,6 +1953,15 @@ metadata:
     release_year: '2000'
     url_poster: https://theposterdb.com/api/assets/532999
     tpdb_search: "https://theposterdb.com/search?term=The+Emporer's+New+Groove&section=movies"
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
+  13417:
+    label_title: "Kronk's New Groove"
+    sort_title: "Emporer's New Groove 2"
+    release_year: '2005'
+    url_poster: https://theposterdb.com/api/assets/532998
+    tpdb_search: "https://theposterdb.com/search?term=Kronk's+New+Groove&section=movies"
     studio: Walt Disney Animation Studios
     genre.sync:
       - Animation
@@ -3731,6 +3749,15 @@ metadata:
     studio: Walt Disney Animation Studios
     genre.sync:
       - Animation
+  14873:
+    label_title: The Jungle Book 2
+    sort_title: Jungle Book (Animated) 2
+    release_year: '2003'
+    url_poster: https://theposterdb.com/api/assets/534018
+    tpdb_search: https://theposterdb.com/search?term=The+Jungle+Book+2&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   10714:
     label_title: The Jungle Book
     sort_title: Jungle Book (Live-Action) 1
@@ -3749,15 +3776,6 @@ metadata:
     studio: Disney
     genre.sync:
       - Family
-  14873:
-    label_title: The Jungle Book 2
-    sort_title: Jungle Book (Animated) 2
-    release_year: '2003'
-    url_poster: https://theposterdb.com/api/assets/534018
-    tpdb_search: https://theposterdb.com/search?term=The+Jungle+Book+2&section=movies
-    studio: Walt Disney Animation Studios
-    genre.sync:
-      - Animation
   451048:
     label_title: Jungle Cruise
     sort_title: Jungle Cruise
@@ -3921,15 +3939,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-  13417:
-    label_title: "Kronk's New Groove"
-    sort_title: "Emporer's New Groove 2"
-    release_year: '2005'
-    url_poster: https://theposterdb.com/api/assets/532998
-    tpdb_search: "https://theposterdb.com/search?term=Kronk's+New+Groove&section=movies"
-    studio: Walt Disney Animation Studios
-    genre.sync:
-      - Animation
   9502:
     label_title: Kung Fu Panda
     sort_title: Kung Fu Panda 1
@@ -4061,15 +4070,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Legend+of+Oshi&section=movies
     genre.sync:
       - Fantasy
-  21316:
-    label_title: Leroy & Stitch
-    sort_title: Lilo & Stitch (Animated) 4
-    release_year: '2006'
-    url_poster: https://theposterdb.com/api/assets/533132
-    tpdb_search: https://theposterdb.com/search?term=Leroy+%26+Stitch&section=movies
-    studio: Walt Disney Animation Studios
-    genre.sync:
-      - Animation
   244566:
     label_title: Life After Beth
     sort_title: Life After Beth
@@ -4115,20 +4115,21 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Like+Mike&section=movies
     genre.sync:
       - Family
-  552524:
-    label_title: Lilo & Stitch
-    sort_title: Lilo & Stitch (Live-Action) 1
-    release_year: '2025'
-    url_poster: https://theposterdb.com/api/assets/554954
-    tpdb_search: https://theposterdb.com/search?term=Lilo+%26+Stitch&section=movies
-    genre.sync:
-      - Family
   11544:
     label_title: Lilo & Stitch
     sort_title: Lilo & Stitch (Animated) 1
     release_year: '2002'
     url_poster: https://theposterdb.com/api/assets/533135
     tpdb_search: https://theposterdb.com/search?term=Lilo+%26+Stitch&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
+  15567:
+    label_title: Stitch! The Movie
+    sort_title: Lilo & Stitch (Animated) 2
+    release_year: '2003'
+    url_poster: https://theposterdb.com/api/assets/533134
+    tpdb_search: https://theposterdb.com/search?term=Stitch!+The+Movie&section=movies
     studio: Walt Disney Animation Studios
     genre.sync:
       - Animation
@@ -4141,6 +4142,23 @@ metadata:
     studio: Walt Disney Animation Studios
     genre.sync:
       - Animation
+  21316:
+    label_title: Leroy & Stitch
+    sort_title: Lilo & Stitch (Animated) 4
+    release_year: '2006'
+    url_poster: https://theposterdb.com/api/assets/533132
+    tpdb_search: https://theposterdb.com/search?term=Leroy+%26+Stitch&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
+  552524:
+    label_title: Lilo & Stitch
+    sort_title: Lilo & Stitch (Live-Action) 1
+    release_year: '2025'
+    url_poster: https://theposterdb.com/api/assets/554954
+    tpdb_search: https://theposterdb.com/search?term=Lilo+%26+Stitch&section=movies
+    genre.sync:
+      - Family
   8587:
     label_title: The Lion King
     sort_title: Lion King (Animated) 1
@@ -4184,15 +4202,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Mufasa+The+Lion+King&section=movies
     genre.sync:
       - Family
-  447277:
-    label_title: The Little Mermaid
-    sort_title: Little Mermaid (Live-Action)
-    release_year: '2023'
-    url_poster: https://theposterdb.com/api/assets/536982
-    tpdb_search: https://theposterdb.com/search?term=The+Little+Mermaid&section=movies
-    studio: Disney
-    genre.sync:
-      - Family
   10144:
     label_title: The Little Mermaid
     sort_title: Little Mermaid (Animated) 1
@@ -4220,6 +4229,15 @@ metadata:
     studio: Walt Disney Animation Studios
     genre.sync:
       - Animation
+  447277:
+    label_title: The Little Mermaid
+    sort_title: Little Mermaid (Live-Action)
+    release_year: '2023'
+    url_poster: https://theposterdb.com/api/assets/536982
+    tpdb_search: https://theposterdb.com/search?term=The+Little+Mermaid&section=movies
+    studio: Disney
+    genre.sync:
+      - Family
   1083968:
     label_title: Locked
     sort_title: Locked
@@ -4922,15 +4940,6 @@ metadata:
     studio: DreamWorks Animation
     genre.sync:
       - Animation
-  337401:
-    label_title: Mulan
-    sort_title: Mulan (Live-Action) 1
-    release_year: '2020'
-    url_poster: https://theposterdb.com/api/assets/536986
-    tpdb_search: https://theposterdb.com/search?term=Mulan&section=movies
-    studio: Disney
-    genre.sync:
-      - Family
   10674:
     label_title: Mulan
     sort_title: Mulan (Animated) 1
@@ -4949,6 +4958,15 @@ metadata:
     studio: Walt Disney Animation Studios
     genre.sync:
       - Animation
+  337401:
+    label_title: Mulan
+    sort_title: Mulan (Live-Action) 1
+    release_year: '2020'
+    url_poster: https://theposterdb.com/api/assets/536986
+    tpdb_search: https://theposterdb.com/search?term=Mulan&section=movies
+    studio: Disney
+    genre.sync:
+      - Family
   505262:
     label_title: My Hero Academia Two Heroes
     sort_title: My Hero Academia 1
@@ -5408,6 +5426,15 @@ metadata:
     studio: Walt Disney Animation Studios
     genre.sync:
       - Animation
+  16690:
+    label_title: Return to Never Land
+    sort_title: Peter Pan (Animated) 2
+    release_year: '2002'
+    url_poster: https://theposterdb.com/api/assets/534030
+    tpdb_search: https://theposterdb.com/search?term=Return+to+Never+Land&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   420808:
     label_title: Peter Pan and Wendy
     sort_title: Peter Pan (Live-Action) 1
@@ -5753,15 +5780,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=A+Quiet+Place+Day+One&section=movies
     genre.sync:
       - Horror
-  404368:
-    label_title: Ralph Breaks the Internet
-    sort_title: Wreck-It Ralph 2
-    release_year: '2018'
-    url_poster: https://theposterdb.com/api/assets/532967
-    tpdb_search: https://theposterdb.com/search?term=Ralph+Breaks+the+Internet&section=movies
-    studio: Walt Disney Animation Studios
-    genre.sync:
-      - Animation
   2062:
     label_title: Ratatouille
     sort_title: Ratatouille
@@ -5825,24 +5843,6 @@ metadata:
     genre.sync:
       - Drama
       - Thriller
-  15969:
-    label_title: The Return of Jafar
-    sort_title: Aladdin (Animated) 2
-    release_year: '1994'
-    url_poster: https://theposterdb.com/api/assets/533695
-    tpdb_search: https://theposterdb.com/search?term=The+Return+of+Jafar&section=movies
-    studio: Walt Disney Animation Studios
-    genre.sync:
-      - Animation
-  16690:
-    label_title: Return to Never Land
-    sort_title: Peter Pan (Animated) 2
-    release_year: '2002'
-    url_poster: https://theposterdb.com/api/assets/534030
-    tpdb_search: https://theposterdb.com/search?term=Return+to+Never+Land&section=movies
-    studio: Walt Disney Animation Studios
-    genre.sync:
-      - Animation
   11011:
     label_title: Ri¢hie Ri¢h
     sort_title: Richie Rich
@@ -6689,15 +6689,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Step+Brothers&section=movies
     genre.sync:
       - Comedy
-  15567:
-    label_title: Stitch! The Movie
-    sort_title: Lilo & Stitch (Animated) 2
-    release_year: '2003'
-    url_poster: https://theposterdb.com/api/assets/533134
-    tpdb_search: https://theposterdb.com/search?term=Stitch!+The+Movie&section=movies
-    studio: Walt Disney Animation Studios
-    genre.sync:
-      - Animation
   877269:
     label_title: Strange World
     sort_title: Strange World
@@ -7655,6 +7646,15 @@ metadata:
     release_year: '2012'
     url_poster: https://theposterdb.com/api/assets/532968
     tpdb_search: https://theposterdb.com/search?term=Wreck-It+Ralph&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
+  404368:
+    label_title: Ralph Breaks the Internet
+    sort_title: Wreck-It Ralph 2
+    release_year: '2018'
+    url_poster: https://theposterdb.com/api/assets/532967
+    tpdb_search: https://theposterdb.com/search?term=Ralph+Breaks+the+Internet&section=movies
     studio: Walt Disney Animation Studios
     genre.sync:
       - Animation
