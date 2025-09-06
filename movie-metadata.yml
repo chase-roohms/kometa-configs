@@ -668,6 +668,15 @@ metadata:
     studio: Walt Disney Animation Studios
     genre.sync:
       - Animation
+  13205:
+    label_title: Bambi II
+    sort_title: Bambi II
+    release_year: '2006'
+    url_poster: https://theposterdb.com/api/assets/533687
+    tpdb_search: https://theposterdb.com/search?term=Bambi+II&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   913290:
     label_title: Barbarian
     sort_title: Barbarian
