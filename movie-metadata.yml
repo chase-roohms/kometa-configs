@@ -198,6 +198,15 @@ metadata:
     studio: Disney
     genre.sync:
       - Family
+  812:
+    label_title: Aladdin
+    sort_title: Aladdin
+    release_year: '1992'
+    url_poster: https://theposterdb.com/api/assets/533696
+    tpdb_search: https://theposterdb.com/search?term=Aladdin&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   12092:
     label_title: Alice in Wonderland
     sort_title: Alice in Wonderland
