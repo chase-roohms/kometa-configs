@@ -4890,6 +4890,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Pink+Floyd:+The+Wall&section=movies
     genre.sync:
       - Drama
+  532639:
+    label_title: Pinocchio
+    sort_title: Pinocchio
+    release_year: '2022'
+    url_poster: https://theposterdb.com/api/assets/536984
+    tpdb_search: https://theposterdb.com/search?term=Pinocchio&section=movies
+    studio: Disney
+    genre.sync:
+      - Family
   22:
     label_title: Pirates of the Caribbean The Curse of the Black Pearl
     sort_title: Pirates of the Caribbean 1
