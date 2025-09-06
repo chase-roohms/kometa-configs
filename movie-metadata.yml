@@ -5280,6 +5280,15 @@ metadata:
     genre.sync:
       - Science Fiction
       - Thriller
+  10198:
+    label_title: The Princess and the Frog
+    sort_title: Princess and the Frog
+    release_year: '2009'
+    url_poster: https://theposterdb.com/api/assets/532955
+    tpdb_search: https://theposterdb.com/search?term=The+Princess+and+the+Frog&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   128:
     label_title: Princess Mononoke
     sort_title: Princess Mononoke
