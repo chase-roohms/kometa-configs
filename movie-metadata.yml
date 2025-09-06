@@ -1373,6 +1373,15 @@ metadata:
     studio: Walt Disney Animation Studios
     genre.sync:
       - Animation
+  14128:
+    label_title: 'Cinderella II: Dreams Come True'
+    sort_title: 'Cinderella II: Dreams Come True'
+    release_year: '2002'
+    url_poster: https://theposterdb.com/api/assets/533183
+    tpdb_search: https://theposterdb.com/search?term=Cinderella+II:+Dreams+Come+True&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   929590:
     label_title: Civil War
     sort_title: Civil War
