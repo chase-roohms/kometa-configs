@@ -67,6 +67,15 @@ metadata:
     studio: Disney
     genre.sync:
       - Family
+  13654:
+    label_title: "101 Dalmatians II: Patch's London Adventure"
+    sort_title: "101 Dalmatians II: Patch's London Adventure"
+    release_year: '2003'
+    url_poster: https://theposterdb.com/api/assets/535712
+    tpdb_search: "https://theposterdb.com/search?term=101+Dalmatians+II:+Patch's+London+Adventure&section=movies"
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   1271:
     label_title: '300'
     sort_title: 300 1
