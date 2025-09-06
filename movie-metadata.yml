@@ -2361,6 +2361,15 @@ metadata:
     studio: Walt Disney Animation Studios
     genre.sync:
       - Animation
+  9948:
+    label_title: The Fox and the Hound 2
+    sort_title: Fox and the Hound 2
+    release_year: '2006'
+    url_poster: https://theposterdb.com/api/assets/535708
+    tpdb_search: https://theposterdb.com/search?term=The+Fox+and+the+Hound+2&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   10330:
     label_title: Freaky Friday
     sort_title: Freaky Friday 1
