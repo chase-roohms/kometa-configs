@@ -3786,6 +3786,15 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
+  13417:
+    label_title: "Kronk's New Groove"
+    sort_title: "Kronk's New Groove"
+    release_year: '2005'
+    url_poster: https://theposterdb.com/api/assets/532998
+    tpdb_search: "https://theposterdb.com/search?term=Kronk's+New+Groove&section=movies"
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   9502:
     label_title: Kung Fu Panda
     sort_title: Kung Fu Panda 1
