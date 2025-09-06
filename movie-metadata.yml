@@ -2906,6 +2906,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Home+Alone+The+Holiday+Heist&section=movies
     genre.sync:
       - Family
+  13700:
+    label_title: Home on the Range
+    sort_title: Home on the Range
+    release_year: '2004'
+    url_poster: https://theposterdb.com/api/assets/532959
+    tpdb_search: https://theposterdb.com/search?term=Home+on+the+Range&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   1149504:
     label_title: "Honey Don't!"
     sort_title: "Honey Don't!"
