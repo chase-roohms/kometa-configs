@@ -3388,6 +3388,15 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
+  10714:
+    label_title: The Jungle Book
+    sort_title: Jungle Book
+    release_year: '1994'
+    url_poster: https://theposterdb.com/api/assets/537002
+    tpdb_search: https://theposterdb.com/search?term=The+Jungle+Book&section=movies
+    studio: Disney
+    genre.sync:
+      - Family
   451048:
     label_title: Jungle Cruise
     sort_title: Jungle Cruise
