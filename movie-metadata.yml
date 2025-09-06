@@ -4832,6 +4832,15 @@ metadata:
     studio: Walt Disney Animation Studios
     genre.sync:
       - Animation
+  12242:
+    label_title: Mulan II
+    sort_title: Mulan II
+    release_year: '2004'
+    url_poster: https://theposterdb.com/api/assets/533155
+    tpdb_search: https://theposterdb.com/search?term=Mulan+II&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   505262:
     label_title: My Hero Academia Two Heroes
     sort_title: My Hero Academia 1
