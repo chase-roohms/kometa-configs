@@ -1220,6 +1220,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Challengers&section=movies
     genre.sync:
       - Drama
+  9982:
+    label_title: Chicken Little
+    sort_title: Chicken Little
+    release_year: '2005'
+    url_poster: https://theposterdb.com/api/assets/532958
+    tpdb_search: https://theposterdb.com/search?term=Chicken+Little&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   420814:
     label_title: Christopher Robin
     sort_title: Christopher Robin
