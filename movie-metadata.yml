@@ -2851,6 +2851,15 @@ metadata:
     studio: Walt Disney Animation Studios
     genre.sync:
       - Animation
+  153609:
+    label_title: 'Hercules: Zero to Hero'
+    sort_title: 'Hercules: Zero to Hero'
+    release_year: '1999'
+    url_poster: https://theposterdb.com/api/assets/534041
+    tpdb_search: https://theposterdb.com/search?term=Hercules:+Zero+to+Hero&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   493922:
     label_title: Hereditary
     sort_title: Hereditary
