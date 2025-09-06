@@ -4094,6 +4094,15 @@ metadata:
     studio: Walt Disney Animation Studios
     genre.sync:
       - Animation
+  10898:
+    label_title: 'The Little Mermaid II: Return to the Sea'
+    sort_title: 'Little Mermaid II: Return to the Sea'
+    release_year: '2000'
+    url_poster: https://theposterdb.com/api/assets/533468
+    tpdb_search: https://theposterdb.com/search?term=The+Little+Mermaid+II:+Return+to+the+Sea&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   1083968:
     label_title: Locked
     sort_title: Locked
