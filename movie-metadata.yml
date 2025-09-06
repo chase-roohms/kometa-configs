@@ -4085,6 +4085,15 @@ metadata:
     studio: Disney
     genre.sync:
       - Family
+  10144:
+    label_title: The Little Mermaid
+    sort_title: Little Mermaid
+    release_year: '1989'
+    url_poster: https://theposterdb.com/api/assets/533469
+    tpdb_search: https://theposterdb.com/search?term=The+Little+Mermaid&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   1083968:
     label_title: Locked
     sort_title: Locked
