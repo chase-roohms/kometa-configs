@@ -251,7 +251,7 @@ shared_collection_files:
       - Pixar
       - Studio Ghibli
       - Disney
-    addons:
+    apend_addons:
       Disney:
         - Walt Disney Animation Studios
     sort_by: title.asc
