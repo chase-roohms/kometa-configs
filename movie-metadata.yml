@@ -2458,6 +2458,15 @@ metadata:
     studio: Walt Disney Animation Studios
     genre.sync:
       - Animation
+  330457:
+    label_title: Frozen II
+    sort_title: Frozen II
+    release_year: '2019'
+    url_poster: https://theposterdb.com/api/assets/517017
+    tpdb_search: https://theposterdb.com/search?term=Frozen+II&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   228150:
     label_title: Fury
     sort_title: Fury
