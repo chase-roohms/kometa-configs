@@ -3934,6 +3934,15 @@ metadata:
     studio: Walt Disney Animation Studios
     genre.sync:
       - Animation
+  20760:
+    label_title: 'Lilo & Stitch 2: Stitch Has a Glitch'
+    sort_title: 'Lilo & Stitch 2: Stitch Has a Glitch'
+    release_year: '2005'
+    url_poster: https://theposterdb.com/api/assets/533133
+    tpdb_search: https://theposterdb.com/search?term=Lilo+%26+Stitch+2:+Stitch+Has+a+Glitch&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   420818:
     label_title: The Lion King
     sort_title: Lion King Reboot 1
