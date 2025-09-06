@@ -1794,6 +1794,15 @@ metadata:
     studio: Pixar
     genre.sync:
       - Animation
+  568124:
+    label_title: Encanto
+    sort_title: Encanto
+    release_year: '2021'
+    url_poster: https://theposterdb.com/api/assets/532949
+    tpdb_search: https://theposterdb.com/search?term=Encanto&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   156022:
     label_title: The Equalizer
     sort_title: Equalizer 1
