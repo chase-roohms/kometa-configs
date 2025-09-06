@@ -3952,6 +3952,15 @@ metadata:
     studio: Disney
     genre.sync:
       - Family
+  420809:
+    label_title: 'Maleficent: Mistriss of Evil'
+    sort_title: 'Maleficent: Mistriss of Evil'
+    release_year: '2019'
+    url_poster: https://theposterdb.com/api/assets/536988
+    tpdb_search: https://theposterdb.com/search?term=Maleficent:+Mistriss+of+Evil&section=movies
+    studio: Disney
+    genre.sync:
+      - Family
   937278:
     label_title: A Man Called Otto
     sort_title: Man Called Otto
