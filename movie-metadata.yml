@@ -3524,6 +3524,15 @@ metadata:
     studio: Disney
     genre.sync:
       - Family
+  14873:
+    label_title: The Jungle Book 2
+    sort_title: Jungle Book 2
+    release_year: '2003'
+    url_poster: https://theposterdb.com/api/assets/534018
+    tpdb_search: https://theposterdb.com/search?term=The+Jungle+Book+2&section=movies
+    studio: Walt Disney Animation Studios
+    genre.sync:
+      - Animation
   451048:
     label_title: Jungle Cruise
     sort_title: Jungle Cruise
