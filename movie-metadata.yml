@@ -4873,6 +4873,15 @@ metadata:
     studio: Disney
     genre.sync:
       - Family
+  420808:
+    label_title: Peter Pan and Wendy
+    sort_title: Peter Pan and Wendy
+    release_year: '2023'
+    url_poster: https://theposterdb.com/api/assets/536983
+    tpdb_search: https://theposterdb.com/search?term=Peter+Pan+and+Wendy&section=movies
+    studio: Disney
+    genre.sync:
+      - Family
   361822:
     label_title: Pinched
     sort_title: Pinched
