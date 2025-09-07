@@ -78,6 +78,7 @@ metadata:
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/474513
     tpdb_search: https://theposterdb.com/search?term=The+Acolyte&section=shows
+    studio: Lucasfilm
     genre.sync:
       - Action
       - Science Fiction
@@ -175,6 +176,7 @@ metadata:
     release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/464787
     tpdb_search: https://theposterdb.com/search?term=Ahsoka&section=shows
+    studio: Lucasfilm
     genre.sync:
       - Action
       - Science Fiction
@@ -621,6 +623,7 @@ metadata:
     release_year: '2021'
     url_poster: https://theposterdb.com/api/assets/464789
     tpdb_search: https://theposterdb.com/search?term=The+Book+of+Boba+Fett&section=shows
+    studio: Lucasfilm
     genre.sync:
       - Action
       - Science Fiction
@@ -2590,6 +2593,7 @@ metadata:
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/464790
     tpdb_search: https://theposterdb.com/search?term=The+Mandalorian&section=shows
+    studio: Lucasfilm
     genre.sync:
       - Action
       - Science Fiction
@@ -2835,6 +2839,7 @@ metadata:
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/464545
     tpdb_search: https://theposterdb.com/search?term=Obi-Wan+Kenobi&section=shows
+    studio: Lucasfilm
     genre.sync:
       - Science Fiction
     seasons:
@@ -2980,6 +2985,7 @@ metadata:
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/636581
     tpdb_search: https://theposterdb.com/search?term=Peacemaker&section=shows
+    studio: DC Comics
     genre.sync:
       - Superhero
     seasons:
@@ -3019,6 +3025,7 @@ metadata:
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/526094
     tpdb_search: https://theposterdb.com/search?term=The+Penguin&section=shows
+    studio: DC Comics
     genre.sync:
       - Superhero
     seasons:
@@ -3759,10 +3766,11 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/619630
   393189:
     label_title: Star Wars - Andor
-    sort_title: Star Wars - Andor
+    sort_title: Star Wars Andor
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/464543
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+-+Andor&section=shows
+    studio: Lucasfilm
     genre.sync:
       - Action
       - Science Fiction
@@ -3773,10 +3781,11 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/593196
   420600:
     label_title: Star Wars - Skeleton Crew
-    sort_title: Star Wars - Skeleton Crew
+    sort_title: Star Wars Skeleton Crew
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/517365
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+-+Skeleton+Crew&section=shows
+    studio: Lucasfilm
     genre.sync:
       - Action
       - Science Fiction
@@ -3785,10 +3794,11 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/517365
   448549:
     label_title: Star Wars - Tales of the Empire
-    sort_title: Star Wars - Tales of the Empire
+    sort_title: Star Wars Tales of the Empire
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/481837
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+-+Tales+of+the+Empire&section=shows
+    studio: Lucasfilm
     genre.sync:
       - Action
       - Science Fiction
@@ -3797,10 +3807,11 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/481837
   420659:
     label_title: Star Wars - Tales of the Jedi
-    sort_title: Star Wars - Tales of the Jedi
+    sort_title: Star Wars Tales of the Jedi
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/464755
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+-+Tales+of+the+Jedi&section=shows
+    studio: Lucasfilm
     genre.sync:
       - Action
       - Science Fiction
@@ -3809,10 +3820,11 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/464755
   462199:
     label_title: Star Wars - Tales of the Underworld
-    sort_title: Star Wars - Tales of the Underworld
+    sort_title: Star Wars Tales of the Underworld
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/594290
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+-+Tales+of+the+Underworld&section=shows
+    studio: Lucasfilm
     genre.sync:
       - Action
       - Science Fiction
@@ -3821,10 +3833,11 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/594290
   385376:
     label_title: Star Wars - The Bad Batch
-    sort_title: Star Wars - The Bad Batch
+    sort_title: Star Wars Bad Batch
     release_year: '2021'
     url_poster: https://theposterdb.com/api/assets/464546
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+-+The+Bad+Batch&section=shows
+    studio: Lucasfilm
     genre.sync:
       - Action
       - Science Fiction
@@ -3837,10 +3850,11 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/464549
   83268:
     label_title: Star Wars - The Clone Wars
-    sort_title: Star Wars - The Clone Wars
+    sort_title: Star Wars Clone Wars
     release_year: '2008'
     url_poster: https://theposterdb.com/api/assets/464734
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+-+The+Clone+Wars&section=shows
+    studio: Lucasfilm
     genre.sync:
       - Action
       - Science Fiction
@@ -3863,10 +3877,11 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/464741
   393190:
     label_title: Star Wars - Visions
-    sort_title: Star Wars - Visions
+    sort_title: Star Wars Visions
     release_year: '2021'
     url_poster: https://theposterdb.com/api/assets/470291
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+-+Visions&section=shows
+    studio: Lucasfilm
     audio_language: ja-JP
     genre.sync:
       - Action
@@ -3883,6 +3898,7 @@ metadata:
     release_year: '2014'
     url_poster: https://theposterdb.com/api/assets/464550
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+Rebels&section=shows
+    studio: Lucasfilm
     genre.sync:
       - Action
       - Science Fiction
@@ -3901,6 +3917,7 @@ metadata:
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/133749
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+Resistance&section=shows
+    studio: Lucasfilm
     genre.sync:
       - Action
       - Science Fiction
