@@ -5048,17 +5048,9 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=My+Hero+Academia+Two+Heroes&section=movies
     genre.sync:
       - Anime
-  1054116:
-    label_title: My Hero Academia All Might Rising
-    sort_title: My Hero Academia 2
-    release_year: '2019'
-    url_poster: https://theposterdb.com/api/assets/503726
-    tpdb_search: https://theposterdb.com/search?term=My+Hero+Academia+All+Might+Rising&section=movies
-    genre.sync:
-      - Anime
   592350:
     label_title: My Hero Academia Heroes Rising
-    sort_title: My Hero Academia 3
+    sort_title: My Hero Academia 2
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/503725
     tpdb_search: https://theposterdb.com/search?term=My+Hero+Academia+Heroes+Rising&section=movies
@@ -5066,7 +5058,7 @@ metadata:
       - Anime
   768744:
     label_title: My Hero Academia World Heroes Mission
-    sort_title: My Hero Academia 4
+    sort_title: My Hero Academia 3
     release_year: '2021'
     url_poster: https://theposterdb.com/api/assets/503724
     tpdb_search: https://theposterdb.com/search?term=My+Hero+Academia+World+Heroes+Mission&section=movies
@@ -5074,7 +5066,7 @@ metadata:
       - Anime
   1159311:
     label_title: My Hero Academia Youre Next
-    sort_title: My Hero Academia Youre Next
+    sort_title: My Hero Academia 4
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/503723
     tpdb_search: https://theposterdb.com/search?term=My+Hero+Academia+Youre+Next&section=movies
