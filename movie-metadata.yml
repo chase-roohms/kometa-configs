@@ -1,6 +1,6 @@
 metadata:
   170:
-    label_title: 28 Days Later
+    label_title: 28 Days
     sort_title: 28 Later 1
     release_year: '2002'
     url_poster: https://theposterdb.com/api/assets/617783
@@ -461,6 +461,7 @@ metadata:
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/10249
     tpdb_search: https://theposterdb.com/search?term=Annihilation&section=movies
+    studio: 20th Century Studios
     genre.sync:
       - Science Fiction
       - Thriller
@@ -686,6 +687,7 @@ metadata:
     release_year: '1985'
     url_poster: https://theposterdb.com/api/assets/87589
     tpdb_search: https://theposterdb.com/search?term=Back+to+the+Future&section=movies
+    studio: Universal Pictures
     genre.sync:
       - Science Fiction
   165:
@@ -694,6 +696,7 @@ metadata:
     release_year: '1989'
     url_poster: https://theposterdb.com/api/assets/87590
     tpdb_search: https://theposterdb.com/search?term=Back+to+the+Future+Part+II&section=movies
+    studio: Universal Pictures
     genre.sync:
       - Science Fiction
   196:
@@ -702,6 +705,7 @@ metadata:
     release_year: '1990'
     url_poster: https://theposterdb.com/api/assets/87591
     tpdb_search: https://theposterdb.com/search?term=Back+to+the+Future+Part+III&section=movies
+    studio: Universal Pictures
     genre.sync:
       - Science Fiction
   629542:
@@ -1231,6 +1235,7 @@ metadata:
     release_year: '2009'
     url_poster: https://theposterdb.com/api/assets/92875
     tpdb_search: https://theposterdb.com/search?term=Brothers&section=movies
+    studio: Lionsgate
     genre.sync:
       - Drama
   549509:
@@ -1461,6 +1466,7 @@ metadata:
     release_year: '2008'
     url_poster: https://theposterdb.com/api/assets/80491
     tpdb_search: https://theposterdb.com/search?term=Cloverfield&section=movies
+    studio: Paramount Pictures
     genre.sync:
       - Action
       - Science Fiction
@@ -1470,6 +1476,7 @@ metadata:
     release_year: '2016'
     url_poster: https://theposterdb.com/api/assets/80492
     tpdb_search: https://theposterdb.com/search?term=10+Cloverfield+Lane&section=movies
+    studio: Paramount Pictures
     genre.sync:
       - Action
       - Science Fiction
@@ -1479,6 +1486,7 @@ metadata:
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/80493
     tpdb_search: https://theposterdb.com/search?term=The+Cloverfield+Paradox&section=movies
+    studio: Paramount Pictures
     genre.sync:
       - Action
       - Science Fiction
@@ -1910,6 +1918,7 @@ metadata:
     release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/359562
     tpdb_search: https://theposterdb.com/search?term=Dungeons+and+Dragons+Honor+Among+Thieves&section=movies
+    studio: Paramount Pictures
     genre.sync:
       - Action
       - Comedy
@@ -2459,6 +2468,7 @@ metadata:
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/573854
     tpdb_search: https://theposterdb.com/search?term=Flight+Risk&section=movies
+    studio: Lionsgate
     genre.sync:
       - Thriller
   823219:
@@ -2475,6 +2485,7 @@ metadata:
     release_year: '1997'
     url_poster: https://theposterdb.com/api/assets/22661
     tpdb_search: https://theposterdb.com/search?term=Flubber&section=movies
+    studio: Disney
     genre.sync:
       - Family
   11619:
@@ -2500,6 +2511,7 @@ metadata:
     release_year: '1994'
     url_poster: https://theposterdb.com/api/assets/487271
     tpdb_search: https://theposterdb.com/search?term=Forrest+Gump&section=movies
+    studio: 20th Century Studios
     genre.sync:
       - Comedy
   1098006:
@@ -2534,6 +2546,7 @@ metadata:
     release_year: '2003'
     url_poster: https://theposterdb.com/api/assets/588889
     tpdb_search: https://theposterdb.com/search?term=Freaky+Friday&section=movies
+    studio: Disney
     genre.sync:
       - Family
   1125257:
@@ -2542,6 +2555,7 @@ metadata:
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/588888
     tpdb_search: https://theposterdb.com/search?term=Freaky+Friday&section=movies
+    studio: Disney
     genre.sync:
       - Family
   1239655:
@@ -2602,6 +2616,7 @@ metadata:
     release_year: '2017'
     url_poster: https://theposterdb.com/api/assets/256813
     tpdb_search: https://theposterdb.com/search?term=Get+Out&section=movies
+    studio: Blumhouse Productions
     genre.sync:
       - Horror
       - Thriller
@@ -2611,6 +2626,7 @@ metadata:
     release_year: '2000'
     url_poster: https://theposterdb.com/api/assets/535429
     tpdb_search: https://theposterdb.com/search?term=Gladiator&section=movies
+    studio: Universal Pictures
     genre.sync:
       - Action
   558449:
@@ -2619,6 +2635,7 @@ metadata:
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/535428
     tpdb_search: https://theposterdb.com/search?term=Gladiator+II&section=movies
+    studio: Universal Pictures
     genre.sync:
       - Action
   450465:
@@ -2627,6 +2644,7 @@ metadata:
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/569189
     tpdb_search: https://theposterdb.com/search?term=Glass&section=movies
+    studio: Blumhouse Productions
     genre.sync:
       - Action
   9665:
@@ -2643,6 +2661,7 @@ metadata:
     release_year: '1972'
     url_poster: https://theposterdb.com/api/assets/8935
     tpdb_search: https://theposterdb.com/search?term=The+Godfather&section=movies
+    studio: Paramount Pictures
     genre.sync:
       - Action
       - Drama
@@ -2652,6 +2671,7 @@ metadata:
     release_year: '1974'
     url_poster: https://theposterdb.com/api/assets/8936
     tpdb_search: https://theposterdb.com/search?term=The+Godfather+Part+II&section=movies
+    studio: Paramount Pictures
     genre.sync:
       - Action
       - Drama
@@ -2661,6 +2681,7 @@ metadata:
     release_year: '1990'
     url_poster: https://theposterdb.com/api/assets/8937
     tpdb_search: https://theposterdb.com/search?term=The+Godfather+Part+III&section=movies
+    studio: Paramount Pictures
     genre.sync:
       - Action
       - Drama
@@ -2818,6 +2839,7 @@ metadata:
     release_year: '2016'
     url_poster: https://theposterdb.com/api/assets/40137
     tpdb_search: https://theposterdb.com/search?term=Hacksaw+Ridge&section=movies
+    studio: Lionsgate
     genre.sync:
       - Action
   556574:
@@ -3029,6 +3051,7 @@ metadata:
     release_year: '1968'
     url_poster: https://theposterdb.com/api/assets/377654
     tpdb_search: https://theposterdb.com/search?term=The+Love+Bug&section=movies
+    studio: Disney
     genre.sync:
       - Family
   10869:
@@ -3037,6 +3060,7 @@ metadata:
     release_year: '1974'
     url_poster: https://theposterdb.com/api/assets/377655
     tpdb_search: https://theposterdb.com/search?term=Herbie+Rides+Again&section=movies
+    studio: Disney
     genre.sync:
       - Family
   14140:
@@ -3045,6 +3069,7 @@ metadata:
     release_year: '1977'
     url_poster: https://theposterdb.com/api/assets/377656
     tpdb_search: https://theposterdb.com/search?term=Herbie+Goes+to+Monte+Carlo&section=movies
+    studio: Disney
     genre.sync:
       - Family
   12129:
@@ -3053,6 +3078,7 @@ metadata:
     release_year: '1980'
     url_poster: https://theposterdb.com/api/assets/377657
     tpdb_search: https://theposterdb.com/search?term=Herbie+Goes+Bananas&section=movies
+    studio: Disney
     genre.sync:
       - Family
   32643:
@@ -3061,6 +3087,7 @@ metadata:
     release_year: '1997'
     url_poster: https://theposterdb.com/api/assets/377658
     tpdb_search: https://theposterdb.com/search?term=The+Love+Bug&section=movies
+    studio: Disney
     genre.sync:
       - Family
   11451:
@@ -3069,6 +3096,7 @@ metadata:
     release_year: '2005'
     url_poster: https://theposterdb.com/api/assets/377659
     tpdb_search: https://theposterdb.com/search?term=Herbie+Fully+Loaded&section=movies
+    studio: Disney
     genre.sync:
       - Family
   11970:
@@ -3352,6 +3380,7 @@ metadata:
     release_year: '2012'
     url_poster: https://theposterdb.com/api/assets/534802
     tpdb_search: https://theposterdb.com/search?term=The+Hunger+Games&section=movies
+    studio: Lionsgate
     genre.sync:
       - Action
   101299:
@@ -3360,6 +3389,7 @@ metadata:
     release_year: '2013'
     url_poster: https://theposterdb.com/api/assets/534801
     tpdb_search: https://theposterdb.com/search?term=The+Hunger+Games+Catching+Fire&section=movies
+    studio: Lionsgate
     genre.sync:
       - Action
   131631:
@@ -3368,6 +3398,7 @@ metadata:
     release_year: '2014'
     url_poster: https://theposterdb.com/api/assets/534800
     tpdb_search: https://theposterdb.com/search?term=The+Hunger+Games+Mockingjay+Part+1&section=movies
+    studio: Lionsgate
     genre.sync:
       - Action
   131634:
@@ -3376,6 +3407,7 @@ metadata:
     release_year: '2015'
     url_poster: https://theposterdb.com/api/assets/534799
     tpdb_search: https://theposterdb.com/search?term=The+Hunger+Games+Mockingjay+Part+2&section=movies
+    studio: Lionsgate
     genre.sync:
       - Action
   695721:
@@ -3384,6 +3416,7 @@ metadata:
     release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/534798
     tpdb_search: https://theposterdb.com/search?term=The+Hunger+Games+The+Ballad+of+Songbirds+and+Snakes&section=movies
+    studio: Lionsgate
     genre.sync:
       - Action
   3597:
@@ -3441,6 +3474,7 @@ metadata:
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/473240
     tpdb_search: https://theposterdb.com/search?term=Imaginary&section=movies
+    studio: Blumhouse Productions
     genre.sync:
       - Horror
   1041613:
@@ -3510,6 +3544,7 @@ metadata:
     release_year: '1995'
     url_poster: https://theposterdb.com/api/assets/160677
     tpdb_search: https://theposterdb.com/search?term=The+Indian+in+the+Cupboard&section=movies
+    studio: 20th Century Studios
     genre.sync:
       - Family
   16869:
@@ -3544,6 +3579,7 @@ metadata:
     release_year: '2011'
     url_poster: https://theposterdb.com/api/assets/391914
     tpdb_search: https://theposterdb.com/search?term=Insidious&section=movies
+    studio: Blumhouse Productions
     genre.sync:
       - Horror
   91586:
@@ -3552,6 +3588,7 @@ metadata:
     release_year: '2013'
     url_poster: https://theposterdb.com/api/assets/391915
     tpdb_search: https://theposterdb.com/search?term=Insidious+Chapter+2&section=movies
+    studio: Blumhouse Productions
     genre.sync:
       - Horror
   280092:
@@ -3560,6 +3597,7 @@ metadata:
     release_year: '2015'
     url_poster: https://theposterdb.com/api/assets/391916
     tpdb_search: https://theposterdb.com/search?term=Insidious+Chapter+3&section=movies
+    studio: Blumhouse Productions
     genre.sync:
       - Horror
   406563:
@@ -3568,6 +3606,7 @@ metadata:
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/391917
     tpdb_search: https://theposterdb.com/search?term=Insidious+The+Last+Key&section=movies
+    studio: Blumhouse Productions
     genre.sync:
       - Horror
   614479:
@@ -3576,6 +3615,7 @@ metadata:
     release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/391918
     tpdb_search: https://theposterdb.com/search?term=Insidious+The+Red+Door&section=movies
+    studio: Blumhouse Productions
     genre.sync:
       - Horror
   157336:
@@ -3696,6 +3736,7 @@ metadata:
     release_year: '2014'
     url_poster: https://theposterdb.com/api/assets/366292
     tpdb_search: https://theposterdb.com/search?term=John+Wick&section=movies
+    studio: Lionsgate
     genre.sync:
       - Action
   324552:
@@ -3704,6 +3745,7 @@ metadata:
     release_year: '2017'
     url_poster: https://theposterdb.com/api/assets/366293
     tpdb_search: https://theposterdb.com/search?term=John+Wick+Chapter+2&section=movies
+    studio: Lionsgate
     genre.sync:
       - Action
   458156:
@@ -3712,6 +3754,7 @@ metadata:
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/366294
     tpdb_search: https://theposterdb.com/search?term=John+Wick+Chapter+3+Parabellum&section=movies
+    studio: Lionsgate
     genre.sync:
       - Action
   603692:
@@ -3720,6 +3763,7 @@ metadata:
     release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/366295
     tpdb_search: https://theposterdb.com/search?term=John+Wick+Chapter+4&section=movies
+    studio: Lionsgate
     genre.sync:
       - Action
   541671:
@@ -3728,6 +3772,7 @@ metadata:
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/611990
     tpdb_search: https://theposterdb.com/search?term=From+the+World+of+John+Wick+Ballerina&section=movies
+    studio: Lionsgate
     genre.sync:
       - Action
   515001:
@@ -3848,6 +3893,7 @@ metadata:
     release_year: '1993'
     url_poster: https://theposterdb.com/api/assets/158969
     tpdb_search: https://theposterdb.com/search?term=Jurassic+Park&section=movies
+    studio: Universal Pictures
     genre.sync:
       - Action
       - Science Fiction
@@ -3857,6 +3903,7 @@ metadata:
     release_year: '1997'
     url_poster: https://theposterdb.com/api/assets/158970
     tpdb_search: https://theposterdb.com/search?term=The+Lost+World+Jurassic+Park&section=movies
+    studio: Universal Pictures
     genre.sync:
       - Action
       - Science Fiction
@@ -3866,6 +3913,7 @@ metadata:
     release_year: '2001'
     url_poster: https://theposterdb.com/api/assets/158971
     tpdb_search: https://theposterdb.com/search?term=Jurassic+Park+III&section=movies
+    studio: Universal Pictures
     genre.sync:
       - Action
       - Science Fiction
@@ -3875,6 +3923,7 @@ metadata:
     release_year: '2015'
     url_poster: https://theposterdb.com/api/assets/158972
     tpdb_search: https://theposterdb.com/search?term=Jurassic+World&section=movies
+    studio: Universal Pictures
     genre.sync:
       - Action
       - Science Fiction
@@ -3884,6 +3933,7 @@ metadata:
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/158973
     tpdb_search: https://theposterdb.com/search?term=Jurassic+World+Fallen+Kingdom&section=movies
+    studio: Universal Pictures
     genre.sync:
       - Action
       - Science Fiction
@@ -3893,6 +3943,7 @@ metadata:
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/158974
     tpdb_search: https://theposterdb.com/search?term=Battle+at+Big+Rock&section=movies
+    studio: Universal Pictures
     genre.sync:
       - Action
       - Science Fiction
@@ -3902,6 +3953,7 @@ metadata:
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/158975
     tpdb_search: https://theposterdb.com/search?term=Jurassic+Park+Dominion&section=movies
+    studio: Universal Pictures
     genre.sync:
       - Action
       - Science Fiction
@@ -3911,6 +3963,7 @@ metadata:
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/625064
     tpdb_search: https://theposterdb.com/search?term=Jurassic+Park+Rebirth&section=movies
+    studio: Universal Pictures
     genre.sync:
       - Action
       - Science Fiction
@@ -4704,6 +4757,7 @@ metadata:
     release_year: '2004'
     url_poster: https://theposterdb.com/api/assets/437526
     tpdb_search: https://theposterdb.com/search?term=Mean+Girls&section=movies
+    studio: 20th Century Studios
     genre.sync:
       - Comedy
   1267:
@@ -4739,6 +4793,7 @@ metadata:
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/625657
     tpdb_search: https://theposterdb.com/search?term=M3gan&section=movies
+    studio: Blumhouse Productions
     genre.sync:
       - Horror
   1071585:
@@ -4747,6 +4802,7 @@ metadata:
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/625656
     tpdb_search: https://theposterdb.com/search?term=M3gan+2.0&section=movies
+    studio: Blumhouse Productions
     genre.sync:
       - Horror
   77:
@@ -5087,6 +5143,7 @@ metadata:
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/619578
     tpdb_search: https://theposterdb.com/search?term=The+Naked+Gun&section=movies
+    studio: Paramount Pictures
     genre.sync:
       - Action
       - Comedy
@@ -5139,6 +5196,7 @@ metadata:
     release_year: '2007'
     url_poster: https://theposterdb.com/api/assets/78811
     tpdb_search: https://theposterdb.com/search?term=Next&section=movies
+    studio: 20th Century Studios
     genre.sync:
       - Action
       - Thriller
@@ -5148,6 +5206,7 @@ metadata:
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/464038
     tpdb_search: https://theposterdb.com/search?term=Night+Swim&section=movies
+    studio: Blumhouse Productions
     genre.sync:
       - Horror
   728949:
@@ -5208,6 +5267,7 @@ metadata:
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/583792
     tpdb_search: https://theposterdb.com/search?term=Novocaine&section=movies
+    studio: Paramount Pictures
     genre.sync:
       - Action
       - Thriller
@@ -5217,6 +5277,7 @@ metadata:
     release_year: '2013'
     url_poster: https://theposterdb.com/api/assets/10166
     tpdb_search: https://theposterdb.com/search?term=Now+You+See+Me&section=movies
+    studio: Lionsgate
     genre.sync:
       - Action
       - Thriller
@@ -5226,6 +5287,7 @@ metadata:
     release_year: '2016'
     url_poster: https://theposterdb.com/api/assets/10167
     tpdb_search: https://theposterdb.com/search?term=Now+You+See+Me+2&section=movies
+    studio: Lionsgate
     genre.sync:
       - Action
       - Thriller
@@ -5348,6 +5410,7 @@ metadata:
     release_year: '2007'
     url_poster: https://theposterdb.com/api/assets/639478
     tpdb_search: https://theposterdb.com/search?term=Paranormal+Activity&section=movies
+    studio: Paramount Pictures
     genre.sync:
       - Horror
   41436:
@@ -5356,6 +5419,7 @@ metadata:
     release_year: '2010'
     url_poster: https://theposterdb.com/api/assets/639477
     tpdb_search: https://theposterdb.com/search?term=Paranormal+Activity+2&section=movies
+    studio: Paramount Pictures
     genre.sync:
       - Horror
   59429:
@@ -5372,6 +5436,7 @@ metadata:
     release_year: '2011'
     url_poster: https://theposterdb.com/api/assets/639475
     tpdb_search: https://theposterdb.com/search?term=Paranormal+Activity+3&section=movies
+    studio: Paramount Pictures
     genre.sync:
       - Horror
   82990:
@@ -5380,6 +5445,7 @@ metadata:
     release_year: '2012'
     url_poster: https://theposterdb.com/api/assets/639474
     tpdb_search: https://theposterdb.com/search?term=Paranormal+Activity+4&section=movies
+    studio: Paramount Pictures
     genre.sync:
       - Horror
   227348:
@@ -5388,6 +5454,7 @@ metadata:
     release_year: '2014'
     url_poster: https://theposterdb.com/api/assets/639473
     tpdb_search: https://theposterdb.com/search?term=Paranormal+Activity+The+Marked+Ones&section=movies
+    studio: Paramount Pictures
     genre.sync:
       - Horror
   146301:
@@ -5396,6 +5463,7 @@ metadata:
     release_year: '2015'
     url_poster: https://theposterdb.com/api/assets/639472
     tpdb_search: https://theposterdb.com/search?term=Paranormal+Activity+The+Ghost+Dimension&section=movies
+    studio: Paramount Pictures
     genre.sync:
       - Horror
   609972:
@@ -5404,6 +5472,7 @@ metadata:
     release_year: '2021'
     url_poster: https://theposterdb.com/api/assets/639471
     tpdb_search: https://theposterdb.com/search?term=Paranormal+Activity+Next+of+Kin&section=movies
+    studio: Paramount Pictures
     genre.sync:
       - Horror
   496243:
@@ -5847,6 +5916,7 @@ metadata:
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/511154
     tpdb_search: https://theposterdb.com/search?term=A+Quiet+Place&section=movies
+    studio: Paramount Pictures
     genre.sync:
       - Horror
   520763:
@@ -5855,6 +5925,7 @@ metadata:
     release_year: '2021'
     url_poster: https://theposterdb.com/api/assets/511155
     tpdb_search: https://theposterdb.com/search?term=A+Quiet+Place+Part+II&section=movies
+    studio: Paramount Pictures
     genre.sync:
       - Horror
   762441:
@@ -5863,6 +5934,7 @@ metadata:
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/511156
     tpdb_search: https://theposterdb.com/search?term=A+Quiet+Place+Day+One&section=movies
+    studio: Paramount Pictures
     genre.sync:
       - Horror
   2062:
@@ -6011,6 +6083,7 @@ metadata:
     release_year: '1998'
     url_poster: https://theposterdb.com/api/assets/82876
     tpdb_search: https://theposterdb.com/search?term=The+Rugrats+Movie&section=movies
+    studio: 20th Century Studios
     genre.sync:
       - Animation
   629017:
@@ -6182,6 +6255,7 @@ metadata:
     release_year: '2010'
     url_poster: https://theposterdb.com/api/assets/53707
     tpdb_search: "https://theposterdb.com/search?term=She's+Out+of+My+League&section=movies"
+    studio: 20th Century Studios
     genre.sync:
       - Comedy
   9655:
@@ -6250,6 +6324,7 @@ metadata:
     release_year: '2010'
     url_poster: https://theposterdb.com/api/assets/476934
     tpdb_search: https://theposterdb.com/search?term=Shutter+Island&section=movies
+    studio: 20th Century Studios
     genre.sync:
       - Thriller
   273481:
@@ -6258,6 +6333,7 @@ metadata:
     release_year: '2015'
     url_poster: https://theposterdb.com/api/assets/5943
     tpdb_search: https://theposterdb.com/search?term=Sicario&section=movies
+    studio: Lionsgate
     genre.sync:
       - Action
   400535:
@@ -6266,6 +6342,7 @@ metadata:
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/5944
     tpdb_search: https://theposterdb.com/search?term=Sicario+Day+of+the+Soldado&section=movies
+    studio: Lionsgate
     genre.sync:
       - Action
   274:
@@ -6282,6 +6359,7 @@ metadata:
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/599014
     tpdb_search: https://theposterdb.com/search?term=A+Simple+Favor&section=movies
+    studio: Lionsgate
     genre.sync:
       - Comedy
       - Thriller
@@ -6291,6 +6369,7 @@ metadata:
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/599015
     tpdb_search: https://theposterdb.com/search?term=Another+Simple+Favor&section=movies
+    studio: Lionsgate
     genre.sync:
       - Comedy
       - Thriller
@@ -6300,6 +6379,7 @@ metadata:
     release_year: '1998'
     url_poster: https://theposterdb.com/api/assets/36103
     tpdb_search: https://theposterdb.com/search?term=A+Simple+Plan&section=movies
+    studio: 20th Century Studios
     genre.sync:
       - Thriller
   335797:
@@ -6326,6 +6406,7 @@ metadata:
     release_year: '2012'
     url_poster: https://theposterdb.com/api/assets/108461
     tpdb_search: https://theposterdb.com/search?term=Sinister&section=movies
+    studio: Blumhouse Productions
     genre.sync:
       - Horror
   283445:
@@ -6334,6 +6415,7 @@ metadata:
     release_year: '2015'
     url_poster: https://theposterdb.com/api/assets/108462
     tpdb_search: https://theposterdb.com/search?term=Sinister+2&section=movies
+    studio: Blumhouse Productions
     genre.sync:
       - Horror
   1233413:
@@ -6367,6 +6449,7 @@ metadata:
     release_year: '2005'
     url_poster: https://theposterdb.com/api/assets/73159
     tpdb_search: https://theposterdb.com/search?term=Sky+High&section=movies
+    studio: Disney
     genre.sync:
       - Family
   10882:
@@ -6410,6 +6493,7 @@ metadata:
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/545245
     tpdb_search: https://theposterdb.com/search?term=Smile+2&section=movies
+    studio: Paramount Pictures
     genre.sync:
       - Horror
   447273:
@@ -6418,6 +6502,7 @@ metadata:
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/536980
     tpdb_search: https://theposterdb.com/search?term=Snow+White&section=movies
+    studio: Disney
     genre.sync:
       - Family
   408:
@@ -6612,6 +6697,7 @@ metadata:
     release_year: '2008'
     url_poster: https://theposterdb.com/api/assets/87939
     tpdb_search: https://theposterdb.com/search?term=The+Spiderwick+Chronicles&section=movies
+    studio: 20th Century Studios
     genre.sync:
       - Family
   129:
@@ -6629,6 +6715,7 @@ metadata:
     release_year: '2017'
     url_poster: https://theposterdb.com/api/assets/569190
     tpdb_search: https://theposterdb.com/search?term=Split&section=movies
+    studio: Blumhouse Productions
     genre.sync:
       - Action
   332562:
@@ -6815,6 +6902,7 @@ metadata:
     release_year: '2017'
     url_poster: https://theposterdb.com/api/assets/504902
     tpdb_search: https://theposterdb.com/search?term=Stronger&section=movies
+    studio: Lionsgate
     genre.sync:
       - Drama
   1064028:
@@ -7040,6 +7128,7 @@ metadata:
     release_year: '1997'
     url_poster: https://theposterdb.com/api/assets/101730
     tpdb_search: https://theposterdb.com/search?term=Titanic&section=movies
+    studio: Paramount Pictures
     genre.sync:
       - Drama
   1242011:
@@ -7072,6 +7161,7 @@ metadata:
     release_year: '1986'
     url_poster: https://theposterdb.com/api/assets/251590
     tpdb_search: https://theposterdb.com/search?term=Top+Gun&section=movies
+    studio: Paramount Pictures
     genre.sync:
       - Action
   361743:
@@ -7080,6 +7170,7 @@ metadata:
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/251591
     tpdb_search: https://theposterdb.com/search?term=Top+Gun+Maverick&section=movies
+    studio: Paramount Pictures
     genre.sync:
       - Action
   23168:
@@ -7410,6 +7501,7 @@ metadata:
     release_year: '2000'
     url_poster: https://theposterdb.com/api/assets/569191
     tpdb_search: https://theposterdb.com/search?term=Unbreakable&section=movies
+    studio: Blumhouse Productions
     genre.sync:
       - Action
   473033:
@@ -7428,6 +7520,7 @@ metadata:
     release_year: '2007'
     url_poster: https://theposterdb.com/api/assets/98038
     tpdb_search: https://theposterdb.com/search?term=Underdog&section=movies
+    studio: Disney
     genre.sync:
       - Family
   1517772:
@@ -7461,6 +7554,7 @@ metadata:
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/12679
     tpdb_search: https://theposterdb.com/search?term=Us&section=movies
+    studio: Blumhouse Productions
     genre.sync:
       - Horror
   340945:
@@ -7633,6 +7727,7 @@ metadata:
     release_year: '2014'
     url_poster: https://theposterdb.com/api/assets/139193
     tpdb_search: https://theposterdb.com/search?term=Whiplash&section=movies
+    studio: Blumhouse Productions
     genre.sync:
       - Drama
   438808:
@@ -7701,6 +7796,7 @@ metadata:
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/564474
     tpdb_search: https://theposterdb.com/search?term=Wolf+Man&section=movies
+    studio: Blumhouse Productions
     genre.sync:
       - Fantasy
       - Horror
