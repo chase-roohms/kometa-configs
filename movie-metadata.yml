@@ -124,6 +124,7 @@ metadata:
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/596173
     tpdb_search: https://theposterdb.com/search?term=2073&section=movies
+    studio: NEON
     genre.sync:
       - Documentary
   431580:
@@ -469,6 +470,7 @@ metadata:
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/562800
     tpdb_search: https://theposterdb.com/search?term=Anora&section=movies
+    studio: NEON
     genre.sync:
       - Drama
   102899:
@@ -1603,6 +1605,7 @@ metadata:
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/600771
     tpdb_search: https://theposterdb.com/search?term=Cuckoo&section=movies
+    studio: NEON
     genre.sync:
       - Horror
   480414:
@@ -3143,6 +3146,7 @@ metadata:
     release_year: '1990'
     url_poster: https://theposterdb.com/api/assets/50688
     tpdb_search: https://theposterdb.com/search?term=Home+Alone&section=movies
+    studio: 20th Century Studios
     genre.sync:
       - Family
   772:
@@ -3151,6 +3155,7 @@ metadata:
     release_year: '1992'
     url_poster: https://theposterdb.com/api/assets/50689
     tpdb_search: https://theposterdb.com/search?term=Home+Alone+2+Lost+in+New+York&section=movies
+    studio: 20th Century Studios
     genre.sync:
       - Family
   9714:
@@ -3159,6 +3164,7 @@ metadata:
     release_year: '1997'
     url_poster: https://theposterdb.com/api/assets/50690
     tpdb_search: https://theposterdb.com/search?term=Home+Alone+3&section=movies
+    studio: 20th Century Studios
     genre.sync:
       - Family
   12546:
@@ -3167,6 +3173,7 @@ metadata:
     release_year: '2002'
     url_poster: https://theposterdb.com/api/assets/50691
     tpdb_search: https://theposterdb.com/search?term=Home+Alone+4&section=movies
+    studio: 20th Century Studios
     genre.sync:
       - Family
   134375:
@@ -3175,6 +3182,7 @@ metadata:
     release_year: '2012'
     url_poster: https://theposterdb.com/api/assets/50692
     tpdb_search: https://theposterdb.com/search?term=Home+Alone+The+Holiday+Heist&section=movies
+    studio: 20th Century Studios
     genre.sync:
       - Family
   13700:
@@ -3441,6 +3449,7 @@ metadata:
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/536696
     tpdb_search: https://theposterdb.com/search?term=Immaculate&section=movies
+    studio: NEON
     genre.sync:
       - Horror
   1214509:
@@ -4323,6 +4332,7 @@ metadata:
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/509410
     tpdb_search: https://theposterdb.com/search?term=Longlegs&section=movies
+    studio: NEON
     genre.sync:
       - Horror
       - Thriller
@@ -4937,6 +4947,7 @@ metadata:
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/576254
     tpdb_search: https://theposterdb.com/search?term=The+Monkey&section=movies
+    studio: NEON
     genre.sync:
       - Horror
   585:
@@ -5409,6 +5420,7 @@ metadata:
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/47915
     tpdb_search: https://theposterdb.com/search?term=Parasite&section=movies
+    studio: NEON
     genre.sync:
       - Thriller
   9820:
@@ -5611,6 +5623,7 @@ metadata:
     release_year: '2011'
     url_poster: https://theposterdb.com/api/assets/214944
     tpdb_search: https://theposterdb.com/search?term=Rise+of+the+Planet+of+the+Apes&section=movies
+    studio: 20th Century Studios
     genre.sync:
       - Action
       - Science Fiction
@@ -5620,6 +5633,7 @@ metadata:
     release_year: '2014'
     url_poster: https://theposterdb.com/api/assets/214945
     tpdb_search: https://theposterdb.com/search?term=Dawn+of+the+Planet+of+the+Apes&section=movies
+    studio: 20th Century Studios
     genre.sync:
       - Action
       - Science Fiction
@@ -5629,6 +5643,7 @@ metadata:
     release_year: '2017'
     url_poster: https://theposterdb.com/api/assets/214946
     tpdb_search: https://theposterdb.com/search?term=War+for+the+Planet+of+the+Apes&section=movies
+    studio: 20th Century Studios
     genre.sync:
       - Action
       - Science Fiction
@@ -5638,6 +5653,7 @@ metadata:
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/494476
     tpdb_search: https://theposterdb.com/search?term=Kingdom+of+the+Planet+of+the+Apes&section=movies
+    studio: 20th Century Studios
     genre.sync:
       - Action
       - Science Fiction
@@ -5768,6 +5784,7 @@ metadata:
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/577042
     tpdb_search: https://theposterdb.com/search?term=Presence&section=movies
+    studio: NEON
     genre.sync:
       - Horror
   1124:
@@ -6392,6 +6409,7 @@ metadata:
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/545246
     tpdb_search: https://theposterdb.com/search?term=Smile&section=movies
+    studio: Paramount Pictures
     genre.sync:
       - Horror
   1100782:
@@ -7154,6 +7172,7 @@ metadata:
     release_year: '2007'
     url_poster: https://theposterdb.com/api/assets/385807
     tpdb_search: https://theposterdb.com/search?term=Transformers&section=movies
+    studio: Paramount Pictures
     genre.sync:
       - Action
       - Science Fiction
@@ -7163,6 +7182,7 @@ metadata:
     release_year: '2009'
     url_poster: https://theposterdb.com/api/assets/385808
     tpdb_search: https://theposterdb.com/search?term=Transformers+Revenge+of+the+Fallen&section=movies
+    studio: Paramount Pictures
     genre.sync:
       - Action
       - Science Fiction
@@ -7172,6 +7192,7 @@ metadata:
     release_year: '2011'
     url_poster: https://theposterdb.com/api/assets/385809
     tpdb_search: https://theposterdb.com/search?term=Transformers+Dark+of+the+Moon&section=movies
+    studio: Paramount Pictures
     genre.sync:
       - Action
       - Science Fiction
@@ -7181,6 +7202,7 @@ metadata:
     release_year: '2014'
     url_poster: https://theposterdb.com/api/assets/385810
     tpdb_search: https://theposterdb.com/search?term=Transformers+Age+of+Extinction&section=movies
+    studio: Paramount Pictures
     genre.sync:
       - Action
       - Science Fiction
@@ -7190,6 +7212,7 @@ metadata:
     release_year: '2017'
     url_poster: https://theposterdb.com/api/assets/385811
     tpdb_search: https://theposterdb.com/search?term=Transformers+The+Last+Knight&section=movies
+    studio: Paramount Pictures
     genre.sync:
       - Action
       - Science Fiction
@@ -7199,6 +7222,7 @@ metadata:
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/385812
     tpdb_search: https://theposterdb.com/search?term=Bumblebee&section=movies
+    studio: Paramount Pictures
     genre.sync:
       - Action
       - Science Fiction
@@ -7208,15 +7232,17 @@ metadata:
     release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/385814
     tpdb_search: https://theposterdb.com/search?term=Transformers+Rise+of+the+Beasts&section=movies
+    studio: Paramount Pictures
     genre.sync:
       - Action
       - Science Fiction
   698687:
     label_title: Transformers One
-    sort_title: Transformers One
+    sort_title: Transformers One 1
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/537050
     tpdb_search: https://theposterdb.com/search?term=Transformers+One&section=movies
+    studio: Paramount Pictures
     genre.sync:
       - Animation
   9016:
