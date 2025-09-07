@@ -5483,7 +5483,7 @@ metadata:
     label_title: Pirates of the Caribbean The Curse of the Black Pearl
     sort_title: Pirates of the Caribbean 1
     release_year: '2003'
-    url_poster: https://theposterdb.com/api/assets/71935
+    url_poster: https://theposterdb.com/api/assets/640683
     tpdb_search: https://theposterdb.com/search?term=Pirates+of+the+Caribbean+The+Curse+of+the+Black+Pearl&section=movies
     genre.sync:
       - Fantasy
@@ -5491,7 +5491,7 @@ metadata:
     label_title: Pirates of the Caribbean Dead Mans Chest
     sort_title: Pirates of the Caribbean 2
     release_year: '2006'
-    url_poster: https://theposterdb.com/api/assets/71936
+    url_poster: https://theposterdb.com/api/assets/640682
     tpdb_search: https://theposterdb.com/search?term=Pirates+of+the+Caribbean+Dead+Mans+Chest&section=movies
     genre.sync:
       - Fantasy
@@ -5499,7 +5499,7 @@ metadata:
     label_title: Pirates of the Caribbean At Worlds End
     sort_title: Pirates of the Caribbean 3
     release_year: '2007'
-    url_poster: https://theposterdb.com/api/assets/71937
+    url_poster: https://theposterdb.com/api/assets/640681
     tpdb_search: https://theposterdb.com/search?term=Pirates+of+the+Caribbean+At+Worlds+End&section=movies
     genre.sync:
       - Fantasy
@@ -5507,7 +5507,7 @@ metadata:
     label_title: Pirates of the Caribbean On Stranger Tides
     sort_title: Pirates of the Caribbean 4
     release_year: '2011'
-    url_poster: https://theposterdb.com/api/assets/71938
+    url_poster: https://theposterdb.com/api/assets/640680
     tpdb_search: https://theposterdb.com/search?term=Pirates+of+the+Caribbean+On+Stranger+Tides&section=movies
     genre.sync:
       - Fantasy
@@ -5515,7 +5515,7 @@ metadata:
     label_title: Pirates of the Caribbean Dead Men Tell No Tales
     sort_title: Pirates of the Caribbean 5
     release_year: '2017'
-    url_poster: https://theposterdb.com/api/assets/71939
+    url_poster: https://theposterdb.com/api/assets/640679
     tpdb_search: https://theposterdb.com/search?term=Pirates+of+the+Caribbean+Dead+Men+Tell+No+Tales&section=movies
     genre.sync:
       - Fantasy
