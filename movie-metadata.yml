@@ -6621,7 +6621,7 @@ metadata:
     release_year: '1977'
     url_poster: https://theposterdb.com/api/assets/464773
     tpdb_search: https://theposterdb.com/search?term=A+New+Hope&section=movies
-    studio: Lucasfilm
+    studio: Lucasfilm Ltd
     genre.sync:
       - Action
       - Science Fiction
@@ -6631,7 +6631,7 @@ metadata:
     release_year: '1980'
     url_poster: https://theposterdb.com/api/assets/464772
     tpdb_search: https://theposterdb.com/search?term=The+Empire+Strikes+Back&section=movies
-    studio: Lucasfilm
+    studio: Lucasfilm Ltd
     genre.sync:
       - Action
       - Science Fiction
@@ -6641,7 +6641,7 @@ metadata:
     release_year: '1983'
     url_poster: https://theposterdb.com/api/assets/464771
     tpdb_search: https://theposterdb.com/search?term=Return+of+the+Jedi&section=movies
-    studio: Lucasfilm
+    studio: Lucasfilm Ltd
     genre.sync:
       - Action
       - Science Fiction
@@ -6651,7 +6651,7 @@ metadata:
     release_year: '1999'
     url_poster: https://theposterdb.com/api/assets/464754
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+Episode+I+The+Phantom+Menace&section=movies
-    studio: Lucasfilm
+    studio: Lucasfilm Ltd
     genre.sync:
       - Action
       - Science Fiction
@@ -6661,7 +6661,7 @@ metadata:
     release_year: '2002'
     url_poster: https://theposterdb.com/api/assets/464753
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+Episode+II+Attack+of+the+Clones&section=movies
-    studio: Lucasfilm
+    studio: Lucasfilm Ltd
     genre.sync:
       - Action
       - Science Fiction
@@ -6671,7 +6671,7 @@ metadata:
     release_year: '2005'
     url_poster: https://theposterdb.com/api/assets/464752
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+Episode+III+Revenge+of+the+Sith&section=movies
-    studio: Lucasfilm
+    studio: Lucasfilm Ltd
     genre.sync:
       - Action
       - Science Fiction
@@ -6681,7 +6681,7 @@ metadata:
     release_year: '2008'
     url_poster: https://theposterdb.com/api/assets/464733
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+The+Clone+Wars&section=movies
-    studio: Lucasfilm
+    studio: Lucasfilm Ltd
     genre.sync:
       - Action
       - Science Fiction
@@ -6691,7 +6691,7 @@ metadata:
     release_year: '2015'
     url_poster: https://theposterdb.com/api/assets/464801
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+The+Force+Awakens&section=movies
-    studio: Lucasfilm
+    studio: Lucasfilm Ltd
     genre.sync:
       - Action
       - Science Fiction
@@ -6701,7 +6701,7 @@ metadata:
     release_year: '2016'
     url_poster: https://theposterdb.com/api/assets/464542
     tpdb_search: https://theposterdb.com/search?term=Rogue+One+A+Star+Wars+Story&section=movies
-    studio: Lucasfilm
+    studio: Lucasfilm Ltd
     genre.sync:
       - Action
       - Science Fiction
@@ -6711,7 +6711,7 @@ metadata:
     release_year: '2017'
     url_poster: https://theposterdb.com/api/assets/464800
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+The+Last+Jedi&section=movies
-    studio: Lucasfilm
+    studio: Lucasfilm Ltd
     genre.sync:
       - Action
       - Science Fiction
@@ -6721,7 +6721,7 @@ metadata:
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/464541
     tpdb_search: https://theposterdb.com/search?term=Solo+A+Star+Wars+Story&section=movies
-    studio: Lucasfilm
+    studio: Lucasfilm Ltd
     genre.sync:
       - Action
       - Science Fiction
@@ -6731,7 +6731,7 @@ metadata:
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/464799
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+The+Rise+of+Skywalker&section=movies
-    studio: Lucasfilm
+    studio: Lucasfilm Ltd
     genre.sync:
       - Action
       - Science Fiction
