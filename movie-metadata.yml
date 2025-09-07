@@ -5353,8 +5353,9 @@ metadata:
     label_title: The Parent Trap
     sort_title: Parent Trap
     release_year: '1998'
-    url_poster: https://theposterdb.com/api/assets/30941
+    url_poster: https://theposterdb.com/api/assets/640684
     tpdb_search: https://theposterdb.com/search?term=The+Parent+Trap&section=movies
+    studio: Disney
     genre.sync:
       - Family
   850920:
