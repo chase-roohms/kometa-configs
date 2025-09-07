@@ -3380,7 +3380,7 @@ metadata:
             summary: Salad Fingers is facing a food shortage due to a failed crop. His only hope is to pray to Grandmother Growth.
           14:
             title: Crows
-            summary: The long running feud between Salad Fingers and the local crows escalates. 
+            summary: The long running feud between Salad Fingers and the local crows escalates.
   366211:
     label_title: The Sandman
     sort_title: Sandman
@@ -3779,6 +3779,86 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/464544
       2:
         url_poster: https://theposterdb.com/api/assets/593196
+  385376:
+    label_title: Star Wars - The Bad Batch
+    sort_title: Star Wars Bad Batch
+    release_year: '2021'
+    url_poster: https://theposterdb.com/api/assets/464546
+    tpdb_search: https://theposterdb.com/search?term=Star+Wars+-+The+Bad+Batch&section=shows
+    studio: Lucasfilm Ltd
+    genre.sync:
+      - Action
+      - Science Fiction
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/464547
+      2:
+        url_poster: https://theposterdb.com/api/assets/464548
+      3:
+        url_poster: https://theposterdb.com/api/assets/464549
+  83268:
+    label_title: Star Wars - The Clone Wars
+    sort_title: Star Wars Clone Wars
+    release_year: '2008'
+    url_poster: https://theposterdb.com/api/assets/464734
+    tpdb_search: https://theposterdb.com/search?term=Star+Wars+-+The+Clone+Wars&section=shows
+    studio: Lucasfilm Ltd
+    genre.sync:
+      - Action
+      - Science Fiction
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/599551
+      1:
+        url_poster: https://theposterdb.com/api/assets/464735
+      2:
+        url_poster: https://theposterdb.com/api/assets/464736
+      3:
+        url_poster: https://theposterdb.com/api/assets/464737
+      4:
+        url_poster: https://theposterdb.com/api/assets/464738
+      5:
+        url_poster: https://theposterdb.com/api/assets/464739
+      6:
+        url_poster: https://theposterdb.com/api/assets/464740
+      7:
+        url_poster: https://theposterdb.com/api/assets/464741
+  283468:
+    label_title: Star Wars Rebels
+    sort_title: Star Wars Rebels
+    release_year: '2014'
+    url_poster: https://theposterdb.com/api/assets/464550
+    tpdb_search: https://theposterdb.com/search?term=Star+Wars+Rebels&section=shows
+    studio: Lucasfilm Ltd
+    genre.sync:
+      - Action
+      - Science Fiction
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/464551
+      2:
+        url_poster: https://theposterdb.com/api/assets/464552
+      3:
+        url_poster: https://theposterdb.com/api/assets/464553
+      4:
+        url_poster: https://theposterdb.com/api/assets/464554
+  351575:
+    label_title: Star Wars Resistance
+    sort_title: Star Wars Resistance
+    release_year: '2018'
+    url_poster: https://theposterdb.com/api/assets/133749
+    tpdb_search: https://theposterdb.com/search?term=Star+Wars+Resistance&section=shows
+    studio: Lucasfilm Ltd
+    genre.sync:
+      - Action
+      - Science Fiction
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/133750
+      1:
+        url_poster: https://theposterdb.com/api/assets/133751
+      2:
+        url_poster: https://theposterdb.com/api/assets/133752
   420600:
     label_title: Star Wars - Skeleton Crew
     sort_title: Star Wars Skeleton Crew
@@ -3831,58 +3911,14 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/594290
-  385376:
-    label_title: Star Wars - The Bad Batch
-    sort_title: Star Wars Bad Batch
-    release_year: '2021'
-    url_poster: https://theposterdb.com/api/assets/464546
-    tpdb_search: https://theposterdb.com/search?term=Star+Wars+-+The+Bad+Batch&section=shows
-    studio: Lucasfilm Ltd
-    genre.sync:
-      - Action
-      - Science Fiction
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/464547
-      2:
-        url_poster: https://theposterdb.com/api/assets/464548
-      3:
-        url_poster: https://theposterdb.com/api/assets/464549
-  83268:
-    label_title: Star Wars - The Clone Wars
-    sort_title: Star Wars Clone Wars
-    release_year: '2008'
-    url_poster: https://theposterdb.com/api/assets/464734
-    tpdb_search: https://theposterdb.com/search?term=Star+Wars+-+The+Clone+Wars&section=shows
-    studio: Lucasfilm Ltd
-    genre.sync:
-      - Action
-      - Science Fiction
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/599551
-      1:
-        url_poster: https://theposterdb.com/api/assets/464735
-      2:
-        url_poster: https://theposterdb.com/api/assets/464736
-      3:
-        url_poster: https://theposterdb.com/api/assets/464737
-      4:
-        url_poster: https://theposterdb.com/api/assets/464738
-      5:
-        url_poster: https://theposterdb.com/api/assets/464739
-      6:
-        url_poster: https://theposterdb.com/api/assets/464740
-      7:
-        url_poster: https://theposterdb.com/api/assets/464741
   393190:
     label_title: Star Wars - Visions
     sort_title: Star Wars Visions
     release_year: '2021'
     url_poster: https://theposterdb.com/api/assets/470291
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+-+Visions&section=shows
-    studio: Lucasfilm Ltd
     audio_language: ja-JP
+    studio: Lucasfilm Ltd
     genre.sync:
       - Action
       - Anime
@@ -3892,42 +3928,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/470292
       2:
         url_poster: https://theposterdb.com/api/assets/470293
-  283468:
-    label_title: Star Wars Rebels
-    sort_title: Star Wars Rebels
-    release_year: '2014'
-    url_poster: https://theposterdb.com/api/assets/464550
-    tpdb_search: https://theposterdb.com/search?term=Star+Wars+Rebels&section=shows
-    studio: Lucasfilm Ltd
-    genre.sync:
-      - Action
-      - Science Fiction
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/464551
-      2:
-        url_poster: https://theposterdb.com/api/assets/464552
-      3:
-        url_poster: https://theposterdb.com/api/assets/464553
-      4:
-        url_poster: https://theposterdb.com/api/assets/464554
-  351575:
-    label_title: Star Wars Resistance
-    sort_title: Star Wars Resistance
-    release_year: '2018'
-    url_poster: https://theposterdb.com/api/assets/133749
-    tpdb_search: https://theposterdb.com/search?term=Star+Wars+Resistance&section=shows
-    studio: Lucasfilm Ltd
-    genre.sync:
-      - Action
-      - Science Fiction
-    seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/133750
-      1:
-        url_poster: https://theposterdb.com/api/assets/133751
-      2:
-        url_poster: https://theposterdb.com/api/assets/133752
   455562:
     label_title: Stick
     sort_title: Stick
