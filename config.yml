@@ -251,7 +251,6 @@ shared_collection_files:
       - Pixar
       - Studio Ghibli
       - Walt Disney Pictures
-    name_Walt Disney Pictures: Disney
     sort_by: title.asc
     <<: *studio_posters
 
