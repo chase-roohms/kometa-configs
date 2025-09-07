@@ -3139,10 +3139,10 @@ metadata:
     label_title: Highest 2 Lowest
     sort_title: Highest 2 Lowest
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/602259
     tpdb_search: https://theposterdb.com/search?term=Highest+2+Lowest&section=movies
+    studio: A24
     genre.sync:
-      - Crime
       - Drama
       - Thriller
   49051:
