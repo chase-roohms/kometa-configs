@@ -3143,7 +3143,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Highest+2+Lowest&section=movies
     studio: A24
     genre.sync:
-      - Drama
       - Thriller
   49051:
     label_title: The Hobbit An Unexpected Journey
