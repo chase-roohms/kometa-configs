@@ -4196,6 +4196,7 @@ metadata:
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/554954
     tpdb_search: https://theposterdb.com/search?term=Lilo+%26+Stitch&section=movies
+    studio: Disney
     genre.sync:
       - Family
   8587:
@@ -4231,6 +4232,7 @@ metadata:
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/548899
     tpdb_search: https://theposterdb.com/search?term=The+Lion+King&section=movies
+    studio: Disney
     genre.sync:
       - Family
   762509:
@@ -4239,6 +4241,7 @@ metadata:
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/548898
     tpdb_search: https://theposterdb.com/search?term=Mufasa+The+Lion+King&section=movies
+    studio: Disney
     genre.sync:
       - Family
   10144:
