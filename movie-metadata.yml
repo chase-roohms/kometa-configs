@@ -407,16 +407,18 @@ metadata:
     label_title: The Angry Birds Movie
     sort_title: Angry Birds Movie 1
     release_year: '2016'
-    url_poster: https://theposterdb.com/api/assets/23355
+    url_poster: https://theposterdb.com/api/assets/639865
     tpdb_search: https://theposterdb.com/search?term=The+Angry+Birds+Movie&section=movies
+    studio: Sony Pictures Animation
     genre.sync:
       - Animation
   454640:
     label_title: The Angry Birds Movie 2
     sort_title: Angry Birds Movie 2
     release_year: '2019'
-    url_poster: https://theposterdb.com/api/assets/23356
+    url_poster: https://theposterdb.com/api/assets/639864
     tpdb_search: https://theposterdb.com/search?term=The+Angry+Birds+Movie+2&section=movies
+    studio: Sony Pictures Animation
     genre.sync:
       - Animation
   250546:
