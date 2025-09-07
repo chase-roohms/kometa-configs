@@ -2393,8 +2393,9 @@ metadata:
     label_title: Fixed
     sort_title: Fixed
     release_year: '2025'
-    url_poster: https://theposterdb.com/api/assets/634718
+    url_poster: https://theposterdb.com/api/assets/640685
     tpdb_search: https://theposterdb.com/search?term=Fixed&section=movies
+    studio: Sony Pictures Animation
     genre.sync:
       - Animation
       - Comedy
@@ -3928,8 +3929,9 @@ metadata:
     label_title: KPop Demon Hunters
     sort_title: KPop Demon Hunters
     release_year: '2025'
-    url_poster: https://theposterdb.com/api/assets/637812
+    url_poster: https://theposterdb.com/api/assets/640686
     tpdb_search: https://theposterdb.com/search?term=KPop+Demon+Hunters&section=movies
+    studio: Sony Pictures Animation
     genre.sync:
       - Animation
   539972:
