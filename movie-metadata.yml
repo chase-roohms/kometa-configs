@@ -5485,6 +5485,7 @@ metadata:
     release_year: '2003'
     url_poster: https://theposterdb.com/api/assets/640683
     tpdb_search: https://theposterdb.com/search?term=Pirates+of+the+Caribbean+The+Curse+of+the+Black+Pearl&section=movies
+    studio: Disney
     genre.sync:
       - Fantasy
   58:
@@ -5493,6 +5494,7 @@ metadata:
     release_year: '2006'
     url_poster: https://theposterdb.com/api/assets/640682
     tpdb_search: https://theposterdb.com/search?term=Pirates+of+the+Caribbean+Dead+Mans+Chest&section=movies
+    studio: Disney
     genre.sync:
       - Fantasy
   285:
@@ -5501,6 +5503,7 @@ metadata:
     release_year: '2007'
     url_poster: https://theposterdb.com/api/assets/640681
     tpdb_search: https://theposterdb.com/search?term=Pirates+of+the+Caribbean+At+Worlds+End&section=movies
+    studio: Disney
     genre.sync:
       - Fantasy
   1865:
@@ -5509,6 +5512,7 @@ metadata:
     release_year: '2011'
     url_poster: https://theposterdb.com/api/assets/640680
     tpdb_search: https://theposterdb.com/search?term=Pirates+of+the+Caribbean+On+Stranger+Tides&section=movies
+    studio: Disney
     genre.sync:
       - Fantasy
   166426:
@@ -5517,6 +5521,7 @@ metadata:
     release_year: '2017'
     url_poster: https://theposterdb.com/api/assets/640679
     tpdb_search: https://theposterdb.com/search?term=Pirates+of+the+Caribbean+Dead+Men+Tell+No+Tales&section=movies
+    studio: Disney
     genre.sync:
       - Fantasy
   257344:
