@@ -183,7 +183,7 @@ url_poster_mappings:
     url_poster_Marvel Studios: https://theposterdb.com/api/assets/573128
     url_poster_Pixar: https://theposterdb.com/api/assets/573147
     url_poster_Studio Ghibli: https://theposterdb.com/api/assets/573155
-    url_poster_Disney: https://theposterdb.com/api/assets/573172
+    url_poster_Walt Disney Pictures: https://theposterdb.com/api/assets/573172
   streaming_posters: &streaming_posters
     url_poster_appletv:
     url_poster_disney:
@@ -242,8 +242,6 @@ shared_collection_files:
   default: studio
   template_variables:
     collection_section: 035
-    append_include:
-      - Disney
     include:
       - A24
       - DreamWorks Studios
@@ -252,7 +250,8 @@ shared_collection_files:
       - Marvel Studios
       - Pixar
       - Studio Ghibli
-      - Disney
+      - Walt Disney Pictures
+    name_Walt Disney Pictures: Disney
     sort_by: title.asc
     <<: *studio_posters
 
