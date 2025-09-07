@@ -276,6 +276,7 @@ metadata:
     release_year: '1979'
     url_poster: https://theposterdb.com/api/assets/1214
     tpdb_search: https://theposterdb.com/search?term=Alien&section=movies
+    studio: 20th Century Studios
     genre.sync:
       - Science Fiction
       - Thriller
@@ -285,6 +286,7 @@ metadata:
     release_year: '1986'
     url_poster: https://theposterdb.com/api/assets/1215
     tpdb_search: https://theposterdb.com/search?term=Aliens&section=movies
+    studio: 20th Century Studios
     genre.sync:
       - Science Fiction
       - Thriller
@@ -294,6 +296,7 @@ metadata:
     release_year: '1992'
     url_poster: https://theposterdb.com/api/assets/1216
     tpdb_search: https://theposterdb.com/search?term=Alien³&section=movies
+    studio: 20th Century Studios
     genre.sync:
       - Science Fiction
       - Thriller
@@ -303,6 +306,7 @@ metadata:
     release_year: '1997'
     url_poster: https://theposterdb.com/api/assets/1217
     tpdb_search: https://theposterdb.com/search?term=Alien+Resurrection&section=movies
+    studio: 20th Century Studios
     genre.sync:
       - Science Fiction
       - Thriller
@@ -312,6 +316,7 @@ metadata:
     release_year: '2012'
     url_poster: https://theposterdb.com/api/assets/1220
     tpdb_search: https://theposterdb.com/search?term=Prometheus&section=movies
+    studio: 20th Century Studios
     genre.sync:
       - Science Fiction
       - Thriller
@@ -321,6 +326,7 @@ metadata:
     release_year: '2017'
     url_poster: https://theposterdb.com/api/assets/1221
     tpdb_search: https://theposterdb.com/search?term=Alien+Covenant&section=movies
+    studio: 20th Century Studios
     genre.sync:
       - Science Fiction
       - Thriller
@@ -330,6 +336,7 @@ metadata:
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/516343
     tpdb_search: https://theposterdb.com/search?term=Alien+Romulus&section=movies
+    studio: 20th Century Studios
     genre.sync:
       - Science Fiction
       - Thriller
@@ -339,6 +346,7 @@ metadata:
     release_year: '2004'
     url_poster: https://theposterdb.com/api/assets/1218
     tpdb_search: https://theposterdb.com/search?term=AVP+Alien+vs.+Predator&section=movies
+    studio: 20th Century Studios
     genre.sync:
       - Science Fiction
       - Thriller
@@ -348,6 +356,7 @@ metadata:
     release_year: '2007'
     url_poster: https://theposterdb.com/api/assets/1219
     tpdb_search: https://theposterdb.com/search?term=Aliens+vs+Predator+Requiem&section=movies
+    studio: 20th Century Studios
     genre.sync:
       - Science Fiction
       - Thriller
@@ -513,6 +522,7 @@ metadata:
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/517136
     tpdb_search: https://theposterdb.com/search?term=Aquaman&section=movies
+    studio: DC Films
     genre.sync:
       - Superhero
   572802:
@@ -521,6 +531,7 @@ metadata:
     release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/517135
     tpdb_search: https://theposterdb.com/search?term=Aquaman+and+the+Lost+Kingdom&section=movies
+    studio: DC Films
     genre.sync:
       - Superhero
   14191:
@@ -598,6 +609,7 @@ metadata:
     release_year: '2009'
     url_poster: https://theposterdb.com/api/assets/233959
     tpdb_search: https://theposterdb.com/search?term=Avatar&section=movies
+    studio: 20th Century Studios
     genre.sync:
       - Action
       - Science Fiction
@@ -607,6 +619,7 @@ metadata:
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/233960
     tpdb_search: https://theposterdb.com/search?term=Avatar+The+Way+of+Water&section=movies
+    studio: 20th Century Studios
     genre.sync:
       - Action
       - Science Fiction
@@ -616,6 +629,7 @@ metadata:
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/627259
     tpdb_search: https://theposterdb.com/search?term=Avatar+Fire+and+Ash&section=movies
+    studio: 20th Century Studios
     genre.sync:
       - Action
       - Science Fiction
@@ -754,6 +768,7 @@ metadata:
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/511487
     tpdb_search: https://theposterdb.com/search?term=The+Batman&section=movies
+    studio: DC Films
     genre.sync:
       - Superhero
   272:
@@ -762,6 +777,7 @@ metadata:
     release_year: '2005'
     url_poster: https://theposterdb.com/api/assets/516816
     tpdb_search: https://theposterdb.com/search?term=Batman+Begins&section=movies
+    studio: DC Films
     genre.sync:
       - Superhero
   155:
@@ -770,6 +786,7 @@ metadata:
     release_year: '2008'
     url_poster: https://theposterdb.com/api/assets/516815
     tpdb_search: https://theposterdb.com/search?term=The+Dark+Knight&section=movies
+    studio: DC Films
     genre.sync:
       - Superhero
   49026:
@@ -778,6 +795,7 @@ metadata:
     release_year: '2012'
     url_poster: https://theposterdb.com/api/assets/516814
     tpdb_search: https://theposterdb.com/search?term=The+Dark+Knight+Rises&section=movies
+    studio: DC Films
     genre.sync:
       - Superhero
   1297763:
@@ -786,6 +804,7 @@ metadata:
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/622055
     tpdb_search: https://theposterdb.com/search?term=Batman+Ninja+vs.+Yakuza+League&section=movies
+    studio: DC Films
     genre.sync:
       - Anime
   209112:
@@ -794,6 +813,7 @@ metadata:
     release_year: '2016'
     url_poster: https://theposterdb.com/api/assets/517108
     tpdb_search: https://theposterdb.com/search?term=Batman+v+Superman+Dawn+of+Justice&section=movies
+    studio: DC Films
     genre.sync:
       - Superhero
   441384:
@@ -930,6 +950,7 @@ metadata:
     release_year: '2020'
     url_poster: https://theposterdb.com/api/assets/517287
     tpdb_search: https://theposterdb.com/search?term=Birds+of+Prey+and+the+Fantabulous+Emancipation+of+One+Harley+Quinn&section=movies
+    studio: DC Films
     genre.sync:
       - Superhero
   436270:
@@ -938,6 +959,7 @@ metadata:
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/517140
     tpdb_search: https://theposterdb.com/search?term=Black+Adam&section=movies
+    studio: DC Films
     genre.sync:
       - Superhero
   1233575:
@@ -1086,6 +1108,7 @@ metadata:
     release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/517288
     tpdb_search: https://theposterdb.com/search?term=Blue+Beetle&section=movies
+    studio: DC Films
     genre.sync:
       - Superhero
   23626:
@@ -2405,6 +2428,7 @@ metadata:
     release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/517149
     tpdb_search: https://theposterdb.com/search?term=The+Flash&section=movies
+    studio: DC Films
     genre.sync:
       - Superhero
   522406:
@@ -3700,6 +3724,7 @@ metadata:
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/517587
     tpdb_search: https://theposterdb.com/search?term=Joker&section=movies
+    studio: DC Films
     genre.sync:
       - Superhero
   889737:
@@ -3708,6 +3733,7 @@ metadata:
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/517586
     tpdb_search: https://theposterdb.com/search?term=Joker+Folie+à+Deux&section=movies
+    studio: DC Films
     genre.sync:
       - Superhero
   88751:
@@ -3874,6 +3900,7 @@ metadata:
     release_year: '2017'
     url_poster: https://theposterdb.com/api/assets/517279
     tpdb_search: https://theposterdb.com/search?term=Justice+League&section=movies
+    studio: DC Films
     genre.sync:
       - Superhero
   1326106:
@@ -4502,6 +4529,7 @@ metadata:
     release_year: '2013'
     url_poster: https://theposterdb.com/api/assets/517109
     tpdb_search: https://theposterdb.com/search?term=Man+of+Steel&section=movies
+    studio: DC Films
     genre.sync:
       - Superhero
   4481:
@@ -5649,6 +5677,7 @@ metadata:
     release_year: '1987'
     url_poster: https://theposterdb.com/api/assets/244
     tpdb_search: https://theposterdb.com/search?term=Predator&section=movies
+    studio: 20th Century Studios
     genre.sync:
       - Science Fiction
       - Thriller
@@ -5658,6 +5687,7 @@ metadata:
     release_year: '1990'
     url_poster: https://theposterdb.com/api/assets/245
     tpdb_search: https://theposterdb.com/search?term=Predator+2&section=movies
+    studio: 20th Century Studios
     genre.sync:
       - Science Fiction
       - Thriller
@@ -5667,6 +5697,7 @@ metadata:
     release_year: '2010'
     url_poster: https://theposterdb.com/api/assets/246
     tpdb_search: https://theposterdb.com/search?term=Predators&section=movies
+    studio: 20th Century Studios
     genre.sync:
       - Science Fiction
       - Thriller
@@ -5676,6 +5707,7 @@ metadata:
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/247
     tpdb_search: https://theposterdb.com/search?term=The+Predator&section=movies
+    studio: 20th Century Studios
     genre.sync:
       - Science Fiction
       - Thriller
@@ -5685,6 +5717,7 @@ metadata:
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/255438
     tpdb_search: https://theposterdb.com/search?term=Prey&section=movies
+    studio: 20th Century Studios
     genre.sync:
       - Science Fiction
       - Thriller
@@ -5694,8 +5727,11 @@ metadata:
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/613324
     tpdb_search: https://theposterdb.com/search?term=Predator+Killer+of+Killers&section=movies
+    studio: 20th Century Studios
     genre.sync:
       - Animation
+      - Science Fiction
+      - Thriller
   49526:
     label_title: Premium Rush
     sort_title: Premium Rush
@@ -6097,6 +6133,7 @@ metadata:
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/517271
     tpdb_search: https://theposterdb.com/search?term=Shazam!&section=movies
+    studio: DC Films
     genre.sync:
       - Superhero
   594767:
@@ -6105,6 +6142,7 @@ metadata:
     release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/517270
     tpdb_search: https://theposterdb.com/search?term=Shazam!+Fury+of+the+Gods&section=movies
+    studio: DC Films
     genre.sync:
       - Superhero
   34016:
@@ -6365,6 +6403,7 @@ metadata:
     release_year: '2020'
     url_poster: https://theposterdb.com/api/assets/486372
     tpdb_search: https://theposterdb.com/search?term=Sonic+the+Hedgehog&section=movies
+    studio: Paramount Pictures
     genre.sync:
       - Animation
   675353:
@@ -6373,6 +6412,7 @@ metadata:
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/486371
     tpdb_search: https://theposterdb.com/search?term=Sonic+the+Hedgehog+2&section=movies
+    studio: Paramount Pictures
     genre.sync:
       - Animation
   939243:
@@ -6381,6 +6421,7 @@ metadata:
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/564230
     tpdb_search: https://theposterdb.com/search?term=Sonic+the+Hedgehog+3&section=movies
+    studio: Paramount Pictures
     genre.sync:
       - Animation
   1205515:
@@ -6580,6 +6621,7 @@ metadata:
     release_year: '1977'
     url_poster: https://theposterdb.com/api/assets/464773
     tpdb_search: https://theposterdb.com/search?term=A+New+Hope&section=movies
+    studio: Lucasfilm
     genre.sync:
       - Action
       - Science Fiction
@@ -6589,6 +6631,7 @@ metadata:
     release_year: '1980'
     url_poster: https://theposterdb.com/api/assets/464772
     tpdb_search: https://theposterdb.com/search?term=The+Empire+Strikes+Back&section=movies
+    studio: Lucasfilm
     genre.sync:
       - Action
       - Science Fiction
@@ -6598,6 +6641,7 @@ metadata:
     release_year: '1983'
     url_poster: https://theposterdb.com/api/assets/464771
     tpdb_search: https://theposterdb.com/search?term=Return+of+the+Jedi&section=movies
+    studio: Lucasfilm
     genre.sync:
       - Action
       - Science Fiction
@@ -6607,6 +6651,7 @@ metadata:
     release_year: '1999'
     url_poster: https://theposterdb.com/api/assets/464754
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+Episode+I+The+Phantom+Menace&section=movies
+    studio: Lucasfilm
     genre.sync:
       - Action
       - Science Fiction
@@ -6616,6 +6661,7 @@ metadata:
     release_year: '2002'
     url_poster: https://theposterdb.com/api/assets/464753
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+Episode+II+Attack+of+the+Clones&section=movies
+    studio: Lucasfilm
     genre.sync:
       - Action
       - Science Fiction
@@ -6625,6 +6671,7 @@ metadata:
     release_year: '2005'
     url_poster: https://theposterdb.com/api/assets/464752
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+Episode+III+Revenge+of+the+Sith&section=movies
+    studio: Lucasfilm
     genre.sync:
       - Action
       - Science Fiction
@@ -6634,6 +6681,7 @@ metadata:
     release_year: '2008'
     url_poster: https://theposterdb.com/api/assets/464733
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+The+Clone+Wars&section=movies
+    studio: Lucasfilm
     genre.sync:
       - Action
       - Science Fiction
@@ -6643,6 +6691,7 @@ metadata:
     release_year: '2015'
     url_poster: https://theposterdb.com/api/assets/464801
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+The+Force+Awakens&section=movies
+    studio: Lucasfilm
     genre.sync:
       - Action
       - Science Fiction
@@ -6652,6 +6701,7 @@ metadata:
     release_year: '2016'
     url_poster: https://theposterdb.com/api/assets/464542
     tpdb_search: https://theposterdb.com/search?term=Rogue+One+A+Star+Wars+Story&section=movies
+    studio: Lucasfilm
     genre.sync:
       - Action
       - Science Fiction
@@ -6661,6 +6711,7 @@ metadata:
     release_year: '2017'
     url_poster: https://theposterdb.com/api/assets/464800
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+The+Last+Jedi&section=movies
+    studio: Lucasfilm
     genre.sync:
       - Action
       - Science Fiction
@@ -6670,6 +6721,7 @@ metadata:
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/464541
     tpdb_search: https://theposterdb.com/search?term=Solo+A+Star+Wars+Story&section=movies
+    studio: Lucasfilm
     genre.sync:
       - Action
       - Science Fiction
@@ -6679,6 +6731,7 @@ metadata:
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/464799
     tpdb_search: https://theposterdb.com/search?term=Star+Wars+The+Rise+of+Skywalker&section=movies
+    studio: Lucasfilm
     genre.sync:
       - Action
       - Science Fiction
@@ -6754,6 +6807,7 @@ metadata:
     release_year: '2016'
     url_poster: https://theposterdb.com/api/assets/517281
     tpdb_search: https://theposterdb.com/search?term=Suicide+Squad&section=movies
+    studio: DC Films
     genre.sync:
       - Superhero
   436969:
@@ -6762,6 +6816,7 @@ metadata:
     release_year: '2021'
     url_poster: https://theposterdb.com/api/assets/517280
     tpdb_search: https://theposterdb.com/search?term=The+Suicide+Squad&section=movies
+    studio: DC Films
     genre.sync:
       - Superhero
   1272:
@@ -6804,6 +6859,7 @@ metadata:
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/639091
     tpdb_search: https://theposterdb.com/search?term=Superman&section=movies
+    studio: DC Films
     genre.sync:
       - Superhero
   9078:
@@ -7632,6 +7688,7 @@ metadata:
     release_year: '2017'
     url_poster: https://theposterdb.com/api/assets/517276
     tpdb_search: https://theposterdb.com/search?term=Wonder+Woman&section=movies
+    studio: DC Films
     genre.sync:
       - Superhero
   464052:
@@ -7640,6 +7697,7 @@ metadata:
     release_year: '2020'
     url_poster: https://theposterdb.com/api/assets/517275
     tpdb_search: https://theposterdb.com/search?term=Wonder+Woman+1984&section=movies
+    studio: DC Films
     genre.sync:
       - Superhero
   787699:
@@ -7763,6 +7821,7 @@ metadata:
     release_year: '2021'
     url_poster: https://theposterdb.com/api/assets/517278
     tpdb_search: https://theposterdb.com/search?term=Zack+Snyders+Justice+League&section=movies
+    studio: DC Films
     genre.sync:
       - Superhero
   6795:
