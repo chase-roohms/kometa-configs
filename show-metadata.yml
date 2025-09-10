@@ -3586,19 +3586,23 @@ metadata:
     label_title: Slow Horses
     sort_title: Slow Horses
     release_year: '2022'
-    url_poster: https://theposterdb.com/api/assets/224856
+    url_poster: https://theposterdb.com/api/assets/641265
     tpdb_search: https://theposterdb.com/search?term=Slow+Horses&section=shows
     genre.sync:
       - Thriller
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/641266
       1:
-        url_poster: https://theposterdb.com/api/assets/224857
+        url_poster: https://theposterdb.com/api/assets/641267
       2:
-        url_poster: https://theposterdb.com/api/assets/290033
+        url_poster: https://theposterdb.com/api/assets/641268
       3:
-        url_poster: https://theposterdb.com/api/assets/433774
+        url_poster: https://theposterdb.com/api/assets/641269
       4:
-        url_poster: https://theposterdb.com/api/assets/516799
+        url_poster: https://theposterdb.com/api/assets/641270
+      5:
+        url_poster: https://theposterdb.com/api/assets/641271
   389597:
     label_title: Solo Leveling
     sort_title: Solo Leveling
