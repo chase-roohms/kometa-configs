@@ -5511,6 +5511,15 @@ metadata:
     genre.sync:
       - Comedy
       - Horror
+  666277:
+    label_title: Past Lives
+    sort_title: Past Lives
+    release_year: '2023'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Past+Lives&section=movies
+    genre.sync:
+      - Drama
+      - Romance
   949423:
     label_title: Pearl
     sort_title: Pearl
