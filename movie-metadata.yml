@@ -2435,6 +2435,15 @@ metadata:
     studio: Pixar
     genre.sync:
       - Animation
+  507089:
+    label_title: "Five Nights at Freddy's"
+    sort_title: "Five Nights at Freddy's"
+    release_year: '2023'
+    url_poster: ''
+    tpdb_search: "https://theposterdb.com/search?term=Five+Nights+at+Freddy's&section=movies"
+    genre.sync:
+      - Horror
+      - Thriller
   537921:
     label_title: Fixed
     sort_title: Fixed
