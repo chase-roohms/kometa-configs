@@ -2655,16 +2655,6 @@ metadata:
     studio: Blumhouse Productions
     genre.sync:
       - Action
-  661374:
-    label_title: 'Glass Onion: A Knives Out Mystery'
-    sort_title: 'Glass Onion: A Knives Out Mystery'
-    release_year: '2022'
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Glass+Onion:+A+Knives+Out+Mystery&section=movies
-    genre.sync:
-      - Comedy
-      - Crime
-      - Mystery
   9665:
     label_title: Glory
     sort_title: Glory
@@ -4053,14 +4043,31 @@ metadata:
       - Action
   546554:
     label_title: Knives Out
-    sort_title: Knives Out
+    sort_title: Knives Out 1
     release_year: '2019'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/640582
     tpdb_search: https://theposterdb.com/search?term=Knives+Out&section=movies
     genre.sync:
       - Comedy
-      - Crime
-      - Mystery
+      - Drama
+  661374:
+    label_title: 'Glass Onion: A Knives Out Mystery'
+    sort_title: Knives Out 2
+    release_year: '2022'
+    url_poster: https://theposterdb.com/api/assets/640581
+    tpdb_search: https://theposterdb.com/search?term=Glass+Onion:+A+Knives+Out+Mystery&section=movies
+    genre.sync:
+      - Comedy
+      - Drama
+  812583:
+    label_title: 'Wake Up Dead Man: A Knives Out Mystery'
+    sort_title: Knives Out 3
+    release_year: '2025'
+    url_poster: https://theposterdb.com/api/assets/640580
+    tpdb_search: https://theposterdb.com/search?term=Wake+Up+Dead+Man:+A+Knives+Out+Mystery&section=movies
+    genre.sync:
+      - Comedy
+      - Drama
   293167:
     label_title: Kong Skull Island
     sort_title: Kong Skull Island
