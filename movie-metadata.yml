@@ -4041,6 +4041,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Kingdom+of+Heaven&section=movies
     genre.sync:
       - Action
+  546554:
+    label_title: Knives Out
+    sort_title: Knives Out
+    release_year: '2019'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Knives+Out&section=movies
+    genre.sync:
+      - Comedy
+      - Crime
+      - Mystery
   293167:
     label_title: Kong Skull Island
     sort_title: Kong Skull Island
