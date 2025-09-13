@@ -2655,6 +2655,16 @@ metadata:
     studio: Blumhouse Productions
     genre.sync:
       - Action
+  661374:
+    label_title: 'Glass Onion: A Knives Out Mystery'
+    sort_title: 'Glass Onion: A Knives Out Mystery'
+    release_year: '2022'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Glass+Onion:+A+Knives+Out+Mystery&section=movies
+    genre.sync:
+      - Comedy
+      - Crime
+      - Mystery
   9665:
     label_title: Glory
     sort_title: Glory
