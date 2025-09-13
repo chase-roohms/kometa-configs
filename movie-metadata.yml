@@ -2439,11 +2439,10 @@ metadata:
     label_title: "Five Nights at Freddy's"
     sort_title: "Five Nights at Freddy's"
     release_year: '2023'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/384062
     tpdb_search: "https://theposterdb.com/search?term=Five+Nights+at+Freddy's&section=movies"
     genre.sync:
       - Horror
-      - Thriller
   537921:
     label_title: Fixed
     sort_title: Fixed
@@ -5524,11 +5523,11 @@ metadata:
     label_title: Past Lives
     sort_title: Past Lives
     release_year: '2023'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/360622
     tpdb_search: https://theposterdb.com/search?term=Past+Lives&section=movies
+    studio: A24
     genre.sync:
       - Drama
-      - Romance
   949423:
     label_title: Pearl
     sort_title: Pearl
