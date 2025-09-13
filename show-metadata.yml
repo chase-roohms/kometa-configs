@@ -4382,20 +4382,15 @@ metadata:
     label_title: Vinland Saga
     sort_title: Vinland Saga
     release_year: '2019'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/162868
     tpdb_search: https://theposterdb.com/search?term=Vinland+Saga&section=shows
     genre.sync:
-      - Adventure
-      - Animation
       - Anime
-      - Drama
-      - History
-      - War
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/162869
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/306756
   362392:
     label_title: WandaVision
     sort_title: WandaVision
