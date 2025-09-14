@@ -4043,6 +4043,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Kill+Bill+The+Whole+Bloody+Affair&section=movies
     genre.sync:
       - Action
+  274857:
+    label_title: 'King Arthur: Legend of the Sword'
+    sort_title: 'King Arthur: Legend of the Sword'
+    release_year: '2017'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=King+Arthur:+Legend+of+the+Sword&section=movies
+    genre.sync:
+      - Action
+      - Drama
+      - Fantasy
   1495:
     label_title: Kingdom of Heaven
     sort_title: Kingdom of Heaven
