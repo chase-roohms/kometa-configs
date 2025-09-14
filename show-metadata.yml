@@ -1928,11 +1928,11 @@ metadata:
             url_poster: https://i.imgur.com/3RxSYps.png
           101:
             title: 'Opening: S1 - Kaikai Kitan by Eve'
-            summary: 'Opening of season 1: "Kaikai Kitan" by Eve'
+            summary: 'Opening song of season 1: "Kaikai Kitan" by Eve'
             url_poster: https://i.imgur.com/Nnn9TXB.png
           102:
             title: 'Opening: S2 - SPECIALZ by King Gnu'
-            summary: 'Opening of season 2: "SPECIALZ" by King Gnu'
+            summary: 'Opening song of season 2: "SPECIALZ" by King Gnu'
             url_poster: https://i.imgur.com/STnSF2r.png
       1:
         url_poster: https://theposterdb.com/api/assets/344219
@@ -4442,16 +4442,35 @@ metadata:
     label_title: Vinland Saga
     sort_title: Vinland Saga
     release_year: '2019'
-    url_poster: https://theposterdb.com/api/assets/162868
+    url_poster: https://theposterdb.com/api/assets/630940
     tpdb_search: https://theposterdb.com/search?term=Vinland+Saga&section=shows
     studio: MAPPA
     genre.sync:
       - Anime
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/630941
+        episodes:
+          101:
+            title: 'Opening: S1 - MUKANJYO by Survive Said The Prophet'
+            summary: 'Opening song 1 of season 1: "MUKANJYO" by Survive Said The Prophet'
+            url_poster: https://i.imgur.com/yvd0iFJ.png
+          102:
+            title: 'Opening: S1 - Dark Crow by MAN WITH A MISSION'
+            summary: 'Opening song 2 of season 1: "Dark Crow" by MAN WITH A MISSION'
+            url_poster: https://i.imgur.com/IsMFZPj.png
+          103:
+            title: 'Opening: S1 - River by Anonymouz'
+            summary: 'Opening song 1 of season 1: "River" by Anonymouz'
+            url_poster: https://i.imgur.com/TDoL4lj.png
+          104:
+            title: 'Opening: S1 - Paradox by Survive Said The Prophet'
+            summary: 'Opening song 2 of season 1: "Paradox" by Survive Said The Prophet'
+            url_poster: https://i.imgur.com/2dCXyMq.png
       1:
-        url_poster: https://theposterdb.com/api/assets/162869
+        url_poster: https://theposterdb.com/api/assets/630942
       2:
-        url_poster: https://theposterdb.com/api/assets/306756
+        url_poster: https://theposterdb.com/api/assets/630943
   362392:
     label_title: WandaVision
     sort_title: WandaVision
