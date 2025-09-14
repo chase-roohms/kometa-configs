@@ -1380,6 +1380,7 @@ metadata:
     release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/388818
     tpdb_search: "https://theposterdb.com/search?term=Frieren:+Beyond+Journey's+End&section=shows"
+    audio_language: ja-JP
     studio: MAPPA
     genre.sync:
       - Anime
@@ -1922,6 +1923,7 @@ metadata:
     release_year: '2020'
     url_poster: https://theposterdb.com/api/assets/344217
     tpdb_search: https://theposterdb.com/search?term=JUJUTSU+KAISEN&section=shows
+    audio_language: ja-JP
     studio: MAPPA
     genre.sync:
       - Anime
@@ -3209,6 +3211,7 @@ metadata:
     release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/417770
     tpdb_search: https://theposterdb.com/search?term=Ragna+Crimson&section=shows
+    audio_language: ja-JP
     genre.sync:
       - Anime
     seasons:
@@ -4451,6 +4454,7 @@ metadata:
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/630940
     tpdb_search: https://theposterdb.com/search?term=Vinland+Saga&section=shows
+    audio_language: ja-JP
     studio: MAPPA
     genre.sync:
       - Anime
@@ -4561,18 +4565,18 @@ metadata:
     label_title: WIND BREAKER
     sort_title: WIND BREAKER
     release_year: '2024'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/479160
     tpdb_search: https://theposterdb.com/search?term=WIND+BREAKER&section=shows
+    audio_language: ja-JP
     genre.sync:
-      - Action
-      - Animation
       - Anime
-      - Martial Arts
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/484383
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/479161
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/570889
   412432:
     label_title: "X-Men '97"
     sort_title: X-Men 97
@@ -4592,6 +4596,7 @@ metadata:
     release_year: '2008'
     url_poster: https://theposterdb.com/api/assets/268302
     tpdb_search: "https://theposterdb.com/search?term=Xam'd:+Lost+Memories&section=shows"
+    audio_language: ja-JP
     genre.sync:
       - Anime
     seasons:
