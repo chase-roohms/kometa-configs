@@ -590,6 +590,18 @@ metadata:
             url_poster: https://api.mediux.pro/assets/00b32d1e-62b3-4675-aa81-d887cf993d9a
           6:
             url_poster: https://api.mediux.pro/assets/14ea2721-3653-47cb-b4a5-5e7e9b5f126c
+  349034:
+    label_title: Blark and Son
+    sort_title: Blark and Son
+    release_year: '2018'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Blark+and+Son&section=shows
+    genre.sync:
+      - Animation
+      - Comedy
+    seasons:
+      1:
+        url_poster: ''
   289886:
     label_title: Blood Blockade Battlefront
     sort_title: Blood Blockade Battlefront
