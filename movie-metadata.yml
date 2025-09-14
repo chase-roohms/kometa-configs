@@ -1716,6 +1716,7 @@ metadata:
     release_year: '2020'
     url_poster: https://theposterdb.com/api/assets/418263
     tpdb_search: https://theposterdb.com/search?term=Demon+Slayer+-Kimetsu+no+Yaiba-+The+Movie+Mugen+Train&section=movies
+    studio: Ufotable
     genre.sync:
       - Anime
   20352:
