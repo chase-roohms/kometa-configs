@@ -1923,7 +1923,17 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/344218
         episodes:
           2:
+            title: Jujutsu Kaisen 0
+            summary: "Yuta Okkotsu is a nervous high school student who is suffering from a serious problem—his childhood friend Rika has turned into a curse and won't leave him alone. Since Rika is no ordinary curse, his plight is noticed by Satoru Gojo, a teacher at Jujutsu High, a school where fledgling exorcists learn how to combat curses. Gojo convinces Yuta to enroll, but can he learn enough in time to confront the curse that haunts him?"
             url_poster: https://i.imgur.com/3RxSYps.png
+          101:
+            title: 'Opening: S1 - Kaikai Kitan by Eve'
+            summary: 'Opening of season 1: "Kaikai Kitan" by Eve'
+            url_poster: https://i.imgur.com/Nnn9TXB.png
+          102:
+            title: 'Opening: S2 - SPECIALZ by King Gnu'
+            summary: 'Opening of season 2: "SPECIALZ" by King Gnu'
+            url_poster: https://i.imgur.com/STnSF2r.png
       1:
         url_poster: https://theposterdb.com/api/assets/344219
       2:
