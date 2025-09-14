@@ -819,14 +819,21 @@ metadata:
     label_title: Clevatess
     sort_title: Clevatess
     release_year: '2025'
-    url_poster: https://theposterdb.com/api/assets/625864
+    url_poster: https://theposterdb.com/api/assets/627326
     tpdb_search: https://theposterdb.com/search?term=Clevatess&section=shows
     audio_language: ja-JP
     genre.sync:
       - Anime
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/627327
+        episodes:
+          101:
+            title: 'Opening: S1 - Ruler by Mayu Maeshima'
+            summary: 'Opening song of season 1: "Ruler" by Mayu Maeshima'
+            url_poster: https://i.imgur.com/huNDjC0.png
       1:
-        url_poster: https://theposterdb.com/api/assets/625865
+        url_poster: https://theposterdb.com/api/assets/627328
   341455:
     label_title: "Marvel's Cloak & Dagger"
     sort_title: Cloak & Dagger
