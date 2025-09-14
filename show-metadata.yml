@@ -1906,11 +1906,11 @@ metadata:
       - Anime
     seasons:
       0:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/344218
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/344219
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/344220
   432093:
     label_title: Jury Duty
     sort_title: Jury Duty
