@@ -594,16 +594,16 @@ metadata:
     label_title: Blark and Son
     sort_title: Blark and Son
     release_year: '2018'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/642703
     tpdb_search: https://theposterdb.com/search?term=Blark+and+Son&section=shows
     genre.sync:
       - Animation
       - Comedy
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/642704
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/642705
   289886:
     label_title: Blood Blockade Battlefront
     sort_title: Blood Blockade Battlefront
