@@ -312,6 +312,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/68678
     tpdb_search: https://theposterdb.com/search?term=Attack+on+Titan&section=shows
     audio_language: ja-JP
+    studio: MAPPA
     genre.sync:
       - Anime
     seasons:
@@ -718,6 +719,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/567743
     tpdb_search: https://theposterdb.com/search?term=Chainsaw+Man&section=shows
     audio_language: ja-JP
+    studio: MAPPA
     genre.sync:
       - Anime
     seasons:
@@ -1099,6 +1101,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/176662
     tpdb_search: https://theposterdb.com/search?term=Dororo+(2019)&section=shows
     audio_language: ja-JP
+    studio: MAPPA
     genre.sync:
       - Anime
     seasons:
@@ -1356,6 +1359,7 @@ metadata:
     release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/388818
     tpdb_search: "https://theposterdb.com/search?term=Frieren:+Beyond+Journey's+End&section=shows"
+    studio: MAPPA
     genre.sync:
       - Anime
     seasons:
@@ -1592,6 +1596,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/341624
     tpdb_search: https://theposterdb.com/search?term=Hells+Paradise&section=shows
     audio_language: ja-JP
+    studio: MAPPA
     genre.sync:
       - Anime
     seasons:
@@ -4384,6 +4389,7 @@ metadata:
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/162868
     tpdb_search: https://theposterdb.com/search?term=Vinland+Saga&section=shows
+    studio: MAPPA
     genre.sync:
       - Anime
     seasons:
