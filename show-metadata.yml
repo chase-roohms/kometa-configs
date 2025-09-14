@@ -2636,7 +2636,7 @@ metadata:
       - Superhero
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/642540
   82207:
     label_title: The Marvelous Misadventures of Flapjack
     sort_title: Marvelous Misadventures of Flapjack
