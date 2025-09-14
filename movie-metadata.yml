@@ -4047,12 +4047,11 @@ metadata:
     label_title: 'King Arthur: Legend of the Sword'
     sort_title: 'King Arthur: Legend of the Sword'
     release_year: '2017'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/45218
     tpdb_search: https://theposterdb.com/search?term=King+Arthur:+Legend+of+the+Sword&section=movies
     genre.sync:
       - Action
       - Drama
-      - Fantasy
   1495:
     label_title: Kingdom of Heaven
     sort_title: Kingdom of Heaven
