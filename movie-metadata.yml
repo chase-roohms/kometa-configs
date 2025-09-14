@@ -3831,12 +3831,11 @@ metadata:
     label_title: Jujutsu Kaisen 0
     sort_title: Jujutsu Kaisen 0
     release_year: '2021'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/344216
     tpdb_search: https://theposterdb.com/search?term=Jujutsu+Kaisen+0&section=movies
+    studio: MAPPA
     genre.sync:
-      - Action
-      - Animation
-      - Fantasy
+      - Anime
   8844:
     label_title: Jumanji
     sort_title: Jumanji 1
