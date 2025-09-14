@@ -2625,6 +2625,18 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/464792
       3:
         url_poster: https://theposterdb.com/api/assets/464793
+  412428:
+    label_title: Marvel Zombies
+    sort_title: Marvel Zombies
+    release_year: '2025'
+    url_poster: https://theposterdb.com/api/assets/642539
+    tpdb_search: https://theposterdb.com/search?term=Marvel+Zombies&section=shows
+    studio: Marvel Studios
+    genre.sync:
+      - Superhero
+    seasons:
+      1:
+        url_poster: ''
   82207:
     label_title: The Marvelous Misadventures of Flapjack
     sort_title: Marvelous Misadventures of Flapjack
