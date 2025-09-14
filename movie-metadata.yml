@@ -3827,6 +3827,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Journey+to+the+Center+of+the+Earth&section=movies
     genre.sync:
       - Family
+  810693:
+    label_title: Jujutsu Kaisen 0
+    sort_title: Jujutsu Kaisen 0
+    release_year: '2021'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Jujutsu+Kaisen+0&section=movies
+    genre.sync:
+      - Action
+      - Animation
+      - Fantasy
   8844:
     label_title: Jumanji
     sort_title: Jumanji 1
