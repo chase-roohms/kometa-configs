@@ -1907,6 +1907,9 @@ metadata:
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/344218
+        episodes:
+          2:
+            url_poster: https://i.imgur.com/3RxSYps.png
       1:
         url_poster: https://theposterdb.com/api/assets/344219
       2:
