@@ -1895,6 +1895,22 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/219946
       3:
         url_poster: https://theposterdb.com/api/assets/219947
+  377543:
+    label_title: JUJUTSU KAISEN
+    sort_title: JUJUTSU KAISEN
+    release_year: '2020'
+    url_poster: https://theposterdb.com/api/assets/344217
+    tpdb_search: https://theposterdb.com/search?term=JUJUTSU+KAISEN&section=shows
+    studio: MAPPA
+    genre.sync:
+      - Anime
+    seasons:
+      0:
+        url_poster: ''
+      1:
+        url_poster: ''
+      2:
+        url_poster: ''
   432093:
     label_title: Jury Duty
     sort_title: Jury Duty
