@@ -5732,6 +5732,15 @@ metadata:
     studio: Disney
     genre.sync:
       - Fantasy
+  72197:
+    label_title: The Pirates! In an Adventure with Scientists!
+    sort_title: Pirates! In an Adventure with Scientists!
+    release_year: '2012'
+    url_poster: https://theposterdb.com/api/assets/642551
+    tpdb_search: https://theposterdb.com/search?term=The+Pirates!+In+an+Adventure+with+Scientists!&section=movies
+    studio: Sony Pictures Animation
+    genre.sync:
+      - Animation
   257344:
     label_title: Pixels
     sort_title: Pixels
