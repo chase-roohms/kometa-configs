@@ -6586,6 +6586,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Small+Things+Like+These&section=movies
     genre.sync:
       - Drama
+  760329:
+    label_title: The Smashing Machine
+    sort_title: Smashing Machine
+    release_year: '2025'
+    url_poster: https://theposterdb.com/api/assets/598336
+    tpdb_search: https://theposterdb.com/search?term=The+Smashing+Machine&section=movies
+    studio: A24
+    genre.sync:
+      - Drama
   882598:
     label_title: Smile
     sort_title: Smile 1
