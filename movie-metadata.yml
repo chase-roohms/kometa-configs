@@ -6799,6 +6799,15 @@ metadata:
     studio: Blumhouse Productions
     genre.sync:
       - Action
+  355547:
+    label_title: The Star
+    sort_title: Star
+    release_year: '2017'
+    url_poster: https://theposterdb.com/api/assets/642549
+    tpdb_search: https://theposterdb.com/search?term=The+Star&section=movies
+    studio: Sony Pictures Animation
+    genre.sync:
+      - Animation
   332562:
     label_title: A Star Is Born
     sort_title: Star Is Born
