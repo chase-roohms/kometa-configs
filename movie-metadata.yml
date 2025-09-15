@@ -4451,6 +4451,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Lone+Survivor&section=movies
     genre.sync:
       - Action
+  604079:
+    label_title: The Long Walk
+    sort_title: Long Walk
+    release_year: '2025'
+    url_poster: https://theposterdb.com/api/assets/602402
+    tpdb_search: https://theposterdb.com/search?term=The+Long+Walk&section=movies
+    genre.sync:
+      - Science Fiction
+      - Thriller
   1226578:
     label_title: Longlegs
     sort_title: Longlegs
