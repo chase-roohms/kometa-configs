@@ -7863,6 +7863,15 @@ metadata:
     studio: Disney
     genre.sync:
       - Animation
+  550205:
+    label_title: Wish Dragon
+    sort_title: Wish Dragon
+    release_year: '2021'
+    url_poster: https://theposterdb.com/api/assets/642548
+    tpdb_search: https://theposterdb.com/search?term=Wish+Dragon&section=movies
+    studio: Sony Pictures Animation
+    genre.sync:
+      - Animation
   310131:
     label_title: The Witch
     sort_title: Witch
