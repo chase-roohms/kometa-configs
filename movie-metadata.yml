@@ -5042,6 +5042,15 @@ metadata:
     studio: Paramount Pictures
     genre.sync:
       - Action
+  501929:
+    label_title: The Mitchells vs. the Machines
+    sort_title: Mitchells vs. the Machines
+    release_year: '2021'
+    url_poster: https://theposterdb.com/api/assets/642547
+    tpdb_search: https://theposterdb.com/search?term=The+Mitchells+vs.+the+Machines&section=movies
+    studio: Sony Pictures Animation
+    genre.sync:
+      - Animation
   277834:
     label_title: Moana
     sort_title: Moana 1
