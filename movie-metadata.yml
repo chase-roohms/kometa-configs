@@ -7716,6 +7716,15 @@ metadata:
     studio: Marvel Entertainment
     genre.sync:
       - Superhero
+  449406:
+    label_title: Vivo
+    sort_title: Vivo
+    release_year: '2021'
+    url_poster: https://theposterdb.com/api/assets/642546
+    tpdb_search: https://theposterdb.com/search?term=Vivo&section=movies
+    studio: Sony Pictures Animation
+    genre.sync:
+      - Animation
   10681:
     label_title: WALL·E
     sort_title: WALL.E
