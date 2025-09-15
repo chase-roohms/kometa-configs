@@ -4456,11 +4456,11 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Video+Game+High+School&section=shows
     genre.sync:
       - Action
-      - Adventure
       - Comedy
-      - Romance
       - Science Fiction
     seasons:
+      0:
+        url_poster: ''
       1:
         url_poster: ''
       2:
