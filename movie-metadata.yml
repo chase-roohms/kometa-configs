@@ -1985,6 +1985,15 @@ metadata:
     studio: Pixar
     genre.sync:
       - Animation
+  378236:
+    label_title: The Emoji Movie
+    sort_title: Emoji Movie
+    release_year: '2017'
+    url_poster: https://theposterdb.com/api/assets/642550
+    tpdb_search: https://theposterdb.com/search?term=The+Emoji+Movie&section=movies
+    studio: Sony Pictures Animation
+    genre.sync:
+      - Animation
   11688:
     label_title: "The Emporer's New Groove"
     sort_title: "Emporer's New Groove 1"
