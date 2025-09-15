@@ -4448,6 +4448,21 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/150026
       2:
         url_poster: https://theposterdb.com/api/assets/150027
+  259047:
+    label_title: Video Game High School
+    sort_title: Video Game High School
+    release_year: '2012'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Video+Game+High+School&section=shows
+    genre.sync:
+      - Action
+      - Adventure
+      - Comedy
+      - Romance
+      - Science Fiction
+    seasons:
+      3:
+        url_poster: ''
   359274:
     label_title: Vinland Saga
     sort_title: Vinland Saga
