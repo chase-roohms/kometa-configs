@@ -2025,10 +2025,9 @@ metadata:
     label_title: End of Watch
     sort_title: End of Watch
     release_year: '2012'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/76400
     tpdb_search: https://theposterdb.com/search?term=End+of+Watch&section=movies
     genre.sync:
-      - Crime
       - Drama
       - Thriller
   156022:
@@ -6732,12 +6731,9 @@ metadata:
     label_title: Speed Racer
     sort_title: Speed Racer
     release_year: '2008'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/168323
     tpdb_search: https://theposterdb.com/search?term=Speed+Racer&section=movies
     genre.sync:
-      - Action
-      - Adventure
-      - Comedy
       - Family
   557:
     label_title: Spider-Man
