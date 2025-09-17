@@ -663,20 +663,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/261218
       4:
         url_poster: https://theposterdb.com/api/assets/261219
-  413188:
-    label_title: 'The Boys Presents: Diabolical'
-    sort_title: Diabolical
-    release_year: '2022'
-    url_poster: https://theposterdb.com/api/assets/408217
-    tpdb_search: 'https://theposterdb.com/search?term=The+Boys+Presents:+Diabolical&section=shows'
-    genre.sync:
-      - Action
-      - Animation
-      - Comedy
-      - Superhero
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/408218
   355567:
     label_title: The Boys
     sort_title: Boys
@@ -1131,6 +1117,20 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/622998
+  413188:
+    label_title: 'The Boys Presents: Diabolical'
+    sort_title: Diabolical
+    release_year: '2022'
+    url_poster: https://theposterdb.com/api/assets/408217
+    tpdb_search: 'https://theposterdb.com/search?term=The+Boys+Presents:+Diabolical&section=shows'
+    genre.sync:
+      - Action
+      - Animation
+      - Comedy
+      - Superhero
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/408218
   354167:
     label_title: Dororo (2019)
     sort_title: Dororo
