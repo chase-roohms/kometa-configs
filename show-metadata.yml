@@ -663,25 +663,41 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/261218
       4:
         url_poster: https://theposterdb.com/api/assets/261219
+  413188:
+    label_title: The Boys Presents: Diabolical
+    sort_title: Diabolical
+    release_year: '2022'
+    url_poster: https://theposterdb.com/api/assets/408217
+    tpdb_search: https://theposterdb.com/search?term=The+Boys+Presents:+Diabolical&section=shows
+    genre.sync:
+      - Action
+      - Animation
+      - Comedy
+      - Superhero
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/408218
   355567:
     label_title: The Boys
     sort_title: Boys
     release_year: '2019'
-    url_poster: https://theposterdb.com/api/assets/235785
+    url_poster: https://theposterdb.com/api/assets/408212
     tpdb_search: https://theposterdb.com/search?term=The+Boys&section=shows
     genre.sync:
       - Action
       - Comedy
       - Superhero
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/408213
       1:
-        url_poster: https://theposterdb.com/api/assets/235786
+        url_poster: https://theposterdb.com/api/assets/408214
       2:
-        url_poster: https://theposterdb.com/api/assets/235787
+        url_poster: https://theposterdb.com/api/assets/408215
       3:
-        url_poster: https://theposterdb.com/api/assets/235788
+        url_poster: https://theposterdb.com/api/assets/408216
       4:
-        url_poster: https://theposterdb.com/api/assets/464600
+        url_poster: https://theposterdb.com/api/assets/495081
   81189:
     label_title: Breaking Bad
     sort_title: Breaking Bad
@@ -1514,16 +1530,17 @@ metadata:
     label_title: Gen V
     sort_title: Gen V
     release_year: '2023'
-    url_poster: https://theposterdb.com/api/assets/409216
+    url_poster: https://theposterdb.com/api/assets/408210
     tpdb_search: https://theposterdb.com/search?term=Gen+V&section=shows
     genre.sync:
       - Action
+      - Comedy
       - Superhero
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/409217
+        url_poster: https://theposterdb.com/api/assets/408211
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/642291
   426845:
     label_title: The Gentlemen
     sort_title: Gentlemen
