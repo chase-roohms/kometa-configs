@@ -664,11 +664,11 @@ metadata:
       4:
         url_poster: https://theposterdb.com/api/assets/261219
   413188:
-    label_title: The Boys Presents: Diabolical
+    label_title: 'The Boys Presents: Diabolical'
     sort_title: Diabolical
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/408217
-    tpdb_search: https://theposterdb.com/search?term=The+Boys+Presents:+Diabolical&section=shows
+    tpdb_search: 'https://theposterdb.com/search?term=The+Boys+Presents:+Diabolical&section=shows'
     genre.sync:
       - Action
       - Animation
