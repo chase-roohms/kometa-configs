@@ -37,15 +37,15 @@ metadata:
     label_title: '1883'
     sort_title: '1883'
     release_year: '2021'
-    url_poster: https://theposterdb.com/api/assets/287902
+    url_poster: https://theposterdb.com/api/assets/287924
     tpdb_search: https://theposterdb.com/search?term=1883&section=shows
     genre.sync:
       - Drama
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/287903
+        url_poster: https://theposterdb.com/api/assets/287925
       1:
-        url_poster: https://theposterdb.com/api/assets/287904
+        url_poster: https://theposterdb.com/api/assets/287926
   384429:
     label_title: '1899'
     sort_title: '1899'
@@ -61,17 +61,17 @@ metadata:
     label_title: '1923'
     sort_title: '1923'
     release_year: '2022'
-    url_poster: https://theposterdb.com/api/assets/287905
+    url_poster: https://theposterdb.com/api/assets/287927
     tpdb_search: https://theposterdb.com/search?term=1923&section=shows
     genre.sync:
       - Drama
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/293982
+        url_poster: https://theposterdb.com/api/assets/293985
       1:
-        url_poster: https://theposterdb.com/api/assets/293983
+        url_poster: https://theposterdb.com/api/assets/293986
       2:
-        url_poster: https://theposterdb.com/api/assets/574657
+        url_poster: https://theposterdb.com/api/assets/574658
   393197:
     label_title: The Acolyte
     sort_title: Acolyte
@@ -4676,23 +4676,23 @@ metadata:
     label_title: Yellowstone
     sort_title: Yellowstone
     release_year: '2018'
-    url_poster: https://theposterdb.com/api/assets/156053
+    url_poster: https://theposterdb.com/api/assets/287928
     tpdb_search: https://theposterdb.com/search?term=Yellowstone&section=shows
     genre.sync:
       - Drama
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/293984
+        url_poster: https://theposterdb.com/api/assets/293987
       1:
-        url_poster: https://theposterdb.com/api/assets/156054
+        url_poster: https://theposterdb.com/api/assets/287929
       2:
-        url_poster: https://theposterdb.com/api/assets/156055
+        url_poster: https://theposterdb.com/api/assets/287930
       3:
-        url_poster: https://theposterdb.com/api/assets/156056
+        url_poster: https://theposterdb.com/api/assets/287931
       4:
-        url_poster: https://theposterdb.com/api/assets/156057
+        url_poster: https://theposterdb.com/api/assets/287932
       5:
-        url_poster: https://theposterdb.com/api/assets/284095
+        url_poster: https://theposterdb.com/api/assets/287933
   465939:
     label_title: The Yogurt Shop Murders
     sort_title: Yogurt Shop Murders
