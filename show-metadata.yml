@@ -1522,6 +1522,8 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/409217
+      2:
+        url_poster: ''
   426845:
     label_title: The Gentlemen
     sort_title: Gentlemen
