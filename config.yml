@@ -157,6 +157,7 @@ url_poster_mappings:
   franchise_show_posters: &franchise_show_posters
     url_poster_1399: https://theposterdb.com/api/assets/269678    # World of Ice and Fire (GoT)
     url_poster_73586: https://theposterdb.com/api/assets/409022   # Yellowstone
+    url_poster_76479: https://theposterdb.com/api/assets/408209   # The Boys
   franchise_posters: &franchise_posters
     <<: [*franchise_show_posters, *franchise_movie_posters]
   genre_posters: &genre_posters
@@ -310,6 +311,12 @@ shared_collection_files:
 - &franchise_collection
   default: franchise
   template_variables:
+    append_data:
+      "76479": The Boys
+    append_addons:
+      76479:          # The Boys
+        - 205715          # Gen V
+        - 152483          # The Boys Presents: Diabolical
     movie_422837:   # Blade Runner
       - 475946          # Blackout 2022
       - 473072          # 2036 Nexus Dawn
