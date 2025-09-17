@@ -2021,6 +2021,16 @@ metadata:
     studio: Disney
     genre.sync:
       - Animation
+  77016:
+    label_title: End of Watch
+    sort_title: End of Watch
+    release_year: '2012'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=End+of+Watch&section=movies
+    genre.sync:
+      - Crime
+      - Drama
+      - Thriller
   156022:
     label_title: The Equalizer
     sort_title: Equalizer 1
