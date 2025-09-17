@@ -6718,6 +6718,17 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
+  7459:
+    label_title: Speed Racer
+    sort_title: Speed Racer
+    release_year: '2008'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Speed+Racer&section=movies
+    genre.sync:
+      - Action
+      - Adventure
+      - Comedy
+      - Family
   557:
     label_title: Spider-Man
     sort_title: Spider-Man 1
