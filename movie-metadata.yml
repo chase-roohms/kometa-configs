@@ -413,6 +413,15 @@ metadata:
     genre.sync:
       - Action
       - Thriller
+  1215020:
+    label_title: American Sweatshop
+    sort_title: American Sweatshop
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=American+Sweatshop&section=movies
+    genre.sync:
+      - Mystery
+      - Thriller
   153518:
     label_title: The Angry Birds Movie
     sort_title: Angry Birds Movie 1
