@@ -8138,6 +8138,16 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
+  372058:
+    label_title: Your Name.
+    sort_title: Your Name.
+    release_year: '2016'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Your+Name.&section=movies
+    genre.sync:
+      - Animation
+      - Drama
+      - Romance
   791373:
     label_title: Zack Snyders Justice League
     sort_title: Zack Snyders Justice League
