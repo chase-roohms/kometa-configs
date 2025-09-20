@@ -3765,6 +3765,16 @@ metadata:
     genre.sync:
       - Animation
       - Fantasy
+  49529:
+    label_title: John Carter
+    sort_title: John Carter
+    release_year: '2012'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=John+Carter&section=movies
+    genre.sync:
+      - Action
+      - Adventure
+      - Science Fiction
   75761:
     label_title: John Dies at the End
     sort_title: John Dies at the End
