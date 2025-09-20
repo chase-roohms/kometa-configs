@@ -5433,6 +5433,16 @@ metadata:
     genre.sync:
       - Science Fiction
       - Thriller
+  402900:
+    label_title: "Ocean's Eight"
+    sort_title: "Ocean's Eight"
+    release_year: '2018'
+    url_poster: ''
+    tpdb_search: "https://theposterdb.com/search?term=Ocean's+Eight&section=movies"
+    genre.sync:
+      - Action
+      - Comedy
+      - Crime
   1216191:
     label_title: Oddity
     sort_title: Oddity
