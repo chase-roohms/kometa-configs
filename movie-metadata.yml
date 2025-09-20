@@ -4271,6 +4271,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Legend+of+Oshi&section=movies
     genre.sync:
       - Fantasy
+  101:
+    label_title: 'Léon: The Professional'
+    sort_title: 'Leon: The Professional'
+    release_year: '1994'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Léon:+The+Professional&section=movies
+    genre.sync:
+      - Action
+      - Crime
+      - Drama
   244566:
     label_title: Life After Beth
     sort_title: Life After Beth
