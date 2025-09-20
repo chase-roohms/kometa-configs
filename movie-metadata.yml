@@ -5178,6 +5178,17 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
+  787:
+    label_title: Mr. & Mrs. Smith
+    sort_title: Mr. & Mrs. Smith
+    release_year: '2005'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Mr.+%26+Mrs.+Smith&section=movies
+    genre.sync:
+      - Action
+      - Comedy
+      - Drama
+      - Thriller
   31011:
     label_title: Mr. Nobody
     sort_title: Mr. Nobody
