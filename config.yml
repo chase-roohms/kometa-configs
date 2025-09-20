@@ -105,6 +105,7 @@ url_poster_mappings:
     url_poster_1129084: https://theposterdb.com/api/assets/629218 # Nobody
     url_poster_382685: https://theposterdb.com/api/assets/5021    # Now You See Me
     url_poster_968052: https://theposterdb.com/api/assets/402597  # Nun
+    url_poster_304: https://theposterdb.com/api/assets/64818      # Ocean's Eleven
     url_poster_363369: https://theposterdb.com/api/assets/227530  # Pacific Rim
     url_poster_41437: https://theposterdb.com/api/assets/639470   # Paranormal Activity
     url_poster_179919: https://theposterdb.com/api/assets/52875   # Percy Jackson
@@ -327,6 +328,8 @@ shared_collection_files:
       - 338947          # Hellraiser (2022)
     movie_404609:   # John Wick
       - 541671          # Ballerina
+    movie_304:      # Ocean's Eleven
+      - 402900          # Ocean's Eight
     movie_41437:    # Paranormal Activity
       - 59429           # Tokyo Night
     movie_399:      # Predator
