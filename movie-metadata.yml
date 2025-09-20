@@ -5459,7 +5459,7 @@ metadata:
     tpdb_search: "https://theposterdb.com/search?term=Ocean's+Eleven&section=movies"
     genre.sync:
       - Action
-      - Comedy
+      - Thriller
   163:
     label_title: "Ocean's Twelve"
     sort_title: Oceans 2
@@ -5468,7 +5468,7 @@ metadata:
     tpdb_search: "https://theposterdb.com/search?term=Ocean's+Twelve&section=movies"
     genre.sync:
       - Action
-      - Comedy
+      - Thriller
   298:
     label_title: "Ocean's Thirteen"
     sort_title: Oceans 3
@@ -5477,7 +5477,7 @@ metadata:
     tpdb_search: "https://theposterdb.com/search?term=Ocean's+Thirteen&section=movies"
     genre.sync:
       - Action
-      - Comedy
+      - Thriller
   402900:
     label_title: "Ocean's Eight"
     sort_title: Oceans 4
