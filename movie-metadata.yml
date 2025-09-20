@@ -3769,11 +3769,11 @@ metadata:
     label_title: John Carter
     sort_title: John Carter
     release_year: '2012'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/644144
     tpdb_search: https://theposterdb.com/search?term=John+Carter&section=movies
+    studio: Disney
     genre.sync:
       - Action
-      - Adventure
       - Science Fiction
   75761:
     label_title: John Dies at the End
@@ -7392,13 +7392,11 @@ metadata:
     label_title: Tomorrowland
     sort_title: Tomorrowland
     release_year: '2015'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/644143
     tpdb_search: https://theposterdb.com/search?term=Tomorrowland&section=movies
+    studio: Disney
     genre.sync:
-      - Adventure
       - Family
-      - Mystery
-      - Science Fiction
   744:
     label_title: Top Gun
     sort_title: Top Gun
