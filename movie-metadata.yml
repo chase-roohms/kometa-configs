@@ -7334,6 +7334,17 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Tombstone&section=movies
     genre.sync:
       - Action
+  158852:
+    label_title: Tomorrowland
+    sort_title: Tomorrowland
+    release_year: '2015'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Tomorrowland&section=movies
+    genre.sync:
+      - Adventure
+      - Family
+      - Mystery
+      - Science Fiction
   744:
     label_title: Top Gun
     sort_title: Top Gun
