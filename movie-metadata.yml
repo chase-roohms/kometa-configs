@@ -6193,6 +6193,16 @@ metadata:
     genre.sync:
       - Action
       - Comedy
+  413362:
+    label_title: Roman J. Israel, Esq.
+    sort_title: Roman J. Israel, Esq.
+    release_year: '2017'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Roman+J.+Israel,+Esq.&section=movies
+    genre.sync:
+      - Crime
+      - Drama
+      - Thriller
   1040148:
     label_title: Ruby Gillman, Teenage Kraken
     sort_title: Ruby Gillman, Teenage Kraken
