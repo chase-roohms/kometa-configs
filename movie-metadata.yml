@@ -4285,11 +4285,10 @@ metadata:
     label_title: 'Léon: The Professional'
     sort_title: 'Leon: The Professional'
     release_year: '1994'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/44121
     tpdb_search: https://theposterdb.com/search?term=Léon:+The+Professional&section=movies
     genre.sync:
       - Action
-      - Crime
       - Drama
   244566:
     label_title: Life After Beth
@@ -5182,13 +5181,11 @@ metadata:
     label_title: Mr. & Mrs. Smith
     sort_title: Mr. & Mrs. Smith
     release_year: '2005'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/175192
     tpdb_search: https://theposterdb.com/search?term=Mr.+%26+Mrs.+Smith&section=movies
     genre.sync:
       - Action
       - Comedy
-      - Drama
-      - Thriller
   31011:
     label_title: Mr. Nobody
     sort_title: Mr. Nobody
@@ -5454,16 +5451,42 @@ metadata:
     genre.sync:
       - Science Fiction
       - Thriller
+  161:
+    label_title: "Ocean's Eleven"
+    sort_title: Oceans 1
+    release_year: '2001'
+    url_poster: https://theposterdb.com/api/assets/64819
+    tpdb_search: "https://theposterdb.com/search?term=Ocean's+Eleven&section=movies"
+    genre.sync:
+      - Action
+      - Comedy
+  163:
+    label_title: "Ocean's Twelve"
+    sort_title: Oceans 2
+    release_year: '2004'
+    url_poster: https://theposterdb.com/api/assets/64820
+    tpdb_search: "https://theposterdb.com/search?term=Ocean's+Twelve&section=movies"
+    genre.sync:
+      - Action
+      - Comedy
+  298:
+    label_title: "Ocean's Thirteen"
+    sort_title: Oceans 3
+    release_year: '2007'
+    url_poster: https://theposterdb.com/api/assets/64821
+    tpdb_search: "https://theposterdb.com/search?term=Ocean's+Thirteen&section=movies"
+    genre.sync:
+      - Action
+      - Comedy
   402900:
     label_title: "Ocean's Eight"
-    sort_title: "Ocean's Eight"
+    sort_title: Oceans 4
     release_year: '2018'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/209631
     tpdb_search: "https://theposterdb.com/search?term=Ocean's+Eight&section=movies"
     genre.sync:
       - Action
       - Comedy
-      - Crime
   1216191:
     label_title: Oddity
     sort_title: Oddity
@@ -8194,12 +8217,10 @@ metadata:
     label_title: Your Name.
     sort_title: Your Name.
     release_year: '2016'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/203610
     tpdb_search: https://theposterdb.com/search?term=Your+Name.&section=movies
     genre.sync:
-      - Animation
-      - Drama
-      - Romance
+      - Anime
   791373:
     label_title: Zack Snyders Justice League
     sort_title: Zack Snyders Justice League
