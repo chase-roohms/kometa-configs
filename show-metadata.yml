@@ -1036,6 +1036,11 @@ metadata:
     seasons:
       0:
         url_poster: https://theposterdb.com/api/assets/334500
+        episodes:
+          101:
+            title: 'Opening: S1 - One Reason (feat. Fade.) by DWB'
+            summary: 'Opening song of season 1: "One Reason (feat. Fade.)" by DWB'
+            url_poster: https://i.imgur.com/ck3fy8r.png
       1:
         url_poster: https://theposterdb.com/api/assets/334501
   72023:
