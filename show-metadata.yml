@@ -1024,6 +1024,23 @@ metadata:
             url_poster: https://i.imgur.com/umOQMcz.png
       1:
         url_poster: https://theposterdb.com/api/assets/497214
+  247997:
+    label_title: Deadman Wonderland
+    sort_title: Deadman Wonderland
+    release_year: '2011'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Deadman+Wonderland&section=shows
+    genre.sync:
+      - Action
+      - Animation
+      - Anime
+      - Drama
+      - Horror
+      - Science Fiction
+      - Thriller
+    seasons:
+      1:
+        url_poster: ''
   72023:
     label_title: Deadwood
     sort_title: Deadwood
