@@ -1875,12 +1875,10 @@ metadata:
     label_title: Downton Abbey
     sort_title: Downton Abbey
     release_year: '2019'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/197204
     tpdb_search: https://theposterdb.com/search?term=Downton+Abbey&section=movies
     genre.sync:
       - Drama
-      - History
-      - Romance
   567797:
     label_title: The Dry
     sort_title: Dry 1
