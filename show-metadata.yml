@@ -1683,6 +1683,20 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/146515
+  79501:
+    label_title: Heroes
+    sort_title: Heroes
+    release_year: '2006'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Heroes&section=shows
+    genre.sync:
+      - Drama
+      - Fantasy
+      - Science Fiction
+      - Thriller
+    seasons:
+      1:
+        url_poster: ''
   361835:
     label_title: "Marvel's Hit-Monkey"
     sort_title: Hit-Monkey
