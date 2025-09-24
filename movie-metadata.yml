@@ -7917,6 +7917,15 @@ metadata:
     studio: A24
     genre.sync:
       - Drama
+  10236:
+    label_title: The Way We Were
+    sort_title: Way We Were
+    release_year: '1973'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Way+We+Were&section=movies
+    genre.sync:
+      - Drama
+      - Romance
   1100099:
     label_title: We Live in Time
     sort_title: We Live in Time
