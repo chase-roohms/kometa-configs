@@ -381,11 +381,10 @@ metadata:
     label_title: "All the President's Men"
     sort_title: "All the President's Men"
     release_year: '1976'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/477334
     tpdb_search: "https://theposterdb.com/search?term=All+the+President's+Men&section=movies"
     genre.sync:
       - Drama
-      - Mystery
       - Thriller
   222936:
     label_title: Aloha
@@ -1287,14 +1286,10 @@ metadata:
     label_title: Butch Cassidy and the Sundance Kid
     sort_title: Butch Cassidy and the Sundance Kid
     release_year: '1969'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/619636
     tpdb_search: https://theposterdb.com/search?term=Butch+Cassidy+and+the+Sundance+Kid&section=movies
     genre.sync:
-      - Adventure
-      - Crime
       - Drama
-      - History
-      - Western
   1771:
     label_title: Captain America The First Avenger
     sort_title: Captain America 1
@@ -7921,11 +7916,10 @@ metadata:
     label_title: The Way We Were
     sort_title: Way We Were
     release_year: '1973'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/476284
     tpdb_search: https://theposterdb.com/search?term=The+Way+We+Were&section=movies
     genre.sync:
       - Drama
-      - Romance
   1100099:
     label_title: We Live in Time
     sort_title: We Live in Time
