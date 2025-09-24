@@ -222,6 +222,7 @@ shared_collection_files:
       limit: 1  # Only create 1 collection // CHANGE ME IF YOU REMOVE OR CHANGE THE INCLUDE BELOW
     include:
       - Robert Redford
+    <<: *actor_posters
 
 - &tautulli_collection
   default: tautulli
