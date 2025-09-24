@@ -1,8 +1,6 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/kometa-team/kometa/nightly/json-schema/config-schema.json
 
 url_poster_mappings:
-  actor_posters: &actor_posters
-    url_poster_Robert Redford: https://theposterdb.com/api/assets/388375
   franchise_movie_posters: &franchise_movie_posters
     url_poster_1565: https://theposterdb.com/api/assets/4963      # 28 Days/Weeks Later
     url_poster_100693: https://theposterdb.com/api/assets/535711  # 101 Dalmations (Animated)
@@ -423,7 +421,6 @@ libraries:
       #- repo: collections/shared
       #- *streaming_collection
       - *actor_collection
-      - *director_collection
       - *tautulli_collection
       - *genre_collection
       - *imdb_collection
