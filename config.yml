@@ -1,6 +1,8 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/kometa-team/kometa/nightly/json-schema/config-schema.json
 
 url_poster_mappings:
+  actor_posters: &actor_posters
+    url_poster_Robert Redford: https://theposterdb.com/api/assets/388375
   franchise_movie_posters: &franchise_movie_posters
     url_poster_1565: https://theposterdb.com/api/assets/4963      # 28 Days/Weeks Later
     url_poster_100693: https://theposterdb.com/api/assets/535711  # 101 Dalmations (Animated)
@@ -212,6 +214,15 @@ url_poster_mappings:
     url_poster_xmen: https://i.imgur.com/JxBEN17.png
 
 shared_collection_files:
+- &actor_collection
+  default: actor
+  template_variables:
+    data:
+      depth: 10 # Check the first 10 credits in each movie
+      limit: 1  # Only create 1 collection // CHANGE ME IF YOU REMOVE OR CHANGE THE INCLUDE BELOW
+    include:
+      - Robert Redford
+
 - &tautulli_collection
   default: tautulli
   template_variables:
@@ -375,6 +386,7 @@ libraries:
       #- repo: collections/movies
       #- repo: collections/shared
       #- *streaming_collection
+      - *actor_collection
       - *tautulli_collection
       - *genre_collection
       - *imdb_collection
@@ -392,6 +404,7 @@ libraries:
       #- repo: collections/shows
       #- repo: collections/shared
       #- *streaming_collection
+      - *actor_collection
       - *tautulli_collection
       - *genre_collection
       - *imdb_collection
