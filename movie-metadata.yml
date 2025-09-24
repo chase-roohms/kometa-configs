@@ -7371,6 +7371,15 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
+  11963:
+    label_title: Three Days of the Condor
+    sort_title: Three Days of the Condor
+    release_year: '1975'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Three+Days+of+the+Condor&section=movies
+    genre.sync:
+      - Mystery
+      - Thriller
   986056:
     label_title: Thunderbolts*
     sort_title: Thunderbolts
