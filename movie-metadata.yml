@@ -1996,13 +1996,10 @@ metadata:
     label_title: The Electric Horseman
     sort_title: Electric Horseman
     release_year: '1979'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/214683
     tpdb_search: https://theposterdb.com/search?term=The+Electric+Horseman&section=movies
     genre.sync:
-      - Comedy
       - Drama
-      - Romance
-      - Western
   777443:
     label_title: The Electric State
     sort_title: Electric State
