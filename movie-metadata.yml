@@ -5591,6 +5591,16 @@ metadata:
     studio: DreamWorks Animation
     genre.sync:
       - Animation
+  606:
+    label_title: Out of Africa
+    sort_title: Out of Africa
+    release_year: '1985'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Out+of+Africa&section=movies
+    genre.sync:
+      - Drama
+      - History
+      - Romance
   7518:
     label_title: Over The Hedge
     sort_title: Over The Hedge
