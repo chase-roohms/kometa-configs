@@ -377,6 +377,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=All+the+Bright+Places&section=movies
     genre.sync:
       - Drama
+  891:
+    label_title: "All the President's Men"
+    sort_title: "All the President's Men"
+    release_year: '1976'
+    url_poster: ''
+    tpdb_search: "https://theposterdb.com/search?term=All+the+President's+Men&section=movies"
+    genre.sync:
+      - Drama
+      - Mystery
+      - Thriller
   222936:
     label_title: Aloha
     sort_title: Aloha
