@@ -3317,6 +3317,16 @@ metadata:
     studio: Illumination
     genre.sync:
       - Animation
+  547:
+    label_title: The Horse Whisperer
+    sort_title: Horse Whisperer
+    release_year: '1998'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Horse+Whisperer&section=movies
+    genre.sync:
+      - Adventure
+      - Drama
+      - Romance
   76492:
     label_title: Hotel Transylvania
     sort_title: Hotel Transylvania 1
