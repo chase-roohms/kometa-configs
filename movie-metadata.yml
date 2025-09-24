@@ -1283,6 +1283,18 @@ metadata:
     studio: Pixar
     genre.sync:
       - Animation
+  642:
+    label_title: Butch Cassidy and the Sundance Kid
+    sort_title: Butch Cassidy and the Sundance Kid
+    release_year: '1969'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Butch+Cassidy+and+the+Sundance+Kid&section=movies
+    genre.sync:
+      - Adventure
+      - Crime
+      - Drama
+      - History
+      - Western
   1771:
     label_title: Captain America The First Avenger
     sort_title: Captain America 1
