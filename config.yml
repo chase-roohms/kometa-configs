@@ -236,7 +236,6 @@ shared_collection_files:
       - James Gunn
       - Jordan Peele
       - Quentin Tarantino
-      - Steven Spielberg
 
 - &tautulli_collection
   default: tautulli
