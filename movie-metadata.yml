@@ -3321,12 +3321,10 @@ metadata:
     label_title: The Horse Whisperer
     sort_title: Horse Whisperer
     release_year: '1998'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/175679
     tpdb_search: https://theposterdb.com/search?term=The+Horse+Whisperer&section=movies
     genre.sync:
-      - Adventure
       - Drama
-      - Romance
   76492:
     label_title: Hotel Transylvania
     sort_title: Hotel Transylvania 1
@@ -5329,7 +5327,7 @@ metadata:
     label_title: The Natural
     sort_title: Natural
     release_year: '1984'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/247909
     tpdb_search: https://theposterdb.com/search?term=The+Natural&section=movies
     genre.sync:
       - Drama
@@ -5595,12 +5593,10 @@ metadata:
     label_title: Out of Africa
     sort_title: Out of Africa
     release_year: '1985'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/467594
     tpdb_search: https://theposterdb.com/search?term=Out+of+Africa&section=movies
     genre.sync:
       - Drama
-      - History
-      - Romance
   7518:
     label_title: Over The Hedge
     sort_title: Over The Hedge
@@ -7169,11 +7165,9 @@ metadata:
     label_title: The Sting
     sort_title: Sting
     release_year: '1973'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/76365
     tpdb_search: https://theposterdb.com/search?term=The+Sting&section=movies
     genre.sync:
-      - Comedy
-      - Crime
       - Drama
   877269:
     label_title: Strange World
@@ -7413,10 +7407,9 @@ metadata:
     label_title: Three Days of the Condor
     sort_title: Three Days of the Condor
     release_year: '1975'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/334630
     tpdb_search: https://theposterdb.com/search?term=Three+Days+of+the+Condor&section=movies
     genre.sync:
-      - Mystery
       - Thriller
   986056:
     label_title: Thunderbolts*
