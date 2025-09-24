@@ -5315,6 +5315,14 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Napoleon&section=movies
     genre.sync:
       - Drama
+  11393:
+    label_title: The Natural
+    sort_title: Natural
+    release_year: '1984'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Natural&section=movies
+    genre.sync:
+      - Drama
   615453:
     label_title: Ne Zha
     sort_title: Ne Zha 1
