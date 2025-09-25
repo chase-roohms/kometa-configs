@@ -590,6 +590,18 @@ metadata:
             url_poster: https://api.mediux.pro/assets/00b32d1e-62b3-4675-aa81-d887cf993d9a
           6:
             url_poster: https://api.mediux.pro/assets/14ea2721-3653-47cb-b4a5-5e7e9b5f126c
+  447579:
+    label_title: Black Rabbit
+    sort_title: Black Rabbit
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Black+Rabbit&section=shows
+    genre.sync:
+      - Drama
+      - Mini-Series
+    seasons:
+      1:
+        url_poster: ''
   349034:
     label_title: Blark and Son
     sort_title: Blark and Son
