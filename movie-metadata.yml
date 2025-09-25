@@ -3781,6 +3781,15 @@ metadata:
     genre.sync:
       - Action
       - Comedy
+  578:
+    label_title: Jaws
+    sort_title: Jaws
+    release_year: '1975'
+    url_poster: https://theposterdb.com/api/assets/66354
+    tpdb_search: https://theposterdb.com/search?term=Jaws&section=movies
+    genre.sync:
+      - Horror
+      - Thriller
   4480:
     label_title: Jean de Florette
     sort_title: Jean de Florette
