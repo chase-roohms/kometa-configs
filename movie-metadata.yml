@@ -3790,6 +3790,15 @@ metadata:
     genre.sync:
       - Horror
       - Thriller
+  579:
+    label_title: Jaws 2
+    sort_title: Jaws 2
+    release_year: '1978'
+    url_poster: https://theposterdb.com/api/assets/66355
+    tpdb_search: https://theposterdb.com/search?term=Jaws+2&section=movies
+    genre.sync:
+      - Horror
+      - Thriller
   4480:
     label_title: Jean de Florette
     sort_title: Jean de Florette
