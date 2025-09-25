@@ -3783,7 +3783,7 @@ metadata:
       - Comedy
   578:
     label_title: Jaws
-    sort_title: Jaws
+    sort_title: Jaws 1
     release_year: '1975'
     url_poster: https://theposterdb.com/api/assets/66354
     tpdb_search: https://theposterdb.com/search?term=Jaws&section=movies
@@ -3800,8 +3800,8 @@ metadata:
       - Horror
       - Thriller
   17692:
-    label_title: Jaws 3-D
-    sort_title: Jaws 3-D
+    label_title: Jaws 3
+    sort_title: Jaws 3
     release_year: '1983'
     url_poster: https://theposterdb.com/api/assets/66356
     tpdb_search: https://theposterdb.com/search?term=Jaws+3-D&section=movies
@@ -3810,7 +3810,7 @@ metadata:
       - Thriller
   580:
     label_title: 'Jaws: The Revenge'
-    sort_title: 'Jaws: The Revenge'
+    sort_title: Jaws 4
     release_year: '1987'
     url_poster: https://theposterdb.com/api/assets/66357
     tpdb_search: https://theposterdb.com/search?term=Jaws:+The+Revenge&section=movies
