@@ -4582,6 +4582,20 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/518948
+  433309:
+    label_title: Wayward
+    sort_title: Wayward
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Wayward&section=shows
+    genre.sync:
+      - Drama
+      - Mini-Series
+      - Mystery
+      - Thriller
+    seasons:
+      1:
+        url_poster: ''
   397060:
     label_title: Wednesday
     sort_title: Wednesday
