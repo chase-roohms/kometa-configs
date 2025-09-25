@@ -3808,6 +3808,15 @@ metadata:
     genre.sync:
       - Horror
       - Thriller
+  580:
+    label_title: 'Jaws: The Revenge'
+    sort_title: 'Jaws: The Revenge'
+    release_year: '1987'
+    url_poster: https://theposterdb.com/api/assets/66357
+    tpdb_search: https://theposterdb.com/search?term=Jaws:+The+Revenge&section=movies
+    genre.sync:
+      - Horror
+      - Thriller
   4480:
     label_title: Jean de Florette
     sort_title: Jean de Florette
