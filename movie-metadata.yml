@@ -434,12 +434,10 @@ metadata:
     label_title: Angels in the Outfield
     sort_title: Angels in the Outfield
     release_year: '1994'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/440701
     tpdb_search: https://theposterdb.com/search?term=Angels+in+the+Outfield&section=movies
     genre.sync:
-      - Comedy
       - Family
-      - Fantasy
   153518:
     label_title: The Angry Birds Movie
     sort_title: Angry Birds Movie 1
@@ -6373,10 +6371,9 @@ metadata:
     label_title: Rookie of the Year
     sort_title: Rookie of the Year
     release_year: '1993'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/177884
     tpdb_search: https://theposterdb.com/search?term=Rookie+of+the+Year&section=movies
     genre.sync:
-      - Comedy
       - Family
   1040148:
     label_title: Ruby Gillman, Teenage Kraken
