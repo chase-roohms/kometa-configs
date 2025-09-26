@@ -6369,6 +6369,15 @@ metadata:
     genre.sync:
       - Drama
       - Thriller
+  21845:
+    label_title: Rookie of the Year
+    sort_title: Rookie of the Year
+    release_year: '1993'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Rookie+of+the+Year&section=movies
+    genre.sync:
+      - Comedy
+      - Family
   1040148:
     label_title: Ruby Gillman, Teenage Kraken
     sort_title: Ruby Gillman, Teenage Kraken
