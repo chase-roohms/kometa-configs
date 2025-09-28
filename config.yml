@@ -328,6 +328,7 @@ shared_collection_files:
   default: universe
   template_variables:
     mdblist_list_gunn_dcu: https://mdblist.com/lists/neonvariant/gunns-dcu
+    name_dcu: "DC Extended Universe"
     exclude:
       - marvel       # In Association with Marvel, just don't want it
       - trek         # Star Trek, just don't want it
@@ -337,7 +338,7 @@ shared_collection_files:
       - wizard       # Wizarding World of Harry Potter, just don't want it
       - fast         # Fast & Furious, handled during franchises
     append_data:
-      gunn_dcu: DC Universe (James Gunn)
+      gunn_dcu: "Gunn's DC Universe"
     collection_order: release
     <<: *universe_posters
 
