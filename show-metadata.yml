@@ -876,16 +876,15 @@ metadata:
     label_title: Creature Commandos
     sort_title: Creature Commandos
     release_year: '2024'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/541609
     tpdb_search: https://theposterdb.com/search?term=Creature+Commandos&section=shows
+    studio: DC Comics
     genre.sync:
-      - Action
       - Animation
-      - Mystery
-      - Science Fiction
+      - Superhero
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/541610
   426501:
     label_title: Cross
     sort_title: Cross
