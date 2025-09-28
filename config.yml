@@ -328,6 +328,7 @@ shared_collection_files:
   default: universe
   template_variables:
     mdblist_list_gunn_dcu: https://mdblist.com/lists/neonvariant/gunns-dcu
+    name_mapping_dcu: "DC Extended Universe"
     name_dcu: "DC Extended Universe"
     exclude:
       - marvel       # In Association with Marvel, just don't want it
