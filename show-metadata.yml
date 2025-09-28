@@ -872,6 +872,20 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/579314
+  430518:
+    label_title: Creature Commandos
+    sort_title: Creature Commandos
+    release_year: '2024'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Creature+Commandos&section=shows
+    genre.sync:
+      - Action
+      - Animation
+      - Mystery
+      - Science Fiction
+    seasons:
+      1:
+        url_poster: ''
   426501:
     label_title: Cross
     sort_title: Cross
