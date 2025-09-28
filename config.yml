@@ -337,7 +337,7 @@ shared_collection_files:
       - wizard       # Wizarding World of Harry Potter, just don't want it
       - fast         # Fast & Furious, handled during franchises
     append_data:
-      - gunn_dcu: DC Universe (James Gunn)
+      gunn_dcu: DC Universe (James Gunn)
     collection_order: release
     <<: *universe_posters
 
