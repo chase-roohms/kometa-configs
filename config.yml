@@ -337,7 +337,6 @@ shared_collection_files:
       - wizard       # Wizarding World of Harry Potter, just don't want it
       - fast         # Fast & Furious, handled during franchises
     append_data:
-      dcu: "DC Extended Universe"
       gunn_dcu: "Gunn's DC Universe"
     collection_order: release
     <<: *universe_posters
