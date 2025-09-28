@@ -182,6 +182,7 @@ url_poster_mappings:
     url_poster_lowest: https://theposterdb.com/api/assets/593555
   studio_posters: &studio_posters
     url_poster_A24: https://theposterdb.com/api/assets/573071
+    url_poster_DC Comics: https://theposterdb.com/api/assets/573099
     url_poster_DreamWorks Studios: https://theposterdb.com/api/assets/573103
     url_poster_Dropout: https://theposterdb.com/api/assets/595173
     url_poster_Illumination Entertainment: https://theposterdb.com/api/assets/573116
@@ -275,6 +276,7 @@ shared_collection_files:
     collection_section: 035
     include:
       - A24
+      - DC Comics
       - DreamWorks Studios
       - Dropout
       - Illumination Entertainment
