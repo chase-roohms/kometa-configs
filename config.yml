@@ -204,8 +204,9 @@ url_poster_mappings:
   universe_posters: &universe_posters
     url_poster_avp: https://i.imgur.com/RpEVeN1.png
     url_poster_conjuring: https://i.imgur.com/1xfs7Kl.png
-    url_poster_dcu: https://i.imgur.com/Zxd8r7z.png
+    url_poster_dcu: https://i.imgur.com/X70FPCF.png
     url_poster_fast: https://i.imgur.com/JQpMkTu.png
+    url_poster_gunn_dcu: https://i.imgur.com/tyPGTLT.png
     url_poster_mcu: https://i.imgur.com/f8b6jpK.png
     url_poster_middle: https://i.imgur.com/ZPNbTt3.png
     url_poster_monster: https://i.imgur.com/GU6LAfr.png
@@ -326,6 +327,7 @@ shared_collection_files:
 - &universe_collection
   default: universe
   template_variables:
+    mdblist_list_gunn_dcu: https://mdblist.com/lists/neonvariant/gunns-dcu
     exclude:
       - marvel       # In Association with Marvel, just don't want it
       - trek         # Star Trek, just don't want it
@@ -334,6 +336,8 @@ shared_collection_files:
       - monster      # Monsterverse, just don't want it
       - wizard       # Wizarding World of Harry Potter, just don't want it
       - fast         # Fast & Furious, handled during franchises
+    append_data:
+      - gunn_dcu: DC Universe (James Gunn)
     collection_order: release
     <<: *universe_posters
 
