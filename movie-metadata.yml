@@ -7548,6 +7548,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Town&section=movies
     genre.sync:
       - Action
+  338969:
+    label_title: The Toxic Avenger Unrated
+    sort_title: Toxic Avenger Unrated
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Toxic+Avenger+Unrated&section=movies
+    genre.sync:
+      - Action
+      - Comedy
+      - Science Fiction
   862:
     label_title: Toy Story
     sort_title: Toy Story 1
