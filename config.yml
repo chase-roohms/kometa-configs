@@ -327,7 +327,7 @@ shared_collection_files:
 - &universe_collection
   default: universe
   template_variables:
-    mdblist_list_gunn_dcu: https://mdblist.com/lists/neonvariant/gunns-dcu
+    # mdblist_list_gunn_dcu: https://mdblist.com/lists/neonvariant/gunns-dcu
     exclude:
       - marvel       # In Association with Marvel, just don't want it
       - trek         # Star Trek, just don't want it
@@ -336,8 +336,8 @@ shared_collection_files:
       - monster      # Monsterverse, just don't want it
       - wizard       # Wizarding World of Harry Potter, just don't want it
       - fast         # Fast & Furious, handled during franchises
-    append_data:
-      gunn_dcu: "Gunn's DC Universe"
+    #append_data:
+    #  gunn_dcu: "Gunn's DC Universe"
     collection_order: release
     <<: *universe_posters
 
