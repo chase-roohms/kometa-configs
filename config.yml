@@ -327,7 +327,7 @@ shared_collection_files:
 - &universe_collection
   default: universe
   template_variables:
-    mdblist_list_gunn_dcu: https://mdblist.com/lists/neonvariant/gunns-dcu
+    imdb_list_gunn_dcu: https://www.imdb.com/list/ls4150733000
     append_data:
       gunn_dcu: "Gunn's DC Universe"
     exclude:
