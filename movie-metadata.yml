@@ -7552,7 +7552,7 @@ metadata:
     label_title: The Toxic Avenger Unrated
     sort_title: Toxic Avenger Unrated
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/637816
     tpdb_search: https://theposterdb.com/search?term=The+Toxic+Avenger+Unrated&section=movies
     genre.sync:
       - Action
