@@ -1211,6 +1211,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Breaking+Wind&section=movies
     genre.sync:
       - Comedy
+  531309:
+    label_title: Brightburn
+    sort_title: Brightburn
+    release_year: '2019'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Brightburn&section=movies
+    genre.sync:
+      - Horror
+      - Science Fiction
   1151031:
     label_title: Bring Her Back
     sort_title: Bring Her Back
