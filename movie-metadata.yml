@@ -5423,7 +5423,7 @@ metadata:
     label_title: Never Let Go
     sort_title: Never Let Go
     release_year: '2024'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/527709
     tpdb_search: https://theposterdb.com/search?term=Never+Let+Go&section=movies
     genre.sync:
       - Horror
