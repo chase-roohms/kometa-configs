@@ -7559,8 +7559,8 @@ metadata:
     genre.sync:
       - Action
   338969:
-    label_title: The Toxic Avenger Unrated
-    sort_title: Toxic Avenger Unrated
+    label_title: The Toxic Avenger
+    sort_title: Toxic Avenger
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/637816
     tpdb_search: https://theposterdb.com/search?term=The+Toxic+Avenger+Unrated&section=movies
@@ -7568,6 +7568,7 @@ metadata:
       - Action
       - Comedy
       - Science Fiction
+      - Superhero
   862:
     label_title: Toy Story
     sort_title: Toy Story 1
