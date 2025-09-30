@@ -1215,7 +1215,7 @@ metadata:
     label_title: Brightburn
     sort_title: Brightburn
     release_year: '2019'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/27443
     tpdb_search: https://theposterdb.com/search?term=Brightburn&section=movies
     genre.sync:
       - Horror
