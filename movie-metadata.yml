@@ -1435,11 +1435,10 @@ metadata:
     label_title: Caught Stealing
     sort_title: Caught Stealing
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/646861
     tpdb_search: https://theposterdb.com/search?term=Caught+Stealing&section=movies
     genre.sync:
       - Comedy
-      - Crime
       - Thriller
   937287:
     label_title: Challengers
