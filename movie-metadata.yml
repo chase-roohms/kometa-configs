@@ -127,6 +127,16 @@ metadata:
     studio: NEON
     genre.sync:
       - Documentary
+  59965:
+    label_title: Abduction
+    sort_title: Abduction
+    release_year: '2011'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Abduction&section=movies
+    genre.sync:
+      - Action
+      - Mystery
+      - Thriller
   431580:
     label_title: Abominable
     sort_title: Abominable
