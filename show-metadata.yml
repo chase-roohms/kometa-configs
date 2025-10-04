@@ -2437,6 +2437,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/574143
       8:
         url_poster: https://theposterdb.com/api/assets/574144
+      9:
+        url_poster: ''
   296669:
     label_title: Love Island
     sort_title: Love Island
