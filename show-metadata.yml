@@ -2876,6 +2876,23 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/595942
+  305074:
+    label_title: My Hero Academia
+    sort_title: My Hero Academia
+    release_year: '2016'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=My+Hero+Academia&section=shows
+    genre.sync:
+      - Action
+      - Adventure
+      - Animation
+      - Anime
+      - Comedy
+      - Fantasy
+      - Science Fiction
+    seasons:
+      8:
+        url_poster: ''
   362829:
     label_title: Mythic Quest
     sort_title: Mythic Quest
