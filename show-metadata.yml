@@ -2813,18 +2813,21 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/408313
   389492:
-    label_title: Monster (2022)
-    sort_title: Monster (2022)
+    label_title: Monster
+    sort_title: Monster
     release_year: '2022'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/647348
     tpdb_search: https://theposterdb.com/search?term=Monster+(2022)&section=shows
     genre.sync:
       - Crime
-      - Family
       - Thriller
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/647349
+      2:
+        url_poster: https://theposterdb.com/api/assets/647350
+      3:
+        url_poster: https://theposterdb.com/api/assets/647351
   368611:
     label_title: Moon Knight
     sort_title: Moon Knight
