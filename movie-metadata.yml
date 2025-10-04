@@ -131,11 +131,10 @@ metadata:
     label_title: Abduction
     sort_title: Abduction
     release_year: '2011'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/194635
     tpdb_search: https://theposterdb.com/search?term=Abduction&section=movies
     genre.sync:
       - Action
-      - Mystery
       - Thriller
   431580:
     label_title: Abominable
@@ -5513,12 +5512,11 @@ metadata:
     label_title: Noelle
     sort_title: Noelle
     release_year: '2019'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/648346
     tpdb_search: https://theposterdb.com/search?term=Noelle&section=movies
+    studio: Disney
     genre.sync:
-      - Comedy
       - Family
-      - Fantasy
   762504:
     label_title: Nope
     sort_title: Nope
@@ -6426,14 +6424,11 @@ metadata:
     label_title: Rubber
     sort_title: Rubber
     release_year: '2010'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/302269
     tpdb_search: https://theposterdb.com/search?term=Rubber&section=movies
     genre.sync:
       - Comedy
-      - Drama
-      - Fantasy
       - Horror
-      - Mystery
   1040148:
     label_title: Ruby Gillman, Teenage Kraken
     sort_title: Ruby Gillman, Teenage Kraken
