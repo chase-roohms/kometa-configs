@@ -2819,7 +2819,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/647348
     tpdb_search: https://theposterdb.com/search?term=Monster+(2022)&section=shows
     genre.sync:
-      - Crime
+      - Documentary
       - Thriller
     seasons:
       1:
