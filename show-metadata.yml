@@ -2880,19 +2880,29 @@ metadata:
     label_title: My Hero Academia
     sort_title: My Hero Academia
     release_year: '2016'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/234252
     tpdb_search: https://theposterdb.com/search?term=My+Hero+Academia&section=shows
     genre.sync:
-      - Action
-      - Adventure
-      - Animation
       - Anime
-      - Comedy
-      - Fantasy
-      - Science Fiction
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/234253
+      1:
+        url_poster: https://theposterdb.com/api/assets/234254
+      2:
+        url_poster: https://theposterdb.com/api/assets/234255
+      3:
+        url_poster: https://theposterdb.com/api/assets/234256
+      4:
+        url_poster: https://theposterdb.com/api/assets/234257
+      5:
+        url_poster: https://theposterdb.com/api/assets/234258
+      6:
+        url_poster: https://theposterdb.com/api/assets/234259
+      7:
+        url_poster: https://theposterdb.com/api/assets/445992
       8:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/627624
   362829:
     label_title: Mythic Quest
     sort_title: Mythic Quest
