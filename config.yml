@@ -221,8 +221,6 @@ shared_collection_files:
   template_variables:
     style: signature
     sort_by: title.asc
-    item_radarr_tag: 
-      - <<key>>
     data:
       depth: 10 # Check the first 10 credits in each movie
     include:
@@ -330,6 +328,12 @@ shared_collection_files:
 - &universe_collection
   default: universe
   template_variables:
+    item_radarr_tag: 
+      - universe
+      - <<key>>
+    item_sonarr_tag: 
+      - universe
+      - <<key>>
     imdb_list_gunn_dcu: https://www.imdb.com/list/ls4150733000
     append_data:
       gunn_dcu: "Gunn's DC Universe"
