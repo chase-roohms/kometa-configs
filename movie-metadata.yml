@@ -4868,6 +4868,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Manon+of+the+Spring&section=movies
     genre.sync:
       - Drama
+  14306:
+    label_title: Marley & Me
+    sort_title: Marley & Me
+    release_year: '2008'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Marley+%26+Me&section=movies
+    genre.sync:
+      - Comedy
+      - Family
   76122:
     label_title: Marvel One-Shot The Consultant
     sort_title: Marvel One-Shot 1
