@@ -2818,7 +2818,7 @@ metadata:
     label_title: Monster
     sort_title: Monster
     release_year: '2022'
-    url_poster: https://theposterdb.com/api/assets/647348
+    url_poster: https://theposterdb.com/api/assets/647628
     tpdb_search: https://theposterdb.com/search?term=Monster+(2022)&section=shows
     summary: An anthology series about high-profile crimes or killers that captured public attention and notoriety.
     genre.sync:
@@ -2826,11 +2826,20 @@ metadata:
       - Thriller
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/647349
+        url_poster: https://theposterdb.com/api/assets/647629
+        url_background: https://image.tmdb.org/t/p/original/5vUux2vNUTqwCzb7tVcH18XnsF.jpg
+        title: The Jeffrey Dahmer Story
+        summary: "This series examines the gruesome and horrific true crimes of Jeffrey Dahmer and the systemic failures that enabled one of America’s most notorious serial killers to continue his murderous spree in plain sight for over a decade."
       2:
-        url_poster: https://theposterdb.com/api/assets/647350
+        url_poster: https://theposterdb.com/api/assets/647630
+        url_background: https://image.tmdb.org/t/p/original/is3ZdGCPEKTW7IyDe0khvE1nc6R.jpg
+        title: The Lyle and Erik Menendez Story
+        summary: 'The story of the Menéndez brothers, who were convicted in 1996 of murdering their parents José and Mary Louise "Kitty" Menéndez.'
       3:
-        url_poster: https://theposterdb.com/api/assets/647351
+        url_poster: https://theposterdb.com/api/assets/647632
+        url_background: https://image.tmdb.org/t/p/original/lThQVYZlAwXCo5qWD7Qdb1UBeJo.jpg
+        title: The Ed Gein Story
+        summary: "The shocking true-life tale of Ed Gein, the infamous murderer and grave robber who inspired many of Hollywood's most iconic on-screen killers."
   368611:
     label_title: Moon Knight
     sort_title: Moon Knight
