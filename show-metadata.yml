@@ -2820,6 +2820,7 @@ metadata:
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/647348
     tpdb_search: https://theposterdb.com/search?term=Monster+(2022)&section=shows
+    summary: An anthology series about high-profile crimes or killers that captured public attention and notoriety.
     genre.sync:
       - Documentary
       - Thriller
