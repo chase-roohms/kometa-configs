@@ -3593,19 +3593,13 @@ metadata:
     label_title: Samurai Champloo
     sort_title: Samurai Champloo
     release_year: '2004'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/263423
     tpdb_search: https://theposterdb.com/search?term=Samurai+Champloo&section=shows
     genre.sync:
-      - Action
-      - Adventure
-      - Animation
       - Anime
-      - Comedy
-      - Drama
-      - Thriller
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/263424
   366211:
     label_title: The Sandman
     sort_title: Sandman
