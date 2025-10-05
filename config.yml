@@ -328,10 +328,10 @@ shared_collection_files:
 - &universe_collection
   default: universe
   template_variables:
-    item_radarr_tag: 
+    item_radarr_tag.remove: 
       - universe
       - <<key>>
-    item_sonarr_tag: 
+    item_sonarr_tag.remove: 
       - universe
       - <<key>>
     imdb_list_gunn_dcu: https://www.imdb.com/list/ls4150733000
