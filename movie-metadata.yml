@@ -7722,6 +7722,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Trainwreck:+P.I.+Moms&section=movies
     genre.sync:
       - Documentary
+  1484253:
+    label_title: 'Trainwreck: Poop Cruise'
+    sort_title: 'Trainwreck: Poop Cruise'
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Trainwreck:+Poop+Cruise&section=movies
+    genre.sync:
+      - Documentary
+      - Drama
   1477453:
     label_title: 'Trainwreck: The Astroworld Tragedy'
     sort_title: 'Trainwreck: The Astroworld Tragedy'
