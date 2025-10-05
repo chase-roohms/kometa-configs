@@ -3589,6 +3589,23 @@ metadata:
           14:
             title: Crows
             summary: The long running feud between Salad Fingers and the local crows escalates.
+  79089:
+    label_title: Samurai Champloo
+    sort_title: Samurai Champloo
+    release_year: '2004'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Samurai+Champloo&section=shows
+    genre.sync:
+      - Action
+      - Adventure
+      - Animation
+      - Anime
+      - Comedy
+      - Drama
+      - Thriller
+    seasons:
+      1:
+        url_poster: ''
   366211:
     label_title: The Sandman
     sort_title: Sandman
