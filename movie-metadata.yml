@@ -5444,6 +5444,17 @@ metadata:
       - Adventure
       - Mystery
       - Thriller
+  6637:
+    label_title: 'National Treasure: Book of Secrets'
+    sort_title: 'National Treasure: Book of Secrets'
+    release_year: '2007'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=National+Treasure:+Book+of+Secrets&section=movies
+    genre.sync:
+      - Action
+      - Adventure
+      - Mystery
+      - Thriller
   11393:
     label_title: The Natural
     sort_title: Natural
