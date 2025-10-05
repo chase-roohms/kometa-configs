@@ -413,16 +413,15 @@ libraries:
     metadata_files:
       - repo: movie-metadata
     collection_files:
-      - *universe_collection
       - repo: collections/movies
-      #- repo: collections/shared
-      #- *streaming_collection
+      - repo: collections/shared
       - *actor_collection
       - *director_collection
       - *tautulli_collection
       - *genre_collection
       - *imdb_collection
       - *studio_collection
+      - *universe_collection
       - *franchise_collection
     operations: *operation_settings
   TV Shows:
@@ -433,8 +432,7 @@ libraries:
       - repo: show-metadata
     collection_files:
       - repo: collections/shows
-      #- repo: collections/shared
-      #- *streaming_collection
+      - repo: collections/shared
       - *actor_collection
       - *tautulli_collection
       - *genre_collection
