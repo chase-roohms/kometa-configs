@@ -5433,6 +5433,17 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Napoleon&section=movies
     genre.sync:
       - Drama
+  2059:
+    label_title: National Treasure
+    sort_title: National Treasure
+    release_year: '2004'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=National+Treasure&section=movies
+    genre.sync:
+      - Action
+      - Adventure
+      - Mystery
+      - Thriller
   11393:
     label_title: The Natural
     sort_title: Natural
