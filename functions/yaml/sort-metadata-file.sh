@@ -46,6 +46,7 @@ yq -i '
         "url_background": .url_background,
         "tpdb_search": .tpdb_search,
         "audio_language": .audio_language,
+        "summary": .summary,
         "studio": .studio,
         "episode_ordering": .episode_ordering,
         "genre.sync": ."genre.sync",
@@ -63,7 +64,7 @@ yq -i '
 yq -i '.metadata[] |= (.["genre.sync"] = (.["genre.sync"] // [] ) | .["genre.sync"] |= sort)' "$METADATA_FILE"
 
 # Remove non-required fields if they are null
-non_required_fields=("studio" "audio_language" "episode_ordering" "seasons" "url_background")
+non_required_fields=("studio" "audio_language" "episode_ordering" "seasons" "url_background" "summary")
 for field in "${non_required_fields[@]}"; do
   yq -i "
     .metadata |= with_entries(
