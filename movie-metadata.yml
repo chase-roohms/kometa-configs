@@ -4660,6 +4660,18 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Lord+of+the+Rings+The+War+of+the+Rohirrim&section=movies
     genre.sync:
       - Fantasy
+  1547:
+    label_title: The Lost Boys
+    sort_title: Lost Boys
+    release_year: '1987'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Lost+Boys&section=movies
+    genre.sync:
+      - Comedy
+      - Drama
+      - Horror
+      - Romance
+      - Thriller
   43347:
     label_title: Love & Other Drugs
     sort_title: Love & Other Drugs
