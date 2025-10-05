@@ -329,6 +329,7 @@ shared_collection_files:
   default: universe
   template_variables:
     item_radarr_tag: universe,<<key>>
+    item_sonarr_tag: universe,<<key>>
     imdb_list_gunn_dcu: https://www.imdb.com/list/ls4150733000
     append_data:
       gunn_dcu: "Gunn's DC Universe"
@@ -346,6 +347,8 @@ shared_collection_files:
 - &franchise_collection
   default: franchise
   template_variables:
+    item_radarr_tag: franchise,<<key>>
+    item_sonarr_tag: franchise,<<key>>
     append_data:
       "76479": The Boys
     append_addons:
