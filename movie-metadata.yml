@@ -7747,6 +7747,14 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Trainwreck:+The+Astroworld+Tragedy&section=movies
     genre.sync:
       - Documentary
+  1484262:
+    label_title: 'Trainwreck: The Cult of American Apparel'
+    sort_title: 'Trainwreck: The Cult of American Apparel'
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Trainwreck:+The+Cult+of+American+Apparel&section=movies
+    genre.sync:
+      - Documentary
   1858:
     label_title: Transformers
     sort_title: Transformers 1
