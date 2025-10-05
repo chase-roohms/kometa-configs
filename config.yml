@@ -405,7 +405,7 @@ libraries:
     metadata_files:
       - repo: movie-metadata
     collection_files:
-      #- repo: collections/movies
+      - repo: collections/movies
       #- repo: collections/shared
       #- *streaming_collection
       - *actor_collection
@@ -424,7 +424,7 @@ libraries:
     metadata_files:
       - repo: show-metadata
     collection_files:
-      #- repo: collections/shows
+      - repo: collections/shows
       #- repo: collections/shared
       #- *streaming_collection
       - *actor_collection
