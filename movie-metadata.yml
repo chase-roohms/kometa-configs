@@ -1126,6 +1126,15 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
+  11072:
+    label_title: Blazing Saddles
+    sort_title: Blazing Saddles
+    release_year: '1974'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Blazing+Saddles&section=movies
+    genre.sync:
+      - Comedy
+      - Western
   840705:
     label_title: Blink Twice
     sort_title: Blink Twice
