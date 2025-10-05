@@ -1130,11 +1130,10 @@ metadata:
     label_title: Blazing Saddles
     sort_title: Blazing Saddles
     release_year: '1974'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/33555
     tpdb_search: https://theposterdb.com/search?term=Blazing+Saddles&section=movies
     genre.sync:
       - Comedy
-      - Western
   840705:
     label_title: Blink Twice
     sort_title: Blink Twice
@@ -4673,14 +4672,11 @@ metadata:
     label_title: The Lost Boys
     sort_title: Lost Boys
     release_year: '1987'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/20052
     tpdb_search: https://theposterdb.com/search?term=The+Lost+Boys&section=movies
     genre.sync:
       - Comedy
-      - Drama
       - Horror
-      - Romance
-      - Thriller
   43347:
     label_title: Love & Other Drugs
     sort_title: Love & Other Drugs
@@ -4872,10 +4868,9 @@ metadata:
     label_title: Marley & Me
     sort_title: Marley & Me
     release_year: '2008'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/81362
     tpdb_search: https://theposterdb.com/search?term=Marley+%26+Me&section=movies
     genre.sync:
-      - Comedy
       - Family
   76122:
     label_title: Marvel One-Shot The Consultant
@@ -5435,26 +5430,20 @@ metadata:
       - Drama
   2059:
     label_title: National Treasure
-    sort_title: National Treasure
+    sort_title: National Treasure 1
     release_year: '2004'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/71197
     tpdb_search: https://theposterdb.com/search?term=National+Treasure&section=movies
     genre.sync:
       - Action
-      - Adventure
-      - Mystery
-      - Thriller
   6637:
     label_title: 'National Treasure: Book of Secrets'
-    sort_title: 'National Treasure: Book of Secrets'
+    sort_title: National Treasure 2
     release_year: '2007'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/71199
     tpdb_search: https://theposterdb.com/search?term=National+Treasure:+Book+of+Secrets&section=movies
     genre.sync:
       - Action
-      - Adventure
-      - Mystery
-      - Thriller
   11393:
     label_title: The Natural
     sort_title: Natural
