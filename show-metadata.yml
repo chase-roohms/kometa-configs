@@ -4468,6 +4468,19 @@ metadata:
             url_poster: https://i.imgur.com/ETaHkSf.png
       1:
         url_poster: https://theposterdb.com/api/assets/601961
+  422600:
+    label_title: "Trainwreck: Woodstock '99"
+    sort_title: "Trainwreck: Woodstock '99"
+    release_year: '2022'
+    url_poster: ''
+    tpdb_search: "https://theposterdb.com/search?term=Trainwreck:+Woodstock+'99&section=shows"
+    genre.sync:
+      - Documentary
+      - Mini-Series
+      - Musical
+    seasons:
+      1:
+        url_poster: ''
   428163:
     label_title: The Traitors
     sort_title: Traitors
