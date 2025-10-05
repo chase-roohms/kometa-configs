@@ -7714,6 +7714,14 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Peninsula&section=movies
     genre.sync:
       - Thriller
+  1477566:
+    label_title: 'Trainwreck: Balloon Boy'
+    sort_title: 'Trainwreck: Balloon Boy'
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Trainwreck:+Balloon+Boy&section=movies
+    genre.sync:
+      - Documentary
   1484255:
     label_title: 'Trainwreck: Mayor of Mayhem'
     sort_title: 'Trainwreck: Mayor of Mayhem'
