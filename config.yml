@@ -221,6 +221,8 @@ shared_collection_files:
   template_variables:
     style: signature
     sort_by: title.asc
+    item_radarr_tag: 
+      - <<key>>
     data:
       depth: 10 # Check the first 10 credits in each movie
     include:
