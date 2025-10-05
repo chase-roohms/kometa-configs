@@ -7763,6 +7763,14 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Trainwreck:+The+Cult+of+American+Apparel&section=movies
     genre.sync:
       - Documentary
+  1477565:
+    label_title: 'Trainwreck: The Real Project X'
+    sort_title: 'Trainwreck: The Real Project X'
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Trainwreck:+The+Real+Project+X&section=movies
+    genre.sync:
+      - Documentary
   1858:
     label_title: Transformers
     sort_title: Transformers 1
