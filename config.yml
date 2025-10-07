@@ -428,6 +428,7 @@ libraries:
       - repo: collections/shared
       - *actor_collection
       - *director_collection
+      - *writer_collection
       - *tautulli_collection
       - *genre_collection
       - *imdb_collection
