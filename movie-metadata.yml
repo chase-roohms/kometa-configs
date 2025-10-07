@@ -8568,3 +8568,12 @@ metadata:
     studio: Disney
     genre.sync:
       - Animation
+  1084242:
+    label_title: Zootopia 2
+    sort_title: Zootopia 2
+    release_year: '2025'
+    url_poster: https://theposterdb.com/api/assets/647467
+    tpdb_search: https://theposterdb.com/search?term=Zootopia+2&section=movies
+    studio: Disney
+    genre.sync:
+      - Animation
