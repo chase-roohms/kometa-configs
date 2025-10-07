@@ -5700,6 +5700,15 @@ metadata:
     studio: Disney
     genre.sync:
       - Animation
+  1054867:
+    label_title: One Battle After Another
+    sort_title: One Battle After Another
+    release_year: '2025'
+    url_poster: https://theposterdb.com/api/assets/637110
+    tpdb_search: https://theposterdb.com/search?term=One+Battle+After+Another&section=movies
+    genre.sync:
+      - Action
+      - Thriller
   508439:
     label_title: Onward
     sort_title: Onward
