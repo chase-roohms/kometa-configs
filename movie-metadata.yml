@@ -1624,6 +1624,14 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Conjuring+The+Devil+Made+Me+Do+It&section=movies
     genre.sync:
       - Horror
+  1038392:
+    label_title: 'The Conjuring: Last Rites'
+    sort_title: 'Conjuring: Last Rites'
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Conjuring:+Last+Rites&section=movies
+    genre.sync:
+      - Horror
   14836:
     label_title: Coraline
     sort_title: Coraline
