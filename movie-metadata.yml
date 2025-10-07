@@ -469,7 +469,7 @@ metadata:
     label_title: Annabelle
     sort_title: Annabelle 1
     release_year: '2014'
-    url_poster: https://theposterdb.com/api/assets/248037
+    url_poster: https://theposterdb.com/api/assets/534161
     tpdb_search: https://theposterdb.com/search?term=Annabelle&section=movies
     genre.sync:
       - Horror
@@ -477,7 +477,7 @@ metadata:
     label_title: Annabelle Creation
     sort_title: Annabelle 2
     release_year: '2017'
-    url_poster: https://theposterdb.com/api/assets/248039
+    url_poster: https://theposterdb.com/api/assets/534160
     tpdb_search: https://theposterdb.com/search?term=Annabelle+Creation&section=movies
     genre.sync:
       - Horror
@@ -485,7 +485,7 @@ metadata:
     label_title: Annabelle Comes Home
     sort_title: Annabelle 3
     release_year: '2019'
-    url_poster: https://theposterdb.com/api/assets/248042
+    url_poster: https://theposterdb.com/api/assets/534159
     tpdb_search: https://theposterdb.com/search?term=Annabelle+Comes+Home&section=movies
     genre.sync:
       - Horror
@@ -1604,7 +1604,7 @@ metadata:
     label_title: The Conjuring
     sort_title: Conjuring 1
     release_year: '2013'
-    url_poster: https://theposterdb.com/api/assets/248036
+    url_poster: https://theposterdb.com/api/assets/534156
     tpdb_search: https://theposterdb.com/search?term=The+Conjuring&section=movies
     genre.sync:
       - Horror
@@ -1612,7 +1612,7 @@ metadata:
     label_title: The Conjuring 2
     sort_title: Conjuring 2
     release_year: '2016'
-    url_poster: https://theposterdb.com/api/assets/248038
+    url_poster: https://theposterdb.com/api/assets/534155
     tpdb_search: https://theposterdb.com/search?term=The+Conjuring+2&section=movies
     genre.sync:
       - Horror
@@ -1620,15 +1620,15 @@ metadata:
     label_title: The Conjuring The Devil Made Me Do It
     sort_title: Conjuring 3
     release_year: '2021'
-    url_poster: https://theposterdb.com/api/assets/248043
+    url_poster: https://theposterdb.com/api/assets/534154
     tpdb_search: https://theposterdb.com/search?term=The+Conjuring+The+Devil+Made+Me+Do+It&section=movies
     genre.sync:
       - Horror
   1038392:
     label_title: 'The Conjuring: Last Rites'
-    sort_title: 'Conjuring: Last Rites'
+    sort_title: Conjuring 4
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/636394
     tpdb_search: https://theposterdb.com/search?term=The+Conjuring:+Last+Rites&section=movies
     genre.sync:
       - Horror
@@ -1697,7 +1697,7 @@ metadata:
     label_title: The Curse of La Llorona
     sort_title: Curse of La Llorona
     release_year: '2019'
-    url_poster: https://theposterdb.com/api/assets/248041
+    url_poster: https://theposterdb.com/api/assets/534151
     tpdb_search: https://theposterdb.com/search?term=The+Curse+of+La+Llorona&section=movies
     genre.sync:
       - Horror
@@ -5617,7 +5617,7 @@ metadata:
     label_title: The Nun
     sort_title: Nun 1
     release_year: '2018'
-    url_poster: https://theposterdb.com/api/assets/248040
+    url_poster: https://theposterdb.com/api/assets/534165
     tpdb_search: https://theposterdb.com/search?term=The+Nun&section=movies
     genre.sync:
       - Horror
@@ -5625,7 +5625,7 @@ metadata:
     label_title: The Nun II
     sort_title: Nun 2
     release_year: '2023'
-    url_poster: https://theposterdb.com/api/assets/402598
+    url_poster: https://theposterdb.com/api/assets/534164
     tpdb_search: https://theposterdb.com/search?term=The+Nun+II&section=movies
     genre.sync:
       - Horror
