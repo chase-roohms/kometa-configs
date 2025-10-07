@@ -223,7 +223,7 @@ shared_collection_files:
     style: signature
     sort_by: title.asc
     data:
-      depth: 10 # Check the first 10 credits in each movie
+      depth: 10
     include:
       - Charlie Hunnam
       - Cillian Murphy
@@ -235,12 +235,22 @@ shared_collection_files:
     style: signature
     sort_by: title.asc
     data:
-      depth: 10 # Check the first 10 credits in each movie
+      depth: 10
     include:
       - Ari Aster
       - James Gunn
       - Jordan Peele
       - Quentin Tarantino
+
+- &writer_collection
+  default: writer
+  template_variables:
+    style: signature
+    sort_by: title.asc
+    data:
+      depth: 10
+    include:
+      - Stephen King
 
 - &tautulli_collection
   default: tautulli
