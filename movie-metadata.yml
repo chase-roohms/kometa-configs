@@ -5451,6 +5451,7 @@ metadata:
     release_year: '2004'
     url_poster: https://theposterdb.com/api/assets/649719
     tpdb_search: https://theposterdb.com/search?term=National+Treasure&section=movies
+    studio: Disney
     genre.sync:
       - Action
   6637:
@@ -5459,6 +5460,7 @@ metadata:
     release_year: '2007'
     url_poster: https://theposterdb.com/api/assets/649718
     tpdb_search: https://theposterdb.com/search?term=National+Treasure:+Book+of+Secrets&section=movies
+    studio: Disney
     genre.sync:
       - Action
   11393:
