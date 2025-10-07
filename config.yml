@@ -157,6 +157,7 @@ url_poster_mappings:
     url_poster_404825: https://theposterdb.com/api/assets/532966  # Wreck-It Ralph (Animated)
     url_poster_950289: https://theposterdb.com/api/assets/541906  # X Collection
     url_poster_748: https://theposterdb.com/api/assets/518265     # X-Men
+    url_poster_1084247: https://theposterdb.com/api/assets/647468 # Zootopia
   franchise_show_posters: &franchise_show_posters
     url_poster_1399: https://theposterdb.com/api/assets/269678    # World of Ice and Fire (GoT)
     url_poster_73586: https://theposterdb.com/api/assets/287923   # Yellowstone
