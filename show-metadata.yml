@@ -4342,6 +4342,19 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/180263
+  451873:
+    label_title: Task
+    sort_title: Task
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Task&section=shows
+    genre.sync:
+      - Crime
+      - Drama
+      - Mini-Series
+    seasons:
+      1:
+        url_poster: ''
   383203:
     label_title: Ted Lasso
     sort_title: Ted Lasso
