@@ -4568,6 +4568,18 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/136985
       4:
         url_poster: https://theposterdb.com/api/assets/439649
+  468524:
+    label_title: True Haunting
+    sort_title: True Haunting
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=True+Haunting&section=shows
+    genre.sync:
+      - Documentary
+      - Horror
+    seasons:
+      1:
+        url_poster: ''
   369026:
     label_title: Uzumaki
     sort_title: Uzumaki
