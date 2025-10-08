@@ -8320,6 +8320,14 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Wicked&section=movies
     genre.sync:
       - Family
+  967941:
+    label_title: 'Wicked: For Good'
+    sort_title: 'Wicked: For Good'
+    release_year: '2025'
+    url_poster: https://theposterdb.com/api/assets/650045
+    tpdb_search: https://theposterdb.com/search?term=Wicked:+For+Good&section=movies
+    genre.sync:
+      - Family
   1184918:
     label_title: The Wild Robot
     sort_title: Wild Robot
