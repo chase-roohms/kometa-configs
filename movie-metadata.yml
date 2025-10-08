@@ -3277,11 +3277,10 @@ metadata:
     label_title: HIM
     sort_title: HIM
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/641539
     tpdb_search: https://theposterdb.com/search?term=HIM&section=movies
     genre.sync:
       - Horror
-      - Mystery
   49051:
     label_title: The Hobbit An Unexpected Journey
     sort_title: Hobbit 1
