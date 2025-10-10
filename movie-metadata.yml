@@ -4752,7 +4752,7 @@ metadata:
     label_title: Lurker
     sort_title: Lurker
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/650916
     tpdb_search: https://theposterdb.com/search?term=Lurker&section=movies
     genre.sync:
       - Drama
