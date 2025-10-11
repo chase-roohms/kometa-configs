@@ -8409,6 +8409,16 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
+  1290879:
+    label_title: The Woman in Cabin 10
+    sort_title: Woman in Cabin 10
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Woman+in+Cabin+10&section=movies
+    genre.sync:
+      - Drama
+      - Mystery
+      - Thriller
   835113:
     label_title: Woman of the Hour
     sort_title: Woman of the Hour
