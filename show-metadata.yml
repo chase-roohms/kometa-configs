@@ -3283,7 +3283,7 @@ metadata:
       - Drama
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/650629
   430020:
     label_title: The Pradeeps of Pittsburgh
     sort_title: Pradeeps of Pittsburgh
