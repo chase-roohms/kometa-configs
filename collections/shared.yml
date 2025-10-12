@@ -14,3 +14,9 @@ collections:
       imdb_list_id: ls4155037593
       summary: The Trainwreck anthology series revisits some of the most gripping, bizarre — and sometimes even horrifying — events that once dominated the mainstream media.
     url_poster: https://theposterdb.com/api/assets/623306
+  Cloverfield:
+    template:
+      name: IMDB
+      imdb_list_id: ls4155412171
+      summary: The franchise as a whole deals with creatures from other dimensions attacking Earth throughout various decades, all as a repercussion of an experiment by an astronaut team aboard the outer-space Cloverfield Station in the near-future.
+    url_poster: https://theposterdb.com/api/assets/80490
