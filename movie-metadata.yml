@@ -4229,12 +4229,19 @@ metadata:
     label_title: Kill Boksoon
     sort_title: Kill Boksoon
     release_year: '2023'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/651248
     tpdb_search: https://theposterdb.com/search?term=Kill+Boksoon&section=movies
     genre.sync:
       - Action
-      - Crime
-      - Drama
+      - Thriller
+  1267319:
+    label_title: Mantis
+    sort_title: Mantis
+    release_year: '2025'
+    url_poster: https://theposterdb.com/api/assets/651247
+    tpdb_search: https://theposterdb.com/search?term=Mantis&section=movies
+    genre.sync:
+      - Action
       - Thriller
   274857:
     label_title: 'King Arthur: Legend of the Sword'
