@@ -4225,6 +4225,17 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Kill+Bill+The+Whole+Bloody+Affair&section=movies
     genre.sync:
       - Action
+  849869:
+    label_title: Kill Boksoon
+    sort_title: Kill Boksoon
+    release_year: '2023'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Kill+Boksoon&section=movies
+    genre.sync:
+      - Action
+      - Crime
+      - Drama
+      - Thriller
   274857:
     label_title: 'King Arthur: Legend of the Sword'
     sort_title: 'King Arthur: Legend of the Sword'
