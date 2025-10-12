@@ -4234,15 +4234,6 @@ metadata:
     genre.sync:
       - Action
       - Thriller
-  1267319:
-    label_title: Mantis
-    sort_title: Mantis
-    release_year: '2025'
-    url_poster: https://theposterdb.com/api/assets/651247
-    tpdb_search: https://theposterdb.com/search?term=Mantis&section=movies
-    genre.sync:
-      - Action
-      - Thriller
   274857:
     label_title: 'King Arthur: Legend of the Sword'
     sort_title: 'King Arthur: Legend of the Sword'
@@ -4925,6 +4916,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Manon+of+the+Spring&section=movies
     genre.sync:
       - Drama
+  1267319:
+    label_title: Mantis
+    sort_title: Mantis
+    release_year: '2025'
+    url_poster: https://theposterdb.com/api/assets/651247
+    tpdb_search: https://theposterdb.com/search?term=Mantis&section=movies
+    genre.sync:
+      - Action
+      - Thriller
   14306:
     label_title: Marley & Me
     sort_title: Marley & Me
