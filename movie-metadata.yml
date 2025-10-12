@@ -4391,12 +4391,11 @@ metadata:
     label_title: Land of Bad
     sort_title: Land of Bad
     release_year: '2024'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/477288
     tpdb_search: https://theposterdb.com/search?term=Land+of+Bad&section=movies
     genre.sync:
       - Action
       - Thriller
-      - War
   616:
     label_title: The Last Samurai
     sort_title: Last Samurai
