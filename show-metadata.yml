@@ -3092,6 +3092,22 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/606051
       9:
         url_poster: https://theposterdb.com/api/assets/606052
+  293088:
+    label_title: One-Punch Man
+    sort_title: One-Punch Man
+    release_year: '2015'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=One-Punch+Man&section=shows
+    genre.sync:
+      - Action
+      - Animation
+      - Anime
+      - Comedy
+      - Fantasy
+      - Science Fiction
+    seasons:
+      1:
+        url_poster: ''
   421583:
     label_title: Orb - On the Movements of the Earth
     sort_title: Orb - On the Movements of the Earth
