@@ -8076,7 +8076,7 @@ metadata:
     label_title: Twinless
     sort_title: Twinless
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/641301
     tpdb_search: https://theposterdb.com/search?term=Twinless&section=movies
     genre.sync:
       - Comedy
