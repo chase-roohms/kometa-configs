@@ -763,13 +763,13 @@ metadata:
     label_title: The Chair Company
     sort_title: Chair Company
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/648471
     tpdb_search: https://theposterdb.com/search?term=The+Chair+Company&section=shows
     genre.sync:
       - Comedy
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/648472
   360893:
     label_title: Chernobyl
     sort_title: Chernobyl
