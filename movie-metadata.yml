@@ -8072,6 +8072,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Twilight+Saga+Breaking+Dawn+Part+2&section=movies
     genre.sync:
       - Fantasy
+  1245347:
+    label_title: Twinless
+    sort_title: Twinless
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Twinless&section=movies
+    genre.sync:
+      - Comedy
+      - Drama
   718821:
     label_title: Twisters
     sort_title: Twisters
