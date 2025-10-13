@@ -9,8 +9,14 @@ metadata:
     genre.sync:
       - Anime
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/408056
       1:
         url_poster: https://theposterdb.com/api/assets/408057
+      2:
+        url_poster: https://theposterdb.com/api/assets/408058
+      3:
+        url_poster: https://theposterdb.com/api/assets/408059
   411959:
     label_title: 3 Body Problem
     sort_title: 3 Body Problem
