@@ -415,6 +415,8 @@ shared_collection_files:
   template_variables:
     sort_by: random
     visible_home: true
+    ignore_ids:
+      - 10625 # Mean girls for some reason is listed as a halloween movie
     exclude:
       - years
       - valentine
