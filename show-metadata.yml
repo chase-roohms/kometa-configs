@@ -1664,16 +1664,15 @@ metadata:
     label_title: The Haunting
     sort_title: Haunting
     release_year: '2018'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/189488
     tpdb_search: https://theposterdb.com/search?term=The+Haunting&section=shows
     genre.sync:
-      - Drama
       - Horror
-      - Mystery
-      - Thriller
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/189491
+      2:
+        url_poster: https://theposterdb.com/api/assets/189492
   367146:
     label_title: Hawkeye
     sort_title: Hawkeye
