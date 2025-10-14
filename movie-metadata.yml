@@ -3030,6 +3030,18 @@ metadata:
     studio: Disney
     genre.sync:
       - Family
+  34560:
+    label_title: Halloweentown High
+    sort_title: Halloweentown High
+    release_year: '2004'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Halloweentown+High&section=movies
+    genre.sync:
+      - Adventure
+      - Comedy
+      - Family
+      - Fantasy
+      - TV Movie
   556574:
     label_title: Hamilton
     sort_title: Hamilton
