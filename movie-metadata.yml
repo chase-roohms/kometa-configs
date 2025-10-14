@@ -2766,7 +2766,7 @@ metadata:
     genre.sync:
       - Family
   10361:
-    label_title: "Ginger Snaps 2: Unleashed"
+    label_title: 'Ginger Snaps 2: Unleashed'
     sort_title: Ginger Snaps 2
     release_year: '2004'
     url_poster: https://theposterdb.com/api/assets/166183
@@ -2774,7 +2774,7 @@ metadata:
     genre.sync:
       - Family
   12583:
-    label_title: "Ginger Snaps Back: The Beginning"
+    label_title: 'Ginger Snaps Back: The Beginning'
     sort_title: Ginger Snaps 3
     release_year: '2004'
     url_poster: https://theposterdb.com/api/assets/166184
@@ -3017,6 +3017,14 @@ metadata:
     release_year: '2001'
     url_poster: ''
     tpdb_search: "https://theposterdb.com/search?term=Halloweentown+II:+Kalabar's+Revenge&section=movies"
+    genre.sync:
+      - Family
+  34204:
+    label_title: Return to Halloweentown
+    sort_title: Halloweentown 3
+    release_year: '2006'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Return+to+Halloweentown&section=movies
     genre.sync:
       - Family
   556574:
@@ -6562,14 +6570,6 @@ metadata:
     genre.sync:
       - Drama
       - Thriller
-  34204:
-    label_title: Return to Halloweentown
-    sort_title: Halloweentown 3
-    release_year: '2006'
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Return+to+Halloweentown&section=movies
-    genre.sync:
-      - Family
   11011:
     label_title: Ri¢hie Ri¢h
     sort_title: Richie Rich
