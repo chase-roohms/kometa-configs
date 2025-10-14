@@ -3082,6 +3082,18 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Harry+Potter+and+the+Deathly+Hallows+Part+2&section=movies
     genre.sync:
       - Fantasy
+  10756:
+    label_title: The Haunted Mansion
+    sort_title: Haunted Mansion
+    release_year: '2003'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Haunted+Mansion&section=movies
+    genre.sync:
+      - Comedy
+      - Family
+      - Fantasy
+      - Mystery
+      - Thriller
   668489:
     label_title: Havoc
     sort_title: Havoc
