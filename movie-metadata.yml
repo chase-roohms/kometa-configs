@@ -8074,6 +8074,15 @@ metadata:
     studio: Disney
     genre.sync:
       - Animation
+  23202:
+    label_title: "Trick 'r Treat"
+    sort_title: "Trick 'r Treat"
+    release_year: '2007'
+    url_poster: ''
+    tpdb_search: "https://theposterdb.com/search?term=Trick+'r+Treat&section=movies"
+    genre.sync:
+      - Comedy
+      - Horror
   1005031:
     label_title: A Trip to Infinity
     sort_title: Trip to Infinity
