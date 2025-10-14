@@ -6471,6 +6471,18 @@ metadata:
     genre.sync:
       - Drama
       - Thriller
+  34204:
+    label_title: Return to Halloweentown
+    sort_title: Return to Halloweentown
+    release_year: '2006'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Return+to+Halloweentown&section=movies
+    genre.sync:
+      - Action
+      - Comedy
+      - Family
+      - Fantasy
+      - TV Movie
   11011:
     label_title: Ri¢hie Ri¢h
     sort_title: Richie Rich
