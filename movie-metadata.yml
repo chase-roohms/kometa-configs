@@ -3007,7 +3007,7 @@ metadata:
     label_title: Halloweentown
     sort_title: Halloweentown 1
     release_year: '1998'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/651987
     tpdb_search: https://theposterdb.com/search?term=Halloweentown&section=movies
     studio: Disney
     genre.sync:
@@ -3016,32 +3016,29 @@ metadata:
     label_title: "Halloweentown II: Kalabar's Revenge"
     sort_title: Halloweentown 2
     release_year: '2001'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/651986
     tpdb_search: "https://theposterdb.com/search?term=Halloweentown+II:+Kalabar's+Revenge&section=movies"
-    studio: Disney
-    genre.sync:
-      - Family
-  34204:
-    label_title: Return to Halloweentown
-    sort_title: Halloweentown 3
-    release_year: '2006'
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Return+to+Halloweentown&section=movies
     studio: Disney
     genre.sync:
       - Family
   34560:
     label_title: Halloweentown High
-    sort_title: Halloweentown High
+    sort_title: Halloweentown 3
     release_year: '2004'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/651985
     tpdb_search: https://theposterdb.com/search?term=Halloweentown+High&section=movies
+    studio: Disney
     genre.sync:
-      - Adventure
-      - Comedy
       - Family
-      - Fantasy
-      - TV Movie
+  34204:
+    label_title: Return to Halloweentown
+    sort_title: Halloweentown 4
+    release_year: '2006'
+    url_poster: https://theposterdb.com/api/assets/651984
+    tpdb_search: https://theposterdb.com/search?term=Return+to+Halloweentown&section=movies
+    studio: Disney
+    genre.sync:
+      - Family
   556574:
     label_title: Hamilton
     sort_title: Hamilton
@@ -3134,7 +3131,7 @@ metadata:
     label_title: The Haunted Mansion
     sort_title: Haunted Mansion
     release_year: '2003'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/651994
     tpdb_search: https://theposterdb.com/search?term=The+Haunted+Mansion&section=movies
     studio: Disney
     genre.sync:
@@ -3389,7 +3386,7 @@ metadata:
     label_title: Hocus Pocus
     sort_title: Hocus Pocus
     release_year: '1993'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/651992
     tpdb_search: https://theposterdb.com/search?term=Hocus+Pocus&section=movies
     studio: Disney
     genre.sync:
@@ -3398,7 +3395,7 @@ metadata:
     label_title: Hocus Pocus 2
     sort_title: Hocus Pocus 2
     release_year: '2022'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/651991
     tpdb_search: https://theposterdb.com/search?term=Hocus+Pocus+2&section=movies
     studio: Disney
     genre.sync:
@@ -3961,7 +3958,7 @@ metadata:
     label_title: James and the Giant Peach
     sort_title: James and the Giant Peach
     release_year: '1996'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/651993
     tpdb_search: https://theposterdb.com/search?term=James+and+the+Giant+Peach&section=movies
     studio: Disney
     genre.sync:
