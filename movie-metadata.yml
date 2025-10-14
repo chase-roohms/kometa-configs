@@ -1706,13 +1706,10 @@ metadata:
     label_title: The Curse of Bridge Hollow
     sort_title: Curse of Bridge Hollow
     release_year: '2022'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/274654
     tpdb_search: https://theposterdb.com/search?term=The+Curse+of+Bridge+Hollow&section=movies
     genre.sync:
-      - Adventure
-      - Comedy
       - Family
-      - Horror
   480414:
     label_title: The Curse of La Llorona
     sort_title: Curse of La Llorona
@@ -2762,15 +2759,28 @@ metadata:
       - Thriller
   9871:
     label_title: Ginger Snaps
-    sort_title: Ginger Snaps
+    sort_title: Ginger Snaps 1
     release_year: '2001'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/166182
     tpdb_search: https://theposterdb.com/search?term=Ginger+Snaps&section=movies
     genre.sync:
-      - Drama
-      - Fantasy
-      - Horror
-      - Thriller
+      - Family
+  10361:
+    label_title: "Ginger Snaps 2: Unleashed"
+    sort_title: Ginger Snaps 2
+    release_year: '2004'
+    url_poster: https://theposterdb.com/api/assets/166183
+    tpdb_search: https://theposterdb.com/search?term=Ginger+Snaps&section=movies
+    genre.sync:
+      - Family
+  12583:
+    label_title: "Ginger Snaps Back: The Beginning"
+    sort_title: Ginger Snaps 3
+    release_year: '2004'
+    url_poster: https://theposterdb.com/api/assets/166184
+    tpdb_search: https://theposterdb.com/search?term=Ginger+Snaps&section=movies
+    genre.sync:
+      - Family
   98:
     label_title: Gladiator
     sort_title: Gladiator 1
@@ -2995,27 +3005,20 @@ metadata:
       - Action
   27850:
     label_title: Halloweentown
-    sort_title: Halloweentown
+    sort_title: Halloweentown 1
     release_year: '1998'
     url_poster: ''
     tpdb_search: https://theposterdb.com/search?term=Halloweentown&section=movies
     genre.sync:
-      - Adventure
-      - Comedy
       - Family
-      - Fantasy
-      - TV Movie
   34205:
     label_title: "Halloweentown II: Kalabar's Revenge"
-    sort_title: "Halloweentown II: Kalabar's Revenge"
+    sort_title: Halloweentown 2
     release_year: '2001'
     url_poster: ''
     tpdb_search: "https://theposterdb.com/search?term=Halloweentown+II:+Kalabar's+Revenge&section=movies"
     genre.sync:
-      - Adventure
       - Family
-      - Fantasy
-      - TV Movie
   556574:
     label_title: Hamilton
     sort_title: Hamilton
@@ -3912,13 +3915,11 @@ metadata:
     label_title: "It's the Great Pumpkin, Charlie Brown"
     sort_title: "It's the Great Pumpkin, Charlie Brown"
     release_year: '1966'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/110441
     tpdb_search: "https://theposterdb.com/search?term=It's+the+Great+Pumpkin,+Charlie+Brown&section=movies"
     genre.sync:
       - Animation
-      - Comedy
       - Family
-      - TV Movie
   1094138:
     label_title: Jackpot!
     sort_title: Jackpot!
@@ -3935,10 +3936,8 @@ metadata:
     url_poster: ''
     tpdb_search: https://theposterdb.com/search?term=James+and+the+Giant+Peach&section=movies
     genre.sync:
-      - Adventure
       - Animation
       - Family
-      - Fantasy
   578:
     label_title: Jaws
     sort_title: Jaws 1
@@ -4718,13 +4717,10 @@ metadata:
     label_title: The Little Vampire
     sort_title: Little Vampire
     release_year: '2000'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/570975
     tpdb_search: https://theposterdb.com/search?term=The+Little+Vampire&section=movies
     genre.sync:
-      - Adventure
-      - Comedy
       - Family
-      - Fantasy
   1083968:
     label_title: Locked
     sort_title: Locked
@@ -5435,13 +5431,11 @@ metadata:
     label_title: Monster House
     sort_title: Monster House
     release_year: '2006'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/100230
     tpdb_search: https://theposterdb.com/search?term=Monster+House&section=movies
     genre.sync:
       - Animation
-      - Comedy
       - Family
-      - Fantasy
   585:
     label_title: Monsters Inc.
     sort_title: Monsters Inc. 1
@@ -6020,12 +6014,10 @@ metadata:
     label_title: ParaNorman
     sort_title: ParaNorman
     release_year: '2012'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/12035
     tpdb_search: https://theposterdb.com/search?term=ParaNorman&section=movies
     genre.sync:
-      - Adventure
       - Animation
-      - Comedy
       - Family
   496243:
     label_title: Parasite
@@ -6572,16 +6564,12 @@ metadata:
       - Thriller
   34204:
     label_title: Return to Halloweentown
-    sort_title: Return to Halloweentown
+    sort_title: Halloweentown 3
     release_year: '2006'
     url_poster: ''
     tpdb_search: https://theposterdb.com/search?term=Return+to+Halloweentown&section=movies
     genre.sync:
-      - Action
-      - Comedy
       - Family
-      - Fantasy
-      - TV Movie
   11011:
     label_title: Ri¢hie Ri¢h
     sort_title: Richie Rich
@@ -6747,12 +6735,11 @@ metadata:
     label_title: Scooby-Doo! and the Cyber Chase
     sort_title: Scooby-Doo! and the Cyber Chase
     release_year: '2001'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/311458
     tpdb_search: https://theposterdb.com/search?term=Scooby-Doo!+and+the+Cyber+Chase&section=movies
     genre.sync:
-      - Adventure
       - Animation
-      - Comedy
+      - Family
   22538:
     label_title: Scott Pilgrim vs. the World
     sort_title: Scott Pilgrim vs. the World
@@ -8078,7 +8065,7 @@ metadata:
     label_title: "Trick 'r Treat"
     sort_title: "Trick 'r Treat"
     release_year: '2007'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/102216
     tpdb_search: "https://theposterdb.com/search?term=Trick+'r+Treat&section=movies"
     genre.sync:
       - Comedy
@@ -8429,14 +8416,11 @@ metadata:
     label_title: Wendell & Wild
     sort_title: Wendell & Wild
     release_year: '2022'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/559346
     tpdb_search: https://theposterdb.com/search?term=Wendell+%26+Wild&section=movies
     genre.sync:
       - Animation
-      - Comedy
       - Family
-      - Fantasy
-      - Horror
   1164614:
     label_title: Were All Gonna Die
     sort_title: Were All Gonna Die
