@@ -413,7 +413,7 @@ shared_collection_files:
 - &seasonal_movies
   default: seasonal
   template_variables:
-    sort_by: title.asc
+    sort_by: random
     visible_home: true
     exclude:
       - years
