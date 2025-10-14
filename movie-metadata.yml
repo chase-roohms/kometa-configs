@@ -4714,6 +4714,17 @@ metadata:
     studio: Disney
     genre.sync:
       - Family
+  24100:
+    label_title: The Little Vampire
+    sort_title: Little Vampire
+    release_year: '2000'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Little+Vampire&section=movies
+    genre.sync:
+      - Adventure
+      - Comedy
+      - Family
+      - Fantasy
   1083968:
     label_title: Locked
     sort_title: Locked
