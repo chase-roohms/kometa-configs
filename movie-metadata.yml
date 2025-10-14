@@ -5365,6 +5365,17 @@ metadata:
     studio: NEON
     genre.sync:
       - Horror
+  9297:
+    label_title: Monster House
+    sort_title: Monster House
+    release_year: '2006'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Monster+House&section=movies
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
+      - Fantasy
   585:
     label_title: Monsters Inc.
     sort_title: Monsters Inc. 1
