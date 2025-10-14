@@ -6733,6 +6733,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Sauvage&section=movies
     genre.sync:
       - Drama
+  76789:
+    label_title: 'Scary Godmother: The Revenge of Jimmy'
+    sort_title: 'Scary Godmother: The Revenge of Jimmy'
+    release_year: '2005'
+    url_poster: https://theposterdb.com/api/assets/652130
+    tpdb_search: https://theposterdb.com/search?term=Scary+Godmother:+The+Revenge+of+Jimmy&section=movies
+    genre.sync:
+      - Animation
+      - Family
   417384:
     label_title: Scary Stories to Tell in the Dark
     sort_title: Scary Stories to Tell in the Dark
