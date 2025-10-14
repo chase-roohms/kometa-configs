@@ -3096,22 +3096,20 @@ metadata:
     label_title: One-Punch Man
     sort_title: One-Punch Man
     release_year: '2015'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/312223
     tpdb_search: https://theposterdb.com/search?term=One-Punch+Man&section=shows
+    audio_language: ja-JP
     genre.sync:
-      - Action
-      - Animation
       - Anime
-      - Comedy
-      - Fantasy
-      - Science Fiction
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/312224
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/312225
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/312226
       3:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/648808
   421583:
     label_title: Orb - On the Movements of the Earth
     sort_title: Orb - On the Movements of the Earth
