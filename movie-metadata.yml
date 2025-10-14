@@ -1702,6 +1702,17 @@ metadata:
     studio: NEON
     genre.sync:
       - Horror
+  864959:
+    label_title: The Curse of Bridge Hollow
+    sort_title: Curse of Bridge Hollow
+    release_year: '2022'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Curse+of+Bridge+Hollow&section=movies
+    genre.sync:
+      - Adventure
+      - Comedy
+      - Family
+      - Horror
   480414:
     label_title: The Curse of La Llorona
     sort_title: Curse of La Llorona
