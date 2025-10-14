@@ -2760,6 +2760,17 @@ metadata:
     genre.sync:
       - Horror
       - Thriller
+  9871:
+    label_title: Ginger Snaps
+    sort_title: Ginger Snaps
+    release_year: '2001'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Ginger+Snaps&section=movies
+    genre.sync:
+      - Drama
+      - Fantasy
+      - Horror
+      - Thriller
   98:
     label_title: Gladiator
     sort_title: Gladiator 1
