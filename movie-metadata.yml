@@ -3340,6 +3340,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Hobbit+The+Battle+of+the+Five+Armies&section=movies
     genre.sync:
       - Fantasy
+  10439:
+    label_title: Hocus Pocus
+    sort_title: Hocus Pocus
+    release_year: '1993'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Hocus+Pocus&section=movies
+    genre.sync:
+      - Comedy
+      - Family
+      - Fantasy
   228161:
     label_title: Home
     sort_title: Home
