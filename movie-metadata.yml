@@ -2764,7 +2764,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/166182
     tpdb_search: https://theposterdb.com/search?term=Ginger+Snaps&section=movies
     genre.sync:
-      - Family
+      - Horror
   10361:
     label_title: 'Ginger Snaps 2: Unleashed'
     sort_title: Ginger Snaps 2
@@ -2772,7 +2772,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/166183
     tpdb_search: https://theposterdb.com/search?term=Ginger+Snaps&section=movies
     genre.sync:
-      - Family
+      - Horror
   12583:
     label_title: 'Ginger Snaps Back: The Beginning'
     sort_title: Ginger Snaps 3
@@ -2780,7 +2780,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/166184
     tpdb_search: https://theposterdb.com/search?term=Ginger+Snaps&section=movies
     genre.sync:
-      - Family
+      - Horror
   98:
     label_title: Gladiator
     sort_title: Gladiator 1
