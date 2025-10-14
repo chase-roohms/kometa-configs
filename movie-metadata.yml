@@ -3873,6 +3873,17 @@ metadata:
     genre.sync:
       - Action
       - Comedy
+  10539:
+    label_title: James and the Giant Peach
+    sort_title: James and the Giant Peach
+    release_year: '1996'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=James+and+the+Giant+Peach&section=movies
+    genre.sync:
+      - Adventure
+      - Animation
+      - Family
+      - Fantasy
   578:
     label_title: Jaws
     sort_title: Jaws 1
