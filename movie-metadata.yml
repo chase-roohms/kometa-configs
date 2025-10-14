@@ -6710,6 +6710,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Scooby-Doo+2+Monsters+Unleashed&section=movies
     genre.sync:
       - Family
+  15601:
+    label_title: Scooby-Doo! and the Cyber Chase
+    sort_title: Scooby-Doo! and the Cyber Chase
+    release_year: '2001'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Scooby-Doo!+and+the+Cyber+Chase&section=movies
+    genre.sync:
+      - Adventure
+      - Animation
+      - Comedy
   22538:
     label_title: Scott Pilgrim vs. the World
     sort_title: Scott Pilgrim vs. the World
