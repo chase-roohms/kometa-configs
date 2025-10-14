@@ -3009,6 +3009,7 @@ metadata:
     release_year: '1998'
     url_poster: ''
     tpdb_search: https://theposterdb.com/search?term=Halloweentown&section=movies
+    studio: Disney
     genre.sync:
       - Family
   34205:
@@ -3017,6 +3018,7 @@ metadata:
     release_year: '2001'
     url_poster: ''
     tpdb_search: "https://theposterdb.com/search?term=Halloweentown+II:+Kalabar's+Revenge&section=movies"
+    studio: Disney
     genre.sync:
       - Family
   34204:
@@ -3025,6 +3027,7 @@ metadata:
     release_year: '2006'
     url_poster: ''
     tpdb_search: https://theposterdb.com/search?term=Return+to+Halloweentown&section=movies
+    studio: Disney
     genre.sync:
       - Family
   556574:
@@ -3121,12 +3124,9 @@ metadata:
     release_year: '2003'
     url_poster: ''
     tpdb_search: https://theposterdb.com/search?term=The+Haunted+Mansion&section=movies
+    studio: Disney
     genre.sync:
-      - Comedy
       - Family
-      - Fantasy
-      - Mystery
-      - Thriller
   668489:
     label_title: Havoc
     sort_title: Havoc
@@ -3379,10 +3379,18 @@ metadata:
     release_year: '1993'
     url_poster: ''
     tpdb_search: https://theposterdb.com/search?term=Hocus+Pocus&section=movies
+    studio: Disney
     genre.sync:
-      - Comedy
       - Family
-      - Fantasy
+  642885:
+    label_title: Hocus Pocus 2
+    sort_title: Hocus Pocus 2
+    release_year: '2022'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Hocus+Pocus+2&section=movies
+    studio: Disney
+    genre.sync:
+      - Family
   228161:
     label_title: Home
     sort_title: Home
@@ -3943,6 +3951,7 @@ metadata:
     release_year: '1996'
     url_poster: ''
     tpdb_search: https://theposterdb.com/search?term=James+and+the+Giant+Peach&section=movies
+    studio: Disney
     genre.sync:
       - Animation
       - Family
