@@ -218,6 +218,9 @@ url_poster_mappings:
     url_poster_star: https://i.imgur.com/u4xJ8Gf.png
     url_poster_wizard: https://i.imgur.com/d155RSF.png
     url_poster_xmen: https://i.imgur.com/JxBEN17.png
+  seasonal_posters: &seasonal_posters
+    url_poster_halloween: https://theposterdb.com/api/assets/111218
+    url_poster_christmas: https://theposterdb.com/api/assets/69443
 
 shared_collection_files:
 - &actor_collection
@@ -405,6 +408,31 @@ shared_collection_files:
     sort_title_573436: Spider-Man Spider-Verse
     <<: *franchise_posters
 
+- &seasonal_movies
+  default: seasonal
+  template_variables:
+    sort_by: title.asc
+    visible_home: true
+    exclude:
+      - years
+      - valentine
+      - patrick
+      - easter
+      - mother
+      - memorial
+      - father
+      - independence
+      - labor
+      - veteran
+      - thanksgiving
+      - aapi
+      - disabilities
+      - black_history
+      - lgbtq
+      - latinx
+      - women
+    <<: *seasonal_posters
+
 operations: &operation_settings
   delete_collections:
     configured: false
@@ -429,6 +457,7 @@ libraries:
     collection_files:
       - repo: collections/movies
       - repo: collections/shared
+      - *seasonal_movies
       - *actor_collection
       - *director_collection
       - *writer_collection
