@@ -1666,13 +1666,20 @@ metadata:
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/189488
     tpdb_search: https://theposterdb.com/search?term=The+Haunting&section=shows
+    summary: An anthology series following famous haunted locations and those who bore witness to them.
     genre.sync:
       - Horror
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/189491
+        url_background: https://image.tmdb.org/t/p/original/sNtNXwtEbdw4LaCFxFQwL2Jv4yW.jpg
+        title: Hill House
+        summary: "Flashing between past and present, a fractured family confronts haunting memories of their old home and the terrifying events that drove them from it."
       2:
         url_poster: https://theposterdb.com/api/assets/189492
+        url_background: https://image.tmdb.org/t/p/original/8XQ2QhuCbBZwDQWDnDZABmehS5u.jpg
+        title: Bly Manor
+        summary: "Dead doesn't mean gone. An au pair plunges into an abyss of chilling secrets in this gothic romance."
   367146:
     label_title: Hawkeye
     sort_title: Hawkeye
