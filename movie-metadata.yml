@@ -8394,6 +8394,18 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Weapons&section=movies
     genre.sync:
       - Horror
+  511817:
+    label_title: Wendell & Wild
+    sort_title: Wendell & Wild
+    release_year: '2022'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Wendell+%26+Wild&section=movies
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
+      - Fantasy
+      - Horror
   1164614:
     label_title: Were All Gonna Die
     sort_title: Were All Gonna Die
