@@ -6735,7 +6735,7 @@ metadata:
       - Drama
   76789:
     label_title: 'Scary Godmother: The Revenge of Jimmy'
-    sort_title: 'Scary Godmother: The Revenge of Jimmy'
+    sort_title: Scary Godmother 2
     release_year: '2005'
     url_poster: https://theposterdb.com/api/assets/652130
     tpdb_search: https://theposterdb.com/search?term=Scary+Godmother:+The+Revenge+of+Jimmy&section=movies
@@ -6746,12 +6746,10 @@ metadata:
     label_title: Scary Stories to Tell in the Dark
     sort_title: Scary Stories to Tell in the Dark
     release_year: '2019'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/53345
     tpdb_search: https://theposterdb.com/search?term=Scary+Stories+to+Tell+in+the+Dark&section=movies
     genre.sync:
-      - Adventure
       - Horror
-      - Mystery
   9637:
     label_title: Scooby-Doo
     sort_title: Scooby-Doo 1
