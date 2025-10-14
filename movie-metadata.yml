@@ -5928,6 +5928,17 @@ metadata:
     studio: Paramount Pictures
     genre.sync:
       - Horror
+  77174:
+    label_title: ParaNorman
+    sort_title: ParaNorman
+    release_year: '2012'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=ParaNorman&section=movies
+    genre.sync:
+      - Adventure
+      - Animation
+      - Comedy
+      - Family
   496243:
     label_title: Parasite
     sort_title: Parasite
