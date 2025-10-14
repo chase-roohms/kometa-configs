@@ -2971,6 +2971,18 @@ metadata:
     studio: Lionsgate
     genre.sync:
       - Action
+  27850:
+    label_title: Halloweentown
+    sort_title: Halloweentown
+    release_year: '1998'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Halloweentown&section=movies
+    genre.sync:
+      - Adventure
+      - Comedy
+      - Family
+      - Fantasy
+      - TV Movie
   556574:
     label_title: Hamilton
     sort_title: Hamilton
