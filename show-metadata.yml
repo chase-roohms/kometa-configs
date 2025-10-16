@@ -4032,6 +4032,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/318863
       27:
         url_poster: https://theposterdb.com/api/assets/627845
+      28:
+        url_poster: ''
   383275:
     label_title: Squid Game
     sort_title: Squid Game
