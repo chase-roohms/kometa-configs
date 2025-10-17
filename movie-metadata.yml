@@ -5198,6 +5198,14 @@ metadata:
     studio: 20th Century Studios
     genre.sync:
       - Comedy
+  673593:
+    label_title: Mean Girls
+    sort_title: Mean Girls
+    release_year: '2024'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Mean+Girls&section=movies
+    genre.sync:
+      - Comedy
   1267:
     label_title: Meet the Robinsons
     sort_title: Meet the Robinsons
