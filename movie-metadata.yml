@@ -8432,11 +8432,10 @@ metadata:
     label_title: Vicious
     sort_title: Vicious
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/650694
     tpdb_search: https://theposterdb.com/search?term=Vicious&section=movies
     genre.sync:
       - Horror
-      - Thriller
   449406:
     label_title: Vivo
     sort_title: Vivo
