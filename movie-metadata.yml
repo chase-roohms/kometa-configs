@@ -5191,18 +5191,27 @@ metadata:
       - Science Fiction
   10625:
     label_title: Mean Girls
-    sort_title: Mean Girls
+    sort_title: Mean Girls 1
     release_year: '2004'
-    url_poster: https://theposterdb.com/api/assets/437526
+    url_poster: https://theposterdb.com/api/assets/48320
     tpdb_search: https://theposterdb.com/search?term=Mean+Girls&section=movies
+    studio: 20th Century Studios
+    genre.sync:
+      - Comedy
+  51481:
+    label_title: Mean Girls
+    sort_title: Mean Girls 2
+    release_year: '2011'
+    url_poster: https://theposterdb.com/api/assets/48321
+    tpdb_search: https://theposterdb.com/search?term=Mean+Girls+2&section=movies
     studio: 20th Century Studios
     genre.sync:
       - Comedy
   673593:
     label_title: Mean Girls
-    sort_title: Mean Girls
+    sort_title: Mean Girls 3
     release_year: '2024'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/437526
     tpdb_search: https://theposterdb.com/search?term=Mean+Girls&section=movies
     genre.sync:
       - Comedy
