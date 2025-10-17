@@ -6347,6 +6347,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Platform+2&section=movies
     genre.sync:
       - Thriller
+  1248226:
+    label_title: Playdate
+    sort_title: Playdate
+    release_year: '2025'
+    url_poster: https://theposterdb.com/api/assets/653256
+    tpdb_search: https://theposterdb.com/search?term=Playdate&section=movies
+    genre.sync:
+      - Action
+      - Comedy
   10530:
     label_title: Pocahontas
     sort_title: Pocahontas 1
