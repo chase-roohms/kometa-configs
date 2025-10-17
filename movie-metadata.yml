@@ -8428,6 +8428,15 @@ metadata:
     studio: Marvel Entertainment
     genre.sync:
       - Superhero
+  1251717:
+    label_title: Vicious
+    sort_title: Vicious
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Vicious&section=movies
+    genre.sync:
+      - Horror
+      - Thriller
   449406:
     label_title: Vivo
     sort_title: Vivo
