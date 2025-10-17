@@ -6733,6 +6733,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Run+Hide+Fight&section=movies
     genre.sync:
       - Action
+  798645:
+    label_title: The Running Man
+    sort_title: Running Man
+    release_year: '2025'
+    url_poster: https://theposterdb.com/api/assets/621529
+    tpdb_search: https://theposterdb.com/search?term=The+Running+Man&section=movies
+    genre.sync:
+      - Action
+      - Thriller
   930564:
     label_title: Saltburn
     sort_title: Saltburn
