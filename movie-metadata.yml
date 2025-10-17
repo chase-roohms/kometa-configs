@@ -6123,6 +6123,14 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Percy+Jackson+Sea+of+Monsters&section=movies
     genre.sync:
       - Fantasy
+  1400782:
+    label_title: The Perfect Neighbor
+    sort_title: Perfect Neighbor
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Perfect+Neighbor&section=movies
+    genre.sync:
+      - Documentary
   294272:
     label_title: "Pete's Dragon"
     sort_title: "Pete's Dragon"
