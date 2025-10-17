@@ -3071,6 +3071,22 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/111412
       3:
         url_poster: https://theposterdb.com/api/assets/111413
+  321060:
+    label_title: The OA
+    sort_title: OA
+    release_year: '2016'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+OA&section=shows
+    genre.sync:
+      - Drama
+      - Fantasy
+      - Mystery
+      - Science Fiction
+      - Suspense
+      - Thriller
+    seasons:
+      1:
+        url_poster: ''
   393199:
     label_title: Obi-Wan Kenobi
     sort_title: Obi-Wan Kenobi
