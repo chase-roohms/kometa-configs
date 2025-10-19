@@ -8315,6 +8315,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Ugly+Stepsister&section=movies
     genre.sync:
       - Horror
+  751237:
+    label_title: Umma
+    sort_title: Umma
+    release_year: '2022'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Umma&section=movies
+    genre.sync:
+      - Horror
+      - Mystery
   9741:
     label_title: Unbreakable
     sort_title: Unbreakable
