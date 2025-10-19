@@ -3709,6 +3709,16 @@ metadata:
     studio: A24
     genre.sync:
       - Horror
+  524251:
+    label_title: I See You
+    sort_title: I See You
+    release_year: '2019'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=I+See+You&section=movies
+    genre.sync:
+      - Horror
+      - Mystery
+      - Thriller
   504253:
     label_title: I Want to Eat Your Pancreas
     sort_title: I Want to Eat Your Pancreas
