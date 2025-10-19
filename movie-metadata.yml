@@ -3713,11 +3713,10 @@ metadata:
     label_title: I See You
     sort_title: I See You
     release_year: '2019'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/614266
     tpdb_search: https://theposterdb.com/search?term=I+See+You&section=movies
     genre.sync:
       - Horror
-      - Mystery
       - Thriller
   504253:
     label_title: I Want to Eat Your Pancreas
@@ -8329,11 +8328,10 @@ metadata:
     label_title: Umma
     sort_title: Umma
     release_year: '2022'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/226642
     tpdb_search: https://theposterdb.com/search?term=Umma&section=movies
     genre.sync:
       - Horror
-      - Mystery
   9741:
     label_title: Unbreakable
     sort_title: Unbreakable
