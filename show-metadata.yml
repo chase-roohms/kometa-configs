@@ -208,6 +208,39 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/633354
+  250487:
+    label_title: American Horror Story
+    sort_title: American Horror Story
+    release_year: '2011'
+    url_poster: https://theposterdb.com/api/assets/168549
+    tpdb_search: https://theposterdb.com/search?term=American+Horror+Story&section=shows
+    genre.sync:
+      - Horror
+    seasons:
+      1:
+        url_poster: ''
+      2:
+        url_poster: ''
+      3:
+        url_poster: ''
+      4:
+        url_poster: ''
+      5:
+        url_poster: ''
+      6:
+        url_poster: ''
+      7:
+        url_poster: ''
+      8:
+        url_poster: ''
+      9:
+        url_poster: ''
+      10:
+        url_poster: ''
+      11:
+        url_poster: ''
+      12:
+        url_poster: ''
   428066:
     label_title: American Primeval
     sort_title: American Primeval
