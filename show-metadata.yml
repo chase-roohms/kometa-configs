@@ -218,29 +218,41 @@ metadata:
       - Horror
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/168560
+        title: Murder House
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/168561
+        title: Asylum
       3:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/168562
+        title: Coven
       4:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/168563
+        title: Freak Show
       5:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/168564
+        title: Hotel
       6:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/168565
+        title: Roanoke
       7:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/168566
+        title: Cult
       8:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/168567
+        title: Apocolypse
       9:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/168568
+        title: '1984'
       10:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/168569
+        title: Double Feature
       11:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/272089
+        title: NYC
       12:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/398397
+        title: Delicate
   428066:
     label_title: American Primeval
     sort_title: American Primeval
