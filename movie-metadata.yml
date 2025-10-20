@@ -7427,6 +7427,14 @@ metadata:
     studio: Blumhouse Productions
     genre.sync:
       - Action
+  1337562:
+    label_title: Splitsville
+    sort_title: Splitsville
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Splitsville&section=movies
+    genre.sync:
+      - Comedy
   355547:
     label_title: The Star
     sort_title: Star
