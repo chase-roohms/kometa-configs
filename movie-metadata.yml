@@ -8856,14 +8856,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-  7451:
-    label_title: xXx
-    sort_title: xXx
-    release_year: '2002'
-    url_poster: TEST
-    tpdb_search: https://theposterdb.com/search?term=xXx&section=movies
-    genre.sync:
-      - abc
   372058:
     label_title: Your Name.
     sort_title: Your Name.
