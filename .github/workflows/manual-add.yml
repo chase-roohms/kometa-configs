@@ -15,14 +15,6 @@ on:
         description: TMDb or TVDb ID
         required: true
         type: string
-      title:
-        description: Title
-        required: true
-        type: string
-      release_year:
-        description: Release Year
-        required: true
-        type: string
       url_poster:
         description: Poster URL
         required: true
@@ -33,22 +25,18 @@ on:
         type: string
       studio:
         description: Studio
-      seasons:
-        description: Seasons, Comma Spaced
-        type: string
 
 permissions:
   id-token: write
   contents: write
 
 env:
+  TMDB_READ_TOKEN: ${{ secrets.TMDB_READ_TOKEN }}
+  TVDB_TOKEN: ${{ secrets.TVDB_TOKEN }}
   MEDIA_TYPE: ${{ inputs.media_type }}
   TXDB_ID: ${{ inputs.txdb_id }}
-  TITLE: ${{ inputs.title }}
-  RELEASE_YEAR: ${{ inputs.release_year }}
   URL_POSTER: ${{ inputs.url_poster }}
   GENRES_COMMA_SPACED: ${{ inputs.genres }}
-  SEASONS_COMMA_SPACED: ${{ inputs.seasons }}
   STUDIO: ${{ inputs.studio }}
   MOVIE_METADATA_FILE: movie-metadata.yml
   SHOW_METADATA_FILE: show-metadata.yml
@@ -70,6 +58,31 @@ jobs:
           else
               echo "METADATA_FILE=$SHOW_METADATA_FILE" >> $GITHUB_ENV
           fi
+      
+      - name: Get movie information from TMDb
+        if: ${{ env.MEDIA_TYPE == 'movie' }}
+        id: get-movie
+        run: |
+          movie_json=$(bash "functions/tmdb/get_movie.sh" "$TXDB_ID" "$TMDB_READ_TOKEN")
+          title=$(echo "$movie_json" | jq -r '.title')
+          release_year=$(echo "$movie_json" | jq -r '.release_date' | cut -c1-4)
+
+          echo "TITLE=$title" >> $GITHUB_ENV
+          echo "RELEASE_YEAR=$release_year" >> $GITHUB_ENV
+      
+      - name: Get show information from TVDb
+        if: ${{ env.MEDIA_TYPE == 'show' }}
+        id: get-show
+        run: |
+          auth_token=$(bash "functions/tvdb/get_auth_token.sh" "$TVDB_TOKEN")
+          show_json=$(bash "functions/tvdb/get_show.sh" "$TXDB_ID" "$auth_token")
+          title=$(echo "$show_json" | jq -r '.data.series.name' | sed 's/ ([0-9]\{4\})$//')
+          release_year=$(echo "$show_json" | jq -r '.data.series.year')
+          seasons_comma_spaced=$(echo "$show_json" | jq -r '.data.episodes[] | .seasonNumber' | sort -n | uniq | tr '\n' ',' | sed 's/,$//')
+
+          echo "TITLE=$title" >> $GITHUB_ENV
+          echo "RELEASE_YEAR=$release_year" >> $GITHUB_ENV
+          echo "SEASONS_COMMA_SPACED=$seasons_comma_spaced" >> $GITHUB_ENV
       
       - name: Update metadata file with media information
         run: |
