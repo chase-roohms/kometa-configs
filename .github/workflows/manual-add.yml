@@ -1,5 +1,5 @@
 name: Manually add Media
-run-name: Manually add ${{ inputs.media_type }} ${{ inputs.title }}
+run-name: Manually add ${{ inputs.media_type }} ${{ inputs.txdb_id }}
 
 on:
   workflow_dispatch:
