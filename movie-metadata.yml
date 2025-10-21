@@ -6568,6 +6568,16 @@ metadata:
     studio: Paramount Pictures
     genre.sync:
       - Horror
+  1193824:
+    label_title: Rabbit Trap
+    sort_title: Rabbit Trap
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Rabbit+Trap&section=movies
+    genre.sync:
+      - Horror
+      - Mystery
+      - Thriller
   2062:
     label_title: Ratatouille
     sort_title: Ratatouille
