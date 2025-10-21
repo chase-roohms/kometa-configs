@@ -6572,11 +6572,10 @@ metadata:
     label_title: Rabbit Trap
     sort_title: Rabbit Trap
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/647353
     tpdb_search: https://theposterdb.com/search?term=Rabbit+Trap&section=movies
     genre.sync:
       - Horror
-      - Mystery
       - Thriller
   2062:
     label_title: Ratatouille
