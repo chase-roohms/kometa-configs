@@ -3190,6 +3190,28 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/312226
       3:
         url_poster: https://theposterdb.com/api/assets/648808
+  399959:
+    label_title: Only Murders in the Building
+    sort_title: Only Murders in the Building
+    release_year: '2021'
+    url_poster: TEST
+    tpdb_search: https://theposterdb.com/search?term=Only+Murders+in+the+Building&section=shows
+    genre.sync:
+      - abc
+      - xyz
+    seasons:
+      0:
+        url_poster: ''
+      1:
+        url_poster: ''
+      2:
+        url_poster: ''
+      3:
+        url_poster: ''
+      4:
+        url_poster: ''
+      5:
+        url_poster: ''
   421583:
     label_title: Orb - On the Movements of the Earth
     sort_title: Orb - On the Movements of the Earth
