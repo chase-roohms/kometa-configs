@@ -1,4 +1,16 @@
 metadata:
+  12244:
+    label_title: "9"
+    sort_title: "9"
+    release_year: '2009'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=9&section=movies
+    genre.sync:
+      - Action
+      - Adventure
+      - Animation
+      - Science Fiction
+      - Thriller
   170:
     label_title: 28 Days Later
     sort_title: 28 Later 1
