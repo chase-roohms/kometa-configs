@@ -3941,7 +3941,7 @@ metadata:
     label_title: It
     sort_title: It 1
     release_year: '2017'
-    url_poster: https://theposterdb.com/api/assets/19250
+    url_poster: https://theposterdb.com/api/assets/632792
     tpdb_search: https://theposterdb.com/search?term=It&section=movies
     genre.sync:
       - Horror
@@ -3949,7 +3949,7 @@ metadata:
     label_title: It Chapter Two
     sort_title: It 2
     release_year: '2019'
-    url_poster: https://theposterdb.com/api/assets/19251
+    url_poster: https://theposterdb.com/api/assets/632791
     tpdb_search: https://theposterdb.com/search?term=It+Chapter+Two&section=movies
     genre.sync:
       - Horror
