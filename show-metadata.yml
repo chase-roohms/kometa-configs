@@ -2011,14 +2011,15 @@ metadata:
     label_title: 'IT: Welcome to Derry'
     sort_title: 'IT: Welcome to Derry'
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/655875
     tpdb_search: https://theposterdb.com/search?term=IT:+Welcome+to+Derry&section=shows
     genre.sync:
-      - Drama
       - Horror
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/655876
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/655877
   273106:
     label_title: "Ja'mie - Private School Girl"
     sort_title: "Ja'mie - Private School Girl"
