@@ -3762,20 +3762,24 @@ metadata:
     label_title: Scissor Seven
     sort_title: Scissor Seven
     release_year: '2018'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/622760
     tpdb_search: https://theposterdb.com/search?term=Scissor+Seven&section=shows
+    audio_language: zh-CN
     genre.sync:
-      - Action
-      - Adventure
-      - Animation
       - Anime
-      - Comedy
-      - Fantasy
-      - Martial Arts
-      - Science Fiction
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/622761
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/622762
+      2:
+        url_poster: https://theposterdb.com/api/assets/622763
+      3:
+        url_poster: https://theposterdb.com/api/assets/622764
+      4:
+        url_poster: https://theposterdb.com/api/assets/622765
+      5:
+        url_poster: https://theposterdb.com/api/assets/622766
   78260:
     label_title: Scooby-Doo, Where Are You!
     sort_title: Scooby-Doo, Where Are You!
