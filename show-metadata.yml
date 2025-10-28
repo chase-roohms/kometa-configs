@@ -3758,6 +3758,24 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/474777
+  358612:
+    label_title: Scissor Seven
+    sort_title: Scissor Seven
+    release_year: '2018'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Scissor+Seven&section=shows
+    genre.sync:
+      - Action
+      - Adventure
+      - Animation
+      - Anime
+      - Comedy
+      - Fantasy
+      - Martial Arts
+      - Science Fiction
+    seasons:
+      1:
+        url_poster: ''
   78260:
     label_title: Scooby-Doo, Where Are You!
     sort_title: Scooby-Doo, Where Are You!
