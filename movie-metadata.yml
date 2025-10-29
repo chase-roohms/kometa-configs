@@ -1967,21 +1967,28 @@ metadata:
       - Documentary
   535544:
     label_title: Downton Abbey
-    sort_title: Downton Abbey
+    sort_title: Downton Abbey 1
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/197204
     tpdb_search: https://theposterdb.com/search?term=Downton+Abbey&section=movies
     genre.sync:
       - Drama
+  820446:
+    label_title: 'Downton Abbey: A New Era'
+    sort_title: Downton Abbey 2
+    release_year: '2022'
+    url_poster: https://theposterdb.com/api/assets/213183
+    tpdb_search: https://theposterdb.com/search?term=Downton+Abbey:+A+New+Era&section=movies
+    genre.sync:
+      - Drama
   1289936:
     label_title: 'Downton Abbey: The Grand Finale'
-    sort_title: 'Downton Abbey: The Grand Finale'
+    sort_title: Downton Abbey 3
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/646889
     tpdb_search: https://theposterdb.com/search?term=Downton+Abbey:+The+Grand+Finale&section=movies
     genre.sync:
       - Drama
-      - Romance
   567797:
     label_title: The Dry
     sort_title: Dry 1
