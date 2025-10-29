@@ -4310,6 +4310,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/470292
       2:
         url_poster: https://theposterdb.com/api/assets/470293
+      3:
+        url_poster: ''
   455562:
     label_title: Stick
     sort_title: Stick
