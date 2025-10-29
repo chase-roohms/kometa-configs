@@ -15,6 +15,7 @@ env:
   MOVIE_POSTER_REPORT: movie-poster-report.md
   MOVIE_GENRE_REPORT: movie-genre-report.md
   SHOW_POSTER_REPORT: show-poster-report.md
+  SHOW_SEASONS_POSTER_REPORT: show-seasons-poster-report.md
   SHOW_GENRE_REPORT: show-genre-report.md
 
 permissions:
