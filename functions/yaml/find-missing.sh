@@ -57,6 +57,7 @@ if [[ "$key" == "season_posters" ]]; then
         | {
             "txdb_id": .key,
             "label_title": .value.label_title,
+            "release_year": .value.release_year,
             "missing_seasons": [
                 .value.seasons 
                 | to_entries[] 

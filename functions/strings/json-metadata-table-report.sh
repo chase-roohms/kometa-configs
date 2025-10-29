@@ -36,8 +36,11 @@ get_db_link() {
 determine_type() {
     local json_item="$1"
     
+    # Check if it has missing_seasons (indicates season poster check)
+    if echo "$json_item" | jq -e '.missing_seasons' >/dev/null 2>&1; then
+        echo "show"
     # Check if it has seasons (indicates show)
-    if echo "$json_item" | jq -e '.seasons' >/dev/null 2>&1; then
+    elif echo "$json_item" | jq -e '.seasons' >/dev/null 2>&1; then
         echo "show"
     else
         echo "movie"
@@ -45,8 +48,8 @@ determine_type() {
 }
 
 # Print markdown table header
-echo "| TXDB ID | Title | Release Year | TPDB Search | Google Search |"
-echo "|---------|-------|--------------|-------------|---------------|"
+echo "| TXDB ID | Title | Release Year | Missing Seasons | TPDB Search | Google Search |"
+echo "|---------|-------|--------------|-----------------|-------------|---------------|"
 
 # Process each JSON object
 echo "$json_metadata" | while IFS= read -r line; do
@@ -55,9 +58,10 @@ echo "$json_metadata" | while IFS= read -r line; do
         txdb_id=$(echo "$line" | jq -r '.txdb_id // empty')
         title=$(echo "$line" | jq -r '.label_title // empty')
         release_year=$(echo "$line" | jq -r '.release_year // empty')
+        missing_seasons=$(echo "$line" | jq -r '.missing_seasons // empty')
         
         # Skip if essential fields are missing
-        if [[ -z "$txdb_id" || -z "$title" || -z "$release_year" ]]; then
+        if [[ -z "$txdb_id" || -z "$title" ]]; then
             continue
         fi
         
@@ -69,8 +73,16 @@ echo "$json_metadata" | while IFS= read -r line; do
         tpdb_link=$(bash functions/media/get-tpdb-search.sh "$title" "$media_type")
         google_link=$(bash functions/media/get-google-search.sh "$title" "$release_year" "$media_type")
 
-        # Create markdown table row
-        printf "| [%s](%s) | %s | %s | [TPDb](%s) | [Google](%s) |\n" \
-            "$txdb_id" "$db_link" "$title" "$release_year" "$tpdb_link" "$google_link"
+        # Handle missing seasons display
+        if [[ "$missing_seasons" != "empty" && "$missing_seasons" != "null" ]]; then
+            seasons_display=$(echo "$line" | jq -r '.missing_seasons | join(", ")')
+            # Create markdown table row with missing seasons
+            printf "| [%s](%s) | %s | %s | %s | [TPDb](%s) | [Google](%s) |\n" \
+                "$txdb_id" "$db_link" "$title" "$release_year" "$seasons_display" "$tpdb_link" "$google_link"
+        else
+            # Create markdown table row without missing seasons (original format)
+            printf "| [%s](%s) | %s | %s | - | [TPDb](%s) | [Google](%s) |\n" \
+                "$txdb_id" "$db_link" "$title" "$release_year" "$tpdb_link" "$google_link"
+        fi
     fi
 done
