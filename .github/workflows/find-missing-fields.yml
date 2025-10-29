@@ -61,6 +61,18 @@ jobs:
               echo "$report" > "$SHOW_POSTER_REPORT"
           fi
       
+      - name: Find Show Missing Season Posters
+        run: |
+          missing_show_posters="$(bash functions/yaml/find-missing.sh \
+                                      "season_posters" \
+                                      "show" \
+                                      "$MOVIE_METADATA_FILE" \
+                                      "$SHOW_METADATA_FILE")"
+          report=$(bash functions/strings/json-metadata-table-report.sh "$missing_show_posters")
+          if [[ -n "$report" ]]; then
+              echo "$report" > "$SHOW_SEASONS_POSTER_REPORT"
+          fi
+      
       - name: Find Movie Missing Genres
         run: |
           missing_movie_genres="$(bash functions/yaml/find-missing.sh \
@@ -89,6 +101,7 @@ jobs:
         run: |
             if [[ ! -f "$MOVIE_POSTER_REPORT" && 
                   ! -f "$SHOW_POSTER_REPORT" && 
+                  ! -f "$SHOW_SEASONS_POSTER_REPORT" && 
                   ! -f "$MOVIE_GENRE_REPORT" && 
                   ! -f "$SHOW_GENRE_REPORT" ]]; then
               echo "# ✅ No missing fields" >> "$GITHUB_STEP_SUMMARY"
@@ -101,6 +114,10 @@ jobs:
               if [[ -f "$SHOW_POSTER_REPORT" ]]; then
                   echo "## Show Posters" >> "$GITHUB_STEP_SUMMARY"
                   cat "$SHOW_POSTER_REPORT" >> "$GITHUB_STEP_SUMMARY"
+              fi
+              if [[ -f "$SHOW_SEASONS_POSTER_REPORT" ]]; then
+                  echo "## Show Season Posters" >> "$GITHUB_STEP_SUMMARY"
+                  cat "$SHOW_SEASONS_POSTER_REPORT" >> "$GITHUB_STEP_SUMMARY"
               fi
               if [[ -f "$MOVIE_GENRE_REPORT" ]]; then
                   echo "## Movie Genres" >> "$GITHUB_STEP_SUMMARY"

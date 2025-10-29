@@ -1,7 +1,8 @@
 #!/bin/bash
 
 # Find all movies or shows that are missing a value for the specific key
-# Usage: find-field.sh <key> <type: movie|show|all> <movie_metadata_file> <show_metadata_file>
+# Special key "season_posters" checks for missing url_poster in show seasons
+# Usage: find-missing.sh <key> <type: movie|show|all> <movie_metadata_file> <show_metadata_file>
 # Returns: JSON array of matching movie/show metadata
 
 if [[ $# -ne 4 ]]; then
@@ -34,11 +35,38 @@ case "$type" in
         ;;
 esac
 
-allowed_keys=("label_title" "sort_title" "release_year" "studio" "genre.sync" "url_poster" "audio_language")
+allowed_keys=("label_title" "sort_title" "release_year" "studio" "genre.sync" "url_poster" "audio_language" "season_posters")
 
 if [[ ! " ${allowed_keys[@]} " =~ " ${key} " ]]; then
     echo "Invalid key: $key. Allowed keys are: ${allowed_keys[*]}"
     exit 1
+fi
+
+# Special handling for season_posters - only applies to shows
+if [[ "$key" == "season_posters" ]]; then
+    if [[ "$type" == "movie" ]]; then
+        echo "season_posters key is only valid for shows, not movies."
+        exit 1
+    fi
+    
+    # Find shows with seasons missing url_poster
+    yq -o=json '
+        .metadata
+        | to_entries[]
+        | select(.value.seasons)
+        | {
+            "txdb_id": .key,
+            "label_title": .value.label_title,
+            "missing_seasons": [
+                .value.seasons 
+                | to_entries[] 
+                | select(.value.url_poster == null or .value.url_poster == "" or (.value.url_poster | length == 0))
+                | .key
+            ]
+        }
+        | select(.missing_seasons | length > 0)
+    ' $file | jq -c
+    exit 0
 fi
 
 # Find values that are empty strings, empty arrays, or null under $key
