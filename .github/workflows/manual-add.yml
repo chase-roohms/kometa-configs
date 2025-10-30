@@ -75,8 +75,12 @@ jobs:
         id: get-show
         run: |
           auth_token=$(bash "functions/tvdb/get_auth_token.sh" "$TVDB_TOKEN")
+          
+          # Get English title (with trailing year removed)
+          title=$(bash "functions/tvdb/get_english_show_title.sh" "$TXDB_ID" "$auth_token")
+          
+          # Get show metadata for year and seasons
           show_json=$(bash "functions/tvdb/get_show.sh" "$TXDB_ID" "$auth_token")
-          title=$(echo "$show_json" | jq -r '.data.series.name' | sed 's/ ([0-9]\{4\})$//')
           release_year=$(echo "$show_json" | jq -r '.data.series.year')
           seasons_comma_spaced=$(echo "$show_json" | jq -r '.data.episodes[] | .seasonNumber' | sort -n | uniq | tr '\n' ',' | sed 's/,$//')
 

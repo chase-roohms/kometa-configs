@@ -22,7 +22,7 @@ fi
 # Get the directory where this script is located
 script_dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 get_auth_token_script="$script_dir/../tvdb/get_auth_token.sh"
-get_show_script="$script_dir/../tvdb/get_show.sh"
+get_english_show_title_script="$script_dir/../tvdb/get_english_show_title.sh"
 
 # Validate that required scripts exist
 if [ ! -f "$get_auth_token_script" ]; then
@@ -30,8 +30,8 @@ if [ ! -f "$get_auth_token_script" ]; then
     exit 1
 fi
 
-if [ ! -f "$get_show_script" ]; then
-    echo "Error: get_show.sh not found at '$get_show_script'"
+if [ ! -f "$get_english_show_title_script" ]; then
+    echo "Error: get_english_show_title.sh not found at '$get_english_show_title_script'"
     exit 1
 fi
 
@@ -71,41 +71,25 @@ while IFS= read -r tvdb_id; do
     current=$((current + 1))
     echo "[$current/$total_shows] Processing TVDb ID: $tvdb_id"
     
-    # Get English translation of the series name from TVDb
-    response_file=$(mktemp)
-    http_code=$(curl -s -w "%{http_code}" -o "$response_file" --request GET \
-        --url "https://api4.thetvdb.com/v4/series/$tvdb_id/translations/eng" \
-        --header "Authorization: Bearer $auth_token")
+    # Get English title from TVDb (with trailing year removed)
+    series_name=$(bash "$get_english_show_title_script" "$tvdb_id" "$auth_token" 2>/dev/null)
     
-    if [[ "$http_code" -ge 200 && "$http_code" -lt 300 ]]; then
-        # Extract the English series name
-        series_name=$(jq -r '.data.name' < "$response_file")
-        rm -f "$response_file"
+    if [ $? -eq 0 ] && [ -n "$series_name" ] && [ "$series_name" != "null" ]; then
+        # Get current label_title
+        current_label_title=$(yq eval ".metadata.$tvdb_id.label_title" "$metadata_file")
         
-        if [ -n "$series_name" ] && [ "$series_name" != "null" ]; then
-            # Remove year in parentheses at the end of the title (e.g., "Archer (2009)" -> "Archer")
-            series_name=$(echo "$series_name" | sed -E 's/ \([0-9]{4}\)$//')
+        if [ "$current_label_title" != "$series_name" ]; then
+            echo "  Updating label_title: '$current_label_title' -> '$series_name'"
             
-            # Get current label_title
-            current_label_title=$(yq eval ".metadata.$tvdb_id.label_title" "$metadata_file")
-            
-            if [ "$current_label_title" != "$series_name" ]; then
-                echo "  Updating label_title: '$current_label_title' -> '$series_name'"
-                
-                # Update the label_title field
-                yq eval -i ".metadata.$tvdb_id.label_title = \"$series_name\"" "$metadata_file"
-                updated=$((updated + 1))
-            else
-                echo "  Label title already correct: '$series_name'"
-                skipped=$((skipped + 1))
-            fi
+            # Update the label_title field
+            yq eval -i ".metadata.$tvdb_id.label_title = \"$series_name\"" "$metadata_file"
+            updated=$((updated + 1))
         else
-            echo "  Error: Could not extract English series name from TVDb response"
-            errors=$((errors + 1))
+            echo "  Label title already correct: '$series_name'"
+            skipped=$((skipped + 1))
         fi
     else
-        rm -f "$response_file"
-        echo "  Error: Failed to fetch English translation from TVDb (HTTP $http_code)"
+        echo "  Error: Failed to get English title from TVDb"
         errors=$((errors + 1))
     fi
     
