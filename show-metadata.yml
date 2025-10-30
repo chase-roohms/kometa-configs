@@ -1748,9 +1748,9 @@ metadata:
       - Animation
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/445793
+        url_poster: https://theposterdb.com/api/assets/656628
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/656629
   402474:
     label_title: Hells Paradise
     sort_title: Hells Paradise
