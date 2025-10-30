@@ -97,11 +97,11 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/585696
   449390:
-    label_title: Adults (2025)
+    label_title: Adults
     sort_title: Adults (2025)
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/608801
-    tpdb_search: https://theposterdb.com/search?term=Adults+(2025)&section=shows
+    tpdb_search: https://theposterdb.com/search?term=Adults&section=shows
     genre.sync:
       - Comedy
     seasons:
@@ -340,11 +340,11 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/636391
   393221:
-    label_title: ARK - The Animated Series
+    label_title: 'ARK: The Animated Series'
     sort_title: ARK - The Animated Series
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/470903
-    tpdb_search: https://theposterdb.com/search?term=ARK+-+The+Animated+Series&section=shows
+    tpdb_search: https://theposterdb.com/search?term=ARK:+The+Animated+Series&section=shows
     genre.sync:
       - Animation
     seasons:
@@ -407,22 +407,22 @@ metadata:
       13:
         url_poster: https://theposterdb.com/api/assets/636042
   385925:
-    label_title: Avatar - The Last Airbender
+    label_title: 'Avatar: The Last Airbender'
     sort_title: Avatar - The Last Airbender
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/454341
-    tpdb_search: https://theposterdb.com/search?term=Avatar+-+The+Last+Airbender&section=shows
+    tpdb_search: https://theposterdb.com/search?term=Avatar:+The+Last+Airbender&section=shows
     genre.sync:
       - Fantasy
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/454342
   339353:
-    label_title: B - The Beginning
+    label_title: 'B: The Beginning'
     sort_title: B - The Beginning
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/396382
-    tpdb_search: https://theposterdb.com/search?term=B+-+The+Beginning&section=shows
+    tpdb_search: https://theposterdb.com/search?term=B:+The+Beginning&section=shows
     audio_language: ja-JP
     genre.sync:
       - Anime
@@ -986,11 +986,11 @@ metadata:
       12:
         url_poster: https://theposterdb.com/api/assets/445281
   384541:
-    label_title: Cyberpunk - Edgerunners
+    label_title: 'Cyberpunk: Edgerunners'
     sort_title: Cyberpunk - Edgerunners
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/248652
-    tpdb_search: https://theposterdb.com/search?term=Cyberpunk+-+Edgerunners&section=shows
+    tpdb_search: https://theposterdb.com/search?term=Cyberpunk:+Edgerunners&section=shows
     audio_language: ja-JP
     genre.sync:
       - Anime
@@ -1046,11 +1046,11 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/459974
   422712:
-    label_title: Daredevil - Born Again
+    label_title: 'Daredevil: Born Again'
     sort_title: Daredevil 2
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/581640
-    tpdb_search: https://theposterdb.com/search?term=Daredevil+-+Born+Again&section=shows
+    tpdb_search: https://theposterdb.com/search?term=Daredevil:+Born+Again&section=shows
     studio: Marvel Studios
     genre.sync:
       - Superhero
@@ -1163,11 +1163,11 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/576313
   458636:
-    label_title: Devil In The Family - The Fall of Ruby Franke
+    label_title: 'Devil In The Family: The Fall of Ruby Franke'
     sort_title: Devil In The Family - The Fall of Ruby Franke
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/580252
-    tpdb_search: https://theposterdb.com/search?term=Devil+In+The Family:+The+Fall+of+Ruby+Franke&section=shows
+    tpdb_search: https://theposterdb.com/search?term=Devil+In+The+Family:+The+Fall+of+Ruby+Franke&section=shows
     genre.sync:
       - Documentary
     seasons:
@@ -1231,11 +1231,11 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/408218
   354167:
-    label_title: Dororo (2019)
+    label_title: Dororo
     sort_title: Dororo
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/176662
-    tpdb_search: https://theposterdb.com/search?term=Dororo+(2019)&section=shows
+    tpdb_search: https://theposterdb.com/search?term=Dororo&section=shows
     audio_language: ja-JP
     studio: MAPPA
     genre.sync:
@@ -1244,11 +1244,11 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/176663
   367118:
-    label_title: Dune - Prophecy
+    label_title: 'Dune: Prophecy'
     sort_title: Dune - Prophecy
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/553330
-    tpdb_search: https://theposterdb.com/search?term=Dune+-+Prophecy&section=shows
+    tpdb_search: https://theposterdb.com/search?term=Dune:+Prophecy&section=shows
     genre.sync:
       - Action
       - Science Fiction
@@ -1378,7 +1378,7 @@ metadata:
     sort_title: Fall of Diddy
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/576845
-    tpdb_search: https://theposterdb.com/search?term=The+Falcon+and+The+Fall+of+Diddy&section=shows
+    tpdb_search: https://theposterdb.com/search?term=The+Fall+of+Diddy&section=shows
     genre.sync:
       - Documentary
     seasons:
@@ -1476,11 +1476,11 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/425490
   366972:
-    label_title: Foundation (2021)
+    label_title: Foundation
     sort_title: Foundation (2021)
     release_year: '2021'
     url_poster: https://theposterdb.com/api/assets/182327
-    tpdb_search: https://theposterdb.com/search?term=Foundation+(2021)&section=shows
+    tpdb_search: https://theposterdb.com/search?term=Foundation&section=shows
     genre.sync:
       - Drama
       - Science Fiction
@@ -1752,11 +1752,11 @@ metadata:
       2:
         url_poster: ''
   402474:
-    label_title: Hells Paradise
+    label_title: "Hell's Paradise"
     sort_title: Hells Paradise
     release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/341624
-    tpdb_search: https://theposterdb.com/search?term=Hells+Paradise&section=shows
+    tpdb_search: "https://theposterdb.com/search?term=Hell's+Paradise&section=shows"
     audio_language: ja-JP
     studio: MAPPA
     genre.sync:
@@ -2023,11 +2023,11 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/655877
   273106:
-    label_title: "Ja'mie - Private School Girl"
+    label_title: "Ja'mie: Private School Girl"
     sort_title: "Ja'mie - Private School Girl"
     release_year: '2013'
     url_poster: https://theposterdb.com/api/assets/630696
-    tpdb_search: "https://theposterdb.com/search?term=Ja'mie+-+Private+School+Girl&section=shows"
+    tpdb_search: "https://theposterdb.com/search?term=Ja'mie:+Private+School+Girl&section=shows"
     genre.sync:
       - Comedy
     seasons:
@@ -2091,11 +2091,11 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/219947
   377543:
-    label_title: JUJUTSU KAISEN
+    label_title: Jujutsu Kaisen
     sort_title: JUJUTSU KAISEN
     release_year: '2020'
     url_poster: https://theposterdb.com/api/assets/344217
-    tpdb_search: https://theposterdb.com/search?term=JUJUTSU+KAISEN&section=shows
+    tpdb_search: https://theposterdb.com/search?term=Jujutsu+Kaisen&section=shows
     audio_language: ja-JP
     studio: MAPPA
     genre.sync:
@@ -2179,11 +2179,11 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/619671
   456948:
-    label_title: The Kings of Tupelo - A Southern Crime Saga
+    label_title: 'The Kings of Tupelo: A Southern Crime Saga'
     sort_title: Kings of Tupelo - A Southern Crime Saga
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/630697
-    tpdb_search: https://theposterdb.com/search?term=The+Kings+of+Tupelo+-+A+Southern+Crime+Saga&section=shows
+    tpdb_search: https://theposterdb.com/search?term=The+Kings+of+Tupelo:+A+Southern+Crime+Saga&section=shows
     genre.sync:
       - Documentary
     seasons:
@@ -2266,7 +2266,7 @@ metadata:
     sort_title: Limitless with Chris Hemsworth
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/636913
-    tpdb_search: https://theposterdb.com/search?term=Limitless+With+Chris+Hemsworth&section=shows
+    tpdb_search: https://theposterdb.com/search?term=Limitless+with+Chris+Hemsworth&section=shows
     genre.sync:
       - Documentary
     seasons:
@@ -2485,11 +2485,11 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/619040
   367506:
-    label_title: The Lord of the Rings - The Rings of Power
+    label_title: 'The Lord of the Rings: The Rings of Power'
     sort_title: Lord of the Rings - The Rings of Power
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/210733
-    tpdb_search: https://theposterdb.com/search?term=The+Lord+of+the+Rings+-+The+Rings+of+Power&section=shows
+    tpdb_search: https://theposterdb.com/search?term=The+Lord+of+the+Rings:+The+Rings+of+Power&section=shows
     genre.sync:
       - Action
       - Fantasy
@@ -2501,11 +2501,11 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/513741
   376459:
-    label_title: Love Is Blind
+    label_title: Love is Blind
     sort_title: Love Is Blind
     release_year: '2020'
     url_poster: https://theposterdb.com/api/assets/574135
-    tpdb_search: https://theposterdb.com/search?term=Love+Is+Blind&section=shows
+    tpdb_search: https://theposterdb.com/search?term=Love+is+Blind&section=shows
     genre.sync:
       - Drama
       - Reality
@@ -2587,11 +2587,11 @@ metadata:
       6:
         url_poster: https://theposterdb.com/api/assets/538486
   364107:
-    label_title: Love Island US
+    label_title: Love Island USA
     sort_title: Love Island US
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/389968
-    tpdb_search: https://theposterdb.com/search?term=Love+Island+US&section=shows
+    tpdb_search: https://theposterdb.com/search?term=Love+Island+USA&section=shows
     genre.sync:
       - Drama
       - Reality
@@ -2611,11 +2611,11 @@ metadata:
       7:
         url_poster: https://theposterdb.com/api/assets/612122
   419263:
-    label_title: Love on the Spectrum U.S.
+    label_title: Love on the Spectrum (US)
     sort_title: Love on the Spectrum U.S.
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/589774
-    tpdb_search: https://theposterdb.com/search?term=Love+on+the+Spectrum+U.S.&section=shows
+    tpdb_search: https://theposterdb.com/search?term=Love+on+the+Spectrum+(US)&section=shows
     genre.sync:
       - Drama
       - Reality
@@ -2894,11 +2894,11 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/149886
   422598:
-    label_title: Monarch - Legacy of Monsters
+    label_title: 'Monarch: Legacy of Monsters'
     sort_title: Monarch - Legacy of Monsters
     release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/408312
-    tpdb_search: https://theposterdb.com/search?term=Monarch+-+Legacy+of+Monsters&section=shows
+    tpdb_search: https://theposterdb.com/search?term=Monarch:+Legacy+of+Monsters&section=shows
     genre.sync:
       - Action
       - Science Fiction
@@ -2910,7 +2910,7 @@ metadata:
     sort_title: Monster
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/647628
-    tpdb_search: https://theposterdb.com/search?term=Monster+(2022)&section=shows
+    tpdb_search: https://theposterdb.com/search?term=Monster&section=shows
     summary: An anthology series about high-profile crimes or killers that captured public attention and notoriety.
     genre.sync:
       - Documentary
@@ -3048,7 +3048,7 @@ metadata:
     sort_title: Narcos
     release_year: '2015'
     url_poster: https://theposterdb.com/api/assets/44816
-    tpdb_search: https://theposterdb.com/search?term=Narcossection=shows
+    tpdb_search: https://theposterdb.com/search?term=Narcos&section=shows
     genre.sync:
       - Drama
     seasons:
@@ -3206,11 +3206,11 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/648808
   421583:
-    label_title: Orb - On the Movements of the Earth
+    label_title: 'Orb: On the Movements of the Earth'
     sort_title: Orb - On the Movements of the Earth
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/627266
-    tpdb_search: https://theposterdb.com/search?term=Orb+-+On+the+Movements+of+the+Earth&section=shows
+    tpdb_search: https://theposterdb.com/search?term=Orb:+On+the+Movements+of+the+Earth&section=shows
     audio_language: ja-JP
     genre.sync:
       - Anime
@@ -3573,11 +3573,11 @@ metadata:
       8:
         url_poster: https://theposterdb.com/api/assets/608215
   420279:
-    label_title: Rick and Morty - The Anime
+    label_title: 'Rick and Morty: The Anime'
     sort_title: Rick and Morty - The Anime
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/516691
-    tpdb_search: https://theposterdb.com/search?term=Rick+and+Morty+-+The+Anime&section=shows
+    tpdb_search: https://theposterdb.com/search?term=Rick+and+Morty:+The+Anime&section=shows
     audio_language: ja-JP
     genre.sync:
       - Anime
@@ -3645,11 +3645,11 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/519405
   423732:
-    label_title: Sakamoto Days
+    label_title: SAKAMOTO DAYS
     sort_title: Sakamoto Days
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/561171
-    tpdb_search: https://theposterdb.com/search?term=Sakamoto+Days&section=shows
+    tpdb_search: https://theposterdb.com/search?term=SAKAMOTO+DAYS&section=shows
     audio_language: ja-JP
     genre.sync:
       - Anime
@@ -3883,11 +3883,11 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/549878
   368613:
-    label_title: She-Hulk - Attorney at Law
+    label_title: 'She-Hulk: Attorney at Law'
     sort_title: She-Hulk - Attorney at Law
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/519083
-    tpdb_search: https://theposterdb.com/search?term=She-Hulk+-+Attorney+at+Law&section=shows
+    tpdb_search: https://theposterdb.com/search?term=She-Hulk:+Attorney+at+Law&section=shows
     studio: Marvel Studios
     genre.sync:
       - Superhero
@@ -4147,11 +4147,11 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/619630
   393189:
-    label_title: Star Wars - Andor
+    label_title: Andor
     sort_title: Star Wars Andor
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/464543
-    tpdb_search: https://theposterdb.com/search?term=Star+Wars+-+Andor&section=shows
+    tpdb_search: https://theposterdb.com/search?term=Andor&section=shows
     studio: Lucasfilm Ltd
     genre.sync:
       - Action
@@ -4162,11 +4162,11 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/593196
   385376:
-    label_title: Star Wars - The Bad Batch
+    label_title: 'Star Wars: The Bad Batch'
     sort_title: Star Wars Bad Batch
     release_year: '2021'
     url_poster: https://theposterdb.com/api/assets/464546
-    tpdb_search: https://theposterdb.com/search?term=Star+Wars+-+The+Bad+Batch&section=shows
+    tpdb_search: https://theposterdb.com/search?term=Star+Wars:+The+Bad+Batch&section=shows
     studio: Lucasfilm Ltd
     genre.sync:
       - Action
@@ -4179,11 +4179,11 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/464549
   83268:
-    label_title: Star Wars - The Clone Wars
+    label_title: 'Star Wars: The Clone Wars'
     sort_title: Star Wars Clone Wars
     release_year: '2008'
     url_poster: https://theposterdb.com/api/assets/464734
-    tpdb_search: https://theposterdb.com/search?term=Star+Wars+-+The+Clone+Wars&section=shows
+    tpdb_search: https://theposterdb.com/search?term=Star+Wars:+The+Clone+Wars&section=shows
     studio: Lucasfilm Ltd
     genre.sync:
       - Action
@@ -4242,11 +4242,11 @@ metadata:
       2:
         url_poster: https://theposterdb.com/api/assets/133752
   420600:
-    label_title: Star Wars - Skeleton Crew
+    label_title: 'Star Wars: Skeleton Crew'
     sort_title: Star Wars Skeleton Crew
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/517365
-    tpdb_search: https://theposterdb.com/search?term=Star+Wars+-+Skeleton+Crew&section=shows
+    tpdb_search: https://theposterdb.com/search?term=Star+Wars:+Skeleton+Crew&section=shows
     studio: Lucasfilm Ltd
     genre.sync:
       - Action
@@ -4255,11 +4255,11 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/517365
   448549:
-    label_title: Star Wars - Tales of the Empire
+    label_title: 'Star Wars: Tales of the Empire'
     sort_title: Star Wars Tales of the Empire
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/481837
-    tpdb_search: https://theposterdb.com/search?term=Star+Wars+-+Tales+of+the+Empire&section=shows
+    tpdb_search: https://theposterdb.com/search?term=Star+Wars:+Tales+of+the+Empire&section=shows
     studio: Lucasfilm Ltd
     genre.sync:
       - Action
@@ -4268,11 +4268,11 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/481837
   420659:
-    label_title: Star Wars - Tales of the Jedi
+    label_title: 'Star Wars: Tales of the Jedi'
     sort_title: Star Wars Tales of the Jedi
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/464755
-    tpdb_search: https://theposterdb.com/search?term=Star+Wars+-+Tales+of+the+Jedi&section=shows
+    tpdb_search: https://theposterdb.com/search?term=Star+Wars:+Tales+of+the+Jedi&section=shows
     studio: Lucasfilm Ltd
     genre.sync:
       - Action
@@ -4281,11 +4281,11 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/464755
   462199:
-    label_title: Star Wars - Tales of the Underworld
+    label_title: 'Star Wars: Tales of the Underworld'
     sort_title: Star Wars Tales of the Underworld
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/594290
-    tpdb_search: https://theposterdb.com/search?term=Star+Wars+-+Tales+of+the+Underworld&section=shows
+    tpdb_search: https://theposterdb.com/search?term=Star+Wars:+Tales+of+the+Underworld&section=shows
     studio: Lucasfilm Ltd
     genre.sync:
       - Action
@@ -4294,11 +4294,11 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/594290
   393190:
-    label_title: Star Wars - Visions
+    label_title: 'Star Wars: Visions'
     sort_title: Star Wars Visions
     release_year: '2021'
     url_poster: https://theposterdb.com/api/assets/470291
-    tpdb_search: https://theposterdb.com/search?term=Star+Wars+-+Visions&section=shows
+    tpdb_search: https://theposterdb.com/search?term=Star+Wars:+Visions&section=shows
     audio_language: ja-JP
     studio: Lucasfilm Ltd
     genre.sync:
@@ -4567,11 +4567,11 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/630949
   341663:
-    label_title: Titans (2018)
+    label_title: Titans
     sort_title: Titans (2018)
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/36135
-    tpdb_search: https://theposterdb.com/search?term=Titans+(2018)&section=shows
+    tpdb_search: https://theposterdb.com/search?term=Titans&section=shows
     genre.sync:
       - Superhero
     seasons:
@@ -4584,11 +4584,11 @@ metadata:
       4:
         url_poster: https://theposterdb.com/api/assets/283692
   459453:
-    label_title: To be Hero X
+    label_title: To Be Hero X
     sort_title: To be Hero X
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/586062
-    tpdb_search: https://theposterdb.com/search?term=To+be+Hero+X&section=shows
+    tpdb_search: https://theposterdb.com/search?term=To+Be+Hero+X&section=shows
     audio_language: zh-CN
     genre.sync:
       - Anime
@@ -4675,11 +4675,11 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/623312
   428163:
-    label_title: The Traitors
+    label_title: The Traitors (US)
     sort_title: Traitors
     release_year: '2023'
     url_poster: https://theposterdb.com/api/assets/455294
-    tpdb_search: https://theposterdb.com/search?term=The+Traitors&section=shows
+    tpdb_search: https://theposterdb.com/search?term=The+Traitors+(US)&section=shows
     genre.sync:
       - Reality
     seasons:
@@ -4935,11 +4935,11 @@ metadata:
       4:
         url_poster: https://theposterdb.com/api/assets/245630
   367147:
-    label_title: What If...?
+    label_title: What If…?
     sort_title: What If...?
     release_year: '2021'
     url_poster: https://theposterdb.com/api/assets/518987
-    tpdb_search: https://theposterdb.com/search?term=What+If…!&section=shows
+    tpdb_search: https://theposterdb.com/search?term=What+If…?&section=shows
     studio: Marvel Studios
     genre.sync:
       - Animation
