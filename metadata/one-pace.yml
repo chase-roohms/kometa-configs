@@ -6,6 +6,7 @@ metadata:
     sort_title: One Pace
     release_year: '2013'
     url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/parent.png
+    summary:  "One Pace is a fan project that recuts the One Piece anime in an attempt to make the anime's pacing more bearable. The team accomplishes this by removing filler scenes not present in the source material. This process requires meticulous editing and quality control to ensure seamless music and transitions. One Pace includes everything that’s in the manga, plus a little bit of anime only content where it’s appropriate."
     audio_language: ja-JP
     genre.sync:
     - Anime
