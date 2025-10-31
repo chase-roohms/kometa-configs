@@ -5,14 +5,14 @@ metadata:
     label_title: One Pace
     sort_title: One Pace
     release_year: '2013'
-    url_poster: https://raw.githubusercontent.com/chase-roohms/posters/one-pace/parent.png
+    url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/parent.png
     audio_language: ja-JP
     genre.sync:
     - Anime
     seasons:
       1:
         title: Romance Dawn
-        url_poster: https://raw.githubusercontent.com/chase-roohms/posters/one-pace/seasons/1.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/1.png
         summary: 'Anime Episodes: 1 - 4, 19'
         episodes:
           1:
@@ -25,7 +25,7 @@ metadata:
             title: Episode 4
       2:
         title: Orange Town
-        url_poster: https://raw.githubusercontent.com/chase-roohms/posters/one-pace/seasons/2.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/2.png
         summary: 'Anime Episodes: 4 - 8'
         episodes:
           1:
@@ -36,7 +36,7 @@ metadata:
             title: Episode 7
       3:
         title: Syrup Village
-        url_poster: https://raw.githubusercontent.com/chase-roohms/posters/one-pace/seasons/3.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/3.png
         summary: 'Anime Episodes: 9 - 17'
         episodes:
           1:
@@ -55,14 +55,14 @@ metadata:
             title: Episode 14
       4:
         title: Gaimon
-        url_poster: https://raw.githubusercontent.com/chase-roohms/posters/one-pace/seasons/4.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/4.png
         summary: 'Anime Episodes: 18'
         episodes:
           1:
             title: Episode 15
       5:
         title: Baratie
-        url_poster: https://raw.githubusercontent.com/chase-roohms/posters/one-pace/seasons/5.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/5.png
         summary: 'Anime Episodes: 19 - 30'
         episodes:
           1:
@@ -85,7 +85,7 @@ metadata:
             title: Episode 24
       6:
         title: Arlong Park
-        url_poster: https://raw.githubusercontent.com/chase-roohms/posters/one-pace/seasons/6.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/6.png
         summary: 'Anime Episodes: 31 - 44'
         episodes:
           1:
@@ -110,14 +110,14 @@ metadata:
             title: Episode 34
       7:
         title: The Adventures of Buggy's Crew
-        url_poster: https://raw.githubusercontent.com/chase-roohms/posters/one-pace/seasons/7.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/7.png
         summary: 'Anime Episodes: 46 - 47'
         episodes:
           1:
             title: Episode 35
       8:
         title: Loguetown
-        url_poster: https://raw.githubusercontent.com/chase-roohms/posters/one-pace/seasons/8.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/8.png
         summary: 'Anime Episodes: 45, 48 - 53'
         episodes:
           1:
@@ -128,7 +128,7 @@ metadata:
             title: Episode 38
       9:
         title: Reverse Mountain
-        url_poster: https://raw.githubusercontent.com/chase-roohms/posters/one-pace/seasons/9.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/9.png
         summary: 'Anime Episodes: 55, 61 - 63'
         episodes:
           1:
@@ -137,7 +137,7 @@ metadata:
             title: Episode 40
       10:
         title: Whisky Peak
-        url_poster: https://raw.githubusercontent.com/chase-roohms/posters/one-pace/seasons/10.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/10.png
         summary: 'Anime Episodes: 64 - 67'
         episodes:
           1:
@@ -146,14 +146,14 @@ metadata:
             title: Episode 42
       11:
         title: The Trials of Koby-Meppo
-        url_poster: https://raw.githubusercontent.com/chase-roohms/posters/one-pace/seasons/11.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/11.png
         summary: 'Anime Episodes: 68 - 69'
         episodes:
           1:
             title: Episode 43
       12:
         title: Little Garden
-        url_poster: https://raw.githubusercontent.com/chase-roohms/posters/one-pace/seasons/12.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/12.png
         summary: 'Anime Episodes: 70 - 78'
         episodes:
           1:
@@ -168,7 +168,7 @@ metadata:
             title: Episode 48
       13:
         title: Drum Island
-        url_poster: https://raw.githubusercontent.com/chase-roohms/posters/one-pace/seasons/13.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/13.png
         summary: 'Anime Episodes: 78 - 91'
         episodes:
           1:
@@ -189,7 +189,7 @@ metadata:
             title: Episode 56
       14:
         title: Arabasta
-        url_poster: https://raw.githubusercontent.com/chase-roohms/posters/one-pace/seasons/14.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/14.png
         summary: 'Anime Episodes: 92 - 130'
         episodes:
           1:
@@ -236,7 +236,7 @@ metadata:
             title: Episode 77
       15:
         title: Jaya
-        url_poster: https://raw.githubusercontent.com/chase-roohms/posters/one-pace/seasons/15.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/15.png
         summary: 'Anime Episodes: 144 - 152'
         episodes:
           1:
@@ -257,7 +257,7 @@ metadata:
             title: Episode 85
       16:
         title: Skypiea
-        url_poster: https://raw.githubusercontent.com/chase-roohms/posters/one-pace/seasons/16.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/16.png
         summary: 'Anime Episodes: 153 - 195, 203'
         episodes:
           1:
@@ -312,7 +312,7 @@ metadata:
             title: Episode 110
       17:
         title: Long Ring Long Land
-        url_poster: https://raw.githubusercontent.com/chase-roohms/posters/one-pace/seasons/17.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/17.png
         summary: 'Anime Episodes: 207 - 219, 226 - 228'
         episodes:
           1:
@@ -329,7 +329,7 @@ metadata:
             title: Episode 116
       18:
         title: Water Seven
-        url_poster: https://raw.githubusercontent.com/chase-roohms/posters/one-pace/seasons/18.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/18.png
         summary: 'Anime Episodes: 229 - 263'
         episodes:
           1:
@@ -374,7 +374,7 @@ metadata:
             title: Episode 136
       19:
         title: Enies Lobby
-        url_poster: https://raw.githubusercontent.com/chase-roohms/posters/one-pace/seasons/19.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/19.png
         summary: 'Anime Episodes: 263 - 312'
         episodes:
           1:
@@ -429,7 +429,7 @@ metadata:
             title: Episode 161
       20:
         title: Post-Enies Lobby
-        url_poster: https://raw.githubusercontent.com/chase-roohms/posters/one-pace/seasons/20.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/20.png
         summary: 'Anime Episodes: 313 - 325'
         episodes:
           1:
@@ -444,7 +444,7 @@ metadata:
             title: Episode 166
       21:
         title: Thriller Bark
-        url_poster: https://raw.githubusercontent.com/chase-roohms/posters/one-pace/seasons/21.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/21.png
         summary: 'Anime Episodes: 337 - 381'
         episodes:
           1:
@@ -493,7 +493,7 @@ metadata:
             title: Episode 188
       22:
         title: Sabaody Archipelago
-        url_poster: https://raw.githubusercontent.com/chase-roohms/posters/one-pace/seasons/22.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/22.png
         summary: 'Anime Episodes: 385 - 405'
         episodes:
           1:
@@ -520,7 +520,7 @@ metadata:
             title: Episode 199
       23:
         title: Amazon Lily
-        url_poster: https://raw.githubusercontent.com/chase-roohms/posters/one-pace/seasons/23.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/23.png
         summary: 'Anime Episodes: 408 - 421'
         episodes:
           1:
@@ -535,7 +535,7 @@ metadata:
             title: Episode 204
       24:
         title: Impel Down
-        url_poster: https://raw.githubusercontent.com/chase-roohms/posters/one-pace/seasons/24.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/24.png
         summary: 'Anime Episodes: 422 - 452'
         episodes:
           1:
@@ -560,14 +560,14 @@ metadata:
             title: Episode 214
       25:
         title: The Adventures of the Straw Hats
-        url_poster: https://raw.githubusercontent.com/chase-roohms/posters/one-pace/seasons/25.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/25.png
         summary: 'Anime Episodes: 453 - 456'
         episodes:
           1:
             title: Episode 215
       26:
         title: Marineford
-        url_poster: https://raw.githubusercontent.com/chase-roohms/posters/one-pace/seasons/26.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/26.png
         summary: 'Anime Episodes: 457 - 489'
         episodes:
           1:
@@ -606,7 +606,7 @@ metadata:
             title: Episode 232
       27:
         title: Post-War
-        url_poster: https://raw.githubusercontent.com/chase-roohms/posters/one-pace/seasons/27.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/27.png
         summary: 'Anime Episodes: 490 - 516'
         episodes:
           1:
@@ -627,7 +627,7 @@ metadata:
             title: Episode 240
       28:
         title: Return to Sabaody
-        url_poster: https://raw.githubusercontent.com/chase-roohms/posters/one-pace/seasons/28.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/28.png
         summary: 'Anime Episodes: 517 - 522'
         episodes:
           1:
@@ -638,7 +638,7 @@ metadata:
             title: Episode 243
       29:
         title: Fishman Island
-        url_poster: https://raw.githubusercontent.com/chase-roohms/posters/one-pace/seasons/29.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/29.png
         summary: 'Anime Episodes: 523 - 574'
         episodes:
           1:
@@ -691,7 +691,7 @@ metadata:
             title: Episode 267
       30:
         title: Punk Hazard
-        url_poster: https://raw.githubusercontent.com/chase-roohms/posters/one-pace/seasons/30.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/30.png
         summary: 'Anime Episodes: 579 - 626, 628'
         episodes:
           1:
@@ -740,7 +740,7 @@ metadata:
             title: Episode 289
       31:
         title: Dressrosa
-        url_poster: https://raw.githubusercontent.com/chase-roohms/posters/one-pace/seasons/31.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/31.png
         summary: 'Anime Episodes: 629 - 746'
         episodes:
           1:
@@ -841,7 +841,7 @@ metadata:
             title: Episode 337
       32:
         title: Zou
-        url_poster: https://raw.githubusercontent.com/chase-roohms/posters/one-pace/seasons/32.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/32.png
         summary: 'Anime Episodes: 751 - 776'
         episodes:
           1:
@@ -866,7 +866,7 @@ metadata:
             title: Episode 347
       33:
         title: Whole Cake Island
-        url_poster: https://raw.githubusercontent.com/chase-roohms/posters/one-pace/seasons/33.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/33.png
         summary: 'Anime Episodes: 777 - 877'
         episodes:
           1:
@@ -949,7 +949,7 @@ metadata:
             title: Episode 386
       34:
         title: Reverie
-        url_poster: https://raw.githubusercontent.com/chase-roohms/posters/one-pace/seasons/34.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/34.png
         summary: 'Anime Episodes: 878 - 889'
         episodes:
           1:
@@ -960,7 +960,7 @@ metadata:
             title: Episode 389
       35:
         title: Wano (WIP)
-        url_poster: https://raw.githubusercontent.com/chase-roohms/posters/one-pace/seasons/35.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/35.png
         summary: 'Anime Episodes: 890 - 1085'
         episodes:
           1:
@@ -1075,7 +1075,7 @@ metadata:
             title: Episode 444
       36:
         title: Egghead (WIP)
-        url_poster: https://raw.githubusercontent.com/chase-roohms/posters/one-pace/seasons/36.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/36.png
         summary: 'Anime Episodes: 1086 —'
         episodes:
           1:
