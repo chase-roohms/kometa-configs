@@ -480,6 +480,7 @@ libraries:
       use_separator: false
     metadata_files:
       - repo: show-metadata
+      - repo: metadata/one-pace.yml
     collection_files:
       - repo: collections/shows
       - repo: collections/shared
