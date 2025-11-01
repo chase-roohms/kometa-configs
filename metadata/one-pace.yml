@@ -22,71 +22,94 @@ metadata:
         summary: 'The Romance Dawn arc, covering the anime episodes: 1 - 4, 19'
         episodes:
           1:
-            title: Episode 1
+            title: Romance Dawn Pt. 1 (Episode of East Blue, and episode 312)
+            summary: 'Covers Anime episode(s): Episode of East Blue, and episode 312'
           2:
-            title: Episode 2
+            title: Romance Dawn Pt. 2 (Episodes 1)
+            summary: 'Covers Anime episode(s): 1'
           3:
-            title: Episode 3
+            title: Romance Dawn Pt. 3 (Episodes 2, 19)
+            summary: 'Covers Anime episode(s): 2, 19'
           4:
-            title: Episode 4
+            title: Romance Dawn Pt. 4 (Episodes 3)
+            summary: 'Covers Anime episode(s): 3'
       2:
         title: Orange Town
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/2.png
         summary: 'The Orange Town arc, covering the anime episodes: 4 - 8'
         episodes:
           1:
-            title: Episode 5
+            title: Orange Town Pt. 1 (Episodes 4-6)
+            summary: 'Covers Anime episode(s): 4-6'
           2:
-            title: Episode 6
+            title: Orange Town Pt. 2 (Episodes 6-7)
+            summary: 'Covers Anime episode(s): 6-7'
           3:
-            title: Episode 7
+            title: Orange Town Pt. 3 (Episodes 8)
+            summary: 'Covers Anime episode(s): 8'
       3:
         title: Syrup Village
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/3.png
         summary: 'The Syrup Village arc, covering the anime episodes: 9 - 17'
         episodes:
           1:
-            title: Episode 8
+            title: Syrup Village Pt. 1 (Episodes 9-10)
+            summary: 'Covers Anime episode(s): 9-10'
           2:
-            title: Episode 9
+            title: Syrup Village Pt. 2 (Episodes 10-11)
+            summary: 'Covers Anime episode(s): 10-11'
           3:
-            title: Episode 10
+            title: Syrup Village Pt. 3 (Episodes 12-13)
+            summary: 'Covers Anime episode(s): 12-13'
           4:
-            title: Episode 11
+            title: Syrup Village Pt. 4 (Episodes 13-14)
+            summary: 'Covers Anime episode(s): 13-14'
           5:
-            title: Episode 12
+            title: Syrup Village Pt. 5 (Episodes 15-16)
+            summary: 'Covers Anime episode(s): 15-16'
           6:
-            title: Episode 13
+            title: Syrup Village Pt. 6 (Episodes 16-17)
+            summary: 'Covers Anime episode(s): 16-17'
           7:
-            title: Episode 14
+            title: Syrup Village Pt. 7 (Episodes 17)
+            summary: 'Covers Anime episode(s): 17'
       4:
         title: Gaimon
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/4.png
         summary: 'The Gaimon arc, covering the anime episodes: 18'
         episodes:
           1:
-            title: Episode 15
+            title: Gaimon Pt. 1 (Episodes 18)
+            summary: 'Covers Anime episode(s): 18'
       5:
         title: Baratie
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/5.png
         summary: 'The Baratie arc, covering the anime episodes: 19 - 30'
         episodes:
           1:
-            title: Episode 16
+            title: Baratie Pt. 1 (Episodes 19-21)
+            summary: 'Covers Anime episode(s): 19-21'
           2:
-            title: Episode 17
+            title: Baratie Pt. 2 (Episodes 21-23)
+            summary: 'Covers Anime episode(s): 21-23'
           3:
-            title: Episode 18
+            title: Baratie Pt. 3 (Episodes 23-24, 29, 135)
+            summary: 'Covers Anime episode(s): 23-24, 29, 135'
           4:
-            title: Episode 19
+            title: Baratie Pt. 4 (Episodes 25)
+            summary: 'Covers Anime episode(s): 25'
           5:
-            title: Episode 20
+            title: Baratie Pt. 5 (Episodes 26)
+            summary: 'Covers Anime episode(s): 26'
           6:
-            title: Episode 21
+            title: Baratie Pt. 6 (Episodes 27-28)
+            summary: 'Covers Anime episode(s): 27-28'
           7:
-            title: Episode 22
+            title: Baratie Pt. 7 (Episodes 28-29)
+            summary: 'Covers Anime episode(s): 28-29'
           8:
-            title: Episode 23
+            title: Baratie Pt. 8 (Episodes 30)
+            summary: 'Covers Anime episode(s): 30'
           9:
             title: Episode 24
       6:
@@ -95,25 +118,35 @@ metadata:
         summary: 'The Arlong Park arc, covering the anime episodes: 31 - 44'
         episodes:
           1:
-            title: Episode 25
+            title: Arlong Park Pt. 1 (Episodes 31-32)
+            summary: 'Covers Anime episode(s): 31-32'
           2:
-            title: Episode 26
+            title: Arlong Park Pt. 2 (Episodes 32-33)
+            summary: 'Covers Anime episode(s): 32-33'
           3:
-            title: Episode 27
+            title: Arlong Park Pt. 3 (Episodes 33-34)
+            summary: 'Covers Anime episode(s): 33-34'
           4:
-            title: Episode 28
+            title: Arlong Park Pt. 4 (Episodes 34-36)
+            summary: 'Covers Anime episode(s): 34-36'
           5:
-            title: Episode 29
+            title: Arlong Park Pt. 5 (Episodes 36-37)
+            summary: 'Covers Anime episode(s): 36-37'
           6:
-            title: Episode 30
+            title: Arlong Park Pt. 6 (Episodes 38-39)
+            summary: 'Covers Anime episode(s): 38-39'
           7:
-            title: Episode 31
+            title: Arlong Park Pt. 7 (Episodes 39-40)
+            summary: 'Covers Anime episode(s): 39-40'
           8:
-            title: Episode 32
+            title: Arlong Park Pt. 8 (Episodes 40-42)
+            summary: 'Covers Anime episode(s): 40-42'
           9:
-            title: Episode 33
+            title: Arlong Park Pt. 9 (Episodes 42-43)
+            summary: 'Covers Anime episode(s): 42-43'
           10:
-            title: Episode 34
+            title: Arlong Park Pt. 10 (Episodes 43-44)
+            summary: 'Covers Anime episode(s): 43-44'
       7:
         title: The Adventures of Buggy's Crew
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/7.png
@@ -121,18 +154,22 @@ metadata:
           46 - 47'
         episodes:
           1:
-            title: Episode 35
+            title: The Adventures of Buggy's Crew Pt. 1 (Episodes 46-47)
+            summary: 'Covers Anime episode(s): 46-47'
       8:
         title: Loguetown
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/8.png
         summary: 'The Loguetown arc, covering the anime episodes: 45, 48 - 53'
         episodes:
           1:
-            title: Episode 36
+            title: Loguetown Pt. 1 (Episodes 45,48-49)
+            summary: 'Covers Anime episode(s): 45,48-49'
           2:
-            title: Episode 37
+            title: Loguetown Pt. 2 (Episodes 48, 50)
+            summary: 'Covers Anime episode(s): 48, 50'
           3:
-            title: Episode 38
+            title: Loguetown Pt. 3 (Episodes 52-53)
+            summary: 'Covers Anime episode(s): 52-53'
       9:
         title: Reverse Mountain
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/9.png
@@ -140,18 +177,22 @@ metadata:
           63'
         episodes:
           1:
-            title: Episode 39
+            title: Reverse Mountain Pt. 1 (Episodes 54-55,61-62)
+            summary: 'Covers Anime episode(s): 54-55,61-62'
           2:
-            title: Episode 40
+            title: Reverse Mountain Pt. 2 (Episodes 62-63)
+            summary: 'Covers Anime episode(s): 62-63'
       10:
         title: Whisky Peak
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/10.png
         summary: 'The Whisky Peak arc, covering the anime episodes: 64 - 67'
         episodes:
           1:
-            title: Episode 41
+            title: Whisky Peak Pt. 1 (Episodes 64-65)
+            summary: 'Covers Anime episode(s): 64-65'
           2:
-            title: Episode 42
+            title: Whisky Peak Pt. 2 (Episodes 65-67)
+            summary: 'Covers Anime episode(s): 65-67'
       11:
         title: The Trials of Koby-Meppo
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/11.png
@@ -159,166 +200,234 @@ metadata:
           - 69'
         episodes:
           1:
-            title: Episode 43
+            title: The Trials of Koby-Meppo Pt. 1 (Episodes 68-69)
+            summary: 'Covers Anime episode(s): 68-69'
       12:
         title: Little Garden
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/12.png
         summary: 'The Little Garden arc, covering the anime episodes: 70 - 78'
         episodes:
           1:
-            title: Episode 44
+            title: Little Garden Pt. 1 (Episodes 70-71)
+            summary: 'Covers Anime episode(s): 70-71'
           2:
-            title: Episode 45
+            title: Little Garden Pt. 2 (Episodes 71-72)
+            summary: 'Covers Anime episode(s): 71-72'
           3:
-            title: Episode 46
+            title: Little Garden Pt. 3 (Episodes 73-74)
+            summary: 'Covers Anime episode(s): 73-74'
           4:
-            title: Episode 47
+            title: Little Garden Pt. 4 (Episodes 75-76)
+            summary: 'Covers Anime episode(s): 75-76'
           5:
-            title: Episode 48
+            title: Little Garden Pt. 5 (Episodes 77-79)
+            summary: 'Covers Anime episode(s): 77-79'
       13:
         title: Drum Island
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/13.png
         summary: 'The Drum Island arc, covering the anime episodes: 78 - 91'
         episodes:
           1:
-            title: Episode 49
+            title: Drum Island Pt. 1 (Episodes 78-79)
+            summary: 'Covers Anime episode(s): 78-79'
           2:
-            title: Episode 50
+            title: Drum Island Pt. 2 (Episodes 80-81)
+            summary: 'Covers Anime episode(s): 80-81'
           3:
-            title: Episode 51
+            title: Drum Island Pt. 3 (Episodes 82-83)
+            summary: 'Covers Anime episode(s): 82-83'
           4:
-            title: Episode 52
+            title: Drum Island Pt. 4 (Episodes 84)
+            summary: 'Covers Anime episode(s): 84'
           5:
-            title: Episode 53
+            title: Drum Island Pt. 5 (Episodes 85-86)
+            summary: 'Covers Anime episode(s): 85-86'
           6:
-            title: Episode 54
+            title: Drum Island Pt. 6 (Episodes 83, 86-88)
+            summary: 'Covers Anime episode(s): 83, 86-88'
           7:
-            title: Episode 55
+            title: Drum Island Pt. 7 (Episodes 88-90)
+            summary: 'Covers Anime episode(s): 88-90'
           8:
-            title: Episode 56
+            title: Drum Island Pt. 8 (Episodes 90-91)
+            summary: 'Covers Anime episode(s): 90-91'
       14:
         title: Arabasta
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/14.png
         summary: 'The Arabasta arc, covering the anime episodes: 92 - 130'
         episodes:
           1:
-            title: Episode 57
+            title: Arabasta Pt. 1 (Episodes 92)
+            summary: 'Covers Anime episode(s): 92'
           2:
-            title: Episode 58
+            title: Arabasta Pt. 2 (Episodes 93-95)
+            summary: 'Covers Anime episode(s): 93-95'
           3:
-            title: Episode 59
+            title: Arabasta Pt. 3 (Episodes 96-98)
+            summary: 'Covers Anime episode(s): 96-98'
           4:
-            title: Episode 60
+            title: Arabasta Pt. 4 (Episodes 98, 100-101, 103)
+            summary: 'Covers Anime episode(s): 98, 100-101, 103'
           5:
-            title: Episode 61
+            title: Arabasta Pt. 5 (Episodes 100, 103-104)
+            summary: 'Covers Anime episode(s): 100, 103-104'
           6:
-            title: Episode 62
+            title: Arabasta Pt. 6 (Episodes 105)
+            summary: 'Covers Anime episode(s): 105'
           7:
-            title: Episode 63
+            title: Arabasta Pt. 7 (Episodes 106)
+            summary: 'Covers Anime episode(s): 106'
           8:
-            title: Episode 64
+            title: Arabasta Pt. 8 (Episodes 107-108)
+            summary: 'Covers Anime episode(s): 107-108'
           9:
-            title: Episode 65
+            title: Arabasta Pt. 9 (Episodes 109-110)
+            summary: 'Covers Anime episode(s): 109-110'
           10:
-            title: Episode 66
+            title: Arabasta Pt. 10 (Episodes 111-112)
+            summary: 'Covers Anime episode(s): 111-112'
           11:
-            title: Episode 67
+            title: Arabasta Pt. 11 (Episodes 113-114)
+            summary: 'Covers Anime episode(s): 113-114'
           12:
-            title: Episode 68
+            title: Arabasta Pt. 12 (Episodes 115-116)
+            summary: 'Covers Anime episode(s): 115-116'
           13:
-            title: Episode 69
+            title: Arabasta Pt. 13 (Episodes 113, 116-118)
+            summary: 'Covers Anime episode(s): 113, 116-118'
           14:
-            title: Episode 70
+            title: Arabasta Pt. 14 (Episodes 118-119)
+            summary: 'Covers Anime episode(s): 118-119'
           15:
-            title: Episode 71
+            title: Arabasta Pt. 15 (Episodes 120-121)
+            summary: 'Covers Anime episode(s): 120-121'
           16:
-            title: Episode 72
+            title: Arabasta Pt. 16 (Episodes 121-122)
+            summary: 'Covers Anime episode(s): 121-122'
           17:
-            title: Episode 73
+            title: Arabasta Pt. 17 (Episodes 123-124)
+            summary: 'Covers Anime episode(s): 123-124'
           18:
-            title: Episode 74
+            title: Arabasta Pt. 18 (Episodes 125-126)
+            summary: 'Covers Anime episode(s): 125-126'
           19:
-            title: Episode 75
+            title: Arabasta Pt. 19 (Episodes 127-128)
+            summary: 'Covers Anime episode(s): 127-128'
           20:
-            title: Episode 76
+            title: Arabasta Pt. 20 (Episodes 128-129)
+            summary: 'Covers Anime episode(s): 128-129'
           21:
-            title: Episode 77
+            title: Arabasta Pt. 21 (Episodes 130)
+            summary: 'Covers Anime episode(s): 130'
       15:
         title: Jaya
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/15.png
         summary: 'The Jaya arc, covering the anime episodes: 144 - 152'
         episodes:
           1:
-            title: Episode 78
+            title: Jaya Pt. 1 (Episodes 143-144)
+            summary: 'Covers Anime episode(s): 143-144'
           2:
-            title: Episode 79
+            title: Jaya Pt. 2 (Episodes 145-146)
+            summary: 'Covers Anime episode(s): 145-146'
           3:
-            title: Episode 80
+            title: Jaya Pt. 3 (Episodes 147)
+            summary: 'Covers Anime episode(s): 147'
           4:
-            title: Episode 81
+            title: Jaya Pt. 4 (Episodes 148)
+            summary: 'Covers Anime episode(s): 148'
           5:
-            title: Episode 82
+            title: Jaya Pt. 5 (Episodes 149)
+            summary: 'Covers Anime episode(s): 149'
           6:
-            title: Episode 83
+            title: Jaya Pt. 6 (Episodes 150)
+            summary: 'Covers Anime episode(s): 150'
           7:
-            title: Episode 84
+            title: Jaya Pt. 7 (Episodes 145,151)
+            summary: 'Covers Anime episode(s): 145,151'
           8:
-            title: Episode 85
+            title: Jaya Pt. 8 (Episodes 152)
+            summary: 'Covers Anime episode(s): 152'
       16:
         title: Skypiea
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/16.png
         summary: 'The Skypiea arc, covering the anime episodes: 153 - 195, 203'
         episodes:
           1:
-            title: Episode 86
+            title: Skypiea Pt. 1 (Episodes 153)
+            summary: 'Covers Anime episode(s): 153'
           2:
-            title: Episode 87
+            title: Skypiea Pt. 2 (Episodes 154)
+            summary: 'Covers Anime episode(s): 154'
           3:
-            title: Episode 88
+            title: Skypiea Pt. 3 (Episodes 155-156)
+            summary: 'Covers Anime episode(s): 155-156'
           4:
-            title: Episode 89
+            title: Skypiea Pt. 4 (Episodes 157-158)
+            summary: 'Covers Anime episode(s): 157-158'
           5:
-            title: Episode 90
+            title: Skypiea Pt. 5 (Episodes 159-160)
+            summary: 'Covers Anime episode(s): 159-160'
           6:
-            title: Episode 91
+            title: Skypiea Pt. 6 (Episodes 161-163)
+            summary: 'Covers Anime episode(s): 161-163'
           7:
-            title: Episode 92
+            title: Skypiea Pt. 7 (Episodes 163-164)
+            summary: 'Covers Anime episode(s): 163-164'
           8:
-            title: Episode 93
+            title: Skypiea Pt. 8 (Episodes 165-167)
+            summary: 'Covers Anime episode(s): 165-167'
           9:
-            title: Episode 94
+            title: Skypiea Pt. 9 (Episodes 168-169)
+            summary: 'Covers Anime episode(s): 168-169'
           10:
-            title: Episode 95
+            title: Skypiea Pt. 10 (Episodes 170-171)
+            summary: 'Covers Anime episode(s): 170-171'
           11:
-            title: Episode 96
+            title: Skypiea Pt. 11 (Episodes 171-173)
+            summary: 'Covers Anime episode(s): 171-173'
           12:
-            title: Episode 97
+            title: Skypiea Pt. 12 (Episodes 172-174)
+            summary: 'Covers Anime episode(s): 172-174'
           13:
-            title: Episode 98
+            title: Skypiea Pt. 13 (Episodes 175-176)
+            summary: 'Covers Anime episode(s): 175-176'
           14:
-            title: Episode 99
+            title: Skypiea Pt. 14 (Episodes 177-179)
+            summary: 'Covers Anime episode(s): 177-179'
           15:
-            title: Episode 100
+            title: Skypiea Pt. 15 (Episodes 179-181)
+            summary: 'Covers Anime episode(s): 179-181'
           16:
-            title: Episode 101
+            title: Skypiea Pt. 16 (Episodes 181-182)
+            summary: 'Covers Anime episode(s): 181-182'
           17:
-            title: Episode 102
+            title: Skypiea Pt. 17 (Episodes 183-185)
+            summary: 'Covers Anime episode(s): 183-185'
           18:
-            title: Episode 103
+            title: Skypiea Pt. 18 (Episodes 185-186)
+            summary: 'Covers Anime episode(s): 185-186'
           19:
-            title: Episode 104
+            title: Skypiea Pt. 19 (Episodes 187-188)
+            summary: 'Covers Anime episode(s): 187-188'
           20:
-            title: Episode 105
+            title: Skypiea Pt. 20 (Episodes 188)
+            summary: 'Covers Anime episode(s): 188'
           21:
-            title: Episode 106
+            title: Skypiea Pt. 21 (Episodes 189-190)
+            summary: 'Covers Anime episode(s): 189-190'
           22:
-            title: Episode 107
+            title: Skypiea Pt. 22 (Episodes 191-192)
+            summary: 'Covers Anime episode(s): 191-192'
           23:
-            title: Episode 108
+            title: Skypiea Pt. 23 (Episodes 193)
+            summary: 'Covers Anime episode(s): 193'
           24:
-            title: Episode 109
+            title: Skypiea Pt. 24 (Episodes 194)
+            summary: 'Covers Anime episode(s): 194'
           25:
-            title: Episode 110
+            title: Skypiea Pt. 25 (Episodes 195, 203, 207)
+            summary: 'Covers Anime episode(s): 195, 203, 207'
       17:
         title: Long Ring Long Land
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/17.png
@@ -326,181 +435,259 @@ metadata:
           219, 226 - 228'
         episodes:
           1:
-            title: Episode 111
+            title: Long Ring Long Land Pt. 1 (Episodes 207-209)
+            summary: 'Covers Anime episode(s): 207-209'
           2:
-            title: Episode 112
+            title: Long Ring Long Land Pt. 2 (Episodes 209-210)
+            summary: 'Covers Anime episode(s): 209-210'
           3:
-            title: Episode 113
+            title: Long Ring Long Land Pt. 3 (Episodes 211-212)
+            summary: 'Covers Anime episode(s): 211-212'
           4:
-            title: Episode 114
+            title: Long Ring Long Land Pt. 4 (Episodes 212, 215, 217-218)
+            summary: 'Covers Anime episode(s): 212, 215, 217-218'
           5:
-            title: Episode 115
+            title: Long Ring Long Land Pt. 5 (Episodes 219, 226)
+            summary: 'Covers Anime episode(s): 219, 226'
           6:
-            title: Episode 116
+            title: Long Ring Long Land Pt. 6 (Episodes 227-228)
+            summary: 'Covers Anime episode(s): 227-228'
       18:
         title: Water Seven
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/18.png
         summary: 'The Water Seven arc, covering the anime episodes: 229 - 263'
         episodes:
           1:
-            title: Episode 117
+            title: Water Seven Pt. 1 (Episodes 228-230)
+            summary: 'Covers Anime episode(s): 228-230'
           2:
-            title: Episode 118
+            title: Water Seven Pt. 2 (Episodes 229-231)
+            summary: 'Covers Anime episode(s): 229-231'
           3:
-            title: Episode 119
+            title: Water Seven Pt. 3 (Episodes 232-234)
+            summary: 'Covers Anime episode(s): 232-234'
           4:
-            title: Episode 120
+            title: Water Seven Pt. 4 (Episodes 234-235)
+            summary: 'Covers Anime episode(s): 234-235'
           5:
-            title: Episode 121
+            title: Water Seven Pt. 5 (Episodes 235-236)
+            summary: 'Covers Anime episode(s): 235-236'
           6:
-            title: Episode 122
+            title: Water Seven Pt. 6 (Episodes 237-239)
+            summary: 'Covers Anime episode(s): 237-239'
           7:
-            title: Episode 123
+            title: Water Seven Pt. 7 (Episodes 239-240)
+            summary: 'Covers Anime episode(s): 239-240'
           8:
-            title: Episode 124
+            title: Water Seven Pt. 8 (Episodes 240-241)
+            summary: 'Covers Anime episode(s): 240-241'
           9:
-            title: Episode 125
+            title: Water Seven Pt. 9 (Episodes 242-243)
+            summary: 'Covers Anime episode(s): 242-243'
           10:
-            title: Episode 126
+            title: Water Seven Pt. 10 (Episodes 244-246)
+            summary: 'Covers Anime episode(s): 244-246'
           11:
-            title: Episode 127
+            title: Water Seven Pt. 11 (Episodes 246-248)
+            summary: 'Covers Anime episode(s): 246-248'
           12:
-            title: Episode 128
+            title: Water Seven Pt. 12 (Episodes 248-249)
+            summary: 'Covers Anime episode(s): 248-249'
           13:
-            title: Episode 129
+            title: Water Seven Pt. 13 (Episodes 249-250)
+            summary: 'Covers Anime episode(s): 249-250'
           14:
-            title: Episode 130
+            title: Water Seven Pt. 14 (Episodes 250-251, 256, 320)
+            summary: 'Covers Anime episode(s): 250-251, 256, 320'
           15:
-            title: Episode 131
+            title: Water Seven Pt. 15 (Episodes 252-254)
+            summary: 'Covers Anime episode(s): 252-254'
           16:
-            title: Episode 132
+            title: Water Seven Pt. 16 (Episodes 254-255)
+            summary: 'Covers Anime episode(s): 254-255'
           17:
-            title: Episode 133
+            title: Water Seven Pt. 17 (Episodes 256-257)
+            summary: 'Covers Anime episode(s): 256-257'
           18:
-            title: Episode 134
+            title: Water Seven Pt. 18 (Episodes 258-259)
+            summary: 'Covers Anime episode(s): 258-259'
           19:
-            title: Episode 135
+            title: Water Seven Pt. 19 (Episodes 259-261)
+            summary: 'Covers Anime episode(s): 259-261'
           20:
-            title: Episode 136
+            title: Water Seven Pt. 20 (Episodes 262-263)
+            summary: 'Covers Anime episode(s): 262-263'
       19:
         title: Enies Lobby
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/19.png
         summary: 'The Enies Lobby arc, covering the anime episodes: 263 - 312'
         episodes:
           1:
-            title: Episode 137
+            title: Enies Lobby Pt. 1 (Episodes 263-265)
+            summary: 'Covers Anime episode(s): 263-265'
           2:
-            title: Episode 138
+            title: Enies Lobby Pt. 2 (Episodes 265-266)
+            summary: 'Covers Anime episode(s): 265-266'
           3:
-            title: Episode 139
+            title: Enies Lobby Pt. 3 (Episodes 266-267)
+            summary: 'Covers Anime episode(s): 266-267'
           4:
-            title: Episode 140
+            title: Enies Lobby Pt. 4 (Episodes 268-269)
+            summary: 'Covers Anime episode(s): 268-269'
           5:
-            title: Episode 141
+            title: Enies Lobby Pt. 5 (Episodes 269-271)
+            summary: 'Covers Anime episode(s): 269-271'
           6:
-            title: Episode 142
+            title: Enies Lobby Pt. 6 (Episodes 271-273)
+            summary: 'Covers Anime episode(s): 271-273'
           7:
-            title: Episode 143
+            title: Enies Lobby Pt. 7 (Episodes 273-274)
+            summary: 'Covers Anime episode(s): 273-274'
           8:
-            title: Episode 144
+            title: Enies Lobby Pt. 8 (Episodes 275-276)
+            summary: 'Covers Anime episode(s): 275-276'
           9:
-            title: Episode 145
+            title: Enies Lobby Pt. 9 (Episodes 276-277)
+            summary: 'Covers Anime episode(s): 276-277'
           10:
-            title: Episode 146
+            title: Enies Lobby Pt. 10 (Episodes 278)
+            summary: 'Covers Anime episode(s): 278'
           11:
-            title: Episode 147
+            title: Enies Lobby Pt. 11 (Episodes 284-285)
+            summary: 'Covers Anime episode(s): 284-285'
           12:
-            title: Episode 148
+            title: Enies Lobby Pt. 12 (Episodes 286-287)
+            summary: 'Covers Anime episode(s): 286-287'
           13:
-            title: Episode 149
+            title: Enies Lobby Pt. 13 (Episodes 287-288)
+            summary: 'Covers Anime episode(s): 287-288'
           14:
-            title: Episode 150
+            title: Enies Lobby Pt. 14 (Episodes 289-290)
+            summary: 'Covers Anime episode(s): 289-290'
           15:
-            title: Episode 151
+            title: Enies Lobby Pt. 15 (Episodes 290,293)
+            summary: 'Covers Anime episode(s): 290,293'
           16:
-            title: Episode 152
+            title: Enies Lobby Pt. 16 (Episodes 294-295)
+            summary: 'Covers Anime episode(s): 294-295'
           17:
-            title: Episode 153
+            title: Enies Lobby Pt. 17 (Episodes 296-297)
+            summary: 'Covers Anime episode(s): 296-297'
           18:
-            title: Episode 154
+            title: Enies Lobby Pt. 18 (Episodes 297-298)
+            summary: 'Covers Anime episode(s): 297-298'
           19:
-            title: Episode 155
+            title: Enies Lobby Pt. 19 (Episodes 299-301)
+            summary: 'Covers Anime episode(s): 299-301'
           20:
-            title: Episode 156
+            title: Enies Lobby Pt. 20 (Episodes 301-302)
+            summary: 'Covers Anime episode(s): 301-302'
           21:
-            title: Episode 157
+            title: Enies Lobby Pt. 21 (Episodes 302, 304-305)
+            summary: 'Covers Anime episode(s): 302, 304-305'
           22:
-            title: Episode 158
+            title: Enies Lobby Pt. 22 (Episodes 306-307)
+            summary: 'Covers Anime episode(s): 306-307'
           23:
-            title: Episode 159
+            title: Enies Lobby Pt. 23 (Episodes 307-309)
+            summary: 'Covers Anime episode(s): 307-309'
           24:
-            title: Episode 160
+            title: Enies Lobby Pt. 24 (Episodes 310-311)
+            summary: 'Covers Anime episode(s): 310-311'
           25:
-            title: Episode 161
+            title: Enies Lobby Pt. 25 (Episodes 312)
+            summary: 'Covers Anime episode(s): 312'
       20:
         title: Post-Enies Lobby
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/20.png
         summary: 'The Post-Enies Lobby arc, covering the anime episodes: 313 - 325'
         episodes:
           1:
-            title: Episode 162
+            title: Post-Enies Lobby Pt. 1 (Episodes 313-314)
+            summary: 'Covers Anime episode(s): 313-314'
           2:
-            title: Episode 163
+            title: Post-Enies Lobby Pt. 2 (Episodes 315-316, 319-320, 325)
+            summary: 'Covers Anime episode(s): 315-316, 319-320, 325'
           3:
-            title: Episode 164
+            title: Post-Enies Lobby Pt. 3 (Episodes 321-322)
+            summary: 'Covers Anime episode(s): 321-322'
           4:
-            title: Episode 165
+            title: Post-Enies Lobby Pt. 4 (Episodes 323-324)
+            summary: 'Covers Anime episode(s): 323-324'
           5:
-            title: Episode 166
+            title: Post-Enies Lobby Pt. 5 (Episodes 324-325)
+            summary: 'Covers Anime episode(s): 324-325'
       21:
         title: Thriller Bark
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/21.png
         summary: 'The Thriller Bark arc, covering the anime episodes: 337 - 381'
         episodes:
           1:
-            title: Episode 167
+            title: Thriller Bark Pt. 1 (Episodes 326, 337-339)
+            summary: 'Covers Anime episode(s): 326, 337-339'
           2:
-            title: Episode 168
+            title: Thriller Bark Pt. 2 (Episodes 339-340)
+            summary: 'Covers Anime episode(s): 339-340'
           3:
-            title: Episode 169
+            title: Thriller Bark Pt. 3 (Episodes 340-342)
+            summary: 'Covers Anime episode(s): 340-342'
           4:
-            title: Episode 170
+            title: Thriller Bark Pt. 4 (Episodes 342-344)
+            summary: 'Covers Anime episode(s): 342-344'
           5:
-            title: Episode 171
+            title: Thriller Bark Pt. 5 (Episodes 345-346)
+            summary: 'Covers Anime episode(s): 345-346'
           6:
-            title: Episode 172
+            title: Thriller Bark Pt. 6 (Episodes 347-348)
+            summary: 'Covers Anime episode(s): 347-348'
           7:
-            title: Episode 173
+            title: Thriller Bark Pt. 7 (Episodes 349-350)
+            summary: 'Covers Anime episode(s): 349-350'
           8:
-            title: Episode 174
+            title: Thriller Bark Pt. 8 (Episodes 351-353)
+            summary: 'Covers Anime episode(s): 351-353'
           9:
-            title: Episode 175
+            title: Thriller Bark Pt. 9 (Episodes 353-355)
+            summary: 'Covers Anime episode(s): 353-355'
           10:
-            title: Episode 176
+            title: Thriller Bark Pt. 10 (Episodes 356-357)
+            summary: 'Covers Anime episode(s): 356-357'
           11:
-            title: Episode 177
+            title: Thriller Bark Pt. 11 (Episodes 357-359)
+            summary: 'Covers Anime episode(s): 357-359'
           12:
-            title: Episode 178
+            title: Thriller Bark Pt. 12 (Episodes 360-362)
+            summary: 'Covers Anime episode(s): 360-362'
           13:
-            title: Episode 179
+            title: Thriller Bark Pt. 13 (Episodes 362-363)
+            summary: 'Covers Anime episode(s): 362-363'
           14:
-            title: Episode 180
+            title: Thriller Bark Pt. 14 (Episodes 364-365)
+            summary: 'Covers Anime episode(s): 364-365'
           15:
-            title: Episode 181
+            title: Thriller Bark Pt. 15 (Episodes 365-367)
+            summary: 'Covers Anime episode(s): 365-367'
           16:
-            title: Episode 182
+            title: Thriller Bark Pt. 16 (Episodes 368-369)
+            summary: 'Covers Anime episode(s): 368-369'
           17:
-            title: Episode 183
+            title: Thriller Bark Pt. 17 (Episodes 370-371)
+            summary: 'Covers Anime episode(s): 370-371'
           18:
-            title: Episode 184
+            title: Thriller Bark Pt. 18 (Episodes 371-372)
+            summary: 'Covers Anime episode(s): 371-372'
           19:
-            title: Episode 185
+            title: Thriller Bark Pt. 19 (Episodes 373-374)
+            summary: 'Covers Anime episode(s): 373-374'
           20:
-            title: Episode 186
+            title: Thriller Bark Pt. 20 (Episodes 375-377)
+            summary: 'Covers Anime episode(s): 375-377'
           21:
-            title: Episode 187
+            title: Thriller Bark Pt. 21 (Episodes 378-380)
+            summary: 'Covers Anime episode(s): 378-380'
           22:
-            title: Episode 188
+            title: Thriller Bark Pt. 22 (Episodes 380-381)
+            summary: 'Covers Anime episode(s): 380-381'
       22:
         title: Sabaody Archipelago
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/22.png
@@ -508,67 +695,93 @@ metadata:
           405'
         episodes:
           1:
-            title: Episode 189
+            title: Sabaody Archipelago Pt. 1 (Episodes 385-386)
+            summary: 'Covers Anime episode(s): 385-386'
           2:
-            title: Episode 190
+            title: Sabaody Archipelago Pt. 2 (Episodes 387-388)
+            summary: 'Covers Anime episode(s): 387-388'
           3:
-            title: Episode 191
+            title: Sabaody Archipelago Pt. 3 (Episodes 388-389)
+            summary: 'Covers Anime episode(s): 388-389'
           4:
-            title: Episode 192
+            title: Sabaody Archipelago Pt. 4 (Episodes 390-391)
+            summary: 'Covers Anime episode(s): 390-391'
           5:
-            title: Episode 193
+            title: Sabaody Archipelago Pt. 5 (Episodes 392-394)
+            summary: 'Covers Anime episode(s): 392-394'
           6:
-            title: Episode 194
+            title: Sabaody Archipelago Pt. 6 (Episodes 395-396)
+            summary: 'Covers Anime episode(s): 395-396'
           7:
-            title: Episode 195
+            title: Sabaody Archipelago Pt. 7 (Episodes 397-398)
+            summary: 'Covers Anime episode(s): 397-398'
           8:
-            title: Episode 196
+            title: Sabaody Archipelago Pt. 8 (Episodes 399-400)
+            summary: 'Covers Anime episode(s): 399-400'
           9:
-            title: Episode 197
+            title: Sabaody Archipelago Pt. 9 (Episodes 400-401)
+            summary: 'Covers Anime episode(s): 400-401'
           10:
-            title: Episode 198
+            title: Sabaody Archipelago Pt. 10 (Episodes 402-404)
+            summary: 'Covers Anime episode(s): 402-404'
           11:
-            title: Episode 199
+            title: Sabaody Archipelago Pt. 11 (Episodes 404-405)
+            summary: 'Covers Anime episode(s): 404-405'
       23:
         title: Amazon Lily
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/23.png
         summary: 'The Amazon Lily arc, covering the anime episodes: 408 - 421'
         episodes:
           1:
-            title: Episode 200
+            title: Amazon Lily Pt. 1 (Episodes 408-409)
+            summary: 'Covers Anime episode(s): 408-409'
           2:
-            title: Episode 201
+            title: Amazon Lily Pt. 2 (Episodes 410-411)
+            summary: 'Covers Anime episode(s): 410-411'
           3:
-            title: Episode 202
+            title: Amazon Lily Pt. 3 (Episodes 412-413)
+            summary: 'Covers Anime episode(s): 412-413'
           4:
-            title: Episode 203
+            title: Amazon Lily Pt. 4 (Episodes 414-417)
+            summary: 'Covers Anime episode(s): 414-417'
           5:
-            title: Episode 204
+            title: Amazon Lily Pt. 5 (Episodes 417-421)
+            summary: 'Covers Anime episode(s): 417-421'
       24:
         title: Impel Down
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/24.png
         summary: 'The Impel Down arc, covering the anime episodes: 422 - 452'
         episodes:
           1:
-            title: Episode 205
+            title: Impel Down Pt. 1 (Episodes 422-423,454)
+            summary: 'Covers Anime episode(s): 422-423,454'
           2:
-            title: Episode 206
+            title: Impel Down Pt. 2 (Episodes 424-425,430)
+            summary: 'Covers Anime episode(s): 424-425,430'
           3:
-            title: Episode 207
+            title: Impel Down Pt. 3 (Episodes 425, 430-432)
+            summary: 'Covers Anime episode(s): 425, 430-432'
           4:
-            title: Episode 208
+            title: Impel Down Pt. 4 (Episodes 433-434)
+            summary: 'Covers Anime episode(s): 433-434'
           5:
-            title: Episode 209
+            title: Impel Down Pt. 5 (Episodes 435-438, 446)
+            summary: 'Covers Anime episode(s): 435-438, 446'
           6:
-            title: Episode 210
+            title: Impel Down Pt. 6 (Episodes 438-440)
+            summary: 'Covers Anime episode(s): 438-440'
           7:
-            title: Episode 211
+            title: Impel Down Pt. 7 (Episodes 440-443)
+            summary: 'Covers Anime episode(s): 440-443'
           8:
-            title: Episode 212
+            title: Impel Down Pt. 8 (Episodes 443-446)
+            summary: 'Covers Anime episode(s): 443-446'
           9:
-            title: Episode 213
+            title: Impel Down Pt. 9 (Episodes 446-450)
+            summary: 'Covers Anime episode(s): 446-450'
           10:
-            title: Episode 214
+            title: Impel Down Pt. 10 (Episodes 450-451)
+            summary: 'Covers Anime episode(s): 450-451'
       25:
         title: The Adventures of the Straw Hats
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/25.png
@@ -576,555 +789,804 @@ metadata:
           453 - 456'
         episodes:
           1:
-            title: Episode 215
+            title: The Adventures of the Straw Hats Pt. 1 (Episodes 453-456)
+            summary: 'Covers Anime episode(s): 453-456'
       26:
         title: Marineford
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/26.png
         summary: 'The Marineford arc, covering the anime episodes: 457 - 489'
         episodes:
           1:
-            title: Episode 216
+            title: Marineford Pt. 1 (Episodes 452, 459)
+            summary: 'Covers Anime episode(s): 452, 459'
           2:
-            title: Episode 217
+            title: Marineford Pt. 2 (Episodes 459-462)
+            summary: 'Covers Anime episode(s): 459-462'
           3:
-            title: Episode 218
+            title: Marineford Pt. 3 (Episodes 462-463)
+            summary: 'Covers Anime episode(s): 462-463'
           4:
-            title: Episode 219
+            title: Marineford Pt. 4 (Episodes 464-465)
+            summary: 'Covers Anime episode(s): 464-465'
           5:
-            title: Episode 220
+            title: Marineford Pt. 5 (Episodes 466-468)
+            summary: 'Covers Anime episode(s): 466-468'
           6:
-            title: Episode 221
+            title: Marineford Pt. 6 (Episodes 468-469)
+            summary: 'Covers Anime episode(s): 468-469'
           7:
-            title: Episode 222
+            title: Marineford Pt. 7 (Episodes 470-471)
+            summary: 'Covers Anime episode(s): 470-471'
           8:
-            title: Episode 223
+            title: Marineford Pt. 8 (Episodes 472-473)
+            summary: 'Covers Anime episode(s): 472-473'
           9:
-            title: Episode 224
+            title: Marineford Pt. 9 (Episodes 474-475)
+            summary: 'Covers Anime episode(s): 474-475'
           10:
-            title: Episode 225
+            title: Marineford Pt. 10 (Episodes 476)
+            summary: 'Covers Anime episode(s): 476'
           11:
-            title: Episode 226
+            title: Marineford Pt. 11 (Episodes 477-478)
+            summary: 'Covers Anime episode(s): 477-478'
           12:
-            title: Episode 227
+            title: Marineford Pt. 12 (Episodes 479-480)
+            summary: 'Covers Anime episode(s): 479-480'
           13:
-            title: Episode 228
+            title: Marineford Pt. 13 (Episodes 481-482)
+            summary: 'Covers Anime episode(s): 481-482'
           14:
-            title: Episode 229
+            title: Marineford Pt. 14 (Episodes 483-484)
+            summary: 'Covers Anime episode(s): 483-484'
           15:
-            title: Episode 230
+            title: Marineford Pt. 15 (Episodes 484-485)
+            summary: 'Covers Anime episode(s): 484-485'
           16:
-            title: Episode 231
+            title: Marineford Pt. 16 (Episodes 486-487)
+            summary: 'Covers Anime episode(s): 486-487'
           17:
-            title: Episode 232
+            title: Marineford Pt. 17 (Episodes 488-489)
+            summary: 'Covers Anime episode(s): 488-489'
       27:
         title: Post-War
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/27.png
         summary: 'The Post-War arc, covering the anime episodes: 490 - 516'
         episodes:
           1:
-            title: Episode 233
+            title: Post-War Pt. 1 (Episodes 490-491)
+            summary: 'Covers Anime episode(s): 490-491'
           2:
-            title: Episode 234
+            title: Post-War Pt. 2 (Episodes 493-495)
+            summary: 'Covers Anime episode(s): 493-495'
           3:
-            title: Episode 235
+            title: Post-War Pt. 3 (Episodes 496-498, 500-501 and Episode of Sabo)
+            summary: 'Covers Anime episode(s): 496-498, 500-501 and Episode of Sabo'
           4:
-            title: Episode 236
+            title: Post-War Pt. 4 (Episodes 501-503)
+            summary: 'Covers Anime episode(s): 501-503'
           5:
-            title: Episode 237
+            title: Post-War Pt. 5 (Episodes 503-505)
+            summary: 'Covers Anime episode(s): 503-505'
           6:
-            title: Episode 238
+            title: Post-War Pt. 6 (Episodes 507-510)
+            summary: 'Covers Anime episode(s): 507-510'
           7:
-            title: Episode 239
+            title: Post-War Pt. 7 (Episodes 510-512)
+            summary: 'Covers Anime episode(s): 510-512'
           8:
-            title: Episode 240
+            title: Post-War Pt. 8 (Episodes 513-516)
+            summary: 'Covers Anime episode(s): 513-516'
       28:
         title: Return to Sabaody
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/28.png
         summary: 'The Return to Sabaody arc, covering the anime episodes: 517 - 522'
         episodes:
           1:
-            title: Episode 241
+            title: Return to Sabaody Pt. 1 (Episodes 517-519)
+            summary: 'Covers Anime episode(s): 517-519'
           2:
-            title: Episode 242
+            title: Return to Sabaody Pt. 2 (Episodes 518-520)
+            summary: 'Covers Anime episode(s): 518-520'
           3:
-            title: Episode 243
+            title: Return to Sabaody Pt. 3 (Episodes 520-522)
+            summary: 'Covers Anime episode(s): 520-522'
       29:
         title: Fishman Island
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/29.png
         summary: 'The Fishman Island arc, covering the anime episodes: 523 - 574'
         episodes:
           1:
-            title: Episode 244
+            title: Fishman Island Pt. 1 (Episodes 523-524)
+            summary: 'Covers Anime episode(s): 523-524'
           2:
-            title: Episode 245
+            title: Fishman Island Pt. 2 (Episodes 524-526)
+            summary: 'Covers Anime episode(s): 524-526'
           3:
-            title: Episode 246
+            title: Fishman Island Pt. 3 (Episodes 526-527)
+            summary: 'Covers Anime episode(s): 526-527'
           4:
-            title: Episode 247
+            title: Fishman Island Pt. 4 (Episodes 528-529)
+            summary: 'Covers Anime episode(s): 528-529'
           5:
-            title: Episode 248
+            title: Fishman Island Pt. 5 (Episodes 530-531)
+            summary: 'Covers Anime episode(s): 530-531'
           6:
-            title: Episode 249
+            title: Fishman Island Pt. 6 (Episodes 532-533)
+            summary: 'Covers Anime episode(s): 532-533'
           7:
-            title: Episode 250
+            title: Fishman Island Pt. 7 (Episodes 533-534)
+            summary: 'Covers Anime episode(s): 533-534'
           8:
-            title: Episode 251
+            title: Fishman Island Pt. 8 (Episodes 535-537)
+            summary: 'Covers Anime episode(s): 535-537'
           9:
-            title: Episode 252
+            title: Fishman Island Pt. 9 (Episodes 538-539, 541)
+            summary: 'Covers Anime episode(s): 538-539, 541'
           10:
-            title: Episode 253
+            title: Fishman Island Pt. 10 (Episodes 540-541)
+            summary: 'Covers Anime episode(s): 540-541'
           11:
-            title: Episode 254
+            title: Fishman Island Pt. 11 (Episodes 543-545)
+            summary: 'Covers Anime episode(s): 543-545'
           12:
-            title: Episode 255
+            title: Fishman Island Pt. 12 (Episodes 545-546)
+            summary: 'Covers Anime episode(s): 545-546'
           13:
-            title: Episode 256
+            title: Fishman Island Pt. 13 (Episodes 547-550)
+            summary: 'Covers Anime episode(s): 547-550'
           14:
-            title: Episode 257
+            title: Fishman Island Pt. 14 (Episodes 550-551)
+            summary: 'Covers Anime episode(s): 550-551'
           15:
-            title: Episode 258
+            title: Fishman Island Pt. 15 (Episodes 552-553)
+            summary: 'Covers Anime episode(s): 552-553'
           16:
-            title: Episode 259
+            title: Fishman Island Pt. 16 (Episodes 554-556)
+            summary: 'Covers Anime episode(s): 554-556'
           17:
-            title: Episode 260
+            title: Fishman Island Pt. 17 (Episodes 556-558)
+            summary: 'Covers Anime episode(s): 556-558'
           18:
-            title: Episode 261
+            title: Fishman Island Pt. 18 (Episodes 559-560)
+            summary: 'Covers Anime episode(s): 559-560'
           19:
-            title: Episode 262
+            title: Fishman Island Pt. 19 (Episodes 561-562)
+            summary: 'Covers Anime episode(s): 561-562'
           20:
-            title: Episode 263
+            title: Fishman Island Pt. 20 (Episodes 563-567)
+            summary: 'Covers Anime episode(s): 563-567'
           21:
-            title: Episode 264
+            title: Fishman Island Pt. 21 (Episodes 562-567)
+            summary: 'Covers Anime episode(s): 562-567'
           22:
-            title: Episode 265
+            title: Fishman Island Pt. 22 (Episodes 567-569)
+            summary: 'Covers Anime episode(s): 567-569'
           23:
-            title: Episode 266
+            title: Fishman Island Pt. 23 (Episodes 570-571)
+            summary: 'Covers Anime episode(s): 570-571'
           24:
-            title: Episode 267
+            title: Fishman Island Pt. 24 (Episodes 572-573)
+            summary: 'Covers Anime episode(s): 572-573'
       30:
         title: Punk Hazard
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/30.png
         summary: 'The Punk Hazard arc, covering the anime episodes: 579 - 626, 628'
         episodes:
           1:
-            title: Episode 268
+            title: Punk Hazard Pt. 1 (Episodes 574,579)
+            summary: 'Covers Anime episode(s): 574,579'
           2:
-            title: Episode 269
+            title: Punk Hazard Pt. 2 (Episodes 580-583)
+            summary: 'Covers Anime episode(s): 580-583'
           3:
-            title: Episode 270
+            title: Punk Hazard Pt. 3 (Episodes 583-585)
+            summary: 'Covers Anime episode(s): 583-585'
           4:
-            title: Episode 271
+            title: Punk Hazard Pt. 4 (Episodes 585-587)
+            summary: 'Covers Anime episode(s): 585-587'
           5:
-            title: Episode 272
+            title: Punk Hazard Pt. 5 (Episodes 588-589)
+            summary: 'Covers Anime episode(s): 588-589'
           6:
-            title: Episode 273
+            title: Punk Hazard Pt. 6 (Episodes 591-592)
+            summary: 'Covers Anime episode(s): 591-592'
           7:
-            title: Episode 274
+            title: Punk Hazard Pt. 7 (Episodes 593-594)
+            summary: 'Covers Anime episode(s): 593-594'
           8:
-            title: Episode 275
+            title: Punk Hazard Pt. 8 (Episodes 595-596)
+            summary: 'Covers Anime episode(s): 595-596'
           9:
-            title: Episode 276
+            title: Punk Hazard Pt. 9 (Episodes 597-598)
+            summary: 'Covers Anime episode(s): 597-598'
           10:
-            title: Episode 277
+            title: Punk Hazard Pt. 10 (Episodes 599-600)
+            summary: 'Covers Anime episode(s): 599-600'
           11:
-            title: Episode 278
+            title: Punk Hazard Pt. 11 (Episodes 601-602)
+            summary: 'Covers Anime episode(s): 601-602'
           12:
-            title: Episode 279
+            title: Punk Hazard Pt. 12 (Episodes 603-604)
+            summary: 'Covers Anime episode(s): 603-604'
           13:
-            title: Episode 280
+            title: Punk Hazard Pt. 13 (Episodes 604-606)
+            summary: 'Covers Anime episode(s): 604-606'
           14:
-            title: Episode 281
+            title: Punk Hazard Pt. 14 (Episodes 607-608)
+            summary: 'Covers Anime episode(s): 607-608'
           15:
-            title: Episode 282
+            title: Punk Hazard Pt. 15 (Episodes 609-610)
+            summary: 'Covers Anime episode(s): 609-610'
           16:
-            title: Episode 283
+            title: Punk Hazard Pt. 16 (Episodes 611-612)
+            summary: 'Covers Anime episode(s): 611-612'
           17:
-            title: Episode 284
+            title: Punk Hazard Pt. 17 (Episodes 613-614)
+            summary: 'Covers Anime episode(s): 613-614'
           18:
-            title: Episode 285
+            title: Punk Hazard Pt. 18 (Episodes 615-616)
+            summary: 'Covers Anime episode(s): 615-616'
           19:
-            title: Episode 286
+            title: Punk Hazard Pt. 19 (Episodes 617-618)
+            summary: 'Covers Anime episode(s): 617-618'
           20:
-            title: Episode 287
+            title: Punk Hazard Pt. 20 (Episodes 619-621)
+            summary: 'Covers Anime episode(s): 619-621'
           21:
-            title: Episode 288
+            title: Punk Hazard Pt. 21 (Episodes 622-623)
+            summary: 'Covers Anime episode(s): 622-623'
           22:
-            title: Episode 289
+            title: Punk Hazard Pt. 22 (Episodes 624-626, 628)
+            summary: 'Covers Anime episode(s): 624-626, 628'
       31:
         title: Dressrosa
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/31.png
         summary: 'The Dressrosa arc, covering the anime episodes: 629 - 746'
         episodes:
           1:
-            title: Episode 290
+            title: Dressrosa Pt. 1 (Episodes 628-631)
+            summary: 'Covers Anime episode(s): 628-631'
           2:
-            title: Episode 291
+            title: Dressrosa Pt. 2 (Episodes 631-633)
+            summary: 'Covers Anime episode(s): 631-633'
           3:
-            title: Episode 292
+            title: Dressrosa Pt. 3 (Episodes 633-635)
+            summary: 'Covers Anime episode(s): 633-635'
           4:
-            title: Episode 293
+            title: Dressrosa Pt. 4 (Episodes 634-637)
+            summary: 'Covers Anime episode(s): 634-637'
           5:
-            title: Episode 294
+            title: Dressrosa Pt. 5 (Episodes 637-638)
+            summary: 'Covers Anime episode(s): 637-638'
           6:
-            title: Episode 295
+            title: Dressrosa Pt. 6 (Episodes 639-642)
+            summary: 'Covers Anime episode(s): 639-642'
           7:
-            title: Episode 296
+            title: Dressrosa Pt. 7 (Episodes 640-643)
+            summary: 'Covers Anime episode(s): 640-643'
           8:
-            title: Episode 297
+            title: Dressrosa Pt. 8 (Episodes 643-645)
+            summary: 'Covers Anime episode(s): 643-645'
           9:
-            title: Episode 298
+            title: Dressrosa Pt. 9 (Episodes 646-647)
+            summary: 'Covers Anime episode(s): 646-647'
           10:
-            title: Episode 299
+            title: Dressrosa Pt. 10 (Episodes 648-649)
+            summary: 'Covers Anime episode(s): 648-649'
           11:
-            title: Episode 300
+            title: Dressrosa Pt. 11 (Episodes 650-651)
+            summary: 'Covers Anime episode(s): 650-651'
           12:
-            title: Episode 301
+            title: Dressrosa Pt. 12 (Episodes 652-654)
+            summary: 'Covers Anime episode(s): 652-654'
           13:
-            title: Episode 302
+            title: Dressrosa Pt. 13 (Episodes 655-657)
+            summary: 'Covers Anime episode(s): 655-657'
           14:
-            title: Episode 303
+            title: Dressrosa Pt. 14 (Episodes 648, 657-659)
+            summary: 'Covers Anime episode(s): 648, 657-659'
           15:
-            title: Episode 304
+            title: Dressrosa Pt. 15 (Episodes 660-661)
+            summary: 'Covers Anime episode(s): 660-661'
           16:
-            title: Episode 305
+            title: Dressrosa Pt. 16 (Episodes 657, 662-663)
+            summary: 'Covers Anime episode(s): 657, 662-663'
           17:
-            title: Episode 306
+            title: Dressrosa Pt. 17 (Episodes 664-665)
+            summary: 'Covers Anime episode(s): 664-665'
           18:
-            title: Episode 307
+            title: Dressrosa Pt. 18 (Episodes 666-667)
+            summary: 'Covers Anime episode(s): 666-667'
           19:
-            title: Episode 308
+            title: Dressrosa Pt. 19 (Episodes 668-670)
+            summary: 'Covers Anime episode(s): 668-670'
           20:
-            title: Episode 309
+            title: Dressrosa Pt. 20 (Episodes 670-672)
+            summary: 'Covers Anime episode(s): 670-672'
           21:
-            title: Episode 310
+            title: Dressrosa Pt. 21 (Episodes 672-675)
+            summary: 'Covers Anime episode(s): 672-675'
           22:
-            title: Episode 311
+            title: Dressrosa Pt. 22 (Episodes 675-678)
+            summary: 'Covers Anime episode(s): 675-678'
           23:
-            title: Episode 312
+            title: Dressrosa Pt. 23 (Episodes 678-680)
+            summary: 'Covers Anime episode(s): 678-680'
           24:
-            title: Episode 313
+            title: Dressrosa Pt. 24 (Episodes 681-683)
+            summary: 'Covers Anime episode(s): 681-683'
           25:
-            title: Episode 314
+            title: Dressrosa Pt. 25 (Episodes 683-686)
+            summary: 'Covers Anime episode(s): 683-686'
           26:
-            title: Episode 315
+            title: Dressrosa Pt. 26 (Episodes 685-688)
+            summary: 'Covers Anime episode(s): 685-688'
           27:
-            title: Episode 316
+            title: Dressrosa Pt. 27 (Episodes 688-691)
+            summary: 'Covers Anime episode(s): 688-691'
           28:
-            title: Episode 317
+            title: Dressrosa Pt. 28 (Episodes 691-693)
+            summary: 'Covers Anime episode(s): 691-693'
           29:
-            title: Episode 318
+            title: Dressrosa Pt. 29 (Episodes 693-696)
+            summary: 'Covers Anime episode(s): 693-696'
           30:
-            title: Episode 319
+            title: Dressrosa Pt. 30 (Episodes 694, 696-698)
+            summary: 'Covers Anime episode(s): 694, 696-698'
           31:
-            title: Episode 320
+            title: Dressrosa Pt. 31 (Episodes 699-700)
+            summary: 'Covers Anime episode(s): 699-700'
           32:
-            title: Episode 321
+            title: Dressrosa Pt. 32 (Episodes 701-702)
+            summary: 'Covers Anime episode(s): 701-702'
           33:
-            title: Episode 322
+            title: Dressrosa Pt. 33 (Episodes 703-704)
+            summary: 'Covers Anime episode(s): 703-704'
           34:
-            title: Episode 323
+            title: Dressrosa Pt. 34 (Episodes 705-706)
+            summary: 'Covers Anime episode(s): 705-706'
           35:
-            title: Episode 324
+            title: Dressrosa Pt. 35 (Episodes 707-711)
+            summary: 'Covers Anime episode(s): 707-711'
           36:
-            title: Episode 325
+            title: Dressrosa Pt. 36 (Episodes 708-711)
+            summary: 'Covers Anime episode(s): 708-711'
           37:
-            title: Episode 326
+            title: Dressrosa Pt. 37 (Episodes 711-713)
+            summary: 'Covers Anime episode(s): 711-713'
           38:
-            title: Episode 327
+            title: Dressrosa Pt. 38 (Episodes 714-716)
+            summary: 'Covers Anime episode(s): 714-716'
           39:
-            title: Episode 328
+            title: Dressrosa Pt. 39 (Episodes 716-719)
+            summary: 'Covers Anime episode(s): 716-719'
           40:
-            title: Episode 329
+            title: Dressrosa Pt. 40 (Episodes 714-715, 720-723)
+            summary: 'Covers Anime episode(s): 714-715, 720-723'
           41:
-            title: Episode 330
+            title: Dressrosa Pt. 41 (Episodes 723-725)
+            summary: 'Covers Anime episode(s): 723-725'
           42:
-            title: Episode 331
+            title: Dressrosa Pt. 42 (Episodes 726-728)
+            summary: 'Covers Anime episode(s): 726-728'
           43:
-            title: Episode 332
+            title: Dressrosa Pt. 43 (Episodes 728-730)
+            summary: 'Covers Anime episode(s): 728-730'
           44:
-            title: Episode 333
+            title: Dressrosa Pt. 44 (Episodes 730-733)
+            summary: 'Covers Anime episode(s): 730-733'
           45:
-            title: Episode 334
+            title: Dressrosa Pt. 45 (Episodes 734-736)
+            summary: 'Covers Anime episode(s): 734-736'
           46:
-            title: Episode 335
+            title: Dressrosa Pt. 46 (Episodes 737-739)
+            summary: 'Covers Anime episode(s): 737-739'
           47:
-            title: Episode 336
+            title: Dressrosa Pt. 47 (Episodes 740-742)
+            summary: 'Covers Anime episode(s): 740-742'
           48:
-            title: Episode 337
+            title: Dressrosa Pt. 48 (Episodes 742-745)
+            summary: 'Covers Anime episode(s): 742-745'
       32:
         title: Zou
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/32.png
         summary: 'The Zou arc, covering the anime episodes: 751 - 776'
         episodes:
           1:
-            title: Episode 338
+            title: Zou Pt. 1 (Episodes 746-747, 751-753)
+            summary: 'Covers Anime episode(s): 746-747, 751-753'
           2:
-            title: Episode 339
+            title: Zou Pt. 2 (Episodes 753-754)
+            summary: 'Covers Anime episode(s): 753-754'
           3:
-            title: Episode 340
+            title: Zou Pt. 3 (Episodes 755-757)
+            summary: 'Covers Anime episode(s): 755-757'
           4:
-            title: Episode 341
+            title: Zou Pt. 4 (Episodes 757-760)
+            summary: 'Covers Anime episode(s): 757-760'
           5:
-            title: Episode 342
+            title: Zou Pt. 5 (Episodes 759-762)
+            summary: 'Covers Anime episode(s): 759-762'
           6:
-            title: Episode 343
+            title: Zou Pt. 6 (Episodes 762-764)
+            summary: 'Covers Anime episode(s): 762-764'
           7:
-            title: Episode 344
+            title: Zou Pt. 7 (Episodes 764-766)
+            summary: 'Covers Anime episode(s): 764-766'
           8:
-            title: Episode 345
+            title: Zou Pt. 8 (Episodes 767-769)
+            summary: 'Covers Anime episode(s): 767-769'
           9:
-            title: Episode 346
+            title: Zou Pt. 9 (Episodes 769-772)
+            summary: 'Covers Anime episode(s): 769-772'
           10:
-            title: Episode 347
+            title: Zou Pt. 10 (Episodes 772-774, 776)
+            summary: 'Covers Anime episode(s): 772-774, 776'
       33:
         title: Whole Cake Island
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/33.png
         summary: 'The Whole Cake Island arc, covering the anime episodes: 777 - 877'
         episodes:
           1:
-            title: Episode 348
+            title: Whole Cake Island Pt. 1 (Episodes 777-779, 783)
+            summary: 'Covers Anime episode(s): 777-779, 783'
           2:
-            title: Episode 349
+            title: Whole Cake Island Pt. 2 (Episodes 783-785)
+            summary: 'Covers Anime episode(s): 783-785'
           3:
-            title: Episode 350
+            title: Whole Cake Island Pt. 3 (Episodes 785-788)
+            summary: 'Covers Anime episode(s): 785-788'
           4:
-            title: Episode 351
+            title: Whole Cake Island Pt. 4 (Episodes 788-790)
+            summary: 'Covers Anime episode(s): 788-790'
           5:
-            title: Episode 352
+            title: Whole Cake Island Pt. 5 (Episodes 791-793)
+            summary: 'Covers Anime episode(s): 791-793'
           6:
-            title: Episode 353
+            title: Whole Cake Island Pt. 6 (Episodes 793-795)
+            summary: 'Covers Anime episode(s): 793-795'
           7:
-            title: Episode 354
+            title: Whole Cake Island Pt. 7 (Episodes 796-798)
+            summary: 'Covers Anime episode(s): 796-798'
           8:
-            title: Episode 355
+            title: Whole Cake Island Pt. 8 (Episodes 798-800)
+            summary: 'Covers Anime episode(s): 798-800'
           9:
-            title: Episode 356
+            title: Whole Cake Island Pt. 9 (Episodes 800-803, 807)
+            summary: 'Covers Anime episode(s): 800-803, 807'
           10:
-            title: Episode 357
+            title: Whole Cake Island Pt. 10 (Episodes 804-806)
+            summary: 'Covers Anime episode(s): 804-806'
           11:
-            title: Episode 358
+            title: Whole Cake Island Pt. 11 (Episodes 806-808)
+            summary: 'Covers Anime episode(s): 806-808'
           12:
-            title: Episode 359
+            title: Whole Cake Island Pt. 12 (Episodes 809-812)
+            summary: 'Covers Anime episode(s): 809-812'
           13:
-            title: Episode 360
+            title: Whole Cake Island Pt. 13 (Episodes 812-815)
+            summary: 'Covers Anime episode(s): 812-815'
           14:
-            title: Episode 361
+            title: Whole Cake Island Pt. 14 (Episodes 814-817)
+            summary: 'Covers Anime episode(s): 814-817'
           15:
-            title: Episode 362
+            title: Whole Cake Island Pt. 15 (Episodes 817-820)
+            summary: 'Covers Anime episode(s): 817-820'
           16:
-            title: Episode 363
+            title: Whole Cake Island Pt. 16 (Episodes 820-822)
+            summary: 'Covers Anime episode(s): 820-822'
           17:
-            title: Episode 364
+            title: Whole Cake Island Pt. 17 (Episodes 823-825)
+            summary: 'Covers Anime episode(s): 823-825'
           18:
-            title: Episode 365
+            title: Whole Cake Island Pt. 18 (Episodes 826-828)
+            summary: 'Covers Anime episode(s): 826-828'
           19:
-            title: Episode 366
+            title: Whole Cake Island Pt. 19 (Episodes 828-830)
+            summary: 'Covers Anime episode(s): 828-830'
           20:
-            title: Episode 367
+            title: Whole Cake Island Pt. 20 (Episodes 831-832)
+            summary: 'Covers Anime episode(s): 831-832'
           21:
-            title: Episode 368
+            title: Whole Cake Island Pt. 21 (Episodes 831, 833-834)
+            summary: 'Covers Anime episode(s): 831, 833-834'
           22:
-            title: Episode 369
+            title: Whole Cake Island Pt. 22 (Episodes 835-836)
+            summary: 'Covers Anime episode(s): 835-836'
           23:
-            title: Episode 370
+            title: Whole Cake Island Pt. 23 (Episodes 837-839)
+            summary: 'Covers Anime episode(s): 837-839'
           24:
-            title: Episode 371
+            title: Whole Cake Island Pt. 24 (Episodes 839-841)
+            summary: 'Covers Anime episode(s): 839-841'
           25:
-            title: Episode 372
+            title: Whole Cake Island Pt. 25 (Episodes 841-843)
+            summary: 'Covers Anime episode(s): 841-843'
           26:
-            title: Episode 373
+            title: Whole Cake Island Pt. 26 (Episodes 843-846)
+            summary: 'Covers Anime episode(s): 843-846'
           27:
-            title: Episode 374
+            title: Whole Cake Island Pt. 27 (Episodes 846-848)
+            summary: 'Covers Anime episode(s): 846-848'
           28:
-            title: Episode 375
+            title: Whole Cake Island Pt. 28 (Episodes 848-850)
+            summary: 'Covers Anime episode(s): 848-850'
           29:
-            title: Episode 376
+            title: Whole Cake Island Pt. 29 (Episodes 851-853)
+            summary: 'Covers Anime episode(s): 851-853'
           30:
-            title: Episode 377
+            title: Whole Cake Island Pt. 30 (Episodes 853-855, 858)
+            summary: 'Covers Anime episode(s): 853-855, 858'
           31:
-            title: Episode 378
+            title: Whole Cake Island Pt. 31 (Episodes 856-858)
+            summary: 'Covers Anime episode(s): 856-858'
           32:
-            title: Episode 379
+            title: Whole Cake Island Pt. 32 (Episodes 858-860)
+            summary: 'Covers Anime episode(s): 858-860'
           33:
-            title: Episode 380
+            title: Whole Cake Island Pt. 33 (Episodes 860-862)
+            summary: 'Covers Anime episode(s): 860-862'
           34:
-            title: Episode 381
+            title: Whole Cake Island Pt. 34 (Episodes 862-865)
+            summary: 'Covers Anime episode(s): 862-865'
           35:
-            title: Episode 382
+            title: Whole Cake Island Pt. 35 (Episodes 865-868)
+            summary: 'Covers Anime episode(s): 865-868'
           36:
-            title: Episode 383
+            title: Whole Cake Island Pt. 36 (Episodes 865, 867-870)
+            summary: 'Covers Anime episode(s): 865, 867-870'
           37:
-            title: Episode 384
+            title: Whole Cake Island Pt. 37 (Episodes 871-872)
+            summary: 'Covers Anime episode(s): 871-872'
           38:
-            title: Episode 385
+            title: Whole Cake Island Pt. 38 (Episodes 873-875)
+            summary: 'Covers Anime episode(s): 873-875'
           39:
-            title: Episode 386
+            title: Whole Cake Island Pt. 39 (Episodes 876-877)
+            summary: 'Covers Anime episode(s): 876-877'
       34:
         title: Reverie
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/34.png
         summary: 'The Reverie arc, covering the anime episodes: 878 - 889'
         episodes:
           1:
-            title: Episode 387
+            title: Reverie Pt. 1 (Episodes 878-880)
+            summary: 'Covers Anime episode(s): 878-880'
           2:
-            title: Episode 388
+            title: Reverie Pt. 2 (Episodes 881-885)
+            summary: 'Covers Anime episode(s): 881-885'
           3:
-            title: Episode 389
+            title: Reverie Pt. 3 (Episodes 886-889)
+            summary: 'Covers Anime episode(s): 886-889'
       35:
-        title: Wano (WIP)
+        title: Wano
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/35.png
-        summary: 'The Wano (WIP) arc, covering the anime episodes: 890 - 1085'
+        summary: 'The Wano arc, covering the anime episodes: 890 - 1085'
         episodes:
           1:
-            title: Episode 390
+            title: Wano Pt. 1 (Episodes 890-891)
+            summary: 'Covers Anime episode(s): 890-891'
           2:
-            title: Episode 391
+            title: Wano Pt. 2 (Episodes 892-894)
+            summary: 'Covers Anime episode(s): 892-894'
           3:
-            title: Episode 392
+            title: Wano Pt. 3 (Episodes 894,897)
+            summary: 'Covers Anime episode(s): 894,897'
           4:
-            title: Episode 393
+            title: Wano Pt. 4 (Episodes 898-899)
+            summary: 'Covers Anime episode(s): 898-899'
           5:
-            title: Episode 394
+            title: Wano Pt. 5 (Episodes 900-902)
+            summary: 'Covers Anime episode(s): 900-902'
           6:
-            title: Episode 395
+            title: Wano Pt. 6 (Episodes 902-903)
+            summary: 'Covers Anime episode(s): 902-903'
           7:
-            title: Episode 396
+            title: Wano Pt. 7 (Episodes 904-905)
+            summary: 'Covers Anime episode(s): 904-905'
           8:
-            title: Episode 397
+            title: Wano Pt. 8 (Episodes 906, 908-909)
+            summary: 'Covers Anime episode(s): 906, 908-909'
           9:
-            title: Episode 398
+            title: Wano Pt. 9 (Episodes 909-911)
+            summary: 'Covers Anime episode(s): 909-911'
           10:
-            title: Episode 399
+            title: Wano Pt. 10 (Episodes 911-913)
+            summary: 'Covers Anime episode(s): 911-913'
           11:
-            title: Episode 400
+            title: Wano Pt. 11 (Episodes 914-915)
+            summary: 'Covers Anime episode(s): 914-915'
           12:
-            title: Episode 401
+            title: Wano Pt. 12 (Episodes 916)
+            summary: 'Covers Anime episode(s): 916'
           13:
-            title: Episode 402
+            title: Wano Pt. 13 (Episodes 917-919, 924)
+            summary: 'Covers Anime episode(s): 917-919, 924'
           14:
-            title: Episode 403
+            title: Wano Pt. 14 (Episodes 919-922)
+            summary: 'Covers Anime episode(s): 919-922'
           15:
-            title: Episode 404
+            title: Wano Pt. 15 (Episodes 921-923)
+            summary: 'Covers Anime episode(s): 921-923'
           16:
-            title: Episode 405
+            title: Wano Pt. 16 (Episodes 923-926)
+            summary: 'Covers Anime episode(s): 923-926'
           17:
-            title: Episode 406
+            title: Wano Pt. 17 (Episodes 926-928)
+            summary: 'Covers Anime episode(s): 926-928'
           18:
-            title: Episode 407
+            title: Wano Pt. 18 (Episodes 929-931)
+            summary: 'Covers Anime episode(s): 929-931'
           19:
-            title: Episode 408
+            title: Wano Pt. 19 (Episodes 931-934)
+            summary: 'Covers Anime episode(s): 931-934'
           20:
-            title: Episode 409
+            title: Wano Pt. 20 (Episodes 934-937)
+            summary: 'Covers Anime episode(s): 934-937'
           21:
-            title: Episode 410
+            title: Wano Pt. 21 (Episodes 936-938)
+            summary: 'Covers Anime episode(s): 936-938'
           22:
-            title: Episode 411
+            title: Wano Pt. 22 (Episodes 939-940)
+            summary: 'Covers Anime episode(s): 939-940'
           23:
-            title: Episode 412
+            title: Wano Pt. 23 (Episodes 941-943)
+            summary: 'Covers Anime episode(s): 941-943'
           24:
-            title: Episode 413
+            title: Wano Pt. 24 (Episodes 942-944)
+            summary: 'Covers Anime episode(s): 942-944'
           25:
-            title: Episode 414
+            title: Wano Pt. 25 (Episodes 945-947)
+            summary: 'Covers Anime episode(s): 945-947'
           26:
-            title: Episode 415
+            title: Wano Pt. 26 (Episodes 947-949)
+            summary: 'Covers Anime episode(s): 947-949'
           27:
-            title: Episode 416
+            title: Wano Pt. 27 (Episodes 950-951)
+            summary: 'Covers Anime episode(s): 950-951'
           28:
-            title: Episode 417
+            title: Wano Pt. 28 (Episodes 952-953)
+            summary: 'Covers Anime episode(s): 952-953'
           29:
-            title: Episode 418
+            title: Wano Pt. 29 (Episodes 954-955)
+            summary: 'Covers Anime episode(s): 954-955'
           30:
-            title: Episode 419
+            title: Wano Pt. 30 (Episodes 955-956)
+            summary: 'Covers Anime episode(s): 955-956'
           31:
-            title: Episode 420
+            title: Wano Pt. 31 (Episodes 957)
+            summary: 'Covers Anime episode(s): 957'
           32:
-            title: Episode 421
+            title: Wano Pt. 32 (Episodes 958)
+            summary: 'Covers Anime episode(s): 958'
           33:
-            title: Episode 422
+            title: Wano Pt. 33 (Episodes 959-960)
+            summary: 'Covers Anime episode(s): 959-960'
           34:
-            title: Episode 423
+            title: Wano Pt. 34 (Episodes 960-961)
+            summary: 'Covers Anime episode(s): 960-961'
           35:
-            title: Episode 424
+            title: Wano Pt. 35 (Episodes 961-963)
+            summary: 'Covers Anime episode(s): 961-963'
           36:
-            title: Episode 425
+            title: Wano Pt. 36 (Episodes 963-964)
+            summary: 'Covers Anime episode(s): 963-964'
           37:
-            title: Episode 426
+            title: Wano Pt. 37 (Episodes 964-967)
+            summary: 'Covers Anime episode(s): 964-967'
           38:
-            title: Episode 427
+            title: Wano Pt. 38 (Episodes 967-968)
+            summary: 'Covers Anime episode(s): 967-968'
           39:
-            title: Episode 428
+            title: Wano Pt. 39 (Episodes 969-971)
+            summary: 'Covers Anime episode(s): 969-971'
           40:
-            title: Episode 429
+            title: Wano Pt. 40 (Episodes 971-975)
+            summary: 'Covers Anime episode(s): 971-975'
           41:
-            title: Episode 430
+            title: Wano Pt. 41 (Episodes 975-977)
+            summary: 'Covers Anime episode(s): 975-977'
           42:
-            title: Episode 431
+            title: Wano Pt. 42 (Episodes 978-980)
+            summary: 'Covers Anime episode(s): 978-980'
           43:
-            title: Episode 432
+            title: Wano Pt. 43 (Episodes 981-982)
+            summary: 'Covers Anime episode(s): 981-982'
           44:
-            title: Episode 433
+            title: Wano Pt. 44 (Episodes 983-985)
+            summary: 'Covers Anime episode(s): 983-985'
           45:
-            title: Episode 434
+            title: Wano Pt. 45 (Episodes 985-988)
+            summary: 'Covers Anime episode(s): 985-988'
           46:
-            title: Episode 435
+            title: Wano Pt. 46 (Episodes 988-991)
+            summary: 'Covers Anime episode(s): 988-991'
           47:
-            title: Episode 436
+            title: Wano Pt. 47 (Episodes 991-994)
+            summary: 'Covers Anime episode(s): 991-994'
           48:
-            title: Episode 437
+            title: Wano Pt. 48 (Episodes 994-997)
+            summary: 'Covers Anime episode(s): 994-997'
           49:
-            title: Episode 438
+            title: Wano Pt. 49 (Episodes 997-1000)
+            summary: 'Covers Anime episode(s): 997-1000'
           50:
-            title: Episode 439
+            title: Wano Pt. 50 (Episodes 1001-1003)
+            summary: 'Covers Anime episode(s): 1001-1003'
           51:
-            title: Episode 440
+            title: Wano Pt. 51 (Episodes 1003-1006)
+            summary: 'Covers Anime episode(s): 1003-1006'
           52:
-            title: Episode 441
+            title: Wano Pt. 52 (Episodes 1006-1009)
+            summary: 'Covers Anime episode(s): 1006-1009'
           53:
-            title: Episode 442
+            title: Wano Pt. 53 (Episodes 1009-1011)
+            summary: 'Covers Anime episode(s): 1009-1011'
           54:
-            title: Episode 443
+            title: Wano Pt. 54 (Episodes 1012-1014)
+            summary: 'Covers Anime episode(s): 1012-1014'
           55:
-            title: Episode 444
+            title: Wano Pt. 55 (Episodes 1015)
+            summary: 'Covers Anime episode(s): 1015'
       36:
-        title: Egghead (WIP)
+        title: Egghead
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/36.png
-        summary: 'The Egghead (WIP) arc, covering the anime episodes: 1086 —'
+        summary: 'The Egghead arc, covering the anime episodes: 1086 —'
         episodes:
           1:
-            title: Episode 445
+            title: Egghead Pt. 1 (Episodes 1086-1088)
+            summary: 'Covers Anime episode(s): 1086-1088'
           2:
-            title: Episode 446
+            title: Egghead Pt. 2 (Episodes 1087-1088)
+            summary: 'Covers Anime episode(s): 1087-1088'
           3:
-            title: Episode 447
+            title: Egghead Pt. 3 (Episodes 1089-1090)
+            summary: 'Covers Anime episode(s): 1089-1090'
           4:
-            title: Episode 448
+            title: Egghead Pt. 4 (Episodes 1091-1093)
+            summary: 'Covers Anime episode(s): 1091-1093'
           5:
-            title: Episode 449
+            title: Egghead Pt. 5 (Episodes 1093-1095)
+            summary: 'Covers Anime episode(s): 1093-1095'
           6:
-            title: Episode 450
+            title: Egghead Pt. 6 (Episodes 1096-1097)
+            summary: 'Covers Anime episode(s): 1096-1097'
           7:
-            title: Episode 451
+            title: Egghead Pt. 7 (Episodes 1097-1099)
+            summary: 'Covers Anime episode(s): 1097-1099'
           8:
-            title: Episode 452
+            title: Egghead Pt. 8 (Episodes 1099-1102)
+            summary: 'Covers Anime episode(s): 1099-1102'
           9:
-            title: Episode 453
+            title: Egghead Pt. 9 (Episodes 1102-1104)
+            summary: 'Covers Anime episode(s): 1102-1104'
           10:
-            title: Episode 454
+            title: Egghead Pt. 10 (Episodes 1104-1107)
+            summary: 'Covers Anime episode(s): 1104-1107'
           11:
-            title: Episode 455
+            title: Egghead Pt. 11 (Episodes 1107-1109)
+            summary: 'Covers Anime episode(s): 1107-1109'
           12:
-            title: Episode 456
+            title: Egghead Pt. 12 (Episodes 1108, 1110-1111)
+            summary: 'Covers Anime episode(s): 1108, 1110-1111'
           13:
-            title: Episode 457
+            title: Egghead Pt. 13 (Episodes 1112)
+            summary: 'Covers Anime episode(s): 1112'
           14:
-            title: Episode 458
+            title: Egghead Pt. 14 (Episodes 1113-1115)
+            summary: 'Covers Anime episode(s): 1113-1115'
           15:
-            title: Episode 459
+            title: Egghead Pt. 15 (Episodes 1116-1117)
+            summary: 'Covers Anime episode(s): 1116-1117'
           16:
-            title: Episode 460
+            title: Egghead Pt. 16 (Episodes 1118-1119)
+            summary: 'Covers Anime episode(s): 1118-1119'
           17:
-            title: Episode 461
+            title: Egghead Pt. 17 (Episodes 1119-1120)
+            summary: 'Covers Anime episode(s): 1119-1120'
           18:
-            title: Episode 462
+            title: Egghead Pt. 18 (Episodes 1121-1122)
+            summary: 'Covers Anime episode(s): 1121-1122'
           19:
-            title: Episode 463
+            title: Egghead Pt. 19 (Episodes 1123-1124)
+            summary: 'Covers Anime episode(s): 1123-1124'
