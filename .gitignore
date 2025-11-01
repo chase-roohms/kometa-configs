@@ -3,3 +3,4 @@ config.cache
 logs/
 overlays/
 UUID
+.DS_Store
