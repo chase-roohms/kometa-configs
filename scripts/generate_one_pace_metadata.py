@@ -208,7 +208,7 @@ def build_metadata_structure(arcs_data: list, start_season: int) -> dict:
         
         seasons[season_num] = {
             'title': arc_name,
-            'url_poster': f'https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/{season_num}.png',
+            'url_poster': f'https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/{season_num}.png',
             'summary': '\n'.join(summary_parts),
             'episodes': episodes
         }
@@ -224,9 +224,9 @@ def build_metadata_structure(arcs_data: list, start_season: int) -> dict:
                 'original_title': 'One Piece',
                 'use_original_title': 'no',
                 'release_year': '2013',
-                'url_poster': 'https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/parent.png',
-                'url_background': 'https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/background.png',
-                'url_logo': 'https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/logo.png',
+                'url_poster': 'https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/parent.png',
+                'url_background': 'https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/background.png',
+                'url_logo': 'https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/logo.png',
                 'studio': 'Toei Animation',
                 'audio_language': 'ja-JP',
                 'tagline': 'The dreams of pirates will never end!',

@@ -7,9 +7,9 @@ metadata:
     original_title: One Piece
     use_original_title: 'no'
     release_year: '2013'
-    url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/parent.png
-    url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/background.png
-    url_logo: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/logo.png
+    url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/parent.png
+    url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/background.png
+    url_logo: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/logo.png
     studio: Toei Animation
     audio_language: ja-JP
     tagline: The dreams of pirates will never end!
@@ -24,7 +24,7 @@ metadata:
     seasons:
       1:
         title: Romance Dawn
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/1.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/1.png
         summary: |-
           The Romance Dawn Arc
           Covers anime episode(s): 1-312
@@ -60,7 +60,7 @@ metadata:
               Covers manga chapter(s): 5-7
       2:
         title: Orange Town
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/2.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/2.png
         summary: |-
           The Orange Town Arc
           Covers anime episode(s): 4-8
@@ -89,7 +89,7 @@ metadata:
               Covers manga chapter(s): 19-21
       3:
         title: Syrup Village
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/3.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/3.png
         summary: |-
           The Syrup Village Arc
           Covers anime episode(s): 9-17
@@ -146,7 +146,7 @@ metadata:
               Covers manga chapter(s): 40-41
       4:
         title: Gaimon
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/4.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/4.png
         summary: |-
           The Gaimon Arc
           Covers anime episode(s): 18-18
@@ -161,7 +161,7 @@ metadata:
               Covers manga chapter(s): 42, 22
       5:
         title: Baratie
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/5.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/5.png
         summary: |-
           The Baratie Arc
           Covers anime episode(s): 19-135
@@ -225,7 +225,7 @@ metadata:
               Covers manga chapter(s): 67-69
       6:
         title: Arlong Park
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/6.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/6.png
         summary: |-
           The Arlong Park Arc
           Covers anime episode(s): 31-44
@@ -303,7 +303,7 @@ metadata:
               Covers manga chapter(s): 94-95
       7:
         title: The Adventures of Buggy's Crew
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/7.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/7.png
         summary: |-
           The The Adventures of Buggy's Crew Arc
           Covers anime episode(s): 46-47
@@ -318,7 +318,7 @@ metadata:
               Covers manga chapter(s): 35-75
       8:
         title: Loguetown
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/8.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/8.png
         summary: |-
           The Loguetown Arc
           Covers anime episode(s): 45-53
@@ -347,7 +347,7 @@ metadata:
               Covers manga chapter(s): 98-100
       9:
         title: Reverse Mountain
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/9.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/9.png
         summary: |-
           The Reverse Mountain Arc
           Covers anime episode(s): 54-63
@@ -369,7 +369,7 @@ metadata:
               Covers manga chapter(s): 103-105
       10:
         title: Whisky Peak
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/10.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/10.png
         summary: |-
           The Whisky Peak Arc
           Covers anime episode(s): 64-67
@@ -391,7 +391,7 @@ metadata:
               Covers manga chapter(s): 110-114
       11:
         title: The Trials of Koby-Meppo
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/11.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/11.png
         summary: |-
           The The Trials of Koby-Meppo Arc
           Covers anime episode(s): 68-69
@@ -406,7 +406,7 @@ metadata:
               Covers manga chapter(s): 83-119
       12:
         title: Little Garden
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/12.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/12.png
         summary: |-
           The Little Garden Arc
           Covers anime episode(s): 70-79
@@ -449,7 +449,7 @@ metadata:
               Covers manga chapter(s): 127-129
       13:
         title: Drum Island
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/13.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/13.png
         summary: |-
           The Drum Island Arc
           Covers anime episode(s): 78-91
@@ -513,7 +513,7 @@ metadata:
               Covers manga chapter(s): 153-156
       14:
         title: Arabasta
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/14.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/14.png
         summary: |-
           The Arabasta Arc
           Covers anime episode(s): 92-130
@@ -668,7 +668,7 @@ metadata:
               Covers manga chapter(s): 217-218
       15:
         title: Jaya
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/15.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/15.png
         summary: |-
           The Jaya Arc
           Covers anime episode(s): 143-152
@@ -732,7 +732,7 @@ metadata:
               Covers manga chapter(s): 235-236
       16:
         title: Skypiea
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/16.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/16.png
         summary: |-
           The Skypiea Arc
           Covers anime episode(s): 153-207
@@ -922,7 +922,7 @@ metadata:
               Covers manga chapter(s): 302-303
       17:
         title: Long Ring Long Land
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/17.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/17.png
         summary: |-
           The Long Ring Long Land Arc
           Covers anime episode(s): 207-228
@@ -979,7 +979,7 @@ metadata:
               Covers manga chapter(s): 319-321
       18:
         title: Water Seven
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/18.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/18.png
         summary: |-
           The Water Seven Arc
           Covers anime episode(s): 228-320
@@ -1127,7 +1127,7 @@ metadata:
               Covers manga chapter(s): 372-374
       19:
         title: Enies Lobby
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/19.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/19.png
         summary: |-
           The Enies Lobby Arc
           Covers anime episode(s): 263-312
@@ -1310,7 +1310,7 @@ metadata:
               Covers manga chapter(s): 430
       20:
         title: Post-Enies Lobby
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/20.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/20.png
         summary: |-
           The Post-Enies Lobby Arc
           Covers anime episode(s): 313-325
@@ -1353,7 +1353,7 @@ metadata:
               Covers manga chapter(s): 440-441
       21:
         title: Thriller Bark
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/21.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/21.png
         summary: |-
           The Thriller Bark Arc
           Covers anime episode(s): 326-381
@@ -1515,7 +1515,7 @@ metadata:
               Covers manga chapter(s): 488-489
       22:
         title: Sabaody Archipelago
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/22.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/22.png
         summary: |-
           The Sabaody Archipelago Arc
           Covers anime episode(s): 385-405
@@ -1600,7 +1600,7 @@ metadata:
               Covers manga chapter(s): 512-513
       23:
         title: Amazon Lily
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/23.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/23.png
         summary: |-
           The Amazon Lily Arc
           Covers anime episode(s): 408-421
@@ -1643,7 +1643,7 @@ metadata:
               Covers manga chapter(s): 523-524
       24:
         title: Impel Down
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/24.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/24.png
         summary: |-
           The Impel Down Arc
           Covers anime episode(s): 422-454
@@ -1721,7 +1721,7 @@ metadata:
               Covers manga chapter(s): 547-548
       25:
         title: The Adventures of the Straw Hats
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/25.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/25.png
         summary: |-
           The The Adventures of the Straw Hats Arc
           Covers anime episode(s): 453-456
@@ -1736,7 +1736,7 @@ metadata:
               Covers manga chapter(s): 543-560
       26:
         title: Marineford
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/26.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/26.png
         summary: |-
           The Marineford Arc
           Covers anime episode(s): 452-489
@@ -1863,7 +1863,7 @@ metadata:
               Covers manga chapter(s): 579-580
       27:
         title: Post-War
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/27.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/27.png
         summary: |-
           The Post-War Arc
           Covers anime episode(s): 490-516
@@ -1927,7 +1927,7 @@ metadata:
               Covers manga chapter(s): 595-597
       28:
         title: Return to Sabaody
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/28.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/28.png
         summary: |-
           The Return to Sabaody Arc
           Covers anime episode(s): 517-522
@@ -1956,7 +1956,7 @@ metadata:
               Covers manga chapter(s): 601-602
       29:
         title: Fishman Island
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/29.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/29.png
         summary: |-
           The Fishman Island Arc
           Covers anime episode(s): 523-573
@@ -2132,7 +2132,7 @@ metadata:
               Covers manga chapter(s): 652-653
       30:
         title: Punk Hazard
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/30.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/30.png
         summary: |-
           The Punk Hazard Arc
           Covers anime episode(s): 574-628
@@ -2294,7 +2294,7 @@ metadata:
               Covers manga chapter(s): 698-699
       31:
         title: Dressrosa
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/31.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/31.png
         summary: |-
           The Dressrosa Arc
           Covers anime episode(s): 628-745
@@ -2638,7 +2638,7 @@ metadata:
               Covers manga chapter(s): 798-800
       32:
         title: Zou
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/32.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/32.png
         summary: |-
           The Zou Arc
           Covers anime episode(s): 746-776
@@ -2716,7 +2716,7 @@ metadata:
               Covers manga chapter(s): 820-822
       33:
         title: Whole Cake Island
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/33.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/33.png
         summary: |-
           The Whole Cake Island Arc
           Covers anime episode(s): 777-877
@@ -2997,7 +2997,7 @@ metadata:
               Covers manga chapter(s): 901-902
       34:
         title: Reverie
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/34.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/34.png
         summary: |-
           The Reverie Arc
           Covers anime episode(s): 878-889
@@ -3026,7 +3026,7 @@ metadata:
               Covers manga chapter(s): 907-908
       35:
         title: Wano (WIP)
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/35.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/35.png
         summary: |-
           The Wano (WIP) Arc
           Covers anime episode(s): 890-1015
@@ -3419,7 +3419,7 @@ metadata:
               Covers manga chapter(s): 1000
       36:
         title: Egghead (WIP)
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/36.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/36.png
         summary: |-
           The Egghead (WIP) Arc
           Covers anime episode(s): 1086-1124
