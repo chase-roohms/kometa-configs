@@ -182,13 +182,45 @@ def parse_csv_file(csv_path: Path) -> dict:
     }
 
 
-def build_metadata_structure(arcs_data: list, start_season: int) -> dict:
+def load_existing_metadata(metadata_file: Path) -> dict:
+    """
+    Load parent-level metadata from existing one-pace.yml file.
+    
+    Args:
+        metadata_file: Path to existing metadata YAML file
+        
+    Returns:
+        Dictionary with parent metadata (without seasons)
+    """
+    if not metadata_file.exists():
+        print(f"Warning: Existing metadata file not found at {metadata_file}", file=sys.stderr)
+        print("Using default metadata values", file=sys.stderr)
+        return {}
+    
+    try:
+        with open(metadata_file, 'r', encoding='utf-8') as f:
+            existing = yaml.safe_load(f)
+            
+        if existing and 'metadata' in existing and 'One Pace' in existing['metadata']:
+            parent_metadata = existing['metadata']['One Pace'].copy()
+            # Remove seasons since we'll be regenerating them
+            parent_metadata.pop('seasons', None)
+            return parent_metadata
+    except Exception as e:
+        print(f"Warning: Could not read existing metadata: {e}", file=sys.stderr)
+        print("Using default metadata values", file=sys.stderr)
+    
+    return {}
+
+
+def build_metadata_structure(arcs_data: list, start_season: int, existing_metadata_file: Path) -> dict:
     """
     Build the complete metadata structure as a dictionary.
     
     Args:
         arcs_data: List of tuples (arc_name, episodes_dict)
         start_season: Starting season number
+        existing_metadata_file: Path to existing metadata file to pull parent metadata from
         
     Returns:
         Dictionary representing the complete YAML structure
@@ -213,32 +245,41 @@ def build_metadata_structure(arcs_data: list, start_season: int) -> dict:
             'episodes': episodes
         }
     
+    # Load parent metadata from existing file
+    parent_metadata = load_existing_metadata(existing_metadata_file)
+    
+    # If we couldn't load existing metadata, use defaults
+    if not parent_metadata:
+        parent_metadata = {
+            'match': {
+                'title': 'One Pace'
+            },
+            'label_title': 'One Pace',
+            'sort_title': 'One Pace',
+            'original_title': 'One Piece',
+            'use_original_title': 'no',
+            'release_year': '2013',
+            'url_poster': 'https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/parent.png',
+            'url_background': 'https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/background.png',
+            'url_logo': 'https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/logo.png',
+            'studio': 'Toei Animation',
+            'audio_language': 'ja-JP',
+            'tagline': 'The dreams of pirates will never end!',
+            'summary': 'One Pace is a fan project that recuts the One Piece anime in an attempt '
+                      'to make the anime pacing more bearable. The team accomplishes this by removing '
+                      'filler scenes not present in the source material. This process requires meticulous '
+                      'editing and quality control to ensure seamless music and transitions. One Pace '
+                      'includes everything that is in the manga, plus a little bit of anime only content '
+                      'where it is appropriate.',
+            'genre.sync': ['Anime']
+        }
+    
+    # Add the seasons to the parent metadata
+    parent_metadata['seasons'] = seasons
+    
     metadata = {
         'metadata': {
-            'One Pace': {
-                'match': {
-                    'title': 'One Pace'
-                },
-                'label_title': 'One Pace',
-                'sort_title': 'One Pace',
-                'original_title': 'One Piece',
-                'use_original_title': 'no',
-                'release_year': '2013',
-                'url_poster': 'https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/parent.png',
-                'url_background': 'https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/background.png',
-                'url_logo': 'https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/logo.png',
-                'studio': 'Toei Animation',
-                'audio_language': 'ja-JP',
-                'tagline': 'The dreams of pirates will never end!',
-                'summary': 'One Pace is a fan project that recuts the One Piece anime in an attempt '
-                          'to make the anime pacing more bearable. The team accomplishes this by removing '
-                          'filler scenes not present in the source material. This process requires meticulous '
-                          'editing and quality control to ensure seamless music and transitions. One Pace '
-                          'includes everything that is in the manga, plus a little bit of anime only content '
-                          'where it is appropriate.',
-                'genre.sync': ['Anime'],
-                'seasons': seasons
-            }
+            'One Pace': parent_metadata
         }
     }
     
@@ -346,8 +387,12 @@ def main():
         arcs_data.append((clean_arc_name, arc_data['episodes']))
         print(f"  ✓ Found {len(arc_data['episodes'])} episodes")
     
+    # Determine the source metadata file (use existing output file if it exists)
+    output_path = Path(args.output)
+    existing_metadata_file = output_path if output_path.exists() else Path("metadata/one-pace.yml")
+    
     # Build the metadata structure
-    metadata_structure = build_metadata_structure(arcs_data, args.start_season)
+    metadata_structure = build_metadata_structure(arcs_data, args.start_season, existing_metadata_file)
     
     # Configure PyYAML to use literal style for multiline strings (preserves newlines without blank lines)
     def str_representer(dumper, data):
