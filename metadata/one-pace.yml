@@ -9,8 +9,9 @@ metadata:
     release_year: '2013'
     url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/parent.png
     url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/background.png
-    # For some reason right now there is an issue with applying url_logo in this way, waiting on answer in the Kometa Discord
-    # url_logo: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/logo.png
+    # For some reason there is sometimes an issue applying this, and you will get a Critical "no such table: image_map_2_logos"
+    # error. In those cases, delete the config.cache file in the config directory
+    url_logo: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/logo.png
     studio: Toei Animation
     audio_language: ja-JP
     tagline: The dreams of pirates will never end!
