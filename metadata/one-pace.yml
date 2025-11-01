@@ -7,11 +7,11 @@ metadata:
     release_year: '2013'
     url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/parent.png
     summary: One Pace is a fan project that recuts the One Piece anime in an attempt
-      to make the anime's pacing more bearable. The team accomplishes this by removing
+      to make the anime pacing more bearable. The team accomplishes this by removing
       filler scenes not present in the source material. This process requires meticulous
       editing and quality control to ensure seamless music and transitions. One Pace
-      includes everything that's in the manga, plus a little bit of anime only content
-      where it's appropriate.
+      includes everything that is in the manga, plus a little bit of anime only content
+      where it is appropriate.
     audio_language: ja-JP
     genre.sync:
     - Anime
@@ -148,8 +148,7 @@ metadata:
       7:
         title: The Adventures of Buggy's Crew
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/7.png
-        summary: 'The The Adventures of Buggy''s Crew arc, covering the anime episodes:
-          46 - 47'
+        summary: "The Adventures of Buggy's Crew arc, covering the anime episodes: 46 - 47"
         episodes:
           1:
             title: The Adventures of Buggy's Crew Pt. 1 (Episode(s) 46-47)
@@ -171,8 +170,7 @@ metadata:
       9:
         title: Reverse Mountain
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/9.png
-        summary: 'The Reverse Mountain arc, covering the anime episodes: 55, 61 -
-          63'
+        summary: 'The Reverse Mountain arc, covering the anime episodes: 55, 61 - 63'
         episodes:
           1:
             title: Reverse Mountain Pt. 1 (Episode(s) 54-55,61-62)
@@ -194,8 +192,7 @@ metadata:
       11:
         title: The Trials of Koby-Meppo
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/11.png
-        summary: 'The The Trials of Koby-Meppo arc, covering the anime episodes: 68
-          - 69'
+        summary: 'The The Trials of Koby-Meppo arc, covering the anime episodes: 68 - 69'
         episodes:
           1:
             title: The Trials of Koby-Meppo Pt. 1 (Episode(s) 68-69)
@@ -429,8 +426,7 @@ metadata:
       17:
         title: Long Ring Long Land
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/17.png
-        summary: 'The Long Ring Long Land arc, covering the anime episodes: 207 -
-          219, 226 - 228'
+        summary: 'The Long Ring Long Land arc, covering the anime episodes: 207 - 219, 226 - 228'
         episodes:
           1:
             title: Long Ring Long Land Pt. 1 (Episode(s) 207-209)
@@ -689,8 +685,7 @@ metadata:
       22:
         title: Sabaody Archipelago
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/22.png
-        summary: 'The Sabaody Archipelago arc, covering the anime episodes: 385 -
-          405'
+        summary: 'The Sabaody Archipelago arc, covering the anime episodes: 385 - 405'
         episodes:
           1:
             title: Sabaody Archipelago Pt. 1 (Episode(s) 385-386)
@@ -783,8 +778,7 @@ metadata:
       25:
         title: The Adventures of the Straw Hats
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/25.png
-        summary: 'The The Adventures of the Straw Hats arc, covering the anime episodes:
-          453 - 456'
+        summary: 'The Adventures of the Straw Hats arc, covering the anime episodes: 453 - 456'
         episodes:
           1:
             title: The Adventures of the Straw Hats Pt. 1 (Episode(s) 453-456)
@@ -1357,7 +1351,7 @@ metadata:
             title: Reverie Pt. 3 (Episode(s) 886-889)
             summary: 'Covers Anime episode(s): 886-889'
       35:
-        title: Wano
+        title: Wano (WIP)
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/35.png
         summary: 'The Wano arc, covering the anime episodes: 890 - 1085'
         episodes:
@@ -1527,9 +1521,9 @@ metadata:
             title: Wano Pt. 55 (Episode(s) 1015)
             summary: 'Covers Anime episode(s): 1015'
       36:
-        title: Egghead
+        title: Egghead (WIP)
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/seasons/36.png
-        summary: 'The Egghead arc, covering the anime episodes: 1086 —'
+        summary: 'The Egghead arc, covering the anime episodes: 1086 and on'
         episodes:
           1:
             title: Egghead Pt. 1 (Episode(s) 1086-1088)
