@@ -362,7 +362,7 @@ def main():
             default_flow_style=False,
             allow_unicode=True,
             sort_keys=False,
-            width=float('inf')  # Prevent line wrapping
+            width=80  # Wrap long lines at 80 characters for readability
         )
     
     print(f"\n✓ Successfully generated metadata for {len(arcs_data)} arcs")
