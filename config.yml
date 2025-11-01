@@ -549,7 +549,7 @@ plex:
   url: <<SERVERURL>>:32400
   token: <<PLEXTOKEN>>
   timeout: 60
-  db_cache:
+  db_cache: 2048
   clean_bundles: false
   empty_trash: false
   optimize: false
