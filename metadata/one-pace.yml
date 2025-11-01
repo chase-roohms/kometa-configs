@@ -9,7 +9,8 @@ metadata:
     release_year: '2013'
     url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/parent.png
     url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/background.png
-    url_logo: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/logo.png
+    # For some reason right now there is an issue with applying url_logo in this way, waiting on answer in the Kometa Discord
+    # url_logo: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/posters/one-pace/logo.png
     studio: Toei Animation
     audio_language: ja-JP
     tagline: The dreams of pirates will never end!
