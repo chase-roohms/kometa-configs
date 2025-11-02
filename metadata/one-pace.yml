@@ -155,7 +155,7 @@ metadata:
       4:
         title: Gaimon
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/4.png
-        url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/specials.png
+        url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/background.png
         saga: Specials
         summary: |-
           Shortly after landing on the Island of Rare Animals, most of his body was irreversibly compressed into a treasure chest, leaving only his head, hands, and feet free (and one of his teeth dislodged). Over the next twenty years, he grew a sizable beard and an even larger afro, giving him a curiously shrub-like appearance.
@@ -318,7 +318,7 @@ metadata:
       7:
         title: The Adventures of Buggy's Crew
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/7.png
-        url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/specials.png
+        url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/background.png
         saga: Specials
         summary: |-
           Chronicles the misadventures of Buggy as he makes his way across the sea without his limbs or torso, and his crew as they choose a new captain. They end up (literally) in a hot pot of soup.
@@ -414,7 +414,7 @@ metadata:
       11:
         title: The Trials of Koby-Meppo
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/11.png
-        url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/specials.png
+        url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/background.png
         saga: Specials
         summary: |-
           Follows Koby and Helmeppo's trials and tribulations as chore boys in the Marines after the incident involving Helmeppo's father, and how they are taken in by Vice Admiral Garp.
@@ -1772,7 +1772,7 @@ metadata:
       25:
         title: The Adventures of the Straw Hats
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/25.png
-        url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/specials.png
+        url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/background.png
         saga: Specials
         summary: |-
           After parting ways at Dressrosa, the adventures of the Straw Hat Grand Fleet are shown.

@@ -66,7 +66,7 @@ sagas:
       - Egghead
       - Elbaph
   Specials:
-    url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/specials.png
+    url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/background.png
     arcs:
       - Gaimon
       - The Trials of Koby-Meppo
