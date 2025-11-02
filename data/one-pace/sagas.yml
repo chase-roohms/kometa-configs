@@ -44,7 +44,7 @@ sagas:
     url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/fish-man-island.png
     arcs:
       - Return to Sabaody
-      - Fish-Man Island
+      - Fishman Island
   Dressrosa:
     url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/dressrosa.png
     arcs:
