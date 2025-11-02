@@ -1,0 +1,74 @@
+sagas:
+  East Blue:
+    url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/east-blue.png
+    arcs:
+      - Romance Dawn
+      - Orange Town
+      - Syrup Village
+      - Baratie
+      - Arlong Park
+      - Loguetown
+  Arabasta:
+    url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/arabasta.png
+    arcs:
+      - Reverse Mountain
+      - Whisky Peak
+      - Little Garden
+      - Drum Island
+      - Arabasta
+  Sky Island:
+    url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/sky-island.png
+    arcs:
+      - Jaya
+      - Skypiea
+  Water Seven:
+    url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/water-seven.png
+    arcs:
+      - Long Ring Long Land
+      - Water Seven
+      - Enies Lobby
+      - Post-Enies Lobby
+  Thriller Bark:
+    url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/thriller-bark.png
+    arcs:
+      - Thriller Bark
+  Summit War:
+    url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/summit-war.png
+    arcs:
+      - Sabaody Archipelago
+      - Amazon Lily
+      - Impel Down
+      - Marineford
+      - Post-War
+  Fish-Man Island:
+    url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/fish-man-island.png
+    arcs:
+      - Return to Sabaody
+      - Fish-Man Island
+  Dressrosa:
+    url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/dressrosa.png
+    arcs:
+      - Punk Hazard
+      - Dressrosa
+  Whole Cake Island:
+    url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/whole-cake-island.png
+    arcs:
+      - Zou
+      - Whole Cake Island
+      - Reverie
+  Wano Country:
+    url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/wano-country.png
+    arcs:
+      - Wano
+  Final Saga:
+    url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/final-saga.png
+    arcs:
+      - Egghead
+      - Elbaph
+  Specials:
+    url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/specials.png
+    arcs:
+      - Gaimon
+      - The Trials of Koby-Meppo
+      - The Adventures of Buggy's Crew
+      - The Adventures of the Straw Hats

@@ -292,7 +292,47 @@ def load_arc_summaries(summaries_file: Path) -> dict:
     return {}
 
 
-def build_metadata_structure(arcs_data: list, start_season: int, existing_metadata_file: Path, summaries_file: Path, arc_overview_data: dict) -> dict:
+def load_saga_data(sagas_file: Path) -> dict:
+    """
+    Load saga information from sagas.yml file.
+    
+    Args:
+        sagas_file: Path to sagas YAML file
+        
+    Returns:
+        Dictionary mapping arc names to their saga information (name and background URL)
+    """
+    if not sagas_file.exists():
+        print(f"Warning: Sagas file not found at {sagas_file}", file=sys.stderr)
+        return {}
+    
+    try:
+        with open(sagas_file, 'r', encoding='utf-8') as f:
+            data = yaml.safe_load(f)
+            
+        if not data or 'sagas' not in data:
+            return {}
+        
+        # Build a mapping of arc_name -> (saga_name, saga_background_url)
+        arc_to_saga = {}
+        for saga_name, saga_data in data['sagas'].items():
+            url_background = saga_data.get('url_background', '')
+            arcs = saga_data.get('arcs', [])
+            
+            for arc_name in arcs:
+                arc_to_saga[arc_name] = {
+                    'saga_name': saga_name,
+                    'url_background': url_background
+                }
+        
+        return arc_to_saga
+    except Exception as e:
+        print(f"Warning: Could not read sagas file: {e}", file=sys.stderr)
+    
+    return {}
+
+
+def build_metadata_structure(arcs_data: list, start_season: int, existing_metadata_file: Path, summaries_file: Path, sagas_file: Path, arc_overview_data: dict) -> dict:
     """
     Build the complete metadata structure as a dictionary.
     
@@ -301,13 +341,15 @@ def build_metadata_structure(arcs_data: list, start_season: int, existing_metada
         start_season: Starting season number
         existing_metadata_file: Path to existing metadata file to pull parent metadata from
         summaries_file: Path to summaries YAML file
+        sagas_file: Path to sagas YAML file
         arc_overview_data: Dictionary of arc data from Arc Overview.csv
         
     Returns:
         Dictionary representing the complete YAML structure
     """
-    # Load arc summaries
+    # Load arc summaries and saga data
     arc_summaries = load_arc_summaries(summaries_file)
+    arc_to_saga = load_saga_data(sagas_file)
     
     seasons = {}
     
@@ -353,12 +395,31 @@ def build_metadata_structure(arcs_data: list, start_season: int, existing_metada
         if manga_range:
             summary_parts.append(f'Covers manga chapter(s): {manga_range}')
         
-        seasons[season_num] = {
-            'title': arc_name,
-            'url_poster': f'https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/{season_num}.png',
-            'summary': '\n'.join(summary_parts),
-            'episodes': episodes
-        }
+        # Build season metadata with keys in desired order:
+        # title, url_poster, url_background, saga, summary, episodes
+        season_metadata = OrderedDict()
+        season_metadata['title'] = arc_name
+        season_metadata['url_poster'] = f'https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/{season_num}.png'
+        
+        # Add saga information if available
+        # Try to find saga info using the same lookup variations as summaries
+        saga_info = arc_to_saga.get(lookup_name)
+        if not saga_info:
+            saga_info = arc_to_saga.get(lookup_name_normalized)
+        if not saga_info and lookup_name_normalized.endswith('s'):
+            saga_info = arc_to_saga.get(lookup_name_normalized[:-1])
+        
+        # Add url_background and saga in the correct order
+        if saga_info:
+            if saga_info['url_background']:
+                season_metadata['url_background'] = saga_info['url_background']
+            season_metadata['saga'] = saga_info['saga_name']
+        
+        # Add summary and episodes last
+        season_metadata['summary'] = '\n'.join(summary_parts)
+        season_metadata['episodes'] = episodes
+        
+        seasons[season_num] = season_metadata
     
     # Load parent metadata from existing file
     parent_metadata = load_existing_metadata(existing_metadata_file)
@@ -478,13 +539,18 @@ def configure_yaml_multiline_strings():
     Configure PyYAML to use literal style for multiline strings.
     
     This preserves newlines without blank lines, making the output more readable.
+    Also configures OrderedDict to be represented as regular YAML mappings.
     """
     def str_representer(dumper, data):
         if '\n' in data:
             return dumper.represent_scalar('tag:yaml.org,2002:str', data, style='|')
         return dumper.represent_scalar('tag:yaml.org,2002:str', data)
     
+    def ordered_dict_representer(dumper, data):
+        return dumper.represent_mapping('tag:yaml.org,2002:map', data.items())
+    
     yaml.add_representer(str, str_representer)
+    yaml.add_representer(OrderedDict, ordered_dict_representer)
 
 
 def main():
@@ -512,6 +578,11 @@ def main():
         "--summaries",
         default="data/one-pace/summaries.yml",
         help="Summaries YAML file (default: data/one-pace/summaries.yml)"
+    )
+    parser.add_argument(
+        "--sagas",
+        default="data/one-pace/sagas.yml",
+        help="Sagas YAML file (default: data/one-pace/sagas.yml)"
     )
     
     args = parser.parse_args()
@@ -560,9 +631,10 @@ def main():
     output_path = Path(args.output)
     existing_metadata_file = output_path if output_path.exists() else Path("metadata/one-pace.yml")
     summaries_file = Path(args.summaries)
+    sagas_file = Path(args.sagas)
     
     # Build the metadata structure
-    metadata_structure = build_metadata_structure(arcs_data, args.start_season, existing_metadata_file, summaries_file, arc_overview_data)
+    metadata_structure = build_metadata_structure(arcs_data, args.start_season, existing_metadata_file, summaries_file, sagas_file, arc_overview_data)
     
     # Configure PyYAML to use literal style for multiline strings (preserves newlines without blank lines)
     configure_yaml_multiline_strings()
