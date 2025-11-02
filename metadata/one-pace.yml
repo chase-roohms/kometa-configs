@@ -1,3 +1,4 @@
+# yaml-language-server: $schema=https://json-schema.org/draft-07/schema
 metadata:
   One Pace:
     match:
@@ -27,7 +28,7 @@ metadata:
         title: Romance Dawn
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/1.png
         summary: |-
-          The Romance Dawn Arc
+          Influenced by Shanks, Luffy starts his journey to become the Pirate King by finding a treasure hidden by the previous Pirate King Gold Roger. At the beginning of his journey, he battles pirate captain Alvida and frees her cabin boy Koby, who wants to become a Marine. Luffy and Koby reach Shells Town, where they meet corrupt Marine captain Axe-Hand Morgan, his son Helmeppo, and the pirate hunter Roronoa Zoro.
           Covers anime episode(s): 1-312
           Covers manga chapter(s): 1-7
         episodes:
@@ -63,7 +64,7 @@ metadata:
         title: Orange Town
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/2.png
         summary: |-
-          The Orange Town Arc
+          Luffy and his first crew member Zoro arrive at Orange Town where they meet a thief named Nami, who hates pirates. The trio makes an unlikely team, fighting to free the town from the rule of Buggy the Clown.
           Covers anime episode(s): 4-8
           Covers manga chapter(s): 8-21
         episodes:
@@ -92,7 +93,7 @@ metadata:
         title: Syrup Village
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/3.png
         summary: |-
-          The Syrup Village Arc
+          After Nami forms a partnership with the two as their navigator, the crew reaches Syrup Village and searches for a ship to use. There, they encounter a chronic liar named Usopp. When a devious plot is revealed, Usopp's courage is put to the test as the crew prepare for a battle with the Black Cat Pirates.
           Covers anime episode(s): 9-17
           Covers manga chapter(s): 23-41
         episodes:
@@ -149,7 +150,7 @@ metadata:
         title: Gaimon
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/4.png
         summary: |-
-          The Gaimon Arc
+          Shortly after landing on the Island of Rare Animals, most of his body was irreversibly compressed into a treasure chest, leaving only his head, hands, and feet free (and one of his teeth dislodged). Over the next twenty years, he grew a sizable beard and an even larger afro, giving him a curiously shrub-like appearance.
           Covers anime episode(s): 18-18
           Covers manga chapter(s): 22-42
         episodes:
@@ -164,7 +165,7 @@ metadata:
         title: Baratie
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/5.png
         summary: |-
-          The Baratie Arc
+          Usopp joins the crew as a sniper. In search of a cook for their ship, the crew go to a sea restaurant known as the Baratie. However, the restaurant is attacked by the powerful Don Krieg, who has returned from the Grand Line after being attacked by Dracule Mihawk, and wants to use the Baratie as a vessel to go back.
           Covers anime episode(s): 19-135
           Covers manga chapter(s): 42-69
         episodes:
@@ -228,7 +229,7 @@ metadata:
         title: Arlong Park
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/6.png
         summary: |-
-          The Arlong Park Arc
+          With Sanji from the Baratie joining the crew and Nami stealing the ship, the crew follow her to an island under the control of the fish-man pirate Arlong. Nami reveals that she is a member of the Arlong Pirates and simply helped the crew so she could take their gold later. But why would she follow a man like Arlong?
           Covers anime episode(s): 31-44
           Covers manga chapter(s): 69-95
         episodes:
@@ -306,7 +307,7 @@ metadata:
         title: The Adventures of Buggy's Crew
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/7.png
         summary: |-
-          The The Adventures of Buggy's Crew Arc
+          Chronicles the misadventures of Buggy as he makes his way across the sea without his limbs or torso, and his crew as they choose a new captain. They end up (literally) in a hot pot of soup.
           Covers anime episode(s): 46-47
           Covers manga chapter(s): 35-75
         episodes:
@@ -321,7 +322,7 @@ metadata:
         title: Loguetown
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/8.png
         summary: |-
-          The Loguetown Arc
+          After Nami officially joins, the crew heads to the last town before the entrance to the Grand Line, Loguetown, the place where Gold Roger was both born and executed. Not only will they have to deal with a powerful Marine captain and his second-in-command who reminds Zoro of his past, but also previous enemies looking for revenge.
           Covers anime episode(s): 45-53
           Covers manga chapter(s): 96-100
         episodes:
@@ -350,7 +351,7 @@ metadata:
         title: Reverse Mountain
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/9.png
         summary: |-
-          The Reverse Mountain Arc
+          The crew has entered the Grand Line, but they encounter an obstacle as soon as they get in - a giant whale that swallows the entire ship. Also inside the whale are two mysterious rogues.
           Covers anime episode(s): 54-63
           Covers manga chapter(s): 101-105
         episodes:
@@ -372,7 +373,7 @@ metadata:
         title: Whisky Peak
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/10.png
         summary: |-
-          The Whisky Peak Arc
+          Led by the mysterious Mr. 9 and Ms. Wednesday, the crew go to Whisky Peak, where the townspeople immediately start a party to celebrate their arrival. But there is more to this town than there appears...
           Covers anime episode(s): 64-67
           Covers manga chapter(s): 106-114
         episodes:
@@ -394,7 +395,7 @@ metadata:
         title: The Trials of Koby-Meppo
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/11.png
         summary: |-
-          The The Trials of Koby-Meppo Arc
+          Follows Koby and Helmeppo's trials and tribulations as chore boys in the Marines after the incident involving Helmeppo's father, and how they are taken in by Vice Admiral Garp.
           Covers anime episode(s): 68-69
           Covers manga chapter(s): 83-119
         episodes:
@@ -409,7 +410,7 @@ metadata:
         title: Little Garden
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/12.png
         summary: |-
-          The Little Garden Arc
+          On their mission to bring Princess Vivi, who was undercover in Baroque Works as Ms. Wednesday, to Arabasta, the crew land at Little Garden, which is actually a huge island that is still stuck in the prehistoric era. However, there are more than dinosaurs on this island, as the crew soon finds out when they encounter two giants that have been locked in combat for over 100 years and four high-ranking Baroque Works members.
           Covers anime episode(s): 70-79
           Covers manga chapter(s): 115-129
         episodes:
@@ -452,7 +453,7 @@ metadata:
         title: Drum Island
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/13.png
         summary: |-
-          The Drum Island Arc
+          When Nami catches a fatal illness, the crew is forced to stop at Drum Island, a kingless country that is trying to establish a new government. Due to the actions of the previous king, Wapol, there is only one doctor left—a "witch" named Kureha who lives at the top of a mountain. Luffy and Sanji must reach the peak, but the exiled King Wapol returns to reclaim his country.
           Covers anime episode(s): 78-91
           Covers manga chapter(s): 129-156
         episodes:
@@ -516,7 +517,7 @@ metadata:
         title: Arabasta
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/14.png
         summary: |-
-          The Arabasta Arc
+          The crew, with Kureha's assistant Tony Tony Chopper among them, finally arrive at Arabasta, which is on the verge of civil war. Vivi must reach the rebels and tell them the real cause behind the conflict, but Crocodile, leader of Baroque Works and one of the Seven Warlords of the Sea, will not just stand by and watch. In the end, Baroque Works, marine forces, pirates, the royal guards, and the rebel army clash in a battle that will determine the fate of the country itself.
           Covers anime episode(s): 92-130
           Covers manga chapter(s): 155-218
         episodes:
@@ -671,7 +672,7 @@ metadata:
         title: Jaya
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/15.png
         summary: |-
-          The Jaya Arc
+          The crew tearfully leaves Vivi behind and continue on their journey with Ms. All Sunday, aka Nico Robin, joining as an archaeologist. When a ship inexplicably falls from the sky and the Log Pose begins pointing up, they go to the island of Jaya for information on "Sky Island". There, they encounter Bellamy, a pirate who is heralding a "New Age" where pirates do not dream, and a man named Mont Blanc Cricket, a descendant of a the subject of a cautionary tale.
           Covers anime episode(s): 143-152
           Covers manga chapter(s): 218-236
         episodes:
@@ -735,7 +736,7 @@ metadata:
         title: Skypiea
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/16.png
         summary: |-
-          The Skypiea Arc
+          Riding the Knock Up Stream, the crew finds themselves in the "White Sea", an ocean in the sky. The Straw Hats soon discover that there is a war between the Sky People and the natives who originally inhabited a place known as the Upper Yard. They also learn of the cruel God Enel.
           Covers anime episode(s): 153-207
           Covers manga chapter(s): 237-303
         episodes:
@@ -925,7 +926,7 @@ metadata:
         title: Long Ring Long Land
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/17.png
         summary: |-
-          The Long Ring Long Land Arc
+          The crew returns to the Blue Sea with gold and dials from Skypiea, only to encounter Foxy the Silver Fox, a pirate who challenges them to a "Davy Back Fight", a series of games where the winner takes crewmates from the loser crew. However, even after defeating Foxy, the Straw Hats encounter an enemy whom they have no hope of beating.
           Covers anime episode(s): 207-228
           Covers manga chapter(s): 303-321
         episodes:
@@ -982,7 +983,7 @@ metadata:
         title: Water Seven
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/18.png
         summary: |-
-          The Water Seven Arc
+          In search of a shipwright to join the crew, the Straw Hats land at the thriving metropolis of Water 7. Here, the crew falls apart as two members leave. To make matters worse, the shipwrights are unable to repair the Straw Hats' ship, their money is stolen by thugs, and they are framed for the attempted assassination of Water 7's mayor, who is also president of the Galley-La Company, a shipbuilding company. They try to find the real culprit, but they soon learn that they may have been caught head over heels by the government assassination group CP9.
           Covers anime episode(s): 228-320
           Covers manga chapter(s): 322-374
         episodes:
@@ -1130,7 +1131,7 @@ metadata:
         title: Enies Lobby
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/19.png
         summary: |-
-          The Enies Lobby Arc
+          The Straw Hats, the Franky Family, and the Galley-La Company team up to rescue Nico Robin, save Franky and avenge Iceburg's assassination attempt. To do this, they attack Enies Lobby, a government stronghold where CP9 is based, declaring war on the World Government.
           Covers anime episode(s): 263-312
           Covers manga chapter(s): 375-430
         episodes:
@@ -1313,7 +1314,7 @@ metadata:
         title: Post-Enies Lobby
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/20.png
         summary: |-
-          The Post-Enies Lobby Arc
+          Resting after their ordeals on Enies Lobby, the Straw Hats' world is turned upside-down as familiar faces return with unexpected revelations for the continuation of their journey. In the New World, Shanks makes his move to protect Whitebeard's subordinate Ace from a familiar face with a horrific new power.
           Covers anime episode(s): 313-325
           Covers manga chapter(s): 431-441
         episodes:
@@ -1356,7 +1357,7 @@ metadata:
         title: Thriller Bark
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/21.png
         summary: |-
-          The Thriller Bark Arc
+          The Straw Hats, now including Franky and the members who previously left, continue their adventure out into the Florian Triangle where they come across a strange barrel which upon opening, sets off a flare. This soon turns into a nightmare when a ghost ship directs them to the haunted island of Thriller Bark, where ghosts, zombies and Warlord of the Sea Gecko Moria await them.
           Covers anime episode(s): 326-381
           Covers manga chapter(s): 442-489
         episodes:
@@ -1518,7 +1519,7 @@ metadata:
         title: Sabaody Archipelago
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/22.png
         summary: |-
-          The Sabaody Archipelago Arc
+          Arriving at the Red Line, the crew, now joined by skeleton musician Brook, searches for a way to get to the famed Fish-Man Island. The Straw Hats are soon diverted from their search when a mermaid and a talking starfish appear, and they soon find themselves saving an old enemy from a kidnapping ring. Things take a turn for the worst when the Straw Hats find themselves cornered at every turn with a Warlord of the Sea, a Marine admiral and World Government officials.
           Covers anime episode(s): 385-405
           Covers manga chapter(s): 490-513
         episodes:
@@ -1603,7 +1604,7 @@ metadata:
         title: Amazon Lily
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/23.png
         summary: |-
-          The Amazon Lily Arc
+          Kuma sends each of the Straw Hat Pirates flying from the Sabaody Archipelago to different islands. This arc centers on Luffy, who lands on an island where only women live. Luffy soon discovers that the women on the island are led by Warlord of the Sea Boa Hancock.
           Covers anime episode(s): 408-421
           Covers manga chapter(s): 514-524
         episodes:
@@ -1646,7 +1647,7 @@ metadata:
         title: Impel Down
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/24.png
         summary: |-
-          The Impel Down Arc
+          Winning over the heart of the beautiful Hancock, Luffy manages to storm the prison of Impel Down, hoping to save his brother Ace from execution before it sparks an ultimate showdown between the Whitebeard Pirates and the World Government.
           Covers anime episode(s): 422-454
           Covers manga chapter(s): 525-548
         episodes:
@@ -1724,7 +1725,7 @@ metadata:
         title: The Adventures of the Straw Hats
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/25.png
         summary: |-
-          The The Adventures of the Straw Hats Arc
+          After parting ways at Dressrosa, the adventures of the Straw Hat Grand Fleet are shown.
           Covers anime episode(s): 453-456
           Covers manga chapter(s): 543-560
         episodes:
@@ -1739,7 +1740,7 @@ metadata:
         title: Marineford
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/26.png
         summary: |-
-          The Marineford Arc
+          Unable to rescue Ace before he was transferred, Luffy and his group of Impel Down escapees follow after him to Marineford. With time running out until Ace's execution, the Whitebeard Pirates and the World Government prepare their forces to clash in a battle that could drastically change the era.
           Covers anime episode(s): 452-489
           Covers manga chapter(s): 549-580
         episodes:
@@ -1866,7 +1867,7 @@ metadata:
         title: Post-War
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/27.png
         summary: |-
-          The Post-War Arc
+          The world reels from the death of Whitebeard, causing chaos to ripple all across the Grand Line. Luffy, struggling to cope with Ace's death, remembers he has something just as important to him - his crew. Will the Straw Hat Pirates ever reunite?
           Covers anime episode(s): 490-516
           Covers manga chapter(s): 581-597
         episodes:
@@ -1930,7 +1931,7 @@ metadata:
         title: Return to Sabaody
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/28.png
         summary: |-
-          The Return to Sabaody Arc
+          Two years have passed since the crew was separated and the Straw Hats have trained vigorously since then. They are now set to reunite and pick up from where they left off on their journey.
           Covers anime episode(s): 517-522
           Covers manga chapter(s): 598-602
         episodes:
@@ -1959,7 +1960,7 @@ metadata:
         title: Fishman Island
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/29.png
         summary: |-
-          The Fishman Island Arc
+          After two years, the Straw Hats are finally beginning their undersea journey to Fish-Man Island, and meet Luffy's friend, former Warlord Jinbe. When a local fortuneteller predicts Luffy destroying Fish-Man Island, the Straw Hats are falsely accused as criminals, and to complicate matters further, an alliance between Hody Jones and Vander Decken IX plots to take over the Ryugu Kingdom.
           Covers anime episode(s): 523-573
           Covers manga chapter(s): 603-653
         episodes:
@@ -2135,7 +2136,7 @@ metadata:
         title: Punk Hazard
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/30.png
         summary: |-
-          The Punk Hazard Arc
+          After entering the New World, the Straw Hats are led to Punk Hazard by a distress call. There, they find a samurai in search of his son, run afoul of Smoker's new Marine platoon, and join Trafalgar Law in a plot to take down one of the Four Emperors. As part of this plot, they are tasked with capturing Caesar Clown, the mad scientist who operates on the island and come to learn of his connections to the Underworld and its influential broker, Warlord of the Sea Donquixote Doflamingo.
           Covers anime episode(s): 574-628
           Covers manga chapter(s): 654-699
         episodes:
@@ -2297,7 +2298,7 @@ metadata:
         title: Dressrosa
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/31.png
         summary: |-
-          The Dressrosa Arc
+          The Straw Hats, Law, Kin'emon, and Momonosuke head to Dressrosa with a captive Caesar to broker a deal with Doflamingo, destroy his SMILE Factory, and free the samurai's comrade Kanjuro. They soon discover that both Doflamingo and Dressrosa are shrouded with many secrets, and Law's conflict with Doflamingo quickly turns personal. Luffy works to obtain his late brother's Devil Fruit while half of the other Straw Hats encounter a rebellion among Dressrosa's populace. The alliance's efforts are further complicated as a new Marine admiral named Fujitora arrives to deal with them.
           Covers anime episode(s): 628-745
           Covers manga chapter(s): 700-800
         episodes:
@@ -2641,7 +2642,7 @@ metadata:
         title: Zou
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/32.png
         summary: |-
-          The Zou Arc
+          The Straw Hats, Law, and the samurai head to Zou to reunite with the Straw Hats and Momonosuke who had left Dressrosa early. They meet the Mink Tribe natives and discover that Sanji is gone after getting entangled in a plot between his family and the Big Mom Pirates. They also learn how Jack of the Beasts Pirates attacked Zou earlier, and the samurai reveal just how much Kaidou is connected to them and to their home in Wano, leading to the formation of a new alliance. The Straw Hats then split up again to rescue Sanji and go to Wano.
           Covers anime episode(s): 746-776
           Covers manga chapter(s): 801-822
         episodes:
@@ -2719,7 +2720,7 @@ metadata:
         title: Whole Cake Island
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/33.png
         summary: |-
-          The Whole Cake Island Arc
+          Luffy travels to Whole Cake Island with three of his crewmates and three Minks to retrieve Sanji from a political marriage between the Vinsmoke Family and the Charlotte Family. They are caught between the families' hidden agendas, and form an alliance with Jinbe, Caesar, and the Fire Tank Pirates to take down Big Mom and save the Vinsmokes.
           Covers anime episode(s): 777-877
           Covers manga chapter(s): 823-902
         episodes:
@@ -3000,7 +3001,7 @@ metadata:
         title: Reverie
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/34.png
         summary: |-
-          The Reverie Arc
+          The news of the Straw Hats exploits at Totto Land are reported to the world as the royalty from around the world gather at Mary Geoise for the Levely. Meanwhile, the Revolutionary Army prepares for their next move, and Big Mom talks to Kaidou about Luffy.
           Covers anime episode(s): 878-889
           Covers manga chapter(s): 903-908
         episodes:
@@ -3029,7 +3030,7 @@ metadata:
         title: Wano (WIP)
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/35.png
         summary: |-
-          The Wano (WIP) Arc
+          The Ninja-Pirate-Mink-Samurai Alliance gather in Wano Country and prepare for the battle against the Beasts Pirates. The history of Kouzuki Oden and his ties to Wano Country, Whitebeard and Gol D. Roger are revealed, and the alliance assaults Onigashima to take down the allied forces of Kaidou and Big Mom, all while alliances shift on all sides of the siege. Meanwhile, after the events during the recent Levely, the world goes through dramatic changes.
           Covers anime episode(s): 890-1015
           Covers manga chapter(s): 909-1000
         episodes:
@@ -3422,7 +3423,7 @@ metadata:
         title: Egghead (WIP)
         url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/36.png
         summary: |-
-          The Egghead (WIP) Arc
+          The aftermaths of the Levely, the Raid on Onigashima, and the erasure of the Lulusia Kingdom, cause major shifts across the world that could lead to global war. The Straw Hat Pirates, following their Log Pose, arrive at the mysterious, futuristic island Egghead where the super genius Dr. Vegapunk resides. However, after being tipped off about Vegapunk's research into the Void Century, the World Government decides to dispatch a CP0 team to assassinate Vegapunk. Betrayal and intrigue on all sides leads to a Marine siege on the island that will escalate into an incident that will shock the world.
           Covers anime episode(s): 1086-1124
           Covers manga chapter(s): 1058-1090
         episodes:

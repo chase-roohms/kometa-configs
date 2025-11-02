@@ -213,7 +213,35 @@ def load_existing_metadata(metadata_file: Path) -> dict:
     return {}
 
 
-def build_metadata_structure(arcs_data: list, start_season: int, existing_metadata_file: Path) -> dict:
+def load_arc_summaries(summaries_file: Path) -> dict:
+    """
+    Load arc summaries from summaries.yml file.
+    
+    Args:
+        summaries_file: Path to summaries YAML file
+        
+    Returns:
+        Dictionary mapping arc names to their summaries
+    """
+    if not summaries_file.exists():
+        print(f"Warning: Summaries file not found at {summaries_file}", file=sys.stderr)
+        return {}
+    
+    try:
+        with open(summaries_file, 'r', encoding='utf-8') as f:
+            data = yaml.safe_load(f)
+            
+        if data and 'arcs' in data:
+            # Return a dict mapping arc names to summaries
+            return {arc_name: arc_data.get('summary', '') 
+                    for arc_name, arc_data in data['arcs'].items()}
+    except Exception as e:
+        print(f"Warning: Could not read summaries file: {e}", file=sys.stderr)
+    
+    return {}
+
+
+def build_metadata_structure(arcs_data: list, start_season: int, existing_metadata_file: Path, summaries_file: Path) -> dict:
     """
     Build the complete metadata structure as a dictionary.
     
@@ -221,18 +249,43 @@ def build_metadata_structure(arcs_data: list, start_season: int, existing_metada
         arcs_data: List of tuples (arc_name, episodes_dict)
         start_season: Starting season number
         existing_metadata_file: Path to existing metadata file to pull parent metadata from
+        summaries_file: Path to summaries YAML file
         
     Returns:
         Dictionary representing the complete YAML structure
     """
+    # Load arc summaries
+    arc_summaries = load_arc_summaries(summaries_file)
+    
     seasons = {}
     
     for season_num, (arc_name, episodes) in enumerate(arcs_data, start=start_season):
         # Get episode ranges for the season summary
         anime_range, manga_range = get_episode_range(episodes)
         
+        # Try to find the summary for this arc
+        # Remove "(WIP)" suffix when looking up summary
+        lookup_name = re.sub(r'\s*\(WIP\)\s*$', '', arc_name)
+        
+        # Normalize apostrophes for lookup (remove them)
+        lookup_name_normalized = lookup_name.replace("'", "").replace("'", "")
+        
+        # Try exact match first, then normalized match, then try without trailing 's'
+        arc_summary = arc_summaries.get(lookup_name)
+        if not arc_summary:
+            arc_summary = arc_summaries.get(lookup_name_normalized)
+        if not arc_summary and lookup_name_normalized.endswith('s'):
+            # Try without the trailing 's' (e.g., "Straw Hats" -> "Straw Hat")
+            arc_summary = arc_summaries.get(lookup_name_normalized[:-1])
+        
         # Build season summary
-        summary_parts = [f'The {arc_name} Arc']
+        summary_parts = []
+        if arc_summary:
+            summary_parts.append(arc_summary)
+        else:
+            # Fallback to default format if no summary found
+            summary_parts.append(f'The {arc_name} Arc')
+        
         if anime_range:
             summary_parts.append(f'Covers anime episode(s): {anime_range}')
         if manga_range:
@@ -331,6 +384,11 @@ def main():
         default=1,
         help="Starting season number (default: 1)"
     )
+    parser.add_argument(
+        "--summaries",
+        default="data/one-pace/summaries.yml",
+        help="Summaries YAML file (default: data/one-pace/summaries.yml)"
+    )
     
     args = parser.parse_args()
     
@@ -390,9 +448,10 @@ def main():
     # Determine the source metadata file (use existing output file if it exists)
     output_path = Path(args.output)
     existing_metadata_file = output_path if output_path.exists() else Path("metadata/one-pace.yml")
+    summaries_file = Path(args.summaries)
     
     # Build the metadata structure
-    metadata_structure = build_metadata_structure(arcs_data, args.start_season, existing_metadata_file)
+    metadata_structure = build_metadata_structure(arcs_data, args.start_season, existing_metadata_file, summaries_file)
     
     # Configure PyYAML to use literal style for multiline strings (preserves newlines without blank lines)
     def str_representer(dumper, data):
@@ -407,6 +466,9 @@ def main():
     output_path.parent.mkdir(parents=True, exist_ok=True)
     
     with open(output_path, 'w', encoding='utf-8') as f:
+        # Write the yaml-language-server comment at the top
+        f.write('# yaml-language-server: $schema=https://json-schema.org/draft-07/schema\n')
+        
         yaml.dump(
             metadata_structure,
             f,
