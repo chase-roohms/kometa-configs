@@ -15,6 +15,53 @@ import yaml
 from collections import OrderedDict
 
 
+# Constants
+APOSTROPHE_CHARS = ["'", "'", "`"]
+SUFFIX_PATTERNS_TO_REMOVE = r'\s*\((TBR|WIP)\)\s*$'
+
+
+def normalize_arc_name(arc_name: str, remove_apostrophes: bool = True) -> str:
+    """
+    Normalize arc name by removing apostrophes and special characters.
+    
+    Args:
+        arc_name: The arc name to normalize
+        remove_apostrophes: Whether to remove apostrophe characters
+        
+    Returns:
+        Normalized arc name
+    """
+    if remove_apostrophes:
+        for char in APOSTROPHE_CHARS:
+            arc_name = arc_name.replace(char, "")
+    return arc_name
+
+
+def normalize_range(text: str) -> str:
+    """
+    Normalize episode/chapter ranges to have consistent spacing.
+    - Adds spaces around hyphens: "40-41" -> "40 - 41"
+    - Ensures space after commas: "42,22" -> "42, 22"
+    
+    Args:
+        text: Text containing ranges
+        
+    Returns:
+        Text with normalized spacing
+    """
+    if not text:
+        return ''
+    
+    # First ensure space after commas
+    text = re.sub(r',\s*', ', ', text)
+    
+    # Add spaces around hyphens that are between numbers
+    # This pattern looks for digit-hyphen-digit and adds spaces
+    text = re.sub(r'(\d)\s*-\s*(\d)', r'\1 - \2', text)
+    
+    return text
+
+
 def clean_field(text: str) -> str:
     """
     Clean up CSV field by removing newlines and prefixes.
@@ -37,8 +84,8 @@ def clean_field(text: str) -> str:
     # Remove "Ep. " prefix (only when it's at the start or after a comma/space)
     text = re.sub(r'(?:^|(?<=,\s))Ep\.\s*', '', text)
     
-    # Ensure space after commas
-    text = re.sub(r',\s*', ', ', text)
+    # Normalize ranges (add spaces around hyphens and after commas)
+    text = normalize_range(text)
     
     return text.strip()
 
@@ -54,8 +101,11 @@ def format_episode_title(one_pace_title: str, arc_name: str, episode_num: int, a
         anime_episodes: Anime episodes covered
         
     Returns:
-        Formatted title (e.g., "Romance Dawn Pt. 1 (1-3, 19)")
+        Formatted title (e.g., "Romance Dawn Pt. 1 (1 - 3, 19)")
     """
+    # Normalize the anime_episodes to ensure consistent spacing
+    anime_episodes = normalize_range(anime_episodes)
+    
     # If the title already has the arc name and ends with a number pattern
     # Replace patterns like "01", "02", etc. with "Pt. X (episodes)"
     pattern = rf'^{re.escape(arc_name)}\s+(\d+)$'
@@ -141,6 +191,7 @@ def parse_csv_file(csv_path: Path) -> dict:
         episode_num = 1
         for row in reader:
             # Skip empty rows - handle both 'One Pace Episode' and ' One Pace Episode' (with leading space)
+            # This handles potential inconsistencies in CSV headers
             one_pace_ep_key = 'One Pace Episode' if 'One Pace Episode' in row else ' One Pace Episode'
             if not row.get(one_pace_ep_key):
                 continue
@@ -241,7 +292,7 @@ def load_arc_summaries(summaries_file: Path) -> dict:
     return {}
 
 
-def build_metadata_structure(arcs_data: list, start_season: int, existing_metadata_file: Path, summaries_file: Path) -> dict:
+def build_metadata_structure(arcs_data: list, start_season: int, existing_metadata_file: Path, summaries_file: Path, arc_overview_data: dict) -> dict:
     """
     Build the complete metadata structure as a dictionary.
     
@@ -250,6 +301,7 @@ def build_metadata_structure(arcs_data: list, start_season: int, existing_metada
         start_season: Starting season number
         existing_metadata_file: Path to existing metadata file to pull parent metadata from
         summaries_file: Path to summaries YAML file
+        arc_overview_data: Dictionary of arc data from Arc Overview.csv
         
     Returns:
         Dictionary representing the complete YAML structure
@@ -260,15 +312,12 @@ def build_metadata_structure(arcs_data: list, start_season: int, existing_metada
     seasons = {}
     
     for season_num, (arc_name, episodes) in enumerate(arcs_data, start=start_season):
-        # Get episode ranges for the season summary
-        anime_range, manga_range = get_episode_range(episodes)
-        
         # Try to find the summary for this arc
         # Remove "(WIP)" suffix when looking up summary
-        lookup_name = re.sub(r'\s*\(WIP\)\s*$', '', arc_name)
+        lookup_name = re.sub(SUFFIX_PATTERNS_TO_REMOVE, '', arc_name)
         
         # Normalize apostrophes for lookup (remove them)
-        lookup_name_normalized = lookup_name.replace("'", "").replace("'", "")
+        lookup_name_normalized = normalize_arc_name(lookup_name)
         
         # Try exact match first, then normalized match, then try without trailing 's'
         arc_summary = arc_summaries.get(lookup_name)
@@ -277,6 +326,19 @@ def build_metadata_structure(arcs_data: list, start_season: int, existing_metada
         if not arc_summary and lookup_name_normalized.endswith('s'):
             # Try without the trailing 's' (e.g., "Straw Hats" -> "Straw Hat")
             arc_summary = arc_summaries.get(lookup_name_normalized[:-1])
+        
+        # Get episode/chapter ranges from Arc Overview if available
+        overview_info = arc_overview_data.get(arc_name, {})
+        anime_range = normalize_range(overview_info.get('anime_episodes', ''))
+        manga_range = normalize_range(overview_info.get('manga_chapters', ''))
+        
+        # If not in overview, fall back to calculating from episodes
+        if not anime_range or not manga_range:
+            calculated_anime, calculated_manga = get_episode_range(episodes)
+            if not anime_range:
+                anime_range = calculated_anime
+            if not manga_range:
+                manga_range = calculated_manga
         
         # Build season summary
         summary_parts = []
@@ -339,28 +401,90 @@ def build_metadata_structure(arcs_data: list, start_season: int, existing_metada
     return metadata
 
 
-def get_arc_order(csv_dir: Path) -> list:
+def get_arc_order(csv_dir: Path) -> dict:
     """
-    Get the ordered list of arcs from Arc Overview.csv.
+    Get the ordered list of arcs from Arc Overview.csv along with their episode/chapter ranges.
     
     Args:
         csv_dir: Directory containing CSV files
         
     Returns:
-        List of arc names in order
+        Dictionary mapping arc names to their anime episode and manga chapter ranges
     """
     overview_path = csv_dir / "Arc Overview.csv"
-    arc_order = []
+    arc_data = {}
     
     if overview_path.exists():
         with open(overview_path, 'r', encoding='utf-8') as f:
             reader = csv.DictReader(f)
             for row in reader:
                 arc_name = row.get('Arcs', '').strip()
-                if arc_name:
-                    arc_order.append(arc_name)
+                # Skip the "Totals" row - it's a summary row, not an arc
+                if arc_name and arc_name != 'Totals':
+                    anime_episodes = row.get('Anime Episodes', '').strip()
+                    manga_chapters = row.get('Manga Chapters', '').strip()
+                    arc_data[arc_name] = {
+                        'anime_episodes': anime_episodes,
+                        'manga_chapters': manga_chapters
+                    }
     
-    return arc_order
+    return arc_data
+
+
+def find_csv_file(csv_dir: Path, arc_name: str) -> Path:
+    """
+    Find the CSV file for a given arc name, trying multiple variations.
+    
+    This handles cases where arc names may have different apostrophes, suffixes,
+    or pluralization differences.
+    
+    Args:
+        csv_dir: Directory containing CSV files
+        arc_name: Name of the arc to find
+        
+    Returns:
+        Path to the CSV file
+        
+    Raises:
+        FileNotFoundError: If no matching CSV file is found
+    """
+    # Remove both (TBR) and (WIP) suffixes when looking for CSV files
+    csv_arc_name = re.sub(SUFFIX_PATTERNS_TO_REMOVE, '', arc_name)
+    
+    # Normalize different types of apostrophes and quotes
+    csv_arc_name_normalized = normalize_arc_name(csv_arc_name)
+    
+    # Try multiple variations to find the CSV file
+    variations = [csv_arc_name, csv_arc_name_normalized]
+    
+    # Try without trailing 's' (e.g., "Straw Hats" -> "Straw Hat")
+    if csv_arc_name_normalized.endswith('s'):
+        csv_arc_name_singular = csv_arc_name_normalized[:-1]
+        variations.append(csv_arc_name_singular)
+    
+    for variation in variations:
+        csv_path = csv_dir / f"{variation}.csv"
+        if csv_path.exists():
+            return csv_path
+    
+    # If we get here, no file was found
+    error_msg = f"CSV file not found for arc '{arc_name}'\n"
+    error_msg += f"  Tried: {', '.join(f'{v}.csv' for v in variations)}"
+    raise FileNotFoundError(error_msg)
+
+
+def configure_yaml_multiline_strings():
+    """
+    Configure PyYAML to use literal style for multiline strings.
+    
+    This preserves newlines without blank lines, making the output more readable.
+    """
+    def str_representer(dumper, data):
+        if '\n' in data:
+            return dumper.represent_scalar('tag:yaml.org,2002:str', data, style='|')
+        return dumper.represent_scalar('tag:yaml.org,2002:str', data)
+    
+    yaml.add_representer(str, str_representer)
 
 
 def main():
@@ -398,39 +522,26 @@ def main():
         print(f"Error: CSV directory not found: {csv_dir}", file=sys.stderr)
         sys.exit(1)
     
-    # Get arc order from Arc Overview
-    arc_order = get_arc_order(csv_dir)
+    # Get arc data from Arc Overview
+    arc_overview_data = get_arc_order(csv_dir)
     
-    if not arc_order:
+    if not arc_overview_data:
         print("Warning: Could not read Arc Overview.csv, using alphabetical order", file=sys.stderr)
         # Fallback to all CSV files except Arc Overview
         csv_files = [f for f in csv_dir.glob("*.csv") if f.stem != "Arc Overview"]
         arc_order = [f.stem for f in sorted(csv_files)]
+    else:
+        arc_order = list(arc_overview_data.keys())
     
     arcs_data = []
     
     # Process each arc in order
     for arc_name in arc_order:
-        # Remove both (TBR) and (WIP) suffixes when looking for CSV files
-        csv_arc_name = re.sub(r'\s*\((TBR|WIP)\)\s*$', '', arc_name)
-        
-        # Normalize different types of apostrophes and quotes
-        # Remove apostrophes entirely as filenames may not have them
-        csv_arc_name_normalized = csv_arc_name.replace("'", "").replace("'", "").replace("`", "")
-        
-        # Try multiple variations to find the CSV file
-        csv_path = csv_dir / f"{csv_arc_name}.csv"
-        if not csv_path.exists():
-            csv_path = csv_dir / f"{csv_arc_name_normalized}.csv"
-        
-        # Try without trailing 's' (e.g., "Straw Hats" -> "Straw Hat")
-        if not csv_path.exists() and csv_arc_name_normalized.endswith('s'):
-            csv_arc_name_singular = csv_arc_name_normalized[:-1]
-            csv_path = csv_dir / f"{csv_arc_name_singular}.csv"
-        
-        if not csv_path.exists():
-            print(f"Warning: CSV file not found for arc '{arc_name}', skipping", file=sys.stderr)
-            continue
+        try:
+            csv_path = find_csv_file(csv_dir, arc_name)
+        except FileNotFoundError as e:
+            print(f"Error: {e}", file=sys.stderr)
+            sys.exit(1)
         
         print(f"Processing: {arc_name}")
         
@@ -451,15 +562,10 @@ def main():
     summaries_file = Path(args.summaries)
     
     # Build the metadata structure
-    metadata_structure = build_metadata_structure(arcs_data, args.start_season, existing_metadata_file, summaries_file)
+    metadata_structure = build_metadata_structure(arcs_data, args.start_season, existing_metadata_file, summaries_file, arc_overview_data)
     
     # Configure PyYAML to use literal style for multiline strings (preserves newlines without blank lines)
-    def str_representer(dumper, data):
-        if '\n' in data:
-            return dumper.represent_scalar('tag:yaml.org,2002:str', data, style='|')
-        return dumper.represent_scalar('tag:yaml.org,2002:str', data)
-    
-    yaml.add_representer(str, str_representer)
+    configure_yaml_multiline_strings()
     
     # Write output using PyYAML
     output_path = Path(args.output)
