@@ -1532,13 +1532,12 @@ metadata:
     label_title: A Christmas Carol
     sort_title: Christmas Carol
     release_year: '2009'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/658380
     tpdb_search: https://theposterdb.com/search?term=A+Christmas+Carol&section=movies
+    studio: Disney
     genre.sync:
       - Animation
-      - Drama
       - Family
-      - Fantasy
   420814:
     label_title: Christopher Robin
     sort_title: Christopher Robin
@@ -5835,12 +5834,12 @@ metadata:
     label_title: The Nightmare Before Christmas
     sort_title: Nightmare Before Christmas
     release_year: '1993'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/658381
     tpdb_search: https://theposterdb.com/search?term=The+Nightmare+Before+Christmas&section=movies
+    studio: Disney
     genre.sync:
       - Animation
       - Family
-      - Fantasy
   3638:
     label_title: No Reservations
     sort_title: No Reservations
