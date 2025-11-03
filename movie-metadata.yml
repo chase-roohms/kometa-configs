@@ -4463,6 +4463,16 @@ metadata:
     studio: Sony Pictures Animation
     genre.sync:
       - Animation
+  287903:
+    label_title: Krampus
+    sort_title: Krampus
+    release_year: '2015'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Krampus&section=movies
+    genre.sync:
+      - Comedy
+      - Fantasy
+      - Horror
   539972:
     label_title: Kraven the Hunter
     sort_title: Kraven the Hunter
