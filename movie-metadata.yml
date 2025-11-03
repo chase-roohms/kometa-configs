@@ -1500,6 +1500,15 @@ metadata:
       - Animation
       - Comedy
       - Family
+  13353:
+    label_title: "It's the Great Pumpkin, Charlie Brown"
+    sort_title: Charlie Brown Halloween
+    release_year: '1966'
+    url_poster: https://theposterdb.com/api/assets/110441
+    tpdb_search: "https://theposterdb.com/search?term=It's+the+Great+Pumpkin,+Charlie+Brown&section=movies"
+    genre.sync:
+      - Animation
+      - Family
   13479:
     label_title: A Charlie Brown Thanksgiving
     sort_title: Charlie Brown Thanksgiving
@@ -4026,15 +4035,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=It+Chapter+Two&section=movies
     genre.sync:
       - Horror
-  13353:
-    label_title: "It's the Great Pumpkin, Charlie Brown"
-    sort_title: Charlie Brown Halloween
-    release_year: '1966'
-    url_poster: https://theposterdb.com/api/assets/110441
-    tpdb_search: "https://theposterdb.com/search?term=It's+the+Great+Pumpkin,+Charlie+Brown&section=movies"
-    genre.sync:
-      - Animation
-      - Family
   1094138:
     label_title: Jackpot!
     sort_title: Jackpot!
