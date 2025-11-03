@@ -2120,6 +2120,16 @@ metadata:
     studio: Pixar
     genre.sync:
       - Animation
+  10719:
+    label_title: Elf
+    sort_title: Elf
+    release_year: '2003'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Elf&section=movies
+    genre.sync:
+      - Comedy
+      - Family
+      - Fantasy
   1022787:
     label_title: Elio
     sort_title: Elio
