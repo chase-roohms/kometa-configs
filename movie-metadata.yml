@@ -5679,14 +5679,11 @@ metadata:
     label_title: The Muppet Christmas Carol
     sort_title: Muppet Christmas Carol
     release_year: '1992'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/230503
     tpdb_search: https://theposterdb.com/search?term=The+Muppet+Christmas+Carol&section=movies
     genre.sync:
       - Comedy
-      - Drama
       - Family
-      - Fantasy
-      - Music
   505262:
     label_title: 'My Hero Academia: Two Heroes'
     sort_title: My Hero Academia 1
@@ -6866,13 +6863,11 @@ metadata:
     label_title: Rudolph the Red-Nosed Reindeer
     sort_title: Rudolph the Red-Nosed Reindeer
     release_year: '1964'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/440452
     tpdb_search: https://theposterdb.com/search?term=Rudolph+the+Red-Nosed+Reindeer&section=movies
     genre.sync:
-      - Adventure
       - Animation
       - Family
-      - TV Movie
   14444:
     label_title: The Rugrats Movie
     sort_title: Rugrats Movie
