@@ -781,12 +781,10 @@ metadata:
     label_title: Bad Santa
     sort_title: Bad Santa
     release_year: '2003'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/37644
     tpdb_search: https://theposterdb.com/search?term=Bad+Santa&section=movies
     genre.sync:
       - Comedy
-      - Crime
-      - Drama
   3170:
     label_title: Bambi
     sort_title: Bambi 1
@@ -1496,24 +1494,22 @@ metadata:
     label_title: A Charlie Brown Christmas
     sort_title: Charlie Brown Christmas
     release_year: '1965'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/20093
     tpdb_search: https://theposterdb.com/search?term=A+Charlie+Brown+Christmas&section=movies
     genre.sync:
       - Animation
       - Comedy
       - Family
-      - TV Movie
   13479:
     label_title: A Charlie Brown Thanksgiving
     sort_title: Charlie Brown Thanksgiving
     release_year: '1973'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/20094
     tpdb_search: https://theposterdb.com/search?term=A+Charlie+Brown+Thanksgiving&section=movies
     genre.sync:
       - Animation
       - Comedy
       - Family
-      - TV Movie
   9982:
     label_title: Chicken Little
     sort_title: Chicken Little
@@ -2157,12 +2153,11 @@ metadata:
     label_title: Elf
     sort_title: Elf
     release_year: '2003'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/438270
     tpdb_search: https://theposterdb.com/search?term=Elf&section=movies
     genre.sync:
       - Comedy
       - Family
-      - Fantasy
   1022787:
     label_title: Elio
     sort_title: Elio
@@ -3623,7 +3618,7 @@ metadata:
     label_title: How the Grinch Stole Christmas
     sort_title: How the Grinch Stole Christmas
     release_year: '2000'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/440477
     tpdb_search: https://theposterdb.com/search?term=How+the+Grinch+Stole+Christmas&section=movies
     genre.sync:
       - Comedy
@@ -4033,7 +4028,7 @@ metadata:
       - Horror
   13353:
     label_title: "It's the Great Pumpkin, Charlie Brown"
-    sort_title: "It's the Great Pumpkin, Charlie Brown"
+    sort_title: Charlie Brown Halloween
     release_year: '1966'
     url_poster: https://theposterdb.com/api/assets/110441
     tpdb_search: "https://theposterdb.com/search?term=It's+the+Great+Pumpkin,+Charlie+Brown&section=movies"
@@ -4509,11 +4504,9 @@ metadata:
     label_title: Krampus
     sort_title: Krampus
     release_year: '2015'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/45225
     tpdb_search: https://theposterdb.com/search?term=Krampus&section=movies
     genre.sync:
-      - Comedy
-      - Fantasy
       - Horror
   539972:
     label_title: Kraven the Hunter
@@ -6493,13 +6486,11 @@ metadata:
     label_title: The Polar Express
     sort_title: Polar Express
     release_year: '2004'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/289798
     tpdb_search: https://theposterdb.com/search?term=The+Polar+Express&section=movies
     genre.sync:
-      - Adventure
       - Animation
       - Family
-      - Fantasy
   12429:
     label_title: Ponyo
     sort_title: Ponyo
