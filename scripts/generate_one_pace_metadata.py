@@ -90,39 +90,24 @@ def clean_field(text: str) -> str:
     return text.strip()
 
 
-def format_episode_title(one_pace_title: str, arc_name: str, episode_num: int, anime_episodes: str) -> str:
+def format_episode_title(episode_title: str, anime_episodes: str) -> str:
     """
-    Format episode title to use "Pt. X (anime episodes)" instead of numbers.
+    Format episode title with anime episode range in parentheses.
     
     Args:
-        one_pace_title: Original title from CSV (e.g., "Romance Dawn 01")
-        arc_name: Name of the arc
-        episode_num: Episode number
+        episode_title: Episode title from episodes.yml
         anime_episodes: Anime episodes covered
         
     Returns:
-        Formatted title (e.g., "Romance Dawn Pt. 1 (1 - 3, 19)")
+        Formatted title (e.g., "The Pirate King and the Master Swordsman (2, 19)")
     """
     # Normalize the anime_episodes to ensure consistent spacing
     anime_episodes = normalize_range(anime_episodes)
     
-    # If the title already has the arc name and ends with a number pattern
-    # Replace patterns like "01", "02", etc. with "Pt. X (episodes)"
-    pattern = rf'^{re.escape(arc_name)}\s+(\d+)$'
-    match = re.match(pattern, one_pace_title)
-    
-    if match:
-        # Extract the number and convert it to "Pt. X (episodes)" format
-        num = int(match.group(1))
-        if anime_episodes:
-            return f"{arc_name} Pt. {num} ({anime_episodes})"
-        else:
-            return f"{arc_name} Pt. {num}"
-    
-    # If it doesn't match the expected pattern, return as-is with episodes if available
+    # Add episode range in parentheses if available
     if anime_episodes:
-        return f"{one_pace_title} ({anime_episodes})"
-    return one_pace_title
+        return f"{episode_title} ({anime_episodes})"
+    return episode_title
 
 
 def get_episode_range(episodes_dict: dict) -> tuple:
@@ -172,12 +157,14 @@ def get_episode_range(episodes_dict: dict) -> tuple:
     return anime_range, manga_range
 
 
-def parse_csv_file(csv_path: Path) -> dict:
+def parse_csv_file(csv_path: Path, season_num: int, episode_titles: dict) -> dict:
     """
     Parse a One Pace CSV file and extract episode information.
     
     Args:
         csv_path: Path to the CSV file
+        season_num: Season number for this arc
+        episode_titles: Dictionary of episode titles from episodes.yml
         
     Returns:
         Dictionary with arc information and episodes
@@ -207,8 +194,12 @@ def parse_csv_file(csv_path: Path) -> dict:
             anime_episodes = clean_field(row.get('Episodes', ''))
             
             if one_pace_ep:
+                # Get episode title from episodes.yml
+                season_titles = episode_titles.get(season_num, {})
+                episode_title = season_titles.get(episode_num, one_pace_ep)
+                
                 # Format the episode title with anime episodes
-                formatted_title = format_episode_title(one_pace_ep, arc_name, episode_num, anime_episodes)
+                formatted_title = format_episode_title(episode_title, anime_episodes)
                 episode_data = {'title': formatted_title}
                 
                 # Build episode summary
@@ -292,6 +283,35 @@ def load_arc_summaries(summaries_file: Path) -> dict:
     return {}
 
 
+def load_episode_titles(episodes_file: Path) -> dict:
+    """
+    Load episode titles from episodes.yml file.
+    
+    Args:
+        episodes_file: Path to episodes YAML file
+        
+    Returns:
+        Dictionary mapping season numbers to episode titles
+        {season_num: {episode_num: title, ...}, ...}
+    """
+    if not episodes_file.exists():
+        print(f"Warning: Episodes file not found at {episodes_file}", file=sys.stderr)
+        return {}
+    
+    try:
+        with open(episodes_file, 'r', encoding='utf-8') as f:
+            data = yaml.safe_load(f)
+            
+        if not data:
+            return {}
+        
+        return data
+    except Exception as e:
+        print(f"Warning: Could not read episodes file: {e}", file=sys.stderr)
+    
+    return {}
+
+
 def load_saga_data(sagas_file: Path) -> dict:
     """
     Load saga information from sagas.yml file.
@@ -316,14 +336,10 @@ def load_saga_data(sagas_file: Path) -> dict:
         # Build a mapping of arc_name -> (saga_name, saga_background_url)
         arc_to_saga = {}
         for saga_name, saga_data in data['sagas'].items():
-            url_background = saga_data.get('url_background', '')
+            background_url = saga_data.get('url_background', '')
             arcs = saga_data.get('arcs', [])
-            
             for arc_name in arcs:
-                arc_to_saga[arc_name] = {
-                    'saga_name': saga_name,
-                    'url_background': url_background
-                }
+                arc_to_saga[arc_name] = (saga_name, background_url)
         
         return arc_to_saga
     except Exception as e:
@@ -411,9 +427,10 @@ def build_metadata_structure(arcs_data: list, start_season: int, existing_metada
         
         # Add url_background and saga in the correct order
         if saga_info:
-            if saga_info['url_background']:
-                season_metadata['url_background'] = saga_info['url_background']
-            season_metadata['saga'] = saga_info['saga_name']
+            saga_name, saga_background_url = saga_info
+            if saga_background_url:
+                season_metadata['url_background'] = saga_background_url
+            season_metadata['saga'] = saga_name
         
         # Add summary and episodes last
         season_metadata['summary'] = '\n'.join(summary_parts)
@@ -584,6 +601,11 @@ def main():
         default="data/one-pace/sagas.yml",
         help="Sagas YAML file (default: data/one-pace/sagas.yml)"
     )
+    parser.add_argument(
+        "--episodes",
+        default="data/one-pace/episodes.yml",
+        help="Episodes YAML file (default: data/one-pace/episodes.yml)"
+    )
     
     args = parser.parse_args()
     
@@ -592,6 +614,10 @@ def main():
     if not csv_dir.exists():
         print(f"Error: CSV directory not found: {csv_dir}", file=sys.stderr)
         sys.exit(1)
+    
+    # Load episode titles from episodes.yml
+    episodes_file = Path(args.episodes)
+    episode_titles = load_episode_titles(episodes_file)
     
     # Get arc data from Arc Overview
     arc_overview_data = get_arc_order(csv_dir)
@@ -607,7 +633,7 @@ def main():
     arcs_data = []
     
     # Process each arc in order
-    for arc_name in arc_order:
+    for season_num, arc_name in enumerate(arc_order, start=args.start_season):
         try:
             csv_path = find_csv_file(csv_dir, arc_name)
         except FileNotFoundError as e:
@@ -616,7 +642,7 @@ def main():
         
         print(f"Processing: {arc_name}")
         
-        arc_data = parse_csv_file(csv_path)
+        arc_data = parse_csv_file(csv_path, season_num, episode_titles)
         
         if not arc_data['episodes']:
             print(f"  Warning: No episodes found in {arc_name}, skipping", file=sys.stderr)
