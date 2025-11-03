@@ -7939,6 +7939,17 @@ metadata:
     genre.sync:
       - Science Fiction
       - Thriller
+  290859:
+    label_title: 'Terminator: Dark Fate'
+    sort_title: 'Terminator: Dark Fate'
+    release_year: '2019'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Terminator:+Dark+Fate&section=movies
+    genre.sync:
+      - Action
+      - Adventure
+      - Science Fiction
+      - Thriller
   420634:
     label_title: Terrifier
     sort_title: Terrifier
