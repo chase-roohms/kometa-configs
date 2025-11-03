@@ -5675,6 +5675,18 @@ metadata:
     studio: Disney
     genre.sync:
       - Family
+  10437:
+    label_title: The Muppet Christmas Carol
+    sort_title: Muppet Christmas Carol
+    release_year: '1992'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Muppet+Christmas+Carol&section=movies
+    genre.sync:
+      - Comedy
+      - Drama
+      - Family
+      - Fantasy
+      - Music
   505262:
     label_title: 'My Hero Academia: Two Heroes'
     sort_title: My Hero Academia 1
