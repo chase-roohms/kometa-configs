@@ -390,6 +390,8 @@ shared_collection_files:
       - 1001414         # Fear Street: Prom Queen
     movie_8917:     # Hellraiser
       - 338947          # Hellraiser (2022)
+    movie_9888:     # Home Alone
+      - 134375          # Home Alone: Holiday Heist
     movie_404609:   # John Wick
       - 541671          # Ballerina
     movie_304:      # Ocean's Eleven
