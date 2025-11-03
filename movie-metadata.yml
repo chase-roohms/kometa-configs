@@ -6827,6 +6827,16 @@ metadata:
     genre.sync:
       - Animation
       - Family
+  48567:
+    label_title: 'Scary Godmother: Halloween Spooktakular'
+    sort_title: 'Scary Godmother: Halloween Spooktakular'
+    release_year: '2003'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Scary+Godmother:+Halloween+Spooktakular&section=movies
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
   417384:
     label_title: Scary Stories to Tell in the Dark
     sort_title: Scary Stories to Tell in the Dark
