@@ -777,6 +777,16 @@ metadata:
     studio: DreamWorks Animation
     genre.sync:
       - Animation
+  10147:
+    label_title: Bad Santa
+    sort_title: Bad Santa
+    release_year: '2003'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Bad+Santa&section=movies
+    genre.sync:
+      - Comedy
+      - Crime
+      - Drama
   3170:
     label_title: Bambi
     sort_title: Bambi 1
