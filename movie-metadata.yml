@@ -3586,6 +3586,15 @@ metadata:
     studio: Sony Pictures Animation
     genre.sync:
       - Animation
+  8871:
+    label_title: How the Grinch Stole Christmas
+    sort_title: How the Grinch Stole Christmas
+    release_year: '2000'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=How+the+Grinch+Stole+Christmas&section=movies
+    genre.sync:
+      - Comedy
+      - Family
   10191:
     label_title: How to Train Your Dragon
     sort_title: How to Train Your Dragon 1
