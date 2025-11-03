@@ -6850,6 +6850,17 @@ metadata:
     studio: DreamWorks Animation
     genre.sync:
       - Animation
+  13382:
+    label_title: Rudolph the Red-Nosed Reindeer
+    sort_title: Rudolph the Red-Nosed Reindeer
+    release_year: '1964'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Rudolph+the+Red-Nosed+Reindeer&section=movies
+    genre.sync:
+      - Adventure
+      - Animation
+      - Family
+      - TV Movie
   14444:
     label_title: The Rugrats Movie
     sort_title: Rugrats Movie
