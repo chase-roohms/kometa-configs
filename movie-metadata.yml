@@ -6417,6 +6417,17 @@ metadata:
     studio: Disney
     genre.sync:
       - Animation
+  5255:
+    label_title: The Polar Express
+    sort_title: Polar Express
+    release_year: '2004'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Polar+Express&section=movies
+    genre.sync:
+      - Adventure
+      - Animation
+      - Family
+      - Fantasy
   12429:
     label_title: Ponyo
     sort_title: Ponyo
