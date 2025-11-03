@@ -1503,6 +1503,17 @@ metadata:
       - Comedy
       - Family
       - TV Movie
+  13479:
+    label_title: A Charlie Brown Thanksgiving
+    sort_title: Charlie Brown Thanksgiving
+    release_year: '1973'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=A+Charlie+Brown+Thanksgiving&section=movies
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
+      - TV Movie
   9982:
     label_title: Chicken Little
     sort_title: Chicken Little
