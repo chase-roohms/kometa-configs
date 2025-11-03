@@ -6818,21 +6818,21 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Sauvage&section=movies
     genre.sync:
       - Drama
-  76789:
-    label_title: 'Scary Godmother: The Revenge of Jimmy'
-    sort_title: Scary Godmother 2
-    release_year: '2005'
-    url_poster: https://theposterdb.com/api/assets/652130
-    tpdb_search: https://theposterdb.com/search?term=Scary+Godmother:+The+Revenge+of+Jimmy&section=movies
-    genre.sync:
-      - Animation
-      - Family
   48567:
     label_title: 'Scary Godmother: Halloween Spooktakular'
     sort_title: Scary Godmother 1
     release_year: '2003'
-    url_poster: https://theposterdb.com/api/assets/656769
+    url_poster: https://theposterdb.com/api/assets/658270
     tpdb_search: https://theposterdb.com/search?term=Scary+Godmother:+Halloween+Spooktakular&section=movies
+    genre.sync:
+      - Animation
+      - Family
+  76789:
+    label_title: 'Scary Godmother: The Revenge of Jimmy'
+    sort_title: Scary Godmother 2
+    release_year: '2005'
+    url_poster: https://theposterdb.com/api/assets/658269
+    tpdb_search: https://theposterdb.com/search?term=Scary+Godmother:+The+Revenge+of+Jimmy&section=movies
     genre.sync:
       - Animation
       - Family
