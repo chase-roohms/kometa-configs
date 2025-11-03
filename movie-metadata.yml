@@ -5805,6 +5805,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Nightbitch&section=movies
     genre.sync:
       - Comedy
+  9479:
+    label_title: The Nightmare Before Christmas
+    sort_title: Nightmare Before Christmas
+    release_year: '1993'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Nightmare+Before+Christmas&section=movies
+    genre.sync:
+      - Animation
+      - Family
+      - Fantasy
   3638:
     label_title: No Reservations
     sort_title: No Reservations
