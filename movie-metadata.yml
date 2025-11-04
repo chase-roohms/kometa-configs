@@ -7969,6 +7969,16 @@ metadata:
       - Action
       - Science Fiction
       - Thriller
+  87101:
+    label_title: Terminator Genisys
+    sort_title: Terminator Genisys
+    release_year: '2015'
+    url_poster: https://theposterdb.com/api/assets/26466
+    tpdb_search: https://theposterdb.com/search?term=Terminator+Genisys&section=movies
+    genre.sync:
+      - Action
+      - Science Fiction
+      - Thriller
   290859:
     label_title: 'Terminator: Dark Fate'
     sort_title: 'Terminator: Dark Fate'
