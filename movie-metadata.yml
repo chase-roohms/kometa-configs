@@ -7939,6 +7939,16 @@ metadata:
     genre.sync:
       - Science Fiction
       - Thriller
+  218:
+    label_title: The Terminator
+    sort_title: Terminator
+    release_year: '1984'
+    url_poster: https://theposterdb.com/api/assets/26462
+    tpdb_search: https://theposterdb.com/search?term=The+Terminator&section=movies
+    genre.sync:
+      - Action
+      - Science Fiction
+      - Thriller
   290859:
     label_title: 'Terminator: Dark Fate'
     sort_title: 'Terminator: Dark Fate'
