@@ -1916,7 +1916,7 @@ metadata:
     label_title: Die Hard
     sort_title: Die Hard
     release_year: '1988'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/35983
     tpdb_search: https://theposterdb.com/search?term=Die+Hard&section=movies
     genre.sync:
       - Action
