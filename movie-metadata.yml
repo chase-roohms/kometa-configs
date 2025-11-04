@@ -7949,6 +7949,16 @@ metadata:
       - Action
       - Science Fiction
       - Thriller
+  280:
+    label_title: 'Terminator 2: Judgment Day'
+    sort_title: 'Terminator 2: Judgment Day'
+    release_year: '1991'
+    url_poster: https://theposterdb.com/api/assets/26463
+    tpdb_search: https://theposterdb.com/search?term=Terminator+2:+Judgment+Day&section=movies
+    genre.sync:
+      - Action
+      - Science Fiction
+      - Thriller
   290859:
     label_title: 'Terminator: Dark Fate'
     sort_title: 'Terminator: Dark Fate'
