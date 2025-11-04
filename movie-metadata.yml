@@ -7941,7 +7941,7 @@ metadata:
       - Thriller
   218:
     label_title: The Terminator
-    sort_title: Terminator
+    sort_title: Terminator 1
     release_year: '1984'
     url_poster: https://theposterdb.com/api/assets/26462
     tpdb_search: https://theposterdb.com/search?term=The+Terminator&section=movies
@@ -7951,7 +7951,7 @@ metadata:
       - Thriller
   280:
     label_title: 'Terminator 2: Judgment Day'
-    sort_title: 'Terminator 2: Judgment Day'
+    sort_title: Terminator 2
     release_year: '1991'
     url_poster: https://theposterdb.com/api/assets/26463
     tpdb_search: https://theposterdb.com/search?term=Terminator+2:+Judgment+Day&section=movies
@@ -7961,7 +7961,7 @@ metadata:
       - Thriller
   296:
     label_title: 'Terminator 3: Rise of the Machines'
-    sort_title: 'Terminator 3: Rise of the Machines'
+    sort_title: Terminator 3
     release_year: '2003'
     url_poster: https://theposterdb.com/api/assets/26464
     tpdb_search: https://theposterdb.com/search?term=Terminator+3:+Rise+of+the+Machines&section=movies
@@ -7969,9 +7969,19 @@ metadata:
       - Action
       - Science Fiction
       - Thriller
+  534:
+    label_title: Terminator Salvation
+    sort_title: Terminator 4
+    release_year: '2009'
+    url_poster: https://theposterdb.com/api/assets/26465
+    tpdb_search: https://theposterdb.com/search?term=Terminator+Salvation&section=movies
+    genre.sync:
+      - Action
+      - Science Fiction
+      - Thriller
   87101:
     label_title: Terminator Genisys
-    sort_title: Terminator Genisys
+    sort_title: Terminator 5
     release_year: '2015'
     url_poster: https://theposterdb.com/api/assets/26466
     tpdb_search: https://theposterdb.com/search?term=Terminator+Genisys&section=movies
@@ -7981,9 +7991,9 @@ metadata:
       - Thriller
   290859:
     label_title: 'Terminator: Dark Fate'
-    sort_title: 'Terminator: Dark Fate'
+    sort_title: Terminator 6
     release_year: '2019'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/26467
     tpdb_search: https://theposterdb.com/search?term=Terminator:+Dark+Fate&section=movies
     genre.sync:
       - Action
