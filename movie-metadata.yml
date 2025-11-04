@@ -1912,6 +1912,15 @@ metadata:
     tpdb_search: "https://theposterdb.com/search?term=The+Devil's+Advocate&section=movies"
     genre.sync:
       - Horror
+  562:
+    label_title: Die Hard
+    sort_title: Die Hard
+    release_year: '1988'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Die+Hard&section=movies
+    genre.sync:
+      - Action
+      - Thriller
   10567:
     label_title: Dinosaur
     sort_title: Dinosaur
