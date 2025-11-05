@@ -1062,11 +1062,20 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
+  756999:
+    label_title: The Black Phone
+    sort_title: Black Phone 1
+    release_year: '2022'
+    url_poster: https://theposterdb.com/api/assets/658533
+    tpdb_search: https://theposterdb.com/search?term=Black+Phone&section=movies
+    genre.sync:
+      - Horror
+      - Thriller
   1197137:
     label_title: Black Phone 2
     sort_title: Black Phone 2
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/658532
     tpdb_search: https://theposterdb.com/search?term=Black+Phone+2&section=movies
     genre.sync:
       - Horror
