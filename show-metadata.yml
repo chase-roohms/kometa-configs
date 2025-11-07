@@ -4521,14 +4521,9 @@ metadata:
     release_year: '2025'
     url_poster: ''
     tpdb_search: https://theposterdb.com/search?term=Tatsuki+Fujimoto+17-26&section=shows
+    audio_language: ja-JP
     genre.sync:
-      - Action
-      - Animation
       - Anime
-      - Comedy
-      - Drama
-      - Fantasy
-      - Romance
     seasons:
       1:
         url_poster: ''
