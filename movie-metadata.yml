@@ -2788,12 +2788,11 @@ metadata:
     label_title: Frankenstein
     sort_title: Frankenstein
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/639888
     tpdb_search: https://theposterdb.com/search?term=Frankenstein&section=movies
     genre.sync:
       - Fantasy
       - Horror
-      - Science Fiction
   10330:
     label_title: Freaky Friday
     sort_title: Freaky Friday 1
