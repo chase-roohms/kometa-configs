@@ -4515,6 +4515,23 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/639636
+  467641:
+    label_title: Tatsuki Fujimoto 17-26
+    sort_title: Tatsuki Fujimoto 17-26
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Tatsuki+Fujimoto+17-26&section=shows
+    genre.sync:
+      - Action
+      - Animation
+      - Anime
+      - Comedy
+      - Drama
+      - Fantasy
+      - Romance
+    seasons:
+      1:
+        url_poster: ''
   383203:
     label_title: Ted Lasso
     sort_title: Ted Lasso
