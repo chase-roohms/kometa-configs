@@ -3386,6 +3386,18 @@ metadata:
       - Drama
       - Family
       - TV Movie
+  34228:
+    label_title: "He's Your Dog, Charlie Brown"
+    sort_title: "He's Your Dog, Charlie Brown"
+    release_year: '1968'
+    url_poster: ''
+    tpdb_search: "https://theposterdb.com/search?term=He's+Your+Dog,+Charlie+Brown&section=movies"
+    genre.sync:
+      - Animation
+      - Comedy
+      - Drama
+      - Family
+      - TV Movie
   1302916:
     label_title: Heart Eyes
     sort_title: Heart Eyes
