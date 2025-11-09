@@ -4093,6 +4093,17 @@ metadata:
       - Family
       - Music
       - TV Movie
+  37490:
+    label_title: "It's Magic, Charlie Brown"
+    sort_title: "It's Magic, Charlie Brown"
+    release_year: '1981'
+    url_poster: ''
+    tpdb_search: "https://theposterdb.com/search?term=It's+Magic,+Charlie+Brown&section=movies"
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
+      - TV Movie
   1094138:
     label_title: Jackpot!
     sort_title: Jackpot!
