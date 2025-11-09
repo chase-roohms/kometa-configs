@@ -4150,6 +4150,17 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
+  40375:
+    label_title: Is This Goodbye, Charlie Brown?
+    sort_title: Is This Goodbye, Charlie Brown?
+    release_year: '1983'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Is+This+Goodbye,+Charlie+Brown?&section=movies
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
+      - TV Movie
   399174:
     label_title: Isle of Dogs
     sort_title: Isle of Dogs
