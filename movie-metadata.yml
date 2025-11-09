@@ -9120,6 +9120,17 @@ metadata:
     studio: A24
     genre.sync:
       - Drama
+  55444:
+    label_title: What a Nightmare, Charlie Brown!
+    sort_title: What a Nightmare, Charlie Brown!
+    release_year: '1978'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=What+a+Nightmare,+Charlie+Brown!&section=movies
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
+      - TV Movie
   8357:
     label_title: 'What the #$*! Do We (K)now!?'
     sort_title: What the Bleep 1
