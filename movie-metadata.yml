@@ -9170,6 +9170,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=White+Boy+Rick&section=movies
     genre.sync:
       - Drama
+  133131:
+    label_title: Why, Charlie Brown, Why?
+    sort_title: Why, Charlie Brown, Why?
+    release_year: '1990'
+    url_poster: https://theposterdb.com/api/assets/660321
+    tpdb_search: https://theposterdb.com/search?term=Why,+Charlie+Brown,+Why?&section=movies
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
   402431:
     label_title: Wicked
     sort_title: Wicked 1
