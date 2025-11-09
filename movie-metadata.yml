@@ -1512,7 +1512,7 @@ metadata:
     label_title: A Charlie Brown Christmas
     sort_title: Charlie Brown Christmas
     release_year: '1965'
-    url_poster: https://theposterdb.com/api/assets/20093
+    url_poster: https://theposterdb.com/api/assets/660180
     tpdb_search: https://theposterdb.com/search?term=A+Charlie+Brown+Christmas&section=movies
     genre.sync:
       - Animation
@@ -1522,7 +1522,7 @@ metadata:
     label_title: "It's the Great Pumpkin, Charlie Brown"
     sort_title: Charlie Brown Halloween
     release_year: '1966'
-    url_poster: https://theposterdb.com/api/assets/110441
+    url_poster: https://theposterdb.com/api/assets/660183
     tpdb_search: "https://theposterdb.com/search?term=It's+the+Great+Pumpkin,+Charlie+Brown&section=movies"
     genre.sync:
       - Animation
@@ -1531,7 +1531,7 @@ metadata:
     label_title: A Charlie Brown Thanksgiving
     sort_title: Charlie Brown Thanksgiving
     release_year: '1973'
-    url_poster: https://theposterdb.com/api/assets/20094
+    url_poster: https://theposterdb.com/api/assets/660173
     tpdb_search: https://theposterdb.com/search?term=A+Charlie+Brown+Thanksgiving&section=movies
     genre.sync:
       - Animation
