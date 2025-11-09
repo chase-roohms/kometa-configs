@@ -5202,6 +5202,17 @@ metadata:
     studio: Pixar
     genre.sync:
       - Animation
+  31113:
+    label_title: Lucy Must Be Traded, Charlie Brown
+    sort_title: Lucy Must Be Traded, Charlie Brown
+    release_year: '2003'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Lucy+Must+Be+Traded,+Charlie+Brown&section=movies
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
+      - TV Movie
   1264573:
     label_title: Lurker
     sort_title: Lurker
