@@ -9232,6 +9232,17 @@ metadata:
       - Comedy
       - Family
       - TV Movie
+  52446:
+    label_title: "You're the Greatest, Charlie Brown"
+    sort_title: "You're the Greatest, Charlie Brown"
+    release_year: '1979'
+    url_poster: ''
+    tpdb_search: "https://theposterdb.com/search?term=You're+the+Greatest,+Charlie+Brown&section=movies"
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
+      - TV Movie
   11967:
     label_title: Young Guns
     sort_title: Young Guns
