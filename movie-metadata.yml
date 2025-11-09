@@ -1508,6 +1508,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Challengers&section=movies
     genre.sync:
       - Drama
+  52952:
+    label_title: "Charlie Brown's All-Stars!"
+    sort_title: Charlie Brown All-Stars
+    release_year: '1966'
+    url_poster: https://theposterdb.com/api/assets/660179
+    tpdb_search: "https://theposterdb.com/search?term=Charlie+Brown's+All-Stars!&section=movies"
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
   15374:
     label_title: A Boy Named Charlie Brown
     sort_title: Charlie Brown Boy Named
@@ -1604,16 +1614,6 @@ metadata:
     release_year: '1973'
     url_poster: https://theposterdb.com/api/assets/660173
     tpdb_search: https://theposterdb.com/search?term=A+Charlie+Brown+Thanksgiving&section=movies
-    genre.sync:
-      - Animation
-      - Comedy
-      - Family
-  52952:
-    label_title: "Charlie Brown's All-Stars!"
-    sort_title: Charlie Brown All-Stars
-    release_year: '1966'
-    url_poster: https://theposterdb.com/api/assets/660179
-    tpdb_search: "https://theposterdb.com/search?term=Charlie+Brown's+All-Stars!&section=movies"
     genre.sync:
       - Animation
       - Comedy
@@ -4151,6 +4151,17 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=It+Chapter+Two&section=movies
     genre.sync:
       - Horror
+  40489:
+    label_title: "It's Arbor Day, Charlie Brown"
+    sort_title: "It's Arbor Day, Charlie Brown"
+    release_year: '1976'
+    url_poster: ''
+    tpdb_search: "https://theposterdb.com/search?term=It's+Arbor+Day,+Charlie+Brown&section=movies"
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
+      - TV Movie
   1094138:
     label_title: Jackpot!
     sort_title: Jackpot!
