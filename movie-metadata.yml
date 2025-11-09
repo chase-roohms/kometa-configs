@@ -1239,6 +1239,16 @@ metadata:
     studio: Disney
     genre.sync:
       - Animation
+  31112:
+    label_title: "Bon Voyage, Charlie Brown (and Don't Come Back!)"
+    sort_title: "Bon Voyage, Charlie Brown (and Don't Come Back!)"
+    release_year: '1980'
+    url_poster: ''
+    tpdb_search: "https://theposterdb.com/search?term=Bon+Voyage,+Charlie+Brown+(and+Don't+Come+Back!)&section=movies"
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
   295693:
     label_title: The Boss Baby
     sort_title: Boss Baby 1
