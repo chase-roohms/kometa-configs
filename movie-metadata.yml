@@ -3288,6 +3288,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Hamilton&section=movies
     genre.sync:
       - Drama
+  60897:
+    label_title: Happiness Is a Warm Blanket, Charlie Brown
+    sort_title: Happiness Is a Warm Blanket, Charlie Brown
+    release_year: '2011'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Happiness+Is+a+Warm+Blanket,+Charlie+Brown&section=movies
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
   9614:
     label_title: Happy Gilmore
     sort_title: Happy Gilmore 1
