@@ -1651,6 +1651,17 @@ metadata:
       - Family
       - Romance
       - TV Movie
+  37556:
+    label_title: "Charlie Brown's Christmas Tales"
+    sort_title: "Charlie Brown's Christmas Tales"
+    release_year: '2002'
+    url_poster: ''
+    tpdb_search: "https://theposterdb.com/search?term=Charlie+Brown's+Christmas+Tales&section=movies"
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
+      - TV Movie
   9982:
     label_title: Chicken Little
     sort_title: Chicken Little
