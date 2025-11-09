@@ -7552,6 +7552,17 @@ metadata:
     studio: Disney
     genre.sync:
       - Animation
+  40482:
+    label_title: "Someday You'll Find Her, Charlie Brown"
+    sort_title: "Someday You'll Find Her, Charlie Brown"
+    release_year: '1981'
+    url_poster: ''
+    tpdb_search: "https://theposterdb.com/search?term=Someday+You'll+Find+Her,+Charlie+Brown&section=movies"
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
+      - TV Movie
   454626:
     label_title: Sonic the Hedgehog
     sort_title: Sonic the Hedgehog 1
