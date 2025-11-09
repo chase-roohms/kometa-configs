@@ -7534,6 +7534,17 @@ metadata:
       - Animation
       - Comedy
       - Family
+  40481:
+    label_title: "Snoopy's Getting Married, Charlie Brown"
+    sort_title: "Snoopy's Getting Married, Charlie Brown"
+    release_year: '1985'
+    url_poster: ''
+    tpdb_search: "https://theposterdb.com/search?term=Snoopy's+Getting+Married,+Charlie+Brown&section=movies"
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
+      - TV Movie
   447273:
     label_title: Snow White
     sort_title: Snow White
