@@ -4519,14 +4519,14 @@ metadata:
     label_title: Tatsuki Fujimoto 17-26
     sort_title: Tatsuki Fujimoto 17-26
     release_year: '2025'
-    url_poster: https://theposterdb.com/api/assets/659704
+    url_poster: https://theposterdb.com/api/assets/660050
     tpdb_search: https://theposterdb.com/search?term=Tatsuki+Fujimoto+17-26&section=shows
     audio_language: ja-JP
     genre.sync:
       - Anime
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/659703
+        url_poster: https://theposterdb.com/api/assets/660051
   383203:
     label_title: Ted Lasso
     sort_title: Ted Lasso
