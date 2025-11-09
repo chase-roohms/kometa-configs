@@ -1248,7 +1248,7 @@ metadata:
       - Animation
   15374:
     label_title: A Boy Named Charlie Brown
-    sort_title: Boy Named Charlie Brown
+    sort_title: Charlie Brown Boy Named
     release_year: '1969'
     url_poster: ''
     tpdb_search: https://theposterdb.com/search?term=A+Boy+Named+Charlie+Brown&section=movies
@@ -1256,7 +1256,6 @@ metadata:
       - Animation
       - Comedy
       - Family
-      - Music
   62177:
     label_title: Brave
     sort_title: Brave
@@ -1523,7 +1522,7 @@ metadata:
     label_title: A Charlie Brown Christmas
     sort_title: Charlie Brown Christmas
     release_year: '1965'
-    url_poster: https://theposterdb.com/api/assets/660180
+    url_poster: ''
     tpdb_search: https://theposterdb.com/search?term=A+Charlie+Brown+Christmas&section=movies
     genre.sync:
       - Animation
@@ -1533,16 +1532,17 @@ metadata:
     label_title: "It's the Great Pumpkin, Charlie Brown"
     sort_title: Charlie Brown Halloween
     release_year: '1966'
-    url_poster: https://theposterdb.com/api/assets/660183
+    url_poster: ''
     tpdb_search: "https://theposterdb.com/search?term=It's+the+Great+Pumpkin,+Charlie+Brown&section=movies"
     genre.sync:
       - Animation
+      - Comedy
       - Family
   13479:
     label_title: A Charlie Brown Thanksgiving
     sort_title: Charlie Brown Thanksgiving
     release_year: '1973'
-    url_poster: https://theposterdb.com/api/assets/660173
+    url_poster: ''
     tpdb_search: https://theposterdb.com/search?term=A+Charlie+Brown+Thanksgiving&section=movies
     genre.sync:
       - Animation
@@ -1550,7 +1550,7 @@ metadata:
       - Family
   52952:
     label_title: "Charlie Brown's All-Stars!"
-    sort_title: "Charlie Brown's All-Stars!"
+    sort_title: Charlie Browns All-Stars
     release_year: '1966'
     url_poster: ''
     tpdb_search: "https://theposterdb.com/search?term=Charlie+Brown's+All-Stars!&section=movies"
@@ -1558,7 +1558,6 @@ metadata:
       - Animation
       - Comedy
       - Family
-      - TV Movie
   9982:
     label_title: Chicken Little
     sort_title: Chicken Little
@@ -3203,7 +3202,7 @@ metadata:
       - Comedy
   51940:
     label_title: Happy New Year, Charlie Brown
-    sort_title: Happy New Year, Charlie Brown
+    sort_title: Charlie Brown New Year
     release_year: '1986'
     url_poster: ''
     tpdb_search: https://theposterdb.com/search?term=Happy+New+Year,+Charlie+Brown&section=movies
@@ -3211,7 +3210,6 @@ metadata:
       - Animation
       - Comedy
       - Family
-      - TV Movie
   671:
     label_title: "Harry Potter and the Philosopher's Stone"
     sort_title: Harry Potter 1
@@ -4105,7 +4103,7 @@ metadata:
       - Horror
   117333:
     label_title: "It's Flashbeagle, Charlie Brown"
-    sort_title: "It's Flashbeagle, Charlie Brown"
+    sort_title: Charlie Brown Flashbeagle
     release_year: '1984'
     url_poster: ''
     tpdb_search: "https://theposterdb.com/search?term=It's+Flashbeagle,+Charlie+Brown&section=movies"
@@ -4113,11 +4111,9 @@ metadata:
       - Animation
       - Comedy
       - Family
-      - Music
-      - TV Movie
   37490:
     label_title: "It's Magic, Charlie Brown"
-    sort_title: "It's Magic, Charlie Brown"
+    sort_title: Charlie Brown Magic
     release_year: '1981'
     url_poster: ''
     tpdb_search: "https://theposterdb.com/search?term=It's+Magic,+Charlie+Brown&section=movies"
@@ -4125,10 +4121,9 @@ metadata:
       - Animation
       - Comedy
       - Family
-      - TV Movie
   40484:
     label_title: "It's Your First Kiss, Charlie Brown"
-    sort_title: "It's Your First Kiss, Charlie Brown"
+    sort_title: Charlie Brown First Kiss
     release_year: '1977'
     url_poster: ''
     tpdb_search: "https://theposterdb.com/search?term=It's+Your+First+Kiss,+Charlie+Brown&section=movies"
@@ -4136,7 +4131,6 @@ metadata:
       - Animation
       - Comedy
       - Family
-      - TV Movie
   1094138:
     label_title: Jackpot!
     sort_title: Jackpot!
@@ -6568,7 +6562,7 @@ metadata:
       - Thriller
   55443:
     label_title: Play It Again, Charlie Brown
-    sort_title: Play It Again, Charlie Brown
+    sort_title: Charlie Brown Play It Again
     release_year: '1971'
     url_poster: ''
     tpdb_search: https://theposterdb.com/search?term=Play+It+Again,+Charlie+Brown&section=movies
@@ -6576,8 +6570,6 @@ metadata:
       - Animation
       - Comedy
       - Family
-      - Music
-      - TV Movie
   1248226:
     label_title: Playdate
     sort_title: Playdate
@@ -7459,10 +7451,11 @@ metadata:
     label_title: Snoopy, Come Home
     sort_title: Snoopy, Come Home
     release_year: '1972'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/660174
     tpdb_search: https://theposterdb.com/search?term=Snoopy,+Come+Home&section=movies
     genre.sync:
       - Animation
+      - Comedy
       - Family
   447273:
     label_title: Snow White
@@ -9186,7 +9179,7 @@ metadata:
       - Superhero
   51528:
     label_title: "You're in Love, Charlie Brown"
-    sort_title: "You're in Love, Charlie Brown"
+    sort_title: Charlie Brown In Love
     release_year: '1967'
     url_poster: ''
     tpdb_search: "https://theposterdb.com/search?term=You're+in+Love,+Charlie+Brown&section=movies"
@@ -9194,8 +9187,6 @@ metadata:
       - Animation
       - Comedy
       - Family
-      - Romance
-      - TV Movie
   11967:
     label_title: Young Guns
     sort_title: Young Guns
