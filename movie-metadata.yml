@@ -881,6 +881,17 @@ metadata:
     studio: DC Films
     genre.sync:
       - Superhero
+  31726:
+    label_title: Be My Valentine, Charlie Brown
+    sort_title: Be My Valentine, Charlie Brown
+    release_year: '1975'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Be+My+Valentine,+Charlie+Brown&section=movies
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
+      - TV Movie
   441384:
     label_title: The Beach Bum
     sort_title: Beach Bum
