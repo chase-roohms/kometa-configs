@@ -4274,6 +4274,17 @@ metadata:
       - Family
       - Mystery
       - TV Movie
+  117314:
+    label_title: "It's an Adventure, Charlie Brown"
+    sort_title: "It's an Adventure, Charlie Brown"
+    release_year: '1983'
+    url_poster: ''
+    tpdb_search: "https://theposterdb.com/search?term=It's+an+Adventure,+Charlie+Brown&section=movies"
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
+      - TV Movie
   40489:
     label_title: "It's Arbor Day, Charlie Brown"
     sort_title: "It's Arbor Day, Charlie Brown"
