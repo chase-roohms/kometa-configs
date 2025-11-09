@@ -4196,6 +4196,17 @@ metadata:
       - Comedy
       - Family
       - TV Movie
+  28550:
+    label_title: "It's the Easter Beagle, Charlie Brown"
+    sort_title: "It's the Easter Beagle, Charlie Brown"
+    release_year: '1974'
+    url_poster: ''
+    tpdb_search: "https://theposterdb.com/search?term=It's+the+Easter+Beagle,+Charlie+Brown&section=movies"
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
+      - TV Movie
   1094138:
     label_title: Jackpot!
     sort_title: Jackpot!
