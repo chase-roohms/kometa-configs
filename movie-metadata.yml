@@ -8260,6 +8260,18 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Terrifier+3&section=movies
     genre.sync:
       - Horror
+  54912:
+    label_title: "There's No Time for Love, Charlie Brown"
+    sort_title: "There's No Time for Love, Charlie Brown"
+    release_year: '1973'
+    url_poster: ''
+    tpdb_search: "https://theposterdb.com/search?term=There's+No+Time+for+Love,+Charlie+Brown&section=movies"
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
+      - Romance
+      - TV Movie
   10195:
     label_title: Thor
     sort_title: Thor 1
