@@ -9164,6 +9164,18 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
+  51528:
+    label_title: "You're in Love, Charlie Brown"
+    sort_title: "You're in Love, Charlie Brown"
+    release_year: '1967'
+    url_poster: ''
+    tpdb_search: "https://theposterdb.com/search?term=You're+in+Love,+Charlie+Brown&section=movies"
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
+      - Romance
+      - TV Movie
   11967:
     label_title: Young Guns
     sort_title: Young Guns
