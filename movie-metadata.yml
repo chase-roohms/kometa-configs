@@ -9276,6 +9276,16 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
+  51330:
+    label_title: "You're a Good Man, Charlie Brown"
+    sort_title: "You're a Good Man, Charlie Brown"
+    release_year: '1985'
+    url_poster: https://theposterdb.com/api/assets/660316
+    tpdb_search: "https://theposterdb.com/search?term=You're+a+Good+Man,+Charlie+Brown&section=movies"
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
   31732:
     label_title: "You're Not Elected, Charlie Brown"
     sort_title: "You're Not Elected, Charlie Brown"
