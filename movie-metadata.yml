@@ -9100,12 +9100,10 @@ metadata:
     label_title: Young Guns
     sort_title: Young Guns
     release_year: '1988'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/153378
     tpdb_search: https://theposterdb.com/search?term=Young+Guns&section=movies
     genre.sync:
       - Action
-      - Adventure
-      - Western
   372058:
     label_title: Your Name.
     sort_title: Your Name.
