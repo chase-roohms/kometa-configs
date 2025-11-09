@@ -4104,6 +4104,17 @@ metadata:
       - Comedy
       - Family
       - TV Movie
+  40484:
+    label_title: "It's Your First Kiss, Charlie Brown"
+    sort_title: "It's Your First Kiss, Charlie Brown"
+    release_year: '1977'
+    url_poster: ''
+    tpdb_search: "https://theposterdb.com/search?term=It's+Your+First+Kiss,+Charlie+Brown&section=movies"
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
+      - TV Movie
   1094138:
     label_title: Jackpot!
     sort_title: Jackpot!
