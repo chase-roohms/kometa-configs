@@ -1512,7 +1512,7 @@ metadata:
     label_title: A Boy Named Charlie Brown
     sort_title: Charlie Brown Boy Named
     release_year: '1969'
-    url_poster: https://theposterdb.com/api/assets/660176
+    url_poster: https://theposterdb.com/api/assets/660331
     tpdb_search: https://theposterdb.com/search?term=A+Boy+Named+Charlie+Brown&section=movies
     genre.sync:
       - Animation
@@ -1522,7 +1522,7 @@ metadata:
     label_title: A Charlie Brown Christmas
     sort_title: Charlie Brown Christmas
     release_year: '1965'
-    url_poster: https://theposterdb.com/api/assets/660331
+    url_poster: https://theposterdb.com/api/assets/660180
     tpdb_search: https://theposterdb.com/search?term=A+Charlie+Brown+Christmas&section=movies
     genre.sync:
       - Animation
@@ -1610,7 +1610,7 @@ metadata:
       - Family
   52952:
     label_title: "Charlie Brown's All-Stars!"
-    sort_title: Charlie Browns All-Stars
+    sort_title: Charlie Brown All-Stars
     release_year: '1966'
     url_poster: https://theposterdb.com/api/assets/660179
     tpdb_search: "https://theposterdb.com/search?term=Charlie+Brown's+All-Stars!&section=movies"
@@ -7459,7 +7459,7 @@ metadata:
       - Horror
   15242:
     label_title: Snoopy, Come Home
-    sort_title: Snoopy, Come Home
+    sort_title: Snoopy Come Home
     release_year: '1972'
     url_poster: https://theposterdb.com/api/assets/660174
     tpdb_search: https://theposterdb.com/search?term=Snoopy,+Come+Home&section=movies
