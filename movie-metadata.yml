@@ -3190,6 +3190,17 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Happy+Gilmore+2&section=movies
     genre.sync:
       - Comedy
+  51940:
+    label_title: Happy New Year, Charlie Brown
+    sort_title: Happy New Year, Charlie Brown
+    release_year: '1986'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Happy+New+Year,+Charlie+Brown&section=movies
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
+      - TV Movie
   671:
     label_title: "Harry Potter and the Philosopher's Stone"
     sort_title: Harry Potter 1
