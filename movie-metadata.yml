@@ -9096,6 +9096,16 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
+  11967:
+    label_title: Young Guns
+    sort_title: Young Guns
+    release_year: '1988'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Young+Guns&section=movies
+    genre.sync:
+      - Action
+      - Adventure
+      - Western
   372058:
     label_title: Your Name.
     sort_title: Your Name.
