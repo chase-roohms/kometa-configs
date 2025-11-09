@@ -1535,6 +1535,15 @@ metadata:
     genre.sync:
       - Animation
       - Family
+  270432:
+    label_title: It Was My Best Birthday Ever, Charlie Brown!
+    sort_title: Charlie Brown Best Birthday Ever
+    release_year: '1997'
+    url_poster: https://theposterdb.com/api/assets/660308
+    tpdb_search: https://theposterdb.com/search?term=It+Was+My+Best+Birthday+Ever,+Charlie+Brown!&section=movies
+    genre.sync:
+      - Animation
+      - Family
   31112:
     label_title: "Bon Voyage, Charlie Brown (and Don't Come Back!)"
     sort_title: Charlie Brown Bon Voyage
@@ -1748,6 +1757,15 @@ metadata:
     release_year: '1972'
     url_poster: https://theposterdb.com/api/assets/660328
     tpdb_search: "https://theposterdb.com/search?term=You're+Not+Elected,+Charlie+Brown&section=movies"
+    genre.sync:
+      - Animation
+      - Family
+  35020:
+    label_title: "It's the Pied Piper, Charlie Brown"
+    sort_title: Charlie Brown Pied Piper
+    release_year: '2000'
+    url_poster: https://theposterdb.com/api/assets/660314
+    tpdb_search: "https://theposterdb.com/search?term=It's+the+Pied+Piper,+Charlie+Brown&section=movies"
     genre.sync:
       - Animation
       - Family
@@ -4392,24 +4410,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=It+Chapter+Two&section=movies
     genre.sync:
       - Horror
-  270432:
-    label_title: It Was My Best Birthday Ever, Charlie Brown!
-    sort_title: Charlie Brown Best Birthday Ever
-    release_year: '1997'
-    url_poster: https://theposterdb.com/api/assets/660308
-    tpdb_search: https://theposterdb.com/search?term=It+Was+My+Best+Birthday+Ever,+Charlie+Brown!&section=movies
-    genre.sync:
-      - Animation
-      - Family
-  35020:
-    label_title: "It's the Pied Piper, Charlie Brown"
-    sort_title: Charlie Brown Pied Piper
-    release_year: '2000'
-    url_poster: https://theposterdb.com/api/assets/660314
-    tpdb_search: "https://theposterdb.com/search?term=It's+the+Pied+Piper,+Charlie+Brown&section=movies"
-    genre.sync:
-      - Animation
-      - Family
   1094138:
     label_title: Jackpot!
     sort_title: Jackpot!
