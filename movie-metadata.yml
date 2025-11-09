@@ -4185,6 +4185,17 @@ metadata:
       - Comedy
       - Family
       - TV Movie
+  23998:
+    label_title: "It's Christmastime Again, Charlie Brown"
+    sort_title: "It's Christmastime Again, Charlie Brown"
+    release_year: '1992'
+    url_poster: ''
+    tpdb_search: "https://theposterdb.com/search?term=It's+Christmastime+Again,+Charlie+Brown&section=movies"
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
+      - TV Movie
   1094138:
     label_title: Jackpot!
     sort_title: Jackpot!
