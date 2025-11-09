@@ -4392,6 +4392,17 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=It+Chapter+Two&section=movies
     genre.sync:
       - Horror
+  270432:
+    label_title: It Was My Best Birthday Ever, Charlie Brown!
+    sort_title: It Was My Best Birthday Ever, Charlie Brown!
+    release_year: '1997'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=It+Was+My+Best+Birthday+Ever,+Charlie+Brown!&section=movies
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
+      - TV Movie
   35020:
     label_title: "It's the Pied Piper, Charlie Brown"
     sort_title: "It's the Pied Piper, Charlie Brown"
