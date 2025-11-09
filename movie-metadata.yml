@@ -6887,6 +6887,16 @@ metadata:
     genre.sync:
       - Horror
       - Thriller
+  31718:
+    label_title: Race for Your Life, Charlie Brown
+    sort_title: Race for Your Life, Charlie Brown
+    release_year: '1977'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Race+for+Your+Life,+Charlie+Brown&section=movies
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
   2062:
     label_title: Ratatouille
     sort_title: Ratatouille
