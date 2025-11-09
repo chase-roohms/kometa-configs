@@ -1512,7 +1512,7 @@ metadata:
     label_title: A Boy Named Charlie Brown
     sort_title: Charlie Brown Boy Named
     release_year: '1969'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/660176
     tpdb_search: https://theposterdb.com/search?term=A+Boy+Named+Charlie+Brown&section=movies
     genre.sync:
       - Animation
@@ -1522,7 +1522,7 @@ metadata:
     label_title: A Charlie Brown Christmas
     sort_title: Charlie Brown Christmas
     release_year: '1965'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/660180
     tpdb_search: https://theposterdb.com/search?term=A+Charlie+Brown+Christmas&section=movies
     genre.sync:
       - Animation
@@ -1532,7 +1532,7 @@ metadata:
     label_title: "It's Your First Kiss, Charlie Brown"
     sort_title: Charlie Brown First Kiss
     release_year: '1977'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/660172
     tpdb_search: "https://theposterdb.com/search?term=It's+Your+First+Kiss,+Charlie+Brown&section=movies"
     genre.sync:
       - Animation
@@ -1542,7 +1542,7 @@ metadata:
     label_title: "It's Flashbeagle, Charlie Brown"
     sort_title: Charlie Brown Flashbeagle
     release_year: '1984'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/660170
     tpdb_search: "https://theposterdb.com/search?term=It's+Flashbeagle,+Charlie+Brown&section=movies"
     genre.sync:
       - Animation
@@ -1552,7 +1552,7 @@ metadata:
     label_title: "It's the Great Pumpkin, Charlie Brown"
     sort_title: Charlie Brown Halloween
     release_year: '1966'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/660183
     tpdb_search: "https://theposterdb.com/search?term=It's+the+Great+Pumpkin,+Charlie+Brown&section=movies"
     genre.sync:
       - Animation
@@ -1562,7 +1562,7 @@ metadata:
     label_title: "You're in Love, Charlie Brown"
     sort_title: Charlie Brown In Love
     release_year: '1967'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/660177
     tpdb_search: "https://theposterdb.com/search?term=You're+in+Love,+Charlie+Brown&section=movies"
     genre.sync:
       - Animation
@@ -1572,7 +1572,7 @@ metadata:
     label_title: "It's Magic, Charlie Brown"
     sort_title: Charlie Brown Magic
     release_year: '1981'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/660171
     tpdb_search: "https://theposterdb.com/search?term=It's+Magic,+Charlie+Brown&section=movies"
     genre.sync:
       - Animation
@@ -1582,7 +1582,7 @@ metadata:
     label_title: Happy New Year, Charlie Brown
     sort_title: Charlie Brown New Year
     release_year: '1986'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/660169
     tpdb_search: https://theposterdb.com/search?term=Happy+New+Year,+Charlie+Brown&section=movies
     genre.sync:
       - Animation
@@ -1592,7 +1592,7 @@ metadata:
     label_title: Play It Again, Charlie Brown
     sort_title: Charlie Brown Play It Again
     release_year: '1971'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/660175
     tpdb_search: https://theposterdb.com/search?term=Play+It+Again,+Charlie+Brown&section=movies
     genre.sync:
       - Animation
@@ -1602,7 +1602,7 @@ metadata:
     label_title: A Charlie Brown Thanksgiving
     sort_title: Charlie Brown Thanksgiving
     release_year: '1973'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/660173
     tpdb_search: https://theposterdb.com/search?term=A+Charlie+Brown+Thanksgiving&section=movies
     genre.sync:
       - Animation
@@ -1612,7 +1612,7 @@ metadata:
     label_title: "Charlie Brown's All-Stars!"
     sort_title: Charlie Browns All-Stars
     release_year: '1966'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/660179
     tpdb_search: "https://theposterdb.com/search?term=Charlie+Brown's+All-Stars!&section=movies"
     genre.sync:
       - Animation
