@@ -9221,6 +9221,17 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
+  31732:
+    label_title: "You're Not Elected, Charlie Brown"
+    sort_title: "You're Not Elected, Charlie Brown"
+    release_year: '1972'
+    url_poster: ''
+    tpdb_search: "https://theposterdb.com/search?term=You're+Not+Elected,+Charlie+Brown&section=movies"
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
+      - TV Movie
   11967:
     label_title: Young Guns
     sort_title: Young Guns
