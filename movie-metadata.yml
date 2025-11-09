@@ -9445,6 +9445,17 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
+  141891:
+    label_title: "You're in the Super Bowl, Charlie Brown!"
+    sort_title: "You're in the Super Bowl, Charlie Brown!"
+    release_year: '1994'
+    url_poster: ''
+    tpdb_search: "https://theposterdb.com/search?term=You're+in+the+Super+Bowl,+Charlie+Brown!&section=movies"
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
+      - TV Movie
   11967:
     label_title: Young Guns
     sort_title: Young Guns
