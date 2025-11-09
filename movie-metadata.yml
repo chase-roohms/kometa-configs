@@ -4195,6 +4195,17 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=It+Chapter+Two&section=movies
     genre.sync:
       - Horror
+  52955:
+    label_title: It Was a Short Summer, Charlie Brown
+    sort_title: It Was a Short Summer, Charlie Brown
+    release_year: '1969'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=It+Was+a+Short+Summer,+Charlie+Brown&section=movies
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
+      - TV Movie
   40489:
     label_title: "It's Arbor Day, Charlie Brown"
     sort_title: "It's Arbor Day, Charlie Brown"
