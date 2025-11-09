@@ -3374,6 +3374,18 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Havoc&section=movies
     genre.sync:
       - Action
+  54909:
+    label_title: "He's a Bully, Charlie Brown"
+    sort_title: "He's a Bully, Charlie Brown"
+    release_year: '2006'
+    url_poster: ''
+    tpdb_search: "https://theposterdb.com/search?term=He's+a+Bully,+Charlie+Brown&section=movies"
+    genre.sync:
+      - Animation
+      - Comedy
+      - Drama
+      - Family
+      - TV Movie
   1302916:
     label_title: Heart Eyes
     sort_title: Heart Eyes
