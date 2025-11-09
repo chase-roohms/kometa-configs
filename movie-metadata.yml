@@ -4959,6 +4959,16 @@ metadata:
     genre.sync:
       - Comedy
       - Horror
+  68917:
+    label_title: Life Is a Circus, Charlie Brown
+    sort_title: Life Is a Circus, Charlie Brown
+    release_year: '1980'
+    url_poster: https://theposterdb.com/api/assets/660317
+    tpdb_search: https://theposterdb.com/search?term=Life+Is+a+Circus,+Charlie+Brown&section=movies
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
   160155:
     label_title: Life Is Ruff
     sort_title: Life Is Ruff
