@@ -1535,15 +1535,6 @@ metadata:
     genre.sync:
       - Animation
       - Family
-  31726:
-    label_title: Be My Valentine, Charlie Brown
-    sort_title: Charlie Brown Valentine
-    release_year: '1975'
-    url_poster: https://theposterdb.com/api/assets/660290
-    tpdb_search: https://theposterdb.com/search?term=Be+My+Valentine,+Charlie+Brown&section=movies
-    genre.sync:
-      - Animation
-      - Family
   31112:
     label_title: "Bon Voyage, Charlie Brown (and Don't Come Back!)"
     sort_title: Charlie Brown Bon Voyage
@@ -1820,6 +1811,15 @@ metadata:
     release_year: '1973'
     url_poster: https://theposterdb.com/api/assets/660173
     tpdb_search: https://theposterdb.com/search?term=A+Charlie+Brown+Thanksgiving&section=movies
+    genre.sync:
+      - Animation
+      - Family
+  31726:
+    label_title: Be My Valentine, Charlie Brown
+    sort_title: Charlie Brown Valentine
+    release_year: '1975'
+    url_poster: https://theposterdb.com/api/assets/660290
+    tpdb_search: https://theposterdb.com/search?term=Be+My+Valentine,+Charlie+Brown&section=movies
     genre.sync:
       - Animation
       - Family
@@ -4392,6 +4392,18 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=It+Chapter+Two&section=movies
     genre.sync:
       - Horror
+  35020:
+    label_title: "It's the Pied Piper, Charlie Brown"
+    sort_title: "It's the Pied Piper, Charlie Brown"
+    release_year: '2000'
+    url_poster: ''
+    tpdb_search: "https://theposterdb.com/search?term=It's+the+Pied+Piper,+Charlie+Brown&section=movies"
+    genre.sync:
+      - Adventure
+      - Animation
+      - Comedy
+      - Family
+      - TV Movie
   1094138:
     label_title: Jackpot!
     sort_title: Jackpot!
