@@ -1512,13 +1512,11 @@ metadata:
     label_title: "It's an Adventure, Charlie Brown"
     sort_title: Charlie Brown Adventure
     release_year: '1983'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/660310
     tpdb_search: "https://theposterdb.com/search?term=It's+an+Adventure,+Charlie+Brown&section=movies"
     genre.sync:
       - Animation
-      - Comedy
       - Family
-      - TV Movie
   52952:
     label_title: "Charlie Brown's All-Stars!"
     sort_title: Charlie Brown All-Stars
@@ -1527,24 +1525,21 @@ metadata:
     tpdb_search: "https://theposterdb.com/search?term=Charlie+Brown's+All-Stars!&section=movies"
     genre.sync:
       - Animation
-      - Comedy
       - Family
   40489:
     label_title: "It's Arbor Day, Charlie Brown"
     sort_title: Charlie Brown Arbor Day
     release_year: '1976'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/660311
     tpdb_search: "https://theposterdb.com/search?term=It's+Arbor+Day,+Charlie+Brown&section=movies"
     genre.sync:
       - Animation
-      - Comedy
       - Family
-      - TV Movie
   31726:
     label_title: Be My Valentine, Charlie Brown
-    sort_title: Charlie Brown Be My Valentine
+    sort_title: Charlie Brown Valentine
     release_year: '1975'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/660290
     tpdb_search: https://theposterdb.com/search?term=Be+My+Valentine,+Charlie+Brown&section=movies
     genre.sync:
       - Animation
@@ -1553,11 +1548,10 @@ metadata:
     label_title: "Bon Voyage, Charlie Brown (and Don't Come Back!)"
     sort_title: Charlie Brown Bon Voyage
     release_year: '1980'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/660291
     tpdb_search: "https://theposterdb.com/search?term=Bon+Voyage,+Charlie+Brown+(and+Don't+Come+Back!)&section=movies"
     genre.sync:
       - Animation
-      - Comedy
       - Family
   15374:
     label_title: A Boy Named Charlie Brown
@@ -1567,20 +1561,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=A+Boy+Named+Charlie+Brown&section=movies
     genre.sync:
       - Animation
-      - Comedy
       - Family
   54909:
     label_title: "He's a Bully, Charlie Brown"
     sort_title: Charlie Brown Bully
     release_year: '2006'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/660303
     tpdb_search: "https://theposterdb.com/search?term=He's+a+Bully,+Charlie+Brown&section=movies"
     genre.sync:
       - Animation
-      - Comedy
-      - Drama
       - Family
-      - TV Movie
   13187:
     label_title: A Charlie Brown Christmas
     sort_title: Charlie Brown Christmas
@@ -1589,52 +1579,43 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=A+Charlie+Brown+Christmas&section=movies
     genre.sync:
       - Animation
-      - Comedy
       - Family
   37556:
     label_title: "Charlie Brown's Christmas Tales"
     sort_title: Charlie Brown Christmas Tales
     release_year: '2002'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/660292
     tpdb_search: "https://theposterdb.com/search?term=Charlie+Brown's+Christmas+Tales&section=movies"
     genre.sync:
       - Animation
-      - Comedy
       - Family
-      - TV Movie
   23998:
     label_title: "It's Christmastime Again, Charlie Brown"
     sort_title: Charlie Brown Christmastime
     release_year: '1992'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/660312
     tpdb_search: "https://theposterdb.com/search?term=It's+Christmastime+Again,+Charlie+Brown&section=movies"
     genre.sync:
       - Animation
-      - Comedy
       - Family
-      - TV Movie
   24251:
     label_title: I Want a Dog for Christmas, Charlie Brown
     sort_title: Charlie Brown Dog For Christmas
     release_year: '2003'
-    url_poster: ''
+    url_poster: 
     tpdb_search: https://theposterdb.com/search?term=I+Want+a+Dog+for+Christmas,+Charlie+Brown&section=movies
     genre.sync:
       - Animation
-      - Comedy
       - Family
-      - TV Movie
   28550:
     label_title: "It's the Easter Beagle, Charlie Brown"
     sort_title: Charlie Brown Easter Beagle
     release_year: '1974'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/660313
     tpdb_search: "https://theposterdb.com/search?term=It's+the+Easter+Beagle,+Charlie+Brown&section=movies"
     genre.sync:
       - Animation
-      - Comedy
       - Family
-      - TV Movie
   40484:
     label_title: "It's Your First Kiss, Charlie Brown"
     sort_title: Charlie Brown First Kiss
@@ -1643,7 +1624,6 @@ metadata:
     tpdb_search: "https://theposterdb.com/search?term=It's+Your+First+Kiss,+Charlie+Brown&section=movies"
     genre.sync:
       - Animation
-      - Comedy
       - Family
   117333:
     label_title: "It's Flashbeagle, Charlie Brown"
@@ -1653,7 +1633,6 @@ metadata:
     tpdb_search: "https://theposterdb.com/search?term=It's+Flashbeagle,+Charlie+Brown&section=movies"
     genre.sync:
       - Animation
-      - Comedy
       - Family
   51330:
     label_title: "You're a Good Man, Charlie Brown"
@@ -1663,7 +1642,6 @@ metadata:
     tpdb_search: "https://theposterdb.com/search?term=You're+a+Good+Man,+Charlie+Brown&section=movies"
     genre.sync:
       - Animation
-      - Comedy
       - Family
   40483:
     label_title: "You're a Good Sport, Charlie Brown"
@@ -1673,30 +1651,25 @@ metadata:
     tpdb_search: "https://theposterdb.com/search?term=You're+a+Good+Sport,+Charlie+Brown&section=movies"
     genre.sync:
       - Animation
-      - Comedy
       - Family
   40375:
     label_title: Is This Goodbye, Charlie Brown?
     sort_title: Charlie Brown Goodbye
     release_year: '1983'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/660306
     tpdb_search: https://theposterdb.com/search?term=Is+This+Goodbye,+Charlie+Brown?&section=movies
     genre.sync:
       - Animation
-      - Comedy
       - Family
-      - TV Movie
   52446:
     label_title: "You're the Greatest, Charlie Brown"
     sort_title: Charlie Brown Greatest
     release_year: '1979'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/660329
     tpdb_search: "https://theposterdb.com/search?term=You're+the+Greatest,+Charlie+Brown&section=movies"
     genre.sync:
       - Animation
-      - Comedy
       - Family
-      - TV Movie
   13353:
     label_title: "It's the Great Pumpkin, Charlie Brown"
     sort_title: Charlie Brown Halloween
@@ -1705,17 +1678,15 @@ metadata:
     tpdb_search: "https://theposterdb.com/search?term=It's+the+Great+Pumpkin,+Charlie+Brown&section=movies"
     genre.sync:
       - Animation
-      - Comedy
       - Family
   60897:
     label_title: Happiness Is a Warm Blanket, Charlie Brown
     sort_title: Charlie Brown Happiness Is a Warm Blanket
     release_year: '2011'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/660293
     tpdb_search: https://theposterdb.com/search?term=Happiness+Is+a+Warm+Blanket,+Charlie+Brown&section=movies
     genre.sync:
       - Animation
-      - Comedy
       - Family
   51528:
     label_title: "You're in Love, Charlie Brown"
@@ -1725,7 +1696,6 @@ metadata:
     tpdb_search: "https://theposterdb.com/search?term=You're+in+Love,+Charlie+Brown&section=movies"
     genre.sync:
       - Animation
-      - Comedy
       - Family
   68917:
     label_title: Life Is a Circus, Charlie Brown
@@ -1735,19 +1705,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Life+Is+a+Circus,+Charlie+Brown&section=movies
     genre.sync:
       - Animation
-      - Comedy
       - Family
   31113:
     label_title: Lucy Must Be Traded, Charlie Brown
     sort_title: Charlie Brown Lucy Must Be Traded
     release_year: '2003'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/660322
     tpdb_search: https://theposterdb.com/search?term=Lucy+Must+Be+Traded,+Charlie+Brown&section=movies
     genre.sync:
       - Animation
-      - Comedy
       - Family
-      - TV Movie
   37490:
     label_title: "It's Magic, Charlie Brown"
     sort_title: Charlie Brown Magic
@@ -1756,20 +1723,16 @@ metadata:
     tpdb_search: "https://theposterdb.com/search?term=It's+Magic,+Charlie+Brown&section=movies"
     genre.sync:
       - Animation
-      - Comedy
       - Family
   52956:
     label_title: "It's a Mystery, Charlie Brown"
     sort_title: Charlie Brown Mystery
     release_year: '1974'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/660309
     tpdb_search: "https://theposterdb.com/search?term=It's+a+Mystery,+Charlie+Brown&section=movies"
     genre.sync:
       - Animation
-      - Comedy
       - Family
-      - Mystery
-      - TV Movie
   51940:
     label_title: Happy New Year, Charlie Brown
     sort_title: Charlie Brown New Year
@@ -1778,31 +1741,25 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Happy+New+Year,+Charlie+Brown&section=movies
     genre.sync:
       - Animation
-      - Comedy
       - Family
   54912:
     label_title: "There's No Time for Love, Charlie Brown"
     sort_title: Charlie Brown No Time For Love
     release_year: '1973'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/660330
     tpdb_search: "https://theposterdb.com/search?term=There's+No+Time+for+Love,+Charlie+Brown&section=movies"
     genre.sync:
       - Animation
-      - Comedy
       - Family
-      - Romance
-      - TV Movie
   31732:
     label_title: "You're Not Elected, Charlie Brown"
     sort_title: Charlie Brown Not Elected
     release_year: '1972'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/660328
     tpdb_search: "https://theposterdb.com/search?term=You're+Not+Elected,+Charlie+Brown&section=movies"
     genre.sync:
       - Animation
-      - Comedy
       - Family
-      - TV Movie
   55443:
     label_title: Play It Again, Charlie Brown
     sort_title: Charlie Brown Play It Again
@@ -1811,62 +1768,52 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Play+It+Again,+Charlie+Brown&section=movies
     genre.sync:
       - Animation
-      - Comedy
       - Family
   31718:
     label_title: Race for Your Life, Charlie Brown
     sort_title: Charlie Brown Race for Your Life
     release_year: '1977'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/660323
     tpdb_search: https://theposterdb.com/search?term=Race+for+Your+Life,+Charlie+Brown&section=movies
     genre.sync:
       - Animation
-      - Comedy
       - Family
   141933:
     label_title: "She's a Good Skate, Charlie Brown"
     sort_title: Charlie Brown Shes a Good Skate
     release_year: '1980'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/660324
     tpdb_search: "https://theposterdb.com/search?term=She's+a+Good+Skate,+Charlie+Brown&section=movies"
     genre.sync:
       - Animation
-      - Comedy
       - Family
-      - TV Movie
   52955:
     label_title: It Was a Short Summer, Charlie Brown
     sort_title: Charlie Brown Short Summer
     release_year: '1969'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/660307
     tpdb_search: https://theposterdb.com/search?term=It+Was+a+Short+Summer,+Charlie+Brown&section=movies
     genre.sync:
       - Animation
-      - Comedy
       - Family
-      - TV Movie
   40481:
     label_title: "Snoopy's Getting Married, Charlie Brown"
     sort_title: Charlie Brown Snoopys Getting Married
     release_year: '1985'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/660325
     tpdb_search: "https://theposterdb.com/search?term=Snoopy's+Getting+Married,+Charlie+Brown&section=movies"
     genre.sync:
       - Animation
-      - Comedy
       - Family
-      - TV Movie
   40482:
     label_title: "Someday You'll Find Her, Charlie Brown"
     sort_title: Charlie Brown Someday Youll Find Her
     release_year: '1981'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/660326
     tpdb_search: "https://theposterdb.com/search?term=Someday+You'll+Find+Her,+Charlie+Brown&section=movies"
     genre.sync:
       - Animation
-      - Comedy
       - Family
-      - TV Movie
   13479:
     label_title: A Charlie Brown Thanksgiving
     sort_title: Charlie Brown Thanksgiving
@@ -1875,31 +1822,25 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=A+Charlie+Brown+Thanksgiving&section=movies
     genre.sync:
       - Animation
-      - Comedy
       - Family
   28069:
     label_title: A Charlie Brown Valentine
     sort_title: Charlie Brown Valentine
     release_year: '2002'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/660318
     tpdb_search: https://theposterdb.com/search?term=A+Charlie+Brown+Valentine&section=movies
     genre.sync:
       - Animation
-      - Comedy
       - Family
-      - Romance
-      - TV Movie
   55444:
     label_title: What a Nightmare, Charlie Brown!
     sort_title: Charlie Brown What A Nightmare
     release_year: '1978'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/660319
     tpdb_search: https://theposterdb.com/search?term=What+a+Nightmare,+Charlie+Brown!&section=movies
     genre.sync:
       - Animation
-      - Comedy
       - Family
-      - TV Movie
   133131:
     label_title: Why, Charlie Brown, Why?
     sort_title: Charlie Brown Why
@@ -1908,20 +1849,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Why,+Charlie+Brown,+Why?&section=movies
     genre.sync:
       - Animation
-      - Comedy
       - Family
   34228:
     label_title: "He's Your Dog, Charlie Brown"
     sort_title: Charlie Brown Your Dog
     release_year: '1968'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/660304
     tpdb_search: "https://theposterdb.com/search?term=He's+Your+Dog,+Charlie+Brown&section=movies"
     genre.sync:
       - Animation
-      - Comedy
-      - Drama
       - Family
-      - TV Movie
   9982:
     label_title: Chicken Little
     sort_title: Chicken Little
@@ -7769,7 +7706,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Snoopy,+Come+Home&section=movies
     genre.sync:
       - Animation
-      - Comedy
       - Family
   447273:
     label_title: Snow White
