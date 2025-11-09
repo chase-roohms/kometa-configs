@@ -1618,6 +1618,18 @@ metadata:
       - Animation
       - Comedy
       - Family
+  28069:
+    label_title: A Charlie Brown Valentine
+    sort_title: Charlie Brown Valentine
+    release_year: '2002'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=A+Charlie+Brown+Valentine&section=movies
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
+      - Romance
+      - TV Movie
   9982:
     label_title: Chicken Little
     sort_title: Chicken Little
