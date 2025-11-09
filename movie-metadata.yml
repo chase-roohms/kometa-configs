@@ -7455,6 +7455,15 @@ metadata:
     studio: Paramount Pictures
     genre.sync:
       - Horror
+  15242:
+    label_title: Snoopy, Come Home
+    sort_title: Snoopy, Come Home
+    release_year: '1972'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Snoopy,+Come+Home&section=movies
+    genre.sync:
+      - Animation
+      - Family
   447273:
     label_title: Snow White
     sort_title: Snow White
