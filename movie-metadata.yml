@@ -1602,7 +1602,7 @@ metadata:
     label_title: I Want a Dog for Christmas, Charlie Brown
     sort_title: Charlie Brown Dog For Christmas
     release_year: '2003'
-    url_poster: 
+    url_poster: https://theposterdb.com/api/assets/660305
     tpdb_search: https://theposterdb.com/search?term=I+Want+a+Dog+for+Christmas,+Charlie+Brown&section=movies
     genre.sync:
       - Animation
