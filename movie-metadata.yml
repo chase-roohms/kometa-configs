@@ -9407,6 +9407,16 @@ metadata:
       - Animation
       - Comedy
       - Family
+  40483:
+    label_title: "You're a Good Sport, Charlie Brown"
+    sort_title: "You're a Good Sport, Charlie Brown"
+    release_year: '1975'
+    url_poster: https://theposterdb.com/api/assets/660286
+    tpdb_search: "https://theposterdb.com/search?term=You're+a+Good+Sport,+Charlie+Brown&section=movies"
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
   31732:
     label_title: "You're Not Elected, Charlie Brown"
     sort_title: "You're Not Elected, Charlie Brown"
