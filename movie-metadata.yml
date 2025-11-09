@@ -1246,6 +1246,17 @@ metadata:
     studio: DreamWorks Animation
     genre.sync:
       - Animation
+  15374:
+    label_title: A Boy Named Charlie Brown
+    sort_title: Boy Named Charlie Brown
+    release_year: '1969'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=A+Boy+Named+Charlie+Brown&section=movies
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
+      - Music
   62177:
     label_title: Brave
     sort_title: Brave
