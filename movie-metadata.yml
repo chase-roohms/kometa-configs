@@ -7299,6 +7299,17 @@ metadata:
     studio: DC Films
     genre.sync:
       - Superhero
+  141933:
+    label_title: "She's a Good Skate, Charlie Brown"
+    sort_title: "She's a Good Skate, Charlie Brown"
+    release_year: '1980'
+    url_poster: ''
+    tpdb_search: "https://theposterdb.com/search?term=She's+a+Good+Skate,+Charlie+Brown&section=movies"
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
+      - TV Movie
   34016:
     label_title: "She's Out of My League"
     sort_title: "She's Out of My League"
