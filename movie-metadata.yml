@@ -1246,16 +1246,6 @@ metadata:
     studio: DreamWorks Animation
     genre.sync:
       - Animation
-  15374:
-    label_title: A Boy Named Charlie Brown
-    sort_title: Charlie Brown Boy Named
-    release_year: '1969'
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=A+Boy+Named+Charlie+Brown&section=movies
-    genre.sync:
-      - Animation
-      - Comedy
-      - Family
   62177:
     label_title: Brave
     sort_title: Brave
@@ -1518,6 +1508,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Challengers&section=movies
     genre.sync:
       - Drama
+  15374:
+    label_title: A Boy Named Charlie Brown
+    sort_title: Charlie Brown Boy Named
+    release_year: '1969'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=A+Boy+Named+Charlie+Brown&section=movies
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
   13187:
     label_title: A Charlie Brown Christmas
     sort_title: Charlie Brown Christmas
@@ -1528,12 +1528,72 @@ metadata:
       - Animation
       - Comedy
       - Family
+  40484:
+    label_title: "It's Your First Kiss, Charlie Brown"
+    sort_title: Charlie Brown First Kiss
+    release_year: '1977'
+    url_poster: ''
+    tpdb_search: "https://theposterdb.com/search?term=It's+Your+First+Kiss,+Charlie+Brown&section=movies"
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
+  117333:
+    label_title: "It's Flashbeagle, Charlie Brown"
+    sort_title: Charlie Brown Flashbeagle
+    release_year: '1984'
+    url_poster: ''
+    tpdb_search: "https://theposterdb.com/search?term=It's+Flashbeagle,+Charlie+Brown&section=movies"
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
   13353:
     label_title: "It's the Great Pumpkin, Charlie Brown"
     sort_title: Charlie Brown Halloween
     release_year: '1966'
     url_poster: ''
     tpdb_search: "https://theposterdb.com/search?term=It's+the+Great+Pumpkin,+Charlie+Brown&section=movies"
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
+  51528:
+    label_title: "You're in Love, Charlie Brown"
+    sort_title: Charlie Brown In Love
+    release_year: '1967'
+    url_poster: ''
+    tpdb_search: "https://theposterdb.com/search?term=You're+in+Love,+Charlie+Brown&section=movies"
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
+  37490:
+    label_title: "It's Magic, Charlie Brown"
+    sort_title: Charlie Brown Magic
+    release_year: '1981'
+    url_poster: ''
+    tpdb_search: "https://theposterdb.com/search?term=It's+Magic,+Charlie+Brown&section=movies"
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
+  51940:
+    label_title: Happy New Year, Charlie Brown
+    sort_title: Charlie Brown New Year
+    release_year: '1986'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Happy+New+Year,+Charlie+Brown&section=movies
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
+  55443:
+    label_title: Play It Again, Charlie Brown
+    sort_title: Charlie Brown Play It Again
+    release_year: '1971'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Play+It+Again,+Charlie+Brown&section=movies
     genre.sync:
       - Animation
       - Comedy
@@ -3200,16 +3260,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Happy+Gilmore+2&section=movies
     genre.sync:
       - Comedy
-  51940:
-    label_title: Happy New Year, Charlie Brown
-    sort_title: Charlie Brown New Year
-    release_year: '1986'
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Happy+New+Year,+Charlie+Brown&section=movies
-    genre.sync:
-      - Animation
-      - Comedy
-      - Family
   671:
     label_title: "Harry Potter and the Philosopher's Stone"
     sort_title: Harry Potter 1
@@ -4101,36 +4151,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=It+Chapter+Two&section=movies
     genre.sync:
       - Horror
-  117333:
-    label_title: "It's Flashbeagle, Charlie Brown"
-    sort_title: Charlie Brown Flashbeagle
-    release_year: '1984'
-    url_poster: ''
-    tpdb_search: "https://theposterdb.com/search?term=It's+Flashbeagle,+Charlie+Brown&section=movies"
-    genre.sync:
-      - Animation
-      - Comedy
-      - Family
-  37490:
-    label_title: "It's Magic, Charlie Brown"
-    sort_title: Charlie Brown Magic
-    release_year: '1981'
-    url_poster: ''
-    tpdb_search: "https://theposterdb.com/search?term=It's+Magic,+Charlie+Brown&section=movies"
-    genre.sync:
-      - Animation
-      - Comedy
-      - Family
-  40484:
-    label_title: "It's Your First Kiss, Charlie Brown"
-    sort_title: Charlie Brown First Kiss
-    release_year: '1977'
-    url_poster: ''
-    tpdb_search: "https://theposterdb.com/search?term=It's+Your+First+Kiss,+Charlie+Brown&section=movies"
-    genre.sync:
-      - Animation
-      - Comedy
-      - Family
   1094138:
     label_title: Jackpot!
     sort_title: Jackpot!
@@ -6560,16 +6580,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Platform+2&section=movies
     genre.sync:
       - Thriller
-  55443:
-    label_title: Play It Again, Charlie Brown
-    sort_title: Charlie Brown Play It Again
-    release_year: '1971'
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Play+It+Again,+Charlie+Brown&section=movies
-    genre.sync:
-      - Animation
-      - Comedy
-      - Family
   1248226:
     label_title: Playdate
     sort_title: Playdate
@@ -9177,16 +9187,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-  51528:
-    label_title: "You're in Love, Charlie Brown"
-    sort_title: Charlie Brown In Love
-    release_year: '1967'
-    url_poster: ''
-    tpdb_search: "https://theposterdb.com/search?term=You're+in+Love,+Charlie+Brown&section=movies"
-    genre.sync:
-      - Animation
-      - Comedy
-      - Family
   11967:
     label_title: Young Guns
     sort_title: Young Guns
