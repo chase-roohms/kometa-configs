@@ -7745,6 +7745,17 @@ metadata:
     genre.sync:
       - Animation
       - Family
+  69770:
+    label_title: "Snoopy's Reunion"
+    sort_title: "Snoopy's Reunion"
+    release_year: '1991'
+    url_poster: ''
+    tpdb_search: "https://theposterdb.com/search?term=Snoopy's+Reunion&section=movies"
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
+      - TV Movie
   447273:
     label_title: Snow White
     sort_title: Snow White
