@@ -1259,19 +1259,19 @@ metadata:
     label_title: Eastbound & Down
     sort_title: Eastbound & Down
     release_year: '2009'
-    url_poster: https://theposterdb.com/api/assets/112200
+    url_poster: https://theposterdb.com/api/assets/213252
     tpdb_search: https://theposterdb.com/search?term=Eastbound+%26+Down&section=shows
     genre.sync:
       - Comedy
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/112201
+        url_poster: https://theposterdb.com/api/assets/213253
       2:
-        url_poster: https://theposterdb.com/api/assets/112202
+        url_poster: https://theposterdb.com/api/assets/213254
       3:
-        url_poster: https://theposterdb.com/api/assets/112203
+        url_poster: https://theposterdb.com/api/assets/213255
       4:
-        url_poster: https://theposterdb.com/api/assets/112204
+        url_poster: https://theposterdb.com/api/assets/213256
   412431:
     label_title: Echo
     sort_title: Echo
