@@ -3786,19 +3786,19 @@ metadata:
     label_title: Scooby-Doo, Where Are You!
     sort_title: Scooby-Doo, Where Are You!
     release_year: '1969'
-    url_poster: https://theposterdb.com/api/assets/14239
+    url_poster: https://theposterdb.com/api/assets/661007
     tpdb_search: https://theposterdb.com/search?term=Scooby-Doo,+Where+Are+You!&section=shows
     genre.sync:
       - Animation
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/14240
+        url_poster: https://theposterdb.com/api/assets/661008
       1:
-        url_poster: https://theposterdb.com/api/assets/14241
+        url_poster: https://theposterdb.com/api/assets/661009
       2:
-        url_poster: https://theposterdb.com/api/assets/14242
+        url_poster: https://theposterdb.com/api/assets/661010
       3:
-        url_poster: https://theposterdb.com/api/assets/14243
+        url_poster: https://theposterdb.com/api/assets/661011
   248884:
     label_title: The Secret Circle
     sort_title: Secret Circle
