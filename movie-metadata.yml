@@ -1859,6 +1859,15 @@ metadata:
     genre.sync:
       - Animation
       - Family
+  262539:
+    label_title: "It's Three Strikes, Charlie Brown"
+    sort_title: Charlie Brown Three Strikes
+    release_year: '1986'
+    url_poster: https://theposterdb.com/api/assets/660315
+    tpdb_search: "https://theposterdb.com/search?term=It's+Three+Strikes,+Charlie+Brown&section=movies"
+    genre.sync:
+      - Animation
+      - Family
   31726:
     label_title: Be My Valentine, Charlie Brown
     sort_title: Charlie Brown Valentine
@@ -1883,6 +1892,15 @@ metadata:
     release_year: '1978'
     url_poster: https://theposterdb.com/api/assets/660319
     tpdb_search: https://theposterdb.com/search?term=What+a+Nightmare,+Charlie+Brown!&section=movies
+    genre.sync:
+      - Animation
+      - Family
+  149827:
+    label_title: What Have We Learned, Charlie Brown?
+    sort_title: Charlie Brown What Have We Learned
+    release_year: '1983'
+    url_poster: https://theposterdb.com/api/assets/660450
+    tpdb_search: https://theposterdb.com/search?term=What+Have+We+Learned,+Charlie+Brown?&section=movies
     genre.sync:
       - Animation
       - Family
@@ -4437,15 +4455,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=It+Chapter+Two&section=movies
     genre.sync:
       - Horror
-  262539:
-    label_title: "It's Three Strikes, Charlie Brown"
-    sort_title: Charlie Brown Three Strikes
-    release_year: '1986'
-    url_poster: https://theposterdb.com/api/assets/660315
-    tpdb_search: "https://theposterdb.com/search?term=It's+Three+Strikes,+Charlie+Brown&section=movies"
-    genre.sync:
-      - Animation
-      - Family
   1094138:
     label_title: Jackpot!
     sort_title: Jackpot!
@@ -9210,15 +9219,6 @@ metadata:
     studio: A24
     genre.sync:
       - Drama
-  149827:
-    label_title: What Have We Learned, Charlie Brown?
-    sort_title: Charlie Brown What Have We Learned
-    release_year: '1983'
-    url_poster: https://theposterdb.com/api/assets/660450
-    tpdb_search: https://theposterdb.com/search?term=What+Have+We+Learned,+Charlie+Brown?&section=movies
-    genre.sync:
-      - Animation
-      - Family
   8357:
     label_title: 'What the #$*! Do We (K)now!?'
     sort_title: What the Bleep 1
