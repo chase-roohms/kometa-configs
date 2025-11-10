@@ -1571,6 +1571,17 @@ metadata:
     genre.sync:
       - Animation
       - Family
+  102973:
+    label_title: A Charlie Brown Celebration
+    sort_title: Charlie Brown Celebration
+    release_year: '1982'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=A+Charlie+Brown+Celebration&section=movies
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
+      - TV Movie
   13187:
     label_title: A Charlie Brown Christmas
     sort_title: Charlie Brown Christmas
@@ -1820,6 +1831,15 @@ metadata:
     release_year: '1981'
     url_poster: https://theposterdb.com/api/assets/660326
     tpdb_search: "https://theposterdb.com/search?term=Someday+You'll+Find+Her,+Charlie+Brown&section=movies"
+    genre.sync:
+      - Animation
+      - Family
+  141891:
+    label_title: "You're in the Super Bowl, Charlie Brown!"
+    sort_title: Charlie Brown Super Bowl
+    release_year: '1994'
+    url_poster: https://theposterdb.com/api/assets/660327
+    tpdb_search: "https://theposterdb.com/search?term=You're+in+the+Super+Bowl,+Charlie+Brown!&section=movies"
     genre.sync:
       - Animation
       - Family
@@ -9445,15 +9465,6 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
-  141891:
-    label_title: "You're in the Super Bowl, Charlie Brown!"
-    sort_title: Charlie Brown Super Bowl
-    release_year: '1994'
-    url_poster: https://theposterdb.com/api/assets/660327
-    tpdb_search: "https://theposterdb.com/search?term=You're+in+the+Super+Bowl,+Charlie+Brown!&section=movies"
-    genre.sync:
-      - Animation
-      - Family
   11967:
     label_title: Young Guns
     sort_title: Young Guns
