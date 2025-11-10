@@ -1643,6 +1643,15 @@ metadata:
     genre.sync:
       - Animation
       - Family
+  215503:
+    label_title: "It's the Girl in the Red Truck, Charlie Brown"
+    sort_title: Charlie Brown Girl in the Red Truck
+    release_year: '1988'
+    url_poster: https://theposterdb.com/api/assets/660447
+    tpdb_search: "https://theposterdb.com/search?term=It's+the+Girl+in+the+Red+Truck,+Charlie+Brown&section=movies"
+    genre.sync:
+      - Animation
+      - Family
   51330:
     label_title: "You're a Good Man, Charlie Brown"
     sort_title: Charlie Brown Good Man
@@ -4428,15 +4437,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=It+Chapter+Two&section=movies
     genre.sync:
       - Horror
-  215503:
-    label_title: "It's the Girl in the Red Truck, Charlie Brown"
-    sort_title: Charlie Brown Girl in the Red Truck
-    release_year: '1988'
-    url_poster: https://theposterdb.com/api/assets/660447
-    tpdb_search: "https://theposterdb.com/search?term=It's+the+Girl+in+the+Red+Truck,+Charlie+Brown&section=movies"
-    genre.sync:
-      - Animation
-      - Family
   1094138:
     label_title: Jackpot!
     sort_title: Jackpot!
@@ -7752,21 +7752,21 @@ metadata:
     genre.sync:
       - Animation
       - Family
-  69770:
-    label_title: "Snoopy's Reunion"
-    sort_title: Snoopy Reunion
-    release_year: '1991'
-    url_poster: https://theposterdb.com/api/assets/660449
-    tpdb_search: "https://theposterdb.com/search?term=Snoopy's+Reunion&section=movies"
-    genre.sync:
-      - Animation
-      - Family
   103782:
     label_title: 'Snoopy: The Musical'
     sort_title: Snoopy Musical
     release_year: '1988'
     url_poster: https://theposterdb.com/api/assets/660448
     tpdb_search: https://theposterdb.com/search?term=Snoopy:+The+Musical&section=movies
+    genre.sync:
+      - Animation
+      - Family
+  69770:
+    label_title: "Snoopy's Reunion"
+    sort_title: Snoopy Reunion
+    release_year: '1991'
+    url_poster: https://theposterdb.com/api/assets/660449
+    tpdb_search: "https://theposterdb.com/search?term=Snoopy's+Reunion&section=movies"
     genre.sync:
       - Animation
       - Family
