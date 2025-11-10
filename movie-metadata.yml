@@ -5265,6 +5265,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Little+Vampire&section=movies
     genre.sync:
       - Family
+  582:
+    label_title: The Lives of Others
+    sort_title: Lives of Others
+    release_year: '2006'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Lives+of+Others&section=movies
+    genre.sync:
+      - Drama
+      - Thriller
   1083968:
     label_title: Locked
     sort_title: Locked
