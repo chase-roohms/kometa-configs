@@ -4439,7 +4439,7 @@ metadata:
       - Horror
   262539:
     label_title: "It's Three Strikes, Charlie Brown"
-    sort_title: "It's Three Strikes, Charlie Brown"
+    sort_title: Charlie Brown Three Strikes
     release_year: '1986'
     url_poster: https://theposterdb.com/api/assets/660315
     tpdb_search: "https://theposterdb.com/search?term=It's+Three+Strikes,+Charlie+Brown&section=movies"
@@ -9212,17 +9212,13 @@ metadata:
       - Drama
   149827:
     label_title: What Have We Learned, Charlie Brown?
-    sort_title: What Have We Learned, Charlie Brown?
+    sort_title: Charlie Brown What Have We Learned
     release_year: '1983'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/660450
     tpdb_search: https://theposterdb.com/search?term=What+Have+We+Learned,+Charlie+Brown?&section=movies
     genre.sync:
       - Animation
-      - Comedy
       - Family
-      - History
-      - TV Movie
-      - War
   8357:
     label_title: 'What the #$*! Do We (K)now!?'
     sort_title: What the Bleep 1
