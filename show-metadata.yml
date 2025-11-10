@@ -5076,14 +5076,14 @@ metadata:
     label_title: The Yogurt Shop Murders
     sort_title: Yogurt Shop Murders
     release_year: '2025'
-    url_poster: https://theposterdb.com/api/assets/636879
+    url_poster: https://theposterdb.com/api/assets/661005
     tpdb_search: https://theposterdb.com/search?term=The+Yogurt+Shop+Murders&section=shows
     studio: A24
     genre.sync:
       - Documentary
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/636879
+        url_poster: https://theposterdb.com/api/assets/661006
   336924:
     label_title: You
     sort_title: You
