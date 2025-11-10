@@ -4430,6 +4430,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=It+Chapter+Two&section=movies
     genre.sync:
       - Horror
+  215503:
+    label_title: "It's the Girl in the Red Truck, Charlie Brown"
+    sort_title: "It's the Girl in the Red Truck, Charlie Brown"
+    release_year: '1988'
+    url_poster: https://theposterdb.com/api/assets/660447
+    tpdb_search: "https://theposterdb.com/search?term=It's+the+Girl+in+the+Red+Truck,+Charlie+Brown&section=movies"
+    genre.sync:
+      - Animation
+      - Family
   1094138:
     label_title: Jackpot!
     sort_title: Jackpot!
