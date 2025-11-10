@@ -9201,6 +9201,19 @@ metadata:
     studio: A24
     genre.sync:
       - Drama
+  149827:
+    label_title: What Have We Learned, Charlie Brown?
+    sort_title: What Have We Learned, Charlie Brown?
+    release_year: '1983'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=What+Have+We+Learned,+Charlie+Brown?&section=movies
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
+      - History
+      - TV Movie
+      - War
   8357:
     label_title: 'What the #$*! Do We (K)now!?'
     sort_title: What the Bleep 1
