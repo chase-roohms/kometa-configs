@@ -7756,6 +7756,15 @@ metadata:
       - Comedy
       - Family
       - TV Movie
+  103782:
+    label_title: 'Snoopy: The Musical'
+    sort_title: 'Snoopy: The Musical'
+    release_year: '1988'
+    url_poster: https://theposterdb.com/api/assets/660448
+    tpdb_search: https://theposterdb.com/search?term=Snoopy:+The+Musical&section=movies
+    genre.sync:
+      - Animation
+      - Family
   447273:
     label_title: Snow White
     sort_title: Snow White
