@@ -4437,6 +4437,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=It+Chapter+Two&section=movies
     genre.sync:
       - Horror
+  262539:
+    label_title: "It's Three Strikes, Charlie Brown"
+    sort_title: "It's Three Strikes, Charlie Brown"
+    release_year: '1986'
+    url_poster: https://theposterdb.com/api/assets/660315
+    tpdb_search: "https://theposterdb.com/search?term=It's+Three+Strikes,+Charlie+Brown&section=movies"
+    genre.sync:
+      - Animation
+      - Family
   1094138:
     label_title: Jackpot!
     sort_title: Jackpot!
