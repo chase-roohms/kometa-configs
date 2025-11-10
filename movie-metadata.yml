@@ -1575,13 +1575,11 @@ metadata:
     label_title: A Charlie Brown Celebration
     sort_title: Charlie Brown Celebration
     release_year: '1982'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/660445
     tpdb_search: https://theposterdb.com/search?term=A+Charlie+Brown+Celebration&section=movies
     genre.sync:
       - Animation
-      - Comedy
       - Family
-      - TV Movie
   13187:
     label_title: A Charlie Brown Christmas
     sort_title: Charlie Brown Christmas
@@ -4432,7 +4430,7 @@ metadata:
       - Horror
   215503:
     label_title: "It's the Girl in the Red Truck, Charlie Brown"
-    sort_title: "It's the Girl in the Red Truck, Charlie Brown"
+    sort_title: Charlie Brown Girl in the Red Truck
     release_year: '1988'
     url_poster: https://theposterdb.com/api/assets/660447
     tpdb_search: "https://theposterdb.com/search?term=It's+the+Girl+in+the+Red+Truck,+Charlie+Brown&section=movies"
@@ -7756,18 +7754,16 @@ metadata:
       - Family
   69770:
     label_title: "Snoopy's Reunion"
-    sort_title: "Snoopy's Reunion"
+    sort_title: Snoopy Reunion
     release_year: '1991'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/660449
     tpdb_search: "https://theposterdb.com/search?term=Snoopy's+Reunion&section=movies"
     genre.sync:
       - Animation
-      - Comedy
       - Family
-      - TV Movie
   103782:
     label_title: 'Snoopy: The Musical'
-    sort_title: 'Snoopy: The Musical'
+    sort_title: Snoopy Musical
     release_year: '1988'
     url_poster: https://theposterdb.com/api/assets/660448
     tpdb_search: https://theposterdb.com/search?term=Snoopy:+The+Musical&section=movies
