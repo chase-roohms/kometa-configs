@@ -5269,7 +5269,7 @@ metadata:
     label_title: The Lives of Others
     sort_title: Lives of Others
     release_year: '2006'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/501764
     tpdb_search: https://theposterdb.com/search?term=The+Lives+of+Others&section=movies
     genre.sync:
       - Drama
