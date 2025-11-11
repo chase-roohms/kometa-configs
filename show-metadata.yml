@@ -2075,19 +2075,19 @@ metadata:
     label_title: The Jetsons
     sort_title: Jetsons
     release_year: '1962'
-    url_poster: https://theposterdb.com/api/assets/43682
+    url_poster: https://theposterdb.com/api/assets/661047
     tpdb_search: https://theposterdb.com/search?term=The+Jetsons&section=shows
     genre.sync:
       - Animation
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/219944
+        url_poster: https://theposterdb.com/api/assets/661048
       1:
-        url_poster: https://theposterdb.com/api/assets/219945
+        url_poster: https://theposterdb.com/api/assets/661049
       2:
-        url_poster: https://theposterdb.com/api/assets/219946
+        url_poster: https://theposterdb.com/api/assets/661050
       3:
-        url_poster: https://theposterdb.com/api/assets/219947
+        url_poster: https://theposterdb.com/api/assets/661051
   377543:
     label_title: Jujutsu Kaisen
     sort_title: JUJUTSU KAISEN
