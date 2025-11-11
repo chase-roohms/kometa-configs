@@ -1442,25 +1442,23 @@ metadata:
     label_title: The Flintstones
     sort_title: Flintstones
     release_year: '1960'
-    url_poster: https://theposterdb.com/api/assets/155348
+    url_poster: https://theposterdb.com/api/assets/661039
     tpdb_search: https://theposterdb.com/search?term=The+Flintstones&section=shows
     genre.sync:
       - Animation
     seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/283595
       1:
-        url_poster: https://theposterdb.com/api/assets/155349
+        url_poster: https://theposterdb.com/api/assets/661040
       2:
-        url_poster: https://theposterdb.com/api/assets/155350
+        url_poster: https://theposterdb.com/api/assets/661041
       3:
-        url_poster: https://theposterdb.com/api/assets/155351
+        url_poster: https://theposterdb.com/api/assets/661042
       4:
-        url_poster: https://theposterdb.com/api/assets/155352
+        url_poster: https://theposterdb.com/api/assets/661043
       5:
-        url_poster: https://theposterdb.com/api/assets/155353
+        url_poster: https://theposterdb.com/api/assets/661044
       6:
-        url_poster: https://theposterdb.com/api/assets/155354
+        url_poster: https://theposterdb.com/api/assets/661045
   383686:
     label_title: Fog Hill of Five Elements
     sort_title: Fog Hill of Five Elements
