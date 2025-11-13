@@ -2043,6 +2043,15 @@ metadata:
     studio: Pixar
     genre.sync:
       - Animation
+  1161617:
+    label_title: Code 3
+    sort_title: Code 3
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Code+3&section=movies
+    genre.sync:
+      - Action
+      - Comedy
   1084199:
     label_title: Companion
     sort_title: Companion
