@@ -2047,7 +2047,7 @@ metadata:
     label_title: Code 3
     sort_title: Code 3
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/645325
     tpdb_search: https://theposterdb.com/search?term=Code+3&section=movies
     genre.sync:
       - Action
