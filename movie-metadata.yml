@@ -4867,6 +4867,16 @@ metadata:
     genre.sync:
       - Action
       - Thriller
+  504949:
+    label_title: The King
+    sort_title: King
+    release_year: '2019'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+King&section=movies
+    genre.sync:
+      - Drama
+      - History
+      - War
   274857:
     label_title: 'King Arthur: Legend of the Sword'
     sort_title: 'King Arthur: Legend of the Sword'
