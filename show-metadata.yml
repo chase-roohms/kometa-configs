@@ -2198,6 +2198,8 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/554961
+      2:
+        url_poster: ''
   281622:
     label_title: The Last Man on Earth
     sort_title: Last Man on Earth
