@@ -2191,15 +2191,15 @@ metadata:
     label_title: Landman
     sort_title: Landman
     release_year: '2024'
-    url_poster: https://theposterdb.com/api/assets/554960
+    url_poster: https://theposterdb.com/api/assets/598370
     tpdb_search: https://theposterdb.com/search?term=Landman&section=shows
     genre.sync:
       - Drama
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/554961
+        url_poster: https://theposterdb.com/api/assets/598371
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/656770
   281622:
     label_title: The Last Man on Earth
     sort_title: Last Man on Earth
