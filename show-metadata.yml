@@ -4612,19 +4612,17 @@ metadata:
     label_title: Tom and Jerry
     sort_title: Tom and Jerry
     release_year: '1940'
-    url_poster: https://theposterdb.com/api/assets/472563
+    url_poster: https://theposterdb.com/api/assets/663532
     tpdb_search: https://theposterdb.com/search?term=Tom+and+Jerry&section=shows
     genre.sync:
       - Animation
     seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/165767
       1940:
-        url_poster: https://theposterdb.com/api/assets/165768
+        url_poster: https://theposterdb.com/api/assets/663533
       1950:
-        url_poster: https://theposterdb.com/api/assets/165769
+        url_poster: https://theposterdb.com/api/assets/663534
       1960:
-        url_poster: https://theposterdb.com/api/assets/165770
+        url_poster: https://theposterdb.com/api/assets/663535
   83294:
     label_title: Total Drama
     sort_title: Total Drama
