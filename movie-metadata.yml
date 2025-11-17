@@ -5580,6 +5580,7 @@ metadata:
     release_year: '2026'
     url_poster: https://theposterdb.com/api/assets/662691
     tpdb_search: https://theposterdb.com/search?term=The+Mandalorian+and+Grogu&section=movies
+    studio: Lucasfilm Ltd
     genre.sync:
       - Action
       - Science Fiction
