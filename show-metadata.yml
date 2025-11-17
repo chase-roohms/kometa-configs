@@ -4179,6 +4179,25 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/464549
   83268:
+    label_title: 'Star Wars: Clone Wars'
+    sort_title: Star Wars Clone Wars
+    release_year: '2003'
+    url_poster: https://theposterdb.com/api/assets/464611
+    tpdb_search: https://theposterdb.com/search?term=Star+Wars:+Clone+Wars&section=shows
+    studio: Lucasfilm Ltd
+    genre.sync:
+      - Action
+      - Science Fiction
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/662531
+      1:
+        url_poster: https://theposterdb.com/api/assets/464612
+      2:
+        url_poster: https://theposterdb.com/api/assets/464613
+      3:
+        url_poster: https://theposterdb.com/api/assets/464614
+  83268:
     label_title: 'Star Wars: The Clone Wars'
     sort_title: Star Wars Clone Wars
     release_year: '2008'
