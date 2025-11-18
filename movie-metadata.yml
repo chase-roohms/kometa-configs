@@ -6846,6 +6846,16 @@ metadata:
     studio: Sony Pictures Animation
     genre.sync:
       - Animation
+  2787:
+    label_title: Pitch Black
+    sort_title: Pitch Black
+    release_year: '2000'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Pitch+Black&section=movies
+    genre.sync:
+      - Action
+      - Science Fiction
+      - Thriller
   257344:
     label_title: Pixels
     sort_title: Pixels
