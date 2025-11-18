@@ -7229,6 +7229,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Ricky+Stanicky&section=movies
     genre.sync:
       - Comedy
+  87421:
+    label_title: Riddick
+    sort_title: Riddick
+    release_year: '2013'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Riddick&section=movies
+    genre.sync:
+      - Action
+      - Science Fiction
+      - Thriller
   81188:
     label_title: Rise of the Guardians
     sort_title: Rise of The Guardians
