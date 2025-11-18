@@ -1950,6 +1950,15 @@ metadata:
     studio: Disney
     genre.sync:
       - Family
+  2789:
+    label_title: The Chronicles of Riddick
+    sort_title: Chronicles of Riddick
+    release_year: '2004'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Chronicles+of+Riddick&section=movies
+    genre.sync:
+      - Action
+      - Science Fiction
   11224:
     label_title: Cinderella
     sort_title: Cinderella (Animated) 1
