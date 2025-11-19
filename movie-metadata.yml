@@ -1952,10 +1952,19 @@ metadata:
       - Family
   2789:
     label_title: The Chronicles of Riddick
-    sort_title: Chronicles of Riddick
+    sort_title: Riddick 2
     release_year: '2004'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/266347
     tpdb_search: https://theposterdb.com/search?term=The+Chronicles+of+Riddick&section=movies
+    genre.sync:
+      - Action
+      - Science Fiction
+  2791:
+    label_title: "The Chronicles of Riddick: Dark Fury"
+    sort_title: Riddick 3
+    release_year: '2004'
+    url_poster: https://theposterdb.com/api/assets/266348
+    tpdb_search: https://theposterdb.com/search?term=The+Chronicles+of+Riddick+Dark+Fury&section=movies
     genre.sync:
       - Action
       - Science Fiction
@@ -6857,14 +6866,13 @@ metadata:
       - Animation
   2787:
     label_title: Pitch Black
-    sort_title: Pitch Black
+    sort_title: Riddick 1
     release_year: '2000'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/266346
     tpdb_search: https://theposterdb.com/search?term=Pitch+Black&section=movies
     genre.sync:
       - Action
       - Science Fiction
-      - Thriller
   257344:
     label_title: Pixels
     sort_title: Pixels
@@ -7250,14 +7258,13 @@ metadata:
       - Comedy
   87421:
     label_title: Riddick
-    sort_title: Riddick
+    sort_title: Riddick 4
     release_year: '2013'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/266349
     tpdb_search: https://theposterdb.com/search?term=Riddick&section=movies
     genre.sync:
       - Action
       - Science Fiction
-      - Thriller
   81188:
     label_title: Rise of the Guardians
     sort_title: Rise of The Guardians
