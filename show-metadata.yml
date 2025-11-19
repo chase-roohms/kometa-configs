@@ -2089,18 +2089,18 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/661051
   289946:
-    label_title: The Jinx
+    label_title: 'The Jinx: The Life and Deaths of Robert Durst'
     sort_title: Jinx
     release_year: '2015'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/552647
     tpdb_search: https://theposterdb.com/search?term=The+Jinx&section=shows
     genre.sync:
-      - Crime
       - Documentary
-      - Mystery
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/552648
+      2:
+        url_poster: https://theposterdb.com/api/assets/552649
   377543:
     label_title: Jujutsu Kaisen
     sort_title: JUJUTSU KAISEN
