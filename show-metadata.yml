@@ -2088,6 +2088,19 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/661050
       3:
         url_poster: https://theposterdb.com/api/assets/661051
+  289946:
+    label_title: The Jinx
+    sort_title: Jinx
+    release_year: '2015'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Jinx&section=shows
+    genre.sync:
+      - Crime
+      - Documentary
+      - Mystery
+    seasons:
+      1:
+        url_poster: ''
   377543:
     label_title: Jujutsu Kaisen
     sort_title: JUJUTSU KAISEN
