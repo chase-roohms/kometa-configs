@@ -217,6 +217,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=After+Everything&section=movies
     genre.sync:
       - Drama
+  1265063:
+    label_title: After the Hunt
+    sort_title: After the Hunt
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=After+the+Hunt&section=movies
+    genre.sync:
+      - Drama
+      - Thriller
   20737:
     label_title: Air Bud
     sort_title: Air Bud
@@ -1950,24 +1959,6 @@ metadata:
     studio: Disney
     genre.sync:
       - Family
-  2789:
-    label_title: The Chronicles of Riddick
-    sort_title: Riddick 2
-    release_year: '2004'
-    url_poster: https://theposterdb.com/api/assets/266347
-    tpdb_search: https://theposterdb.com/search?term=The+Chronicles+of+Riddick&section=movies
-    genre.sync:
-      - Action
-      - Science Fiction
-  2791:
-    label_title: "The Chronicles of Riddick: Dark Fury"
-    sort_title: Riddick 3
-    release_year: '2004'
-    url_poster: https://theposterdb.com/api/assets/266348
-    tpdb_search: https://theposterdb.com/search?term=The+Chronicles+of+Riddick+Dark+Fury&section=movies
-    genre.sync:
-      - Action
-      - Science Fiction
   11224:
     label_title: Cinderella
     sort_title: Cinderella (Animated) 1
@@ -6864,15 +6855,6 @@ metadata:
     studio: Sony Pictures Animation
     genre.sync:
       - Animation
-  2787:
-    label_title: Pitch Black
-    sort_title: Riddick 1
-    release_year: '2000'
-    url_poster: https://theposterdb.com/api/assets/266346
-    tpdb_search: https://theposterdb.com/search?term=Pitch+Black&section=movies
-    genre.sync:
-      - Action
-      - Science Fiction
   257344:
     label_title: Pixels
     sort_title: Pixels
@@ -7256,6 +7238,33 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Ricky+Stanicky&section=movies
     genre.sync:
       - Comedy
+  2787:
+    label_title: Pitch Black
+    sort_title: Riddick 1
+    release_year: '2000'
+    url_poster: https://theposterdb.com/api/assets/266346
+    tpdb_search: https://theposterdb.com/search?term=Pitch+Black&section=movies
+    genre.sync:
+      - Action
+      - Science Fiction
+  2789:
+    label_title: The Chronicles of Riddick
+    sort_title: Riddick 2
+    release_year: '2004'
+    url_poster: https://theposterdb.com/api/assets/266347
+    tpdb_search: https://theposterdb.com/search?term=The+Chronicles+of+Riddick&section=movies
+    genre.sync:
+      - Action
+      - Science Fiction
+  2791:
+    label_title: 'The Chronicles of Riddick: Dark Fury'
+    sort_title: Riddick 3
+    release_year: '2004'
+    url_poster: https://theposterdb.com/api/assets/266348
+    tpdb_search: https://theposterdb.com/search?term=The+Chronicles+of+Riddick+Dark+Fury&section=movies
+    genre.sync:
+      - Action
+      - Science Fiction
   87421:
     label_title: Riddick
     sort_title: Riddick 4
