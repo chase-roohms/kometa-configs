@@ -1714,7 +1714,23 @@ metadata:
       - Comedy
       - Horror
     seasons:
+      0:
+        url_poster: ''
       1:
+        url_poster: ''
+      2:
+        url_poster: ''
+      3:
+        url_poster: ''
+      4:
+        url_poster: ''
+      5:
+        url_poster: ''
+      6:
+        url_poster: ''
+      7:
+        url_poster: ''
+      8:
         url_poster: ''
   345246:
     label_title: The Haunting
