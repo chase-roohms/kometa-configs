@@ -1707,7 +1707,7 @@ metadata:
     label_title: Happy Tree Friends
     sort_title: Happy Tree Friends
     release_year: '1999'
-    url_poster: ''
+    url_poster: 
     tpdb_search: https://theposterdb.com/search?term=Happy+Tree+Friends&section=shows
     genre.sync:
       - Animation
@@ -1715,23 +1715,23 @@ metadata:
       - Horror
     seasons:
       0:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/665720
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/665721
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/665722
       3:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/665723
       4:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/665724
       5:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/665725
       6:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/665726
       7:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/665727
       8:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/665728
   345246:
     label_title: The Haunting
     sort_title: Haunting
