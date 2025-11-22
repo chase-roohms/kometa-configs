@@ -4027,6 +4027,18 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/641270
       5:
         url_poster: https://theposterdb.com/api/assets/641271
+  379403:
+    label_title: Smiling Friends
+    sort_title: Smiling Friends
+    release_year: '2020'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Smiling+Friends&section=shows
+    genre.sync:
+      - Animation
+      - Comedy
+    seasons:
+      3:
+        url_poster: ''
   389597:
     label_title: Solo Leveling
     sort_title: Solo Leveling
