@@ -3204,31 +3204,31 @@ metadata:
     label_title: The Office (US)
     sort_title: Office (US)
     release_year: '2005'
-    url_poster: https://theposterdb.com/api/assets/606042
+    url_poster: https://theposterdb.com/api/assets/665704
     tpdb_search: https://theposterdb.com/search?term=The+Office+(US)&section=shows
     genre.sync:
       - Comedy
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/606043
+        url_poster: https://theposterdb.com/api/assets/665705
       1:
-        url_poster: https://theposterdb.com/api/assets/606044
+        url_poster: https://theposterdb.com/api/assets/665706
       2:
-        url_poster: https://theposterdb.com/api/assets/606045
+        url_poster: https://theposterdb.com/api/assets/665707
       3:
-        url_poster: https://theposterdb.com/api/assets/606046
+        url_poster: https://theposterdb.com/api/assets/665708
       4:
-        url_poster: https://theposterdb.com/api/assets/606047
+        url_poster: https://theposterdb.com/api/assets/665709
       5:
-        url_poster: https://theposterdb.com/api/assets/606048
+        url_poster: https://theposterdb.com/api/assets/665710
       6:
-        url_poster: https://theposterdb.com/api/assets/606049
+        url_poster: https://theposterdb.com/api/assets/665711
       7:
-        url_poster: https://theposterdb.com/api/assets/606050
+        url_poster: https://theposterdb.com/api/assets/665712
       8:
-        url_poster: https://theposterdb.com/api/assets/606051
+        url_poster: https://theposterdb.com/api/assets/665713
       9:
-        url_poster: https://theposterdb.com/api/assets/606052
+        url_poster: https://theposterdb.com/api/assets/665714
   293088:
     label_title: One-Punch Man
     sort_title: One-Punch Man
