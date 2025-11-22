@@ -1703,6 +1703,19 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/590831
       2:
         url_poster: https://theposterdb.com/api/assets/590832
+  80534:
+    label_title: Happy Tree Friends
+    sort_title: Happy Tree Friends
+    release_year: '1999'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Happy+Tree+Friends&section=shows
+    genre.sync:
+      - Animation
+      - Comedy
+      - Horror
+    seasons:
+      1:
+        url_poster: ''
   345246:
     label_title: The Haunting
     sort_title: Haunting
