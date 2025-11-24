@@ -1241,12 +1241,10 @@ metadata:
     label_title: Bone Lake
     sort_title: Bone Lake
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/655381
     tpdb_search: https://theposterdb.com/search?term=Bone+Lake&section=movies
     genre.sync:
       - Horror
-      - Mystery
-      - Thriller
   295693:
     label_title: The Boss Baby
     sort_title: Boss Baby 1
