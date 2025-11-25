@@ -4691,6 +4691,21 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/586063
+  375271:
+    label_title: To Your Eternity
+    sort_title: To Your Eternity
+    release_year: '2021'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=To+Your+Eternity&section=shows
+    genre.sync:
+      - Adventure
+      - Animation
+      - Anime
+      - Drama
+      - Fantasy
+    seasons:
+      1:
+        url_poster: ''
   72860:
     label_title: Tom and Jerry
     sort_title: Tom and Jerry
