@@ -3482,6 +3482,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/237270
       2:
         url_poster: https://theposterdb.com/api/assets/364721
+      3:
+        url_poster: ''
   360115:
     label_title: Prison Break
     sort_title: Prison Break
