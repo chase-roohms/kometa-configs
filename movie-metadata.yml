@@ -1363,10 +1363,9 @@ metadata:
     label_title: Bugonia
     sort_title: Bugonia
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/638367
     tpdb_search: https://theposterdb.com/search?term=Bugonia&section=movies
     genre.sync:
-      - Crime
       - Science Fiction
       - Thriller
   9487:
