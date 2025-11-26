@@ -1359,6 +1359,16 @@ metadata:
     studio: A24
     genre.sync:
       - Drama
+  701387:
+    label_title: Bugonia
+    sort_title: Bugonia
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Bugonia&section=movies
+    genre.sync:
+      - Crime
+      - Science Fiction
+      - Thriller
   9487:
     label_title: "A Bug's Life"
     sort_title: Bugs Life
