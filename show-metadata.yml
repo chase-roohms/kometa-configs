@@ -3003,6 +3003,17 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/590568
+  437774:
+    label_title: Mother, May I Murder?
+    sort_title: Mother, May I Murder?
+    release_year: '2023'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Mother,+May+I+Murder?&section=shows
+    genre.sync:
+      - Documentary
+    seasons:
+      2:
+        url_poster: ''
   368612:
     label_title: Ms. Marvel
     sort_title: Ms. Marvel
