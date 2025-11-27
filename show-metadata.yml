@@ -3012,6 +3012,8 @@ metadata:
     genre.sync:
       - Documentary
     seasons:
+      1:
+        url_poster: ''
       2:
         url_poster: ''
   368612:
