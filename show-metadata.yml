@@ -1707,7 +1707,7 @@ metadata:
     label_title: Happy Tree Friends
     sort_title: Happy Tree Friends
     release_year: '1999'
-    url_poster:
+    url_poster: https://theposterdb.com/api/assets/665719
     tpdb_search: https://theposterdb.com/search?term=Happy+Tree+Friends&section=shows
     genre.sync:
       - Animation
@@ -4441,7 +4441,7 @@ metadata:
       4:
         url_poster: https://theposterdb.com/api/assets/213796
       5:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/636304
   80506:
     label_title: Summer Heights High
     sort_title: Summer Heights High
