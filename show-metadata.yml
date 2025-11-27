@@ -4427,6 +4427,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/144214
       4:
         url_poster: https://theposterdb.com/api/assets/213796
+      5:
+        url_poster: ''
   80506:
     label_title: Summer Heights High
     sort_title: Summer Heights High
