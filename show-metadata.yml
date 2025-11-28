@@ -1784,6 +1784,19 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/656628
       2:
         url_poster: https://theposterdb.com/api/assets/656629
+  464461:
+    label_title: Heated Rivalry
+    sort_title: Heated Rivalry
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Heated+Rivalry&section=shows
+    genre.sync:
+      - Drama
+      - Romance
+      - Sport
+    seasons:
+      1:
+        url_poster: ''
   402474:
     label_title: "Hell's Paradise"
     sort_title: Hells Paradise
