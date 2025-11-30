@@ -8353,6 +8353,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Substance&section=movies
     genre.sync:
       - Horror
+  1130276:
+    label_title: Succubus
+    sort_title: Succubus
+    release_year: '2024'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Succubus&section=movies
+    genre.sync:
+      - Horror
+      - Thriller
   297761:
     label_title: Suicide Squad
     sort_title: Suicide Squad 1
