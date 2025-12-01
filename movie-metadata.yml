@@ -3352,6 +3352,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Glory&section=movies
     genre.sync:
       - Drama
+  1297842:
+    label_title: GOAT
+    sort_title: GOAT
+    release_year: '2026'
+    url_poster: https://theposterdb.com/api/assets/668577
+    tpdb_search: https://theposterdb.com/search?term=GOAT&section=movies
+    studio: Sony Pictures Animation
+    genre.sync:
+      - Animation
   238:
     label_title: The Godfather
     sort_title: Godfather 1
