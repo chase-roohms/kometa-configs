@@ -8020,6 +8020,16 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
+  206647:
+    label_title: Spectre
+    sort_title: Spectre
+    release_year: '2015'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Spectre&section=movies
+    genre.sync:
+      - Action
+      - Adventure
+      - Thriller
   7459:
     label_title: Speed Racer
     sort_title: Speed Racer
