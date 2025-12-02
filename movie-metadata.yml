@@ -7169,6 +7169,17 @@ metadata:
     studio: DreamWorks Animation
     genre.sync:
       - Animation
+  10764:
+    label_title: Quantum of Solace
+    sort_title: Quantum of Solace
+    release_year: '2008'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Quantum+of+Solace&section=movies
+    genre.sync:
+      - Action
+      - Adventure
+      - Crime
+      - Thriller
   447332:
     label_title: A Quiet Place
     sort_title: Quite Place 1
