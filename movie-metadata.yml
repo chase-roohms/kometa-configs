@@ -4520,55 +4520,44 @@ metadata:
       - Family
   36557:
     label_title: Casino Royale
-    sort_title: James Bond Casino Royale
+    sort_title: James Bond New 1
     release_year: '2006'
     url_poster: https://theposterdb.com/api/assets/26278
     tpdb_search: https://theposterdb.com/search?term=Casino+Royale&section=movies
     genre.sync:
       - Action
-      - Adventure
-      - Thriller
-  370172:
-    label_title: No Time to Die
-    sort_title: James Bond No Time to Die
-    release_year: '2021'
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=No+Time+to+Die&section=movies
-    genre.sync:
-      - Action
-      - Adventure
-      - Thriller
   10764:
     label_title: Quantum of Solace
-    sort_title: James Bond Quantum of Solace
+    sort_title: James Bond New 2
     release_year: '2008'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/26279
     tpdb_search: https://theposterdb.com/search?term=Quantum+of+Solace&section=movies
     genre.sync:
       - Action
-      - Adventure
-      - Crime
-      - Thriller
   37724:
     label_title: Skyfall
-    sort_title: James Bond Skyfall
+    sort_title: James Bond New 3
     release_year: '2012'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/26280
     tpdb_search: https://theposterdb.com/search?term=Skyfall&section=movies
     genre.sync:
       - Action
-      - Adventure
-      - Thriller
   206647:
     label_title: Spectre
-    sort_title: James Bond Spectre
+    sort_title: James Bond New 4
     release_year: '2015'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/26281
     tpdb_search: https://theposterdb.com/search?term=Spectre&section=movies
     genre.sync:
       - Action
-      - Adventure
-      - Thriller
+  370172:
+    label_title: No Time to Die
+    sort_title: James Bond New 5
+    release_year: '2021'
+    url_poster: https://theposterdb.com/api/assets/177936
+    tpdb_search: https://theposterdb.com/search?term=No+Time+to+Die&section=movies
+    genre.sync:
+      - Action
   578:
     label_title: Jaws
     sort_title: Jaws 1
