@@ -26,10 +26,3 @@ collections:
       imdb_list_id: ls574103332
       summary: Good old Charlie Brown is loyal, determined, and just a bit wishy-washy. He is a true friend, a dedicated baseball manager, and very responsible.
     url_poster: https://theposterdb.com/api/assets/660413
-  Hanna-Barbera:
-    template:
-      name: IMDB
-      imdb_list_id: ls066567848
-      summary: Hanna-Barbera was a pioneering animation studio co-founded by William Hanna and Joseph Barbera that was famous for producing iconic television cartoons like The Flintstones, Scooby-Doo, and The Jetsons. 
-    url_poster: https://theposterdb.com/api/assets/661076
-    sort_title: '!35_Hanna-Barbera'
