@@ -1474,6 +1474,16 @@ metadata:
     studio: Pixar
     genre.sync:
       - Animation
+  36557:
+    label_title: Casino Royale
+    sort_title: Casino Royale
+    release_year: '2006'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Casino+Royale&section=movies
+    genre.sync:
+      - Action
+      - Adventure
+      - Thriller
   10515:
     label_title: Castle in the Sky
     sort_title: Castle in the Sky
