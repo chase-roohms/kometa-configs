@@ -6480,6 +6480,14 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Nun+II&section=movies
     genre.sync:
       - Horror
+  1339713:
+    label_title: Obsession
+    sort_title: Obsession
+    release_year: '2026'
+    url_poster: https://theposterdb.com/api/assets/669806
+    tpdb_search: https://theposterdb.com/search?term=Obsession&section=movies
+    genre.sync:
+      - Horror
   1280444:
     label_title: The Occupant
     sort_title: Occupant
