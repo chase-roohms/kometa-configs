@@ -4450,22 +4450,22 @@ metadata:
     label_title: Stranger Things
     sort_title: Stranger Things
     release_year: '2016'
-    url_poster: https://theposterdb.com/api/assets/144211
+    url_poster: https://theposterdb.com/api/assets/669040
     tpdb_search: https://theposterdb.com/search?term=Stranger+Things&section=shows
     genre.sync:
       - Action
       - Science Fiction
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/144212
+        url_poster: https://theposterdb.com/api/assets/669041
       2:
-        url_poster: https://theposterdb.com/api/assets/144213
+        url_poster: https://theposterdb.com/api/assets/669042
       3:
-        url_poster: https://theposterdb.com/api/assets/144214
+        url_poster: https://theposterdb.com/api/assets/669043
       4:
-        url_poster: https://theposterdb.com/api/assets/213796
+        url_poster: https://theposterdb.com/api/assets/669044
       5:
-        url_poster: https://theposterdb.com/api/assets/636304
+        url_poster: https://theposterdb.com/api/assets/669045
   80506:
     label_title: Summer Heights High
     sort_title: Summer Heights High
