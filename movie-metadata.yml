@@ -8999,6 +8999,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=A+Trip+to+Infinity&section=movies
     genre.sync:
       - Documentary
+  736526:
+    label_title: Troll
+    sort_title: Troll
+    release_year: '2022'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Troll&section=movies
+    genre.sync:
+      - Action
+      - Adventure
+      - Fantasy
   730840:
     label_title: 'Trollhunters: Rise of the Titans'
     sort_title: 'Trollhunters: Rise of the Titans'
