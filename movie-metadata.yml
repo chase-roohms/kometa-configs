@@ -4448,6 +4448,14 @@ metadata:
     studio: A24
     genre.sync:
       - Drama
+  1116201:
+    label_title: Iron Lung
+    sort_title: Iron Lung
+    release_year: '2026'
+    url_poster: https://theposterdb.com/api/assets/670322
+    tpdb_search: https://theposterdb.com/search?term=Iron+Lung&section=movies
+    genre.sync:
+      - Horror
   1726:
     label_title: Iron Man
     sort_title: Iron Man 1
