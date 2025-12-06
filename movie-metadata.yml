@@ -9001,24 +9001,22 @@ metadata:
       - Documentary
   736526:
     label_title: Troll
-    sort_title: Troll
+    sort_title: Troll 1
     release_year: '2022'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/669000
     tpdb_search: https://theposterdb.com/search?term=Troll&section=movies
     genre.sync:
       - Action
-      - Adventure
       - Fantasy
   1180831:
     label_title: Troll 2
     sort_title: Troll 2
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/668999
     tpdb_search: https://theposterdb.com/search?term=Troll+2&section=movies
     genre.sync:
       - Action
       - Fantasy
-      - Thriller
   730840:
     label_title: 'Trollhunters: Rise of the Titans'
     sort_title: 'Trollhunters: Rise of the Titans'
