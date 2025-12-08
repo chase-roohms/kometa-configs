@@ -3265,15 +3265,17 @@ metadata:
     label_title: The Office Movers
     sort_title: Office Movers
     release_year: '2024'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/659630
     tpdb_search: https://theposterdb.com/search?term=The+Office+Movers&section=shows
     genre.sync:
       - Comedy
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/659631
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/659632
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/659633
   293088:
     label_title: One-Punch Man
     sort_title: One-Punch Man
