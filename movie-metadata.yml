@@ -1526,6 +1526,17 @@ metadata:
     genre.sync:
       - Comedy
       - Thriller
+  1218925:
+    label_title: 'Chainsaw Man - The Movie: Reze Arc'
+    sort_title: 'Chainsaw Man - The Movie: Reze Arc'
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Chainsaw+Man+-+The+Movie:+Reze+Arc&section=movies
+    genre.sync:
+      - Action
+      - Animation
+      - Fantasy
+      - Romance
   937287:
     label_title: Challengers
     sort_title: Challengers
