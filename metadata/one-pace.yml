@@ -8,7 +8,7 @@ metadata:
     original_title: One Piece
     use_original_title: 'no'
     release_year: '2013'
-    url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/parent.png
+    url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/parent-alt.png
     url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/background.png
     url_logo: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/logo.png
     url_theme: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/theme.mp3
@@ -26,7 +26,7 @@ metadata:
     seasons:
       1:
         title: Romance Dawn
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/1.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons-locations/1.png
         url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/east-blue.png
         saga: East Blue
         summary: |-
@@ -64,7 +64,7 @@ metadata:
               Covers manga chapter(s): 5 - 7
       2:
         title: Orange Town
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/2.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons-locations/2.png
         url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/east-blue.png
         saga: East Blue
         summary: |-
@@ -95,7 +95,7 @@ metadata:
               Covers manga chapter(s): 19 - 21
       3:
         title: Syrup Village
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/3.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons-locations/3.png
         url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/east-blue.png
         saga: East Blue
         summary: |-
@@ -154,7 +154,7 @@ metadata:
               Covers manga chapter(s): 40 - 41
       4:
         title: Gaimon
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/4.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons-locations/4.png
         url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/background.png
         saga: Specials
         summary: |-
@@ -171,7 +171,7 @@ metadata:
               Covers manga chapter(s): 42, 22
       5:
         title: Baratie
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/5.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons-locations/5.png
         url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/east-blue.png
         saga: East Blue
         summary: |-
@@ -237,7 +237,7 @@ metadata:
               Covers manga chapter(s): 67 - 69
       6:
         title: Arlong Park
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/6.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons-locations/6.png
         url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/east-blue.png
         saga: East Blue
         summary: |-
@@ -317,7 +317,7 @@ metadata:
               Covers manga chapter(s): 94 - 95
       7:
         title: The Adventures of Buggy's Crew
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/7.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons-locations/7.png
         url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/background.png
         saga: Specials
         summary: |-
@@ -334,7 +334,7 @@ metadata:
               Covers manga chapter(s): 35 - 75
       8:
         title: Loguetown
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/8.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons-locations/8.png
         url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/east-blue.png
         saga: East Blue
         summary: |-
@@ -365,7 +365,7 @@ metadata:
               Covers manga chapter(s): 98 - 100
       9:
         title: Reverse Mountain
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/9.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons-locations/9.png
         url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/arabasta.png
         saga: Arabasta
         summary: |-
@@ -389,7 +389,7 @@ metadata:
               Covers manga chapter(s): 103 - 105
       10:
         title: Whisky Peak
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/10.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons-locations/10.png
         url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/arabasta.png
         saga: Arabasta
         summary: |-
@@ -413,7 +413,7 @@ metadata:
               Covers manga chapter(s): 110 - 114
       11:
         title: The Trials of Koby-Meppo
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/11.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons-locations/11.png
         url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/background.png
         saga: Specials
         summary: |-
@@ -430,7 +430,7 @@ metadata:
               Covers manga chapter(s): 83 - 119
       12:
         title: Little Garden
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/12.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons-locations/12.png
         url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/arabasta.png
         saga: Arabasta
         summary: |-
@@ -475,7 +475,7 @@ metadata:
               Covers manga chapter(s): 127 - 129
       13:
         title: Drum Island
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/13.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons-locations/13.png
         url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/arabasta.png
         saga: Arabasta
         summary: |-
@@ -541,7 +541,7 @@ metadata:
               Covers manga chapter(s): 153 - 156
       14:
         title: Arabasta
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/14.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons-locations/14.png
         url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/arabasta.png
         saga: Arabasta
         summary: |-
@@ -698,7 +698,7 @@ metadata:
               Covers manga chapter(s): 217 - 218
       15:
         title: Jaya
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/15.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons-locations/15.png
         url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/sky-island.png
         saga: Sky Island
         summary: |-
@@ -764,7 +764,7 @@ metadata:
               Covers manga chapter(s): 235 - 236
       16:
         title: Skypiea
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/16.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons-locations/16.png
         url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/sky-island.png
         saga: Sky Island
         summary: |-
@@ -956,7 +956,7 @@ metadata:
               Covers manga chapter(s): 302 - 303
       17:
         title: Long Ring Long Land
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/17.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons-locations/17.png
         url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/water-seven.png
         saga: Water Seven
         summary: |-
@@ -1015,7 +1015,7 @@ metadata:
               Covers manga chapter(s): 319 - 321
       18:
         title: Water Seven
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/18.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons-locations/18.png
         url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/water-seven.png
         saga: Water Seven
         summary: |-
@@ -1165,7 +1165,7 @@ metadata:
               Covers manga chapter(s): 372 - 374
       19:
         title: Enies Lobby
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/19.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons-locations/19.png
         url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/water-seven.png
         saga: Water Seven
         summary: |-
@@ -1350,7 +1350,7 @@ metadata:
               Covers manga chapter(s): 430
       20:
         title: Post-Enies Lobby
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/20.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons-locations/20.png
         url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/water-seven.png
         saga: Water Seven
         summary: |-
@@ -1398,7 +1398,7 @@ metadata:
               Covers manga chapter(s): 440 - 441
       21:
         title: Thriller Bark
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/21.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons-locations/21.png
         url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/thriller-bark.png
         saga: Thriller Bark
         summary: |-
@@ -1569,7 +1569,7 @@ metadata:
               Covers manga chapter(s): 488 - 489
       22:
         title: Sabaody Archipelago
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/22.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons-locations/22.png
         url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/summit-war.png
         saga: Summit War
         summary: |-
@@ -1656,7 +1656,7 @@ metadata:
               Covers manga chapter(s): 512 - 513
       23:
         title: Amazon Lily
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/23.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons-locations/23.png
         url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/summit-war.png
         saga: Summit War
         summary: |-
@@ -1701,7 +1701,7 @@ metadata:
               Covers manga chapter(s): 523 - 524
       24:
         title: Impel Down
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/24.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons-locations/24.png
         url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/summit-war.png
         saga: Summit War
         summary: |-
@@ -1781,7 +1781,7 @@ metadata:
               Covers manga chapter(s): 547 - 548
       25:
         title: The Adventures of the Straw Hats
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/25.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons-locations/25.png
         url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/background.png
         saga: Specials
         summary: |-
@@ -1799,7 +1799,7 @@ metadata:
               Covers manga chapter(s): 543 - 560
       26:
         title: Marineford
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/26.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons-locations/26.png
         url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/summit-war.png
         saga: Summit War
         summary: |-
@@ -1928,7 +1928,7 @@ metadata:
               Covers manga chapter(s): 579 - 580
       27:
         title: Post-War
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/27.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons-locations/27.png
         url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/summit-war.png
         saga: Summit War
         summary: |-
@@ -1994,7 +1994,7 @@ metadata:
               Covers manga chapter(s): 595 - 597
       28:
         title: Return to Sabaody
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/28.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons-locations/28.png
         url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/fish-man-island.png
         saga: Fish-Man Island
         summary: |-
@@ -2025,7 +2025,7 @@ metadata:
               Covers manga chapter(s): 601 - 602
       29:
         title: Fishman Island
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/29.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons-locations/29.png
         url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/fish-man-island.png
         saga: Fish-Man Island
         summary: |-
@@ -2212,7 +2212,7 @@ metadata:
               Covers manga chapter(s): 652 - 653
       30:
         title: Punk Hazard
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/30.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons-locations/30.png
         url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/dressrosa.png
         saga: Dressrosa
         summary: |-
@@ -2382,7 +2382,7 @@ metadata:
               Covers manga chapter(s): 698 - 699
       31:
         title: Dressrosa
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/31.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons-locations/31.png
         url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/dressrosa.png
         saga: Dressrosa
         summary: |-
@@ -2735,7 +2735,7 @@ metadata:
               Covers manga chapter(s): 798 - 800
       32:
         title: Zou
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/32.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons-locations/32.png
         url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/whole-cake-island.png
         saga: Whole Cake Island
         summary: |-
@@ -2815,7 +2815,7 @@ metadata:
               Covers manga chapter(s): 820 - 822
       33:
         title: Whole Cake Island
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/33.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons-locations/33.png
         url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/whole-cake-island.png
         saga: Whole Cake Island
         summary: |-
@@ -3098,7 +3098,7 @@ metadata:
               Covers manga chapter(s): 901 - 902
       34:
         title: Reverie
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/34.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons-locations/34.png
         url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/whole-cake-island.png
         saga: Whole Cake Island
         summary: |-
@@ -3129,7 +3129,7 @@ metadata:
               Covers manga chapter(s): 907 - 908
       35:
         title: Wano (WIP)
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/35.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons-locations/35.png
         url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/wano-country.png
         saga: Wano Country
         summary: |-
@@ -3524,7 +3524,7 @@ metadata:
               Covers manga chapter(s): 1000
       36:
         title: Egghead (WIP)
-        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons/36.png
+        url_poster: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/seasons-locations/36.png
         url_background: https://raw.githubusercontent.com/chase-roohms/kometa-configs/main/assets/one-pace/sagas/final-saga.png
         saga: Final Saga
         summary: |-
