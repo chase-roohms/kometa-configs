@@ -796,14 +796,14 @@ metadata:
       - Anime
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/567744
+        url_poster: https://theposterdb.com/api/assets/445979
         episodes:
           101:
             title: 'Opening: S1 - KICK BACK by Kenshi Yonezu'
             summary: 'Opening song of season 1: "KICK BACK" by Kenshi Yonezu'
             url_poster: https://i.imgur.com/0Da2qYr.png
       1:
-        url_poster: https://theposterdb.com/api/assets/567745
+        url_poster: https://theposterdb.com/api/assets/344240
   454397:
     label_title: The Chair Company
     sort_title: Chair Company
