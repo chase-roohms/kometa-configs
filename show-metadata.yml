@@ -5271,6 +5271,17 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/584715
+  443433:
+    label_title: Your Friends & Neighbors
+    sort_title: Your Friends & Neighbors
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Your+Friends+%26+Neighbors&section=shows
+    genre.sync:
+      - Drama
+    seasons:
+      1:
+        url_poster: ''
   359579:
     label_title: Your Honor
     sort_title: Your Honor
