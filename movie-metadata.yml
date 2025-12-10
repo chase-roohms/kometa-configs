@@ -2367,6 +2367,15 @@ metadata:
     genre.sync:
       - Action
       - Thriller
+  1033148:
+    label_title: Die My Love
+    sort_title: Die My Love
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Die+My+Love&section=movies
+    genre.sync:
+      - Drama
+      - Thriller
   10567:
     label_title: Dinosaur
     sort_title: Dinosaur
