@@ -2371,7 +2371,7 @@ metadata:
     label_title: Die My Love
     sort_title: Die My Love
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/671297
     tpdb_search: https://theposterdb.com/search?term=Die+My+Love&section=movies
     genre.sync:
       - Drama
