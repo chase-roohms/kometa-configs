@@ -796,14 +796,14 @@ metadata:
       - Anime
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/567744
+        url_poster: https://theposterdb.com/api/assets/445979
         episodes:
           101:
             title: 'Opening: S1 - KICK BACK by Kenshi Yonezu'
             summary: 'Opening song of season 1: "KICK BACK" by Kenshi Yonezu'
             url_poster: https://i.imgur.com/0Da2qYr.png
       1:
-        url_poster: https://theposterdb.com/api/assets/567745
+        url_poster: https://theposterdb.com/api/assets/344240
   454397:
     label_title: The Chair Company
     sort_title: Chair Company
@@ -3463,6 +3463,8 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/436047
+      2:
+        url_poster: https://theposterdb.com/api/assets/668425
   349187:
     label_title: The Peripheral
     sort_title: Peripheral
@@ -5269,6 +5271,17 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/584715
+  443433:
+    label_title: Your Friends & Neighbors
+    sort_title: Your Friends & Neighbors
+    release_year: '2025'
+    url_poster: https://theposterdb.com/api/assets/593619
+    tpdb_search: https://theposterdb.com/search?term=Your+Friends+%26+Neighbors&section=shows
+    genre.sync:
+      - Drama
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/593620
   359579:
     label_title: Your Honor
     sort_title: Your Honor

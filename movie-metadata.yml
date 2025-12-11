@@ -1526,6 +1526,14 @@ metadata:
     genre.sync:
       - Comedy
       - Thriller
+  1218925:
+    label_title: 'Chainsaw Man - The Movie: Reze Arc'
+    sort_title: 'Chainsaw Man - The Movie: Reze Arc'
+    release_year: '2025'
+    url_poster: https://theposterdb.com/api/assets/445890
+    tpdb_search: https://theposterdb.com/search?term=Chainsaw+Man+-+The+Movie:+Reze+Arc&section=movies
+    genre.sync:
+      - Anime
   937287:
     label_title: Challengers
     sort_title: Challengers
@@ -2358,6 +2366,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Die+Hard&section=movies
     genre.sync:
       - Action
+      - Thriller
+  1033148:
+    label_title: Die My Love
+    sort_title: Die My Love
+    release_year: '2025'
+    url_poster: https://theposterdb.com/api/assets/671297
+    tpdb_search: https://theposterdb.com/search?term=Die+My+Love&section=movies
+    genre.sync:
+      - Drama
       - Thriller
   10567:
     label_title: Dinosaur
@@ -4913,7 +4930,7 @@ metadata:
     label_title: Keeper
     sort_title: Keeper
     release_year: '2025'
-    url_poster: https://theposterdb.com/api/assets/629236
+    url_poster: https://theposterdb.com/api/assets/671315
     tpdb_search: https://theposterdb.com/search?term=Keeper&section=movies
     genre.sync:
       - Horror
