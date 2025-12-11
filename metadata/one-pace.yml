@@ -22,7 +22,7 @@ metadata:
       includes everything that is in the manga, plus a little bit of anime only content
       where it is appropriate.
     genre.sync:
-    - Anime
+      - Anime
     seasons:
       1:
         title: Romance Dawn
