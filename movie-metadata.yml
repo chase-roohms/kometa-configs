@@ -1988,11 +1988,10 @@ metadata:
     label_title: Christy
     sort_title: Christy
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/671279
     tpdb_search: https://theposterdb.com/search?term=Christy&section=movies
     genre.sync:
       - Drama
-      - History
   11224:
     label_title: Cinderella
     sort_title: Cinderella (Animated) 1
@@ -4541,7 +4540,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=It+Ends&section=movies
     genre.sync:
       - Horror
-      - Mystery
   1094138:
     label_title: Jackpot!
     sort_title: Jackpot!
