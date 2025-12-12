@@ -1984,6 +1984,15 @@ metadata:
     studio: Disney
     genre.sync:
       - Family
+  1287322:
+    label_title: Christy
+    sort_title: Christy
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Christy&section=movies
+    genre.sync:
+      - Drama
+      - History
   11224:
     label_title: Cinderella
     sort_title: Cinderella (Animated) 1
