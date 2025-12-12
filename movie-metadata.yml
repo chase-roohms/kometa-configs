@@ -4536,7 +4536,7 @@ metadata:
     label_title: It Ends
     sort_title: It Ends
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/672290
     tpdb_search: https://theposterdb.com/search?term=It+Ends&section=movies
     genre.sync:
       - Horror
