@@ -1935,13 +1935,13 @@ metadata:
     label_title: I Love LA
     sort_title: I Love LA
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/655580
     tpdb_search: https://theposterdb.com/search?term=I+Love+LA&section=shows
     genre.sync:
       - Comedy
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/655581
   362753:
     label_title: I Think You Should Leave with Tim Robinson
     sort_title: I Think You Should Leave with Tim Robinson
