@@ -6505,7 +6505,7 @@ metadata:
     label_title: Now You See Me
     sort_title: Now You See Me 1
     release_year: '2013'
-    url_poster: https://theposterdb.com/api/assets/10166
+    url_poster: https://theposterdb.com/api/assets/607097
     tpdb_search: https://theposterdb.com/search?term=Now+You+See+Me&section=movies
     studio: Lionsgate
     genre.sync:
@@ -6515,8 +6515,18 @@ metadata:
     label_title: Now You See Me 2
     sort_title: Now You See Me 2
     release_year: '2016'
-    url_poster: https://theposterdb.com/api/assets/10167
+    url_poster: https://theposterdb.com/api/assets/607096
     tpdb_search: https://theposterdb.com/search?term=Now+You+See+Me+2&section=movies
+    studio: Lionsgate
+    genre.sync:
+      - Action
+      - Thriller
+  425274:
+    label_title: "Now You See Me: Now You Don't"
+    sort_title: Now You See Me 3
+    release_year: '2025'
+    url_poster: https://theposterdb.com/api/assets/607095
+    tpdb_search: "https://theposterdb.com/search?term=Now+You+See+Me:+Now+You+Don't&section=movies"
     studio: Lionsgate
     genre.sync:
       - Action
