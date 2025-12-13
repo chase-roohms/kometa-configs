@@ -1439,6 +1439,14 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
+  1286185:
+    label_title: "The Carpenter's Son"
+    sort_title: "Carpenter's Son"
+    release_year: '2025'
+    url_poster: https://theposterdb.com/api/assets/663794
+    tpdb_search: "https://theposterdb.com/search?term=The+Carpenter's+Son&section=movies"
+    genre.sync:
+      - Horror
   1005331:
     label_title: Carry-On
     sort_title: Carry-On
