@@ -2158,6 +2158,14 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Coraline&section=movies
     genre.sync:
       - Animation
+  1575337:
+    label_title: Cosmic Princess Kaguya!
+    sort_title: Cosmic Princess Kaguya!
+    release_year: '2026'
+    url_poster: https://theposterdb.com/api/assets/672514
+    tpdb_search: https://theposterdb.com/search?term=Cosmic+Princess+Kaguya!&section=movies
+    genre.sync:
+      - Anime
   8963:
     label_title: Crimson Tide
     sort_title: Crimson Tide
