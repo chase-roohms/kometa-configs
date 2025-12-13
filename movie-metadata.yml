@@ -9407,6 +9407,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Way+We+Were&section=movies
     genre.sync:
       - Drama
+  1198984:
+    label_title: We Bury the Dead
+    sort_title: We Bury the Dead
+    release_year: '2026'
+    url_poster: https://theposterdb.com/api/assets/672515
+    tpdb_search: https://theposterdb.com/search?term=We+Bury+the+Dead&section=movies
+    genre.sync:
+      - Horror
+      - Thriller
   1100099:
     label_title: We Live in Time
     sort_title: We Live in Time
