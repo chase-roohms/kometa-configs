@@ -3324,6 +3324,15 @@ metadata:
     genre.sync:
       - Action
       - Comedy
+  343674:
+    label_title: "Gerald's Game"
+    sort_title: "Gerald's Game"
+    release_year: '2017'
+    url_poster: ''
+    tpdb_search: "https://theposterdb.com/search?term=Gerald's+Game&section=movies"
+    genre.sync:
+      - Horror
+      - Thriller
   419430:
     label_title: Get Out
     sort_title: Get Out
