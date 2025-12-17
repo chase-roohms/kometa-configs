@@ -3328,7 +3328,7 @@ metadata:
     label_title: "Gerald's Game"
     sort_title: "Gerald's Game"
     release_year: '2017'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/110835
     tpdb_search: "https://theposterdb.com/search?term=Gerald's+Game&section=movies"
     genre.sync:
       - Horror
@@ -7933,13 +7933,12 @@ metadata:
       - Action
   1223601:
     label_title: 'Sisu: Road to Revenge'
-    sort_title: 'Sisu: Road to Revenge'
+    sort_title: Sisu 2
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/663772
     tpdb_search: https://theposterdb.com/search?term=Sisu:+Road+to+Revenge&section=movies
     genre.sync:
       - Action
-      - War
   1319969:
     label_title: Sketch
     sort_title: Sketch
