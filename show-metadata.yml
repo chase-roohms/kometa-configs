@@ -1388,34 +1388,16 @@ metadata:
     label_title: Fallout
     sort_title: Fallout
     release_year: '2024'
-    url_poster: https://api.mediux.pro/assets/17ee2e86-d38a-41e4-8cc5-9abe295908be
-    url_background: https://api.mediux.pro/assets/ed7033d0-3bcf-4449-bcba-72721e00ac9c
+    url_poster: https://theposterdb.com/api/assets/439354
     tpdb_search: https://theposterdb.com/search?term=Fallout&section=shows
     genre.sync:
       - Action
       - Science Fiction
     seasons:
       1:
-        url_poster: https://api.mediux.pro/assets/d40e75a1-159e-43cf-aaa7-d62ed808fa1b
-        episodes:
-          1:
-            url_poster: https://api.mediux.pro/assets/f1e5afcb-6fa3-48d4-b555-d819b58f0468
-          2:
-            url_poster: https://api.mediux.pro/assets/511d4810-5539-4010-934b-07bf274f0fd8
-          3:
-            url_poster: https://api.mediux.pro/assets/1f4f827b-20d9-486e-b91d-60c057a9de32
-          4:
-            url_poster: https://api.mediux.pro/assets/acc74d90-7772-4cde-b2ed-b90b15b4d4c7
-          5:
-            url_poster: https://api.mediux.pro/assets/15cb71b5-9900-405d-97c8-b4a672b4694c
-          6:
-            url_poster: https://api.mediux.pro/assets/17ef1b74-9641-4353-b374-0c56ce01ce8b
-          7:
-            url_poster: https://api.mediux.pro/assets/78effa18-1dce-42b1-aa9c-b449db7403eb
-          8:
-            url_poster: https://api.mediux.pro/assets/a365f75e-5561-4226-ae01-eea50d12b65c
+        url_poster: https://theposterdb.com/api/assets/439355
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/669077
   419379:
     label_title: Fellow Travelers
     sort_title: Fellow Travelers
