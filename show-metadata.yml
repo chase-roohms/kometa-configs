@@ -1414,6 +1414,8 @@ metadata:
             url_poster: https://api.mediux.pro/assets/78effa18-1dce-42b1-aa9c-b449db7403eb
           8:
             url_poster: https://api.mediux.pro/assets/a365f75e-5561-4226-ae01-eea50d12b65c
+      2:
+        url_poster: ''
   419379:
     label_title: Fellow Travelers
     sort_title: Fellow Travelers
