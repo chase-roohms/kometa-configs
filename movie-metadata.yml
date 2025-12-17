@@ -7931,6 +7931,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Sisu&section=movies
     genre.sync:
       - Action
+  1223601:
+    label_title: 'Sisu: Road to Revenge'
+    sort_title: 'Sisu: Road to Revenge'
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Sisu:+Road+to+Revenge&section=movies
+    genre.sync:
+      - Action
+      - War
   1319969:
     label_title: Sketch
     sort_title: Sketch
