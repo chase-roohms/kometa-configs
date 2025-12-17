@@ -8734,7 +8734,7 @@ metadata:
     label_title: The Thing with Feathers
     sort_title: Thing with Feathers
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/673705
     tpdb_search: https://theposterdb.com/search?term=The+Thing+with+Feathers&section=movies
     genre.sync:
       - Drama
