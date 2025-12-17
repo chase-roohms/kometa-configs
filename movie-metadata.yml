@@ -8730,6 +8730,14 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Terrifier+3&section=movies
     genre.sync:
       - Horror
+  1127628:
+    label_title: The Thing with Feathers
+    sort_title: Thing with Feathers
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Thing+with+Feathers&section=movies
+    genre.sync:
+      - Drama
   10195:
     label_title: Thor
     sort_title: Thor 1
