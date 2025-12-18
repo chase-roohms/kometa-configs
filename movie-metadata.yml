@@ -3143,15 +3143,15 @@ metadata:
       - Animation
   507089:
     label_title: "Five Nights at Freddy's"
-    sort_title: "Five Nights at Freddy's"
+    sort_title: Five Nights at Freddys 1
     release_year: '2023'
-    url_poster: https://theposterdb.com/api/assets/384062
+    url_poster: https://theposterdb.com/api/assets/674000
     tpdb_search: "https://theposterdb.com/search?term=Five+Nights+at+Freddy's&section=movies"
     genre.sync:
       - Horror
   1228246:
     label_title: "Five Nights at Freddy's 2"
-    sort_title: "Five Nights at Freddy's 2"
+    sort_title: Five Nights at Freddy's 2
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/673999
     tpdb_search: "https://theposterdb.com/search?term=Five+Nights+at+Freddy's+2&section=movies"
