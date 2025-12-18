@@ -2409,6 +2409,15 @@ metadata:
     studio: Disney
     genre.sync:
       - Animation
+  1275779:
+    label_title: Disclosure Day
+    sort_title: Disclosure Day
+    release_year: '2026'
+    url_poster: https://theposterdb.com/api/assets/673972
+    tpdb_search: https://theposterdb.com/search?term=Disclosure+Day&section=movies
+    genre.sync:
+      - Science Fiction
+      - Thriller
   82685:
     label_title: "Division III: Football's Finest"
     sort_title: Division III Footballs Finest
