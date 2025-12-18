@@ -4413,7 +4413,7 @@ metadata:
     label_title: Infinity Pool
     sort_title: Infinity Pool
     release_year: '2023'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/320137
     tpdb_search: https://theposterdb.com/search?term=Infinity+Pool&section=movies
     genre.sync:
       - Horror
