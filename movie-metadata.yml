@@ -3149,6 +3149,14 @@ metadata:
     tpdb_search: "https://theposterdb.com/search?term=Five+Nights+at+Freddy's&section=movies"
     genre.sync:
       - Horror
+  1228246:
+    label_title: "Five Nights at Freddy's 2"
+    sort_title: "Five Nights at Freddy's 2"
+    release_year: '2025'
+    url_poster: https://theposterdb.com/api/assets/673999
+    tpdb_search: "https://theposterdb.com/search?term=Five+Nights+at+Freddy's+2&section=movies"
+    genre.sync:
+      - Horror
   537921:
     label_title: Fixed
     sort_title: Fixed
