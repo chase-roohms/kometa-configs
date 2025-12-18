@@ -4409,6 +4409,15 @@ metadata:
     studio: 20th Century Studios
     genre.sync:
       - Family
+  667216:
+    label_title: Infinity Pool
+    sort_title: Infinity Pool
+    release_year: '2023'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Infinity+Pool&section=movies
+    genre.sync:
+      - Horror
+      - Science Fiction
   16869:
     label_title: Inglourious Basterds
     sort_title: Inglourious Basterds
