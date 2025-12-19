@@ -4520,6 +4520,21 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/586083
+  78901:
+    label_title: Supernatural
+    sort_title: Supernatural
+    release_year: '2005'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Supernatural&section=shows
+    genre.sync:
+      - Drama
+      - Fantasy
+      - Horror
+      - Mystery
+      - Thriller
+    seasons:
+      1:
+        url_poster: ''
   76733:
     label_title: Survivor
     sort_title: Survivor
