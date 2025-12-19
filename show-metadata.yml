@@ -4524,7 +4524,7 @@ metadata:
     label_title: Supernatural
     sort_title: Supernatural
     release_year: '2005'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/4463
     tpdb_search: https://theposterdb.com/search?term=Supernatural&section=shows
     genre.sync:
       - Drama
@@ -4532,37 +4532,37 @@ metadata:
       - Science Fiction
     seasons:
       0:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/4464
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/4465
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/4466
       3:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/4467
       4:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/4468
       5:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/4469
       6:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/4470
       7:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/4471
       8:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/4472
       9:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/4473
       10:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/4474
       11:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/4475
       12:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/4476
       13:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/4477
       14:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/4478
       15:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/25863
   76733:
     label_title: Survivor
     sort_title: Survivor
