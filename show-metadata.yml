@@ -4524,7 +4524,7 @@ metadata:
     label_title: Supernatural
     sort_title: Supernatural
     release_year: '2005'
-    url_poster: https://theposterdb.com/api/assets/4463
+    url_poster: https://theposterdb.com/api/assets/104244
     tpdb_search: https://theposterdb.com/search?term=Supernatural&section=shows
     genre.sync:
       - Drama
@@ -4532,37 +4532,37 @@ metadata:
       - Science Fiction
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/4464
+        url_poster: https://theposterdb.com/api/assets/104245
       1:
-        url_poster: https://theposterdb.com/api/assets/4465
+        url_poster: https://theposterdb.com/api/assets/104246
       2:
-        url_poster: https://theposterdb.com/api/assets/4466
+        url_poster: https://theposterdb.com/api/assets/104247
       3:
-        url_poster: https://theposterdb.com/api/assets/4467
+        url_poster: https://theposterdb.com/api/assets/104248
       4:
-        url_poster: https://theposterdb.com/api/assets/4468
+        url_poster: https://theposterdb.com/api/assets/104249
       5:
-        url_poster: https://theposterdb.com/api/assets/4469
+        url_poster: https://theposterdb.com/api/assets/104250
       6:
-        url_poster: https://theposterdb.com/api/assets/4470
+        url_poster: https://theposterdb.com/api/assets/104251
       7:
-        url_poster: https://theposterdb.com/api/assets/4471
+        url_poster: https://theposterdb.com/api/assets/104252
       8:
-        url_poster: https://theposterdb.com/api/assets/4472
+        url_poster: https://theposterdb.com/api/assets/104253
       9:
-        url_poster: https://theposterdb.com/api/assets/4473
+        url_poster: https://theposterdb.com/api/assets/104254
       10:
-        url_poster: https://theposterdb.com/api/assets/4474
+        url_poster: https://theposterdb.com/api/assets/104255
       11:
-        url_poster: https://theposterdb.com/api/assets/4475
+        url_poster: https://theposterdb.com/api/assets/104256
       12:
-        url_poster: https://theposterdb.com/api/assets/4476
+        url_poster: https://theposterdb.com/api/assets/104257
       13:
-        url_poster: https://theposterdb.com/api/assets/4477
+        url_poster: https://theposterdb.com/api/assets/104258
       14:
-        url_poster: https://theposterdb.com/api/assets/4478
+        url_poster: https://theposterdb.com/api/assets/104259
       15:
-        url_poster: https://theposterdb.com/api/assets/25863
+        url_poster: https://theposterdb.com/api/assets/104260
   76733:
     label_title: Survivor
     sort_title: Survivor
