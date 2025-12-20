@@ -2395,153 +2395,155 @@ metadata:
     label_title: Looney Tunes
     sort_title: Looney Tunes
     release_year: '1929'
-    url_poster: https://theposterdb.com/api/assets/233718
+    url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/poster.png
     tpdb_search: https://theposterdb.com/search?term=Looney+Tunes&section=shows
     genre.sync:
       - Animation
     seasons:
       1929:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1929-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1929.png
       1930:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1930-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1930.png
       1931:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1931-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1931.png
       1932:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1932-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1932.png
       1933:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1933-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1933.png
       1934:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1934-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1934.png
       1935:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1935-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1935.png
       1936:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1936-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1936.png
       1937:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1937-3.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1937.png
       1938:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1938-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1938.png
       1939:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1939-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1939.png
       1940:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1940-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1940.png
       1941:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1941-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1941.png
       1942:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1942-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1942.png
       1943:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1943-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1943.png
       1944:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1944-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1944.png
       1945:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1945-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1945.png
       1946:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1946-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1946.png
       1947:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1947-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1947.png
       1948:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1948-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1948.png
       1949:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1949-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1949.png
       1950:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1950-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1950.png
       1951:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1951-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1951.png
       1952:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1952-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1952.png
       1953:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1953-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1953.png
       1954:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1954-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1954.png
       1955:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1955-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1955.png
       1956:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1956-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1956.png
       1957:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1957-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1957.png
       1958:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1958-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1958.png
       1959:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1959-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1959.png
       1960:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1960-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1960.png
       1961:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1961-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1961.png
       1962:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1962-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1962.png
       1963:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1963-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1963.png
       1964:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1964-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1964.png
       1965:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1965-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1965.png
       1966:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1966-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1966.png
       1967:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1967-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1967.png
       1968:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1968-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1968.png
       1969:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1969-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1969.png
+      1970:
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1970.png
       1972:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1972-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1972.png
       1975:
-        url_poster: https://artworks.thetvdb.com/banners/series/72514/seasons/1812896/posters/62049764.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1975.png
       1976:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1976-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1976.png
       1977:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1977-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1977.png
       1978:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1978-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1978.png
       1979:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1979-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1979.png
       1980:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1980-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1980.png
       1981:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1981-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1981.png
       1982:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1982-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1982.png
       1983:
-        url_poster: https://artworks.thetvdb.com/banners/series/72514/seasons/1804625/posters/62022107.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1983.png
       1986:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1986-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1986.png
       1987:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1987-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1987.png
       1988:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1988-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1988.png
       1989:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1989-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1989.png
       1990:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1990-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1990.png
       1991:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1991-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1991.png
       1992:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1992-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1992.png
       1994:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1994-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1994.png
       1995:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1995-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1995.png
       1996:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1996-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1996.png
       1997:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-1997-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/1997.png
       2000:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-2000-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/2000.png
       2003:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-2003-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/2003.png
       2004:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-2004-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/2004.png
       2005:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-2005-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/2005.png
       2006:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-2006-2.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/2006.png
       2010:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-2010.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/2010.png
       2011:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-2011.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/2011.png
       2012:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-2012.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/2012.png
       2014:
-        url_poster: https://artworks.thetvdb.com/banners/seasons/72514-2014.jpg
+        url_poster: https://raw.githubusercontent.com/chase-roohms/looney-tunes-assets/main/posters/years/2014.png
   464419:
     label_title: Lord of Mysteries
     sort_title: Lord of Mysteries
