@@ -1439,6 +1439,14 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
+  1286185:
+    label_title: "The Carpenter's Son"
+    sort_title: "Carpenter's Son"
+    release_year: '2025'
+    url_poster: https://theposterdb.com/api/assets/663794
+    tpdb_search: "https://theposterdb.com/search?term=The+Carpenter's+Son&section=movies"
+    genre.sync:
+      - Horror
   1005331:
     label_title: Carry-On
     sort_title: Carry-On
@@ -2158,6 +2166,14 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Coraline&section=movies
     genre.sync:
       - Animation
+  1575337:
+    label_title: Cosmic Princess Kaguya!
+    sort_title: Cosmic Princess Kaguya!
+    release_year: '2026'
+    url_poster: https://theposterdb.com/api/assets/672514
+    tpdb_search: https://theposterdb.com/search?term=Cosmic+Princess+Kaguya!&section=movies
+    genre.sync:
+      - Anime
   8963:
     label_title: Crimson Tide
     sort_title: Crimson Tide
@@ -2393,6 +2409,15 @@ metadata:
     studio: Disney
     genre.sync:
       - Animation
+  1275779:
+    label_title: Disclosure Day
+    sort_title: Disclosure Day
+    release_year: '2026'
+    url_poster: https://theposterdb.com/api/assets/673972
+    tpdb_search: https://theposterdb.com/search?term=Disclosure+Day&section=movies
+    genre.sync:
+      - Science Fiction
+      - Thriller
   82685:
     label_title: "Division III: Football's Finest"
     sort_title: Division III Footballs Finest
@@ -3118,10 +3143,18 @@ metadata:
       - Animation
   507089:
     label_title: "Five Nights at Freddy's"
-    sort_title: "Five Nights at Freddy's"
+    sort_title: Five Nights at Freddys 1
     release_year: '2023'
-    url_poster: https://theposterdb.com/api/assets/384062
+    url_poster: https://theposterdb.com/api/assets/674000
     tpdb_search: "https://theposterdb.com/search?term=Five+Nights+at+Freddy's&section=movies"
+    genre.sync:
+      - Horror
+  1228246:
+    label_title: "Five Nights at Freddy's 2"
+    sort_title: Five Nights at Freddys 2
+    release_year: '2025'
+    url_poster: https://theposterdb.com/api/assets/673999
+    tpdb_search: "https://theposterdb.com/search?term=Five+Nights+at+Freddy's+2&section=movies"
     genre.sync:
       - Horror
   537921:
@@ -3308,6 +3341,15 @@ metadata:
     genre.sync:
       - Action
       - Comedy
+  343674:
+    label_title: "Gerald's Game"
+    sort_title: "Gerald's Game"
+    release_year: '2017'
+    url_poster: https://theposterdb.com/api/assets/110835
+    tpdb_search: "https://theposterdb.com/search?term=Gerald's+Game&section=movies"
+    genre.sync:
+      - Horror
+      - Thriller
   419430:
     label_title: Get Out
     sort_title: Get Out
@@ -4384,6 +4426,15 @@ metadata:
     studio: 20th Century Studios
     genre.sync:
       - Family
+  667216:
+    label_title: Infinity Pool
+    sort_title: Infinity Pool
+    release_year: '2023'
+    url_poster: https://theposterdb.com/api/assets/320137
+    tpdb_search: https://theposterdb.com/search?term=Infinity+Pool&section=movies
+    genre.sync:
+      - Horror
+      - Science Fiction
   16869:
     label_title: Inglourious Basterds
     sort_title: Inglourious Basterds
@@ -5012,7 +5063,7 @@ metadata:
     label_title: Knives Out
     sort_title: Knives Out 1
     release_year: '2019'
-    url_poster: https://theposterdb.com/api/assets/640582
+    url_poster: https://theposterdb.com/api/assets/639686
     tpdb_search: https://theposterdb.com/search?term=Knives+Out&section=movies
     genre.sync:
       - Comedy
@@ -5021,7 +5072,7 @@ metadata:
     label_title: 'Glass Onion: A Knives Out Mystery'
     sort_title: Knives Out 2
     release_year: '2022'
-    url_poster: https://theposterdb.com/api/assets/640581
+    url_poster: https://theposterdb.com/api/assets/639685
     tpdb_search: https://theposterdb.com/search?term=Glass+Onion:+A+Knives+Out+Mystery&section=movies
     genre.sync:
       - Comedy
@@ -5030,7 +5081,7 @@ metadata:
     label_title: 'Wake Up Dead Man: A Knives Out Mystery'
     sort_title: Knives Out 3
     release_year: '2025'
-    url_poster: https://theposterdb.com/api/assets/640580
+    url_poster: https://theposterdb.com/api/assets/639874
     tpdb_search: https://theposterdb.com/search?term=Wake+Up+Dead+Man:+A+Knives+Out+Mystery&section=movies
     genre.sync:
       - Comedy
@@ -6489,7 +6540,7 @@ metadata:
     label_title: Now You See Me
     sort_title: Now You See Me 1
     release_year: '2013'
-    url_poster: https://theposterdb.com/api/assets/10166
+    url_poster: https://theposterdb.com/api/assets/607097
     tpdb_search: https://theposterdb.com/search?term=Now+You+See+Me&section=movies
     studio: Lionsgate
     genre.sync:
@@ -6499,8 +6550,18 @@ metadata:
     label_title: Now You See Me 2
     sort_title: Now You See Me 2
     release_year: '2016'
-    url_poster: https://theposterdb.com/api/assets/10167
+    url_poster: https://theposterdb.com/api/assets/607096
     tpdb_search: https://theposterdb.com/search?term=Now+You+See+Me+2&section=movies
+    studio: Lionsgate
+    genre.sync:
+      - Action
+      - Thriller
+  425274:
+    label_title: "Now You See Me: Now You Don't"
+    sort_title: Now You See Me 3
+    release_year: '2025'
+    url_poster: https://theposterdb.com/api/assets/607095
+    tpdb_search: "https://theposterdb.com/search?term=Now+You+See+Me:+Now+You+Don't&section=movies"
     studio: Lionsgate
     genre.sync:
       - Action
@@ -7896,6 +7957,14 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Sisu&section=movies
     genre.sync:
       - Action
+  1223601:
+    label_title: 'Sisu: Road to Revenge'
+    sort_title: Sisu 2
+    release_year: '2025'
+    url_poster: https://theposterdb.com/api/assets/663772
+    tpdb_search: https://theposterdb.com/search?term=Sisu:+Road+to+Revenge&section=movies
+    genre.sync:
+      - Action
   1319969:
     label_title: Sketch
     sort_title: Sketch
@@ -8687,6 +8756,14 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Terrifier+3&section=movies
     genre.sync:
       - Horror
+  1127628:
+    label_title: The Thing with Feathers
+    sort_title: Thing with Feathers
+    release_year: '2025'
+    url_poster: https://theposterdb.com/api/assets/673705
+    tpdb_search: https://theposterdb.com/search?term=The+Thing+with+Feathers&section=movies
+    genre.sync:
+      - Drama
   10195:
     label_title: Thor
     sort_title: Thor 1
@@ -9391,6 +9468,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Way+We+Were&section=movies
     genre.sync:
       - Drama
+  1198984:
+    label_title: We Bury the Dead
+    sort_title: We Bury the Dead
+    release_year: '2026'
+    url_poster: https://theposterdb.com/api/assets/672515
+    tpdb_search: https://theposterdb.com/search?term=We+Bury+the+Dead&section=movies
+    genre.sync:
+      - Horror
+      - Thriller
   1100099:
     label_title: We Live in Time
     sort_title: We Live in Time
