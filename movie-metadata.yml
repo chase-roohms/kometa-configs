@@ -7586,7 +7586,7 @@ metadata:
     label_title: "Salem's Lot"
     sort_title: "Salem's Lot"
     release_year: '2024'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/528653
     tpdb_search: "https://theposterdb.com/search?term=Salem's+Lot&section=movies"
     genre.sync:
       - Horror
