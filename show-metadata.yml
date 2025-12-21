@@ -784,6 +784,20 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/586045
       7:
         url_poster: https://theposterdb.com/api/assets/586046
+  331600:
+    label_title: Castle Rock
+    sort_title: Castle Rock
+    release_year: '2018'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Castle+Rock&section=shows
+    genre.sync:
+      - Horror
+      - Mystery
+      - Science Fiction
+      - Thriller
+    seasons:
+      1:
+        url_poster: ''
   397934:
     label_title: Chainsaw Man
     sort_title: Chainsaw Man
