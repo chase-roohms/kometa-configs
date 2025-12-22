@@ -52,3 +52,8 @@ collections:
       name: Radarr
       radarr_tag: 9 - kimberlyelizondo
     url_poster: https://i.imgur.com/LVk7jnb.png
+  clarkr80:
+    template:
+      name: Radarr
+      radarr_tag: 10 - clarkr80
+    url_poster: https://i.imgur.com/UKn7cRm.png
