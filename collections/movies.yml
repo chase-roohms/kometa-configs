@@ -1,7 +1,7 @@
 templates:
   Radarr:
     summary: |-
-      Requested by <<collection_name>> on JellySeer. 
+      Requested by <<collection_name>> on Seerr. 
       
       Request more movies at https://requests.neonvariant.com
     sort_title: '!000_<<radarr_tag>>'
