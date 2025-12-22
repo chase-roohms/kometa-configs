@@ -13,47 +13,47 @@ collections:
   neonvariant:
     template:
       name: Sonarr
-      sonarr_tag: 1 - neonvariant
+      sonarr_tag: 1-neonvariant
     url_poster: https://i.imgur.com/iXaMmV7.png
   neonmovies1:
     template:
       name: Sonarr
-      sonarr_tag: 2 - neonmovies
+      sonarr_tag: 2-neonmovies
     url_poster: https://i.imgur.com/sPfOlvC.png
   neonmovies2:
     template:
       name: Sonarr
-      sonarr_tag: 3 - neonmovies2
+      sonarr_tag: 3-neonmovies2
     url_poster: https://i.imgur.com/8CEIcIA.png
   neonmovies3:
     template:
       name: Sonarr
-      sonarr_tag: 4 - neonmovies3
+      sonarr_tag: 4-neonmovies3
     url_poster: https://i.imgur.com/QFjgfeB.png
   # Font for these is Oswald Bold
   # Color code is e6a124
   jasonebbeler:
     template:
       name: Sonarr
-      sonarr_tag: 5 - jasonebbeler
+      sonarr_tag: 5-jasonebbeler
     url_poster: https://i.imgur.com/n4SiCwa.png
   eddboi:
     template:
       name: Sonarr
-      sonarr_tag: 6 - eddboi
+      sonarr_tag: 6-eddboi
     url_poster: https://i.imgur.com/lrTPI4b.png
   scottsudduth:
     template:
       name: Sonarr
-      sonarr_tag: 8 - scottsudduth
+      sonarr_tag: 8-scottsudduth
     url_poster: https://i.imgur.com/XmgRZUP.png
   kimberlyelizondo:
     template:
       name: Sonarr
-      sonarr_tag: 9 - kimberlyelizondo
+      sonarr_tag: 9-kimberlyelizondo
     url_poster: https://i.imgur.com/LVk7jnb.png
   clarkr80:
     template:
       name: Sonarr
-      radarr_tag: 10 - clarkr80
+      radarr_tag: 10-clarkr80
     url_poster: https://i.imgur.com/UKn7cRm.png
