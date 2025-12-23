@@ -6477,10 +6477,9 @@ metadata:
     label_title: No Other Choice
     sort_title: No Other Choice
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/672937
     tpdb_search: https://theposterdb.com/search?term=No+Other+Choice&section=movies
     genre.sync:
-      - Crime
       - Drama
       - Thriller
   3638:
@@ -8323,11 +8322,10 @@ metadata:
     label_title: 'Springsteen: Deliver Me from Nowhere'
     sort_title: 'Springsteen: Deliver Me from Nowhere'
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/651943
     tpdb_search: https://theposterdb.com/search?term=Springsteen:+Deliver+Me+from+Nowhere&section=movies
     genre.sync:
       - Drama
-      - Music
   355547:
     label_title: The Star
     sort_title: Star
