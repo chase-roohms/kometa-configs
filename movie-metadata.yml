@@ -2297,7 +2297,7 @@ metadata:
     label_title: Deadpool
     sort_title: Deadpool 1
     release_year: '2016'
-    url_poster: https://theposterdb.com/api/assets/518051
+    url_poster: https://theposterdb.com/api/assets/675518
     tpdb_search: https://theposterdb.com/search?term=Deadpool&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -2306,7 +2306,7 @@ metadata:
     label_title: Deadpool 2
     sort_title: Deadpool 2
     release_year: '2018'
-    url_poster: https://theposterdb.com/api/assets/518049
+    url_poster: https://theposterdb.com/api/assets/675517
     tpdb_search: https://theposterdb.com/search?term=Deadpool+2&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -2315,7 +2315,7 @@ metadata:
     label_title: Deadpool & Wolverine
     sort_title: Deadpool 3
     release_year: '2024'
-    url_poster: https://theposterdb.com/api/assets/518047
+    url_poster: https://theposterdb.com/api/assets/675515
     tpdb_search: https://theposterdb.com/search?term=Deadpool+%26+Wolverine&section=movies
     studio: Marvel Studios
     genre.sync:
