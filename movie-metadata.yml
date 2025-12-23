@@ -6473,6 +6473,16 @@ metadata:
     genre.sync:
       - Animation
       - Family
+  639988:
+    label_title: No Other Choice
+    sort_title: No Other Choice
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=No+Other+Choice&section=movies
+    genre.sync:
+      - Crime
+      - Drama
+      - Thriller
   3638:
     label_title: No Reservations
     sort_title: No Reservations
