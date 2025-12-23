@@ -14,25 +14,25 @@ url_poster_mappings:
     url_poster_531566: https://theposterdb.com/api/assets/587900  # Along with the Gods
     url_poster_531315: https://theposterdb.com/api/assets/639866  # Angry Birds
     url_poster_402074: https://theposterdb.com/api/assets/534158  # Annabelle
-    url_poster_422834: https://theposterdb.com/api/assets/517998  # Ant-Man
+    url_poster_422834: https://theposterdb.com/api/assets/675488  # Ant-Man
     url_poster_573693: https://theposterdb.com/api/assets/517137  # Aquaman
     url_poster_100965: https://theposterdb.com/api/assets/533126  # Atlantis (Animated)
     url_poster_87096: https://theposterdb.com/api/assets/672053   # Avatar
-    url_poster_86311: https://theposterdb.com/api/assets/517841   # Avengers
+    url_poster_86311: https://theposterdb.com/api/assets/675464   # Avengers
     url_poster_264: https://theposterdb.com/api/assets/87588      # Back to the Future
     url_poster_1231053: https://theposterdb.com/api/assets/531622 # Bad Guys
     url_poster_87250: https://theposterdb.com/api/assets/533686   # Bambi (Animated)
     url_poster_948485: https://theposterdb.com/api/assets/511486  # Batman
     url_poster_153010: https://theposterdb.com/api/assets/534025  # Beauty and the Beast (Animated)
     url_poster_118415: https://theposterdb.com/api/assets/182149  # Berzerk Golden Age Arc
-    url_poster_529892: https://theposterdb.com/api/assets/518102  # Black Panther
+    url_poster_529892: https://theposterdb.com/api/assets/675494  # Black Panther
     url_poster_1197140: https://theposterdb.com/api/assets/658534 # Black Phone
     url_poster_422837: https://theposterdb.com/api/assets/22405   # Blade Runner
     url_poster_735: https://theposterdb.com/api/assets/518555     # Blade Trilogy
     url_poster_519457: https://theposterdb.com/api/assets/531145  # Boss Baby
     url_poster_96472: https://theposterdb.com/api/assets/533121   # Brother Bear (Animated)
-    url_poster_131295: https://theposterdb.com/api/assets/517867  # Captain America
-    url_poster_623911: https://theposterdb.com/api/assets/518088  # Captain Marvel
+    url_poster_131295: https://theposterdb.com/api/assets/675478  # Captain America
+    url_poster_623911: https://theposterdb.com/api/assets/675497  # Captain Marvel
     url_poster_87118: https://theposterdb.com/api/assets/532265   # Cars
     url_poster_55419: https://theposterdb.com/api/assets/533181   # Cinderella (Animated)
     url_poster_313086: https://theposterdb.com/api/assets/534153  # Conjuring
@@ -40,7 +40,7 @@ url_poster_mappings:
     url_poster_263: https://theposterdb.com/api/assets/516813     # Dark Knight Trilogy
     url_poster_448150: https://theposterdb.com/api/assets/518046  # Deadpool
     url_poster_86066: https://theposterdb.com/api/assets/531340   # Despicable Me
-    url_poster_618529: https://theposterdb.com/api/assets/517911  # Doctor Strange
+    url_poster_618529: https://theposterdb.com/api/assets/675491  # Doctor Strange
     url_poster_178106: https://theposterdb.com/api/assets/128286  # Donnie Darko
     url_poster_748919: https://theposterdb.com/api/assets/168637  # Don't Breathe
     url_poster_1471785: https://theposterdb.com/api/assets/639434 # Dosed
@@ -62,7 +62,7 @@ url_poster_mappings:
     url_poster_1069584: https://theposterdb.com/api/assets/535427 # Gladiator
     url_poster_230: https://theposterdb.com/api/assets/8934       # Godfather
     url_poster_535313: https://theposterdb.com/api/assets/5962    # Godzilla
-    url_poster_284433: https://theposterdb.com/api/assets/518128  # Guardians of the Galaxy
+    url_poster_284433: https://theposterdb.com/api/assets/675483  # Guardians of the Galaxy
     url_poster_87252: https://theposterdb.com/api/assets/651983   # Halloweentown
     url_poster_1263259: https://theposterdb.com/api/assets/628363 # Happy Gilmore
     url_poster_1241: https://theposterdb.com/api/assets/218038    # Harry Potter
@@ -80,7 +80,7 @@ url_poster_mappings:
     url_poster_468222: https://theposterdb.com/api/assets/532266  # Incredibles
     url_poster_1022790: https://theposterdb.com/api/assets/532269 # Inside Out
     url_poster_228446: https://theposterdb.com/api/assets/391913  # Insidious
-    url_poster_131292: https://theposterdb.com/api/assets/517801  # Iron Man
+    url_poster_131292: https://theposterdb.com/api/assets/675468  # Iron Man
     url_poster_477962: https://theposterdb.com/api/assets/632790  # IT
     url_poster_645: https://theposterdb.com/api/assets/26277      # James Bond
     url_poster_2366: https://theposterdb.com/api/assets/66353     # Jaws
@@ -148,14 +148,14 @@ url_poster_mappings:
     url_poster_722961: https://theposterdb.com/api/assets/163484  # Space Jam
     url_poster_556: https://theposterdb.com/api/assets/518384     # Spider-Man (Original)
     url_poster_125574: https://theposterdb.com/api/assets/518352  # Spider-Man (Amazing)
-    url_poster_531241: https://theposterdb.com/api/assets/517885  # Spider-Man Marvel
+    url_poster_531241: https://theposterdb.com/api/assets/675503  # Spider-Man (MCU)
     url_poster_573436: https://theposterdb.com/api/assets/518523  # Spider-Man Spider-Verse
     url_poster_531242: https://theposterdb.com/api/assets/639094  # Suicide Squad
     url_poster_449462: https://theposterdb.com/api/assets/220021  # Super Troopers
     url_poster_106768: https://theposterdb.com/api/assets/533149  # Tarzan (Animated)
     url_poster_528: https://theposterdb.com/api/assets/26461      # Terminator
     url_poster_727761: https://theposterdb.com/api/assets/535095  # Terrifier
-    url_poster_131296: https://theposterdb.com/api/assets/517895  # Thor
+    url_poster_131296: https://theposterdb.com/api/assets/675473  # Thor
     url_poster_531330: https://theposterdb.com/api/assets/251589  # Top Gun
     url_poster_10194: https://theposterdb.com/api/assets/532263   # Toy Story
     url_poster_619537: https://theposterdb.com/api/assets/96438   # Train to Busan
