@@ -8309,6 +8309,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Splitsville&section=movies
     genre.sync:
       - Comedy
+  1230368:
+    label_title: 'Springsteen: Deliver Me from Nowhere'
+    sort_title: 'Springsteen: Deliver Me from Nowhere'
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Springsteen:+Deliver+Me+from+Nowhere&section=movies
+    genre.sync:
+      - Drama
+      - Music
   355547:
     label_title: The Star
     sort_title: Star
