@@ -3502,13 +3502,13 @@ metadata:
     label_title: Pluribus
     sort_title: Pluribus
     release_year: '2025'
-    url_poster: https://theposterdb.com/api/assets/650628
+    url_poster: https://theposterdb.com/api/assets/674622
     tpdb_search: https://theposterdb.com/search?term=Pluribus&section=shows
     genre.sync:
       - Drama
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/650629
+        url_poster: https://theposterdb.com/api/assets/674752
   430020:
     label_title: The Pradeeps of Pittsburgh
     sort_title: Pradeeps of Pittsburgh
