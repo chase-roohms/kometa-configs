@@ -7922,6 +7922,16 @@ metadata:
     studio: 20th Century Studios
     genre.sync:
       - Thriller
+  35:
+    label_title: The Simpsons Movie
+    sort_title: Simpsons Movie
+    release_year: '2007'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Simpsons+Movie&section=movies
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
   335797:
     label_title: Sing
     sort_title: Sing 1
