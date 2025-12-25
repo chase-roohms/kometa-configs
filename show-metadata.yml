@@ -111,14 +111,16 @@ metadata:
     label_title: Agatha All Along
     sort_title: Agatha All Along
     release_year: '2024'
-    url_poster: https://theposterdb.com/api/assets/523615
+    url_poster: https://theposterdb.com/api/assets/676410
     tpdb_search: https://theposterdb.com/search?term=Agatha+All+Along&section=shows
     studio: Marvel Studios
     genre.sync:
       - Superhero
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/676411
       1:
-        url_poster: https://theposterdb.com/api/assets/523616
+        url_poster: https://theposterdb.com/api/assets/676412
   430769:
     label_title: The Agency
     sort_title: Agency
@@ -1062,14 +1064,18 @@ metadata:
     label_title: 'Daredevil: Born Again'
     sort_title: Daredevil 2
     release_year: '2025'
-    url_poster: https://theposterdb.com/api/assets/581640
+    url_poster: https://theposterdb.com/api/assets/675957
     tpdb_search: https://theposterdb.com/search?term=Daredevil:+Born+Again&section=shows
     studio: Marvel Studios
     genre.sync:
       - Superhero
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/675958
       1:
-        url_poster: https://theposterdb.com/api/assets/581641
+        url_poster: https://theposterdb.com/api/assets/675959
+      2:
+        url_poster: https://theposterdb.com/api/assets/675960
   334824:
     label_title: Dark
     sort_title: Dark
@@ -1289,14 +1295,16 @@ metadata:
     label_title: Echo
     sort_title: Echo
     release_year: '2024'
-    url_poster: https://theposterdb.com/api/assets/519099
+    url_poster: https://theposterdb.com/api/assets/676414
     tpdb_search: https://theposterdb.com/search?term=Echo&section=shows
     studio: Marvel Studios
     genre.sync:
       - Superhero
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/676415
       1:
-        url_poster: https://theposterdb.com/api/assets/519100
+        url_poster: https://theposterdb.com/api/assets/676416
   407520:
     label_title: The Eminence in Shadow
     sort_title: Eminence in Shadow
@@ -1366,26 +1374,30 @@ metadata:
     label_title: Eyes of Wakanda
     sort_title: Eyes of Wakanda
     release_year: '2025'
-    url_poster: https://theposterdb.com/api/assets/630616
+    url_poster: https://theposterdb.com/api/assets/675948
     tpdb_search: https://theposterdb.com/search?term=Eyes+of+Wakanda&section=shows
     studio: Marvel Studios
     genre.sync:
       - Superhero
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/675949
       1:
-        url_poster: https://theposterdb.com/api/assets/630617
+        url_poster: https://theposterdb.com/api/assets/675950
   362496:
     label_title: The Falcon and The Winter Soldier
     sort_title: Falcon and The Winter Soldier
     release_year: '2021'
-    url_poster: https://theposterdb.com/api/assets/518951
+    url_poster: https://theposterdb.com/api/assets/676448
     tpdb_search: https://theposterdb.com/search?term=The+Falcon+and+The+Winter+Soldier&section=shows
     studio: Marvel Studios
     genre.sync:
       - Superhero
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/676449
       1:
-        url_poster: https://theposterdb.com/api/assets/518952
+        url_poster: https://theposterdb.com/api/assets/676450
   458706:
     label_title: The Fall of Diddy
     sort_title: Fall of Diddy
@@ -1759,14 +1771,16 @@ metadata:
     label_title: Hawkeye
     sort_title: Hawkeye
     release_year: '2021'
-    url_poster: https://theposterdb.com/api/assets/519000
+    url_poster: https://theposterdb.com/api/assets/676434
     tpdb_search: https://theposterdb.com/search?term=Hawkeye&section=shows
     studio: Marvel Studios
     genre.sync:
       - Superhero
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/676435
       1:
-        url_poster: https://theposterdb.com/api/assets/519001
+        url_poster: https://theposterdb.com/api/assets/676436
   358805:
     label_title: Hazbin Hotel
     sort_title: Hazbin Hotel
@@ -1906,17 +1920,19 @@ metadata:
     label_title: I Am Groot
     sort_title: I Am Groot
     release_year: '2022'
-    url_poster: https://theposterdb.com/api/assets/519107
+    url_poster: https://theposterdb.com/api/assets/676423
     tpdb_search: https://theposterdb.com/search?term=I+Am+Groot&section=shows
     studio: Marvel Studios
     genre.sync:
       - Animation
       - Superhero
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/676424
       1:
-        url_poster: https://theposterdb.com/api/assets/519108
+        url_poster: https://theposterdb.com/api/assets/676425
       2:
-        url_poster: https://theposterdb.com/api/assets/519109
+        url_poster: https://theposterdb.com/api/assets/676426
   436875:
     label_title: I Kissed a Girl
     sort_title: I Kissed a Girl
@@ -2012,14 +2028,16 @@ metadata:
     label_title: Ironheart
     sort_title: Ironheart
     release_year: '2025'
-    url_poster: https://theposterdb.com/api/assets/605323
+    url_poster: https://theposterdb.com/api/assets/675952
     tpdb_search: https://theposterdb.com/search?term=Ironheart&section=shows
     studio: Marvel Studios
     genre.sync:
       - Superhero
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/675953
       1:
-        url_poster: https://theposterdb.com/api/assets/605324
+        url_poster: https://theposterdb.com/api/assets/675954
   75805:
     label_title: "It's Always Sunny in Philadelphia"
     sort_title: "It's Always Sunny in Philadelphia"
@@ -2378,16 +2396,18 @@ metadata:
     label_title: Loki
     sort_title: Loki
     release_year: '2021'
-    url_poster: https://theposterdb.com/api/assets/518934
+    url_poster: https://theposterdb.com/api/assets/676444
     tpdb_search: https://theposterdb.com/search?term=Loki&section=shows
     studio: Marvel Studios
     genre.sync:
       - Superhero
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/676445
       1:
-        url_poster: https://theposterdb.com/api/assets/518935
+        url_poster: https://theposterdb.com/api/assets/676446
       2:
-        url_poster: https://theposterdb.com/api/assets/518936
+        url_poster: https://theposterdb.com/api/assets/676447
   72514:
     label_title: Looney Tunes
     sort_title: Looney Tunes
@@ -2911,14 +2931,16 @@ metadata:
     label_title: Marvel Zombies
     sort_title: Marvel Zombies
     release_year: '2025'
-    url_poster: https://theposterdb.com/api/assets/642539
+    url_poster: https://theposterdb.com/api/assets/675944
     tpdb_search: https://theposterdb.com/search?term=Marvel+Zombies&section=shows
     studio: Marvel Studios
     genre.sync:
       - Superhero
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/675945
       1:
-        url_poster: https://theposterdb.com/api/assets/642540
+        url_poster: https://theposterdb.com/api/assets/675946
   82207:
     label_title: The Marvelous Misadventures of Flapjack
     sort_title: Marvelous Misadventures of Flapjack
@@ -3006,14 +3028,16 @@ metadata:
     label_title: Moon Knight
     sort_title: Moon Knight
     release_year: '2022'
-    url_poster: https://theposterdb.com/api/assets/519005
+    url_poster: https://theposterdb.com/api/assets/676431
     tpdb_search: https://theposterdb.com/search?term=Moon+Knight&section=shows
     studio: Marvel Studios
     genre.sync:
       - Superhero
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/676432
       1:
-        url_poster: https://theposterdb.com/api/assets/519006
+        url_poster: https://theposterdb.com/api/assets/676433
   421103:
     label_title: Moonrise
     sort_title: Moonrise
@@ -3043,14 +3067,16 @@ metadata:
     label_title: Ms. Marvel
     sort_title: Ms. Marvel
     release_year: '2022'
-    url_poster: https://theposterdb.com/api/assets/519016
+    url_poster: https://theposterdb.com/api/assets/676428
     tpdb_search: https://theposterdb.com/search?term=Ms.+Marvel&section=shows
     studio: Marvel Studios
     genre.sync:
       - Superhero
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/676429
       1:
-        url_poster: https://theposterdb.com/api/assets/519017
+        url_poster: https://theposterdb.com/api/assets/676430
   106951:
     label_title: Mucha Lucha
     sort_title: Mucha Lucha
@@ -3929,14 +3955,16 @@ metadata:
     label_title: Secret Invasion
     sort_title: Secret Invasion
     release_year: '2023'
-    url_poster: https://theposterdb.com/api/assets/519092
+    url_poster: https://theposterdb.com/api/assets/676417
     tpdb_search: https://theposterdb.com/search?term=Secret+Invasion&section=shows
     studio: Marvel Studios
     genre.sync:
       - Superhero
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/676418
       1:
-        url_poster: https://theposterdb.com/api/assets/519093
+        url_poster: https://theposterdb.com/api/assets/676419
   453280:
     label_title: Secret Level
     sort_title: Secret Level
@@ -4000,14 +4028,16 @@ metadata:
     label_title: 'She-Hulk: Attorney at Law'
     sort_title: She-Hulk - Attorney at Law
     release_year: '2022'
-    url_poster: https://theposterdb.com/api/assets/519083
+    url_poster: https://theposterdb.com/api/assets/676420
     tpdb_search: https://theposterdb.com/search?term=She-Hulk:+Attorney+at+Law&section=shows
     studio: Marvel Studios
     genre.sync:
       - Superhero
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/676421
       1:
-        url_poster: https://theposterdb.com/api/assets/519084
+        url_poster: https://theposterdb.com/api/assets/676422
   392573:
     label_title: Shōgun
     sort_title: Shogun
@@ -5098,14 +5128,16 @@ metadata:
     label_title: WandaVision
     sort_title: WandaVision
     release_year: '2021'
-    url_poster: https://theposterdb.com/api/assets/518947
+    url_poster: https://theposterdb.com/api/assets/676451
     tpdb_search: https://theposterdb.com/search?term=WandaVision&section=shows
     studio: Marvel Studios
     genre.sync:
       - Superhero
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/676452
       1:
-        url_poster: https://theposterdb.com/api/assets/518948
+        url_poster: https://theposterdb.com/api/assets/676453
   433309:
     label_title: Wayward
     sort_title: Wayward
@@ -5157,19 +5189,21 @@ metadata:
     label_title: What If…?
     sort_title: What If...?
     release_year: '2021'
-    url_poster: https://theposterdb.com/api/assets/518987
+    url_poster: https://theposterdb.com/api/assets/676438
     tpdb_search: https://theposterdb.com/search?term=What+If…?&section=shows
     studio: Marvel Studios
     genre.sync:
       - Animation
       - Superhero
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/676439
       1:
-        url_poster: https://theposterdb.com/api/assets/518988
+        url_poster: https://theposterdb.com/api/assets/676440
       2:
-        url_poster: https://theposterdb.com/api/assets/518989
+        url_poster: https://theposterdb.com/api/assets/676441
       3:
-        url_poster: https://theposterdb.com/api/assets/554796
+        url_poster: https://theposterdb.com/api/assets/676442
   390430:
     label_title: The White Lotus
     sort_title: White Lotus
@@ -5315,15 +5349,17 @@ metadata:
     label_title: Your Friendly Neighborhood Spider-Man
     sort_title: Your Friendly Neighborhood Spider-Man
     release_year: '2025'
-    url_poster: https://theposterdb.com/api/assets/584714
+    url_poster: https://theposterdb.com/api/assets/676406
     tpdb_search: https://theposterdb.com/search?term=Your+Friendly+Neighborhood+Spider-Man&section=shows
     studio: Marvel Studios
     genre.sync:
       - Animation
       - Superhero
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/676407
       1:
-        url_poster: https://theposterdb.com/api/assets/584715
+        url_poster: https://theposterdb.com/api/assets/676408
   443433:
     label_title: Your Friends & Neighbors
     sort_title: Your Friends & Neighbors
