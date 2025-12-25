@@ -6951,6 +6951,14 @@ metadata:
     studio: Disney
     genre.sync:
       - Family
+  934222:
+    label_title: The Pez Outlaw
+    sort_title: Pez Outlaw
+    release_year: '2022'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Pez+Outlaw&section=movies
+    genre.sync:
+      - Documentary
   361822:
     label_title: Pinched
     sort_title: Pinched
