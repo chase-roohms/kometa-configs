@@ -8250,7 +8250,7 @@ metadata:
     label_title: The Amazing Spider-Man
     sort_title: Spider-Man Amazing 1
     release_year: '2012'
-    url_poster: https://theposterdb.com/api/assets/518354
+    url_poster: https://theposterdb.com/api/assets/676661
     tpdb_search: https://theposterdb.com/search?term=The+Amazing+Spider-Man&section=movies
     studio: Marvel Entertainment
     genre.sync:
@@ -8259,7 +8259,7 @@ metadata:
     label_title: The Amazing Spider-Man 2
     sort_title: Spider-Man Amazing 2
     release_year: '2014'
-    url_poster: https://theposterdb.com/api/assets/518353
+    url_poster: https://theposterdb.com/api/assets/676660
     tpdb_search: https://theposterdb.com/search?term=The+Amazing+Spider-Man+2&section=movies
     studio: Marvel Entertainment
     genre.sync:
