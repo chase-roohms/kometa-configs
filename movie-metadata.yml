@@ -6415,12 +6415,10 @@ metadata:
     label_title: Need for Speed
     sort_title: Need for Speed
     release_year: '2014'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/49954
     tpdb_search: https://theposterdb.com/search?term=Need+for+Speed&section=movies
     genre.sync:
       - Action
-      - Crime
-      - Drama
       - Thriller
   18491:
     label_title: 'Neon Genesis Evangelion: The End of Evangelion'
