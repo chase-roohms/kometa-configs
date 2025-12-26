@@ -8223,7 +8223,7 @@ metadata:
     label_title: Spider-Man
     sort_title: Spider-Man 1
     release_year: '2002'
-    url_poster: https://theposterdb.com/api/assets/518387
+    url_poster: https://theposterdb.com/api/assets/676651
     tpdb_search: https://theposterdb.com/search?term=Spider-Man&section=movies
     studio: Marvel Entertainment
     genre.sync:
@@ -8232,7 +8232,7 @@ metadata:
     label_title: Spider-Man 2
     sort_title: Spider-Man 2
     release_year: '2004'
-    url_poster: https://theposterdb.com/api/assets/518386
+    url_poster: https://theposterdb.com/api/assets/676650
     tpdb_search: https://theposterdb.com/search?term=Spider-Man+2&section=movies
     studio: Marvel Entertainment
     genre.sync:
@@ -8241,7 +8241,7 @@ metadata:
     label_title: Spider-Man 3
     sort_title: Spider-Man 3
     release_year: '2007'
-    url_poster: https://theposterdb.com/api/assets/518385
+    url_poster: https://theposterdb.com/api/assets/676649
     tpdb_search: https://theposterdb.com/search?term=Spider-Man+3&section=movies
     studio: Marvel Entertainment
     genre.sync:
