@@ -9445,7 +9445,7 @@ metadata:
     label_title: Venom
     sort_title: Venom 1
     release_year: '2018'
-    url_poster: https://theposterdb.com/api/assets/517927
+    url_poster: https://theposterdb.com/api/assets/676640
     tpdb_search: https://theposterdb.com/search?term=Venom&section=movies
     studio: Marvel Entertainment
     genre.sync:
@@ -9454,7 +9454,7 @@ metadata:
     label_title: 'Venom: Let There Be Carnage'
     sort_title: Venom 2
     release_year: '2021'
-    url_poster: https://theposterdb.com/api/assets/517926
+    url_poster: https://theposterdb.com/api/assets/676639
     tpdb_search: https://theposterdb.com/search?term=Venom:+Let+There+Be+Carnage&section=movies
     studio: Marvel Entertainment
     genre.sync:
@@ -9463,7 +9463,7 @@ metadata:
     label_title: 'Venom: The Last Dance'
     sort_title: Venom 3
     release_year: '2024'
-    url_poster: https://theposterdb.com/api/assets/517925
+    url_poster: https://theposterdb.com/api/assets/676638
     tpdb_search: https://theposterdb.com/search?term=Venom:+The+Last+Dance&section=movies
     studio: Marvel Entertainment
     genre.sync:
