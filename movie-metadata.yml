@@ -6411,6 +6411,17 @@ metadata:
     genre.sync:
       - Animation
       - Fantasy
+  136797:
+    label_title: Need for Speed
+    sort_title: Need for Speed
+    release_year: '2014'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Need+for+Speed&section=movies
+    genre.sync:
+      - Action
+      - Crime
+      - Drama
+      - Thriller
   18491:
     label_title: 'Neon Genesis Evangelion: The End of Evangelion'
     sort_title: 'Neon Genesis Evangelion: The End of Evangelion'
