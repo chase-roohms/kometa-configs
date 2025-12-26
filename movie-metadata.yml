@@ -2882,7 +2882,7 @@ metadata:
     label_title: The Fantastic Four
     sort_title: Fantastic Four 1
     release_year: '1994'
-    url_poster: https://theposterdb.com/api/assets/216068
+    url_poster: https://theposterdb.com/api/assets/676794
     tpdb_search: https://theposterdb.com/search?term=The+Fantastic+Four&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -2891,7 +2891,7 @@ metadata:
     label_title: Fantastic Four
     sort_title: Fantastic Four 2
     release_year: '2005'
-    url_poster: https://theposterdb.com/api/assets/518609
+    url_poster: https://theposterdb.com/api/assets/676791
     tpdb_search: https://theposterdb.com/search?term=Fantastic+Four&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -2900,7 +2900,7 @@ metadata:
     label_title: 'Fantastic Four: Rise of the Silver Surfer'
     sort_title: Fantastic Four 3
     release_year: '2007'
-    url_poster: https://theposterdb.com/api/assets/518608
+    url_poster: https://theposterdb.com/api/assets/676790
     tpdb_search: https://theposterdb.com/search?term=Fantastic+Four:+Rise+of+the+Silver+Surfer&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -2909,7 +2909,7 @@ metadata:
     label_title: Fantastic Four
     sort_title: Fantastic Four 4
     release_year: '2015'
-    url_poster: https://theposterdb.com/api/assets/518606
+    url_poster: https://theposterdb.com/api/assets/676789
     tpdb_search: https://theposterdb.com/search?term=Fantastic+Four&section=movies
     studio: Marvel Studios
     genre.sync:
