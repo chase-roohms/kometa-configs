@@ -8651,6 +8651,16 @@ metadata:
     studio: DC Films
     genre.sync:
       - Superhero
+  361292:
+    label_title: Suspiria
+    sort_title: Suspiria
+    release_year: '2018'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Suspiria&section=movies
+    genre.sync:
+      - Drama
+      - Horror
+      - Mystery
   9078:
     label_title: The Sword in the Stone
     sort_title: Sword in the Stone
