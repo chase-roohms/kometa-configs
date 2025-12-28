@@ -1005,7 +1005,7 @@ metadata:
     label_title: Big Hero 6
     sort_title: Big Hero 6
     release_year: '2014'
-    url_poster: https://theposterdb.com/api/assets/532952
+    url_poster: https://theposterdb.com/api/assets/677117
     tpdb_search: https://theposterdb.com/search?term=Big+Hero+6&section=movies
     studio: Disney
     genre.sync:
@@ -4212,7 +4212,7 @@ metadata:
     label_title: Hulk
     sort_title: Hulk 1
     release_year: '2003'
-    url_poster: https://theposterdb.com/api/assets/518587
+    url_poster: https://theposterdb.com/api/assets/677119
     tpdb_search: https://theposterdb.com/search?term=Hulk&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -5116,7 +5116,7 @@ metadata:
     label_title: Kraven the Hunter
     sort_title: Kraven the Hunter
     release_year: '2024'
-    url_poster: https://theposterdb.com/api/assets/564726
+    url_poster: https://theposterdb.com/api/assets/677122
     tpdb_search: https://theposterdb.com/search?term=Kraven+the+Hunter&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -5693,7 +5693,7 @@ metadata:
     label_title: Madame Web
     sort_title: Madame Web
     release_year: '2024'
-    url_poster: https://theposterdb.com/api/assets/518159
+    url_poster: https://theposterdb.com/api/assets/677123
     tpdb_search: https://theposterdb.com/search?term=Madame+Web&section=movies
     studio: Marvel Entertainment
     genre.sync:
@@ -6240,7 +6240,7 @@ metadata:
     label_title: Morbius
     sort_title: Morbius
     release_year: '2022'
-    url_poster: https://theposterdb.com/api/assets/518584
+    url_poster: https://theposterdb.com/api/assets/677116
     tpdb_search: https://theposterdb.com/search?term=Morbius&section=movies
     studio: Marvel Studios
     genre.sync:
