@@ -3524,11 +3524,10 @@ metadata:
     label_title: Good Fortune
     sort_title: Good Fortune
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/659706
     tpdb_search: https://theposterdb.com/search?term=Good+Fortune&section=movies
     genre.sync:
       - Comedy
-      - Fantasy
   284303:
     label_title: Goodnight Mommy
     sort_title: Goodnight Mommy
