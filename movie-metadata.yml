@@ -2338,6 +2338,16 @@ metadata:
     studio: Ufotable
     genre.sync:
       - Anime
+  1311031:
+    label_title: 'Demon Slayer: Kimetsu no Yaiba Infinity Castle'
+    sort_title: 'Demon Slayer: Kimetsu no Yaiba Infinity Castle'
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Demon+Slayer:+Kimetsu+no+Yaiba+Infinity+Castle&section=movies
+    genre.sync:
+      - Action
+      - Animation
+      - Fantasy
   20352:
     label_title: Despicable Me
     sort_title: Despicable Me 1
