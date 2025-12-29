@@ -7270,6 +7270,16 @@ metadata:
       - Animation
       - Science Fiction
       - Thriller
+  1242898:
+    label_title: 'Predator: Badlands'
+    sort_title: 'Predator: Badlands'
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Predator:+Badlands&section=movies
+    genre.sync:
+      - Action
+      - Adventure
+      - Science Fiction
   49526:
     label_title: Premium Rush
     sort_title: Premium Rush
