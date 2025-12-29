@@ -6469,15 +6469,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Never+Let+Go&section=movies
     genre.sync:
       - Horror
-  340102:
-    label_title: The New Mutants
-    sort_title: X-Men 9
-    release_year: '2020'
-    url_poster: https://theposterdb.com/api/assets/677749
-    tpdb_search: https://theposterdb.com/search?term=The+New+Mutants&section=movies
-    studio: Marvel Studios
-    genre.sync:
-      - Superhero
   1738:
     label_title: Next
     sort_title: Next
@@ -9916,6 +9907,15 @@ metadata:
     release_year: '2019'
     url_poster: https://theposterdb.com/api/assets/677750
     tpdb_search: https://theposterdb.com/search?term=Dark+Phoenix&section=movies
+    studio: Marvel Studios
+    genre.sync:
+      - Superhero
+  340102:
+    label_title: The New Mutants
+    sort_title: X-Men 9
+    release_year: '2020'
+    url_poster: https://theposterdb.com/api/assets/677749
+    tpdb_search: https://theposterdb.com/search?term=The+New+Mutants&section=movies
     studio: Marvel Studios
     genre.sync:
       - Superhero
