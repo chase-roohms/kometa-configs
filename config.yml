@@ -428,7 +428,7 @@ shared_collection_files:
   template_variables:
     sort_by: random
     visible_home: true
-    schedule_christmas: range(11/01-12/31)
+    schedule_christmas: range(11/01-12/27)
     exclude:
       - years
       - valentine
