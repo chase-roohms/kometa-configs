@@ -2610,6 +2610,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Durango+Kids&section=movies
     genre.sync:
       - Family
+  1043197:
+    label_title: Dust Bunny
+    sort_title: Dust Bunny
+    release_year: '2025'
+    url_poster: https://theposterdb.com/api/assets/677758
+    tpdb_search: https://theposterdb.com/search?term=Dust+Bunny&section=movies
+    genre.sync:
+      - Horror
+      - Thriller
   648878:
     label_title: Eddington
     sort_title: Eddington
