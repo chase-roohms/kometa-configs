@@ -6471,9 +6471,9 @@ metadata:
       - Horror
   340102:
     label_title: The New Mutants
-    sort_title: New Mutants
+    sort_title: X-Men 9
     release_year: '2020'
-    url_poster: https://theposterdb.com/api/assets/518266
+    url_poster: https://theposterdb.com/api/assets/677749
     tpdb_search: https://theposterdb.com/search?term=The+New+Mutants&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -9851,7 +9851,7 @@ metadata:
     label_title: X-Men
     sort_title: X-Men 1
     release_year: '2000'
-    url_poster: https://theposterdb.com/api/assets/518273
+    url_poster: https://theposterdb.com/api/assets/677756
     tpdb_search: https://theposterdb.com/search?term=X-Men&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -9860,7 +9860,7 @@ metadata:
     label_title: X2
     sort_title: X-Men 2
     release_year: '2003'
-    url_poster: https://theposterdb.com/api/assets/518272
+    url_poster: https://theposterdb.com/api/assets/677755
     tpdb_search: https://theposterdb.com/search?term=X2&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -9869,7 +9869,7 @@ metadata:
     label_title: 'X-Men: The Last Stand'
     sort_title: X-Men 3
     release_year: '2006'
-    url_poster: https://theposterdb.com/api/assets/518271
+    url_poster: https://theposterdb.com/api/assets/677754
     tpdb_search: https://theposterdb.com/search?term=X-Men:+The+Last+Stand&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -9887,7 +9887,7 @@ metadata:
     label_title: 'X-Men: First Class'
     sort_title: X-Men 5
     release_year: '2011'
-    url_poster: https://theposterdb.com/api/assets/518270
+    url_poster: https://theposterdb.com/api/assets/677753
     tpdb_search: https://theposterdb.com/search?term=X-Men:+First+Class&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -9896,7 +9896,7 @@ metadata:
     label_title: 'X-Men: Days of Future Past'
     sort_title: X-Men 6
     release_year: '2014'
-    url_poster: https://theposterdb.com/api/assets/518269
+    url_poster: https://theposterdb.com/api/assets/677752
     tpdb_search: https://theposterdb.com/search?term=X-Men:+Days+of+Future+Past&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -9905,7 +9905,7 @@ metadata:
     label_title: 'X-Men: Apocalypse'
     sort_title: X-Men 7
     release_year: '2016'
-    url_poster: https://theposterdb.com/api/assets/518268
+    url_poster: https://theposterdb.com/api/assets/677751
     tpdb_search: https://theposterdb.com/search?term=X-Men:+Apocalypse&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -9914,7 +9914,7 @@ metadata:
     label_title: Dark Phoenix
     sort_title: X-Men 8
     release_year: '2019'
-    url_poster: https://theposterdb.com/api/assets/518267
+    url_poster: https://theposterdb.com/api/assets/677750
     tpdb_search: https://theposterdb.com/search?term=Dark+Phoenix&section=movies
     studio: Marvel Studios
     genre.sync:
