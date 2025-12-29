@@ -7272,14 +7272,13 @@ metadata:
       - Thriller
   1242898:
     label_title: 'Predator: Badlands'
-    sort_title: 'Predator: Badlands'
+    sort_title: Predator 7
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/671885
     tpdb_search: https://theposterdb.com/search?term=Predator:+Badlands&section=movies
     genre.sync:
-      - Action
-      - Adventure
       - Science Fiction
+      - Thriller
   49526:
     label_title: Premium Rush
     sort_title: Premium Rush
