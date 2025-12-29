@@ -2729,11 +2729,10 @@ metadata:
     label_title: Enter the Void
     sort_title: Enter the Void
     release_year: '2010'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/133202
     tpdb_search: https://theposterdb.com/search?term=Enter+the+Void&section=movies
     genre.sync:
       - Drama
-      - Fantasy
   156022:
     label_title: The Equalizer
     sort_title: Equalizer 1
