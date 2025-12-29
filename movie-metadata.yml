@@ -2330,8 +2330,8 @@ metadata:
     genre.sync:
       - Horror
   635302:
-    label_title: 'Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train'
-    sort_title: Demon Slayer -Kimetsu no Yaiba- The Movie Mugen Train
+    label_title: 'Demon Slayer: Kimetsu no Yaiba Mugen Train'
+    sort_title: Demon Slayer 2
     release_year: '2020'
     url_poster: https://theposterdb.com/api/assets/418263
     tpdb_search: https://theposterdb.com/search?term=Demon+Slayer+-Kimetsu+no+Yaiba-+The+Movie:+Mugen+Train&section=movies
@@ -2340,14 +2340,12 @@ metadata:
       - Anime
   1311031:
     label_title: 'Demon Slayer: Kimetsu no Yaiba Infinity Castle'
-    sort_title: 'Demon Slayer: Kimetsu no Yaiba Infinity Castle'
+    sort_title: Demon Slayer 9
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/677168
     tpdb_search: https://theposterdb.com/search?term=Demon+Slayer:+Kimetsu+no+Yaiba+Infinity+Castle&section=movies
     genre.sync:
-      - Action
-      - Animation
-      - Fantasy
+      - Anime
   20352:
     label_title: Despicable Me
     sort_title: Despicable Me 1
