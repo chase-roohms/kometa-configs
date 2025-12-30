@@ -4853,9 +4853,9 @@ metadata:
       - Family
   810693:
     label_title: Jujutsu Kaisen 0
-    sort_title: Jujutsu Kaisen 0
+    sort_title: Jujutsu Kaisen 1
     release_year: '2021'
-    url_poster: https://theposterdb.com/api/assets/344216
+    url_poster: https://theposterdb.com/api/assets/677977
     tpdb_search: https://theposterdb.com/search?term=Jujutsu+Kaisen+0&section=movies
     studio: MAPPA
     genre.sync:
@@ -4864,14 +4864,14 @@ metadata:
     label_title: 'JUJUTSU KAISEN: Hidden Inventory / Premature Death - The Movie'
     sort_title: JUJUTSU KAISEN 2
     release_year: '2025'
-    url_poster: https://theposterdb.com/api/assets/677863
+    url_poster: https://theposterdb.com/api/assets/677976
     tpdb_search: https://theposterdb.com/search?term=JUJUTSU+KAISEN:+Hidden+Inventory+/+Premature+Death+-+The+Movie&section=movies
     studio: MAPPA
     genre.sync:
       - Anime
   1539104:
     label_title: 'JUJUTSU KAISEN: Execution -Shibuya Incident x The Culling Game Begins-'
-    sort_title: 'JUJUTSU KAISEN: Execution -Shibuya Incident x The Culling Game Begins-'
+    sort_title: JUJUTSU KAISEN 3
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/677975
     tpdb_search: https://theposterdb.com/search?term=JUJUTSU+KAISEN:+Execution+-Shibuya+Incident+x+The+Culling+Game+Begins-&section=movies
