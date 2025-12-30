@@ -4869,6 +4869,15 @@ metadata:
     studio: MAPPA
     genre.sync:
       - Anime
+  1539104:
+    label_title: 'JUJUTSU KAISEN: Execution -Shibuya Incident x The Culling Game Begins-'
+    sort_title: 'JUJUTSU KAISEN: Execution -Shibuya Incident x The Culling Game Begins-'
+    release_year: '2025'
+    url_poster: https://theposterdb.com/api/assets/677975
+    tpdb_search: https://theposterdb.com/search?term=JUJUTSU+KAISEN:+Execution+-Shibuya+Incident+x+The+Culling+Game+Begins-&section=movies
+    studio: MAPPA
+    genre.sync:
+      - Anime
   8844:
     label_title: Jumanji
     sort_title: Jumanji 1
