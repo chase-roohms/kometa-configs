@@ -4860,6 +4860,16 @@ metadata:
     studio: MAPPA
     genre.sync:
       - Anime
+  1338799:
+    label_title: 'JUJUTSU KAISEN: Hidden Inventory / Premature Death - The Movie'
+    sort_title: 'JUJUTSU KAISEN: Hidden Inventory / Premature Death - The Movie'
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=JUJUTSU+KAISEN:+Hidden+Inventory+/+Premature+Death+-+The+Movie&section=movies
+    genre.sync:
+      - Action
+      - Animation
+      - Fantasy
   8844:
     label_title: Jumanji
     sort_title: Jumanji 1
