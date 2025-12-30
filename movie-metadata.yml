@@ -9711,7 +9711,7 @@ metadata:
     label_title: Wicked
     sort_title: Wicked 1
     release_year: '2024'
-    url_poster: https://theposterdb.com/api/assets/556430
+    url_poster: https://theposterdb.com/api/assets/677912
     tpdb_search: https://theposterdb.com/search?term=Wicked&section=movies
     genre.sync:
       - Family
@@ -9719,7 +9719,7 @@ metadata:
     label_title: 'Wicked: For Good'
     sort_title: Wicked 2
     release_year: '2025'
-    url_poster: https://theposterdb.com/api/assets/650045
+    url_poster: https://theposterdb.com/api/assets/677911
     tpdb_search: https://theposterdb.com/search?term=Wicked:+For+Good&section=movies
     genre.sync:
       - Family
