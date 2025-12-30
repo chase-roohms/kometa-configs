@@ -6813,14 +6813,10 @@ metadata:
     label_title: Panji Tengkorak
     sort_title: Panji Tengkorak
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/678072
     tpdb_search: https://theposterdb.com/search?term=Panji+Tengkorak&section=movies
     genre.sync:
-      - Action
-      - Adventure
       - Animation
-      - Fantasy
-      - Thriller
   23827:
     label_title: Paranormal Activity
     sort_title: Paranormal Activity 1
