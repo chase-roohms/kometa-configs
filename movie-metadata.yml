@@ -1110,7 +1110,7 @@ metadata:
     label_title: Blade
     sort_title: Blade 1
     release_year: '1998'
-    url_poster: https://theposterdb.com/api/assets/518558
+    url_poster: https://theposterdb.com/api/assets/678120
     tpdb_search: https://theposterdb.com/search?term=Blade&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -1119,7 +1119,7 @@ metadata:
     label_title: Blade II
     sort_title: Blade 2
     release_year: '2002'
-    url_poster: https://theposterdb.com/api/assets/518557
+    url_poster: https://theposterdb.com/api/assets/678119
     tpdb_search: https://theposterdb.com/search?term=Blade+II&section=movies
     studio: Marvel Studios
     genre.sync:
@@ -1128,7 +1128,7 @@ metadata:
     label_title: 'Blade: Trinity'
     sort_title: Blade 3
     release_year: '2004'
-    url_poster: https://theposterdb.com/api/assets/518556
+    url_poster: https://theposterdb.com/api/assets/678118
     tpdb_search: https://theposterdb.com/search?term=Blade:+Trinity&section=movies
     studio: Marvel Studios
     genre.sync:
