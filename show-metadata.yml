@@ -5239,24 +5239,22 @@ metadata:
     label_title: The Wire
     sort_title: Wire
     release_year: '2002'
-    url_poster: temp
+    url_poster: https://theposterdb.com/api/assets/284651
     tpdb_search: https://theposterdb.com/search?term=The+Wire&section=shows
     genre.sync:
       - Drama
       - Thriller
     seasons:
-      0:
-        url_poster: ''
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/284652
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/284653
       3:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/284654
       4:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/284655
       5:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/284656
   412432:
     label_title: "X-Men '97"
     sort_title: X-Men 97
