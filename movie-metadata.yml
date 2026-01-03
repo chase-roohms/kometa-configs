@@ -9855,6 +9855,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=A+Working+Man&section=movies
     genre.sync:
       - Action
+  660120:
+    label_title: The Worst Person in the World
+    sort_title: Worst Person in the World
+    release_year: '2021'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Worst+Person+in+the+World&section=movies
+    genre.sync:
+      - Comedy
+      - Drama
+      - Romance
   82690:
     label_title: Wreck-It Ralph
     sort_title: Wreck-It Ralph 1
