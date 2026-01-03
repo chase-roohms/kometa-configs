@@ -4010,6 +4010,21 @@ metadata:
             url_poster: https://api.mediux.pro/assets/47bf44d1-8b0e-44b4-b1ff-eba6175bf4d4
           15:
             url_poster: https://api.mediux.pro/assets/3dd09c3d-e974-422c-9c96-06c458777009
+  437266:
+    label_title: Sentenced to Be a Hero
+    sort_title: Sentenced to Be a Hero
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Sentenced+to+Be+a+Hero&section=shows
+    genre.sync:
+      - Action
+      - Adventure
+      - Animation
+      - Anime
+      - Fantasy
+    seasons:
+      1:
+        url_poster: ''
   371980:
     label_title: Severance
     sort_title: Severance
