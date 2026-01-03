@@ -4014,17 +4014,16 @@ metadata:
     label_title: Sentenced to Be a Hero
     sort_title: Sentenced to Be a Hero
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/676942
     tpdb_search: https://theposterdb.com/search?term=Sentenced+to+Be+a+Hero&section=shows
+    audio_language: ja-JP
     genre.sync:
-      - Action
-      - Adventure
-      - Animation
       - Anime
-      - Fantasy
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/676943
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/676944
   371980:
     label_title: Severance
     sort_title: Severance
