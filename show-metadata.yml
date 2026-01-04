@@ -2986,6 +2986,21 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/149886
+  367226:
+    label_title: Midnight Mass
+    sort_title: Midnight Mass
+    release_year: '2021'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Midnight+Mass&section=shows
+    genre.sync:
+      - Drama
+      - Fantasy
+      - Horror
+      - Mini-Series
+      - Mystery
+    seasons:
+      1:
+        url_poster: ''
   422598:
     label_title: 'Monarch: Legacy of Monsters'
     sort_title: Monarch - Legacy of Monsters
