@@ -348,9 +348,7 @@ metadata:
     url_poster: ''
     tpdb_search: https://theposterdb.com/search?term=Are+You+The+One?&section=shows
     genre.sync:
-      - Game Show
       - Reality
-      - Romance
     seasons:
       1:
         url_poster: ''
