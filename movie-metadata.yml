@@ -4322,6 +4322,16 @@ metadata:
     studio: Lionsgate
     genre.sync:
       - Action
+  1387382:
+    label_title: Hunting Season
+    sort_title: Hunting Season
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Hunting+Season&section=movies
+    genre.sync:
+      - Action
+      - Drama
+      - Thriller
   3597:
     label_title: I Know What You Did Last Summer
     sort_title: I Know What You Did Last Summer 1
