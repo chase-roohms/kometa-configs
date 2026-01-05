@@ -4326,7 +4326,7 @@ metadata:
     label_title: Hunting Season
     sort_title: Hunting Season
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/672995
     tpdb_search: https://theposterdb.com/search?term=Hunting+Season&section=movies
     genre.sync:
       - Action
