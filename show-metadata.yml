@@ -2230,6 +2230,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/344219
       2:
         url_poster: https://theposterdb.com/api/assets/344220
+      3:
+        url_poster: ''
   432093:
     label_title: Jury Duty
     sort_title: Jury Duty
