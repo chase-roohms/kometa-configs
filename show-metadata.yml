@@ -345,17 +345,27 @@ metadata:
     label_title: Are You The One?
     sort_title: Are You The One?
     release_year: '2014'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/680581
     tpdb_search: https://theposterdb.com/search?term=Are+You+The+One?&section=shows
     genre.sync:
       - Reality
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/680582
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/680583
+      3:
+        url_poster: https://theposterdb.com/api/assets/680584
+      4:
+        url_poster: https://theposterdb.com/api/assets/680585
+      5:
+        url_poster: https://theposterdb.com/api/assets/680586
+      6:
+        url_poster: https://theposterdb.com/api/assets/680587
+      7:
+        url_poster: https://theposterdb.com/api/assets/680588
       8:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/680589
   393221:
     label_title: 'ARK: The Animated Series'
     sort_title: ARK - The Animated Series
