@@ -3562,6 +3562,8 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/583994
+      2:
+        url_poster: ''
   436457:
     label_title: Pluribus
     sort_title: Pluribus
