@@ -6225,6 +6225,17 @@ metadata:
     studio: Paramount Pictures
     genre.sync:
       - Action
+  1632:
+    label_title: Mississippi Burning
+    sort_title: Mississippi Burning
+    release_year: '1988'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Mississippi+Burning&section=movies
+    genre.sync:
+      - Crime
+      - Drama
+      - Mystery
+      - Thriller
   501929:
     label_title: The Mitchells vs. the Machines
     sort_title: Mitchells vs. the Machines
