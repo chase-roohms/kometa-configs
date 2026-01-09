@@ -1133,14 +1133,13 @@ metadata:
     label_title: 'DARK MOON: THE BLOOD ALTAR'
     sort_title: 'DARK MOON: THE BLOOD ALTAR'
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/677620
     tpdb_search: https://theposterdb.com/search?term=DARK+MOON:+THE+BLOOD+ALTAR&section=shows
     genre.sync:
-      - Animation
       - Anime
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/677621
   418123:
     label_title: DEAD DEAD DEMONS DEDEDEDE DESTRUCTION
     sort_title: DEAD DEAD DEMONS DEDEDEDE DESTRUCTION
