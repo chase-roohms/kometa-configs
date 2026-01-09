@@ -6229,12 +6229,10 @@ metadata:
     label_title: Mississippi Burning
     sort_title: Mississippi Burning
     release_year: '1988'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/542809
     tpdb_search: https://theposterdb.com/search?term=Mississippi+Burning&section=movies
     genre.sync:
-      - Crime
       - Drama
-      - Mystery
       - Thriller
   501929:
     label_title: The Mitchells vs. the Machines
@@ -7830,7 +7828,7 @@ metadata:
     label_title: Sentimental Value
     sort_title: Sentimental Value
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/675353
     tpdb_search: https://theposterdb.com/search?term=Sentimental+Value&section=movies
     genre.sync:
       - Drama
