@@ -3555,15 +3555,15 @@ metadata:
     label_title: The Pitt
     sort_title: Pitt
     release_year: '2025'
-    url_poster: https://theposterdb.com/api/assets/583993
+    url_poster: https://theposterdb.com/api/assets/557347
     tpdb_search: https://theposterdb.com/search?term=The+Pitt&section=shows
     genre.sync:
       - Drama
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/583994
+        url_poster: https://theposterdb.com/api/assets/557348
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/679461
   436457:
     label_title: Pluribus
     sort_title: Pluribus
