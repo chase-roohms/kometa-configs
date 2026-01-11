@@ -9099,7 +9099,7 @@ metadata:
     label_title: Train Dreams
     sort_title: Train Dreams
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/665516
     tpdb_search: https://theposterdb.com/search?term=Train+Dreams&section=movies
     genre.sync:
       - Drama
