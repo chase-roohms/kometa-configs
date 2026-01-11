@@ -6982,12 +6982,11 @@ metadata:
     label_title: People We Meet on Vacation
     sort_title: People We Meet on Vacation
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/681529
     tpdb_search: https://theposterdb.com/search?term=People+We+Meet+on+Vacation&section=movies
     genre.sync:
       - Comedy
       - Drama
-      - Romance
   32657:
     label_title: 'Percy Jackson & the Olympians: The Lightning Thief'
     sort_title: Percy Jackson 1
