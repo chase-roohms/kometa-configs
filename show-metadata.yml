@@ -1759,19 +1759,19 @@ metadata:
       - Horror
     seasons:
       0:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/63069
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/63070
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/63071
       3:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/63072
       4:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/63073
       5:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/63074
       6:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/63075
   80534:
     label_title: Happy Tree Friends
     sort_title: Happy Tree Friends
