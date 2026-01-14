@@ -7521,6 +7521,15 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
+  1208348:
+    label_title: Rental Family
+    sort_title: Rental Family
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Rental+Family&section=movies
+    genre.sync:
+      - Comedy
+      - Drama
   641:
     label_title: Requiem for a Dream
     sort_title: Requiem for a Dream
