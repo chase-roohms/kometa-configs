@@ -7525,7 +7525,7 @@ metadata:
     label_title: Rental Family
     sort_title: Rental Family
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/654869
     tpdb_search: https://theposterdb.com/search?term=Rental+Family&section=movies
     genre.sync:
       - Comedy
@@ -8241,12 +8241,10 @@ metadata:
     label_title: Song Sung Blue
     sort_title: Song Sung Blue
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/682574
     tpdb_search: https://theposterdb.com/search?term=Song+Sung+Blue&section=movies
     genre.sync:
       - Drama
-      - Music
-      - Romance
   454626:
     label_title: Sonic the Hedgehog
     sort_title: Sonic the Hedgehog 1
