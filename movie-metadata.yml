@@ -6614,6 +6614,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Nosferatu&section=movies
     genre.sync:
       - Horror
+  339849:
+    label_title: Not Without Hope
+    sort_title: Not Without Hope
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Not+Without+Hope&section=movies
+    genre.sync:
+      - Drama
+      - Thriller
   1195506:
     label_title: Novocaine
     sort_title: Novocaine
