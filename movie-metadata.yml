@@ -7600,6 +7600,16 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
+  1306368:
+    label_title: The Rip
+    sort_title: Rip
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Rip&section=movies
+    genre.sync:
+      - Action
+      - Crime
+      - Thriller
   81188:
     label_title: Rise of the Guardians
     sort_title: Rise of The Guardians
