@@ -6618,7 +6618,7 @@ metadata:
     label_title: Not Without Hope
     sort_title: Not Without Hope
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/680089
     tpdb_search: https://theposterdb.com/search?term=Not+Without+Hope&section=movies
     genre.sync:
       - Drama
