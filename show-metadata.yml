@@ -1922,6 +1922,20 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/41895
       4:
         url_poster: https://theposterdb.com/api/assets/41896
+  452521:
+    label_title: His & Hers (2026)
+    sort_title: His & Hers (2026)
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=His+%26+Hers+(2026)&section=shows
+    genre.sync:
+      - Drama
+      - Mini-Series
+      - Mystery
+      - Thriller
+    seasons:
+      1:
+        url_poster: ''
   361835:
     label_title: "Marvel's Hit-Monkey"
     sort_title: Hit-Monkey
