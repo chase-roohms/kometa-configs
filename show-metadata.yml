@@ -2290,9 +2290,9 @@ metadata:
       - Horror
     seasons:
       0:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/312214
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/312215
   432093:
     label_title: Jury Duty
     sort_title: Jury Duty
