@@ -2279,6 +2279,20 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/344220
       3:
         url_poster: https://theposterdb.com/api/assets/678678
+  335237:
+    label_title: Junji Ito Collection
+    sort_title: Junji Ito Collection
+    release_year: '2018'
+    url_poster: https://theposterdb.com/api/assets/312213
+    tpdb_search: https://theposterdb.com/search?term=Junji+Ito+Collection&section=shows
+    genre.sync:
+      - Anime
+      - Horror
+    seasons:
+      0:
+        url_poster: ''
+      1:
+        url_poster: ''
   432093:
     label_title: Jury Duty
     sort_title: Jury Duty
