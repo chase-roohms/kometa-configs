@@ -7409,10 +7409,9 @@ metadata:
     label_title: Promising Young Woman
     sort_title: Promising Young Woman
     release_year: '2020'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/239792
     tpdb_search: https://theposterdb.com/search?term=Promising+Young+Woman&section=movies
     genre.sync:
-      - Crime
       - Drama
       - Thriller
   680:
