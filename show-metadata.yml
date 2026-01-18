@@ -2293,6 +2293,18 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/312214
       1:
         url_poster: https://theposterdb.com/api/assets/312215
+  421061:
+    label_title: 'Junji Ito Maniac: Japanese Tales of the Macabre'
+    sort_title: 'Junji Ito Maniac: Japanese Tales of the Macabre'
+    release_year: '2023'
+    url_poster: https://theposterdb.com/api/assets/312216
+    tpdb_search: https://theposterdb.com/search?term=Junji+Ito+Maniac:+Japanese+Tales+of+the+Macabre&section=shows
+    genre.sync:
+      - Anime
+      - Horror
+    seasons:
+      1:
+        url_poster: ''
   432093:
     label_title: Jury Duty
     sort_title: Jury Duty
