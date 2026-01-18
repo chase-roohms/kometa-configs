@@ -7405,6 +7405,16 @@ metadata:
     studio: Studio Ghibli
     genre.sync:
       - Anime
+  582014:
+    label_title: Promising Young Woman
+    sort_title: Promising Young Woman
+    release_year: '2020'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Promising+Young+Woman&section=movies
+    genre.sync:
+      - Crime
+      - Drama
+      - Thriller
   680:
     label_title: Pulp Fiction
     sort_title: Pulp Fiction
