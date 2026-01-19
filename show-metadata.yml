@@ -2374,6 +2374,20 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/630697
+  433631:
+    label_title: A Knight of the Seven Kingdoms
+    sort_title: Knight of the Seven Kingdoms
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=A+Knight+of+the+Seven+Kingdoms&section=shows
+    genre.sync:
+      - Action
+      - Adventure
+      - Drama
+      - Fantasy
+    seasons:
+      1:
+        url_poster: ''
   397424:
     label_title: Landman
     sort_title: Landman
