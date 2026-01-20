@@ -1906,23 +1906,18 @@ metadata:
     label_title: Hemlock Grove
     sort_title: Hemlock Grove
     release_year: '2013'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/160024
     tpdb_search: https://theposterdb.com/search?term=Hemlock+Grove&section=shows
     genre.sync:
-      - Drama
       - Fantasy
       - Horror
-      - Mystery
-      - Science Fiction
-      - Suspense
-      - Thriller
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/557150
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/557151
       3:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/557152
   79501:
     label_title: Heroes
     sort_title: Heroes
