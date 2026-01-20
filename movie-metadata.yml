@@ -169,6 +169,17 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Accountant²&section=movies
     genre.sync:
       - Action
+  1083420:
+    label_title: Adulthood
+    sort_title: Adulthood
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Adulthood&section=movies
+    genre.sync:
+      - Comedy
+      - Crime
+      - Drama
+      - Mystery
   14199:
     label_title: The Adventures of Sharkboy and Lavagirl
     sort_title: Adventures of Sharkboy and Lavagirl
