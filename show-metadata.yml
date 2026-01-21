@@ -3619,15 +3619,14 @@ metadata:
     label_title: 'The Pendragon Cycle: Rise of the Merlin'
     sort_title: 'Pendragon Cycle: Rise of the Merlin'
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/681543v
     tpdb_search: https://theposterdb.com/search?term=The+Pendragon+Cycle:+Rise+of+the+Merlin&section=shows
     genre.sync:
       - Action
-      - Adventure
-      - Mini-Series
+      - Fantasy
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/681544
   417648:
     label_title: The Penguin
     sort_title: Penguin
