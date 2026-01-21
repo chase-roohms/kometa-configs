@@ -1485,6 +1485,8 @@ metadata:
       - Romance
       - Science Fiction
     seasons:
+      3:
+        url_poster: ''
       4:
         url_poster: ''
   314614:
