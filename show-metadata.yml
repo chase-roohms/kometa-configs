@@ -1474,23 +1474,13 @@ metadata:
     label_title: FLCL
     sort_title: FLCL
     release_year: '2000'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/407628
     tpdb_search: https://theposterdb.com/search?term=FLCL&section=shows
     genre.sync:
-      - Action
       - Anime
-      - Comedy
-      - Drama
-      - Mini-Series
-      - Romance
-      - Science Fiction
     seasons:
       1:
-        url_poster: ''
-      3:
-        url_poster: ''
-      4:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/407629
   314614:
     label_title: Fleabag
     sort_title: Fleabag
