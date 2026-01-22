@@ -489,15 +489,14 @@ metadata:
     label_title: The Beauty
     sort_title: Beauty
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/683484
     tpdb_search: https://theposterdb.com/search?term=The+Beauty&section=shows
     genre.sync:
       - Horror
-      - Mystery
       - Science Fiction
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/683485
   399838:
     label_title: BEEF
     sort_title: BEEF
