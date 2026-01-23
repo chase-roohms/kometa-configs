@@ -1258,12 +1258,11 @@ metadata:
     label_title: Bones and All
     sort_title: Bones and All
     release_year: '2022'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/289174
     tpdb_search: https://theposterdb.com/search?term=Bones+and+All&section=movies
     genre.sync:
       - Drama
       - Horror
-      - Romance
   295693:
     label_title: The Boss Baby
     sort_title: Boss Baby 1
