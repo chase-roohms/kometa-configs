@@ -4391,6 +4391,15 @@ metadata:
     genre.sync:
       - Horror
       - Thriller
+  1317149:
+    label_title: I Swear
+    sort_title: I Swear
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=I+Swear&section=movies
+    genre.sync:
+      - Drama
+      - History
   504253:
     label_title: I Want to Eat Your Pancreas
     sort_title: I Want to Eat Your Pancreas
