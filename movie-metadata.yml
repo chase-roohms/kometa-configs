@@ -8721,6 +8721,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Sting&section=movies
     genre.sync:
       - Drama
+  1287814:
+    label_title: Stone Cold Fox
+    sort_title: Stone Cold Fox
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Stone+Cold+Fox&section=movies
+    genre.sync:
+      - Action
+      - Crime
+      - Thriller
   877269:
     label_title: Strange World
     sort_title: Strange World
