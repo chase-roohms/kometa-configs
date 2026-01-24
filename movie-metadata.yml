@@ -8725,11 +8725,10 @@ metadata:
     label_title: Stone Cold Fox
     sort_title: Stone Cold Fox
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/659705
     tpdb_search: https://theposterdb.com/search?term=Stone+Cold+Fox&section=movies
     genre.sync:
       - Action
-      - Crime
       - Thriller
   877269:
     label_title: Strange World
