@@ -2196,7 +2196,7 @@ metadata:
     label_title: Crash
     sort_title: Crash
     release_year: '2005'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/110838
     tpdb_search: https://theposterdb.com/search?term=Crash&section=movies
     genre.sync:
       - Drama
