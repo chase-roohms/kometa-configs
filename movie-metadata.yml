@@ -2192,6 +2192,14 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Cosmic+Princess+Kaguya!&section=movies
     genre.sync:
       - Anime
+  1640:
+    label_title: Crash
+    sort_title: Crash
+    release_year: '2005'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Crash&section=movies
+    genre.sync:
+      - Drama
   8963:
     label_title: Crimson Tide
     sort_title: Crimson Tide
