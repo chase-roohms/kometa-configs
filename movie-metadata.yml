@@ -9708,6 +9708,14 @@ metadata:
     studio: Sony Pictures Animation
     genre.sync:
       - Animation
+  645710:
+    label_title: The Voyeurs
+    sort_title: Voyeurs
+    release_year: '2021'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Voyeurs&section=movies
+    genre.sync:
+      - Thriller
   10681:
     label_title: WALL·E
     sort_title: WALL.E
