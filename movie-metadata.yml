@@ -9108,6 +9108,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Tombstone&section=movies
     genre.sync:
       - Action
+  588228:
+    label_title: The Tomorrow War
+    sort_title: Tomorrow War
+    release_year: '2021'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Tomorrow+War&section=movies
+    genre.sync:
+      - Action
+      - Adventure
+      - Science Fiction
   158852:
     label_title: Tomorrowland
     sort_title: Tomorrowland
