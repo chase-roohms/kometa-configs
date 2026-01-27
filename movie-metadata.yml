@@ -9112,11 +9112,10 @@ metadata:
     label_title: The Tomorrow War
     sort_title: Tomorrow War
     release_year: '2021'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/160864
     tpdb_search: https://theposterdb.com/search?term=The+Tomorrow+War&section=movies
     genre.sync:
       - Action
-      - Adventure
       - Science Fiction
   158852:
     label_title: Tomorrowland
@@ -9712,7 +9711,7 @@ metadata:
     label_title: The Voyeurs
     sort_title: Voyeurs
     release_year: '2021'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/381663
     tpdb_search: https://theposterdb.com/search?term=The+Voyeurs&section=movies
     genre.sync:
       - Thriller
