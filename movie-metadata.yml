@@ -8208,6 +8208,14 @@ metadata:
     studio: Disney
     genre.sync:
       - Family
+  1599090:
+    label_title: Skyscraper Live
+    sort_title: Skyscraper Live
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Skyscraper+Live&section=movies
+    genre.sync:
+      - Adventure
   10882:
     label_title: Sleeping Beauty
     sort_title: Sleeping Beauty
