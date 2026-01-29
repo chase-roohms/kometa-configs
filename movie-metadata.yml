@@ -6366,6 +6366,14 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
+  1481608:
+    label_title: Mother of Flies
+    sort_title: Mother of Flies
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Mother+of+Flies&section=movies
+    genre.sync:
+      - Horror
   787:
     label_title: Mr. & Mrs. Smith
     sort_title: Mr. & Mrs. Smith
