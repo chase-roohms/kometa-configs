@@ -5488,13 +5488,15 @@ metadata:
     label_title: Wonder Man
     sort_title: Wonder Man
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/685954
     tpdb_search: https://theposterdb.com/search?term=Wonder+Man&section=shows
     genre.sync:
-      - Action
+      - Superhero
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/685955
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/685956
   412432:
     label_title: "X-Men '97"
     sort_title: X-Men 97
