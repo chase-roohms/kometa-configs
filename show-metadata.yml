@@ -4284,18 +4284,18 @@ metadata:
     label_title: Shrinking
     sort_title: Shrinking
     release_year: '2023'
-    url_poster: https://theposterdb.com/api/assets/311934
+    url_poster: https://theposterdb.com/api/assets/680617
     tpdb_search: https://theposterdb.com/search?term=Shrinking&section=shows
     genre.sync:
       - Comedy
       - Drama
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/311935
+        url_poster: https://theposterdb.com/api/assets/680618
       2:
-        url_poster: https://theposterdb.com/api/assets/528569
+        url_poster: https://theposterdb.com/api/assets/680619
       3:
-        url_poster: https://theposterdb.com/api/assets/681471
+        url_poster: https://theposterdb.com/api/assets/680620
   428425:
     label_title: Side Quest
     sort_title: Side Quest
