@@ -4294,6 +4294,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/311935
       2:
         url_poster: https://theposterdb.com/api/assets/528569
+      3:
+        url_poster: ''
   428425:
     label_title: Side Quest
     sort_title: Side Quest
