@@ -10075,13 +10075,11 @@ metadata:
     label_title: The Wrecking Crew
     sort_title: Wrecking Crew
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/685775
     tpdb_search: https://theposterdb.com/search?term=The+Wrecking+Crew&section=movies
     genre.sync:
       - Action
       - Comedy
-      - Crime
-      - Mystery
   760104:
     label_title: X
     sort_title: X
