@@ -7928,6 +7928,14 @@ metadata:
     studio: Studio Ghibli
     genre.sync:
       - Anime
+  1198994:
+    label_title: Send Help
+    sort_title: Send Help
+    release_year: '2026'
+    url_poster: https://theposterdb.com/api/assets/686563
+    tpdb_search: https://theposterdb.com/search?term=Send+Help&section=movies
+    genre.sync:
+      - Horror
   1124566:
     label_title: Sentimental Value
     sort_title: Sentimental Value
