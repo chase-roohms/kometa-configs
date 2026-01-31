@@ -10071,6 +10071,17 @@ metadata:
     studio: Disney
     genre.sync:
       - Animation
+  1168190:
+    label_title: The Wrecking Crew
+    sort_title: Wrecking Crew
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Wrecking+Crew&section=movies
+    genre.sync:
+      - Action
+      - Comedy
+      - Crime
+      - Mystery
   760104:
     label_title: X
     sort_title: X
