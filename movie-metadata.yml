@@ -1991,6 +1991,14 @@ metadata:
     studio: Disney
     genre.sync:
       - Animation
+  1563925:
+    label_title: 'Chris Hemsworth: A Road Trip to Remember'
+    sort_title: 'Chris Hemsworth: A Road Trip to Remember'
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Chris+Hemsworth:+A+Road+Trip+to+Remember&section=movies
+    genre.sync:
+      - Documentary
   17979:
     label_title: A Christmas Carol
     sort_title: Christmas Carol
