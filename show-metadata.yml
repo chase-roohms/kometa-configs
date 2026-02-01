@@ -2506,6 +2506,7 @@ metadata:
     release_year: '2022'
     url_poster: https://theposterdb.com/api/assets/636913
     tpdb_search: https://theposterdb.com/search?term=Limitless+with+Chris+Hemsworth&section=shows
+    studio: National Geographic Studios
     genre.sync:
       - Documentary
     seasons:
