@@ -1997,7 +1997,6 @@ metadata:
     release_year: '2025'
     url_poster: https://theposterdb.com/api/assets/686773
     tpdb_search: https://theposterdb.com/search?term=Chris+Hemsworth:+A+Road+Trip+to+Remember&section=movies
-    studio: National Geographic Studios
     genre.sync:
       - Documentary
   17979:
@@ -7993,7 +7992,6 @@ metadata:
     release_year: '2021'
     url_poster: https://theposterdb.com/api/assets/686774
     tpdb_search: https://theposterdb.com/search?term=Shark+Beach+with+Chris+Hemsworth&section=movies
-    studio: National Geographic Studios
     genre.sync:
       - Documentary
   10555:
