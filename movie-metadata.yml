@@ -1995,7 +1995,7 @@ metadata:
     label_title: 'Chris Hemsworth: A Road Trip to Remember'
     sort_title: 'Chris Hemsworth: A Road Trip to Remember'
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/686773
     tpdb_search: https://theposterdb.com/search?term=Chris+Hemsworth:+A+Road+Trip+to+Remember&section=movies
     genre.sync:
       - Documentary
