@@ -7986,6 +7986,14 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
+  836691:
+    label_title: Shark Beach with Chris Hemsworth
+    sort_title: Shark Beach with Chris Hemsworth
+    release_year: '2021'
+    url_poster: https://theposterdb.com/api/assets/686774
+    tpdb_search: https://theposterdb.com/search?term=Shark+Beach+with+Chris+Hemsworth&section=movies
+    genre.sync:
+      - Documentary
   10555:
     label_title: Shark Tale
     sort_title: Shark Tale
