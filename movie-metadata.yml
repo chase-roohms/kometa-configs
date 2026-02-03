@@ -4221,6 +4221,15 @@ metadata:
     studio: Sony Pictures Animation
     genre.sync:
       - Animation
+  1368166:
+    label_title: The Housemaid
+    sort_title: Housemaid
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Housemaid&section=movies
+    genre.sync:
+      - Mystery
+      - Thriller
   8871:
     label_title: How the Grinch Stole Christmas
     sort_title: How the Grinch Stole Christmas
