@@ -3730,12 +3730,10 @@ metadata:
     label_title: Hamnet
     sort_title: Hamnet
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/686925
     tpdb_search: https://theposterdb.com/search?term=Hamnet&section=movies
     genre.sync:
       - Drama
-      - History
-      - Romance
   9614:
     label_title: Happy Gilmore
     sort_title: Happy Gilmore 1
@@ -4235,10 +4233,9 @@ metadata:
     label_title: The Housemaid
     sort_title: Housemaid
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/686313
     tpdb_search: https://theposterdb.com/search?term=The+Housemaid&section=movies
     genre.sync:
-      - Mystery
       - Thriller
   8871:
     label_title: How the Grinch Stole Christmas
