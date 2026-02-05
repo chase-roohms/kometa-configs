@@ -8339,11 +8339,10 @@ metadata:
     label_title: Snatch
     sort_title: Snatch
     release_year: '2000'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/162498
     tpdb_search: https://theposterdb.com/search?term=Snatch&section=movies
     genre.sync:
       - Comedy
-      - Crime
   15242:
     label_title: Snoopy, Come Home
     sort_title: Snoopy Come Home
