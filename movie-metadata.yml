@@ -7577,6 +7577,15 @@ metadata:
     studio: Pixar
     genre.sync:
       - Animation
+  393519:
+    label_title: Raw
+    sort_title: Raw
+    release_year: '2017'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Raw&section=movies
+    genre.sync:
+      - Drama
+      - Horror
   527774:
     label_title: Raya and the Last Dragon
     sort_title: Raya and the Last Dragon
