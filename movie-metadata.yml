@@ -7581,7 +7581,7 @@ metadata:
     label_title: Raw
     sort_title: Raw
     release_year: '2017'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/62618
     tpdb_search: https://theposterdb.com/search?term=Raw&section=movies
     genre.sync:
       - Drama
