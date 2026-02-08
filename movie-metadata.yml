@@ -3348,6 +3348,14 @@ metadata:
     studio: Disney
     genre.sync:
       - Family
+  1360:
+    label_title: Frida
+    sort_title: Frida
+    release_year: '2002'
+    url_poster: https://theposterdb.com/api/assets/499434
+    tpdb_search: https://theposterdb.com/search?term=Frida&section=movies
+    genre.sync:
+      - Drama
   1239655:
     label_title: Friendship
     sort_title: Friendship
@@ -3724,6 +3732,14 @@ metadata:
     release_year: '2020'
     url_poster: https://theposterdb.com/api/assets/86138
     tpdb_search: https://theposterdb.com/search?term=Hamilton&section=movies
+    genre.sync:
+      - Drama
+  858024:
+    label_title: Hamnet
+    sort_title: Hamnet
+    release_year: '2025'
+    url_poster: https://theposterdb.com/api/assets/686925
+    tpdb_search: https://theposterdb.com/search?term=Hamnet&section=movies
     genre.sync:
       - Drama
   9614:
@@ -4221,6 +4237,14 @@ metadata:
     studio: Sony Pictures Animation
     genre.sync:
       - Animation
+  1368166:
+    label_title: The Housemaid
+    sort_title: Housemaid
+    release_year: '2025'
+    url_poster: https://theposterdb.com/api/assets/686313
+    tpdb_search: https://theposterdb.com/search?term=The+Housemaid&section=movies
+    genre.sync:
+      - Thriller
   8871:
     label_title: How the Grinch Stole Christmas
     sort_title: How the Grinch Stole Christmas
@@ -5836,6 +5860,14 @@ metadata:
     studio: Disney
     genre.sync:
       - Family
+  13411:
+    label_title: "Malibu's Most Wanted"
+    sort_title: "Malibu's Most Wanted"
+    release_year: '2003'
+    url_poster: https://theposterdb.com/api/assets/499456
+    tpdb_search: "https://theposterdb.com/search?term=Malibu's+Most+Wanted&section=movies"
+    genre.sync:
+      - Comedy
   937278:
     label_title: A Man Called Otto
     sort_title: Man Called Otto
@@ -7561,6 +7593,15 @@ metadata:
     studio: Pixar
     genre.sync:
       - Animation
+  393519:
+    label_title: Raw
+    sort_title: Raw
+    release_year: '2017'
+    url_poster: https://theposterdb.com/api/assets/62618
+    tpdb_search: https://theposterdb.com/search?term=Raw&section=movies
+    genre.sync:
+      - Drama
+      - Horror
   527774:
     label_title: Raya and the Last Dragon
     sort_title: Raya and the Last Dragon
@@ -8310,6 +8351,14 @@ metadata:
     studio: Paramount Pictures
     genre.sync:
       - Horror
+  107:
+    label_title: Snatch
+    sort_title: Snatch
+    release_year: '2000'
+    url_poster: https://theposterdb.com/api/assets/162498
+    tpdb_search: https://theposterdb.com/search?term=Snatch&section=movies
+    genre.sync:
+      - Comedy
   15242:
     label_title: Snoopy, Come Home
     sort_title: Snoopy Come Home
@@ -8888,6 +8937,14 @@ metadata:
     release_year: '2018'
     url_poster: https://theposterdb.com/api/assets/220023
     tpdb_search: https://theposterdb.com/search?term=Super+Troopers+2&section=movies
+    genre.sync:
+      - Comedy
+  8363:
+    label_title: Superbad
+    sort_title: Superbad
+    release_year: '2007'
+    url_poster: https://theposterdb.com/api/assets/87264
+    tpdb_search: https://theposterdb.com/search?term=Superbad&section=movies
     genre.sync:
       - Comedy
   1061474:
