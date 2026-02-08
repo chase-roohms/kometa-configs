@@ -3352,11 +3352,10 @@ metadata:
     label_title: Frida
     sort_title: Frida
     release_year: '2002'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/499434
     tpdb_search: https://theposterdb.com/search?term=Frida&section=movies
     genre.sync:
       - Drama
-      - Romance
   1239655:
     label_title: Friendship
     sort_title: Friendship
@@ -5865,11 +5864,10 @@ metadata:
     label_title: "Malibu's Most Wanted"
     sort_title: "Malibu's Most Wanted"
     release_year: '2003'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/499456
     tpdb_search: "https://theposterdb.com/search?term=Malibu's+Most+Wanted&section=movies"
     genre.sync:
       - Comedy
-      - Crime
   937278:
     label_title: A Man Called Otto
     sort_title: Man Called Otto
@@ -8945,7 +8943,7 @@ metadata:
     label_title: Superbad
     sort_title: Superbad
     release_year: '2007'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/87264
     tpdb_search: https://theposterdb.com/search?term=Superbad&section=movies
     genre.sync:
       - Comedy
