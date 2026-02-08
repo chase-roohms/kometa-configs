@@ -8941,6 +8941,14 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Super+Troopers+2&section=movies
     genre.sync:
       - Comedy
+  8363:
+    label_title: Superbad
+    sort_title: Superbad
+    release_year: '2007'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Superbad&section=movies
+    genre.sync:
+      - Comedy
   1061474:
     label_title: Superman
     sort_title: Superman
