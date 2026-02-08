@@ -3348,6 +3348,15 @@ metadata:
     studio: Disney
     genre.sync:
       - Family
+  1360:
+    label_title: Frida
+    sort_title: Frida
+    release_year: '2002'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Frida&section=movies
+    genre.sync:
+      - Drama
+      - Romance
   1239655:
     label_title: Friendship
     sort_title: Friendship
