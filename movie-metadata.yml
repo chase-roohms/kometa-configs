@@ -8973,6 +8973,16 @@ metadata:
     studio: Disney
     genre.sync:
       - Animation
+  4552:
+    label_title: A Tale of Two Sisters
+    sort_title: Tale of Two Sisters
+    release_year: '2003'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=A+Tale+of+Two+Sisters&section=movies
+    genre.sync:
+      - Drama
+      - Horror
+      - Mystery
   1008042:
     label_title: Talk to Me
     sort_title: Talk to Me
