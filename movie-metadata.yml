@@ -7489,7 +7489,7 @@ metadata:
     label_title: Primate
     sort_title: Primate
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/684318
     tpdb_search: https://theposterdb.com/search?term=Primate&section=movies
     genre.sync:
       - Horror
