@@ -7485,6 +7485,15 @@ metadata:
     genre.sync:
       - Science Fiction
       - Thriller
+  1315303:
+    label_title: Primate
+    sort_title: Primate
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Primate&section=movies
+    genre.sync:
+      - Horror
+      - Thriller
   1257009:
     label_title: Primitive War
     sort_title: Primitive War
