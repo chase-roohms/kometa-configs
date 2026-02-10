@@ -5920,6 +5920,14 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Marley+%26+Me&section=movies
     genre.sync:
       - Family
+  1317288:
+    label_title: Marty Supreme
+    sort_title: Marty Supreme
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Marty+Supreme&section=movies
+    genre.sync:
+      - Drama
   76122:
     label_title: 'Marvel One-Shot: The Consultant'
     sort_title: Marvel One-Shot 1
