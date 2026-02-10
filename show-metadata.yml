@@ -2727,6 +2727,17 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/619039
       1:
         url_poster: https://theposterdb.com/api/assets/619040
+  434004:
+    label_title: Lord of the Flies
+    sort_title: Lord of the Flies
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Lord+of+the+Flies&section=shows
+    genre.sync:
+      - Adventure
+    seasons:
+      1:
+        url_poster: ''
   367506:
     label_title: 'The Lord of the Rings: The Rings of Power'
     sort_title: Lord of the Rings - The Rings of Power
