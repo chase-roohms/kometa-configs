@@ -5924,8 +5924,9 @@ metadata:
     label_title: Marty Supreme
     sort_title: Marty Supreme
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/636882
     tpdb_search: https://theposterdb.com/search?term=Marty+Supreme&section=movies
+    studio: A24
     genre.sync:
       - Drama
   76122:
@@ -8985,12 +8986,11 @@ metadata:
     label_title: A Tale of Two Sisters
     sort_title: Tale of Two Sisters
     release_year: '2003'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/508199
     tpdb_search: https://theposterdb.com/search?term=A+Tale+of+Two+Sisters&section=movies
     genre.sync:
       - Drama
       - Horror
-      - Mystery
   1008042:
     label_title: Talk to Me
     sort_title: Talk to Me
