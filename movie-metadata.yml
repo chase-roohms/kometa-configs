@@ -3628,6 +3628,17 @@ metadata:
     tpdb_search: "https://theposterdb.com/search?term=Gracie's+Choice&section=movies"
     genre.sync:
       - Drama
+  840464:
+    label_title: 'Greenland 2: Migration'
+    sort_title: 'Greenland 2: Migration'
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Greenland+2:+Migration&section=movies
+    genre.sync:
+      - Action
+      - Adventure
+      - Science Fiction
+      - Thriller
   516486:
     label_title: Greyhound
     sort_title: Greyhound
