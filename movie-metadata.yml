@@ -9763,6 +9763,15 @@ metadata:
     studio: Pixar
     genre.sync:
       - Animation
+  22947:
+    label_title: Up in the Air
+    sort_title: Up in the Air
+    release_year: '2009'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Up+in+the+Air&section=movies
+    genre.sync:
+      - Drama
+      - Romance
   458723:
     label_title: Us
     sort_title: Us
