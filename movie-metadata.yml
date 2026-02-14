@@ -3632,7 +3632,7 @@ metadata:
     label_title: Greenland
     sort_title: Greenland 1
     release_year: '2020'
-    url_poster: https://theposterdb.com/api/assets/677402
+    url_poster: https://theposterdb.com/api/assets/665633
     tpdb_search: https://theposterdb.com/search?term=Greenland&section=movies
     genre.sync:
       - Action
@@ -3641,7 +3641,7 @@ metadata:
     label_title: 'Greenland 2: Migration'
     sort_title: Greenland 2
     release_year: '2026'
-    url_poster: https://theposterdb.com/api/assets/677401
+    url_poster: https://theposterdb.com/api/assets/665632
     tpdb_search: https://theposterdb.com/search?term=Greenland+2:+Migration&section=movies
     genre.sync:
       - Action
