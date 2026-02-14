@@ -3628,16 +3628,23 @@ metadata:
     tpdb_search: "https://theposterdb.com/search?term=Gracie's+Choice&section=movies"
     genre.sync:
       - Drama
+  524047:
+    label_title: Greenland
+    sort_title: Greenland 1
+    release_year: '2020'
+    url_poster: https://theposterdb.com/api/assets/677402
+    tpdb_search: https://theposterdb.com/search?term=Greenland&section=movies
+    genre.sync:
+      - Action
+      - Thriller
   840464:
     label_title: 'Greenland 2: Migration'
-    sort_title: 'Greenland 2: Migration'
+    sort_title: Greenland 2
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/677401
     tpdb_search: https://theposterdb.com/search?term=Greenland+2:+Migration&section=movies
     genre.sync:
       - Action
-      - Adventure
-      - Science Fiction
       - Thriller
   516486:
     label_title: Greyhound
@@ -9778,11 +9785,10 @@ metadata:
     label_title: Up in the Air
     sort_title: Up in the Air
     release_year: '2009'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/90384
     tpdb_search: https://theposterdb.com/search?term=Up+in+the+Air&section=movies
     genre.sync:
       - Drama
-      - Romance
   458723:
     label_title: Us
     sort_title: Us
