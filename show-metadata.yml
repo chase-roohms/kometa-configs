@@ -3142,16 +3142,14 @@ metadata:
     label_title: Memory of a Killer
     sort_title: Memory of a Killer
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/683482
     tpdb_search: https://theposterdb.com/search?term=Memory+of+a+Killer&section=shows
     genre.sync:
-      - Crime
       - Drama
-      - Suspense
       - Thriller
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/683483
   378553:
     label_title: The Midnight Gospel
     sort_title: Midnight Gospel
