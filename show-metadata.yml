@@ -1152,6 +1152,19 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/677621
+  450282:
+    label_title: The Darwin Incident
+    sort_title: Darwin Incident
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Darwin+Incident&section=shows
+    genre.sync:
+      - Animation
+      - Anime
+      - Science Fiction
+    seasons:
+      1:
+        url_poster: ''
   418123:
     label_title: DEAD DEAD DEMONS DEDEDEDE DESTRUCTION
     sort_title: DEAD DEAD DEMONS DEDEDEDE DESTRUCTION
