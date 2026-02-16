@@ -1158,6 +1158,7 @@ metadata:
     release_year: '2026'
     url_poster: https://theposterdb.com/api/assets/678133
     tpdb_search: https://theposterdb.com/search?term=The+Darwin+Incident&section=shows
+    audio_language: ja-JP
     genre.sync:
       - Anime
     seasons:
