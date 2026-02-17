@@ -6181,12 +6181,11 @@ metadata:
     label_title: Mercy
     sort_title: Mercy
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/686989
     tpdb_search: https://theposterdb.com/search?term=Mercy&section=movies
     genre.sync:
       - Action
       - Science Fiction
-      - Thriller
   1306400:
     label_title: Merrily We Roll Along
     sort_title: Merrily We Roll Along
