@@ -6641,6 +6641,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Never+Let+Go&section=movies
     genre.sync:
       - Horror
+  12572:
+    label_title: New York, I Love You
+    sort_title: New York, I Love You
+    release_year: '2008'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=New+York,+I+Love+You&section=movies
+    genre.sync:
+      - Comedy
+      - Drama
+      - Romance
   1738:
     label_title: Next
     sort_title: Next
