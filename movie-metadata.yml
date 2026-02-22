@@ -2985,12 +2985,10 @@ metadata:
     label_title: Fantastic Mr. Fox
     sort_title: Fantastic Mr. Fox
     release_year: '2009'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/42809
     tpdb_search: https://theposterdb.com/search?term=Fantastic+Mr.+Fox&section=movies
     genre.sync:
-      - Adventure
       - Animation
-      - Comedy
       - Family
   9799:
     label_title: The Fast and the Furious
