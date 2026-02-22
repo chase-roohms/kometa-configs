@@ -3703,13 +3703,10 @@ metadata:
     label_title: "Guillermo del Toro's Pinocchio"
     sort_title: "Guillermo del Toro's Pinocchio"
     release_year: '2022'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/253633
     tpdb_search: "https://theposterdb.com/search?term=Guillermo+del+Toro's+Pinocchio&section=movies"
     genre.sync:
-      - Adventure
       - Animation
-      - Drama
-      - Fantasy
   324786:
     label_title: Hacksaw Ridge
     sort_title: Hacksaw Ridge
@@ -9259,12 +9256,11 @@ metadata:
     label_title: The Thursday Murder Club
     sort_title: Thursday Murder Club
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/638285
     tpdb_search: https://theposterdb.com/search?term=The+Thursday+Murder+Club&section=movies
     genre.sync:
       - Comedy
-      - Crime
-      - Mystery
+      - Drama
   597:
     label_title: Titanic
     sort_title: Titanic
