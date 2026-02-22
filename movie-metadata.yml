@@ -2981,6 +2981,17 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Fantastic+Fungi&section=movies
     genre.sync:
       - Documentary
+  10315:
+    label_title: Fantastic Mr. Fox
+    sort_title: Fantastic Mr. Fox
+    release_year: '2009'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Fantastic+Mr.+Fox&section=movies
+    genre.sync:
+      - Adventure
+      - Animation
+      - Comedy
+      - Family
   9799:
     label_title: The Fast and the Furious
     sort_title: Fast & Furious 1
