@@ -3699,6 +3699,17 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
+  555604:
+    label_title: "Guillermo del Toro's Pinocchio"
+    sort_title: "Guillermo del Toro's Pinocchio"
+    release_year: '2022'
+    url_poster: ''
+    tpdb_search: "https://theposterdb.com/search?term=Guillermo+del+Toro's+Pinocchio&section=movies"
+    genre.sync:
+      - Adventure
+      - Animation
+      - Drama
+      - Fantasy
   324786:
     label_title: Hacksaw Ridge
     sort_title: Hacksaw Ridge
