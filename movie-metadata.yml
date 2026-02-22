@@ -9255,6 +9255,16 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
+  744653:
+    label_title: The Thursday Murder Club
+    sort_title: Thursday Murder Club
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Thursday+Murder+Club&section=movies
+    genre.sync:
+      - Comedy
+      - Crime
+      - Mystery
   597:
     label_title: Titanic
     sort_title: Titanic
