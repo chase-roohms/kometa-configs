@@ -7438,6 +7438,19 @@ metadata:
       - Animation
       - Family
       - Fantasy
+  34067:
+    label_title: 'Pokémon: Lucario and the Mystery of Mew'
+    sort_title: 'Pokemon: Lucario and the Mystery of Mew'
+    release_year: '2005'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Pokémon:+Lucario+and+the+Mystery+of+Mew&section=movies
+    genre.sync:
+      - Action
+      - Adventure
+      - Animation
+      - Family
+      - Fantasy
+      - Science Fiction
   25961:
     label_title: 'Pokémon: The Rise of Darkrai'
     sort_title: 'Pokemon: The Rise of Darkrai'
