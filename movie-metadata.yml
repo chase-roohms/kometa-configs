@@ -7419,51 +7419,34 @@ metadata:
     label_title: Pokémon the Movie 2000
     sort_title: Pokemon the Movie 2000
     release_year: '1999'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/168517
     tpdb_search: https://theposterdb.com/search?term=Pokémon+the+Movie+2000&section=movies
     genre.sync:
-      - Adventure
       - Animation
-      - Family
-      - Fantasy
-      - Science Fiction
   39057:
     label_title: 'Pokémon: Arceus and the Jewel of Life'
     sort_title: 'Pokemon: Arceus and the Jewel of Life'
     release_year: '2009'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/168527
     tpdb_search: https://theposterdb.com/search?term=Pokémon:+Arceus+and+the+Jewel+of+Life&section=movies
     genre.sync:
-      - Adventure
       - Animation
-      - Family
-      - Fantasy
   34067:
     label_title: 'Pokémon: Lucario and the Mystery of Mew'
     sort_title: 'Pokemon: Lucario and the Mystery of Mew'
     release_year: '2005'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/168523
     tpdb_search: https://theposterdb.com/search?term=Pokémon:+Lucario+and+the+Mystery+of+Mew&section=movies
     genre.sync:
-      - Action
-      - Adventure
       - Animation
-      - Family
-      - Fantasy
-      - Science Fiction
   25961:
     label_title: 'Pokémon: The Rise of Darkrai'
     sort_title: 'Pokemon: The Rise of Darkrai'
     release_year: '2007'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/168525
     tpdb_search: https://theposterdb.com/search?term=Pokémon:+The+Rise+of+Darkrai&section=movies
     genre.sync:
-      - Action
-      - Adventure
       - Animation
-      - Family
-      - Fantasy
-      - Science Fiction
   5255:
     label_title: The Polar Express
     sort_title: Polar Express
