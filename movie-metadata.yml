@@ -4579,6 +4579,15 @@ metadata:
     genre.sync:
       - Action
       - Adventure
+  87:
+    label_title: Indiana Jones and the Temple of Doom
+    sort_title: Indiana Jones and the Temple of Doom
+    release_year: '1984'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Indiana+Jones+and+the+Temple+of+Doom&section=movies
+    genre.sync:
+      - Action
+      - Adventure
   667216:
     label_title: Infinity Pool
     sort_title: Infinity Pool
