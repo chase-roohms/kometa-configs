@@ -4588,6 +4588,15 @@ metadata:
     genre.sync:
       - Action
       - Adventure
+  89:
+    label_title: Indiana Jones and the Last Crusade
+    sort_title: Indiana Jones and the Last Crusade
+    release_year: '1989'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Indiana+Jones+and+the+Last+Crusade&section=movies
+    genre.sync:
+      - Action
+      - Adventure
   87:
     label_title: Indiana Jones and the Temple of Doom
     sort_title: Indiana Jones and the Temple of Doom
