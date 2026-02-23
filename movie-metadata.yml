@@ -4579,6 +4579,15 @@ metadata:
     genre.sync:
       - Action
       - Adventure
+  217:
+    label_title: Indiana Jones and the Kingdom of the Crystal Skull
+    sort_title: Indiana Jones and the Kingdom of the Crystal Skull
+    release_year: '2008'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Indiana+Jones+and+the+Kingdom+of+the+Crystal+Skull&section=movies
+    genre.sync:
+      - Action
+      - Adventure
   87:
     label_title: Indiana Jones and the Temple of Doom
     sort_title: Indiana Jones and the Temple of Doom
