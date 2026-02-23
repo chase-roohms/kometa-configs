@@ -7415,38 +7415,239 @@ metadata:
     studio: Disney
     genre.sync:
       - Animation
+  33376:
+    label_title: "Pikachu's Vacation"
+    sort_title: Pikachu 1
+    release_year: '1998'
+    url_poster: https://theposterdb.com/api/assets/470812
+    tpdb_search: https://theposterdb.com/search?term=Pikachu%27s+Vacation&section=movies
+    genre.sync:
+      - Anime
+  10228:
+    label_title: 'Pokémon: First Movie'
+    sort_title: Pokemon 1
+    release_year: '1998'
+    url_poster: https://theposterdb.com/api/assets/168516
+    tpdb_search: https://theposterdb.com/search?term=Pok%C3%A9mon%3A+First+Movie&section=movies
+    genre.sync:
+      - Anime
   12599:
     label_title: Pokémon the Movie 2000
-    sort_title: Pokemon the Movie 2000
+    sort_title: Pokemon 2
     release_year: '1999'
     url_poster: https://theposterdb.com/api/assets/168517
-    tpdb_search: https://theposterdb.com/search?term=Pokémon+the+Movie+2000&section=movies
+    tpdb_search: https://theposterdb.com/search?term=Pok%C3%A9mon+the+Movie+2000&section=movies
     genre.sync:
-      - Animation
-  39057:
-    label_title: 'Pokémon: Arceus and the Jewel of Life'
-    sort_title: 'Pokemon: Arceus and the Jewel of Life'
-    release_year: '2009'
-    url_poster: https://theposterdb.com/api/assets/168527
-    tpdb_search: https://theposterdb.com/search?term=Pokémon:+Arceus+and+the+Jewel+of+Life&section=movies
+      - Anime
+  36753:
+    label_title: Pikachu & Pichu
+    sort_title: Pikachu 2
+    release_year: '2000'
+    url_poster: https://theposterdb.com/api/assets/470813
+    tpdb_search: https://theposterdb.com/search?term=Pikachu+%26+Pichu&section=movies
     genre.sync:
-      - Animation
+      - Anime
+  10991:
+    label_title: 'Pokémon 3: Movie'
+    sort_title: Pokemon 3
+    release_year: '2000'
+    url_poster: https://theposterdb.com/api/assets/168518
+    tpdb_search: https://theposterdb.com/search?term=Pok%C3%A9mon+3%3A+Movie&section=movies
+    genre.sync:
+      - Anime
+  12600:
+    label_title: Pokémon 4Ever
+    sort_title: Pokemon 4
+    release_year: '2001'
+    url_poster: https://theposterdb.com/api/assets/168519
+    tpdb_search: https://theposterdb.com/search?term=Pok%C3%A9mon+4Ever&section=movies
+    genre.sync:
+      - Anime
+  36897:
+    label_title: 'Pokémon: Mewtwo Returns'
+    sort_title: Pokemon 5
+    release_year: '2001'
+    url_poster: https://theposterdb.com/api/assets/168720
+    tpdb_search: https://theposterdb.com/search?term=Pok%C3%A9mon%3A+Mewtwo+Returns&section=movies
+    genre.sync:
+      - Anime
+  33875:
+    label_title: Pokémon Heroes
+    sort_title: Pokemon 6
+    release_year: '2002'
+    url_poster: https://theposterdb.com/api/assets/168520
+    tpdb_search: https://theposterdb.com/search?term=Pok%C3%A9mon+Heroes&section=movies
+    genre.sync:
+      - Anime
+  36218:
+    label_title: 'Pokémon: Jirachi - Wish Maker'
+    sort_title: Pokemon 7
+    release_year: '2003'
+    url_poster: https://theposterdb.com/api/assets/168521
+    tpdb_search: https://theposterdb.com/search?term=Pok%C3%A9mon%3A+Jirachi+-+Wish+Maker&section=movies
+    genre.sync:
+      - Anime
+  34065:
+    label_title: 'Pokémon: Destiny Deoxys'
+    sort_title: Pokemon 8
+    release_year: '2004'
+    url_poster: https://theposterdb.com/api/assets/168522
+    tpdb_search: https://theposterdb.com/search?term=Pok%C3%A9mon%3A+Destiny+Deoxys&section=movies
+    genre.sync:
+      - Anime
   34067:
     label_title: 'Pokémon: Lucario and the Mystery of Mew'
-    sort_title: 'Pokemon: Lucario and the Mystery of Mew'
+    sort_title: Pokemon 9
     release_year: '2005'
     url_poster: https://theposterdb.com/api/assets/168523
-    tpdb_search: https://theposterdb.com/search?term=Pokémon:+Lucario+and+the+Mystery+of+Mew&section=movies
+    tpdb_search: https://theposterdb.com/search?term=Pok%C3%A9mon%3A+Lucario+and+the+Mystery+of+Mew&section=movies
     genre.sync:
-      - Animation
+      - Anime
+  16808:
+    label_title: Pokémon Ranger and the Temple of the Sea
+    sort_title: Pokemon 10
+    release_year: '2006'
+    url_poster: https://theposterdb.com/api/assets/168524
+    tpdb_search: https://theposterdb.com/search?term=Pok%C3%A9mon+Ranger+and+the+Temple+of+the+Sea&section=movies
+    genre.sync:
+      - Anime
+  137773:
+    label_title: 'Pokémon: Mastermind of Mirage Pokémon'
+    sort_title: Pokemon 11
+    release_year: '2006'
+    url_poster: https://theposterdb.com/api/assets/206239
+    tpdb_search: https://theposterdb.com/search?term=Pok%C3%A9mon%3A+Mastermind+of+Mirage+Pok%C3%A9mon&section=movies
+    genre.sync:
+      - Anime
   25961:
-    label_title: 'Pokémon: The Rise of Darkrai'
-    sort_title: 'Pokemon: The Rise of Darkrai'
+    label_title: 'Pokémon: Rise of Darkrai'
+    sort_title: Pokemon 12
     release_year: '2007'
     url_poster: https://theposterdb.com/api/assets/168525
-    tpdb_search: https://theposterdb.com/search?term=Pokémon:+The+Rise+of+Darkrai&section=movies
+    tpdb_search: https://theposterdb.com/search?term=Pok%C3%A9mon%3A+Rise+of+Darkrai&section=movies
     genre.sync:
-      - Animation
+      - Anime
+  47292:
+    label_title: 'Pokémon: Giratina and the Sky Warrior'
+    sort_title: Pokemon 13
+    release_year: '2008'
+    url_poster: https://theposterdb.com/api/assets/168526
+    tpdb_search: https://theposterdb.com/search?term=Pok%C3%A9mon%3A+Giratina+and+the+Sky+Warrior&section=movies
+    genre.sync:
+      - Anime
+  39057:
+    label_title: 'Pokémon: Arceus and the Jewel of Life'
+    sort_title: Pokemon 14
+    release_year: '2009'
+    url_poster: https://theposterdb.com/api/assets/168527
+    tpdb_search: https://theposterdb.com/search?term=Pok%C3%A9mon%3A+Arceus+and+the+Jewel+of+Life&section=movies
+    genre.sync:
+      - Anime
+  50087:
+    label_title: 'Pokémon: Zoroark - Master of Illusions'
+    sort_title: Pokemon 15
+    release_year: '2010'
+    url_poster: https://theposterdb.com/api/assets/168714
+    tpdb_search: https://theposterdb.com/search?term=Pok%C3%A9mon%3A+Zoroark+-+Master+of+Illusions&section=movies
+    genre.sync:
+      - Anime
+  115223:
+    label_title: 'Pokémon the Movie: Black - Victini and Reshiram'
+    sort_title: Pokemon 16
+    release_year: '2011'
+    url_poster: https://theposterdb.com/api/assets/168715
+    tpdb_search: https://theposterdb.com/search?term=Pok%C3%A9mon+the+Movie%3A+Black+-+Victini+and+Reshiram&section=movies
+    genre.sync:
+      - Anime
+  88557:
+    label_title: 'Pokémon the Movie: White - Victini and Zekrom'
+    sort_title: Pokemon 17
+    release_year: '2011'
+    url_poster: https://theposterdb.com/api/assets/168716
+    tpdb_search: https://theposterdb.com/search?term=Pok%C3%A9mon+the+Movie%3A+White+-+Victini+and+Zekrom&section=movies
+    genre.sync:
+      - Anime
+  150213:
+    label_title: 'Pokémon the Movie: Kyurem vs. the Sword of Justice'
+    sort_title: Pokemon 18
+    release_year: '2012'
+    url_poster: https://theposterdb.com/api/assets/168717
+    tpdb_search: https://theposterdb.com/search?term=Pok%C3%A9mon+the+Movie%3A+Kyurem+vs.+the+Sword+of+Justice&section=movies
+    genre.sync:
+      - Anime
+  227679:
+    label_title: 'Pokémon the Movie: Genesect and the Legend Awakened'
+    sort_title: Pokemon 19
+    release_year: '2013'
+    url_poster: https://theposterdb.com/api/assets/168528
+    tpdb_search: https://theposterdb.com/search?term=Pok%C3%A9mon+the+Movie%3A+Genesect+and+the+Legend+Awakened&section=movies
+    genre.sync:
+      - Anime
+  303903:
+    label_title: 'Pokémon the Movie: Diancie and the Cocoon of Destruction'
+    sort_title: Pokemon 20
+    release_year: '2014'
+    url_poster: https://theposterdb.com/api/assets/168718
+    tpdb_search: https://theposterdb.com/search?term=Pok%C3%A9mon+the+Movie%3A+Diancie+and+the+Cocoon+of+Destruction&section=movies
+    genre.sync:
+      - Anime
+  350499:
+    label_title: 'Pokémon the Movie: Hoopa and the Clash of Ages'
+    sort_title: Pokemon 21
+    release_year: '2015'
+    url_poster: https://theposterdb.com/api/assets/168529
+    tpdb_search: https://theposterdb.com/search?term=Pok%C3%A9mon+the+Movie%3A+Hoopa+and+the+Clash+of+Ages&section=movies
+    genre.sync:
+      - Anime
+  382190:
+    label_title: 'Pokémon the Movie: Volcanion and the Mechanical Marvel'
+    sort_title: Pokemon 22
+    release_year: '2016'
+    url_poster: https://theposterdb.com/api/assets/168530
+    tpdb_search: https://theposterdb.com/search?term=Pok%C3%A9mon+the+Movie%3A+Volcanion+and+the+Mechanical+Marvel&section=movies
+    genre.sync:
+      - Anime
+  436931:
+    label_title: 'Pokémon the Movie: I Choose You!'
+    sort_title: Pokemon 23
+    release_year: '2017'
+    url_poster: https://theposterdb.com/api/assets/168531
+    tpdb_search: https://theposterdb.com/search?term=Pok%C3%A9mon+the+Movie%3A+I+Choose+You%21&section=movies
+    genre.sync:
+      - Anime
+  494407:
+    label_title: 'Pokémon the Movie: Power of Us'
+    sort_title: Pokemon 24
+    release_year: '2018'
+    url_poster: https://theposterdb.com/api/assets/168532
+    tpdb_search: https://theposterdb.com/search?term=Pok%C3%A9mon+the+Movie%3A+Power+of+Us&section=movies
+    genre.sync:
+      - Anime
+  447404:
+    label_title: Detective Pikachu
+    sort_title: Pikachu 3
+    release_year: '2019'
+    url_poster: https://theposterdb.com/api/assets/168719
+    tpdb_search: https://theposterdb.com/search?term=Pok%C3%A9mon+Detective+Pikachu&section=movies
+    genre.sync:
+      - Comedy
+      - Family
+  571891:
+    label_title: 'Pokémon the Movie: Mewtwo Strikes Back - Evolution'
+    sort_title: Pokemon 25
+    release_year: '2019'
+    url_poster: https://theposterdb.com/api/assets/168533
+    tpdb_search: https://theposterdb.com/search?term=Pok%C3%A9mon+the+Movie%3A+Mewtwo+Strikes+Back+-+Evolution&section=movies
+    genre.sync:
+      - Anime
+  662708:
+    label_title: 'Pokémon the Movie: Secrets of the Jungle'
+    sort_title: Pokemon 26
+    release_year: '2020'
+    url_poster: https://theposterdb.com/api/assets/168534
+    tpdb_search: https://theposterdb.com/search?term=Pok%C3%A9mon+the+Movie%3A+Secrets+of+the+Jungle&section=movies
+    genre.sync:
+      - Anime
   5255:
     label_title: The Polar Express
     sort_title: Polar Express
