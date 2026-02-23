@@ -420,6 +420,14 @@ shared_collection_files:
       - 1412          # Arroverse, will be taken care of in the universe section
       - 10            # Star Wars (Handled in universe)
       - 85536         # Star Wars (Handled in universe)
+      # Pokemon Collections are all covered in collections/shared.yml
+      - 34055         # Pokémon Collection
+      - 1573696       # Pokémon Mystery Dungeon
+      - 661025        # Pokémon: Advanced Generation
+      - 661026        # Pokémon: Diamond and Pearl
+      - 661028        # Pokémon: Best Wishes!
+      - 661029        # Pokémon: XY Collection
+      - 661031        # Pokémon (Alternate Continuity)
     sort_title_125574: Spider-Man Amazing
     sort_title_531241: Spider-Man MCU
     sort_title_573436: Spider-Man Spider-Verse
