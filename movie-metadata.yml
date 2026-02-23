@@ -4570,6 +4570,15 @@ metadata:
     studio: 20th Century Studios
     genre.sync:
       - Family
+  335977:
+    label_title: Indiana Jones and the Dial of Destiny
+    sort_title: Indiana Jones and the Dial of Destiny
+    release_year: '2023'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Indiana+Jones+and+the+Dial+of+Destiny&section=movies
+    genre.sync:
+      - Action
+      - Adventure
   667216:
     label_title: Infinity Pool
     sort_title: Infinity Pool
@@ -7225,6 +7234,31 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Pez+Outlaw&section=movies
     genre.sync:
       - Documentary
+  33376:
+    label_title: "Pikachu's Vacation"
+    sort_title: Pikachu 1
+    release_year: '1998'
+    url_poster: https://theposterdb.com/api/assets/470812
+    tpdb_search: https://theposterdb.com/search?term=Pikachu%27s+Vacation&section=movies
+    genre.sync:
+      - Anime
+  36753:
+    label_title: Pikachu & Pichu
+    sort_title: Pikachu 2
+    release_year: '2000'
+    url_poster: https://theposterdb.com/api/assets/470813
+    tpdb_search: https://theposterdb.com/search?term=Pikachu+%26+Pichu&section=movies
+    genre.sync:
+      - Anime
+  447404:
+    label_title: Detective Pikachu
+    sort_title: Pikachu 3
+    release_year: '2019'
+    url_poster: https://theposterdb.com/api/assets/168719
+    tpdb_search: https://theposterdb.com/search?term=Pok%C3%A9mon+Detective+Pikachu&section=movies
+    genre.sync:
+      - Comedy
+      - Family
   361822:
     label_title: Pinched
     sort_title: Pinched
@@ -7415,14 +7449,6 @@ metadata:
     studio: Disney
     genre.sync:
       - Animation
-  33376:
-    label_title: "Pikachu's Vacation"
-    sort_title: Pikachu 1
-    release_year: '1998'
-    url_poster: https://theposterdb.com/api/assets/470812
-    tpdb_search: https://theposterdb.com/search?term=Pikachu%27s+Vacation&section=movies
-    genre.sync:
-      - Anime
   10228:
     label_title: 'Pokémon: First Movie'
     sort_title: Pokemon 1
@@ -7437,14 +7463,6 @@ metadata:
     release_year: '1999'
     url_poster: https://theposterdb.com/api/assets/168517
     tpdb_search: https://theposterdb.com/search?term=Pok%C3%A9mon+the+Movie+2000&section=movies
-    genre.sync:
-      - Anime
-  36753:
-    label_title: Pikachu & Pichu
-    sort_title: Pikachu 2
-    release_year: '2000'
-    url_poster: https://theposterdb.com/api/assets/470813
-    tpdb_search: https://theposterdb.com/search?term=Pikachu+%26+Pichu&section=movies
     genre.sync:
       - Anime
   10991:
@@ -7623,15 +7641,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Pok%C3%A9mon+the+Movie%3A+Power+of+Us&section=movies
     genre.sync:
       - Anime
-  447404:
-    label_title: Detective Pikachu
-    sort_title: Pikachu 3
-    release_year: '2019'
-    url_poster: https://theposterdb.com/api/assets/168719
-    tpdb_search: https://theposterdb.com/search?term=Pok%C3%A9mon+Detective+Pikachu&section=movies
-    genre.sync:
-      - Comedy
-      - Family
   571891:
     label_title: 'Pokémon the Movie: Mewtwo Strikes Back - Evolution'
     sort_title: Pokemon 25
