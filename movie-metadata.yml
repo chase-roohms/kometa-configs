@@ -7415,6 +7415,18 @@ metadata:
     studio: Disney
     genre.sync:
       - Animation
+  12599:
+    label_title: Pokémon the Movie 2000
+    sort_title: Pokemon the Movie 2000
+    release_year: '1999'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Pokémon+the+Movie+2000&section=movies
+    genre.sync:
+      - Adventure
+      - Animation
+      - Family
+      - Fantasy
+      - Science Fiction
   5255:
     label_title: The Polar Express
     sort_title: Polar Express
