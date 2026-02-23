@@ -7438,6 +7438,19 @@ metadata:
       - Animation
       - Family
       - Fantasy
+  25961:
+    label_title: 'Pokémon: The Rise of Darkrai'
+    sort_title: 'Pokemon: The Rise of Darkrai'
+    release_year: '2007'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Pokémon:+The+Rise+of+Darkrai&section=movies
+    genre.sync:
+      - Action
+      - Adventure
+      - Animation
+      - Family
+      - Fantasy
+      - Science Fiction
   5255:
     label_title: The Polar Express
     sort_title: Polar Express
