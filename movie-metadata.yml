@@ -8435,11 +8435,10 @@ metadata:
     label_title: Shelter
     sort_title: Shelter
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/690848
     tpdb_search: https://theposterdb.com/search?term=Shelter&section=movies
     genre.sync:
       - Action
-      - Crime
       - Thriller
   694:
     label_title: The Shining
