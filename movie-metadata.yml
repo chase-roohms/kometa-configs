@@ -3874,6 +3874,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Havoc&section=movies
     genre.sync:
       - Action
+  1160981:
+    label_title: 'Hear Me: Our Summer'
+    sort_title: 'Hear Me: Our Summer'
+    release_year: '2024'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Hear+Me:+Our+Summer&section=movies
+    genre.sync:
+      - Drama
+      - Romance
   1302916:
     label_title: Heart Eyes
     sort_title: Heart Eyes
