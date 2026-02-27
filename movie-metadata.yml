@@ -622,6 +622,18 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Arcadian&section=movies
     genre.sync:
       - Horror
+  804370:
+    label_title: Arco
+    sort_title: Arco
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Arco&section=movies
+    genre.sync:
+      - Adventure
+      - Animation
+      - Family
+      - Fantasy
+      - Science Fiction
   10112:
     label_title: The Aristocats
     sort_title: Aristocats
