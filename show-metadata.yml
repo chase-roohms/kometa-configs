@@ -5504,20 +5504,17 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/567288
   453694:
-    label_title: A Wild Last Boss Appeared!
-    sort_title: Wild Last Boss Appeared!
+    label_title: 'A Wild Last Boss Appeared!'
+    sort_title: 'Wild Last Boss Appeared'
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/645761
     tpdb_search: https://theposterdb.com/search?term=A+Wild+Last+Boss+Appeared!&section=shows
+    audio_language: ja-JP
     genre.sync:
-      - Action
-      - Adventure
-      - Animation
       - Anime
-      - Fantasy
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/645762
   433088:
     label_title: WIND BREAKER
     sort_title: WIND BREAKER
