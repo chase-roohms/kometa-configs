@@ -7019,6 +7019,15 @@ metadata:
     studio: DreamWorks Animation
     genre.sync:
       - Animation
+  27581:
+    label_title: The Other Guys
+    sort_title: Other Guys
+    release_year: '2010'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Other+Guys&section=movies
+    genre.sync:
+      - Action
+      - Comedy
   606:
     label_title: Out of Africa
     sort_title: Out of Africa
