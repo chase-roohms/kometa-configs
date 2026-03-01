@@ -1485,6 +1485,20 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/439355
       2:
         url_poster: https://theposterdb.com/api/assets/669077
+  368185:
+    label_title: 'Fate: The Winx Saga'
+    sort_title: 'Fate: The Winx Saga'
+    release_year: '2021'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Fate:+The+Winx+Saga&section=shows
+    genre.sync:
+      - Action
+      - Adventure
+      - Drama
+      - Fantasy
+    seasons:
+      2:
+        url_poster: ''
   419379:
     label_title: Fellow Travelers
     sort_title: Fellow Travelers
