@@ -5821,12 +5821,10 @@ metadata:
     label_title: Love Me Dead
     sort_title: Love Me Dead
     release_year: '2024'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/614315
     tpdb_search: https://theposterdb.com/search?term=Love+Me+Dead&section=movies
     genre.sync:
       - Horror
-      - Romance
-      - Thriller
   508943:
     label_title: Luca
     sort_title: Luca
@@ -7033,7 +7031,7 @@ metadata:
     label_title: The Other Guys
     sort_title: Other Guys
     release_year: '2010'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/212542
     tpdb_search: https://theposterdb.com/search?term=The+Other+Guys&section=movies
     genre.sync:
       - Action
