@@ -9018,6 +9018,18 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Splitsville&section=movies
     genre.sync:
       - Comedy
+  11836:
+    label_title: The SpongeBob SquarePants Movie
+    sort_title: SpongeBob SquarePants Movie
+    release_year: '2004'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+SpongeBob+SquarePants+Movie&section=movies
+    genre.sync:
+      - Adventure
+      - Animation
+      - Comedy
+      - Family
+      - Fantasy
   1230368:
     label_title: 'Springsteen: Deliver Me from Nowhere'
     sort_title: 'Springsteen: Deliver Me from Nowhere'
