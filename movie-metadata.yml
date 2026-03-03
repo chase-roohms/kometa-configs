@@ -6460,6 +6460,16 @@ metadata:
     studio: Disney
     genre.sync:
       - Animation
+  1422562:
+    label_title: The Moment
+    sort_title: Moment
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Moment&section=movies
+    genre.sync:
+      - Comedy
+      - Music
+      - Thriller
   1124620:
     label_title: The Monkey
     sort_title: Monkey
