@@ -6464,12 +6464,10 @@ metadata:
     label_title: The Moment
     sort_title: Moment
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/668207
     tpdb_search: https://theposterdb.com/search?term=The+Moment&section=movies
     genre.sync:
       - Comedy
-      - Music
-      - Thriller
   1124620:
     label_title: The Monkey
     sort_title: Monkey
@@ -9032,14 +9030,11 @@ metadata:
     label_title: The SpongeBob SquarePants Movie
     sort_title: SpongeBob SquarePants Movie
     release_year: '2004'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/217897
     tpdb_search: https://theposterdb.com/search?term=The+SpongeBob+SquarePants+Movie&section=movies
     genre.sync:
-      - Adventure
       - Animation
-      - Comedy
       - Family
-      - Fantasy
   1230368:
     label_title: 'Springsteen: Deliver Me from Nowhere'
     sort_title: 'Springsteen: Deliver Me from Nowhere'
@@ -10407,11 +10402,10 @@ metadata:
     label_title: Whistle
     sort_title: Whistle
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/694113
     tpdb_search: https://theposterdb.com/search?term=Whistle&section=movies
     genre.sync:
       - Horror
-      - Mystery
   438808:
     label_title: White Boy Rick
     sort_title: White Boy Rick
