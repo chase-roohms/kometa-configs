@@ -10393,6 +10393,15 @@ metadata:
     studio: Blumhouse Productions
     genre.sync:
       - Drama
+  1193501:
+    label_title: Whistle
+    sort_title: Whistle
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Whistle&section=movies
+    genre.sync:
+      - Horror
+      - Mystery
   438808:
     label_title: White Boy Rick
     sort_title: White Boy Rick
