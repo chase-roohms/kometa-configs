@@ -2145,6 +2145,15 @@ metadata:
     genre.sync:
       - Comedy
       - Horror
+  25237:
+    label_title: Come and See
+    sort_title: Come and See
+    release_year: '1985'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Come+and+See&section=movies
+    genre.sync:
+      - Drama
+      - War
   1084199:
     label_title: Companion
     sort_title: Companion
