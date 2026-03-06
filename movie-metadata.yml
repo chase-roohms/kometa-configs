@@ -7203,6 +7203,14 @@ metadata:
     genre.sync:
       - Comedy
       - Horror
+  655:
+    label_title: Paris, Texas
+    sort_title: Paris, Texas
+    release_year: '1984'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Paris,+Texas&section=movies
+    genre.sync:
+      - Drama
   666277:
     label_title: Past Lives
     sort_title: Past Lives
