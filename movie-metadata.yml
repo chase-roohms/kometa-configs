@@ -2149,11 +2149,10 @@ metadata:
     label_title: Come and See
     sort_title: Come and See
     release_year: '1985'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/289018
     tpdb_search: https://theposterdb.com/search?term=Come+and+See&section=movies
     genre.sync:
       - Drama
-      - War
   1084199:
     label_title: Companion
     sort_title: Companion
@@ -7216,7 +7215,7 @@ metadata:
     label_title: Paris, Texas
     sort_title: Paris, Texas
     release_year: '1984'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/601479
     tpdb_search: https://theposterdb.com/search?term=Paris,+Texas&section=movies
     genre.sync:
       - Drama
