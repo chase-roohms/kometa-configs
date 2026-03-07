@@ -4125,7 +4125,7 @@ metadata:
     label_title: 'History of the World: Part I'
     sort_title: 'History of the World: Part I'
     release_year: '1981'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/5017
     tpdb_search: https://theposterdb.com/search?term=History+of+the+World:+Part+I&section=movies
     genre.sync:
       - Comedy
@@ -4262,18 +4262,17 @@ metadata:
       - Animation
   51540:
     label_title: Horrible Bosses
-    sort_title: Horrible Bosses
+    sort_title: Horrible Bosses 1
     release_year: '2011'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/41515
     tpdb_search: https://theposterdb.com/search?term=Horrible+Bosses&section=movies
     genre.sync:
       - Comedy
-      - Crime
   227159:
     label_title: Horrible Bosses 2
     sort_title: Horrible Bosses 2
     release_year: '2014'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/41516
     tpdb_search: https://theposterdb.com/search?term=Horrible+Bosses+2&section=movies
     genre.sync:
       - Comedy
