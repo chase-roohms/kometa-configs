@@ -4121,6 +4121,14 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=HIM&section=movies
     genre.sync:
       - Horror
+  10156:
+    label_title: 'History of the World: Part I'
+    sort_title: 'History of the World: Part I'
+    release_year: '1981'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=History+of+the+World:+Part+I&section=movies
+    genre.sync:
+      - Comedy
   49051:
     label_title: 'The Hobbit: An Unexpected Journey'
     sort_title: Hobbit 1
