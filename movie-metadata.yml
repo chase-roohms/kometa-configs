@@ -4252,6 +4252,15 @@ metadata:
     studio: Illumination
     genre.sync:
       - Animation
+  51540:
+    label_title: Horrible Bosses
+    sort_title: Horrible Bosses
+    release_year: '2011'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Horrible+Bosses&section=movies
+    genre.sync:
+      - Comedy
+      - Crime
   547:
     label_title: The Horse Whisperer
     sort_title: Horse Whisperer
