@@ -2237,12 +2237,11 @@ metadata:
     label_title: Crazy, Stupid, Love.
     sort_title: Crazy, Stupid, Love.
     release_year: '2011'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/307928
     tpdb_search: https://theposterdb.com/search?term=Crazy,+Stupid,+Love.&section=movies
     genre.sync:
       - Comedy
       - Drama
-      - Romance
   8963:
     label_title: Crimson Tide
     sort_title: Crimson Tide
