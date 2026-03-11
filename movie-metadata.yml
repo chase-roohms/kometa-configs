@@ -5444,6 +5444,17 @@ metadata:
     studio: DreamWorks Animation
     genre.sync:
       - Animation
+  2118:
+    label_title: L.A. Confidential
+    sort_title: L.A. Confidential
+    release_year: '1997'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=L.A.+Confidential&section=movies
+    genre.sync:
+      - Crime
+      - Drama
+      - Mystery
+      - Thriller
   10340:
     label_title: Lady and the Tramp
     sort_title: Lady and the Tramp (Animated) 1
