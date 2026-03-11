@@ -3642,11 +3642,10 @@ metadata:
     label_title: "Good Luck, Have Fun, Don't Die"
     sort_title: "Good Luck, Have Fun, Don't Die"
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/694102
     tpdb_search: "https://theposterdb.com/search?term=Good+Luck,+Have+Fun,+Don't+Die&section=movies"
     genre.sync:
       - Action
-      - Adventure
       - Science Fiction
   284303:
     label_title: Goodnight Mommy
@@ -5448,12 +5447,10 @@ metadata:
     label_title: L.A. Confidential
     sort_title: L.A. Confidential
     release_year: '1997'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/88886
     tpdb_search: https://theposterdb.com/search?term=L.A.+Confidential&section=movies
     genre.sync:
-      - Crime
       - Drama
-      - Mystery
       - Thriller
   10340:
     label_title: Lady and the Tramp
