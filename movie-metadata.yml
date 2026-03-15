@@ -10339,12 +10339,11 @@ metadata:
     label_title: War Machine
     sort_title: War Machine
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/697223
     tpdb_search: https://theposterdb.com/search?term=War+Machine&section=movies
     genre.sync:
       - Action
       - Science Fiction
-      - Thriller
   1241436:
     label_title: Warfare
     sort_title: Warfare
