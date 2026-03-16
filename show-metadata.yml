@@ -121,6 +121,17 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/676411
       1:
         url_poster: https://theposterdb.com/api/assets/676412
+  461944:
+    label_title: Age of Attraction
+    sort_title: Age of Attraction
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Age+of+Attraction&section=shows
+    genre.sync:
+      - Reality
+    seasons:
+      1:
+        url_poster: ''
   430769:
     label_title: The Agency
     sort_title: Agency
