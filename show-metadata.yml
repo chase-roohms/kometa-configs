@@ -2165,21 +2165,21 @@ metadata:
     label_title: Invincible
     sort_title: Invincible
     release_year: '2021'
-    url_poster: https://theposterdb.com/api/assets/422189
+    url_poster: https://theposterdb.com/api/assets/144312
     tpdb_search: https://theposterdb.com/search?term=Invincible&section=shows
     genre.sync:
       - Animation
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/422190
+        url_poster: https://theposterdb.com/api/assets/698135
       1:
-        url_poster: https://theposterdb.com/api/assets/422191
+        url_poster: https://theposterdb.com/api/assets/698136
       2:
-        url_poster: https://theposterdb.com/api/assets/422192
+        url_poster: https://theposterdb.com/api/assets/698137
       3:
-        url_poster: https://theposterdb.com/api/assets/575956
+        url_poster: https://theposterdb.com/api/assets/698138
       4:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/698139
   317953:
     label_title: "Marvel's Iron Fist"
     sort_title: Iron Fist
