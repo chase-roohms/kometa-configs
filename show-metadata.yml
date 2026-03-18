@@ -2178,6 +2178,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/422192
       3:
         url_poster: https://theposterdb.com/api/assets/575956
+      4:
+        url_poster: ''
   317953:
     label_title: "Marvel's Iron Fist"
     sort_title: Iron Fist
