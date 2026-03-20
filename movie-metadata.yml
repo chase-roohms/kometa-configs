@@ -7283,12 +7283,10 @@ metadata:
     label_title: 'Peaky Blinders: The Immortal Man'
     sort_title: 'Peaky Blinders: The Immortal Man'
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/690041
     tpdb_search: https://theposterdb.com/search?term=Peaky+Blinders:+The+Immortal+Man&section=movies
     genre.sync:
-      - Crime
       - Drama
-      - War
   949423:
     label_title: Pearl
     sort_title: Pearl
