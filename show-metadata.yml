@@ -2407,26 +2407,17 @@ metadata:
     label_title: Jury Duty
     sort_title: Jury Duty
     release_year: '2023'
-    url_poster: https://theposterdb.com/api/assets/343805
+    url_poster: https://theposterdb.com/api/assets/699619
     tpdb_search: https://theposterdb.com/search?term=Jury+Duty&section=shows
     genre.sync:
       - Comedy
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/343806
+        url_poster: https://theposterdb.com/api/assets/699620
+        title: Jury Duty
       2:
-        url_poster: ''
-  475715:
-    label_title: 'Jury Duty Presents: Company Retreat'
-    sort_title: 'Jury Duty Presents: Company Retreat'
-    release_year: '2026'
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Jury+Duty+Presents:+Company+Retreat&section=shows
-    genre.sync:
-      - Comedy
-    seasons:
-      1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/699621
+        title: Company Retreat
   134241:
     label_title: Justified
     sort_title: Justified
