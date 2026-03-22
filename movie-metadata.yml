@@ -789,12 +789,11 @@ metadata:
     label_title: Bad Boys II
     sort_title: Bad Boys II
     release_year: '2003'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/83052
     tpdb_search: https://theposterdb.com/search?term=Bad+Boys+II&section=movies
     genre.sync:
       - Action
       - Comedy
-      - Crime
   629542:
     label_title: The Bad Guys
     sort_title: Bad Guys 1
