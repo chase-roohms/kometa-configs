@@ -794,6 +794,16 @@ metadata:
     genre.sync:
       - Action
       - Comedy
+  573435:
+    label_title: 'Bad Boys: Ride or Die'
+    sort_title: 'Bad Boys: Ride or Die'
+    release_year: '2024'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Bad+Boys:+Ride+or+Die&section=movies
+    genre.sync:
+      - Action
+      - Comedy
+      - Crime
   629542:
     label_title: The Bad Guys
     sort_title: Bad Guys 1
