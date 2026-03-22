@@ -2414,6 +2414,17 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/343806
+  475715:
+    label_title: 'Jury Duty Presents: Company Retreat'
+    sort_title: 'Jury Duty Presents: Company Retreat'
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Jury+Duty+Presents:+Company+Retreat&section=shows
+    genre.sync:
+      - Comedy
+    seasons:
+      1:
+        url_poster: ''
   134241:
     label_title: Justified
     sort_title: Justified
