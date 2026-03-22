@@ -2414,6 +2414,8 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/343806
+      2:
+        url_poster: ''
   475715:
     label_title: 'Jury Duty Presents: Company Retreat'
     sort_title: 'Jury Duty Presents: Company Retreat'
