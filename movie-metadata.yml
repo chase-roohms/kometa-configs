@@ -787,7 +787,7 @@ metadata:
       - Science Fiction
   9737:
     label_title: Bad Boys
-    sort_title: Bad Boys
+    sort_title: Bad Boys 1
     release_year: '1995'
     url_poster: https://theposterdb.com/api/assets/510345
     tpdb_search: https://theposterdb.com/search?term=Bad+Boys&section=movies
@@ -796,33 +796,31 @@ metadata:
       - Comedy
   38700:
     label_title: Bad Boys for Life
-    sort_title: Bad Boys for Life
+    sort_title: Bad Boys 3
     release_year: '2020'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/510343
     tpdb_search: https://theposterdb.com/search?term=Bad+Boys+for+Life&section=movies
     genre.sync:
       - Action
-      - Crime
-      - Thriller
+      - Comedy
   8961:
     label_title: Bad Boys II
-    sort_title: Bad Boys II
+    sort_title: Bad Boys 2
     release_year: '2003'
-    url_poster: https://theposterdb.com/api/assets/83052
+    url_poster: https://theposterdb.com/api/assets/510344
     tpdb_search: https://theposterdb.com/search?term=Bad+Boys+II&section=movies
     genre.sync:
       - Action
       - Comedy
   573435:
     label_title: 'Bad Boys: Ride or Die'
-    sort_title: 'Bad Boys: Ride or Die'
+    sort_title: Bad Boys 4
     release_year: '2024'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/510342
     tpdb_search: https://theposterdb.com/search?term=Bad+Boys:+Ride+or+Die&section=movies
     genre.sync:
       - Action
       - Comedy
-      - Crime
   629542:
     label_title: The Bad Guys
     sort_title: Bad Guys 1
