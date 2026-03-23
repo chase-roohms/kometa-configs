@@ -794,21 +794,21 @@ metadata:
     genre.sync:
       - Action
       - Comedy
-  38700:
-    label_title: Bad Boys for Life
-    sort_title: Bad Boys 3
-    release_year: '2020'
-    url_poster: https://theposterdb.com/api/assets/510343
-    tpdb_search: https://theposterdb.com/search?term=Bad+Boys+for+Life&section=movies
-    genre.sync:
-      - Action
-      - Comedy
   8961:
     label_title: Bad Boys II
     sort_title: Bad Boys 2
     release_year: '2003'
     url_poster: https://theposterdb.com/api/assets/510344
     tpdb_search: https://theposterdb.com/search?term=Bad+Boys+II&section=movies
+    genre.sync:
+      - Action
+      - Comedy
+  38700:
+    label_title: Bad Boys for Life
+    sort_title: Bad Boys 3
+    release_year: '2020'
+    url_poster: https://theposterdb.com/api/assets/510343
+    tpdb_search: https://theposterdb.com/search?term=Bad+Boys+for+Life&section=movies
     genre.sync:
       - Action
       - Comedy
