@@ -6646,6 +6646,14 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
+  1470130:
+    label_title: The Mortuary Assistant
+    sort_title: Mortuary Assistant
+    release_year: '2026'
+    url_poster: https://theposterdb.com/api/assets/700030
+    tpdb_search: https://theposterdb.com/search?term=The+Mortuary+Assistant&section=movies
+    genre.sync:
+      - Horror
   1481608:
     label_title: Mother of Flies
     sort_title: Mother of Flies
