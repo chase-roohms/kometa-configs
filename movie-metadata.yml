@@ -785,6 +785,15 @@ metadata:
     studio: Universal Pictures
     genre.sync:
       - Science Fiction
+  9737:
+    label_title: Bad Boys
+    sort_title: Bad Boys
+    release_year: '1995'
+    url_poster: https://theposterdb.com/api/assets/510345
+    tpdb_search: https://theposterdb.com/search?term=Bad+Boys&section=movies
+    genre.sync:
+      - Action
+      - Comedy
   38700:
     label_title: Bad Boys for Life
     sort_title: Bad Boys for Life
