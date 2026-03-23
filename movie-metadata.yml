@@ -8028,6 +8028,16 @@ metadata:
     studio: Studio Ghibli
     genre.sync:
       - Anime
+  146233:
+    label_title: Prisoners
+    sort_title: Prisoners
+    release_year: '2013'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Prisoners&section=movies
+    genre.sync:
+      - Crime
+      - Drama
+      - Thriller
   582014:
     label_title: Promising Young Woman
     sort_title: Promising Young Woman
