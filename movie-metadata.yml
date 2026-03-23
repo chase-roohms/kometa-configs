@@ -4314,6 +4314,17 @@ metadata:
     studio: Illumination
     genre.sync:
       - Animation
+  1327819:
+    label_title: Hoppers
+    sort_title: Hoppers
+    release_year: '2026'
+    url_poster: https://theposterdb.com/api/assets/690199
+    tpdb_search: https://theposterdb.com/search?term=Hoppers&section=movies
+    studio: Pixar
+    genre.sync:
+      - Animation
+      - Comedy
+      - Family
   51540:
     label_title: Horrible Bosses
     sort_title: Horrible Bosses 1
