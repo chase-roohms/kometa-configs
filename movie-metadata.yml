@@ -2388,6 +2388,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Dazed+and+Confused&section=movies
     genre.sync:
       - Comedy
+  1263012:
+    label_title: "Dead Man's Wire"
+    sort_title: "Dead Man's Wire"
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: "https://theposterdb.com/search?term=Dead+Man's+Wire&section=movies"
+    genre.sync:
+      - Crime
+      - Drama
   1006724:
     label_title: Dead Talents Society
     sort_title: Dead Talents Society
