@@ -8032,10 +8032,9 @@ metadata:
     label_title: Prisoners
     sort_title: Prisoners
     release_year: '2013'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/666779
     tpdb_search: https://theposterdb.com/search?term=Prisoners&section=movies
     genre.sync:
-      - Crime
       - Drama
       - Thriller
   582014:
