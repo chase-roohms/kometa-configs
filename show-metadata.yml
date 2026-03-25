@@ -1335,6 +1335,20 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/176663
+  468739:
+    label_title: DTF St. Louis
+    sort_title: DTF St. Louis
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=DTF+St.+Louis&section=shows
+    genre.sync:
+      - Comedy
+      - Crime
+      - Drama
+      - Mini-Series
+    seasons:
+      1:
+        url_poster: ''
   367118:
     label_title: 'Dune: Prophecy'
     sort_title: Dune - Prophecy
