@@ -4419,6 +4419,15 @@ metadata:
     genre.sync:
       - Comedy
       - Family
+  467905:
+    label_title: How to Make a Killing
+    sort_title: How to Make a Killing
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=How+to+Make+a+Killing&section=movies
+    genre.sync:
+      - Comedy
+      - Thriller
   10191:
     label_title: How to Train Your Dragon
     sort_title: How to Train Your Dragon 1
