@@ -2392,10 +2392,9 @@ metadata:
     label_title: "Dead Man's Wire"
     sort_title: "Dead Man's Wire"
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/690742
     tpdb_search: "https://theposterdb.com/search?term=Dead+Man's+Wire&section=movies"
     genre.sync:
-      - Crime
       - Drama
   1006724:
     label_title: Dead Talents Society
