@@ -4423,8 +4423,9 @@ metadata:
     label_title: How to Make a Killing
     sort_title: How to Make a Killing
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/668208
     tpdb_search: https://theposterdb.com/search?term=How+to+Make+a+Killing&section=movies
+    studio: A24
     genre.sync:
       - Comedy
       - Thriller
