@@ -2533,12 +2533,11 @@ metadata:
     label_title: The Dirt
     sort_title: Dirt
     release_year: '2019'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/701159
     tpdb_search: https://theposterdb.com/search?term=The+Dirt&section=movies
     genre.sync:
       - Comedy
       - Drama
-      - Music
   1275779:
     label_title: Disclosure Day
     sort_title: Disclosure Day
@@ -8326,11 +8325,10 @@ metadata:
     label_title: Rocketman
     sort_title: Rocketman
     release_year: '2019'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/47588
     tpdb_search: https://theposterdb.com/search?term=Rocketman&section=movies
     genre.sync:
       - Drama
-      - Music
   15373:
     label_title: Role Models
     sort_title: Role Models
