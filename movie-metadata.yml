@@ -8322,6 +8322,15 @@ metadata:
     studio: Disney
     genre.sync:
       - Animation
+  504608:
+    label_title: Rocketman
+    sort_title: Rocketman
+    release_year: '2019'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Rocketman&section=movies
+    genre.sync:
+      - Drama
+      - Music
   15373:
     label_title: Role Models
     sort_title: Role Models
