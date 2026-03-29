@@ -2265,13 +2265,11 @@ metadata:
     label_title: Cowboys & Aliens
     sort_title: Cowboys & Aliens
     release_year: '2011'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/50541
     tpdb_search: https://theposterdb.com/search?term=Cowboys+%26+Aliens&section=movies
     genre.sync:
       - Action
       - Science Fiction
-      - Thriller
-      - Western
   1640:
     label_title: Crash
     sort_title: Crash
