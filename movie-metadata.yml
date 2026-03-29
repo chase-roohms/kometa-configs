@@ -2261,6 +2261,17 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Cosmic+Princess+Kaguya!&section=movies
     genre.sync:
       - Anime
+  49849:
+    label_title: Cowboys & Aliens
+    sort_title: Cowboys & Aliens
+    release_year: '2011'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Cowboys+%26+Aliens&section=movies
+    genre.sync:
+      - Action
+      - Science Fiction
+      - Thriller
+      - Western
   1640:
     label_title: Crash
     sort_title: Crash
