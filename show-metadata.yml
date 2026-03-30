@@ -4495,6 +4495,21 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/474754
       2:
         url_poster: https://theposterdb.com/api/assets/555015
+  452277:
+    label_title: Something Very Bad Is Going To Happen
+    sort_title: Something Very Bad Is Going To Happen
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Something+Very+Bad+Is+Going+To+Happen&section=shows
+    genre.sync:
+      - Drama
+      - Horror
+      - Mini-Series
+      - Mystery
+      - Thriller
+    seasons:
+      1:
+        url_poster: ''
   320286:
     label_title: The Son
     sort_title: Son
