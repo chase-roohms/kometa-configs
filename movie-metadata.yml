@@ -1,12 +1,4 @@
 metadata:
-  1316092:
-    label_title: Wuthering Heights
-    sort_title: Wuthering Heights
-    release_year: '2026'
-    url_poster: https://theposterdb.com/api/assets/686566
-    tpdb_search: https://theposterdb.com/search?term="Wuthering+Heights"&section=movies
-    genre.sync:
-      - Drama
   12244:
     label_title: '9'
     sort_title: '9'
@@ -10799,6 +10791,14 @@ metadata:
     genre.sync:
       - Action
       - Comedy
+  1316092:
+    label_title: Wuthering Heights
+    sort_title: Wuthering Heights
+    release_year: '2026'
+    url_poster: https://theposterdb.com/api/assets/686566
+    tpdb_search: https://theposterdb.com/search?term="Wuthering+Heights"&section=movies
+    genre.sync:
+      - Drama
   760104:
     label_title: X
     sort_title: X
