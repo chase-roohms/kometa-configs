@@ -7,7 +7,7 @@ fi
 
 type="$1"
 txdb_id="$2"
-title="$3"
+title="${3//\"/\\\"}" # Escape double quotes in title
 sort_title="$(bash functions/media/get-sort-title.sh "$title")"
 release_year="$4"
 url_poster="$5"
