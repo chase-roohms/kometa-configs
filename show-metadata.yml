@@ -2955,6 +2955,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/589776
       3:
         url_poster: https://theposterdb.com/api/assets/589777
+      4:
+        url_poster: ''
   357888:
     label_title: Love, Death & Robots
     sort_title: Love, Death & Robots
