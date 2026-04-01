@@ -8518,6 +8518,16 @@ metadata:
     genre.sync:
       - Action
       - Comedy
+  1159559:
+    label_title: Scream 7
+    sort_title: Scream 7
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Scream+7&section=movies
+    genre.sync:
+      - Crime
+      - Horror
+      - Mystery
   807:
     label_title: Se7en
     sort_title: Se7en
