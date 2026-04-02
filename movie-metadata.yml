@@ -8518,6 +8518,60 @@ metadata:
     genre.sync:
       - Action
       - Comedy
+  4232:
+    label_title: Scream 
+    sort_title: Scream 1
+    release_year: '1996'
+    url_poster: https://theposterdb.com/api/assets/691049
+    tpdb_search: https://theposterdb.com/search?term=Scream&section=movies
+    genre.sync:
+      - Crime
+      - Horror
+  4233:
+    label_title: Scream 2
+    sort_title: Scream 2
+    release_year: '1997'
+    url_poster: https://theposterdb.com/api/assets/691048
+    tpdb_search: https://theposterdb.com/search?term=Scream+2&section=movies
+    genre.sync:
+      - Crime
+      - Horror
+  4234:
+    label_title: Scream 3
+    sort_title: Scream 3
+    release_year: '2000'
+    url_poster: https://theposterdb.com/api/assets/691047
+    tpdb_search: https://theposterdb.com/search?term=Scream+3&section=movies
+    genre.sync:
+      - Crime
+      - Horror
+  41446:
+    label_title: Scream 4
+    sort_title: Scream 4
+    release_year: '2011'
+    url_poster: https://theposterdb.com/api/assets/691046
+    tpdb_search: https://theposterdb.com/search?term=Scream+4&section=movies
+    genre.sync:
+      - Crime
+      - Horror
+  646385:
+    label_title: Scream
+    sort_title: Scream 5
+    release_year: '2022'
+    url_poster: https://theposterdb.com/api/assets/691045
+    tpdb_search: https://theposterdb.com/search?term=Scream&section=movies
+    genre.sync:
+      - Crime
+      - Horror
+  934433:
+    label_title: Scream 6
+    sort_title: Scream 6
+    release_year: '2023'
+    url_poster: https://theposterdb.com/api/assets/691044
+    tpdb_search: https://theposterdb.com/search?term=Scream+6&section=movies
+    genre.sync:
+      - Crime
+      - Horror
   1159559:
     label_title: Scream 7
     sort_title: Scream 7
