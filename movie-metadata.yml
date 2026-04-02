@@ -4659,6 +4659,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=I+Want+to+Eat+Your+Pancreas&section=movies
     genre.sync:
       - Anime
+  2048:
+    label_title: I, Robot
+    sort_title: I, Robot
+    release_year: '2004'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=I,+Robot&section=movies
+    genre.sync:
+      - Action
+      - Science Fiction
   1125311:
     label_title: Imaginary
     sort_title: Imaginary
