@@ -3790,6 +3790,22 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/272842
+  452801:
+    label_title: Petals of Reincarnation
+    sort_title: Petals of Reincarnation
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Petals+of+Reincarnation&section=shows
+    genre.sync:
+      - Action
+      - Animation
+      - Anime
+      - Fantasy
+      - Mystery
+      - Suspense
+    seasons:
+      1:
+        url_poster: ''
   448176:
     label_title: The Pitt
     sort_title: Pitt
