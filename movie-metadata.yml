@@ -4583,6 +4583,16 @@ metadata:
       - Action
       - Drama
       - Thriller
+  6479:
+    label_title: I Am Legend
+    sort_title: I Am Legend
+    release_year: '2007'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=I+Am+Legend&section=movies
+    genre.sync:
+      - Drama
+      - Science Fiction
+      - Thriller
   3597:
     label_title: I Know What You Did Last Summer
     sort_title: I Know What You Did Last Summer 1
@@ -8519,7 +8529,7 @@ metadata:
       - Action
       - Comedy
   4232:
-    label_title: Scream 
+    label_title: Scream
     sort_title: Scream 1
     release_year: '1996'
     url_poster: https://theposterdb.com/api/assets/691049
