@@ -4587,10 +4587,9 @@ metadata:
     label_title: I Am Legend
     sort_title: I Am Legend
     release_year: '2007'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/119915
     tpdb_search: https://theposterdb.com/search?term=I+Am+Legend&section=movies
     genre.sync:
-      - Drama
       - Science Fiction
       - Thriller
   3597:
@@ -4663,7 +4662,7 @@ metadata:
     label_title: I, Robot
     sort_title: I, Robot
     release_year: '2004'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/42819
     tpdb_search: https://theposterdb.com/search?term=I,+Robot&section=movies
     genre.sync:
       - Action
