@@ -1326,19 +1326,18 @@ metadata:
     label_title: Dorohedoro
     sort_title: Dorohedoro
     release_year: '2020'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/326430
     tpdb_search: https://theposterdb.com/search?term=Dorohedoro&section=shows
+    audio_language: ja-JP
     genre.sync:
-      - Action
-      - Animation
       - Anime
-      - Comedy
-      - Fantasy
-      - Horror
-      - Science Fiction
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/326431
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/326432
+      2:
+        url_poster: https://theposterdb.com/api/assets/697187
   354167:
     label_title: Dororo
     sort_title: Dororo
