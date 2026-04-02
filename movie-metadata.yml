@@ -8522,12 +8522,11 @@ metadata:
     label_title: Scream 7
     sort_title: Scream 7
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/657554
     tpdb_search: https://theposterdb.com/search?term=Scream+7&section=movies
     genre.sync:
       - Crime
       - Horror
-      - Mystery
   807:
     label_title: Se7en
     sort_title: Se7en
