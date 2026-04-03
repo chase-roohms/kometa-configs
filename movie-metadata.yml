@@ -1063,6 +1063,15 @@ metadata:
     studio: Disney
     genre.sync:
       - Animation
+  115:
+    label_title: The Big Lebowski
+    sort_title: Big Lebowski
+    release_year: '1998'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Big+Lebowski&section=movies
+    genre.sync:
+      - Comedy
+      - Crime
   16790:
     label_title: Bingo
     sort_title: Bingo
