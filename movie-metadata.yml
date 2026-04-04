@@ -1333,6 +1333,15 @@ metadata:
     studio: DreamWorks Animation
     genre.sync:
       - Animation
+  6114:
+    label_title: "Bram Stoker's Dracula"
+    sort_title: "Bram Stoker's Dracula"
+    release_year: '1992'
+    url_poster: ''
+    tpdb_search: "https://theposterdb.com/search?term=Bram+Stoker's+Dracula&section=movies"
+    genre.sync:
+      - Horror
+      - Romance
   62177:
     label_title: Brave
     sort_title: Brave
