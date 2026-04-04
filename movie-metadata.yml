@@ -2295,6 +2295,15 @@ metadata:
     genre.sync:
       - Comedy
       - Drama
+  1171145:
+    label_title: Crime 101
+    sort_title: Crime 101
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Crime+101&section=movies
+    genre.sync:
+      - Crime
+      - Thriller
   8963:
     label_title: Crimson Tide
     sort_title: Crimson Tide
