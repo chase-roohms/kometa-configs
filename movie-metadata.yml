@@ -1337,11 +1337,11 @@ metadata:
     label_title: "Bram Stoker's Dracula"
     sort_title: "Bram Stoker's Dracula"
     release_year: '1992'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/33712
     tpdb_search: "https://theposterdb.com/search?term=Bram+Stoker's+Dracula&section=movies"
     genre.sync:
       - Horror
-      - Romance
+      - Drama
   62177:
     label_title: Brave
     sort_title: Brave
@@ -2308,10 +2308,9 @@ metadata:
     label_title: Crime 101
     sort_title: Crime 101
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/686303
     tpdb_search: https://theposterdb.com/search?term=Crime+101&section=movies
     genre.sync:
-      - Crime
       - Thriller
   8963:
     label_title: Crimson Tide
@@ -7961,7 +7960,7 @@ metadata:
     label_title: Poltergeist
     sort_title: Poltergeist
     release_year: '1982'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/85812
     tpdb_search: https://theposterdb.com/search?term=Poltergeist&section=movies
     genre.sync:
       - Horror
