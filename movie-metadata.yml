@@ -1340,8 +1340,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/33712
     tpdb_search: "https://theposterdb.com/search?term=Bram+Stoker's+Dracula&section=movies"
     genre.sync:
-      - Horror
       - Drama
+      - Horror
   62177:
     label_title: Brave
     sort_title: Brave
