@@ -1067,6 +1067,21 @@ metadata:
             url_poster: https://i.imgur.com/MQBtDOZ.jpeg
       1:
         url_poster: https://theposterdb.com/api/assets/248654
+  452711:
+    label_title: Daemons of the Shadow Realm
+    sort_title: Daemons of the Shadow Realm
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Daemons+of+the+Shadow+Realm&section=shows
+    genre.sync:
+      - Action
+      - Adventure
+      - Animation
+      - Anime
+      - Fantasy
+    seasons:
+      1:
+        url_poster: ''
   432832:
     label_title: DAN DA DAN
     sort_title: DAN DA DAN
