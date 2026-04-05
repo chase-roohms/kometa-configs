@@ -6443,6 +6443,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Memoir+of+a+Snail&section=movies
     genre.sync:
       - Animation
+  11423:
+    label_title: Memories of Murder
+    sort_title: Memories of Murder
+    release_year: '2003'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Memories+of+Murder&section=movies
+    genre.sync:
+      - Crime
+      - Drama
+      - Thriller
   593643:
     label_title: The Menu
     sort_title: Menu
