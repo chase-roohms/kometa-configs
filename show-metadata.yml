@@ -5808,6 +5808,8 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/593620
+      2:
+        url_poster: ''
   359579:
     label_title: Your Honor
     sort_title: Your Honor
