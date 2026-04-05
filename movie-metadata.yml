@@ -9838,6 +9838,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Terrifier+3&section=movies
     genre.sync:
       - Horror
+  1091:
+    label_title: The Thing
+    sort_title: Thing
+    release_year: '1982'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Thing&section=movies
+    genre.sync:
+      - Horror
+      - Mystery
+      - Science Fiction
   1127628:
     label_title: The Thing with Feathers
     sort_title: Thing with Feathers
