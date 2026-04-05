@@ -1071,17 +1071,14 @@ metadata:
     label_title: Daemons of the Shadow Realm
     sort_title: Daemons of the Shadow Realm
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/700272
     tpdb_search: https://theposterdb.com/search?term=Daemons+of+the+Shadow+Realm&section=shows
+    audio_language: ja-JP
     genre.sync:
-      - Action
-      - Adventure
-      - Animation
       - Anime
-      - Fantasy
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/700273
   432832:
     label_title: DAN DA DAN
     sort_title: DAN DA DAN
@@ -5809,7 +5806,7 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/593620
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/700754
   359579:
     label_title: Your Honor
     sort_title: Your Honor
