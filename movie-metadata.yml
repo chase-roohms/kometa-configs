@@ -6447,10 +6447,9 @@ metadata:
     label_title: Memories of Murder
     sort_title: Memories of Murder
     release_year: '2003'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/96832
     tpdb_search: https://theposterdb.com/search?term=Memories+of+Murder&section=movies
     genre.sync:
-      - Crime
       - Drama
       - Thriller
   593643:
@@ -9852,11 +9851,10 @@ metadata:
     label_title: The Thing
     sort_title: Thing
     release_year: '1982'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/44288
     tpdb_search: https://theposterdb.com/search?term=The+Thing&section=movies
     genre.sync:
       - Horror
-      - Mystery
       - Science Fiction
   1127628:
     label_title: The Thing with Feathers
