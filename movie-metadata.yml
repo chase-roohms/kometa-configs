@@ -2897,6 +2897,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Enter+the+Void&section=movies
     genre.sync:
       - Drama
+  1445363:
+    label_title: 'EPiC: Elvis Presley in Concert'
+    sort_title: 'EPiC: Elvis Presley in Concert'
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=EPiC:+Elvis+Presley+in+Concert&section=movies
+    genre.sync:
+      - Documentary
+      - Music
   156022:
     label_title: The Equalizer
     sort_title: Equalizer 1
