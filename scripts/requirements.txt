@@ -1,6 +1,6 @@
 pyyaml==6.0.3
 Unidecode==1.4.0
-requests==2.33.0
+requests==2.33.1
 plexapi==4.18.1
 tmdbsimple==2.9.1
 pandas==2.3.3
