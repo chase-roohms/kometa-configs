@@ -4880,16 +4880,17 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/648697
   462715:
     label_title: 'Star Wars: Maul - Shadow Lord'
-    sort_title: 'Star Wars: Maul - Shadow Lord'
+    sort_title: Star Wars Maul Shadow Lord
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/701456
     tpdb_search: https://theposterdb.com/search?term=Star+Wars:+Maul+-+Shadow+Lord&section=shows
     genre.sync:
+      - Action
       - Animation
       - Science Fiction
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/701457
   455562:
     label_title: Stick
     sort_title: Stick
