@@ -1367,6 +1367,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Breaking+Wind&section=movies
     genre.sync:
       - Comedy
+  1159831:
+    label_title: The Bride!
+    sort_title: Bride!
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Bride!&section=movies
+    genre.sync:
+      - Fantasy
+      - Horror
+      - Science Fiction
   531309:
     label_title: Brightburn
     sort_title: Brightburn
