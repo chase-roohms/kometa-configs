@@ -8160,6 +8160,16 @@ metadata:
     genre.sync:
       - Drama
       - Thriller
+  1107166:
+    label_title: Psycho Killer
+    sort_title: Psycho Killer
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Psycho+Killer&section=movies
+    genre.sync:
+      - Crime
+      - Horror
+      - Mystery
   680:
     label_title: Pulp Fiction
     sort_title: Pulp Fiction
