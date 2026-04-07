@@ -4771,6 +4771,19 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/464740
       7:
         url_poster: https://theposterdb.com/api/assets/464741
+  462715:
+    label_title: 'Star Wars: Maul - Shadow Lord'
+    sort_title: Star Wars Maul Shadow Lord
+    release_year: '2026'
+    url_poster: https://theposterdb.com/api/assets/701456
+    tpdb_search: https://theposterdb.com/search?term=Star+Wars:+Maul+-+Shadow+Lord&section=shows
+    genre.sync:
+      - Action
+      - Animation
+      - Science Fiction
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/701457
   283468:
     label_title: Star Wars Rebels
     sort_title: Star Wars Rebels
@@ -4878,19 +4891,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/470293
       3:
         url_poster: https://theposterdb.com/api/assets/648697
-  462715:
-    label_title: 'Star Wars: Maul - Shadow Lord'
-    sort_title: Star Wars Maul Shadow Lord
-    release_year: '2026'
-    url_poster: https://theposterdb.com/api/assets/701456
-    tpdb_search: https://theposterdb.com/search?term=Star+Wars:+Maul+-+Shadow+Lord&section=shows
-    genre.sync:
-      - Action
-      - Animation
-      - Science Fiction
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/701457
   455562:
     label_title: Stick
     sort_title: Stick
