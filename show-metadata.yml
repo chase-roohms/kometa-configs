@@ -790,6 +790,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/408216
       4:
         url_poster: https://theposterdb.com/api/assets/495081
+      5:
+        url_poster: ''
   81189:
     label_title: Breaking Bad
     sort_title: Breaking Bad
