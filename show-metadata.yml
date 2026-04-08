@@ -5682,6 +5682,21 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/284655
       5:
         url_poster: https://theposterdb.com/api/assets/284656
+  418666:
+    label_title: Witch Hat Atelier
+    sort_title: Witch Hat Atelier
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Witch+Hat+Atelier&section=shows
+    genre.sync:
+      - Adventure
+      - Animation
+      - Anime
+      - Drama
+      - Fantasy
+    seasons:
+      1:
+        url_poster: ''
   428629:
     label_title: Wonder Man
     sort_title: Wonder Man
