@@ -1371,10 +1371,9 @@ metadata:
     label_title: The Bride!
     sort_title: Bride!
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/688245
     tpdb_search: https://theposterdb.com/search?term=The+Bride!&section=movies
     genre.sync:
-      - Fantasy
       - Horror
       - Science Fiction
   531309:
@@ -8164,12 +8163,10 @@ metadata:
     label_title: Psycho Killer
     sort_title: Psycho Killer
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/703751
     tpdb_search: https://theposterdb.com/search?term=Psycho+Killer&section=movies
     genre.sync:
-      - Crime
       - Horror
-      - Mystery
   680:
     label_title: Pulp Fiction
     sort_title: Pulp Fiction
