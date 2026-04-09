@@ -3523,15 +3523,14 @@ metadata:
     label_title: 'NIPPON SANGOKU: The Three Nations of the Crimson Sun'
     sort_title: 'NIPPON SANGOKU: The Three Nations of the Crimson Sun'
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/703286
     tpdb_search: https://theposterdb.com/search?term=NIPPON+SANGOKU:+The+Three+Nations+of+the+Crimson+Sun&section=shows
+    audio_language: ja-JP
     genre.sync:
-      - Animation
       - Anime
-      - Drama
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/703287
   318009:
     label_title: Norsemen
     sort_title: Norsemen
@@ -5688,17 +5687,14 @@ metadata:
     label_title: Witch Hat Atelier
     sort_title: Witch Hat Atelier
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/699519
     tpdb_search: https://theposterdb.com/search?term=Witch+Hat+Atelier&section=shows
+    audio_language: ja-JP
     genre.sync:
-      - Adventure
-      - Animation
       - Anime
-      - Drama
-      - Fantasy
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/699520
   428629:
     label_title: Wonder Man
     sort_title: Wonder Man
