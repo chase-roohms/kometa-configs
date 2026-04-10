@@ -3573,6 +3573,17 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/464545
+  469462:
+    label_title: The Office (MX)
+    sort_title: Office (MX)
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Office+(MX)&section=shows
+    genre.sync:
+      - Comedy
+    seasons:
+      1:
+        url_poster: ''
   73244:
     label_title: The Office (US)
     sort_title: Office (US)
