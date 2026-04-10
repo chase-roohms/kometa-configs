@@ -5207,6 +5207,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/587071
       6:
         url_poster: https://theposterdb.com/api/assets/587069
+      7:
+        url_poster: ''
   464185:
     label_title: 'The Terminal List: Dark Wolf'
     sort_title: 'Terminal List: Dark Wolf'
