@@ -5201,26 +5201,26 @@ metadata:
     label_title: Temptation Island (US)
     sort_title: Temptation Island (US)
     release_year: '2019'
-    url_poster: https://theposterdb.com/api/assets/140548
+    url_poster: https://theposterdb.com/api/assets/704753
     tpdb_search: https://theposterdb.com/search?term=Temptation+Island+(US)&section=shows
     genre.sync:
       - Drama
       - Reality
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/140549
+        url_poster: https://theposterdb.com/api/assets/704754
       2:
-        url_poster: https://theposterdb.com/api/assets/140550
+        url_poster: https://theposterdb.com/api/assets/704755
       3:
-        url_poster: https://theposterdb.com/api/assets/140551
+        url_poster: https://theposterdb.com/api/assets/704756
       4:
-        url_poster: https://theposterdb.com/api/assets/246264
+        url_poster: https://theposterdb.com/api/assets/704757
       5:
-        url_poster: https://theposterdb.com/api/assets/587071
+        url_poster: https://theposterdb.com/api/assets/704758
       6:
-        url_poster: https://theposterdb.com/api/assets/587069
+        url_poster: https://theposterdb.com/api/assets/704759
       7:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/704760
   464185:
     label_title: 'The Terminal List: Dark Wolf'
     sort_title: 'Terminal List: Dark Wolf'
