@@ -8175,6 +8175,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Pulp+Fiction&section=movies
     genre.sync:
       - Thriller
+  1439930:
+    label_title: 'The Punisher: One Last Kill'
+    sort_title: 'Punisher: One Last Kill'
+    release_year: '2026'
+    url_poster: https://theposterdb.com/api/assets/704764
+    tpdb_search: https://theposterdb.com/search?term=The+Punisher:+One+Last+Kill&section=movies
+    studio: Marvel Studios
+    genre.sync:
+      - Superhero
   417859:
     label_title: Puss in Boots
     sort_title: Puss in Boots 1
