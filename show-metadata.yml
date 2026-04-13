@@ -1462,6 +1462,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/136956
       2:
         url_poster: https://theposterdb.com/api/assets/199689
+      3:
+        url_poster: ''
   280619:
     label_title: The Expanse
     sort_title: Expanse
