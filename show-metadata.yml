@@ -1457,13 +1457,13 @@ metadata:
       - Drama
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/136955
+        url_poster: https://theposterdb.com/api/assets/704140
       1:
-        url_poster: https://theposterdb.com/api/assets/136956
+        url_poster: https://theposterdb.com/api/assets/704141
       2:
-        url_poster: https://theposterdb.com/api/assets/199689
+        url_poster: https://theposterdb.com/api/assets/704142
       3:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/704143
   280619:
     label_title: The Expanse
     sort_title: Expanse
