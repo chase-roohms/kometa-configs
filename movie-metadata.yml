@@ -421,6 +421,17 @@ metadata:
     genre.sync:
       - Drama
       - Thriller
+  1432547:
+    label_title: All You Need is Kill
+    sort_title: All You Need is Kill
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=All+You+Need+is+Kill&section=movies
+    genre.sync:
+      - Action
+      - Animation
+      - Mystery
+      - Science Fiction
   222936:
     label_title: Aloha
     sort_title: Aloha
