@@ -5691,6 +5691,18 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Legend&section=movies
     genre.sync:
       - Action
+  980431:
+    label_title: 'The Legend of Aang: The Last Airbender'
+    sort_title: 'Legend of Aang: The Last Airbender'
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Legend+of+Aang:+The+Last+Airbender&section=movies
+    genre.sync:
+      - Action
+      - Adventure
+      - Animation
+      - Family
+      - Fantasy
   896536:
     label_title: The Legend of Ochi
     sort_title: Legend of Oshi
