@@ -840,15 +840,19 @@ metadata:
     label_title: Bridgerton
     sort_title: Bridgerton
     release_year: '2020'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/213196
     tpdb_search: https://theposterdb.com/search?term=Bridgerton&section=shows
     genre.sync:
       - Drama
-      - History
-      - Romance
     seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/213197
+      2:
+        url_poster: https://theposterdb.com/api/assets/213198
+      3:
+        url_poster: https://theposterdb.com/api/assets/484889
       4:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/681414
   331600:
     label_title: Castle Rock
     sort_title: Castle Rock
