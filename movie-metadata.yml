@@ -10512,11 +10512,10 @@ metadata:
     label_title: undertone
     sort_title: undertone
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/680383
     tpdb_search: https://theposterdb.com/search?term=undertone&section=movies
     genre.sync:
       - Horror
-      - Mystery
   1517772:
     label_title: 'Unknown Number: The High School Catfish'
     sort_title: 'Unknown Number: The High School Catfish'
