@@ -520,6 +520,8 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/345359
+      2:
+        url_poster: ''
   380991:
     label_title: Behind Her Eyes
     sort_title: Behind Her Eyes
