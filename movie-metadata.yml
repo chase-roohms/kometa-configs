@@ -7333,6 +7333,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Panji+Tengkorak&section=movies
     genre.sync:
       - Animation
+  4977:
+    label_title: Paprika
+    sort_title: Paprika
+    release_year: '2006'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Paprika&section=movies
+    genre.sync:
+      - Animation
+      - Science Fiction
+      - Thriller
   23827:
     label_title: Paranormal Activity
     sort_title: Paranormal Activity 1
