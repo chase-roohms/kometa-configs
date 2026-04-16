@@ -519,9 +519,9 @@ metadata:
       - Drama
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/345359
+        url_poster: https://theposterdb.com/api/assets/704708
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/704709
   380991:
     label_title: Behind Her Eyes
     sort_title: Behind Her Eyes
@@ -4615,19 +4615,14 @@ metadata:
     label_title: Sonny Boy
     sort_title: Sonny Boy
     release_year: '2021'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/604515
     tpdb_search: https://theposterdb.com/search?term=Sonny+Boy&section=shows
+    audio_language: ja-JP
     genre.sync:
-      - Action
-      - Adventure
-      - Animation
       - Anime
-      - Drama
-      - Mystery
-      - Science Fiction
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/604516
   82696:
     label_title: Sons of Anarchy
     sort_title: Sons of Anarchy
