@@ -3222,14 +3222,14 @@ metadata:
     label_title: "Margo's Got Money Troubles"
     sort_title: "Margo's Got Money Troubles"
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/706139
     tpdb_search: "https://theposterdb.com/search?term=Margo's+Got+Money+Troubles&section=shows"
     genre.sync:
       - Comedy
       - Drama
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/706140
   412428:
     label_title: Marvel Zombies
     sort_title: Marvel Zombies
