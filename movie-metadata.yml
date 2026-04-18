@@ -153,6 +153,16 @@ metadata:
     studio: DreamWorks Animation
     genre.sync:
       - Animation
+  122906:
+    label_title: About Time
+    sort_title: About Time
+    release_year: '2013'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=About+Time&section=movies
+    genre.sync:
+      - Drama
+      - Fantasy
+      - Romance
   302946:
     label_title: The Accountant
     sort_title: Accountant 1
