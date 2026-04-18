@@ -2805,7 +2805,7 @@ metadata:
     label_title: Edge of Tomorrow
     sort_title: Edge of Tomorrow
     release_year: '2014'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/47296
     tpdb_search: https://theposterdb.com/search?term=Edge+of+Tomorrow&section=movies
     genre.sync:
       - Action
