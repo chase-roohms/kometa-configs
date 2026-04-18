@@ -2225,6 +2225,16 @@ metadata:
     genre.sync:
       - Comedy
       - Horror
+  1538:
+    label_title: Collateral
+    sort_title: Collateral
+    release_year: '2004'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Collateral&section=movies
+    genre.sync:
+      - Crime
+      - Drama
+      - Thriller
   25237:
     label_title: Come and See
     sort_title: Come and See
