@@ -157,12 +157,10 @@ metadata:
     label_title: About Time
     sort_title: About Time
     release_year: '2013'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/455999
     tpdb_search: https://theposterdb.com/search?term=About+Time&section=movies
     genre.sync:
       - Drama
-      - Fantasy
-      - Romance
   302946:
     label_title: The Accountant
     sort_title: Accountant 1
@@ -2229,10 +2227,9 @@ metadata:
     label_title: Collateral
     sort_title: Collateral
     release_year: '2004'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/29345
     tpdb_search: https://theposterdb.com/search?term=Collateral&section=movies
     genre.sync:
-      - Crime
       - Drama
       - Thriller
   25237:
