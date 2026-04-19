@@ -783,17 +783,17 @@ metadata:
       - Superhero
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/408213
+        url_poster: https://theposterdb.com/api/assets/490963
       1:
-        url_poster: https://theposterdb.com/api/assets/408214
+        url_poster: https://theposterdb.com/api/assets/451540
       2:
-        url_poster: https://theposterdb.com/api/assets/408215
+        url_poster: https://theposterdb.com/api/assets/451541
       3:
-        url_poster: https://theposterdb.com/api/assets/408216
+        url_poster: https://theposterdb.com/api/assets/451542
       4:
-        url_poster: https://theposterdb.com/api/assets/495081
+        url_poster: https://theposterdb.com/api/assets/490964
       5:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/696070
   81189:
     label_title: Breaking Bad
     sort_title: Breaking Bad
