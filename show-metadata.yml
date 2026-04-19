@@ -1696,19 +1696,19 @@ metadata:
     label_title: FROM
     sort_title: FROM
     release_year: '2022'
-    url_poster: https://theposterdb.com/api/assets/214022
+    url_poster: https://theposterdb.com/api/assets/603827
     tpdb_search: https://theposterdb.com/search?term=FROM&section=shows
     genre.sync:
       - Horror
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/214023
+        url_poster: https://theposterdb.com/api/assets/603828
       2:
-        url_poster: https://theposterdb.com/api/assets/347291
+        url_poster: https://theposterdb.com/api/assets/603829
       3:
-        url_poster: https://theposterdb.com/api/assets/515190
+        url_poster: https://theposterdb.com/api/assets/603830
       4:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/699644
   73871:
     label_title: Futurama
     sort_title: Futurama
