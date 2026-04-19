@@ -1707,6 +1707,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/347291
       3:
         url_poster: https://theposterdb.com/api/assets/515190
+      4:
+        url_poster: ''
   73871:
     label_title: Futurama
     sort_title: Futurama
