@@ -7335,13 +7335,11 @@ metadata:
     label_title: The Outpost
     sort_title: Outpost
     release_year: '2020'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/84484
     tpdb_search: https://theposterdb.com/search?term=The+Outpost&section=movies
     genre.sync:
       - Action
       - Drama
-      - History
-      - War
   7518:
     label_title: Over the Hedge
     sort_title: Over The Hedge
