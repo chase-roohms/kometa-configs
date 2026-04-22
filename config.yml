@@ -200,6 +200,7 @@ url_poster_mappings:
     url_poster_Science Fiction: https://theposterdb.com/api/assets/631171
     url_poster_Superhero: https://theposterdb.com/api/assets/631181
     url_poster_Thriller: https://theposterdb.com/api/assets/631180
+    url_poster_War: https://theposterdb.com/api/assets/707677
   imdb_posters: &imdb_posters
     url_poster_popular: https://theposterdb.com/api/assets/593556
     url_poster_top: https://theposterdb.com/api/assets/593554
@@ -359,6 +360,7 @@ shared_collection_files:
       - Science Fiction
       - Superhero
       - Thriller
+      - War
     <<: *genre_posters
 
 - &universe_collection
