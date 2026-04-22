@@ -92,6 +92,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=300&section=movies
     genre.sync:
       - Action
+      - War
   53182:
     label_title: '300: Rise of an Empire'
     sort_title: 300 2
@@ -100,6 +101,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=300:+Rise+of+an+Empire&section=movies
     genre.sync:
       - Action
+      - War
   3021:
     label_title: '1408'
     sort_title: '1408'
@@ -117,6 +119,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=1917&section=movies
     genre.sync:
       - Action
+      - War
   14161:
     label_title: '2012'
     sort_title: '2012'
@@ -1375,6 +1378,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Braveheart&section=movies
     genre.sync:
       - Action
+      - War
   80384:
     label_title: Breaking Wind
     sort_title: Breaking Wind
@@ -1454,6 +1458,7 @@ metadata:
     studio: Lionsgate
     genre.sync:
       - Drama
+      - War
   549509:
     label_title: The Brutalist
     sort_title: Brutalist
@@ -2050,6 +2055,7 @@ metadata:
     genre.sync:
       - Animation
       - Family
+      - War
   133131:
     label_title: Why, Charlie Brown, Why?
     sort_title: Charlie Brown Why
@@ -2158,6 +2164,7 @@ metadata:
     genre.sync:
       - Action
       - Drama
+      - War
   7191:
     label_title: Cloverfield
     sort_title: Cloverfield 1
@@ -2240,6 +2247,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Come+and+See&section=movies
     genre.sync:
       - Drama
+      - War
   1084199:
     label_title: Companion
     sort_title: Companion
@@ -2354,6 +2362,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Crimson+Tide&section=movies
     genre.sync:
       - Action
+      - War
   49519:
     label_title: The Croods
     sort_title: Croods 1
@@ -3580,6 +3589,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Fury&section=movies
     genre.sync:
       - Action
+      - War
   1045938:
     label_title: G20
     sort_title: G20
@@ -3675,6 +3685,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Glory&section=movies
     genre.sync:
       - Drama
+      - War
   1297842:
     label_title: GOAT
     sort_title: GOAT
@@ -3852,6 +3863,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Greyhound&section=movies
     genre.sync:
       - Action
+      - War
   360920:
     label_title: The Grinch
     sort_title: Grinch
@@ -3914,6 +3926,7 @@ metadata:
     studio: Lionsgate
     genre.sync:
       - Action
+      - War
   27850:
     label_title: Halloweentown
     sort_title: Halloweentown 1
@@ -4794,6 +4807,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Incendies&section=movies
     genre.sync:
       - Drama
+      - War
   27205:
     label_title: Inception
     sort_title: Inception
@@ -4887,6 +4901,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Inglourious+Basterds&section=movies
     genre.sync:
       - Action
+      - War
   150540:
     label_title: Inside Out
     sort_title: Inside Out
@@ -5236,6 +5251,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Jojo+Rabbit&section=movies
     genre.sync:
       - Drama
+      - War
   475557:
     label_title: Joker
     sort_title: Joker 1
@@ -5513,6 +5529,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+King&section=movies
     genre.sync:
       - Drama
+      - War
   274857:
     label_title: 'King Arthur: Legend of the Sword'
     sort_title: 'King Arthur: Legend of the Sword'
@@ -5530,6 +5547,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Kingdom+of+Heaven&section=movies
     genre.sync:
       - Action
+      - War
   546554:
     label_title: Knives Out
     sort_title: Knives Out 1
@@ -5683,6 +5701,7 @@ metadata:
     genre.sync:
       - Action
       - Thriller
+      - War
   616:
     label_title: The Last Samurai
     sort_title: Last Samurai
@@ -5973,6 +5992,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Lone+Survivor&section=movies
     genre.sync:
       - Action
+      - War
   604079:
     label_title: The Long Walk
     sort_title: Long Walk
@@ -6572,6 +6592,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Midway&section=movies
     genre.sync:
       - Action
+      - War
   940551:
     label_title: Migration
     sort_title: Migration
@@ -6615,6 +6636,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Ministry+of+Ungentlemanly+Warfare&section=movies
     genre.sync:
       - Action
+      - War
   22371:
     label_title: Minutemen
     sort_title: Minutemen
@@ -6940,6 +6962,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Napoleon&section=movies
     genre.sync:
       - Drama
+      - War
   2059:
     label_title: National Treasure
     sort_title: National Treasure 1
@@ -7340,6 +7363,7 @@ metadata:
     genre.sync:
       - Action
       - Drama
+      - War
   7518:
     label_title: Over the Hedge
     sort_title: Over The Hedge
@@ -7532,6 +7556,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Pearl+Harbor&section=movies
     genre.sync:
       - Action
+      - War
   270946:
     label_title: Penguins of Madagascar
     sort_title: Penguins of Madagascar
@@ -7780,6 +7805,7 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
+      - War
   653346:
     label_title: Kingdom of the Planet of the Apes
     sort_title: Planet of the Apes 4
@@ -8191,6 +8217,7 @@ metadata:
       - Action
       - Science Fiction
       - Thriller
+      - War
   10198:
     label_title: The Princess and the Frog
     sort_title: Princess and the Frog
@@ -9075,6 +9102,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Sisu&section=movies
     genre.sync:
       - Action
+      - War
   1223601:
     label_title: 'Sisu: Road to Revenge'
     sort_title: Sisu 2
@@ -9083,6 +9111,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Sisu:+Road+to+Revenge&section=movies
     genre.sync:
       - Action
+      - War
   1319969:
     label_title: Sketch
     sort_title: Sketch
@@ -10616,6 +10645,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=USS+Indianapolis:+Men+of+Courage&section=movies
     genre.sync:
       - Action
+      - War
   418703:
     label_title: 'USS Indianapolis: The Legacy'
     sort_title: 'USS Indianapolis: The Legacy'
@@ -10624,6 +10654,7 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=USS+Indianapolis:+The+Legacy&section=movies
     genre.sync:
       - Documentary
+      - War
   40264:
     label_title: Vampires Suck
     sort_title: Vampires Suck
@@ -10712,6 +10743,7 @@ metadata:
     genre.sync:
       - Action
       - Thriller
+      - War
   533444:
     label_title: Waves
     sort_title: Waves
