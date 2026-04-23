@@ -5000,14 +5000,14 @@ metadata:
     label_title: "Stranger Things: Tales from '85"
     sort_title: "Stranger Things: Tales from '85"
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/706692
     tpdb_search: "https://theposterdb.com/search?term=Stranger+Things:+Tales+from+'85&section=shows"
     genre.sync:
       - Animation
       - Science Fiction
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/706693
   80506:
     label_title: Summer Heights High
     sort_title: Summer Heights High
