@@ -5543,10 +5543,9 @@ metadata:
     label_title: King of New York
     sort_title: King of New York
     release_year: '1990'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/637245
     tpdb_search: https://theposterdb.com/search?term=King+of+New+York&section=movies
     genre.sync:
-      - Crime
       - Thriller
   1495:
     label_title: Kingdom of Heaven
