@@ -5539,6 +5539,15 @@ metadata:
     genre.sync:
       - Action
       - Drama
+  9558:
+    label_title: King of New York
+    sort_title: King of New York
+    release_year: '1990'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=King+of+New+York&section=movies
+    genre.sync:
+      - Crime
+      - Thriller
   1495:
     label_title: Kingdom of Heaven
     sort_title: Kingdom of Heaven
