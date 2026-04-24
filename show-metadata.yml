@@ -5097,23 +5097,25 @@ metadata:
     label_title: Superstore
     sort_title: Superstore
     release_year: '2015'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/141353
     tpdb_search: https://theposterdb.com/search?term=Superstore&section=shows
     genre.sync:
       - Comedy
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/141354
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/141355
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/141356
       3:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/141357
       4:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/141358
       5:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/141359
       6:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/141360
   76733:
     label_title: Survivor
     sort_title: Survivor
