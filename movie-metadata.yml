@@ -7,6 +7,17 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=9&section=movies
     genre.sync:
       - Animation
+  429351:
+    label_title: 12 Strong
+    sort_title: 12 Strong
+    release_year: '2018'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=12+Strong&section=movies
+    genre.sync:
+      - Action
+      - Drama
+      - History
+      - War
   170:
     label_title: 28 Days Later
     sort_title: 28 Later 1
