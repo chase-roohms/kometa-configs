@@ -8319,7 +8319,7 @@ metadata:
     label_title: The Purge
     sort_title: Purge 1
     release_year: '2013'
-    url_poster: https://theposterdb.com/api/assets/8516
+    url_poster: https://theposterdb.com/api/assets/165924
     tpdb_search: https://theposterdb.com/search?term=The+Purge&section=movies
     genre.sync:
       - Action
@@ -8328,7 +8328,7 @@ metadata:
     label_title: 'The Purge: Anarchy'
     sort_title: Purge 2
     release_year: '2014'
-    url_poster: https://theposterdb.com/api/assets/8517
+    url_poster: https://theposterdb.com/api/assets/165925
     tpdb_search: https://theposterdb.com/search?term=The+Purge:+Anarchy&section=movies
     genre.sync:
       - Action
@@ -8337,7 +8337,7 @@ metadata:
     label_title: 'The Purge: Election Year'
     sort_title: Purge 3
     release_year: '2016'
-    url_poster: https://theposterdb.com/api/assets/8518
+    url_poster: https://theposterdb.com/api/assets/165926
     tpdb_search: https://theposterdb.com/search?term=The+Purge:+Election+Year&section=movies
     genre.sync:
       - Action
@@ -8346,7 +8346,7 @@ metadata:
     label_title: The First Purge
     sort_title: Purge 4
     release_year: '2018'
-    url_poster: https://theposterdb.com/api/assets/8519
+    url_poster: https://theposterdb.com/api/assets/165927
     tpdb_search: https://theposterdb.com/search?term=The+First+Purge&section=movies
     genre.sync:
       - Action
@@ -8355,7 +8355,7 @@ metadata:
     label_title: The Forever Purge
     sort_title: Purge 5
     release_year: '2021'
-    url_poster: https://theposterdb.com/api/assets/255282
+    url_poster: https://theposterdb.com/api/assets/165928
     tpdb_search: https://theposterdb.com/search?term=The+Forever+Purge&section=movies
     genre.sync:
       - Action
