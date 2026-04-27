@@ -8317,6 +8317,15 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
+  238636:
+    label_title: 'The Purge: Anarchy'
+    sort_title: 'Purge: Anarchy'
+    release_year: '2014'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Purge:+Anarchy&section=movies
+    genre.sync:
+      - Horror
+      - Thriller
   316727:
     label_title: 'The Purge: Election Year'
     sort_title: 'Purge: Election Year'
