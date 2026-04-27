@@ -7232,6 +7232,17 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Nun+II&section=movies
     genre.sync:
       - Horror
+  75612:
+    label_title: Oblivion
+    sort_title: Oblivion
+    release_year: '2013'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Oblivion&section=movies
+    genre.sync:
+      - Action
+      - Adventure
+      - Mystery
+      - Science Fiction
   1339713:
     label_title: Obsession
     sort_title: Obsession
