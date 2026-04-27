@@ -1092,7 +1092,7 @@ metadata:
     label_title: Daddy Issues
     sort_title: Daddy Issues
     release_year: '2024'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/709041
     tpdb_search: https://theposterdb.com/search?term=Daddy+Issues&section=shows
     genre.sync:
       - Comedy
@@ -1100,9 +1100,9 @@ metadata:
       - Family
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/709042
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/709043
   452711:
     label_title: Daemons of the Shadow Realm
     sort_title: Daemons of the Shadow Realm
