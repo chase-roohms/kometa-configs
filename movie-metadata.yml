@@ -8319,32 +8319,48 @@ metadata:
       - Superhero
   158015:
     label_title: The Purge
-    sort_title: Purge
+    sort_title: Purge 1
     release_year: '2013'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/8516
     tpdb_search: https://theposterdb.com/search?term=The+Purge&section=movies
     genre.sync:
-      - Horror
-      - Science Fiction
+      - Action
       - Thriller
   238636:
     label_title: 'The Purge: Anarchy'
-    sort_title: 'Purge: Anarchy'
+    sort_title: Purge 2
     release_year: '2014'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/8517
     tpdb_search: https://theposterdb.com/search?term=The+Purge:+Anarchy&section=movies
     genre.sync:
-      - Horror
+      - Action
       - Thriller
   316727:
     label_title: 'The Purge: Election Year'
-    sort_title: 'Purge: Election Year'
+    sort_title: Purge 3
     release_year: '2016'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/8518
     tpdb_search: https://theposterdb.com/search?term=The+Purge:+Election+Year&section=movies
     genre.sync:
       - Action
-      - Horror
+      - Thriller
+  442249: 
+    label_title: The First Purge
+    sort_title: Purge 4
+    release_year: '2018'
+    url_poster: https://theposterdb.com/api/assets/8519
+    tpdb_search: https://theposterdb.com/search?term=The+First+Purge&section=movies
+    genre.sync:
+      - Action
+      - Thriller
+  602223: 
+    label_title: The Forever Purge
+    sort_title: Purge 5
+    release_year: '2021'
+    url_poster: https://theposterdb.com/api/assets/255282
+    tpdb_search: https://theposterdb.com/search?term=The+Forever+Purge&section=movies
+    genre.sync:
+      - Action
       - Thriller
   417859:
     label_title: Puss in Boots
