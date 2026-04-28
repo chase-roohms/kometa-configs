@@ -612,7 +612,7 @@ metadata:
     label_title: Apex
     sort_title: Apex
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/709134
     tpdb_search: https://theposterdb.com/search?term=Apex&section=movies
     genre.sync:
       - Action
