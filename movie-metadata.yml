@@ -608,6 +608,15 @@ metadata:
     studio: DreamWorks Animation
     genre.sync:
       - Animation
+  1318447:
+    label_title: Apex
+    sort_title: Apex
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Apex&section=movies
+    genre.sync:
+      - Action
+      - Thriller
   1118031:
     label_title: 'Apocalypse Z: The Beginning of the End'
     sort_title: Apocalypse Z The Beginning of the End
