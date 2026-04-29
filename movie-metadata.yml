@@ -10809,11 +10809,10 @@ metadata:
     label_title: The Wailing
     sort_title: Wailing
     release_year: '2016'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/509376
     tpdb_search: https://theposterdb.com/search?term=The+Wailing&section=movies
     genre.sync:
       - Horror
-      - Mystery
   10681:
     label_title: WALL·E
     sort_title: WALL.E
