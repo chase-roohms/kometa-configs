@@ -5761,14 +5761,14 @@ metadata:
     label_title: "Widow's Bay"
     sort_title: "Widow's Bay"
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/709225
     tpdb_search: "https://theposterdb.com/search?term=Widow's+Bay&section=shows"
     genre.sync:
       - Comedy
       - Horror
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/709226
   453694:
     label_title: 'A Wild Last Boss Appeared!'
     sort_title: 'Wild Last Boss Appeared'
