@@ -3878,12 +3878,11 @@ metadata:
     label_title: Green Book
     sort_title: Green Book
     release_year: '2018'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/343016
     tpdb_search: https://theposterdb.com/search?term=Green+Book&section=movies
     genre.sync:
       - Comedy
       - Drama
-      - History
   524047:
     label_title: Greenland
     sort_title: Greenland 1
