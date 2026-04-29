@@ -4029,23 +4029,23 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/417771
   305089:
     label_title: 'Re: ZERO, Starting Life in Another World'
-    sort_title: 'Re: ZERO, Starting Life in Another World'
+    sort_title: Re ZERO
     release_year: '2016'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/535969
     tpdb_search: https://theposterdb.com/search?term=Re:+ZERO,+Starting+Life+in+Another+World&section=shows
     genre.sync:
-      - Adventure
-      - Animation
       - Anime
-      - Drama
-      - Fantasy
-      - Horror
-      - Mystery
-      - Romance
-      - Thriller
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/535970
+      1:
+        url_poster: https://theposterdb.com/api/assets/535971
+      2:
+        url_poster: https://theposterdb.com/api/assets/535972
+      3:
+        url_poster: https://theposterdb.com/api/assets/535973
       4:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/704545
   366924:
     label_title: Reacher
     sort_title: Reacher
