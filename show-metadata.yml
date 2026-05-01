@@ -4033,6 +4033,7 @@ metadata:
     release_year: '2016'
     url_poster: https://theposterdb.com/api/assets/535969
     tpdb_search: https://theposterdb.com/search?term=Re:+ZERO,+Starting+Life+in+Another+World&section=shows
+    audio_language: ja-JP
     genre.sync:
       - Anime
     seasons:
