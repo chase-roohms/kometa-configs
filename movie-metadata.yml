@@ -9925,14 +9925,11 @@ metadata:
     label_title: Swapped
     sort_title: Swapped
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/710481
     tpdb_search: https://theposterdb.com/search?term=Swapped&section=movies
     genre.sync:
-      - Adventure
       - Animation
-      - Comedy
       - Family
-      - Fantasy
   9078:
     label_title: The Sword in the Stone
     sort_title: Sword in the Stone
