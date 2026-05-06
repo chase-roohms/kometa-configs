@@ -8486,6 +8486,15 @@ metadata:
     studio: Disney
     genre.sync:
       - Animation
+  567609:
+    label_title: Ready or Not
+    sort_title: Ready or Not
+    release_year: '2019'
+    url_poster: https://theposterdb.com/api/assets/690046
+    tpdb_search: https://theposterdb.com/search?term=Ready+or+Not&section=movies
+    genre.sync:
+      - Comedy
+      - Horror
   1266127:
     label_title: 'Ready or Not 2: Here I Come'
     sort_title: Ready or Not 2
