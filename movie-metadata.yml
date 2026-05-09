@@ -8941,6 +8941,17 @@ metadata:
     studio: Illumination
     genre.sync:
       - Animation
+  116745:
+    label_title: The Secret Life of Walter Mitty
+    sort_title: Secret Life of Walter Mitty
+    release_year: '2013'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Secret+Life+of+Walter+Mitty&section=movies
+    genre.sync:
+      - Adventure
+      - Comedy
+      - Drama
+      - Fantasy
   51739:
     label_title: The Secret World of Arrietty
     sort_title: Secret World of Arrietty
