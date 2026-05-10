@@ -116,10 +116,10 @@ metadata:
     label_title: 365 Days
     sort_title: 365 Days
     release_year: '2020'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/231153
     tpdb_search: https://theposterdb.com/search?term=365+Days&section=movies
     genre.sync:
-      - Romance
+      - Drama
   3021:
     label_title: '1408'
     sort_title: '1408'
@@ -2261,7 +2261,7 @@ metadata:
     label_title: Coherence
     sort_title: Coherence
     release_year: '2014'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/320677
     tpdb_search: https://theposterdb.com/search?term=Coherence&section=movies
     genre.sync:
       - Science Fiction
@@ -8338,10 +8338,9 @@ metadata:
     label_title: Project Hail Mary
     sort_title: Project Hail Mary
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/621265
     tpdb_search: https://theposterdb.com/search?term=Project+Hail+Mary&section=movies
     genre.sync:
-      - Adventure
       - Science Fiction
   582014:
     label_title: Promising Young Woman
@@ -8962,13 +8961,11 @@ metadata:
     label_title: The Secret Life of Walter Mitty
     sort_title: Secret Life of Walter Mitty
     release_year: '2013'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/50768
     tpdb_search: https://theposterdb.com/search?term=The+Secret+Life+of+Walter+Mitty&section=movies
     genre.sync:
-      - Adventure
       - Comedy
       - Drama
-      - Fantasy
   51739:
     label_title: The Secret World of Arrietty
     sort_title: Secret World of Arrietty
