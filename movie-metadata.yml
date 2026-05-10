@@ -112,6 +112,14 @@ metadata:
     genre.sync:
       - Action
       - War
+  1689043:
+    label_title: 365 Days
+    sort_title: 365 Days
+    release_year: '2020'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=365+Days&section=movies
+    genre.sync:
+      - Romance
   3021:
     label_title: '1408'
     sort_title: '1408'
