@@ -8334,6 +8334,15 @@ metadata:
     genre.sync:
       - Drama
       - Thriller
+  687163:
+    label_title: Project Hail Mary
+    sort_title: Project Hail Mary
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Project+Hail+Mary&section=movies
+    genre.sync:
+      - Adventure
+      - Science Fiction
   582014:
     label_title: Promising Young Woman
     sort_title: Promising Young Woman
