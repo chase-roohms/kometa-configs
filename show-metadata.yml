@@ -1370,6 +1370,20 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/408218
+  361566:
+    label_title: Dickinson
+    sort_title: Dickinson
+    release_year: '2019'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Dickinson&section=shows
+    genre.sync:
+      - Comedy
+      - Drama
+      - History
+      - Romance
+    seasons:
+      1:
+        url_poster: ''
   370761:
     label_title: Dorohedoro
     sort_title: Dorohedoro
