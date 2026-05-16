@@ -8670,6 +8670,14 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
+  1658982:
+    label_title: The Roast of Kevin Hart
+    sort_title: Roast of Kevin Hart
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Roast+of+Kevin+Hart&section=movies
+    genre.sync:
+      - Comedy
   11886:
     label_title: Robin Hood
     sort_title: Robin Hood
