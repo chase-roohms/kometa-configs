@@ -1463,6 +1463,15 @@ metadata:
     genre.sync:
       - Horror
       - Science Fiction
+  296098:
+    label_title: Bridge of Spies
+    sort_title: Bridge of Spies
+    release_year: '2015'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Bridge+of+Spies&section=movies
+    genre.sync:
+      - Drama
+      - Thriller
   531309:
     label_title: Brightburn
     sort_title: Brightburn
