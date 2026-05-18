@@ -17,6 +17,18 @@ metadata:
       - Action
       - Drama
       - War
+  300671:
+    label_title: '13 Hours: The Secret Soldiers of Benghazi'
+    sort_title: '13 Hours: The Secret Soldiers of Benghazi'
+    release_year: '2016'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=13+Hours:+The+Secret+Soldiers+of+Benghazi&section=movies
+    genre.sync:
+      - Action
+      - Drama
+      - History
+      - Thriller
+      - War
   170:
     label_title: 28 Days Later
     sort_title: 28 Later 1
