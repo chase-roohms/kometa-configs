@@ -3187,6 +3187,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Exterritorial&section=movies
     genre.sync:
       - Thriller
+  333352:
+    label_title: Eye in the Sky
+    sort_title: Eye in the Sky
+    release_year: '2015'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Eye+in+the+Sky&section=movies
+    genre.sync:
+      - Drama
+      - Thriller
+      - War
   911430:
     label_title: F1
     sort_title: F1
