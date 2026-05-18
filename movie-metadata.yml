@@ -10111,6 +10111,16 @@ metadata:
     studio: Disney
     genre.sync:
       - Animation
+  9567:
+    label_title: Tears of the Sun
+    sort_title: Tears of the Sun
+    release_year: '2003'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Tears+of+the+Sun&section=movies
+    genre.sync:
+      - Action
+      - Drama
+      - War
   877703:
     label_title: 'Teen Wolf: The Movie'
     sort_title: Teen Wolf The Movie
