@@ -3187,6 +3187,15 @@ metadata:
     genre.sync:
       - Action
       - Drama
+  38363:
+    label_title: Fair Game
+    sort_title: Fair Game
+    release_year: '2010'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Fair+Game&section=movies
+    genre.sync:
+      - Drama
+      - Thriller
   746036:
     label_title: The Fall Guy
     sort_title: Fall Guy
