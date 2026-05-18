@@ -6025,6 +6025,16 @@ metadata:
     studio: Disney
     genre.sync:
       - Family
+  50348:
+    label_title: The Lincoln Lawyer
+    sort_title: Lincoln Lawyer
+    release_year: '2011'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Lincoln+Lawyer&section=movies
+    genre.sync:
+      - Crime
+      - Drama
+      - Thriller
   8587:
     label_title: The Lion King
     sort_title: Lion King (Animated) 1
