@@ -584,7 +584,7 @@ metadata:
     label_title: Another Round
     sort_title: Another Round
     release_year: '2020'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/107345
     tpdb_search: https://theposterdb.com/search?term=Another+Round&section=movies
     genre.sync:
       - Comedy
