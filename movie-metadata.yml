@@ -21,13 +21,10 @@ metadata:
     label_title: '13 Hours: The Secret Soldiers of Benghazi'
     sort_title: '13 Hours: The Secret Soldiers of Benghazi'
     release_year: '2016'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/125840
     tpdb_search: https://theposterdb.com/search?term=13+Hours:+The+Secret+Soldiers+of+Benghazi&section=movies
     genre.sync:
       - Action
-      - Drama
-      - History
-      - Thriller
       - War
   170:
     label_title: 28 Days Later
@@ -214,11 +211,10 @@ metadata:
     label_title: Act of Valor
     sort_title: Act of Valor
     release_year: '2012'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/46153
     tpdb_search: https://theposterdb.com/search?term=Act+of+Valor&section=movies
     genre.sync:
       - Action
-      - Thriller
       - War
   1083420:
     label_title: Adulthood
@@ -1467,7 +1463,7 @@ metadata:
     label_title: Bridge of Spies
     sort_title: Bridge of Spies
     release_year: '2015'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/49262
     tpdb_search: https://theposterdb.com/search?term=Bridge+of+Spies&section=movies
     genre.sync:
       - Drama
@@ -3191,7 +3187,7 @@ metadata:
     label_title: Eye in the Sky
     sort_title: Eye in the Sky
     release_year: '2015'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/228397
     tpdb_search: https://theposterdb.com/search?term=Eye+in+the+Sky&section=movies
     genre.sync:
       - Drama
@@ -3210,7 +3206,7 @@ metadata:
     label_title: Fair Game
     sort_title: Fair Game
     release_year: '2010'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/80324
     tpdb_search: https://theposterdb.com/search?term=Fair+Game&section=movies
     genre.sync:
       - Drama
@@ -6029,10 +6025,9 @@ metadata:
     label_title: The Lincoln Lawyer
     sort_title: Lincoln Lawyer
     release_year: '2011'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/94548
     tpdb_search: https://theposterdb.com/search?term=The+Lincoln+Lawyer&section=movies
     genre.sync:
-      - Crime
       - Drama
       - Thriller
   8587:
@@ -10153,11 +10148,10 @@ metadata:
     label_title: Tears of the Sun
     sort_title: Tears of the Sun
     release_year: '2003'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/153668
     tpdb_search: https://theposterdb.com/search?term=Tears+of+the+Sun&section=movies
     genre.sync:
       - Action
-      - Drama
       - War
   877703:
     label_title: 'Teen Wolf: The Movie'
@@ -11039,11 +11033,10 @@ metadata:
     label_title: Warhorse One
     sort_title: Warhorse One
     release_year: '2023'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/383606
     tpdb_search: https://theposterdb.com/search?term=Warhorse+One&section=movies
     genre.sync:
       - Action
-      - Drama
       - War
   533444:
     label_title: Waves
@@ -11084,11 +11077,10 @@ metadata:
     label_title: We Were Soldiers
     sort_title: We Were Soldiers
     release_year: '2002'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/214552
     tpdb_search: https://theposterdb.com/search?term=We+Were+Soldiers&section=movies
     genre.sync:
       - Action
-      - History
       - War
   1078605:
     label_title: Weapons
