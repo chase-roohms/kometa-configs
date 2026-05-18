@@ -10997,6 +10997,16 @@ metadata:
       - Action
       - Thriller
       - War
+  1076487:
+    label_title: Warhorse One
+    sort_title: Warhorse One
+    release_year: '2023'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Warhorse+One&section=movies
+    genre.sync:
+      - Action
+      - Drama
+      - War
   533444:
     label_title: Waves
     sort_title: Waves
