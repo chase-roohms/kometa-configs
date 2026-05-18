@@ -11042,6 +11042,16 @@ metadata:
     studio: A24
     genre.sync:
       - Drama
+  10590:
+    label_title: We Were Soldiers
+    sort_title: We Were Soldiers
+    release_year: '2002'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=We+Were+Soldiers&section=movies
+    genre.sync:
+      - Action
+      - History
+      - War
   1078605:
     label_title: Weapons
     sort_title: Weapons
