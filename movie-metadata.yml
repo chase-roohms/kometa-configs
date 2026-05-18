@@ -198,6 +198,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Accountant²&section=movies
     genre.sync:
       - Action
+  75674:
+    label_title: Act of Valor
+    sort_title: Act of Valor
+    release_year: '2012'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Act+of+Valor&section=movies
+    genre.sync:
+      - Action
+      - Thriller
+      - War
   1083420:
     label_title: Adulthood
     sort_title: Adulthood
