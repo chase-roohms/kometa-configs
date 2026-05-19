@@ -10031,6 +10031,18 @@ metadata:
     studio: Illumination
     genre.sync:
       - Animation
+  1226863:
+    label_title: The Super Mario Galaxy Movie
+    sort_title: Super Mario Galaxy Movie
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Super+Mario+Galaxy+Movie&section=movies
+    genre.sync:
+      - Adventure
+      - Animation
+      - Comedy
+      - Family
+      - Fantasy
   39939:
     label_title: Super Troopers
     sort_title: Super Troopers
