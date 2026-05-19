@@ -10024,25 +10024,23 @@ metadata:
       - Thriller
   502356:
     label_title: The Super Mario Bros. Movie
-    sort_title: Super Mario Bros. Movie
+    sort_title: Super Mario Bros 1
     release_year: '2023'
-    url_poster: https://theposterdb.com/api/assets/517024
+    url_poster: https://theposterdb.com/api/assets/696074
     tpdb_search: https://theposterdb.com/search?term=The+Super+Mario+Bros.+Movie&section=movies
     studio: Illumination
     genre.sync:
       - Animation
+      - Family
   1226863:
     label_title: The Super Mario Galaxy Movie
-    sort_title: Super Mario Galaxy Movie
+    sort_title: Super Mario Bros 2
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/696073
     tpdb_search: https://theposterdb.com/search?term=The+Super+Mario+Galaxy+Movie&section=movies
     genre.sync:
-      - Adventure
       - Animation
-      - Comedy
       - Family
-      - Fantasy
   39939:
     label_title: Super Troopers
     sort_title: Super Troopers
