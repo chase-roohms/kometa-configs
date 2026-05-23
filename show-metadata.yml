@@ -4369,18 +4369,17 @@ metadata:
     label_title: School Spirits (2023)
     sort_title: School Spirits (2023)
     release_year: '2023'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/332287
     tpdb_search: https://theposterdb.com/search?term=School+Spirits+(2023)&section=shows
     genre.sync:
       - Drama
-      - Mystery
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/332288
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/562589
       3:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/681498
   358612:
     label_title: Scissor Seven
     sort_title: Scissor Seven
@@ -5858,16 +5857,15 @@ metadata:
     label_title: The Winchesters
     sort_title: Winchesters
     release_year: '2022'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/273634
     tpdb_search: https://theposterdb.com/search?term=The+Winchesters&section=shows
     genre.sync:
-      - Action
-      - Adventure
       - Drama
-      - Suspense
+      - Fantasy
+      - Science Fiction
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/273635
   433088:
     label_title: WIND BREAKER
     sort_title: WIND BREAKER
