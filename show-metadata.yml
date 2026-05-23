@@ -4365,6 +4365,18 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/474777
+  421636:
+    label_title: School Spirits (2023)
+    sort_title: School Spirits (2023)
+    release_year: '2023'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=School+Spirits+(2023)&section=shows
+    genre.sync:
+      - Drama
+      - Mystery
+    seasons:
+      1:
+        url_poster: ''
   358612:
     label_title: Scissor Seven
     sort_title: Scissor Seven
