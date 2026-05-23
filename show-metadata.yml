@@ -5854,6 +5854,20 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/645762
+  420059:
+    label_title: The Winchesters
+    sort_title: Winchesters
+    release_year: '2022'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Winchesters&section=shows
+    genre.sync:
+      - Action
+      - Adventure
+      - Drama
+      - Suspense
+    seasons:
+      1:
+        url_poster: ''
   433088:
     label_title: WIND BREAKER
     sort_title: WIND BREAKER
