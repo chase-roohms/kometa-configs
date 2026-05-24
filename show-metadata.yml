@@ -4237,18 +4237,28 @@ metadata:
     label_title: The Rookie
     sort_title: Rookie
     release_year: '2018'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/452977
     tpdb_search: https://theposterdb.com/search?term=The+Rookie&section=shows
     genre.sync:
       - Action
-      - Crime
       - Drama
-      - Thriller
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/452978
+      2:
+        url_poster: https://theposterdb.com/api/assets/452979
+      3:
+        url_poster: https://theposterdb.com/api/assets/452981
+      4:
+        url_poster: https://theposterdb.com/api/assets/452982
+      5:
+        url_poster: https://theposterdb.com/api/assets/452983
+      6:
+        url_poster: https://theposterdb.com/api/assets/452984
+      7:
+        url_poster: https://theposterdb.com/api/assets/559830
       8:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/680370
   332027:
     label_title: "Marvel's Runaways"
     sort_title: Runaways
