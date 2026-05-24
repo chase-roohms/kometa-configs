@@ -4245,6 +4245,8 @@ metadata:
       - Drama
       - Thriller
     seasons:
+      1:
+        url_poster: ''
       8:
         url_poster: ''
   332027:
