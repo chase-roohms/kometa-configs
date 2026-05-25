@@ -1445,14 +1445,13 @@ metadata:
     label_title: Dutton Ranch
     sort_title: Dutton Ranch
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/713220
     tpdb_search: https://theposterdb.com/search?term=Dutton+Ranch&section=shows
     genre.sync:
       - Drama
-      - Western
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/713221
   82467:
     label_title: Eastbound & Down
     sort_title: Eastbound & Down
