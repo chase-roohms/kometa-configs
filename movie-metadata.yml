@@ -7066,6 +7066,16 @@ metadata:
     studio: Disney
     genre.sync:
       - Family
+  1018:
+    label_title: Mulholland Drive
+    sort_title: Mulholland Drive
+    release_year: '2001'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Mulholland+Drive&section=movies
+    genre.sync:
+      - Drama
+      - Mystery
+      - Thriller
   10437:
     label_title: The Muppet Christmas Carol
     sort_title: Muppet Christmas Carol
