@@ -1353,6 +1353,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Blue+Collar+Comedy+Tour:+The+Movie&section=movies
     genre.sync:
       - Comedy
+  793:
+    label_title: Blue Velvet
+    sort_title: Blue Velvet
+    release_year: '1986'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Blue+Velvet&section=movies
+    genre.sync:
+      - Crime
+      - Mystery
+      - Thriller
   520023:
     label_title: Bodies Bodies Bodies
     sort_title: Bodies Bodies Bodies
