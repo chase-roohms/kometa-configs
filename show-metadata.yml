@@ -4095,21 +4095,21 @@ metadata:
     label_title: The Real Housewives of Melbourne
     sort_title: Real Housewives of Melbourne
     release_year: '2014'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/716655
     tpdb_search: https://theposterdb.com/search?term=The+Real+Housewives+of+Melbourne&section=shows
     genre.sync:
       - Reality
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/716656
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/716657
       3:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/716658
       4:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/716659
       5:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/716660
   405593:
     label_title: The Rehearsal
     sort_title: Rehearsal
@@ -4160,25 +4160,25 @@ metadata:
       - Animation
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/608207
+        url_poster: https://theposterdb.com/api/assets/625635
       1:
-        url_poster: https://theposterdb.com/api/assets/608208
+        url_poster: https://theposterdb.com/api/assets/625636
       2:
-        url_poster: https://theposterdb.com/api/assets/608209
+        url_poster: https://theposterdb.com/api/assets/625637
       3:
-        url_poster: https://theposterdb.com/api/assets/608210
+        url_poster: https://theposterdb.com/api/assets/625638
       4:
-        url_poster: https://theposterdb.com/api/assets/608211
+        url_poster: https://theposterdb.com/api/assets/625639
       5:
-        url_poster: https://theposterdb.com/api/assets/608212
+        url_poster: https://theposterdb.com/api/assets/625640
       6:
-        url_poster: https://theposterdb.com/api/assets/608213
+        url_poster: https://theposterdb.com/api/assets/625641
       7:
-        url_poster: https://theposterdb.com/api/assets/608214
+        url_poster: https://theposterdb.com/api/assets/625642
       8:
-        url_poster: https://theposterdb.com/api/assets/608215
+        url_poster: https://theposterdb.com/api/assets/625643
       9:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/715344
   420279:
     label_title: 'Rick and Morty: The Anime'
     sort_title: Rick and Morty - The Anime
