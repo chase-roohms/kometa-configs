@@ -10745,6 +10745,16 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
+  319:
+    label_title: True Romance
+    sort_title: True Romance
+    release_year: '1993'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=True+Romance&section=movies
+    genre.sync:
+      - Action
+      - Crime
+      - Romance
   77950:
     label_title: Turbo
     sort_title: Turbo
