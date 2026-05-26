@@ -6653,7 +6653,7 @@ metadata:
     label_title: Megalopolis
     sort_title: Megalopolis
     release_year: '2024'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/519495
     tpdb_search: https://theposterdb.com/search?term=Megalopolis&section=movies
     genre.sync:
       - Drama
