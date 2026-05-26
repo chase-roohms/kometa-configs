@@ -6649,6 +6649,16 @@ metadata:
     studio: Disney
     genre.sync:
       - Animation
+  592831:
+    label_title: Megalopolis
+    sort_title: Megalopolis
+    release_year: '2024'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Megalopolis&section=movies
+    genre.sync:
+      - Drama
+      - Fantasy
+      - Science Fiction
   38055:
     label_title: Megamind
     sort_title: Megamind 1
