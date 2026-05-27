@@ -586,6 +586,18 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/123784
       6:
         url_poster: https://theposterdb.com/api/assets/220411
+  76706:
+    label_title: Big Brother (US)
+    sort_title: Big Brother (US)
+    release_year: '2000'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Big+Brother+(US)&section=shows
+    genre.sync:
+      - Game Show
+      - Reality
+    seasons:
+      25:
+        url_poster: ''
   253463:
     label_title: Black Mirror
     sort_title: Black Mirror
