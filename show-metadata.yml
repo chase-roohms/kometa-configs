@@ -4889,6 +4889,20 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/627845
       28:
         url_poster: https://theposterdb.com/api/assets/653576
+  450033:
+    label_title: Spider-Noir
+    sort_title: Spider-Noir
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Spider-Noir&section=shows
+    genre.sync:
+      - Action
+      - Adventure
+      - Crime
+      - Mystery
+    seasons:
+      1:
+        url_poster: ''
   383275:
     label_title: Squid Game
     sort_title: Squid Game
