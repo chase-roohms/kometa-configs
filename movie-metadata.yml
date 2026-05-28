@@ -4273,6 +4273,14 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Heart+Eyes&section=movies
     genre.sync:
       - Horror
+  4539:
+    label_title: "Hearts of Darkness: A Filmmaker's Apocalypse"
+    sort_title: "Hearts of Darkness: A Filmmaker's Apocalypse"
+    release_year: '1991'
+    url_poster: ''
+    tpdb_search: "https://theposterdb.com/search?term=Hearts+of+Darkness:+A+Filmmaker's+Apocalypse&section=movies"
+    genre.sync:
+      - Documentary
   9003:
     label_title: Hellraiser
     sort_title: Hellraiser 1
