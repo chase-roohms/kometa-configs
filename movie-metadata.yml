@@ -2969,6 +2969,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=El+Camino:+A+Breaking+Bad+Movie&section=movies
     genre.sync:
       - Drama
+  9451:
+    label_title: Election
+    sort_title: Election
+    release_year: '1999'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Election&section=movies
+    genre.sync:
+      - Comedy
+      - Drama
   11145:
     label_title: The Electric Horseman
     sort_title: Electric Horseman
