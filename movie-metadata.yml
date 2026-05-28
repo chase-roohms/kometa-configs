@@ -10174,6 +10174,16 @@ metadata:
     genre.sync:
       - Drama
       - Horror
+  1213:
+    label_title: The Talented Mr. Ripley
+    sort_title: Talented Mr. Ripley
+    release_year: '1999'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Talented+Mr.+Ripley&section=movies
+    genre.sync:
+      - Crime
+      - Drama
+      - Thriller
   1008042:
     label_title: Talk to Me
     sort_title: Talk to Me
