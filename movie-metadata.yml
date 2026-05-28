@@ -512,6 +512,15 @@ metadata:
     genre.sync:
       - Action
       - Thriller
+  194:
+    label_title: Amélie
+    sort_title: Amelie
+    release_year: '2001'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Amélie&section=movies
+    genre.sync:
+      - Comedy
+      - Romance
   1215020:
     label_title: American Sweatshop
     sort_title: American Sweatshop
