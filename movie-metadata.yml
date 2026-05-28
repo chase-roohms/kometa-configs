@@ -1025,6 +1025,16 @@ metadata:
     studio: DC Films
     genre.sync:
       - Superhero
+  3176:
+    label_title: Battle Royale
+    sort_title: Battle Royale
+    release_year: '2000'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Battle+Royale&section=movies
+    genre.sync:
+      - Action
+      - Drama
+      - Thriller
   441384:
     label_title: The Beach Bum
     sort_title: Beach Bum
