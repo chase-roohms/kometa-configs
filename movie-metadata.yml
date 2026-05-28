@@ -10401,6 +10401,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Three+Days+of+the+Condor&section=movies
     genre.sync:
       - Thriller
+  6415:
+    label_title: Three Kings
+    sort_title: Three Kings
+    release_year: '1999'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Three+Kings&section=movies
+    genre.sync:
+      - Action
+      - Comedy
+      - War
   986056:
     label_title: Thunderbolts*
     sort_title: Thunderbolts
