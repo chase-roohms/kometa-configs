@@ -5669,6 +5669,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Kaiju+No.+8:+Mission+Recon&section=movies
     genre.sync:
       - Anime
+  10909:
+    label_title: Kalifornia
+    sort_title: Kalifornia
+    release_year: '1993'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Kalifornia&section=movies
+    genre.sync:
+      - Crime
+      - Thriller
   1288072:
     label_title: Keeper
     sort_title: Keeper
