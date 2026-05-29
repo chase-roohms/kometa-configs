@@ -7213,6 +7213,14 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Nate+Bargatze:+The+Greatest+Average+American&section=movies
     genre.sync:
       - Comedy
+  590872:
+    label_title: 'Nate Bargatze: The Tennessee Kid'
+    sort_title: 'Nate Bargatze: The Tennessee Kid'
+    release_year: '2019'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Nate+Bargatze:+The+Tennessee+Kid&section=movies
+    genre.sync:
+      - Comedy
   2059:
     label_title: National Treasure
     sort_title: National Treasure 1
