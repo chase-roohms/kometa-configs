@@ -7639,6 +7639,16 @@ metadata:
     studio: DreamWorks Animation
     genre.sync:
       - Animation
+  1390300:
+    label_title: Over Your Dead Body
+    sort_title: Over Your Dead Body
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Over+Your+Dead+Body&section=movies
+    genre.sync:
+      - Action
+      - Comedy
+      - Thriller
   68726:
     label_title: Pacific Rim
     sort_title: Pacific Rim 1
