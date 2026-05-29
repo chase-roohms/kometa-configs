@@ -516,11 +516,11 @@ metadata:
     label_title: Amélie
     sort_title: Amelie
     release_year: '2001'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/168491
     tpdb_search: https://theposterdb.com/search?term=Amélie&section=movies
     genre.sync:
       - Comedy
-      - Romance
+      - Drama
   1215020:
     label_title: American Sweatshop
     sort_title: American Sweatshop
@@ -1029,7 +1029,7 @@ metadata:
     label_title: Battle Royale
     sort_title: Battle Royale
     release_year: '2000'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/594852
     tpdb_search: https://theposterdb.com/search?term=Battle+Royale&section=movies
     genre.sync:
       - Action
@@ -2992,7 +2992,7 @@ metadata:
     label_title: Election
     sort_title: Election
     release_year: '1999'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/533045
     tpdb_search: https://theposterdb.com/search?term=Election&section=movies
     genre.sync:
       - Comedy
@@ -5673,10 +5673,9 @@ metadata:
     label_title: Kalifornia
     sort_title: Kalifornia
     release_year: '1993'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/98595
     tpdb_search: https://theposterdb.com/search?term=Kalifornia&section=movies
     genre.sync:
-      - Crime
       - Thriller
   1288072:
     label_title: Keeper
@@ -8955,7 +8954,7 @@ metadata:
     label_title: Run Lola Run
     sort_title: Run Lola Run
     release_year: '1998'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/598987
     tpdb_search: https://theposterdb.com/search?term=Run+Lola+Run&section=movies
     genre.sync:
       - Action
@@ -10219,10 +10218,9 @@ metadata:
     label_title: The Talented Mr. Ripley
     sort_title: Talented Mr. Ripley
     release_year: '1999'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/555228
     tpdb_search: https://theposterdb.com/search?term=The+Talented+Mr.+Ripley&section=movies
     genre.sync:
-      - Crime
       - Drama
       - Thriller
   1008042:
@@ -10446,7 +10444,7 @@ metadata:
     label_title: Three Kings
     sort_title: Three Kings
     release_year: '1999'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/113427
     tpdb_search: https://theposterdb.com/search?term=Three+Kings&section=movies
     genre.sync:
       - Action
