@@ -4889,20 +4889,32 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/627845
       28:
         url_poster: https://theposterdb.com/api/assets/653576
-  450033:
+  Spider-Noir (Black and White):
     label_title: Spider-Noir
     sort_title: Spider-Noir
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/717484
     tpdb_search: https://theposterdb.com/search?term=Spider-Noir&section=shows
     genre.sync:
-      - Action
-      - Adventure
-      - Crime
-      - Mystery
+      - Superhero
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/717485
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/717486
+  Spider-Noir (Color):
+    label_title: Spider-Noir
+    sort_title: Spider-Noir
+    release_year: '2026'
+    url_poster: https://theposterdb.com/api/assets/717481
+    tpdb_search: https://theposterdb.com/search?term=Spider-Noir&section=shows
+    genre.sync:
+      - Superhero
+    seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/717482
+      1:
+        url_poster: https://theposterdb.com/api/assets/717483
   383275:
     label_title: Squid Game
     sort_title: Squid Game
