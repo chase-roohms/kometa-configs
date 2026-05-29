@@ -11603,6 +11603,14 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Young+Guns&section=movies
     genre.sync:
       - Action
+  1376359:
+    label_title: Your Friend, Nate Bargatze
+    sort_title: Your Friend, Nate Bargatze
+    release_year: '2024'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Your+Friend,+Nate+Bargatze&section=movies
+    genre.sync:
+      - Comedy
   372058:
     label_title: Your Name.
     sort_title: Your Name.
