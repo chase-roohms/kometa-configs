@@ -1433,6 +1433,14 @@ metadata:
     studio: DreamWorks Animation
     genre.sync:
       - Animation
+  814776:
+    label_title: Bottoms
+    sort_title: Bottoms
+    release_year: '2023'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Bottoms&section=movies
+    genre.sync:
+      - Comedy
   6114:
     label_title: "Bram Stoker's Dracula"
     sort_title: "Bram Stoker's Dracula"
