@@ -5171,6 +5171,16 @@ metadata:
     studio: Blumhouse Productions
     genre.sync:
       - Horror
+  20312:
+    label_title: Interstate 60
+    sort_title: Interstate 60
+    release_year: '2002'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Interstate+60&section=movies
+    genre.sync:
+      - Adventure
+      - Drama
+      - Fantasy
   157336:
     label_title: Interstellar
     sort_title: Interstellar
