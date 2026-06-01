@@ -5974,6 +5974,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Leave+the+World+Behind&section=movies
     genre.sync:
       - Thriller
+  1304313:
+    label_title: "Lee Cronin's The Mummy"
+    sort_title: "Lee Cronin's The Mummy"
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: "https://theposterdb.com/search?term=Lee+Cronin's+The+Mummy&section=movies"
+    genre.sync:
+      - Horror
+      - Mystery
   276907:
     label_title: Legend
     sort_title: Legend
