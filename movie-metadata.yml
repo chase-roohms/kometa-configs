@@ -1437,7 +1437,7 @@ metadata:
     label_title: Bottoms
     sort_title: Bottoms
     release_year: '2023'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/412428
     tpdb_search: https://theposterdb.com/search?term=Bottoms&section=movies
     genre.sync:
       - Comedy
@@ -3573,11 +3573,11 @@ metadata:
     label_title: Fire Island
     sort_title: Fire Island
     release_year: '2022'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/718052
     tpdb_search: https://theposterdb.com/search?term=Fire+Island&section=movies
     genre.sync:
       - Comedy
-      - Romance
+      - Drama
   507089:
     label_title: "Five Nights at Freddy's"
     sort_title: Five Nights at Freddys 1
@@ -5175,12 +5175,10 @@ metadata:
     label_title: Interstate 60
     sort_title: Interstate 60
     release_year: '2002'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/403089
     tpdb_search: https://theposterdb.com/search?term=Interstate+60&section=movies
     genre.sync:
-      - Adventure
-      - Drama
-      - Fantasy
+      - Comedy
   157336:
     label_title: Interstellar
     sort_title: Interstellar
@@ -7670,12 +7668,11 @@ metadata:
     label_title: Over Your Dead Body
     sort_title: Over Your Dead Body
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/716778
     tpdb_search: https://theposterdb.com/search?term=Over+Your+Dead+Body&section=movies
     genre.sync:
       - Action
       - Comedy
-      - Thriller
   68726:
     label_title: Pacific Rim
     sort_title: Pacific Rim 1
