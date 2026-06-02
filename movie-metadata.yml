@@ -4558,7 +4558,7 @@ metadata:
     label_title: Hokum
     sort_title: Hokum
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/713045
     tpdb_search: https://theposterdb.com/search?term=Hokum&section=movies
     genre.sync:
       - Horror
