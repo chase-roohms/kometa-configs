@@ -4554,6 +4554,14 @@ metadata:
     studio: Disney
     genre.sync:
       - Family
+  1430077:
+    label_title: Hokum
+    sort_title: Hokum
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Hokum&section=movies
+    genre.sync:
+      - Horror
   228161:
     label_title: Home
     sort_title: Home
