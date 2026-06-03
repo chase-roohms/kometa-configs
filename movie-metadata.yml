@@ -5008,7 +5008,7 @@ metadata:
     label_title: In the Grey
     sort_title: In the Grey
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/711638
     tpdb_search: https://theposterdb.com/search?term=In+the+Grey&section=movies
     genre.sync:
       - Action
@@ -10531,13 +10531,11 @@ metadata:
     label_title: TiMER
     sort_title: TiMER
     release_year: '2009'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/719133
     tpdb_search: https://theposterdb.com/search?term=TiMER&section=movies
     genre.sync:
       - Comedy
       - Drama
-      - Fantasy
-      - Romance
       - Science Fiction
   597:
     label_title: Titanic
