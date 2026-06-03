@@ -5004,6 +5004,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=In+a+Violent+Nature&section=movies
     genre.sync:
       - Horror
+  1122573:
+    label_title: In the Grey
+    sort_title: In the Grey
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=In+the+Grey&section=movies
+    genre.sync:
+      - Action
+      - Thriller
   49530:
     label_title: In Time
     sort_title: In Time
