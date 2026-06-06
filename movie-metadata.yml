@@ -2548,6 +2548,15 @@ metadata:
     tpdb_search: "https://theposterdb.com/search?term=Daddy's+Head&section=movies"
     genre.sync:
       - Horror
+  152532:
+    label_title: Dallas Buyers Club
+    sort_title: Dallas Buyers Club
+    release_year: '2013'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Dallas+Buyers+Club&section=movies
+    genre.sync:
+      - Drama
+      - History
   850439:
     label_title: The Damned
     sort_title: Damned
