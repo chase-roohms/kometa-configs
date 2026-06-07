@@ -866,6 +866,21 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/484889
       4:
         url_poster: https://theposterdb.com/api/assets/681414
+  456813:
+    label_title: Cape Fear
+    sort_title: Cape Fear
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Cape+Fear&section=shows
+    genre.sync:
+      - Crime
+      - Drama
+      - Mini-Series
+      - Suspense
+      - Thriller
+    seasons:
+      1:
+        url_poster: ''
   331600:
     label_title: Castle Rock
     sort_title: Castle Rock
