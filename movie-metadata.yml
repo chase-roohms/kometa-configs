@@ -3823,6 +3823,16 @@ metadata:
     genre.sync:
       - Horror
       - Thriller
+  1250:
+    label_title: Ghost Rider
+    sort_title: Ghost Rider
+    release_year: '2007'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Ghost+Rider&section=movies
+    genre.sync:
+      - Action
+      - Fantasy
+      - Thriller
   9871:
     label_title: Ginger Snaps
     sort_title: Ginger Snaps 1
