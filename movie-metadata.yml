@@ -2552,11 +2552,10 @@ metadata:
     label_title: Dallas Buyers Club
     sort_title: Dallas Buyers Club
     release_year: '2013'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/76010
     tpdb_search: https://theposterdb.com/search?term=Dallas+Buyers+Club&section=movies
     genre.sync:
       - Drama
-      - History
   850439:
     label_title: The Damned
     sort_title: Damned
@@ -9267,7 +9266,7 @@ metadata:
     label_title: Seven Snipers
     sort_title: Seven Snipers
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/719699
     tpdb_search: https://theposterdb.com/search?term=Seven+Snipers&section=movies
     genre.sync:
       - Action
