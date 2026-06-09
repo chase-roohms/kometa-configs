@@ -7138,11 +7138,10 @@ metadata:
     label_title: Mortal Kombat II
     sort_title: Mortal Kombat II
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/676887
     tpdb_search: https://theposterdb.com/search?term=Mortal+Kombat+II&section=movies
     genre.sync:
       - Action
-      - Adventure
       - Fantasy
   1470130:
     label_title: The Mortuary Assistant
