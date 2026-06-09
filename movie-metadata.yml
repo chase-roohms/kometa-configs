@@ -7134,6 +7134,15 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
+  9312:
+    label_title: Mortal Kombat
+    sort_title: Mortal Kombat
+    release_year: '1995'
+    url_poster: https://theposterdb.com/api/assets/6107
+    tpdb_search: https://theposterdb.com/search?term=Mortal+Kombat&section=movies
+    genre.sync:
+      - Action
+      - Fantasy
   931285:
     label_title: Mortal Kombat II
     sort_title: Mortal Kombat II
