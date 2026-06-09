@@ -7179,6 +7179,15 @@ metadata:
     genre.sync:
       - Action
       - Fantasy
+  1007401:
+    label_title: 'Mortal Kombat Legends: Snow Blind'
+    sort_title: 'Mortal Kombat Legends: Snow Blind'
+    release_year: '2022'
+    url_poster: https://theposterdb.com/api/assets/676380
+    tpdb_search: https://theposterdb.com/search?term=Mortal+Kombat+Legends:+Snow+Blind&section=movies
+    genre.sync:
+      - Action
+      - Fantasy
   9823:
     label_title: 'Mortal Kombat: Annihilation'
     sort_title: 'Mortal Kombat: Annihilation'
