@@ -431,6 +431,11 @@ shared_collection_files:
       - 1412          # Arroverse, will be taken care of in the universe section
       - 10            # Star Wars (Handled in universe)
       - 85536         # Star Wars (Handled in universe)
+      # Mortal Kombat Collections are all covered in collections/shared.yml
+      - 9818          # Mortal Kombat Original
+      - 980200        # Mortal Kombat Conquest
+      - 848690        # Mortal Kombat Legends
+      - 931431        # Mortal Kombat Reboot
       # Pokemon Collections are all covered in collections/shared.yml
       - 34055         # Pokémon Collection
       - 1573696       # Pokémon Mystery Dungeon
