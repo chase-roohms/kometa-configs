@@ -4815,14 +4815,23 @@ metadata:
     label_title: The Sopranos
     sort_title: Sopranos
     release_year: '1999'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/98875
     tpdb_search: https://theposterdb.com/search?term=The+Sopranos&section=shows
     genre.sync:
-      - Crime
       - Drama
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/98876
+      2:
+        url_poster: https://theposterdb.com/api/assets/98877
+      3:
+        url_poster: https://theposterdb.com/api/assets/98878
+      4:
+        url_poster: https://theposterdb.com/api/assets/98879
+      5:
+        url_poster: https://theposterdb.com/api/assets/98880
+      6:
+        url_poster: https://theposterdb.com/api/assets/98881
   81751:
     label_title: Soul Eater
     sort_title: Soul Eater
