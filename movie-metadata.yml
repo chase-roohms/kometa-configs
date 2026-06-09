@@ -7152,6 +7152,15 @@ metadata:
     genre.sync:
       - Action
       - Fantasy
+  9823:
+    label_title: 'Mortal Kombat: Annihilation'
+    sort_title: 'Mortal Kombat: Annihilation'
+    release_year: '1997'
+    url_poster: https://theposterdb.com/api/assets/6108
+    tpdb_search: https://theposterdb.com/search?term=Mortal+Kombat:+Annihilation&section=movies
+    genre.sync:
+      - Action
+      - Fantasy
   1470130:
     label_title: The Mortuary Assistant
     sort_title: Mortuary Assistant
