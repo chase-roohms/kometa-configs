@@ -7143,39 +7143,12 @@ metadata:
     genre.sync:
       - Action
       - Fantasy
-  460465:
-    label_title: Mortal Kombat
-    sort_title: Mortal Kombat 4
-    release_year: '2021'
-    url_poster: https://theposterdb.com/api/assets/147283
-    tpdb_search: https://theposterdb.com/search?term=Mortal+Kombat&section=movies
-    genre.sync:
-      - Action
-      - Fantasy
-  931285:
-    label_title: Mortal Kombat II
-    sort_title: Mortal Kombat 8
-    release_year: '2026'
-    url_poster: https://theposterdb.com/api/assets/676887
-    tpdb_search: https://theposterdb.com/search?term=Mortal+Kombat+II&section=movies
-    genre.sync:
-      - Action
-      - Fantasy
-  841755:
-    label_title: 'Mortal Kombat Legends: Battle of the Realms'
-    sort_title: Mortal Kombat 5
-    release_year: '2021'
-    url_poster: https://theposterdb.com/api/assets/676379
-    tpdb_search: https://theposterdb.com/search?term=Mortal+Kombat+Legends:+Battle+of+the+Realms&section=movies
-    genre.sync:
-      - Action
-      - Fantasy
-  1034062:
-    label_title: 'Mortal Kombat Legends: Cage Match'
-    sort_title: Mortal Kombat 7
-    release_year: '2023'
-    url_poster: https://theposterdb.com/api/assets/676381
-    tpdb_search: https://theposterdb.com/search?term=Mortal+Kombat+Legends:+Cage+Match&section=movies
+  9823:
+    label_title: 'Mortal Kombat: Annihilation'
+    sort_title: Mortal Kombat 2
+    release_year: '1997'
+    url_poster: https://theposterdb.com/api/assets/6108
+    tpdb_search: https://theposterdb.com/search?term=Mortal+Kombat:+Annihilation&section=movies
     genre.sync:
       - Action
       - Fantasy
@@ -7188,6 +7161,24 @@ metadata:
     genre.sync:
       - Action
       - Fantasy
+  460465:
+    label_title: Mortal Kombat
+    sort_title: Mortal Kombat 4
+    release_year: '2021'
+    url_poster: https://theposterdb.com/api/assets/147283
+    tpdb_search: https://theposterdb.com/search?term=Mortal+Kombat&section=movies
+    genre.sync:
+      - Action
+      - Fantasy
+  841755:
+    label_title: 'Mortal Kombat Legends: Battle of the Realms'
+    sort_title: Mortal Kombat 5
+    release_year: '2021'
+    url_poster: https://theposterdb.com/api/assets/676379
+    tpdb_search: https://theposterdb.com/search?term=Mortal+Kombat+Legends:+Battle+of+the+Realms&section=movies
+    genre.sync:
+      - Action
+      - Fantasy
   1007401:
     label_title: 'Mortal Kombat Legends: Snow Blind'
     sort_title: Mortal Kombat 6
@@ -7197,12 +7188,21 @@ metadata:
     genre.sync:
       - Action
       - Fantasy
-  9823:
-    label_title: 'Mortal Kombat: Annihilation'
-    sort_title: Mortal Kombat 2
-    release_year: '1997'
-    url_poster: https://theposterdb.com/api/assets/6108
-    tpdb_search: https://theposterdb.com/search?term=Mortal+Kombat:+Annihilation&section=movies
+  1034062:
+    label_title: 'Mortal Kombat Legends: Cage Match'
+    sort_title: Mortal Kombat 7
+    release_year: '2023'
+    url_poster: https://theposterdb.com/api/assets/676381
+    tpdb_search: https://theposterdb.com/search?term=Mortal+Kombat+Legends:+Cage+Match&section=movies
+    genre.sync:
+      - Action
+      - Fantasy
+  931285:
+    label_title: Mortal Kombat II
+    sort_title: Mortal Kombat 8
+    release_year: '2026'
+    url_poster: https://theposterdb.com/api/assets/676887
+    tpdb_search: https://theposterdb.com/search?term=Mortal+Kombat+II&section=movies
     genre.sync:
       - Action
       - Fantasy
