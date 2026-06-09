@@ -7161,6 +7161,15 @@ metadata:
     genre.sync:
       - Action
       - Fantasy
+  841755:
+    label_title: 'Mortal Kombat Legends: Battle of the Realms'
+    sort_title: 'Mortal Kombat Legends: Battle of the Realms'
+    release_year: '2021'
+    url_poster: https://theposterdb.com/api/assets/676379
+    tpdb_search: https://theposterdb.com/search?term=Mortal+Kombat+Legends:+Battle+of+the+Realms&section=movies
+    genre.sync:
+      - Action
+      - Fantasy
   664767:
     label_title: "Mortal Kombat Legends: Scorpion's Revenge"
     sort_title: "Mortal Kombat Legends: Scorpion's Revenge"
