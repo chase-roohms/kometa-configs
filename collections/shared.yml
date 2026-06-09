@@ -32,3 +32,9 @@ collections:
       imdb_list_id: ls022219265
       summary: Pokémon is a media franchise created by video game designer Satoshi Tajiri that centers on fictional creatures called Pokémon.
     url_poster: https://theposterdb.com/api/assets/168515
+  Pokemon:
+    template:
+      name: IMDB
+      imdb_list_id: ls538995284
+      summary: 'Mortal Kombat is a legendary, ultra-violent fighting game franchise created by Ed Boon and John Tobias. Launched in 1992, the series is globally famous for its deep lore, cinematic storylines, and over-the-top finishing moves called "Fatalities".'
+    url_poster: https://theposterdb.com/api/assets/6106
