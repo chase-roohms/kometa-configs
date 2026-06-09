@@ -7161,6 +7161,15 @@ metadata:
     genre.sync:
       - Action
       - Fantasy
+  664767:
+    label_title: "Mortal Kombat Legends: Scorpion's Revenge"
+    sort_title: "Mortal Kombat Legends: Scorpion's Revenge"
+    release_year: '2020'
+    url_poster: https://theposterdb.com/api/assets/63204
+    tpdb_search: "https://theposterdb.com/search?term=Mortal+Kombat+Legends:+Scorpion's+Revenge&section=movies"
+    genre.sync:
+      - Action
+      - Fantasy
   9823:
     label_title: 'Mortal Kombat: Annihilation'
     sort_title: 'Mortal Kombat: Annihilation'
