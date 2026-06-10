@@ -9220,6 +9220,18 @@ metadata:
     genre.sync:
       - Animation
       - Family
+  11371:
+    label_title: The Score
+    sort_title: Score
+    release_year: '2001'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Score&section=movies
+    genre.sync:
+      - Action
+      - Crime
+      - Drama
+      - Mystery
+      - Thriller
   22538:
     label_title: Scott Pilgrim vs. the World
     sort_title: Scott Pilgrim vs. the World
