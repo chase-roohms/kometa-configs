@@ -259,6 +259,7 @@ shared_collection_files:
       - Charlie Hunnam
       - Cillian Murphy
       - Robert Redford
+      - Nate Bargatze
 
 - &director_collection
   default: director
