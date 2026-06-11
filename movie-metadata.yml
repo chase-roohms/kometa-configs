@@ -7354,12 +7354,12 @@ metadata:
     genre.sync:
       - Drama
       - War
-  1080787:
-    label_title: 'Nate Bargatze: Hello World'
-    sort_title: Nate Bargatze 3
-    release_year: '2023'
-    url_poster: https://theposterdb.com/api/assets/721099
-    tpdb_search: https://theposterdb.com/search?term=Nate+Bargatze:+Hello+World&section=movies
+  590872:
+    label_title: 'Nate Bargatze: The Tennessee Kid'
+    sort_title: Nate Bargatze 1
+    release_year: '2019'
+    url_poster: https://theposterdb.com/api/assets/721101
+    tpdb_search: https://theposterdb.com/search?term=Nate+Bargatze:+The+Tennessee+Kid&section=movies
     genre.sync:
       - Comedy
   799573:
@@ -7370,12 +7370,20 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Nate+Bargatze:+The+Greatest+Average+American&section=movies
     genre.sync:
       - Comedy
-  590872:
-    label_title: 'Nate Bargatze: The Tennessee Kid'
-    sort_title: Nate Bargatze 1
-    release_year: '2019'
-    url_poster: https://theposterdb.com/api/assets/721101
-    tpdb_search: https://theposterdb.com/search?term=Nate+Bargatze:+The+Tennessee+Kid&section=movies
+  1080787:
+    label_title: 'Nate Bargatze: Hello World'
+    sort_title: Nate Bargatze 3
+    release_year: '2023'
+    url_poster: https://theposterdb.com/api/assets/721099
+    tpdb_search: https://theposterdb.com/search?term=Nate+Bargatze:+Hello+World&section=movies
+    genre.sync:
+      - Comedy
+  1376359:
+    label_title: Your Friend, Nate Bargatze
+    sort_title: Nate Bargatze 4
+    release_year: '2024'
+    url_poster: https://theposterdb.com/api/assets/721100
+    tpdb_search: https://theposterdb.com/search?term=Your+Friend,+Nate+Bargatze&section=movies
     genre.sync:
       - Comedy
   2059:
@@ -11812,14 +11820,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Young+Guns&section=movies
     genre.sync:
       - Action
-  1376359:
-    label_title: Your Friend, Nate Bargatze
-    sort_title: Nate Bargatze 4
-    release_year: '2024'
-    url_poster: https://theposterdb.com/api/assets/721100
-    tpdb_search: https://theposterdb.com/search?term=Your+Friend,+Nate+Bargatze&section=movies
-    genre.sync:
-      - Comedy
   372058:
     label_title: Your Name.
     sort_title: Your Name.
