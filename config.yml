@@ -258,7 +258,6 @@ shared_collection_files:
     include:
       - Charlie Hunnam
       - Cillian Murphy
-      - Robert Redford
 
 - &director_collection
   default: director
