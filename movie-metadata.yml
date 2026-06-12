@@ -8643,12 +8643,10 @@ metadata:
     label_title: Primal Fear
     sort_title: Primal Fear
     release_year: '1996'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/188519
     tpdb_search: https://theposterdb.com/search?term=Primal+Fear&section=movies
     genre.sync:
-      - Crime
       - Drama
-      - Mystery
       - Thriller
   1315303:
     label_title: Primate
