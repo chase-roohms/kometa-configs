@@ -10813,6 +10813,16 @@ metadata:
     studio: Pixar
     genre.sync:
       - Animation
+  1084244:
+    label_title: Toy Story 5
+    sort_title: Toy Story 5
+    release_year: '2026'
+    url_poster: https://theposterdb.com/api/assets/719948
+    tpdb_search: https://theposterdb.com/search?term=Toy+Story+5&section=movies
+    studio: Pixar
+    genre.sync:
+      - Animation
+      - Family
   1241983:
     label_title: Train Dreams
     sort_title: Train Dreams
