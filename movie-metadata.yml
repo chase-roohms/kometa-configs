@@ -7698,6 +7698,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Oddity&section=movies
     genre.sync:
       - Horror
+  1368337:
+    label_title: The Odyssey
+    sort_title: Odyssey
+    release_year: '2026'
+    url_poster: https://theposterdb.com/api/assets/721776
+    tpdb_search: https://theposterdb.com/search?term=The+Odyssey&section=movies
+    genre.sync:
+      - Action
+      - Fantasy
   12233:
     label_title: Oliver & Company
     sort_title: Oliver & Company
