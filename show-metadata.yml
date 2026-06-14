@@ -1990,20 +1990,18 @@ metadata:
     label_title: Hap and Leonard
     sort_title: Hap and Leonard
     release_year: '2016'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/55485
     tpdb_search: https://theposterdb.com/search?term=Hap+and+Leonard&section=shows
     genre.sync:
-      - Crime
       - Drama
-      - Mystery
       - Thriller
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/55486
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/55487
       3:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/55488
   80534:
     label_title: Happy Tree Friends
     sort_title: Happy Tree Friends
@@ -5228,13 +5226,29 @@ metadata:
     label_title: Suits
     sort_title: Suits
     release_year: '2011'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/275489
     tpdb_search: https://theposterdb.com/search?term=Suits&section=shows
     genre.sync:
       - Drama
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/275490
+      2:
+        url_poster: https://theposterdb.com/api/assets/275491
+      3:
+        url_poster: https://theposterdb.com/api/assets/275492
+      4:
+        url_poster: https://theposterdb.com/api/assets/275493
+      5:
+        url_poster: https://theposterdb.com/api/assets/275494
+      6:
+        url_poster: https://theposterdb.com/api/assets/275495
+      7:
+        url_poster: https://theposterdb.com/api/assets/275496
+      8:
+        url_poster: https://theposterdb.com/api/assets/275497
+      9:
+        url_poster: https://theposterdb.com/api/assets/275498
   80506:
     label_title: Summer Heights High
     sort_title: Summer Heights High
