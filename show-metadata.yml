@@ -5224,6 +5224,17 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/706693
+  247808:
+    label_title: Suits
+    sort_title: Suits
+    release_year: '2011'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Suits&section=shows
+    genre.sync:
+      - Drama
+    seasons:
+      1:
+        url_poster: ''
   80506:
     label_title: Summer Heights High
     sort_title: Summer Heights High
