@@ -1986,6 +1986,20 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/63074
       6:
         url_poster: https://theposterdb.com/api/assets/63075
+  305687:
+    label_title: Hap and Leonard
+    sort_title: Hap and Leonard
+    release_year: '2016'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Hap+and+Leonard&section=shows
+    genre.sync:
+      - Crime
+      - Drama
+      - Mystery
+      - Thriller
+    seasons:
+      1:
+        url_poster: ''
   80534:
     label_title: Happy Tree Friends
     sort_title: Happy Tree Friends
