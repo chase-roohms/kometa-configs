@@ -6233,3 +6233,20 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/122836
       2:
         url_poster: https://theposterdb.com/api/assets/308738
+  429310:
+    label_title: 'Zom 100: Bucket List of the Dead'
+    sort_title: 'Zom 100: Bucket List of the Dead'
+    release_year: '2023'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Zom+100:+Bucket+List+of+the+Dead&section=shows
+    genre.sync:
+      - Action
+      - Animation
+      - Anime
+      - Comedy
+      - Horror
+      - Science Fiction
+      - Thriller
+    seasons:
+      1:
+        url_poster: ''
