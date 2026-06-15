@@ -281,16 +281,13 @@ metadata:
     label_title: Among Us
     sort_title: Among Us
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/721992
     tpdb_search: https://theposterdb.com/search?term=Among+Us&section=shows
     genre.sync:
       - Animation
-      - Comedy
-      - Crime
-      - Science Fiction
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/721993
   244351:
     label_title: Angry Boys
     sort_title: Angry Boys
