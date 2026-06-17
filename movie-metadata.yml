@@ -2464,26 +2464,27 @@ metadata:
       - Drama
   312221:
     label_title: Creed
-    sort_title: Creed
+    sort_title: Creed 1
     release_year: '2015'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/345863
     tpdb_search: https://theposterdb.com/search?term=Creed&section=movies
     genre.sync:
+      - Action
       - Drama
   480530:
     label_title: Creed II
-    sort_title: Creed II
+    sort_title: Creed 2
     release_year: '2018'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/345864
     tpdb_search: https://theposterdb.com/search?term=Creed+II&section=movies
     genre.sync:
       - Action
       - Drama
   677179:
     label_title: Creed III
-    sort_title: Creed III
+    sort_title: Creed 3
     release_year: '2023'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/345865
     tpdb_search: https://theposterdb.com/search?term=Creed+III&section=movies
     genre.sync:
       - Action
