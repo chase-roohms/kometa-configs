@@ -2470,6 +2470,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Creed&section=movies
     genre.sync:
       - Drama
+  677179:
+    label_title: Creed III
+    sort_title: Creed III
+    release_year: '2023'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Creed+III&section=movies
+    genre.sync:
+      - Action
+      - Drama
   1171145:
     label_title: Crime 101
     sort_title: Crime 101
