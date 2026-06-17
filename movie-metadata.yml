@@ -8643,10 +8643,9 @@ metadata:
     label_title: Pressure
     sort_title: Pressure
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/718746
     tpdb_search: https://theposterdb.com/search?term=Pressure&section=movies
     genre.sync:
-      - History
       - Thriller
       - War
   1124:
