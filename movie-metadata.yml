@@ -9110,15 +9110,6 @@ metadata:
     genre.sync:
       - Action
       - Drama
-  1246:
-    label_title: Rocky Balboa
-    sort_title: Rocky 6
-    release_year: '2006'
-    url_poster: https://theposterdb.com/api/assets/463085
-    tpdb_search: https://theposterdb.com/search?term=Rocky+Balboa&section=movies
-    genre.sync:
-      - Action
-      - Drama
   1367:
     label_title: Rocky II
     sort_title: Rocky 2
@@ -9152,6 +9143,15 @@ metadata:
     release_year: '1985'
     url_poster: https://theposterdb.com/api/assets/463086
     tpdb_search: https://theposterdb.com/search?term=Rocky+IV&section=movies
+    genre.sync:
+      - Action
+      - Drama
+  1246:
+    label_title: Rocky Balboa
+    sort_title: Rocky 6
+    release_year: '2006'
+    url_poster: https://theposterdb.com/api/assets/463085
+    tpdb_search: https://theposterdb.com/search?term=Rocky+Balboa&section=movies
     genre.sync:
       - Action
       - Drama
