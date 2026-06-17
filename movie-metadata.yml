@@ -9119,6 +9119,15 @@ metadata:
     genre.sync:
       - Action
       - Drama
+  1371:
+    label_title: Rocky III
+    sort_title: Rocky III
+    release_year: '1982'
+    url_poster: https://theposterdb.com/api/assets/463088
+    tpdb_search: https://theposterdb.com/search?term=Rocky+III&section=movies
+    genre.sync:
+      - Action
+      - Drama
   15373:
     label_title: Role Models
     sort_title: Role Models
