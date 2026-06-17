@@ -9128,6 +9128,15 @@ metadata:
     genre.sync:
       - Action
       - Drama
+  1374:
+    label_title: Rocky IV
+    sort_title: Rocky IV
+    release_year: '1985'
+    url_poster: https://theposterdb.com/api/assets/463087
+    tpdb_search: https://theposterdb.com/search?term=Rocky+IV&section=movies
+    genre.sync:
+      - Action
+      - Drama
   15373:
     label_title: Role Models
     sort_title: Role Models
