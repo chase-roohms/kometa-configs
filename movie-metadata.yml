@@ -9101,6 +9101,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Rocketman&section=movies
     genre.sync:
       - Drama
+  1366:
+    label_title: Rocky
+    sort_title: Rocky
+    release_year: '1976'
+    url_poster: https://theposterdb.com/api/assets/463090
+    tpdb_search: https://theposterdb.com/search?term=Rocky&section=movies
+    genre.sync:
+      - Action
+      - Drama
   15373:
     label_title: Role Models
     sort_title: Role Models
