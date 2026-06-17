@@ -2470,6 +2470,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Creed&section=movies
     genre.sync:
       - Drama
+  480530:
+    label_title: Creed II
+    sort_title: Creed II
+    release_year: '2018'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Creed+II&section=movies
+    genre.sync:
+      - Action
+      - Drama
   677179:
     label_title: Creed III
     sort_title: Creed III
