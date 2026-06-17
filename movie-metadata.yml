@@ -9103,7 +9103,7 @@ metadata:
       - Drama
   1366:
     label_title: Rocky
-    sort_title: Rocky
+    sort_title: Rocky 1
     release_year: '1976'
     url_poster: https://theposterdb.com/api/assets/463090
     tpdb_search: https://theposterdb.com/search?term=Rocky&section=movies
@@ -9112,7 +9112,7 @@ metadata:
       - Drama
   1246:
     label_title: Rocky Balboa
-    sort_title: Rocky Balboa
+    sort_title: Rocky 6
     release_year: '2006'
     url_poster: https://theposterdb.com/api/assets/463085
     tpdb_search: https://theposterdb.com/search?term=Rocky+Balboa&section=movies
@@ -9121,7 +9121,7 @@ metadata:
       - Drama
   1367:
     label_title: Rocky II
-    sort_title: Rocky II
+    sort_title: Rocky 2
     release_year: '1979'
     url_poster: https://theposterdb.com/api/assets/463089
     tpdb_search: https://theposterdb.com/search?term=Rocky+II&section=movies
@@ -9130,7 +9130,7 @@ metadata:
       - Drama
   1371:
     label_title: Rocky III
-    sort_title: Rocky III
+    sort_title: Rocky 3
     release_year: '1982'
     url_poster: https://theposterdb.com/api/assets/463088
     tpdb_search: https://theposterdb.com/search?term=Rocky+III&section=movies
@@ -9139,9 +9139,18 @@ metadata:
       - Drama
   1374:
     label_title: Rocky IV
-    sort_title: Rocky IV
+    sort_title: Rocky 4
     release_year: '1985'
     url_poster: https://theposterdb.com/api/assets/463087
+    tpdb_search: https://theposterdb.com/search?term=Rocky+IV&section=movies
+    genre.sync:
+      - Action
+      - Drama
+  1375:
+    label_title: Rocky V
+    sort_title: Rocky 5
+    release_year: '1985'
+    url_poster: https://theposterdb.com/api/assets/463086
     tpdb_search: https://theposterdb.com/search?term=Rocky+IV&section=movies
     genre.sync:
       - Action
