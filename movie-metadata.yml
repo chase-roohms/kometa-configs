@@ -9110,6 +9110,15 @@ metadata:
     genre.sync:
       - Action
       - Drama
+  1367:
+    label_title: Rocky II
+    sort_title: Rocky II
+    release_year: '1979'
+    url_poster: https://theposterdb.com/api/assets/463089
+    tpdb_search: https://theposterdb.com/search?term=Rocky+II&section=movies
+    genre.sync:
+      - Action
+      - Drama
   15373:
     label_title: Role Models
     sort_title: Role Models
