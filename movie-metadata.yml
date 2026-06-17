@@ -9110,6 +9110,15 @@ metadata:
     genre.sync:
       - Action
       - Drama
+  1246:
+    label_title: Rocky Balboa
+    sort_title: Rocky Balboa
+    release_year: '2006'
+    url_poster: https://theposterdb.com/api/assets/463085
+    tpdb_search: https://theposterdb.com/search?term=Rocky+Balboa&section=movies
+    genre.sync:
+      - Action
+      - Drama
   1367:
     label_title: Rocky II
     sort_title: Rocky II
