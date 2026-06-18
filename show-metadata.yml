@@ -3262,6 +3262,19 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/237544
       2:
         url_poster: https://theposterdb.com/api/assets/237545
+  441735:
+    label_title: The Madison
+    sort_title: Madison
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Madison&section=shows
+    genre.sync:
+      - Drama
+      - Family
+      - Western
+    seasons:
+      1:
+        url_poster: ''
   299139:
     label_title: The Magicians
     sort_title: Magicians
