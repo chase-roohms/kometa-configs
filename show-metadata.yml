@@ -3266,15 +3266,15 @@ metadata:
     label_title: The Madison
     sort_title: Madison
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/698313
     tpdb_search: https://theposterdb.com/search?term=The+Madison&section=shows
     genre.sync:
       - Drama
-      - Family
-      - Western
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/698314
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/698315
   299139:
     label_title: The Magicians
     sort_title: Magicians
