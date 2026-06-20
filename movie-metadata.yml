@@ -3276,11 +3276,10 @@ metadata:
     label_title: Eyes Wide Shut
     sort_title: Eyes Wide Shut
     release_year: '1999'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/36117
     tpdb_search: https://theposterdb.com/search?term=Eyes+Wide+Shut&section=movies
     genre.sync:
       - Drama
-      - Mystery
       - Thriller
   911430:
     label_title: F1
