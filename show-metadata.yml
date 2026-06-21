@@ -3088,6 +3088,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/612121
       7:
         url_poster: https://theposterdb.com/api/assets/612122
+      8:
+        url_poster: ''
   419263:
     label_title: Love on the Spectrum (US)
     sort_title: Love on the Spectrum U.S.
