@@ -3066,30 +3066,32 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/538486
   364107:
     label_title: Love Island USA
-    sort_title: Love Island US
+    sort_title: Love Island USA
     release_year: '2019'
-    url_poster: https://theposterdb.com/api/assets/389968
+    url_poster: https://theposterdb.com/api/assets/723804
     tpdb_search: https://theposterdb.com/search?term=Love+Island+USA&section=shows
     genre.sync:
       - Drama
       - Reality
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/723805
       1:
-        url_poster: https://theposterdb.com/api/assets/612123
+        url_poster: https://theposterdb.com/api/assets/723806
       2:
-        url_poster: https://theposterdb.com/api/assets/612124
+        url_poster: https://theposterdb.com/api/assets/723807
       3:
-        url_poster: https://theposterdb.com/api/assets/612125
+        url_poster: https://theposterdb.com/api/assets/723808
       4:
-        url_poster: https://theposterdb.com/api/assets/389969
+        url_poster: https://theposterdb.com/api/assets/723809
       5:
-        url_poster: https://theposterdb.com/api/assets/389970
+        url_poster: https://theposterdb.com/api/assets/723810
       6:
-        url_poster: https://theposterdb.com/api/assets/612121
+        url_poster: https://theposterdb.com/api/assets/723811
       7:
-        url_poster: https://theposterdb.com/api/assets/612122
+        url_poster: https://theposterdb.com/api/assets/723812
       8:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/723813
   419263:
     label_title: Love on the Spectrum (US)
     sort_title: Love on the Spectrum U.S.
