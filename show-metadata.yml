@@ -2222,6 +2222,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/248669
       2:
         url_poster: https://theposterdb.com/api/assets/495066
+      3:
+        url_poster: ''
   420753:
     label_title: Housing Complex C
     sort_title: Housing Complex C
