@@ -8598,6 +8598,16 @@ metadata:
     genre.sync:
       - Comedy
       - Fantasy
+  1284016:
+    label_title: Power Ballad
+    sort_title: Power Ballad
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Power+Ballad&section=movies
+    genre.sync:
+      - Comedy
+      - Drama
+      - Music
   106:
     label_title: Predator
     sort_title: Predator 1
