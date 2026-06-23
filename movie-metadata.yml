@@ -4999,6 +4999,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=I+Know+What+You+Did+Last+Summer&section=movies
     genre.sync:
       - Horror
+  1227877:
+    label_title: I Love Boosters
+    sort_title: I Love Boosters
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=I+Love+Boosters&section=movies
+    genre.sync:
+      - Comedy
+      - Crime
+      - Science Fiction
   858017:
     label_title: I Saw the TV Glow
     sort_title: I Saw the TV Glow
