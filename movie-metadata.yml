@@ -11230,6 +11230,15 @@ metadata:
     genre.sync:
       - Action
       - Drama
+  1340206:
+    label_title: Tuner
+    sort_title: Tuner
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Tuner&section=movies
+    genre.sync:
+      - Crime
+      - Thriller
   77950:
     label_title: Turbo
     sort_title: Turbo
