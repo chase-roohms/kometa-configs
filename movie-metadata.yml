@@ -5003,11 +5003,10 @@ metadata:
     label_title: I Love Boosters
     sort_title: I Love Boosters
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/724746
     tpdb_search: https://theposterdb.com/search?term=I+Love+Boosters&section=movies
     genre.sync:
       - Comedy
-      - Crime
       - Science Fiction
   858017:
     label_title: I Saw the TV Glow
@@ -8602,12 +8601,11 @@ metadata:
     label_title: Power Ballad
     sort_title: Power Ballad
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/724747
     tpdb_search: https://theposterdb.com/search?term=Power+Ballad&section=movies
     genre.sync:
       - Comedy
       - Drama
-      - Music
   106:
     label_title: Predator
     sort_title: Predator 1
