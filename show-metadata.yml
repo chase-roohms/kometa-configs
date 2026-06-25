@@ -466,6 +466,8 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/454342
+      2:
+        url_poster: ''
   339353:
     label_title: 'B: The Beginning'
     sort_title: B - The Beginning
