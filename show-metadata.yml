@@ -459,15 +459,19 @@ metadata:
     label_title: 'Avatar: The Last Airbender'
     sort_title: Avatar - The Last Airbender
     release_year: '2024'
-    url_poster: https://theposterdb.com/api/assets/454341
+    url_poster: https://theposterdb.com/api/assets/724766
     tpdb_search: https://theposterdb.com/search?term=Avatar:+The+Last+Airbender&section=shows
     genre.sync:
       - Fantasy
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/724767
       1:
-        url_poster: https://theposterdb.com/api/assets/454342
+        url_poster: https://theposterdb.com/api/assets/724768
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/724769
+      3:
+        url_poster: https://theposterdb.com/api/assets/724770
   339353:
     label_title: 'B: The Beginning'
     sort_title: B - The Beginning
