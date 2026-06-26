@@ -513,6 +513,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/602394
       4:
         url_poster: https://theposterdb.com/api/assets/607605
+      5:
+        url_poster: ''
   455046:
     label_title: The Beauty
     sort_title: Beauty
