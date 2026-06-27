@@ -5055,10 +5055,9 @@ metadata:
     label_title: Identity
     sort_title: Identity
     release_year: '2003'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/156421
     tpdb_search: https://theposterdb.com/search?term=Identity&section=movies
     genre.sync:
-      - Mystery
       - Thriller
   1125311:
     label_title: Imaginary
