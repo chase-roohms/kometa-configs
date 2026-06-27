@@ -11737,6 +11737,14 @@ metadata:
     studio: DreamWorks Animation
     genre.sync:
       - Animation
+  980078:
+    label_title: 'Winnie the Pooh: Blood and Honey'
+    sort_title: 'Winnie the Pooh: Blood and Honey'
+    release_year: '2023'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Winnie+the+Pooh:+Blood+and+Honey&section=movies
+    genre.sync:
+      - Horror
   1022796:
     label_title: Wish
     sort_title: Wish
