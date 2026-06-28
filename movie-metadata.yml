@@ -5304,6 +5304,16 @@ metadata:
     genre.sync:
       - Science Fiction
       - Thriller
+  411088:
+    label_title: The Invisible Guest
+    sort_title: Invisible Guest
+    release_year: '2017'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Invisible+Guest&section=movies
+    genre.sync:
+      - Drama
+      - Mystery
+      - Thriller
   850165:
     label_title: The Iron Claw
     sort_title: Iron Claw
