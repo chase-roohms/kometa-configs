@@ -2218,20 +2218,20 @@ metadata:
     label_title: House of the Dragon
     sort_title: House of the Dragon
     release_year: '2022'
-    url_poster: https://theposterdb.com/api/assets/248668
+    url_poster: https://theposterdb.com/api/assets/225927
     tpdb_search: https://theposterdb.com/search?term=House+of+the+Dragon&section=shows
     genre.sync:
       - Action
       - Fantasy
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/294073
+        url_poster: https://theposterdb.com/api/assets/257455
       1:
-        url_poster: https://theposterdb.com/api/assets/248669
+        url_poster: https://theposterdb.com/api/assets/248667
       2:
-        url_poster: https://theposterdb.com/api/assets/495066
+        url_poster: https://theposterdb.com/api/assets/683428
       3:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/720061
   420753:
     label_title: Housing Complex C
     sort_title: Housing Complex C
