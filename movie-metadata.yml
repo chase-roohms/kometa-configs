@@ -3843,11 +3843,10 @@ metadata:
     label_title: The Game
     sort_title: Game
     release_year: '1997'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/64092
     tpdb_search: https://theposterdb.com/search?term=The+Game&section=movies
     genre.sync:
       - Drama
-      - Mystery
       - Thriller
   522627:
     label_title: The Gentlemen
@@ -3925,11 +3924,9 @@ metadata:
     label_title: The Girl with the Dragon Tattoo
     sort_title: Girl with the Dragon Tattoo
     release_year: '2011'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/58909
     tpdb_search: https://theposterdb.com/search?term=The+Girl+with+the+Dragon+Tattoo&section=movies
     genre.sync:
-      - Crime
-      - Mystery
       - Thriller
   98:
     label_title: Gladiator
@@ -5318,11 +5315,10 @@ metadata:
     label_title: The Invisible Guest
     sort_title: Invisible Guest
     release_year: '2017'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/562929
     tpdb_search: https://theposterdb.com/search?term=The+Invisible+Guest&section=movies
     genre.sync:
       - Drama
-      - Mystery
       - Thriller
   850165:
     label_title: The Iron Claw
@@ -12102,11 +12098,9 @@ metadata:
     label_title: Zodiac
     sort_title: Zodiac
     release_year: '2007'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/64095
     tpdb_search: https://theposterdb.com/search?term=Zodiac&section=movies
     genre.sync:
-      - Crime
-      - Mystery
       - Thriller
   467244:
     label_title: The Zone of Interest
