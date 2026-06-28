@@ -8138,6 +8138,14 @@ metadata:
     studio: Disney
     genre.sync:
       - Family
+  1020414:
+    label_title: "Peter Pan's Neverland Nightmare"
+    sort_title: "Peter Pan's Neverland Nightmare"
+    release_year: '2025'
+    url_poster: https://theposterdb.com/api/assets/725387
+    tpdb_search: "https://theposterdb.com/search?term=Peter+Pan's+Neverland+Nightmare&section=movies"
+    genre.sync:
+      - Horror
   934222:
     label_title: The Pez Outlaw
     sort_title: Pez Outlaw
