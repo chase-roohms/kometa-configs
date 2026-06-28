@@ -11739,21 +11739,20 @@ metadata:
       - Animation
   980078:
     label_title: 'Winnie the Pooh: Blood and Honey'
-    sort_title: 'Winnie the Pooh: Blood and Honey'
+    sort_title: Winnie the Pooh - Blood and Honey 1
     release_year: '2023'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/725384
     tpdb_search: https://theposterdb.com/search?term=Winnie+the+Pooh:+Blood+and+Honey&section=movies
     genre.sync:
       - Horror
   1079485:
     label_title: 'Winnie-the-Pooh: Blood and Honey 2'
-    sort_title: 'Winnie-the-Pooh: Blood and Honey 2'
+    sort_title: Winnie the Pooh - Blood and Honey 2
     release_year: '2024'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/725383
     tpdb_search: https://theposterdb.com/search?term=Winnie-the-Pooh:+Blood+and+Honey+2&section=movies
     genre.sync:
       - Horror
-      - Thriller
   1022796:
     label_title: Wish
     sort_title: Wish
