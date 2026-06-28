@@ -8222,6 +8222,14 @@ metadata:
     studio: Disney
     genre.sync:
       - Animation
+  1232569:
+    label_title: 'Pinocchio: Unstrung'
+    sort_title: 'Pinocchio: Unstrung'
+    release_year: '2026'
+    url_poster: https://theposterdb.com/api/assets/725386
+    tpdb_search: https://theposterdb.com/search?term=Pinocchio:+Unstrung&section=movies
+    genre.sync:
+      - Horror
   22:
     label_title: 'Pirates of the Caribbean: The Curse of the Black Pearl'
     sort_title: Pirates of the Caribbean 1
