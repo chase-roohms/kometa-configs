@@ -947,6 +947,14 @@ metadata:
     studio: Disney
     genre.sync:
       - Animation
+  1049942:
+    label_title: 'Bambi: The Reckoning'
+    sort_title: 'Bambi: The Reckoning'
+    release_year: '2025'
+    url_poster: https://theposterdb.com/api/assets/725385
+    tpdb_search: https://theposterdb.com/search?term=Bambi:+The+Reckoning&section=movies
+    genre.sync:
+      - Horror
   913290:
     label_title: Barbarian
     sort_title: Barbarian
