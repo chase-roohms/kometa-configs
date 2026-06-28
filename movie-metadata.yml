@@ -3921,6 +3921,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Ginger+Snaps+Back:+The+Beginning&section=movies
     genre.sync:
       - Horror
+  65754:
+    label_title: The Girl with the Dragon Tattoo
+    sort_title: Girl with the Dragon Tattoo
+    release_year: '2011'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Girl+with+the+Dragon+Tattoo&section=movies
+    genre.sync:
+      - Crime
+      - Mystery
+      - Thriller
   98:
     label_title: Gladiator
     sort_title: Gladiator 1
