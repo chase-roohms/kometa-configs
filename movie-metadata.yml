@@ -11266,7 +11266,7 @@ metadata:
     label_title: Tucker and Dale vs. Evil
     sort_title: Tucker and Dale vs. Evil
     release_year: '2010'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/108978
     tpdb_search: https://theposterdb.com/search?term=Tucker+and+Dale+vs.+Evil&section=movies
     genre.sync:
       - Comedy
