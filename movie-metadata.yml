@@ -3839,6 +3839,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=G20&section=movies
     genre.sync:
       - Action
+  2649:
+    label_title: The Game
+    sort_title: Game
+    release_year: '1997'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Game&section=movies
+    genre.sync:
+      - Drama
+      - Mystery
+      - Thriller
   522627:
     label_title: The Gentlemen
     sort_title: Gentlemen
