@@ -11262,6 +11262,15 @@ metadata:
     genre.sync:
       - Action
       - Drama
+  46838:
+    label_title: Tucker and Dale vs. Evil
+    sort_title: Tucker and Dale vs. Evil
+    release_year: '2010'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Tucker+and+Dale+vs.+Evil&section=movies
+    genre.sync:
+      - Comedy
+      - Horror
   1340206:
     label_title: Tuner
     sort_title: Tuner
