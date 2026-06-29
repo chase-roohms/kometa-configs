@@ -3920,24 +3920,28 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Ginger+Snaps+Back:+The+Beginning&section=movies
     genre.sync:
       - Horror
-  24253:
-    label_title: The Girl Who Played with Fire
-    sort_title: Girl Who Played with Fire
-    release_year: '2009'
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=The+Girl+Who+Played+with+Fire&section=movies
-    genre.sync:
-      - Action
-      - Crime
-      - Drama
-      - Mystery
-      - Thriller
   65754:
     label_title: The Girl with the Dragon Tattoo
-    sort_title: Girl with the Dragon Tattoo
-    release_year: '2011'
-    url_poster: https://theposterdb.com/api/assets/58909
+    sort_title: Girl Who 1
+    release_year: '2010'
+    url_poster: https://theposterdb.com/api/assets/87825
     tpdb_search: https://theposterdb.com/search?term=The+Girl+with+the+Dragon+Tattoo&section=movies
+    genre.sync:
+      - Thriller
+  24253:
+    label_title: The Girl Who Played with Fire
+    sort_title: Girl Who 2
+    release_year: '2010'
+    url_poster: https://theposterdb.com/api/assets/87826
+    tpdb_search: https://theposterdb.com/search?term=The+Girl+Who+Played+with+Fire&section=movies
+    genre.sync:
+      - Thriller
+  33613:
+    label_title: "The Girl Who Kicked the Hornet's Nest"
+    sort_title: Girl Who 3
+    release_year: '2010'
+    url_poster: https://theposterdb.com/api/assets/87827
+    tpdb_search: "https://theposterdb.com/search?term=The+Girl+Who+Kicked+the+Hornet's+Nest&section=movies"
     genre.sync:
       - Thriller
   98:
