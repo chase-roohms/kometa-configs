@@ -32,7 +32,7 @@ collections:
       imdb_list_id: ls022219265
       summary: Pokémon is a media franchise created by video game designer Satoshi Tajiri that centers on fictional creatures called Pokémon.
     url_poster: https://theposterdb.com/api/assets/168515
-  Pokemon:
+  Mortal Kombat:
     template:
       name: IMDB
       imdb_list_id: ls538995284
