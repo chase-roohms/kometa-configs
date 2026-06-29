@@ -388,6 +388,7 @@ shared_collection_files:
       - dca          # DC Animated Universe, just don't want it
       - middle       # Middle Earth, just don't want it
       - monster      # Monsterverse, just don't want it
+      - rocky        # Rocky / Creed, just don't want it
       - wizard       # Wizarding World of Harry Potter, just don't want it
       - fast         # Fast & Furious, handled during franchises
     collection_order: release
