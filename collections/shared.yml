@@ -38,7 +38,7 @@ collections:
       imdb_list_id: ls538995284
       summary: 'Mortal Kombat is a legendary, ultra-violent fighting game franchise created by Ed Boon and John Tobias. Launched in 1992, the series is globally famous for its deep lore, cinematic storylines, and over-the-top finishing moves called "Fatalities".'
     url_poster: https://theposterdb.com/api/assets/6106
-  The Twisted Childhood Universe
+  The Twisted Childhood Universe:
     template:
       name: IMDB
       imdb_list_id: ls4178833926
