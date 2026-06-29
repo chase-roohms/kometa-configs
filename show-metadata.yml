@@ -2383,20 +2383,16 @@ metadata:
     label_title: Ishura
     sort_title: Ishura
     release_year: '2024'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/450038
     tpdb_search: https://theposterdb.com/search?term=Ishura&section=shows
+    audio_language: ja-JP
     genre.sync:
-      - Action
-      - Adventure
-      - Animation
       - Anime
-      - Drama
-      - Fantasy
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/450039
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/474327
   75805:
     label_title: "It's Always Sunny in Philadelphia"
     sort_title: "It's Always Sunny in Philadelphia"
