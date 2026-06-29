@@ -2309,6 +2309,19 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/368552
       3:
         url_poster: https://theposterdb.com/api/assets/368553
+  457173:
+    label_title: I Will Find You
+    sort_title: I Will Find You
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=I+Will+Find+You&section=shows
+    genre.sync:
+      - Drama
+      - Mini-Series
+      - Thriller
+    seasons:
+      1:
+        url_poster: ''
   320558:
     label_title: "Marvel's Inhumans"
     sort_title: Inhumans
