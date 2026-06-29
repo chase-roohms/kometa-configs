@@ -3920,6 +3920,18 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Ginger+Snaps+Back:+The+Beginning&section=movies
     genre.sync:
       - Horror
+  24253:
+    label_title: The Girl Who Played with Fire
+    sort_title: Girl Who Played with Fire
+    release_year: '2009'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Girl+Who+Played+with+Fire&section=movies
+    genre.sync:
+      - Action
+      - Crime
+      - Drama
+      - Mystery
+      - Thriller
   65754:
     label_title: The Girl with the Dragon Tattoo
     sort_title: Girl with the Dragon Tattoo
