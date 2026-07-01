@@ -774,15 +774,18 @@ metadata:
     label_title: Blue Water High
     sort_title: Blue Water High
     release_year: '2005'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/726182
     tpdb_search: https://theposterdb.com/search?term=Blue+Water+High&section=shows
     genre.sync:
       - Comedy
-      - Drama
       - Family
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/726183
+      2:
+        url_poster: https://theposterdb.com/api/assets/726184
+      3:
+        url_poster: https://theposterdb.com/api/assets/726185
   393589:
     label_title: The Book of Boba Fett
     sort_title: Book of Boba Fett
