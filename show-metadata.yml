@@ -4774,6 +4774,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/543511
       2:
         url_poster: https://theposterdb.com/api/assets/543512
+      3:
+        url_poster: ''
   421104:
     label_title: Skull Island
     sort_title: Skull Island
