@@ -8204,6 +8204,14 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Pez+Outlaw&section=movies
     genre.sync:
       - Documentary
+  1352774:
+    label_title: Piglet
+    sort_title: Piglet
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Piglet&section=movies
+    genre.sync:
+      - Horror
   33376:
     label_title: "Pikachu's Vacation"
     sort_title: Pikachu 1
