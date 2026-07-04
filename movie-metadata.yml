@@ -5180,6 +5180,16 @@ metadata:
     studio: Pixar
     genre.sync:
       - Animation
+  602:
+    label_title: Independence Day
+    sort_title: Independence Day
+    release_year: '1996'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Independence+Day&section=movies
+    genre.sync:
+      - Action
+      - Adventure
+      - Science Fiction
   11359:
     label_title: The Indian in the Cupboard
     sort_title: Indian in the Cupboard
