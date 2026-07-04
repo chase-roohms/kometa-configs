@@ -8208,7 +8208,7 @@ metadata:
     label_title: Piglet
     sort_title: Piglet
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/683585
     tpdb_search: https://theposterdb.com/search?term=Piglet&section=movies
     genre.sync:
       - Horror
