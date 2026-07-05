@@ -5184,11 +5184,10 @@ metadata:
     label_title: Independence Day
     sort_title: Independence Day
     release_year: '1996'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/15118
     tpdb_search: https://theposterdb.com/search?term=Independence+Day&section=movies
     genre.sync:
       - Action
-      - Adventure
       - Science Fiction
   11359:
     label_title: The Indian in the Cupboard
@@ -7080,11 +7079,10 @@ metadata:
     label_title: Miracle
     sort_title: Miracle
     release_year: '2004'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/99857
     tpdb_search: https://theposterdb.com/search?term=Miracle&section=movies
     genre.sync:
       - Drama
-      - History
   954:
     label_title: 'Mission: Impossible'
     sort_title: Mission Impossible 1
