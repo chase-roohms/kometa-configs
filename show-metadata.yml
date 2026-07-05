@@ -288,6 +288,20 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/721993
+  71035:
+    label_title: Angel
+    sort_title: Angel
+    release_year: '1999'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Angel&section=shows
+    genre.sync:
+      - Action
+      - Drama
+      - Fantasy
+      - Thriller
+    seasons:
+      1:
+        url_poster: ''
   244351:
     label_title: Angry Boys
     sort_title: Angry Boys
