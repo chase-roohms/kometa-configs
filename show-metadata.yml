@@ -292,16 +292,25 @@ metadata:
     label_title: Angel
     sort_title: Angel
     release_year: '1999'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/4549
     tpdb_search: https://theposterdb.com/search?term=Angel&section=shows
     genre.sync:
       - Action
-      - Drama
       - Fantasy
       - Thriller
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/4550
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/4551
+      2:
+        url_poster: https://theposterdb.com/api/assets/4552
+      3:
+        url_poster: https://theposterdb.com/api/assets/4553
+      4:
+        url_poster: https://theposterdb.com/api/assets/4554
+      5:
+        url_poster: https://theposterdb.com/api/assets/4555
   244351:
     label_title: Angry Boys
     sort_title: Angry Boys
