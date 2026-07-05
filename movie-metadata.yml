@@ -4064,6 +4064,16 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
+  210577:
+    label_title: Gone Girl
+    sort_title: Gone Girl
+    release_year: '2014'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Gone+Girl&section=movies
+    genre.sync:
+      - Drama
+      - Mystery
+      - Thriller
   1422096:
     label_title: Good Boy
     sort_title: Good Boy
