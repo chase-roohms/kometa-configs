@@ -10087,6 +10087,16 @@ metadata:
     studio: Paramount Pictures
     genre.sync:
       - Animation
+  424781:
+    label_title: Sorry to Bother You
+    sort_title: Sorry to Bother You
+    release_year: '2018'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Sorry+to+Bother+You&section=movies
+    genre.sync:
+      - Comedy
+      - Fantasy
+      - Science Fiction
   1205515:
     label_title: Sorry, Baby
     sort_title: Sorry, Baby
