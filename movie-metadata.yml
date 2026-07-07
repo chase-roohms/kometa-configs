@@ -2844,6 +2844,16 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
+  968:
+    label_title: Dog Day Afternoon
+    sort_title: Dog Day Afternoon
+    release_year: '1975'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Dog+Day+Afternoon&section=movies
+    genre.sync:
+      - Crime
+      - Drama
+      - Thriller
   141:
     label_title: Donnie Darko
     sort_title: Donnie Darko 1
