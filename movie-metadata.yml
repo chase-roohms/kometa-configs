@@ -2848,10 +2848,9 @@ metadata:
     label_title: Dog Day Afternoon
     sort_title: Dog Day Afternoon
     release_year: '1975'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/265512
     tpdb_search: https://theposterdb.com/search?term=Dog+Day+Afternoon&section=movies
     genre.sync:
-      - Crime
       - Drama
       - Thriller
   141:
