@@ -1070,6 +1070,8 @@ metadata:
             url_poster: https://i.imgur.com/huNDjC0.png
       1:
         url_poster: https://theposterdb.com/api/assets/627328
+      2:
+        url_poster: ''
   341455:
     label_title: "Marvel's Cloak & Dagger"
     sort_title: Cloak & Dagger
