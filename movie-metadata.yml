@@ -867,6 +867,16 @@ metadata:
     studio: Universal Pictures
     genre.sync:
       - Science Fiction
+  1083381:
+    label_title: Backrooms
+    sort_title: Backrooms
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Backrooms&section=movies
+    genre.sync:
+      - Horror
+      - Mystery
+      - Science Fiction
   9737:
     label_title: Bad Boys
     sort_title: Bad Boys 1
