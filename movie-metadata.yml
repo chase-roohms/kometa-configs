@@ -8147,6 +8147,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Paris,+Texas&section=movies
     genre.sync:
       - Drama
+  1368314:
+    label_title: Passenger
+    sort_title: Passenger
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Passenger&section=movies
+    genre.sync:
+      - Horror
+      - Thriller
   666277:
     label_title: Past Lives
     sort_title: Past Lives
