@@ -3335,6 +3335,16 @@ metadata:
     genre.sync:
       - Action
       - Comedy
+  1029575:
+    label_title: The Family Plan
+    sort_title: Family Plan
+    release_year: '2023'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Family+Plan&section=movies
+    genre.sync:
+      - Action
+      - Adventure
+      - Comedy
   259316:
     label_title: Fantastic Beasts and Where to Find Them
     sort_title: Fantastic Beasts and Where to Find Them 1
