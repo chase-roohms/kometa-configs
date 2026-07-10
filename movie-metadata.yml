@@ -3345,6 +3345,15 @@ metadata:
       - Action
       - Adventure
       - Comedy
+  1363123:
+    label_title: The Family Plan 2
+    sort_title: Family Plan 2
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Family+Plan+2&section=movies
+    genre.sync:
+      - Action
+      - Comedy
   259316:
     label_title: Fantastic Beasts and Where to Find Them
     sort_title: Fantastic Beasts and Where to Find Them 1
