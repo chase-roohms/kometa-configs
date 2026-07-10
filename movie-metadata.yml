@@ -6118,6 +6118,16 @@ metadata:
     genre.sync:
       - Drama
       - Thriller
+  13597:
+    label_title: Labyrinth
+    sort_title: Labyrinth
+    release_year: '1986'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Labyrinth&section=movies
+    genre.sync:
+      - Adventure
+      - Family
+      - Fantasy
   10340:
     label_title: Lady and the Tramp
     sort_title: Lady and the Tramp (Animated) 1
