@@ -7076,6 +7076,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Merrily+We+Roll+Along&section=movies
     genre.sync:
       - Comedy
+  498248:
+    label_title: Mia and the White Lion
+    sort_title: Mia and the White Lion
+    release_year: '2018'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Mia+and+the+White+Lion&section=movies
+    genre.sync:
+      - Adventure
+      - Drama
+      - Family
   936075:
     label_title: Michael
     sort_title: Michael
