@@ -6682,6 +6682,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Magazine+Dreams&section=movies
     genre.sync:
       - Drama
+  1140521:
+    label_title: The Magic Faraway Tree
+    sort_title: Magic Faraway Tree
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Magic+Faraway+Tree&section=movies
+    genre.sync:
+      - Adventure
+      - Family
+      - Fantasy
   102651:
     label_title: Maleficent
     sort_title: Maleficent 1
