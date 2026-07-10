@@ -871,11 +871,10 @@ metadata:
     label_title: Backrooms
     sort_title: Backrooms
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/693427
     tpdb_search: https://theposterdb.com/search?term=Backrooms&section=movies
     genre.sync:
       - Horror
-      - Mystery
       - Science Fiction
   9737:
     label_title: Bad Boys
@@ -3337,19 +3336,18 @@ metadata:
       - Comedy
   1029575:
     label_title: The Family Plan
-    sort_title: Family Plan
+    sort_title: Family Plan 1
     release_year: '2023'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/690013
     tpdb_search: https://theposterdb.com/search?term=The+Family+Plan&section=movies
     genre.sync:
       - Action
-      - Adventure
       - Comedy
   1363123:
     label_title: The Family Plan 2
     sort_title: Family Plan 2
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/690012
     tpdb_search: https://theposterdb.com/search?term=The+Family+Plan+2&section=movies
     genre.sync:
       - Action
@@ -5059,14 +5057,11 @@ metadata:
     label_title: I Am Frankelda
     sort_title: I Am Frankelda
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/721288
     tpdb_search: https://theposterdb.com/search?term=I+Am+Frankelda&section=movies
     genre.sync:
-      - Adventure
       - Animation
       - Family
-      - Fantasy
-      - Horror
   6479:
     label_title: I Am Legend
     sort_title: I Am Legend
@@ -6122,10 +6117,9 @@ metadata:
     label_title: Labyrinth
     sort_title: Labyrinth
     release_year: '1986'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/456579
     tpdb_search: https://theposterdb.com/search?term=Labyrinth&section=movies
     genre.sync:
-      - Adventure
       - Family
       - Fantasy
   10340:
@@ -6717,10 +6711,9 @@ metadata:
     label_title: The Magic Faraway Tree
     sort_title: Magic Faraway Tree
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/715795
     tpdb_search: https://theposterdb.com/search?term=The+Magic+Faraway+Tree&section=movies
     genre.sync:
-      - Adventure
       - Family
       - Fantasy
   102651:
@@ -7080,10 +7073,9 @@ metadata:
     label_title: Mia and the White Lion
     sort_title: Mia and the White Lion
     release_year: '2018'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/728414
     tpdb_search: https://theposterdb.com/search?term=Mia+and+the+White+Lion&section=movies
     genre.sync:
-      - Adventure
       - Drama
       - Family
   936075:
@@ -8202,11 +8194,10 @@ metadata:
     label_title: Passenger
     sort_title: Passenger
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/711331
     tpdb_search: https://theposterdb.com/search?term=Passenger&section=movies
     genre.sync:
       - Horror
-      - Thriller
   666277:
     label_title: Past Lives
     sort_title: Past Lives
