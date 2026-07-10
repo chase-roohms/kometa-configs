@@ -5046,6 +5046,18 @@ metadata:
       - Action
       - Drama
       - Thriller
+  1119090:
+    label_title: I Am Frankelda
+    sort_title: I Am Frankelda
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=I+Am+Frankelda&section=movies
+    genre.sync:
+      - Adventure
+      - Animation
+      - Family
+      - Fantasy
+      - Horror
   6479:
     label_title: I Am Legend
     sort_title: I Am Legend
