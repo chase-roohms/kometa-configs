@@ -1406,6 +1406,16 @@ metadata:
     studio: A24
     genre.sync:
       - Horror
+  14181:
+    label_title: Boiler Room
+    sort_title: Boiler Room
+    release_year: '2000'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Boiler+Room&section=movies
+    genre.sync:
+      - Crime
+      - Drama
+      - Thriller
   13053:
     label_title: Bolt
     sort_title: Bolt
