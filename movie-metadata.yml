@@ -1499,11 +1499,10 @@ metadata:
     label_title: The Breadwinner
     sort_title: Breadwinner
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/721347
     tpdb_search: https://theposterdb.com/search?term=The+Breadwinner&section=movies
     genre.sync:
       - Comedy
-      - Family
   2108:
     label_title: The Breakfast Club
     sort_title: Breakfast Club
