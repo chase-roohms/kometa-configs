@@ -4127,6 +4127,16 @@ metadata:
     genre.sync:
       - Drama
       - Thriller
+  9679:
+    label_title: Gone in Sixty Seconds
+    sort_title: Gone in Sixty Seconds
+    release_year: '2000'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Gone+in+Sixty+Seconds&section=movies
+    genre.sync:
+      - Action
+      - Crime
+      - Thriller
   1422096:
     label_title: Good Boy
     sort_title: Good Boy
