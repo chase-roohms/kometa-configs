@@ -9493,6 +9493,16 @@ metadata:
       - Action
       - Drama
       - Thriller
+  146238:
+    label_title: Runner Runner
+    sort_title: Runner Runner
+    release_year: '2013'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Runner+Runner&section=movies
+    genre.sync:
+      - Crime
+      - Drama
+      - Thriller
   798645:
     label_title: The Running Man
     sort_title: Running Man
