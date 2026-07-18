@@ -2952,6 +2952,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Downton+Abbey:+The+Grand+Finale&section=movies
     genre.sync:
       - Drama
+  438674:
+    label_title: Dragged Across Concrete
+    sort_title: Dragged Across Concrete
+    release_year: '2019'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Dragged+Across+Concrete&section=movies
+    genre.sync:
+      - Action
+      - Crime
+      - Thriller
   1325734:
     label_title: The Drama
     sort_title: Drama
