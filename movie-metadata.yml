@@ -9259,6 +9259,16 @@ metadata:
     genre.sync:
       - Drama
       - Thriller
+  121606:
+    label_title: Resolution
+    sort_title: Resolution
+    release_year: '2013'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Resolution&section=movies
+    genre.sync:
+      - Horror
+      - Mystery
+      - Thriller
   11011:
     label_title: Ri¢hie Ri¢h
     sort_title: Richie Rich
