@@ -10823,6 +10823,16 @@ metadata:
     studio: Disney
     genre.sync:
       - Animation
+  549294:
+    label_title: Synchronic
+    sort_title: Synchronic
+    release_year: '2020'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Synchronic&section=movies
+    genre.sync:
+      - Horror
+      - Science Fiction
+      - Thriller
   4552:
     label_title: A Tale of Two Sisters
     sort_title: Tale of Two Sisters
