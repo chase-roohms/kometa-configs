@@ -1410,10 +1410,9 @@ metadata:
     label_title: Boiler Room
     sort_title: Boiler Room
     release_year: '2000'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/114831
     tpdb_search: https://theposterdb.com/search?term=Boiler+Room&section=movies
     genre.sync:
-      - Crime
       - Drama
       - Thriller
   13053:
@@ -2956,11 +2955,10 @@ metadata:
     label_title: Dragged Across Concrete
     sort_title: Dragged Across Concrete
     release_year: '2019'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/387652
     tpdb_search: https://theposterdb.com/search?term=Dragged+Across+Concrete&section=movies
     genre.sync:
       - Action
-      - Crime
       - Thriller
   1325734:
     label_title: The Drama
@@ -3194,12 +3192,11 @@ metadata:
     label_title: The Endless
     sort_title: Endless
     release_year: '2017'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/115036
     tpdb_search: https://theposterdb.com/search?term=The+Endless&section=movies
     genre.sync:
       - Horror
       - Science Fiction
-      - Thriller
   34647:
     label_title: Enter the Void
     sort_title: Enter the Void
@@ -4151,11 +4148,10 @@ metadata:
     label_title: Gone in Sixty Seconds
     sort_title: Gone in Sixty Seconds
     release_year: '2000'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/113763
     tpdb_search: https://theposterdb.com/search?term=Gone+in+Sixty+Seconds&section=movies
     genre.sync:
       - Action
-      - Crime
       - Thriller
   1422096:
     label_title: Good Boy
@@ -9273,12 +9269,11 @@ metadata:
     label_title: Resolution
     sort_title: Resolution
     release_year: '2013'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/505752
     tpdb_search: https://theposterdb.com/search?term=Resolution&section=movies
     genre.sync:
       - Horror
-      - Mystery
-      - Thriller
+      - Science Fiction
   11011:
     label_title: Ri¢hie Ri¢h
     sort_title: Richie Rich
@@ -9537,10 +9532,9 @@ metadata:
     label_title: Runner Runner
     sort_title: Runner Runner
     release_year: '2013'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/536665
     tpdb_search: https://theposterdb.com/search?term=Runner+Runner&section=movies
     genre.sync:
-      - Crime
       - Drama
       - Thriller
   798645:
@@ -10081,7 +10075,7 @@ metadata:
     label_title: The Sitter
     sort_title: Sitter
     release_year: '2011'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/66058
     tpdb_search: https://theposterdb.com/search?term=The+Sitter&section=movies
     genre.sync:
       - Comedy
@@ -10827,12 +10821,11 @@ metadata:
     label_title: Synchronic
     sort_title: Synchronic
     release_year: '2020'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/140278
     tpdb_search: https://theposterdb.com/search?term=Synchronic&section=movies
     genre.sync:
       - Horror
       - Science Fiction
-      - Thriller
   4552:
     label_title: A Tale of Two Sisters
     sort_title: Tale of Two Sisters
