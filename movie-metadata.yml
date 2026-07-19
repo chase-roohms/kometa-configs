@@ -10468,6 +10468,16 @@ metadata:
     genre.sync:
       - Animation
       - Family
+  241855:
+    label_title: Spring
+    sort_title: Spring
+    release_year: '2014'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Spring&section=movies
+    genre.sync:
+      - Horror
+      - Romance
+      - Science Fiction
   1230368:
     label_title: 'Springsteen: Deliver Me from Nowhere'
     sort_title: 'Springsteen: Deliver Me from Nowhere'
