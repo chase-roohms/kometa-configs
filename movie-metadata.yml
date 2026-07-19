@@ -3192,7 +3192,7 @@ metadata:
     label_title: The Endless
     sort_title: Endless
     release_year: '2017'
-    url_poster: https://theposterdb.com/api/assets/115036
+    url_poster: https://theposterdb.com/api/assets/730122
     tpdb_search: https://theposterdb.com/search?term=The+Endless&section=movies
     genre.sync:
       - Horror
@@ -9269,7 +9269,7 @@ metadata:
     label_title: Resolution
     sort_title: Resolution
     release_year: '2013'
-    url_poster: https://theposterdb.com/api/assets/505752
+    url_poster: https://theposterdb.com/api/assets/730120
     tpdb_search: https://theposterdb.com/search?term=Resolution&section=movies
     genre.sync:
       - Horror
@@ -10215,12 +10215,10 @@ metadata:
     label_title: Something in the Dirt
     sort_title: Something in the Dirt
     release_year: '2022'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/730124
     tpdb_search: https://theposterdb.com/search?term=Something+in+the+Dirt&section=movies
     genre.sync:
-      - Comedy
       - Horror
-      - Mystery
       - Science Fiction
   1371185:
     label_title: Song Sung Blue
@@ -10473,10 +10471,9 @@ metadata:
     sort_title: Spring
     release_year: '2014'
     url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Spring&section=movies
+    tpdb_search: https://theposterdb.com/api/assets/730121
     genre.sync:
       - Horror
-      - Romance
       - Science Fiction
   1230368:
     label_title: 'Springsteen: Deliver Me from Nowhere'
@@ -10842,7 +10839,7 @@ metadata:
     label_title: Synchronic
     sort_title: Synchronic
     release_year: '2020'
-    url_poster: https://theposterdb.com/api/assets/140278
+    url_poster: https://theposterdb.com/api/assets/730123
     tpdb_search: https://theposterdb.com/search?term=Synchronic&section=movies
     genre.sync:
       - Horror
