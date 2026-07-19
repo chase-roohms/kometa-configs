@@ -4501,6 +4501,16 @@ metadata:
     tpdb_search: "https://theposterdb.com/search?term=Hearts+of+Darkness:+A+Filmmaker's+Apocalypse&section=movies"
     genre.sync:
       - Documentary
+  949:
+    label_title: Heat
+    sort_title: Heat
+    release_year: '1995'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Heat&section=movies
+    genre.sync:
+      - Action
+      - Crime
+      - Drama
   9003:
     label_title: Hellraiser
     sort_title: Hellraiser 1
