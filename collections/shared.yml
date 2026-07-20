@@ -49,5 +49,6 @@ collections:
       name: IMDB
       imdb_list_id: ls4115111878
       summary: 'The "Shitty Carl Universe" (or "Shitty-Carl-verse") is the fan-favorite, overlapping cinematic universe created by indie filmmakers Justin Benson and Aaron Moorhead. It centers around a cult-classic, enigmatic, and recurring character known as Shitty Carl.'
-    url_poster: https://imgur.com/9oE6eVe
+    url_poster: https://i.imgur.com/9oE6eVe.jpeg
+    collection_order: release
     
