@@ -4505,11 +4505,10 @@ metadata:
     label_title: Heat
     sort_title: Heat
     release_year: '1995'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/63226
     tpdb_search: https://theposterdb.com/search?term=Heat&section=movies
     genre.sync:
       - Action
-      - Crime
       - Drama
   9003:
     label_title: Hellraiser
