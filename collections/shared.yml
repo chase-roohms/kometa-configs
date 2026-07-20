@@ -44,3 +44,10 @@ collections:
       imdb_list_id: ls4178833926
       summary: "The Twisted Childhood Universe, is a British film series and shared universe of independent slasher horror films, each serving as a dark reimagining of public domain classic characters from children's literature."
     url_poster: https://theposterdb.com/api/assets/725670
+  The Shitty Carl Universe:
+    template:
+      name: IMDB
+      imdb_list_id: ls4115111878
+      summary: 'The "Shitty Carl Universe" (or "Shitty-Carl-verse") is the fan-favorite, overlapping cinematic universe created by indie filmmakers Justin Benson and Aaron Moorhead. It centers around a cult-classic, enigmatic, and recurring character known as Shitty Carl.'
+    url_poster: https://imgur.com/9oE6eVe
+    
