@@ -9608,9 +9608,9 @@ metadata:
       - Family
   1273221:
     label_title: Scary Movie
-    sort_title: Scary Movie
+    sort_title: Scary Movie 6
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/720811
     tpdb_search: https://theposterdb.com/search?term=Scary+Movie&section=movies
     genre.sync:
       - Comedy
