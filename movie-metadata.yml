@@ -6539,6 +6539,15 @@ metadata:
     genre.sync:
       - Science Fiction
       - Thriller
+  228205:
+    label_title: The Longest Ride
+    sort_title: Longest Ride
+    release_year: '2015'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Longest+Ride&section=movies
+    genre.sync:
+      - Drama
+      - Romance
   1226578:
     label_title: Longlegs
     sort_title: Longlegs
