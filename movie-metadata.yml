@@ -6910,6 +6910,16 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
+  454639:
+    label_title: Masters of the Universe
+    sort_title: Masters of the Universe
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Masters+of+the+Universe&section=movies
+    genre.sync:
+      - Action
+      - Fantasy
+      - Science Fiction
   10830:
     label_title: Matilda
     sort_title: Matilda
