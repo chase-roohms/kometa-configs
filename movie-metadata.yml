@@ -2215,6 +2215,14 @@ metadata:
     genre.sync:
       - Animation
       - Family
+  82684:
+    label_title: Chasing Mavericks
+    sort_title: Chasing Mavericks
+    release_year: '2012'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Chasing+Mavericks&section=movies
+    genre.sync:
+      - Drama
   9982:
     label_title: Chicken Little
     sort_title: Chicken Little
