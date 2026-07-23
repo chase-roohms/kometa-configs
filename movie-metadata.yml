@@ -2219,7 +2219,7 @@ metadata:
     label_title: Chasing Mavericks
     sort_title: Chasing Mavericks
     release_year: '2012'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/731042
     tpdb_search: https://theposterdb.com/search?term=Chasing+Mavericks&section=movies
     genre.sync:
       - Drama
@@ -6551,11 +6551,10 @@ metadata:
     label_title: The Longest Ride
     sort_title: Longest Ride
     release_year: '2015'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/45676
     tpdb_search: https://theposterdb.com/search?term=The+Longest+Ride&section=movies
     genre.sync:
       - Drama
-      - Romance
   1226578:
     label_title: Longlegs
     sort_title: Longlegs
@@ -6931,7 +6930,7 @@ metadata:
     label_title: Masters of the Universe
     sort_title: Masters of the Universe
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/685940
     tpdb_search: https://theposterdb.com/search?term=Masters+of+the+Universe&section=movies
     genre.sync:
       - Action
@@ -9018,10 +9017,9 @@ metadata:
     label_title: Primer
     sort_title: Primer
     release_year: '2004'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/188502
     tpdb_search: https://theposterdb.com/search?term=Primer&section=movies
     genre.sync:
-      - Drama
       - Science Fiction
       - Thriller
   1257009:
