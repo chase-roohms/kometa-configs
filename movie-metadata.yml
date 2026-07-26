@@ -9928,6 +9928,16 @@ metadata:
     tpdb_search: "https://theposterdb.com/search?term=She's+the+Man&section=movies"
     genre.sync:
       - Comedy
+  1301421:
+    label_title: The Sheep Detectives
+    sort_title: Sheep Detectives
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Sheep+Detectives&section=movies
+    genre.sync:
+      - Comedy
+      - Family
+      - Mystery
   1290821:
     label_title: Shelter
     sort_title: Shelter
