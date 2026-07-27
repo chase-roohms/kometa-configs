@@ -1689,6 +1689,17 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
+  1329471:
+    label_title: Carolina Caroline
+    sort_title: Carolina Caroline
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Carolina+Caroline&section=movies
+    genre.sync:
+      - Crime
+      - Drama
+      - Romance
+      - Thriller
   1286185:
     label_title: "The Carpenter's Son"
     sort_title: "Carpenter's Son"
