@@ -3927,6 +3927,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=G20&section=movies
     genre.sync:
       - Action
+  284536:
+    label_title: The Gambler
+    sort_title: Gambler
+    release_year: '2014'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Gambler&section=movies
+    genre.sync:
+      - Crime
+      - Drama
+      - Thriller
   2649:
     label_title: The Game
     sort_title: Game
