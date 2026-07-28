@@ -1693,12 +1693,10 @@ metadata:
     label_title: Carolina Caroline
     sort_title: Carolina Caroline
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/724599
     tpdb_search: https://theposterdb.com/search?term=Carolina+Caroline&section=movies
     genre.sync:
-      - Crime
       - Drama
-      - Romance
       - Thriller
   1286185:
     label_title: "The Carpenter's Son"
@@ -9943,12 +9941,11 @@ metadata:
     label_title: The Sheep Detectives
     sort_title: Sheep Detectives
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/704994
     tpdb_search: https://theposterdb.com/search?term=The+Sheep+Detectives&section=movies
     genre.sync:
       - Comedy
       - Family
-      - Mystery
   1290821:
     label_title: Shelter
     sort_title: Shelter
@@ -10878,19 +10875,18 @@ metadata:
     label_title: Supergirl
     sort_title: Supergirl
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/702374
     tpdb_search: https://theposterdb.com/search?term=Supergirl&section=movies
+    studio: DC Studios
     genre.sync:
-      - Action
-      - Adventure
-      - Science Fiction
+      - Superhero
   1061474:
     label_title: Superman
     sort_title: Superman
     release_year: '2025'
-    url_poster: https://theposterdb.com/api/assets/639091
+    url_poster: https://theposterdb.com/api/assets/604154
     tpdb_search: https://theposterdb.com/search?term=Superman&section=movies
-    studio: DC Films
+    studio: DC Studios
     genre.sync:
       - Superhero
   361292:
