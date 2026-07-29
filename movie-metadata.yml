@@ -7651,6 +7651,15 @@ metadata:
     studio: Studio Ghibli
     genre.sync:
       - Anime
+  947891:
+    label_title: My Old Ass
+    sort_title: My Old Ass
+    release_year: '2024'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=My+Old+Ass&section=movies
+    genre.sync:
+      - Comedy
+      - Drama
   1035259:
     label_title: The Naked Gun
     sort_title: Naked Gun
