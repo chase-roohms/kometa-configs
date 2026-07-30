@@ -6945,6 +6945,14 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
+  68722:
+    label_title: The Master
+    sort_title: Master
+    release_year: '2012'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Master&section=movies
+    genre.sync:
+      - Drama
   454639:
     label_title: Masters of the Universe
     sort_title: Masters of the Universe
