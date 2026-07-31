@@ -5784,20 +5784,37 @@ metadata:
     label_title: Trailer Park Boys
     sort_title: Trailer Park Boys
     release_year: '2001'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/247720
     tpdb_search: https://theposterdb.com/search?term=Trailer+Park+Boys&section=shows
     genre.sync:
       - Comedy
-      - Crime
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/247721
+      1:
+        url_poster: https://theposterdb.com/api/assets/247722
+      2:
+        url_poster: https://theposterdb.com/api/assets/247723
       3:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/247724
       4:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/247725
       5:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/247726
       6:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/247727
+      7:
+        url_poster: https://theposterdb.com/api/assets/247728
+      8:
+        url_poster: https://theposterdb.com/api/assets/247729
+      9:
+        url_poster: https://theposterdb.com/api/assets/247730
+      10:
+        url_poster: https://theposterdb.com/api/assets/247731
+      11:
+        url_poster: https://theposterdb.com/api/assets/247732
+      12:
+        url_poster: https://theposterdb.com/api/assets/247733
   466307:
     label_title: 'Trainwreck: Storm Area 51'
     sort_title: Trainwreck Storm Area 51
