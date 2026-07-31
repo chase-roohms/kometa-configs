@@ -2359,15 +2359,13 @@ metadata:
     label_title: 'The Idaho Murders: College Nightmare'
     sort_title: 'Idaho Murders: College Nightmare'
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/732932
     tpdb_search: https://theposterdb.com/search?term=The+Idaho+Murders:+College+Nightmare&section=shows
     genre.sync:
-      - Crime
       - Documentary
-      - Mini-Series
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/732933
   320558:
     label_title: "Marvel's Inhumans"
     sort_title: Inhumans
