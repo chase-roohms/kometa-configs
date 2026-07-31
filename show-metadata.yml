@@ -5780,6 +5780,18 @@ metadata:
             url_poster: https://i.imgur.com/ETaHkSf.png
       1:
         url_poster: https://theposterdb.com/api/assets/601961
+  70566:
+    label_title: Trailer Park Boys
+    sort_title: Trailer Park Boys
+    release_year: '2001'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Trailer+Park+Boys&section=shows
+    genre.sync:
+      - Comedy
+      - Crime
+    seasons:
+      3:
+        url_poster: ''
   466307:
     label_title: 'Trainwreck: Storm Area 51'
     sort_title: Trainwreck Storm Area 51
