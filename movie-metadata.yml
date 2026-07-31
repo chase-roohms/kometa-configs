@@ -3931,10 +3931,9 @@ metadata:
     label_title: The Gambler
     sort_title: Gambler
     release_year: '2014'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/156295
     tpdb_search: https://theposterdb.com/search?term=The+Gambler&section=movies
     genre.sync:
-      - Crime
       - Drama
       - Thriller
   2649:
@@ -6949,7 +6948,7 @@ metadata:
     label_title: The Master
     sort_title: Master
     release_year: '2012'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/103679
     tpdb_search: https://theposterdb.com/search?term=The+Master&section=movies
     genre.sync:
       - Drama
@@ -7663,7 +7662,7 @@ metadata:
     label_title: My Old Ass
     sort_title: My Old Ass
     release_year: '2024'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/541862
     tpdb_search: https://theposterdb.com/search?term=My+Old+Ass&section=movies
     genre.sync:
       - Comedy
