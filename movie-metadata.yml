@@ -1180,6 +1180,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Big+Lebowski&section=movies
     genre.sync:
       - Comedy
+  318846:
+    label_title: The Big Short
+    sort_title: Big Short
+    release_year: '2015'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Big+Short&section=movies
+    genre.sync:
+      - Comedy
+      - Drama
   16790:
     label_title: Bingo
     sort_title: Bingo
