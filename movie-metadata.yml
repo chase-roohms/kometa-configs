@@ -58,6 +58,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=28+Years+Later:+The+Bone+Temple&section=movies
     genre.sync:
       - Thriller
+  1431804:
+    label_title: 40 Dates and 40 Nights
+    sort_title: 40 Dates and 40 Nights
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=40+Dates+and+40+Nights&section=movies
+    genre.sync:
+      - Comedy
+      - Romance
   937249:
     label_title: 57 Seconds
     sort_title: 57 Seconds
