@@ -1184,7 +1184,7 @@ metadata:
     label_title: The Big Short
     sort_title: Big Short
     release_year: '2015'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/346558
     tpdb_search: https://theposterdb.com/search?term=The+Big+Short&section=movies
     genre.sync:
       - Comedy
