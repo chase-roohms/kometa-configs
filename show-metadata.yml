@@ -1749,6 +1749,8 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/407629
+      4:
+        url_poster: ''
   314614:
     label_title: Fleabag
     sort_title: Fleabag
