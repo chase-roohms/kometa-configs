@@ -1685,15 +1685,16 @@ metadata:
     label_title: False Memory
     sort_title: False Memory
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/733836
     tpdb_search: https://theposterdb.com/search?term=False+Memory&section=shows
+    audio_language: zh-CN
     genre.sync:
-      - Action
-      - Adventure
-      - Mystery
+      - Anime
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/733837
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/733838
   368185:
     label_title: 'Fate: The Winx Saga'
     sort_title: 'Fate: The Winx Saga'
