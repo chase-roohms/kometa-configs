@@ -1749,6 +1749,8 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/407629
+      2:
+        url_poster: ''
       3:
         url_poster: ''
       4:
