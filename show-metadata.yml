@@ -1744,19 +1744,25 @@ metadata:
     release_year: '2000'
     url_poster: https://theposterdb.com/api/assets/407628
     tpdb_search: https://theposterdb.com/search?term=FLCL&section=shows
+    audio_language: ja-JP
     genre.sync:
       - Anime
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/407629
+        title: Fooly Cooly
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/407630
+        title: Progressive
       3:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/407631
+        title: Alternative
       4:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/407632
+        title: Grunge
       5:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/419864
+        title: Shoegaze
   314614:
     label_title: Fleabag
     sort_title: Fleabag
