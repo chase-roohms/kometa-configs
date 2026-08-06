@@ -7896,6 +7896,14 @@ metadata:
     studio: Disney
     genre.sync:
       - Family
+  1396608:
+    label_title: The Non-Actor
+    sort_title: Non-Actor
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Non-Actor&section=movies
+    genre.sync:
+      - Drama
   762504:
     label_title: Nope
     sort_title: Nope
