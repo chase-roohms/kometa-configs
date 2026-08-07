@@ -7900,7 +7900,7 @@ metadata:
     label_title: The Non-Actor
     sort_title: Non-Actor
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/734983
     tpdb_search: https://theposterdb.com/search?term=The+Non-Actor&section=movies
     genre.sync:
       - Drama
