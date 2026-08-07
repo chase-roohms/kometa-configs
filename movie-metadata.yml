@@ -7986,6 +7986,14 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Nun+II&section=movies
     genre.sync:
       - Horror
+  1600680:
+    label_title: The Nurse Who Knew Too Much
+    sort_title: Nurse Who Knew Too Much
+    release_year: '2025'
+    url_poster: https://theposterdb.com/api/assets/734984
+    tpdb_search: https://theposterdb.com/search?term=The+Nurse+Who+Knew+Too+Much&section=movies
+    genre.sync:
+      - Thriller
   75612:
     label_title: Oblivion
     sort_title: Oblivion
