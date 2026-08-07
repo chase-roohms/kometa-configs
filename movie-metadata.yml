@@ -6266,6 +6266,15 @@ metadata:
       - Action
       - Thriller
       - War
+  1284041:
+    label_title: The Last House
+    sort_title: Last House
+    release_year: '2026'
+    url_poster: https://theposterdb.com/api/assets/734985
+    tpdb_search: https://theposterdb.com/search?term=The+Last+House&section=movies
+    genre.sync:
+      - Horror
+      - Science Fiction
   616:
     label_title: The Last Samurai
     sort_title: Last Samurai
