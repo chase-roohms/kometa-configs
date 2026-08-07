@@ -4369,6 +4369,18 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/516692
+  468023:
+    label_title: "Ricky Gervais' Alley Cats"
+    sort_title: "Ricky Gervais' Alley Cats"
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: "https://theposterdb.com/search?term=Ricky+Gervais'+Alley+Cats&section=shows"
+    genre.sync:
+      - Animation
+      - Comedy
+    seasons:
+      1:
+        url_poster: ''
   357223:
     label_title: The Righteous Gemstones
     sort_title: Righteous Gemstones
