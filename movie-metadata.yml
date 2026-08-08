@@ -3333,6 +3333,14 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
+  1212763:
+    label_title: Evil Dead Burn
+    sort_title: Evil Dead Burn
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Evil+Dead+Burn&section=movies
+    genre.sync:
+      - Horror
   264660:
     label_title: Ex Machina
     sort_title: Ex Machina
