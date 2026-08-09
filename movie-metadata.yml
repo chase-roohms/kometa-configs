@@ -6821,6 +6821,14 @@ metadata:
     studio: Marvel Entertainment
     genre.sync:
       - Superhero
+  1517868:
+    label_title: "Maddie's Secret"
+    sort_title: "Maddie's Secret"
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: "https://theposterdb.com/search?term=Maddie's+Secret&section=movies"
+    genre.sync:
+      - Comedy
   784524:
     label_title: Magazine Dreams
     sort_title: Magazine Dreams
