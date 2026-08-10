@@ -38,6 +38,12 @@ collections:
       imdb_list_id: ls538995284
       summary: 'Mortal Kombat is a legendary, ultra-violent fighting game franchise created by Ed Boon and John Tobias. Launched in 1992, the series is globally famous for its deep lore, cinematic storylines, and over-the-top finishing moves called "Fatalities".'
     url_poster: https://theposterdb.com/api/assets/6106
+  Trailer Park Boys:
+    template:
+      name: IMDB
+      imdb_list_id: ls4117102293
+      summary: "Nova Scotia's trailer parks are colorful thanks to residents Ricky, Bubbles and Julian. Together, they plan mad capers, usually get-rich-quick schemes, with plenty of screw-ups along the way. They're constantly being hunted by their former trailer park supervisor, Jim Lahey, and his perpetually shirtless, pot-belled assistant, Randy. There are a host of other quirky characters that make up this zany locale of below-income characters in this Canadian mockumentary series that has spawned two feature films."
+    url_poster: https://theposterdb.com/api/assets/247720
   The Twisted Childhood Universe:
     template:
       name: IMDB
