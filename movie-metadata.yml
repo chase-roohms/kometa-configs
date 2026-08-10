@@ -2742,7 +2742,7 @@ metadata:
     label_title: Deep Water
     sort_title: Deep Water
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/722670
     tpdb_search: https://theposterdb.com/search?term=Deep+Water&section=movies
     genre.sync:
       - Horror
@@ -3346,7 +3346,7 @@ metadata:
     label_title: Evil Dead Burn
     sort_title: Evil Dead Burn
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/733331
     tpdb_search: https://theposterdb.com/search?term=Evil+Dead+Burn&section=movies
     genre.sync:
       - Horror
@@ -6834,7 +6834,7 @@ metadata:
     label_title: "Maddie's Secret"
     sort_title: "Maddie's Secret"
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/733611
     tpdb_search: "https://theposterdb.com/search?term=Maddie's+Secret&section=movies"
     genre.sync:
       - Comedy
@@ -9625,10 +9625,9 @@ metadata:
     label_title: Rope
     sort_title: Rope
     release_year: '1948'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/432182
     tpdb_search: https://theposterdb.com/search?term=Rope&section=movies
     genre.sync:
-      - Crime
       - Drama
       - Thriller
   45649:
