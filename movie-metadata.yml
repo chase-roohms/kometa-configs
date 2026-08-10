@@ -5455,7 +5455,7 @@ metadata:
     label_title: Insidious
     sort_title: Insidious 1
     release_year: '2011'
-    url_poster: https://theposterdb.com/api/assets/391914
+    url_poster: https://theposterdb.com/api/assets/720446
     tpdb_search: https://theposterdb.com/search?term=Insidious&section=movies
     studio: Blumhouse Productions
     genre.sync:
@@ -5464,7 +5464,7 @@ metadata:
     label_title: 'Insidious: Chapter 2'
     sort_title: Insidious 2
     release_year: '2013'
-    url_poster: https://theposterdb.com/api/assets/391915
+    url_poster: https://theposterdb.com/api/assets/720445
     tpdb_search: https://theposterdb.com/search?term=Insidious:+Chapter+2&section=movies
     studio: Blumhouse Productions
     genre.sync:
@@ -5473,7 +5473,7 @@ metadata:
     label_title: 'Insidious: Chapter 3'
     sort_title: Insidious 3
     release_year: '2015'
-    url_poster: https://theposterdb.com/api/assets/391916
+    url_poster: https://theposterdb.com/api/assets/720444
     tpdb_search: https://theposterdb.com/search?term=Insidious:+Chapter+3&section=movies
     studio: Blumhouse Productions
     genre.sync:
@@ -5482,7 +5482,7 @@ metadata:
     label_title: 'Insidious: The Last Key'
     sort_title: Insidious 4
     release_year: '2018'
-    url_poster: https://theposterdb.com/api/assets/391917
+    url_poster: https://theposterdb.com/api/assets/720443
     tpdb_search: https://theposterdb.com/search?term=Insidious:+The+Last+Key&section=movies
     studio: Blumhouse Productions
     genre.sync:
@@ -5491,17 +5491,18 @@ metadata:
     label_title: 'Insidious: The Red Door'
     sort_title: Insidious 5
     release_year: '2023'
-    url_poster: https://theposterdb.com/api/assets/391918
+    url_poster: https://theposterdb.com/api/assets/720442
     tpdb_search: https://theposterdb.com/search?term=Insidious:+The+Red+Door&section=movies
     studio: Blumhouse Productions
     genre.sync:
       - Horror
   1291595:
     label_title: 'Insidious: Out of the Further'
-    sort_title: 'Insidious: Out of the Further'
+    sort_title: Insidious 6
     release_year: '2026'
     url_poster: https://theposterdb.com/api/assets/720441
     tpdb_search: https://theposterdb.com/search?term=Insidious:+Out+of+the+Further&section=movies
+    studio: Blumhouse Productions
     genre.sync:
       - Horror
   20312:
