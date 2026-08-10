@@ -5496,6 +5496,14 @@ metadata:
     studio: Blumhouse Productions
     genre.sync:
       - Horror
+  1291595:
+    label_title: 'Insidious: Out of the Further'
+    sort_title: 'Insidious: Out of the Further'
+    release_year: '2026'
+    url_poster: https://theposterdb.com/api/assets/720441
+    tpdb_search: https://theposterdb.com/search?term=Insidious:+Out+of+the+Further&section=movies
+    genre.sync:
+      - Horror
   20312:
     label_title: Interstate 60
     sort_title: Interstate 60
