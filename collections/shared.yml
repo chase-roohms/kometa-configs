@@ -43,7 +43,7 @@ collections:
       name: IMDB
       imdb_list_id: ls4117102293
       summary: "Nova Scotia's trailer parks are colorful thanks to residents Ricky, Bubbles and Julian. Together, they plan mad capers, usually get-rich-quick schemes, with plenty of screw-ups along the way. They're constantly being hunted by their former trailer park supervisor, Jim Lahey, and his perpetually shirtless, pot-belled assistant, Randy. There are a host of other quirky characters that make up this zany locale of below-income characters in this Canadian mockumentary series that has spawned two feature films."
-    url_poster: https://theposterdb.com/api/assets/247720
+    url_poster: https://theposterdb.com/api/assets/633980
   The Twisted Childhood Universe:
     template:
       name: IMDB
