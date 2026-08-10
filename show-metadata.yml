@@ -5824,52 +5824,50 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/601961
   70566:
     label_title: Trailer Park Boys
-    sort_title: Trailer Park Boys
+    sort_title: Trailer Park Boys 1
     release_year: '2001'
-    url_poster: https://theposterdb.com/api/assets/247720
+    url_poster: https://theposterdb.com/api/assets/633065
     tpdb_search: https://theposterdb.com/search?term=Trailer+Park+Boys&section=shows
     genre.sync:
       - Comedy
     seasons:
-      0:
-        url_poster: https://theposterdb.com/api/assets/247721
       1:
-        url_poster: https://theposterdb.com/api/assets/247722
+        url_poster: https://theposterdb.com/api/assets/633066
       2:
-        url_poster: https://theposterdb.com/api/assets/247723
+        url_poster: https://theposterdb.com/api/assets/633067
       3:
-        url_poster: https://theposterdb.com/api/assets/247724
+        url_poster: https://theposterdb.com/api/assets/633068
       4:
-        url_poster: https://theposterdb.com/api/assets/247725
+        url_poster: https://theposterdb.com/api/assets/633069
       5:
-        url_poster: https://theposterdb.com/api/assets/247726
+        url_poster: https://theposterdb.com/api/assets/633070
       6:
-        url_poster: https://theposterdb.com/api/assets/247727
+        url_poster: https://theposterdb.com/api/assets/633071
       7:
-        url_poster: https://theposterdb.com/api/assets/247728
+        url_poster: https://theposterdb.com/api/assets/633072
       8:
-        url_poster: https://theposterdb.com/api/assets/247729
+        url_poster: https://theposterdb.com/api/assets/633073
       9:
-        url_poster: https://theposterdb.com/api/assets/247730
+        url_poster: https://theposterdb.com/api/assets/633078
       10:
-        url_poster: https://theposterdb.com/api/assets/247731
+        url_poster: https://theposterdb.com/api/assets/633075
       11:
-        url_poster: https://theposterdb.com/api/assets/247732
+        url_poster: https://theposterdb.com/api/assets/633076
       12:
-        url_poster: https://theposterdb.com/api/assets/247733
+        url_poster: https://theposterdb.com/api/assets/633077
   394325:
     label_title: 'Trailer Park Boys: JAIL'
-    sort_title: 'Trailer Park Boys: JAIL'
+    sort_title: Trailer Park Boys 3
     release_year: '2021'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/633087
     tpdb_search: https://theposterdb.com/search?term=Trailer+Park+Boys:+JAIL&section=shows
     genre.sync:
       - Comedy
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/633089
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/633090
   466307:
     label_title: 'Trainwreck: Storm Area 51'
     sort_title: Trainwreck Storm Area 51
