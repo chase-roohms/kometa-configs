@@ -5855,6 +5855,19 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/633076
       12:
         url_poster: https://theposterdb.com/api/assets/633077
+  361544:
+    label_title: 'Trailer Park Boys: The Animated Series'
+    sort_title: Trailer Park Boys 2
+    release_year: '2019'
+    url_poster: https://theposterdb.com/api/assets/305764
+    tpdb_search: https://theposterdb.com/search?term=Trailer+Park+Boys:+The+Animated+Series&section=shows
+    genre.sync:
+      - Comedy
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/305765
+      2:
+        url_poster: https://theposterdb.com/api/assets/305766
   394325:
     label_title: 'Trailer Park Boys: JAIL'
     sort_title: Trailer Park Boys 3
@@ -5868,19 +5881,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/633089
       2:
         url_poster: https://theposterdb.com/api/assets/633090
-  361544:
-    label_title: 'Trailer Park Boys: The Animated Series'
-    sort_title: 'Trailer Park Boys: The Animated Series'
-    release_year: '2019'
-    url_poster: https://theposterdb.com/api/assets/305764
-    tpdb_search: https://theposterdb.com/search?term=Trailer+Park+Boys:+The+Animated+Series&section=shows
-    genre.sync:
-      - Comedy
-    seasons:
-      1:
-        url_poster: ''
-      2:
-        url_poster: ''
   466307:
     label_title: 'Trainwreck: Storm Area 51'
     sort_title: Trainwreck Storm Area 51
