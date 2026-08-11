@@ -7296,6 +7296,18 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=A+Minecraft+Movie&section=movies
     genre.sync:
       - Fantasy
+  1315772:
+    label_title: Minions & Monsters
+    sort_title: Minions & Monsters
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Minions+%26+Monsters&section=movies
+    genre.sync:
+      - Adventure
+      - Animation
+      - Comedy
+      - Family
+      - Fantasy
   211672:
     label_title: Minions
     sort_title: Minions 1
