@@ -5763,9 +5763,9 @@ metadata:
       - Documentary
     seasons:
       0:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/736218
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/736219
   375271:
     label_title: To Your Eternity
     sort_title: To Your Eternity
