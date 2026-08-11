@@ -7336,8 +7336,9 @@ metadata:
     label_title: Minions & Monsters
     sort_title: Minions 3
     release_year: '2026'
-    url_poster: https://theposterdb.com/api/assets/727694
+    url_poster: https://theposterdb.com/api/assets/736065
     tpdb_search: https://theposterdb.com/search?term=Minions+%26+Monsters&section=movies
+    studio: Illumination
     genre.sync:
       - Animation
   799583:
@@ -9289,7 +9290,7 @@ metadata:
     label_title: The Pursuit of Happyness
     sort_title: Pursuit of Happyness
     release_year: '2006'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/65830
     tpdb_search: https://theposterdb.com/search?term=The+Pursuit+of+Happyness&section=movies
     genre.sync:
       - Drama
