@@ -5531,6 +5531,16 @@ metadata:
     genre.sync:
       - Drama
       - Thriller
+  950028:
+    label_title: The Invite
+    sort_title: Invite
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Invite&section=movies
+    genre.sync:
+      - Comedy
+      - Drama
+      - Romance
   850165:
     label_title: The Iron Claw
     sort_title: Iron Claw
