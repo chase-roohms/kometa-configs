@@ -9285,6 +9285,14 @@ metadata:
     genre.sync:
       - Action
       - Thriller
+  1402:
+    label_title: The Pursuit of Happyness
+    sort_title: Pursuit of Happyness
+    release_year: '2006'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Pursuit+of+Happyness&section=movies
+    genre.sync:
+      - Drama
   417859:
     label_title: Puss in Boots
     sort_title: Puss in Boots 1
