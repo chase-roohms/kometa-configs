@@ -3332,6 +3332,14 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Evangelion:+3.0+1.0+Thrice+Upon+a+Time&section=movies
     genre.sync:
       - Anime
+  236308:
+    label_title: Everybody Rides the Carousel
+    sort_title: Everybody Rides the Carousel
+    release_year: '1976'
+    url_poster: https://theposterdb.com/api/assets/736066
+    tpdb_search: https://theposterdb.com/search?term=Everybody+Rides+the+Carousel&section=movies
+    genre.sync:
+      - Animation
   545611:
     label_title: Everything Everywhere All at Once
     sort_title: Everything Everywhere All at Once
