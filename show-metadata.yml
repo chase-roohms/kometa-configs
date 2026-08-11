@@ -5753,6 +5753,19 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/586063
+  145281:
+    label_title: To Catch a Predator
+    sort_title: To Catch a Predator
+    release_year: '2004'
+    url_poster: https://theposterdb.com/api/assets/736217
+    tpdb_search: https://theposterdb.com/search?term=To+Catch+a+Predator&section=shows
+    genre.sync:
+      - Documentary
+    seasons:
+      0:
+        url_poster: ''
+      1:
+        url_poster: ''
   375271:
     label_title: To Your Eternity
     sort_title: To Your Eternity
