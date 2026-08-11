@@ -5535,12 +5535,11 @@ metadata:
     label_title: The Invite
     sort_title: Invite
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/723609
     tpdb_search: https://theposterdb.com/search?term=The+Invite&section=movies
     genre.sync:
       - Comedy
       - Drama
-      - Romance
   850165:
     label_title: The Iron Claw
     sort_title: Iron Claw
@@ -7306,18 +7305,6 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=A+Minecraft+Movie&section=movies
     genre.sync:
       - Fantasy
-  1315772:
-    label_title: Minions & Monsters
-    sort_title: Minions & Monsters
-    release_year: '2026'
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Minions+%26+Monsters&section=movies
-    genre.sync:
-      - Adventure
-      - Animation
-      - Comedy
-      - Family
-      - Fantasy
   211672:
     label_title: Minions
     sort_title: Minions 1
@@ -7334,6 +7321,14 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/531335
     tpdb_search: https://theposterdb.com/search?term=Minions:+The+Rise+of+Gru&section=movies
     studio: Illumination
+    genre.sync:
+      - Animation
+  1315772:
+    label_title: Minions & Monsters
+    sort_title: Minions 3
+    release_year: '2026'
+    url_poster: https://theposterdb.com/api/assets/727694
+    tpdb_search: https://theposterdb.com/search?term=Minions+%26+Monsters&section=movies
     genre.sync:
       - Animation
   799583:
