@@ -5537,6 +5537,7 @@ metadata:
     release_year: '2026'
     url_poster: https://theposterdb.com/api/assets/723609
     tpdb_search: https://theposterdb.com/search?term=The+Invite&section=movies
+    studio: A24
     genre.sync:
       - Comedy
       - Drama
