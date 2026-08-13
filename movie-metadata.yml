@@ -11926,11 +11926,9 @@ metadata:
     label_title: Underwater
     sort_title: Underwater
     release_year: '2020'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/60959
     tpdb_search: https://theposterdb.com/search?term=Underwater&section=movies
     genre.sync:
-      - Action
-      - Adventure
       - Horror
       - Science Fiction
   1517772:
