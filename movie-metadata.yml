@@ -11922,6 +11922,17 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=undertone&section=movies
     genre.sync:
       - Horror
+  443791:
+    label_title: Underwater
+    sort_title: Underwater
+    release_year: '2020'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Underwater&section=movies
+    genre.sync:
+      - Action
+      - Adventure
+      - Horror
+      - Science Fiction
   1517772:
     label_title: 'Unknown Number: The High School Catfish'
     sort_title: 'Unknown Number: The High School Catfish'
