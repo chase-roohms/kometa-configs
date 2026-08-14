@@ -519,6 +519,22 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/483619
+  343384:
+    label_title: Banana Fish
+    sort_title: Banana Fish
+    release_year: '2018'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Banana+Fish&section=shows
+    genre.sync:
+      - Action
+      - Adventure
+      - Animation
+      - Anime
+      - Crime
+      - Drama
+    seasons:
+      1:
+        url_poster: ''
   403294:
     label_title: The Bear
     sort_title: Bear
