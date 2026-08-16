@@ -9442,12 +9442,10 @@ metadata:
     label_title: Redline
     sort_title: Redline
     release_year: '2009'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/306658
     tpdb_search: https://theposterdb.com/search?term=Redline&section=movies
     genre.sync:
-      - Action
-      - Animation
-      - Science Fiction
+      - Anime
   1208348:
     label_title: Rental Family
     sort_title: Rental Family
