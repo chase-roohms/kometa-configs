@@ -2784,6 +2784,18 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/598371
       2:
         url_poster: https://theposterdb.com/api/assets/656770
+  376098:
+    label_title: Lanterns
+    sort_title: Lanterns
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Lanterns&section=shows
+    genre.sync:
+      - Mystery
+      - Science Fiction
+    seasons:
+      1:
+        url_poster: ''
   281622:
     label_title: The Last Man on Earth
     sort_title: Last Man on Earth
