@@ -2533,6 +2533,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/357913
       17:
         url_poster: https://theposterdb.com/api/assets/623907
+      18:
+        url_poster: ''
   418424:
     label_title: 'IT: Welcome to Derry'
     sort_title: 'IT: Welcome to Derry'
