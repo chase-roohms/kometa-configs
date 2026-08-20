@@ -3695,6 +3695,8 @@ metadata:
       - Fantasy
       - Romance
     seasons:
+      0:
+        url_poster: ''
       1:
         url_poster: ''
       2:
