@@ -2424,6 +2424,17 @@ metadata:
     genre.sync:
       - Drama
       - Thriller
+  548473:
+    label_title: Color Out of Space
+    sort_title: Color Out of Space
+    release_year: '2020'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Color+Out+of+Space&section=movies
+    genre.sync:
+      - Horror
+      - Mystery
+      - Science Fiction
+      - Thriller
   25237:
     label_title: Come and See
     sort_title: Come and See
