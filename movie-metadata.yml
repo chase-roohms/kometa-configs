@@ -1578,12 +1578,10 @@ metadata:
     label_title: Brink!
     sort_title: Brink!
     release_year: '1998'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/692918
     tpdb_search: https://theposterdb.com/search?term=Brink!&section=movies
     genre.sync:
-      - Drama
       - Family
-      - TV Movie
   142:
     label_title: Brokeback Mountain
     sort_title: Brokeback Mountain
@@ -2438,13 +2436,11 @@ metadata:
     label_title: Color Out of Space
     sort_title: Color Out of Space
     release_year: '2020'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/75448
     tpdb_search: https://theposterdb.com/search?term=Color+Out+of+Space&section=movies
     genre.sync:
       - Horror
-      - Mystery
       - Science Fiction
-      - Thriller
   25237:
     label_title: Come and See
     sort_title: Come and See
@@ -12085,11 +12081,10 @@ metadata:
     label_title: The Void
     sort_title: Void
     release_year: '2016'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/94540
     tpdb_search: https://theposterdb.com/search?term=The+Void&section=movies
     genre.sync:
       - Horror
-      - Mystery
       - Science Fiction
   645710:
     label_title: The Voyeurs
