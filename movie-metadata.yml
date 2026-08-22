@@ -7663,7 +7663,7 @@ metadata:
     label_title: Motocrossed!
     sort_title: Motocrossed!
     release_year: '2001'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/738991
     tpdb_search: https://theposterdb.com/search?term=Motocrossed!&section=movies
     genre.sync:
       - Family
