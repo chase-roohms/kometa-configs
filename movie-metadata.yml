@@ -3375,6 +3375,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Evil+Dead+Burn&section=movies
     genre.sync:
       - Horror
+  713704:
+    label_title: Evil Dead Rise
+    sort_title: Evil Dead Rise
+    release_year: '2023'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Evil+Dead+Rise&section=movies
+    genre.sync:
+      - Horror
+      - Thriller
   264660:
     label_title: Ex Machina
     sort_title: Ex Machina
