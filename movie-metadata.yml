@@ -8177,6 +8177,14 @@ metadata:
     genre.sync:
       - Action
       - Fantasy
+  1542:
+    label_title: Office Space
+    sort_title: Office Space
+    release_year: '1999'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Office+Space&section=movies
+    genre.sync:
+      - Comedy
   12233:
     label_title: Oliver & Company
     sort_title: Oliver & Company
