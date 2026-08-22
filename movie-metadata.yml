@@ -7659,6 +7659,18 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Mother+of+Flies&section=movies
     genre.sync:
       - Horror
+  71885:
+    label_title: Motocrossed!
+    sort_title: Motocrossed!
+    release_year: '2001'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Motocrossed!&section=movies
+    genre.sync:
+      - Comedy
+      - Drama
+      - Family
+      - Romance
+      - TV Movie
   787:
     label_title: Mr. & Mrs. Smith
     sort_title: Mr. & Mrs. Smith
