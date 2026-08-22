@@ -1574,6 +1574,16 @@ metadata:
     studio: A24
     genre.sync:
       - Horror
+  15043:
+    label_title: Brink!
+    sort_title: Brink!
+    release_year: '1998'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Brink!&section=movies
+    genre.sync:
+      - Drama
+      - Family
+      - TV Movie
   142:
     label_title: Brokeback Mountain
     sort_title: Brokeback Mountain
