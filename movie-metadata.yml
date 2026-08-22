@@ -3379,7 +3379,7 @@ metadata:
     label_title: Evil Dead Rise
     sort_title: Evil Dead Rise
     release_year: '2023'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/466419
     tpdb_search: https://theposterdb.com/search?term=Evil+Dead+Rise&section=movies
     genre.sync:
       - Horror
