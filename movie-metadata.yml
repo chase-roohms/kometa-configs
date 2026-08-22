@@ -11549,6 +11549,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Trailer+Park+Boys:+Say+Goodnight+to+the+Bad+Guys&section=movies
     genre.sync:
       - Comedy
+  9958:
+    label_title: 'Trailer Park Boys: The Movie'
+    sort_title: 'Trailer Park Boys: The Movie'
+    release_year: '2006'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Trailer+Park+Boys:+The+Movie&section=movies
+    genre.sync:
+      - Comedy
+      - Crime
   1241983:
     label_title: Train Dreams
     sort_title: Train Dreams
