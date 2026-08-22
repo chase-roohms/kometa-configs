@@ -3685,24 +3685,20 @@ metadata:
     label_title: 'Mushoku Tensei: Jobless Reincarnation'
     sort_title: 'Mushoku Tensei: Jobless Reincarnation'
     release_year: '2021'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/389577
     tpdb_search: https://theposterdb.com/search?term=Mushoku+Tensei:+Jobless+Reincarnation&section=shows
+    audio_language: ja-JP
     genre.sync:
-      - Adventure
-      - Animation
       - Anime
-      - Drama
-      - Fantasy
-      - Romance
     seasons:
       0:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/389578
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/389579
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/389580
       3:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/715887
   305074:
     label_title: My Hero Academia
     sort_title: My Hero Academia
