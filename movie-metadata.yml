@@ -485,6 +485,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=All+You+Need+is+Kill&section=movies
     genre.sync:
       - Anime
+  786:
+    label_title: Almost Famous
+    sort_title: Almost Famous
+    release_year: '2000'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Almost+Famous&section=movies
+    genre.sync:
+      - Drama
+      - Music
   222936:
     label_title: Aloha
     sort_title: Aloha
