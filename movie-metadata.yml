@@ -489,11 +489,10 @@ metadata:
     label_title: Almost Famous
     sort_title: Almost Famous
     release_year: '2000'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/440848
     tpdb_search: https://theposterdb.com/search?term=Almost+Famous&section=movies
     genre.sync:
       - Drama
-      - Music
   222936:
     label_title: Aloha
     sort_title: Aloha
@@ -8190,7 +8189,7 @@ metadata:
     label_title: Office Space
     sort_title: Office Space
     release_year: '1999'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/573559
     tpdb_search: https://theposterdb.com/search?term=Office+Space&section=movies
     genre.sync:
       - Comedy
@@ -11543,34 +11542,34 @@ metadata:
       - Family
   27561:
     label_title: 'Trailer Park Boys: Countdown to Liquor Day'
-    sort_title: 'Trailer Park Boys: Countdown to Liquor Day'
+    sort_title: Trailer Park Boys 4
     release_year: '2009'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/736310
     tpdb_search: https://theposterdb.com/search?term=Trailer+Park+Boys:+Countdown+to+Liquor+Day&section=movies
     genre.sync:
       - Comedy
       - Crime
   257451:
     label_title: "Trailer Park Boys: Don't Legalize It"
-    sort_title: "Trailer Park Boys: Don't Legalize It"
+    sort_title: Trailer Park Boys 5
     release_year: '2014'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/736309
     tpdb_search: "https://theposterdb.com/search?term=Trailer+Park+Boys:+Don't+Legalize+It&section=movies"
     genre.sync:
       - Comedy
   26461:
     label_title: 'Trailer Park Boys: Say Goodnight to the Bad Guys'
-    sort_title: 'Trailer Park Boys: Say Goodnight to the Bad Guys'
+    sort_title: Trailer Park Boys 3
     release_year: '2008'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/736311
     tpdb_search: https://theposterdb.com/search?term=Trailer+Park+Boys:+Say+Goodnight+to+the+Bad+Guys&section=movies
     genre.sync:
       - Comedy
   9958:
     label_title: 'Trailer Park Boys: The Movie'
-    sort_title: 'Trailer Park Boys: The Movie'
+    sort_title: Trailer Park Boys 2
     release_year: '2006'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/736312
     tpdb_search: https://theposterdb.com/search?term=Trailer+Park+Boys:+The+Movie&section=movies
     genre.sync:
       - Comedy
