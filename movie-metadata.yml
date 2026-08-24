@@ -9601,6 +9601,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Ritual&section=movies
     genre.sync:
       - Horror
+  433808:
+    label_title: The Ritual
+    sort_title: Ritual
+    release_year: '2017'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Ritual&section=movies
+    genre.sync:
+      - Horror
+      - Mystery
   20766:
     label_title: The Road
     sort_title: Road
@@ -11540,6 +11549,23 @@ metadata:
     genre.sync:
       - Animation
       - Family
+  9958:
+    label_title: 'Trailer Park Boys: The Movie'
+    sort_title: Trailer Park Boys 2
+    release_year: '2006'
+    url_poster: https://theposterdb.com/api/assets/736312
+    tpdb_search: https://theposterdb.com/search?term=Trailer+Park+Boys:+The+Movie&section=movies
+    genre.sync:
+      - Comedy
+      - Crime
+  26461:
+    label_title: 'Trailer Park Boys: Say Goodnight to the Bad Guys'
+    sort_title: Trailer Park Boys 3
+    release_year: '2008'
+    url_poster: https://theposterdb.com/api/assets/736311
+    tpdb_search: https://theposterdb.com/search?term=Trailer+Park+Boys:+Say+Goodnight+to+the+Bad+Guys&section=movies
+    genre.sync:
+      - Comedy
   27561:
     label_title: 'Trailer Park Boys: Countdown to Liquor Day'
     sort_title: Trailer Park Boys 4
@@ -11557,23 +11583,6 @@ metadata:
     tpdb_search: "https://theposterdb.com/search?term=Trailer+Park+Boys:+Don't+Legalize+It&section=movies"
     genre.sync:
       - Comedy
-  26461:
-    label_title: 'Trailer Park Boys: Say Goodnight to the Bad Guys'
-    sort_title: Trailer Park Boys 3
-    release_year: '2008'
-    url_poster: https://theposterdb.com/api/assets/736311
-    tpdb_search: https://theposterdb.com/search?term=Trailer+Park+Boys:+Say+Goodnight+to+the+Bad+Guys&section=movies
-    genre.sync:
-      - Comedy
-  9958:
-    label_title: 'Trailer Park Boys: The Movie'
-    sort_title: Trailer Park Boys 2
-    release_year: '2006'
-    url_poster: https://theposterdb.com/api/assets/736312
-    tpdb_search: https://theposterdb.com/search?term=Trailer+Park+Boys:+The+Movie&section=movies
-    genre.sync:
-      - Comedy
-      - Crime
   1241983:
     label_title: Train Dreams
     sort_title: Train Dreams
