@@ -4154,6 +4154,16 @@ metadata:
     studio: Blumhouse Productions
     genre.sync:
       - Action
+  939914:
+    label_title: Glorious
+    sort_title: Glorious
+    release_year: '2022'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Glorious&section=movies
+    genre.sync:
+      - Comedy
+      - Fantasy
+      - Horror
   9665:
     label_title: Glory
     sort_title: Glory
