@@ -3243,11 +3243,10 @@ metadata:
     label_title: The Empty Man
     sort_title: Empty Man
     release_year: '2020'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/221601
     tpdb_search: https://theposterdb.com/search?term=The+Empty+Man&section=movies
     genre.sync:
       - Horror
-      - Mystery
   568124:
     label_title: Encanto
     sort_title: Encanto
@@ -4158,11 +4157,10 @@ metadata:
     label_title: Glorious
     sort_title: Glorious
     release_year: '2022'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/251487
     tpdb_search: https://theposterdb.com/search?term=Glorious&section=movies
     genre.sync:
       - Comedy
-      - Fantasy
       - Horror
   9665:
     label_title: Glory
@@ -7986,12 +7984,10 @@ metadata:
     label_title: No One Gets Out Alive
     sort_title: No One Gets Out Alive
     release_year: '2021'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/417192
     tpdb_search: https://theposterdb.com/search?term=No+One+Gets+Out+Alive&section=movies
     genre.sync:
       - Horror
-      - Mystery
-      - Thriller
   639988:
     label_title: No Other Choice
     sort_title: No Other Choice
@@ -9634,11 +9630,10 @@ metadata:
     label_title: The Ritual
     sort_title: Ritual
     release_year: '2017'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/175625
     tpdb_search: https://theposterdb.com/search?term=The+Ritual&section=movies
     genre.sync:
       - Horror
-      - Mystery
   20766:
     label_title: The Road
     sort_title: Road
