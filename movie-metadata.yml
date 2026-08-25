@@ -4729,6 +4729,16 @@ metadata:
     genre.sync:
       - Horror
       - Thriller
+  1469342:
+    label_title: Her Private Hell
+    sort_title: Her Private Hell
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Her+Private+Hell&section=movies
+    genre.sync:
+      - Horror
+      - Science Fiction
+      - Thriller
   14136:
     label_title: The Love Bug
     sort_title: Herbie 1
