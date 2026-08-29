@@ -7989,6 +7989,14 @@ metadata:
     genre.sync:
       - Animation
       - Family
+  19494:
+    label_title: Nine to Five
+    sort_title: Nine to Five
+    release_year: '1980'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Nine+to+Five&section=movies
+    genre.sync:
+      - Comedy
   740925:
     label_title: No One Gets Out Alive
     sort_title: No One Gets Out Alive
