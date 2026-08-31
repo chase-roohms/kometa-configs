@@ -1282,16 +1282,16 @@ metadata:
     label_title: Dark Matter
     sort_title: Dark Matter
     release_year: '2024'
-    url_poster: https://theposterdb.com/api/assets/481647
+    url_poster: https://theposterdb.com/api/assets/491218
     tpdb_search: https://theposterdb.com/search?term=Dark+Matter&section=shows
     genre.sync:
       - Science Fiction
       - Thriller
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/481648
+        url_poster: https://theposterdb.com/api/assets/491219
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/732674
   454526:
     label_title: 'DARK MOON: THE BLOOD ALTAR'
     sort_title: 'DARK MOON: THE BLOOD ALTAR'
