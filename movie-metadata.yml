@@ -5845,10 +5845,9 @@ metadata:
     label_title: John Q
     sort_title: John Q
     release_year: '2002'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/114838
     tpdb_search: https://theposterdb.com/search?term=John+Q&section=movies
     genre.sync:
-      - Crime
       - Drama
       - Thriller
   245891:
@@ -8003,7 +8002,7 @@ metadata:
     label_title: Nine to Five
     sort_title: Nine to Five
     release_year: '1980'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/174503
     tpdb_search: https://theposterdb.com/search?term=Nine+to+Five&section=movies
     genre.sync:
       - Comedy
@@ -8162,12 +8161,10 @@ metadata:
     label_title: O Brother, Where Art Thou?
     sort_title: O Brother, Where Art Thou?
     release_year: '2000'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/50650
     tpdb_search: https://theposterdb.com/search?term=O+Brother,+Where+Art+Thou?&section=movies
     genre.sync:
-      - Adventure
       - Comedy
-      - Crime
   75612:
     label_title: Oblivion
     sort_title: Oblivion
@@ -11934,7 +11931,7 @@ metadata:
     label_title: The Truman Show
     sort_title: Truman Show
     release_year: '1998'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/331251
     tpdb_search: https://theposterdb.com/search?term=The+Truman+Show&section=movies
     genre.sync:
       - Comedy
@@ -12261,7 +12258,7 @@ metadata:
     label_title: The War
     sort_title: War
     release_year: '1994'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/741588
     tpdb_search: https://theposterdb.com/search?term=The+War&section=movies
     genre.sync:
       - Drama
@@ -12437,10 +12434,9 @@ metadata:
     label_title: The Whisper Man
     sort_title: Whisper Man
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/740806
     tpdb_search: https://theposterdb.com/search?term=The+Whisper+Man&section=movies
     genre.sync:
-      - Crime
       - Drama
       - Thriller
   1193501:
