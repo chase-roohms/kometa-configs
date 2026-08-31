@@ -5841,6 +5841,16 @@ metadata:
     genre.sync:
       - Action
       - Comedy
+  8470:
+    label_title: John Q
+    sort_title: John Q
+    release_year: '2002'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=John+Q&section=movies
+    genre.sync:
+      - Crime
+      - Drama
+      - Thriller
   245891:
     label_title: John Wick
     sort_title: John Wick 1
