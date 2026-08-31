@@ -12433,6 +12433,16 @@ metadata:
     studio: Blumhouse Productions
     genre.sync:
       - Drama
+  860508:
+    label_title: The Whisper Man
+    sort_title: Whisper Man
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Whisper+Man&section=movies
+    genre.sync:
+      - Crime
+      - Drama
+      - Thriller
   1193501:
     label_title: Whistle
     sort_title: Whistle
