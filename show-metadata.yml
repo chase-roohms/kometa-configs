@@ -2004,6 +2004,8 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/475195
+      2:
+        url_poster: ''
   328552:
     label_title: The Gifted
     sort_title: Gifted
