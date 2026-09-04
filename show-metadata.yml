@@ -1996,16 +1996,16 @@ metadata:
     label_title: The Gentlemen
     sort_title: Gentlemen
     release_year: '2024'
-    url_poster: https://theposterdb.com/api/assets/475194
+    url_poster: https://theposterdb.com/api/assets/464534
     tpdb_search: https://theposterdb.com/search?term=The+Gentlemen&section=shows
     genre.sync:
       - Action
       - Comedy
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/475195
+        url_poster: https://theposterdb.com/api/assets/464535
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/742280
   328552:
     label_title: The Gifted
     sort_title: Gifted
