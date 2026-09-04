@@ -1063,12 +1063,11 @@ metadata:
     label_title: 'Batman: Knightfall Part 1: Knightfall'
     sort_title: 'Batman: Knightfall Part 1: Knightfall'
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/740957
     tpdb_search: https://theposterdb.com/search?term=Batman:+Knightfall+Part+1:+Knightfall&section=movies
     genre.sync:
-      - Action
-      - Adventure
       - Animation
+      - Superhero
   3176:
     label_title: Battle Royale
     sort_title: Battle Royale
