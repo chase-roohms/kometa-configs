@@ -7176,7 +7176,7 @@ metadata:
     label_title: Mayday
     sort_title: Mayday
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/739291
     tpdb_search: https://theposterdb.com/search?term=Mayday&section=movies
     genre.sync:
       - Action
@@ -8099,13 +8099,11 @@ metadata:
     label_title: Normal
     sort_title: Normal
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/715326
     tpdb_search: https://theposterdb.com/search?term=Normal&section=movies
     genre.sync:
       - Action
-      - Crime
       - Thriller
-      - Western
   426063:
     label_title: Nosferatu
     sort_title: Nosferatu
