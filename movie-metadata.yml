@@ -3426,6 +3426,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Exit+8&section=movies
     genre.sync:
       - Horror
+  76163:
+    label_title: The Expendables 2
+    sort_title: Expendables 2
+    release_year: '2012'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Expendables+2&section=movies
+    genre.sync:
+      - Action
+      - Adventure
+      - Thriller
   1233069:
     label_title: Exterritorial
     sort_title: Exterritorial
