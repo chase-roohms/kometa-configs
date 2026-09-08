@@ -3426,17 +3426,9 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Exit+8&section=movies
     genre.sync:
       - Horror
-  299054:
-    label_title: Expend4bles
-    sort_title: Expend4bles
-    release_year: '2023'
-    url_poster: https://theposterdb.com/api/assets/549245
-    tpdb_search: https://theposterdb.com/search?term=Expend4bles&section=movies
-    genre.sync:
-      - Action
   27578:
     label_title: The Expendables
-    sort_title: Expendables
+    sort_title: Expendables 1
     release_year: '2010'
     url_poster: https://theposterdb.com/api/assets/549248
     tpdb_search: https://theposterdb.com/search?term=The+Expendables&section=movies
@@ -3456,6 +3448,14 @@ metadata:
     release_year: '2014'
     url_poster: https://theposterdb.com/api/assets/549246
     tpdb_search: https://theposterdb.com/search?term=The+Expendables+3&section=movies
+    genre.sync:
+      - Action
+  299054:
+    label_title: Expend4bles
+    sort_title: Expendables 4
+    release_year: '2023'
+    url_poster: https://theposterdb.com/api/assets/549245
+    tpdb_search: https://theposterdb.com/search?term=Expend4bles&section=movies
     genre.sync:
       - Action
   1233069:
