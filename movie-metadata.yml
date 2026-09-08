@@ -7544,6 +7544,17 @@ metadata:
     studio: Sony Pictures Animation
     genre.sync:
       - Animation
+  1108427:
+    label_title: Moana
+    sort_title: Moana
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Moana&section=movies
+    genre.sync:
+      - Adventure
+      - Comedy
+      - Family
+      - Fantasy
   277834:
     label_title: Moana
     sort_title: Moana 1
