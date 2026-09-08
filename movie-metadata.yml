@@ -3430,12 +3430,10 @@ metadata:
     label_title: The Expendables 2
     sort_title: Expendables 2
     release_year: '2012'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/86705
     tpdb_search: https://theposterdb.com/search?term=The+Expendables+2&section=movies
     genre.sync:
       - Action
-      - Adventure
-      - Thriller
   1233069:
     label_title: Exterritorial
     sort_title: Exterritorial
@@ -7554,20 +7552,9 @@ metadata:
     studio: Sony Pictures Animation
     genre.sync:
       - Animation
-  1108427:
-    label_title: Moana
-    sort_title: Moana
-    release_year: '2026'
-    url_poster: ''
-    tpdb_search: https://theposterdb.com/search?term=Moana&section=movies
-    genre.sync:
-      - Adventure
-      - Comedy
-      - Family
-      - Fantasy
   277834:
     label_title: Moana
-    sort_title: Moana 1
+    sort_title: Moana Animated 1
     release_year: '2016'
     url_poster: https://theposterdb.com/api/assets/532965
     tpdb_search: https://theposterdb.com/search?term=Moana&section=movies
@@ -7576,13 +7563,21 @@ metadata:
       - Animation
   1241982:
     label_title: Moana 2
-    sort_title: Moana 2
+    sort_title: Moana Animated 2
     release_year: '2024'
     url_poster: https://theposterdb.com/api/assets/532964
     tpdb_search: https://theposterdb.com/search?term=Moana+2&section=movies
     studio: Disney
     genre.sync:
       - Animation
+  1108427:
+    label_title: Moana
+    sort_title: Moana Live Action 1
+    release_year: '2026'
+    url_poster: https://theposterdb.com/api/assets/700626
+    tpdb_search: https://theposterdb.com/search?term=Moana&section=movies
+    genre.sync:
+      - Family
   1422562:
     label_title: The Moment
     sort_title: Moment
@@ -11205,12 +11200,11 @@ metadata:
     label_title: Superhero Movie
     sort_title: Superhero Movie
     release_year: '2008'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/146175
     tpdb_search: https://theposterdb.com/search?term=Superhero+Movie&section=movies
     genre.sync:
-      - Action
       - Comedy
-      - Science Fiction
+      - Superhero
   1061474:
     label_title: Superman
     sort_title: Superman
