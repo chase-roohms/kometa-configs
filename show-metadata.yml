@@ -5784,6 +5784,22 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/630949
+  352408:
+    label_title: That Time I Got Reincarnated as a Slime
+    sort_title: That Time I Got Reincarnated as a Slime
+    release_year: '2018'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=That+Time+I+Got+Reincarnated+as+a+Slime&section=shows
+    genre.sync:
+      - Action
+      - Adventure
+      - Animation
+      - Anime
+      - Comedy
+      - Fantasy
+    seasons:
+      1:
+        url_poster: ''
   341663:
     label_title: Titans
     sort_title: Titans (2018)
