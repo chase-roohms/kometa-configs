@@ -3426,6 +3426,14 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Exit+8&section=movies
     genre.sync:
       - Horror
+  27578:
+    label_title: The Expendables
+    sort_title: Expendables
+    release_year: '2010'
+    url_poster: https://theposterdb.com/api/assets/549248
+    tpdb_search: https://theposterdb.com/search?term=The+Expendables&section=movies
+    genre.sync:
+      - Action
   76163:
     label_title: The Expendables 2
     sort_title: Expendables 2
