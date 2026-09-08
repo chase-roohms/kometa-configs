@@ -11201,6 +11201,16 @@ metadata:
     studio: DC Studios
     genre.sync:
       - Superhero
+  11918:
+    label_title: Superhero Movie
+    sort_title: Superhero Movie
+    release_year: '2008'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Superhero+Movie&section=movies
+    genre.sync:
+      - Action
+      - Comedy
+      - Science Fiction
   1061474:
     label_title: Superman
     sort_title: Superman
