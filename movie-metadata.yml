@@ -76,6 +76,15 @@ metadata:
     genre.sync:
       - Science Fiction
       - Thriller
+  1295026:
+    label_title: 100 METERS
+    sort_title: 100 METERS
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=100+METERS&section=movies
+    genre.sync:
+      - Animation
+      - Drama
   12230:
     label_title: One Hundred and One Dalmatians
     sort_title: 101 Dalmatians (Animated) 1
