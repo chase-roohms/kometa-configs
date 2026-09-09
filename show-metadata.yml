@@ -4187,6 +4187,20 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/674752
+  431093:
+    label_title: PLUTO
+    sort_title: PLUTO
+    release_year: '2023'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=PLUTO&section=shows
+    genre.sync:
+      - Animation
+      - Anime
+      - Mystery
+      - Science Fiction
+    seasons:
+      1:
+        url_poster: ''
   453786:
     label_title: PONIES
     sort_title: PONIES
