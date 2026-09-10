@@ -80,11 +80,10 @@ metadata:
     label_title: 100 METERS
     sort_title: 100 METERS
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/678260
     tpdb_search: https://theposterdb.com/search?term=100+METERS&section=movies
     genre.sync:
-      - Animation
-      - Drama
+      - Anime
   12230:
     label_title: One Hundred and One Dalmatians
     sort_title: 101 Dalmatians (Animated) 1
