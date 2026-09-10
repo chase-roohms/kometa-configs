@@ -2020,6 +2020,18 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/519412
       2:
         url_poster: https://theposterdb.com/api/assets/519413
+  411469:
+    label_title: The Glory
+    sort_title: Glory
+    release_year: '2022'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Glory&section=shows
+    genre.sync:
+      - Drama
+      - Suspense
+    seasons:
+      1:
+        url_poster: ''
   447905:
     label_title: Good American Family
     sort_title: Good American Family
