@@ -8355,6 +8355,15 @@ metadata:
     genre.sync:
       - Action
       - Thriller
+  1433367:
+    label_title: One Night Only
+    sort_title: One Night Only
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=One+Night+Only&section=movies
+    genre.sync:
+      - Comedy
+      - Romance
   508439:
     label_title: Onward
     sort_title: Onward
