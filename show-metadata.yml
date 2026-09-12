@@ -2024,14 +2024,14 @@ metadata:
     label_title: The Glory
     sort_title: Glory
     release_year: '2022'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/355047
     tpdb_search: https://theposterdb.com/search?term=The+Glory&section=shows
+    audio_language: ko-KR
     genre.sync:
       - Drama
-      - Suspense
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/355048
   447905:
     label_title: Good American Family
     sort_title: Good American Family
