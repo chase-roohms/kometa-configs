@@ -8359,11 +8359,11 @@ metadata:
     label_title: One Night Only
     sort_title: One Night Only
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/718527
     tpdb_search: https://theposterdb.com/search?term=One+Night+Only&section=movies
     genre.sync:
       - Comedy
-      - Romance
+      - Drama
   508439:
     label_title: Onward
     sort_title: Onward
