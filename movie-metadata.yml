@@ -3273,6 +3273,16 @@ metadata:
     studio: Disney
     genre.sync:
       - Animation
+  1101383:
+    label_title: The End of Oak Street
+    sort_title: End of Oak Street
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+End+of+Oak+Street&section=movies
+    genre.sync:
+      - Mystery
+      - Science Fiction
+      - Thriller
   77016:
     label_title: End of Watch
     sort_title: End of Watch
