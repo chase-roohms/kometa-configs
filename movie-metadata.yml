@@ -3277,10 +3277,9 @@ metadata:
     label_title: The End of Oak Street
     sort_title: End of Oak Street
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/740149
     tpdb_search: https://theposterdb.com/search?term=The+End+of+Oak+Street&section=movies
     genre.sync:
-      - Mystery
       - Science Fiction
       - Thriller
   77016:
