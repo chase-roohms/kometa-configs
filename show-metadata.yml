@@ -3616,6 +3616,8 @@ metadata:
         url_background: https://image.tmdb.org/t/p/original/lThQVYZlAwXCo5qWD7Qdb1UBeJo.jpg
         title: The Ed Gein Story
         summary: "The shocking true-life tale of Ed Gein, the infamous murderer and grave robber who inspired many of Hollywood's most iconic on-screen killers."
+      4:
+        url_poster: ''
   368611:
     label_title: Moon Knight
     sort_title: Moon Knight
