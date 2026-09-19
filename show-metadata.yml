@@ -4506,16 +4506,13 @@ metadata:
     label_title: River Monsters
     sort_title: River Monsters
     release_year: '2009'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/241424
     tpdb_search: https://theposterdb.com/search?term=River+Monsters&section=shows
     genre.sync:
-      - Adventure
       - Documentary
-      - Mystery
-      - Reality
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/241424
   470082:
     label_title: The Rocky Mountain Mortician Murder
     sort_title: Rocky Mountain Mortician Murder
