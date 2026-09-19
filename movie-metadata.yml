@@ -3071,6 +3071,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Force+of+Nature:+The+Dry+2&section=movies
     genre.sync:
       - Thriller
+  15907:
+    label_title: Duma
+    sort_title: Duma
+    release_year: '2005'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Duma&section=movies
+    genre.sync:
+      - Adventure
+      - Drama
+      - Family
   329996:
     label_title: Dumbo
     sort_title: Dumbo
