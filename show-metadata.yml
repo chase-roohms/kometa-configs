@@ -3617,7 +3617,10 @@ metadata:
         title: The Ed Gein Story
         summary: "The shocking true-life tale of Ed Gein, the infamous murderer and grave robber who inspired many of Hollywood's most iconic on-screen killers."
       4:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/739686
+        url_background: https://image.tmdb.org/t/p/original/m97hzwX4ZmkMVB6Drky8fwg635n.jpg
+        title: The Lizzie Borden Story
+        summary: "Trapped in a cruel Victorian-era household, Lizzie Borden kills her parents in a gory ax murder that shocks the nation."
   368611:
     label_title: Moon Knight
     sort_title: Moon Knight
