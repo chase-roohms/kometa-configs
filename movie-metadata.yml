@@ -3075,11 +3075,9 @@ metadata:
     label_title: Duma
     sort_title: Duma
     release_year: '2005'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/748221
     tpdb_search: https://theposterdb.com/search?term=Duma&section=movies
     genre.sync:
-      - Adventure
-      - Drama
       - Family
   329996:
     label_title: Dumbo
@@ -11411,12 +11409,11 @@ metadata:
     label_title: Teenage Sex and Death at Camp Miasma
     sort_title: Teenage Sex and Death at Camp Miasma
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/738205
     tpdb_search: https://theposterdb.com/search?term=Teenage+Sex+and+Death+at+Camp+Miasma&section=movies
     genre.sync:
       - Comedy
       - Horror
-      - Romance
   577922:
     label_title: Tenet
     sort_title: Tenet
