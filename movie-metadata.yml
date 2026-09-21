@@ -7051,6 +7051,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=A+Man+Called+Otto&section=movies
     genre.sync:
       - Family
+  17474:
+    label_title: The Man in the Moon
+    sort_title: Man in the Moon
+    release_year: '1991'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Man+in+the+Moon&section=movies
+    genre.sync:
+      - Drama
+      - Romance
   49521:
     label_title: Man of Steel
     sort_title: Man of Steel
