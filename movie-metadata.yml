@@ -9589,10 +9589,9 @@ metadata:
     label_title: Racing Stripes
     sort_title: Racing Stripes
     release_year: '2005'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/705623
     tpdb_search: https://theposterdb.com/search?term=Racing+Stripes&section=movies
     genre.sync:
-      - Comedy
       - Family
   2062:
     label_title: Ratatouille
@@ -11259,7 +11258,7 @@ metadata:
       - Family
   39939:
     label_title: Super Troopers
-    sort_title: Super Troopers
+    sort_title: Super Troopers 1
     release_year: '2001'
     url_poster: https://theposterdb.com/api/assets/220022
     tpdb_search: https://theposterdb.com/search?term=Super+Troopers&section=movies
@@ -11277,12 +11276,10 @@ metadata:
     label_title: Super Troopers 3
     sort_title: Super Troopers 3
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/747093
     tpdb_search: https://theposterdb.com/search?term=Super+Troopers+3&section=movies
     genre.sync:
       - Comedy
-      - Crime
-      - Mystery
   8363:
     label_title: Superbad
     sort_title: Superbad
