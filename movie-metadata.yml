@@ -3851,6 +3851,15 @@ metadata:
     genre.sync:
       - Horror
       - Thriller
+  1339588:
+    label_title: Finding Emily
+    sort_title: Finding Emily
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Finding+Emily&section=movies
+    genre.sync:
+      - Comedy
+      - Romance
   12:
     label_title: Finding Nemo
     sort_title: Finding Nemo 1
