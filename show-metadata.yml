@@ -3582,13 +3582,35 @@ metadata:
     label_title: Modern Family
     sort_title: Modern Family
     release_year: '2009'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/181919
     tpdb_search: https://theposterdb.com/search?term=Modern+Family&section=shows
     genre.sync:
       - Comedy
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/181920
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/181921
+      2:
+        url_poster: https://theposterdb.com/api/assets/181922
+      3:
+        url_poster: https://theposterdb.com/api/assets/181923
+      4:
+        url_poster: https://theposterdb.com/api/assets/181924
+      5:
+        url_poster: https://theposterdb.com/api/assets/181925
+      6:
+        url_poster: https://theposterdb.com/api/assets/181926
+      7:
+        url_poster: https://theposterdb.com/api/assets/181927
+      8:
+        url_poster: https://theposterdb.com/api/assets/181928
+      9:
+        url_poster: https://theposterdb.com/api/assets/181929
+      10:
+        url_poster: https://theposterdb.com/api/assets/181930
+      11:
+        url_poster: https://theposterdb.com/api/assets/181931
   422598:
     label_title: 'Monarch: Legacy of Monsters'
     sort_title: Monarch - Legacy of Monsters
