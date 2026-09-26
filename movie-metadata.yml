@@ -2556,6 +2556,15 @@ metadata:
     genre.sync:
       - Action
       - Science Fiction
+  1204680:
+    label_title: Coyote vs. Acme
+    sort_title: Coyote vs. Acme
+    release_year: '2026'
+    url_poster: https://theposterdb.com/api/assets/737540
+    tpdb_search: https://theposterdb.com/search?term=Coyote+vs.+Acme&section=movies
+    genre.sync:
+      - Comedy
+      - Family
   1640:
     label_title: Crash
     sort_title: Crash
