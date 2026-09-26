@@ -10911,6 +10911,15 @@ metadata:
     studio: Marvel Entertainment
     genre.sync:
       - Superhero
+  969681:
+    label_title: 'Spider-Man: Brand New Day'
+    sort_title: 'Spider-Man: Brand New Day'
+    release_year: '2026'
+    url_poster: https://theposterdb.com/api/assets/750051
+    tpdb_search: https://theposterdb.com/search?term=Spider-Man:+Brand+New+Day&section=movies
+    studio: Marvel Studios
+    genre.sync:
+      - Superhero
   8204:
     label_title: The Spiderwick Chronicles
     sort_title: Spiderwick Chronicles
