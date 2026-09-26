@@ -12384,6 +12384,15 @@ metadata:
     studio: Marvel Entertainment
     genre.sync:
       - Superhero
+  1283515:
+    label_title: Verity
+    sort_title: Verity
+    release_year: '2026'
+    url_poster: https://theposterdb.com/api/assets/750053
+    tpdb_search: https://theposterdb.com/search?term=Verity&section=movies
+    genre.sync:
+      - Drama
+      - Thriller
   1251717:
     label_title: Vicious
     sort_title: Vicious
