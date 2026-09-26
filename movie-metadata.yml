@@ -6870,11 +6870,11 @@ metadata:
     label_title: The Love Hypothesis
     sort_title: Love Hypothesis
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/749185
     tpdb_search: https://theposterdb.com/search?term=The+Love+Hypothesis&section=movies
     genre.sync:
       - Comedy
-      - Romance
+      - Drama
   948549:
     label_title: Love Lies Bleeding
     sort_title: Love Lies Bleeding
@@ -12230,10 +12230,9 @@ metadata:
     label_title: UNABOMBER
     sort_title: UNABOMBER
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/749688
     tpdb_search: https://theposterdb.com/search?term=UNABOMBER&section=movies
     genre.sync:
-      - Crime
       - Drama
       - Thriller
   9741:
