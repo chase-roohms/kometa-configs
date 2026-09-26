@@ -5058,6 +5058,16 @@ metadata:
     studio: Illumination
     genre.sync:
       - Animation
+  1058424:
+    label_title: Hope
+    sort_title: Hope
+    release_year: '2026'
+    url_poster: https://theposterdb.com/api/assets/715213
+    tpdb_search: https://theposterdb.com/search?term=Hope&section=movies
+    genre.sync:
+      - Action
+      - Science Fiction
+      - Thriller
   1327819:
     label_title: Hoppers
     sort_title: Hoppers
