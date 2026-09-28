@@ -8496,6 +8496,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Out+of+Africa&section=movies
     genre.sync:
       - Drama
+  1389:
+    label_title: Out of Sight
+    sort_title: Out of Sight
+    release_year: '1998'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Out+of+Sight&section=movies
+    genre.sync:
+      - Comedy
+      - Crime
+      - Romance
   531876:
     label_title: The Outpost
     sort_title: Outpost
