@@ -7092,11 +7092,10 @@ metadata:
     label_title: The Man in the Moon
     sort_title: Man in the Moon
     release_year: '1991'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/750601
     tpdb_search: https://theposterdb.com/search?term=The+Man+in+the+Moon&section=movies
     genre.sync:
       - Drama
-      - Romance
   49521:
     label_title: Man of Steel
     sort_title: Man of Steel
@@ -8500,12 +8499,11 @@ metadata:
     label_title: Out of Sight
     sort_title: Out of Sight
     release_year: '1998'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/102424
     tpdb_search: https://theposterdb.com/search?term=Out+of+Sight&section=movies
     genre.sync:
       - Comedy
-      - Crime
-      - Romance
+      - Drama
   531876:
     label_title: The Outpost
     sort_title: Outpost
