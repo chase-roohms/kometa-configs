@@ -8148,11 +8148,10 @@ metadata:
     label_title: Nimrods
     sort_title: Nimrods
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/747598
     tpdb_search: https://theposterdb.com/search?term=Nimrods&section=movies
     genre.sync:
       - Comedy
-      - Music
   19494:
     label_title: Nine to Five
     sort_title: Nine to Five
