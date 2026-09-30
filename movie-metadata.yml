@@ -10321,6 +10321,17 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Sew+Torn&section=movies
     genre.sync:
       - Thriller
+  1419406:
+    label_title: "The Shadow's Edge"
+    sort_title: "Shadow's Edge"
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: "https://theposterdb.com/search?term=The+Shadow's+Edge&section=movies"
+    genre.sync:
+      - Action
+      - Crime
+      - Drama
+      - Thriller
   1339166:
     label_title: Shaman
     sort_title: Shaman
