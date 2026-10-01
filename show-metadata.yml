@@ -4546,6 +4546,8 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/241424
+      2:
+        url_poster: ''
   470082:
     label_title: The Rocky Mountain Mortician Murder
     sort_title: Rocky Mountain Mortician Murder
