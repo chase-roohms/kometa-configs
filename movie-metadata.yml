@@ -10325,11 +10325,10 @@ metadata:
     label_title: "The Shadow's Edge"
     sort_title: "Shadow's Edge"
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/680047
     tpdb_search: "https://theposterdb.com/search?term=The+Shadow's+Edge&section=movies"
     genre.sync:
       - Action
-      - Crime
       - Drama
       - Thriller
   1339166:
