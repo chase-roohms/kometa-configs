@@ -651,6 +651,25 @@ metadata:
     seasons:
       25:
         url_poster: https://theposterdb.com/api/assets/718055
+  331753:
+    label_title: Black Clover
+    sort_title: Black Clover
+    release_year: '2017'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Black+Clover&section=shows
+    genre.sync:
+      - Action
+      - Adventure
+      - Animation
+      - Anime
+      - Comedy
+      - Drama
+      - Fantasy
+      - Science Fiction
+      - Thriller
+    seasons:
+      2:
+        url_poster: ''
   253463:
     label_title: Black Mirror
     sort_title: Black Mirror
