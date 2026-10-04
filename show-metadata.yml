@@ -5819,6 +5819,18 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/180263
+  475617:
+    label_title: TANK CHAIR
+    sort_title: TANK CHAIR
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=TANK+CHAIR&section=shows
+    genre.sync:
+      - Animation
+      - Anime
+    seasons:
+      1:
+        url_poster: ''
   451873:
     label_title: Task
     sort_title: Task
