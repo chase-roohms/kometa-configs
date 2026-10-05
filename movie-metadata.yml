@@ -856,6 +856,16 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
+  13483:
+    label_title: Awake
+    sort_title: Awake
+    release_year: '2007'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Awake&section=movies
+    genre.sync:
+      - Crime
+      - Mystery
+      - Thriller
   1097549:
     label_title: Babygirl
     sort_title: Babygirl
