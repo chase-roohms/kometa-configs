@@ -655,21 +655,18 @@ metadata:
     label_title: Black Clover
     sort_title: Black Clover
     release_year: '2017'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/408346
     tpdb_search: https://theposterdb.com/search?term=Black+Clover&section=shows
+    audio_language: ja-JP
     genre.sync:
-      - Action
-      - Adventure
-      - Animation
       - Anime
-      - Comedy
-      - Drama
-      - Fantasy
-      - Science Fiction
-      - Thriller
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/408347
+      1:
+        url_poster: https://theposterdb.com/api/assets/408348
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/752668
   253463:
     label_title: Black Mirror
     sort_title: Black Mirror
@@ -5825,8 +5822,8 @@ metadata:
     release_year: '2026'
     url_poster: ''
     tpdb_search: https://theposterdb.com/search?term=TANK+CHAIR&section=shows
+    audio_language: ja-JP
     genre.sync:
-      - Animation
       - Anime
     seasons:
       1:
