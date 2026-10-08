@@ -981,6 +981,19 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/719575
       1:
         url_poster: https://theposterdb.com/api/assets/719576
+  455755:
+    label_title: Carrie
+    sort_title: Carrie
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Carrie&section=shows
+    genre.sync:
+      - Drama
+      - Horror
+      - Mystery
+    seasons:
+      1:
+        url_poster: ''
   331600:
     label_title: Castle Rock
     sort_title: Castle Rock
