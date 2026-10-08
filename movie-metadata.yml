@@ -860,11 +860,10 @@ metadata:
     label_title: Awake
     sort_title: Awake
     release_year: '2007'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/47941
     tpdb_search: https://theposterdb.com/search?term=Awake&section=movies
     genre.sync:
-      - Crime
-      - Mystery
+      - Drama
       - Thriller
   1097549:
     label_title: Babygirl
@@ -4696,12 +4695,10 @@ metadata:
     label_title: Haunted Mansion
     sort_title: Haunted Mansion
     release_year: '2023'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/682169
     tpdb_search: https://theposterdb.com/search?term=Haunted+Mansion&section=movies
     genre.sync:
-      - Comedy
-      - Drama
-      - Fantasy
+      - Family
   668489:
     label_title: Havoc
     sort_title: Havoc
