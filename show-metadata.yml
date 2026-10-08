@@ -375,6 +375,21 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/260880
       14:
         url_poster: https://theposterdb.com/api/assets/403871
+  390936:
+    label_title: Archive 81
+    sort_title: Archive 81
+    release_year: '2022'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Archive+81&section=shows
+    genre.sync:
+      - Drama
+      - Horror
+      - Mystery
+      - Science Fiction
+      - Thriller
+    seasons:
+      1:
+        url_poster: ''
   466333:
     label_title: Are You My First?
     sort_title: Are You My First?
