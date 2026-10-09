@@ -379,17 +379,13 @@ metadata:
     label_title: Archive 81
     sort_title: Archive 81
     release_year: '2022'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/645603
     tpdb_search: https://theposterdb.com/search?term=Archive+81&section=shows
     genre.sync:
-      - Drama
       - Horror
-      - Mystery
-      - Science Fiction
-      - Thriller
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/645604
   466333:
     label_title: Are You My First?
     sort_title: Are You My First?
@@ -985,15 +981,13 @@ metadata:
     label_title: Carrie
     sort_title: Carrie
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/750681
     tpdb_search: https://theposterdb.com/search?term=Carrie&section=shows
     genre.sync:
-      - Drama
       - Horror
-      - Mystery
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/750682
   331600:
     label_title: Castle Rock
     sort_title: Castle Rock
