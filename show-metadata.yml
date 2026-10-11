@@ -510,15 +510,13 @@ metadata:
     label_title: 'Avatar: Seven Havens'
     sort_title: 'Avatar: Seven Havens'
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/754320
     tpdb_search: https://theposterdb.com/search?term=Avatar:+Seven+Havens&section=shows
     genre.sync:
-      - Action
       - Animation
-      - Fantasy
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/754321
   339353:
     label_title: 'B: The Beginning'
     sort_title: B - The Beginning
@@ -6300,16 +6298,14 @@ metadata:
     label_title: The Vermilion Mask
     sort_title: Vermilion Mask
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/749038
     tpdb_search: https://theposterdb.com/search?term=The+Vermilion+Mask&section=shows
+    audio_language: ja-JP
     genre.sync:
-      - Action
-      - Animation
       - Anime
-      - Fantasy
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/749039
   308771:
     label_title: Vice Principals
     sort_title: Vice Principals
