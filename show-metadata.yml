@@ -6374,6 +6374,19 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/630942
       2:
         url_poster: https://theposterdb.com/api/assets/630943
+  426606:
+    label_title: VisionQuest
+    sort_title: VisionQuest
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=VisionQuest&section=shows
+    genre.sync:
+      - Adventure
+      - Drama
+      - Science Fiction
+    seasons:
+      1:
+        url_poster: ''
   362392:
     label_title: WandaVision
     sort_title: WandaVision
