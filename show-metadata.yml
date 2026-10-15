@@ -673,6 +673,22 @@ metadata:
     seasons:
       25:
         url_poster: https://theposterdb.com/api/assets/718055
+  269550:
+    label_title: Bitten
+    sort_title: Bitten
+    release_year: '2014'
+    url_poster: https://theposterdb.com/api/assets/138742
+    tpdb_search: https://theposterdb.com/search?term=Bitten&section=shows
+    genre.sync:
+      - Drama
+      - Fantasy
+    seasons:
+      1:
+        url_poster: ''
+      2:
+        url_poster: ''
+      3:
+        url_poster: ''
   331753:
     label_title: Black Clover
     sort_title: Black Clover
