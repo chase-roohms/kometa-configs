@@ -4602,6 +4602,15 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Hamnet&section=movies
     genre.sync:
       - Drama
+  10683:
+    label_title: Happiness
+    sort_title: Happiness
+    release_year: '1998'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Happiness&section=movies
+    genre.sync:
+      - Comedy
+      - Drama
   9614:
     label_title: Happy Gilmore
     sort_title: Happy Gilmore 1
