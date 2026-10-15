@@ -684,11 +684,11 @@ metadata:
       - Fantasy
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/138743
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/138744
       3:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/138745
   331753:
     label_title: Black Clover
     sort_title: Black Clover
@@ -6394,15 +6394,15 @@ metadata:
     label_title: VisionQuest
     sort_title: VisionQuest
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/755961
     tpdb_search: https://theposterdb.com/search?term=VisionQuest&section=shows
     genre.sync:
-      - Adventure
-      - Drama
-      - Science Fiction
+      - Super Hero
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/755962
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/755963
   362392:
     label_title: WandaVision
     sort_title: WandaVision
