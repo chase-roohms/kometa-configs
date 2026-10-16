@@ -11564,6 +11564,15 @@ metadata:
     genre.sync:
       - Science Fiction
       - Thriller
+  1288069:
+    label_title: Tenzing
+    sort_title: Tenzing
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Tenzing&section=movies
+    genre.sync:
+      - Drama
+      - History
   218:
     label_title: The Terminator
     sort_title: Terminator 1
