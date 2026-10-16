@@ -10095,6 +10095,16 @@ metadata:
     genre.sync:
       - Action
       - Thriller
+  1284186:
+    label_title: Sacrifice
+    sort_title: Sacrifice
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Sacrifice&section=movies
+    genre.sync:
+      - Action
+      - Adventure
+      - Comedy
   748230:
     label_title: "Salem's Lot"
     sort_title: "Salem's Lot"
