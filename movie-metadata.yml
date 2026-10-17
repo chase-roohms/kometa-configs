@@ -10099,11 +10099,10 @@ metadata:
     label_title: Sacrifice
     sort_title: Sacrifice
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/752501
     tpdb_search: https://theposterdb.com/search?term=Sacrifice&section=movies
     genre.sync:
       - Action
-      - Adventure
       - Comedy
   748230:
     label_title: "Salem's Lot"
@@ -11578,11 +11577,10 @@ metadata:
     label_title: Tenzing
     sort_title: Tenzing
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/750847
     tpdb_search: https://theposterdb.com/search?term=Tenzing&section=movies
     genre.sync:
       - Drama
-      - History
   218:
     label_title: The Terminator
     sort_title: Terminator 1
