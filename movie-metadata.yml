@@ -3073,6 +3073,16 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Downton+Abbey:+The+Grand+Finale&section=movies
     genre.sync:
       - Drama
+  1246049:
+    label_title: Dracula
+    sort_title: Dracula
+    release_year: '2025'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Dracula&section=movies
+    genre.sync:
+      - Fantasy
+      - Horror
+      - Romance
   438674:
     label_title: Dragged Across Concrete
     sort_title: Dragged Across Concrete
