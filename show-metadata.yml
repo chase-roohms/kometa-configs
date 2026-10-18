@@ -4114,6 +4114,20 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/360981
       8:
         url_poster: https://theposterdb.com/api/assets/694768
+  478752:
+    label_title: Overgeared
+    sort_title: Overgeared
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Overgeared&section=shows
+    genre.sync:
+      - Action
+      - Animation
+      - Anime
+      - Fantasy
+    seasons:
+      1:
+        url_poster: ''
   417208:
     label_title: Pantheon
     sort_title: Pantheon
