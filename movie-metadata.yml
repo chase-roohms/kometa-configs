@@ -3077,12 +3077,11 @@ metadata:
     label_title: Dracula
     sort_title: Dracula
     release_year: '2025'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/641690
     tpdb_search: https://theposterdb.com/search?term=Dracula&section=movies
     genre.sync:
-      - Fantasy
+      - Drama
       - Horror
-      - Romance
   438674:
     label_title: Dragged Across Concrete
     sort_title: Dragged Across Concrete
@@ -4562,13 +4561,36 @@ metadata:
       - War
   948:
     label_title: Halloween
-    sort_title: Halloween
+    sort_title: Halloween 1
     release_year: '1978'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/190033
     tpdb_search: https://theposterdb.com/search?term=Halloween&section=movies
     genre.sync:
       - Horror
-      - Thriller
+  424139:
+    label_title: Halloween
+    sort_title: Halloween 9
+    release_year: '2018'
+    url_poster: 
+    tpdb_search: https://theposterdb.com/search?term=Halloween&section=movies
+    genre.sync:
+      - Horror
+  610253:
+    label_title: Halloween Kills
+    sort_title: Halloween 10
+    release_year: '2021'
+    url_poster: 
+    tpdb_search: https://theposterdb.com/search?term=Halloween+Kills&section=movies
+    genre.sync:
+      - Horror
+  616820:
+    label_title: Halloween Ends
+    sort_title: Halloween 11
+    release_year: '2022'
+    url_poster: 
+    tpdb_search: https://theposterdb.com/search?term=Halloween+Ends&section=movies
+    genre.sync:
+      - Horror
   27850:
     label_title: Halloweentown
     sort_title: Halloweentown 1
