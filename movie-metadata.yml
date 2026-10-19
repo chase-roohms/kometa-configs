@@ -4607,6 +4607,14 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Halloween+Ends&section=movies
     genre.sync:
       - Horror
+  11675:
+    label_title: 'Halloween H20: 20 Years Later'
+    sort_title: 'Halloween H20: 20 Years Later'
+    release_year: '1998'
+    url_poster: https://theposterdb.com/api/assets/190039
+    tpdb_search: https://theposterdb.com/search?term=Halloween+H20:+20+Years+Later&section=movies
+    genre.sync:
+      - Horror
   11281:
     label_title: Halloween II
     sort_title: Halloween II
