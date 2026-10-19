@@ -4567,6 +4567,14 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Halloween&section=movies
     genre.sync:
       - Horror
+  11357:
+    label_title: 'Halloween 4: The Return of Michael Myers'
+    sort_title: 'Halloween 4: The Return of Michael Myers'
+    release_year: '1988'
+    url_poster: https://theposterdb.com/api/assets/190036
+    tpdb_search: https://theposterdb.com/search?term=Halloween+4:+The+Return+of+Michael+Myers&section=movies
+    genre.sync:
+      - Horror
   424139:
     label_title: Halloween
     sort_title: Halloween 9
