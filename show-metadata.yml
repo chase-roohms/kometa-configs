@@ -4118,16 +4118,14 @@ metadata:
     label_title: Overgeared
     sort_title: Overgeared
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/747514
     tpdb_search: https://theposterdb.com/search?term=Overgeared&section=shows
+    audio_language: ja-JP
     genre.sync:
-      - Action
-      - Animation
       - Anime
-      - Fantasy
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/747515
   417208:
     label_title: Pantheon
     sort_title: Pantheon
@@ -5885,14 +5883,14 @@ metadata:
     label_title: TANK CHAIR
     sort_title: TANK CHAIR
     release_year: '2026'
-    url_poster: https://theposterdb.com/api/assets/752326
+    url_poster: https://theposterdb.com/api/assets/758028
     tpdb_search: https://theposterdb.com/search?term=TANK+CHAIR&section=shows
     audio_language: ja-JP
     genre.sync:
       - Anime
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/758029
   451873:
     label_title: Task
     sort_title: Task
