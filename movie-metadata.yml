@@ -4575,6 +4575,14 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Halloween+4:+The+Return+of+Michael+Myers&section=movies
     genre.sync:
       - Horror
+  11361:
+    label_title: 'Halloween 5: The Revenge of Michael Myers'
+    sort_title: 'Halloween 5: The Revenge of Michael Myers'
+    release_year: '1989'
+    url_poster: https://theposterdb.com/api/assets/190037
+    tpdb_search: https://theposterdb.com/search?term=Halloween+5:+The+Revenge+of+Michael+Myers&section=movies
+    genre.sync:
+      - Horror
   424139:
     label_title: Halloween
     sort_title: Halloween 9
