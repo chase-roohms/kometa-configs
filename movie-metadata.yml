@@ -4627,7 +4627,7 @@ metadata:
     label_title: Halloween
     sort_title: Halloween 9
     release_year: '2018'
-    url_poster:
+    url_poster: https://theposterdb.com/api/assets/190041
     tpdb_search: https://theposterdb.com/search?term=Halloween&section=movies
     genre.sync:
       - Horror
@@ -4635,7 +4635,7 @@ metadata:
     label_title: Halloween Kills
     sort_title: Halloween 10
     release_year: '2021'
-    url_poster:
+    url_poster: https://theposterdb.com/api/assets/190042
     tpdb_search: https://theposterdb.com/search?term=Halloween+Kills&section=movies
     genre.sync:
       - Horror
@@ -4643,7 +4643,7 @@ metadata:
     label_title: Halloween Ends
     sort_title: Halloween 11
     release_year: '2022'
-    url_poster:
+    url_poster: https://theposterdb.com/api/assets/190043
     tpdb_search: https://theposterdb.com/search?term=Halloween+Ends&section=movies
     genre.sync:
       - Horror
