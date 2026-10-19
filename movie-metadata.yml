@@ -4631,6 +4631,14 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Halloween+III:+Season+of+the+Witch&section=movies
     genre.sync:
       - Horror
+  11442:
+    label_title: 'Halloween: Resurrection'
+    sort_title: 'Halloween: Resurrection'
+    release_year: '2002'
+    url_poster: https://theposterdb.com/api/assets/190040
+    tpdb_search: https://theposterdb.com/search?term=Halloween:+Resurrection&section=movies
+    genre.sync:
+      - Horror
   10987:
     label_title: 'Halloween: The Curse of Michael Myers'
     sort_title: 'Halloween: The Curse of Michael Myers'
