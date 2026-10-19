@@ -4569,7 +4569,7 @@ metadata:
       - Horror
   11357:
     label_title: 'Halloween 4: The Return of Michael Myers'
-    sort_title: 'Halloween 4: The Return of Michael Myers'
+    sort_title: Halloween 4
     release_year: '1988'
     url_poster: https://theposterdb.com/api/assets/190036
     tpdb_search: https://theposterdb.com/search?term=Halloween+4:+The+Return+of+Michael+Myers&section=movies
@@ -4577,7 +4577,7 @@ metadata:
       - Horror
   11361:
     label_title: 'Halloween 5: The Revenge of Michael Myers'
-    sort_title: 'Halloween 5: The Revenge of Michael Myers'
+    sort_title: Halloween 5
     release_year: '1989'
     url_poster: https://theposterdb.com/api/assets/190037
     tpdb_search: https://theposterdb.com/search?term=Halloween+5:+The+Revenge+of+Michael+Myers&section=movies
@@ -4609,7 +4609,7 @@ metadata:
       - Horror
   11675:
     label_title: 'Halloween H20: 20 Years Later'
-    sort_title: 'Halloween H20: 20 Years Later'
+    sort_title: Halloween 7
     release_year: '1998'
     url_poster: https://theposterdb.com/api/assets/190039
     tpdb_search: https://theposterdb.com/search?term=Halloween+H20:+20+Years+Later&section=movies
@@ -4617,7 +4617,7 @@ metadata:
       - Horror
   11281:
     label_title: Halloween II
-    sort_title: Halloween II
+    sort_title: Halloween 2
     release_year: '1981'
     url_poster: https://theposterdb.com/api/assets/190034
     tpdb_search: https://theposterdb.com/search?term=Halloween+II&section=movies
@@ -4625,7 +4625,7 @@ metadata:
       - Horror
   10676:
     label_title: 'Halloween III: Season of the Witch'
-    sort_title: 'Halloween III: Season of the Witch'
+    sort_title: Halloween 3
     release_year: '1982'
     url_poster: https://theposterdb.com/api/assets/190035
     tpdb_search: https://theposterdb.com/search?term=Halloween+III:+Season+of+the+Witch&section=movies
@@ -4633,7 +4633,7 @@ metadata:
       - Horror
   11442:
     label_title: 'Halloween: Resurrection'
-    sort_title: 'Halloween: Resurrection'
+    sort_title: Halloween 8
     release_year: '2002'
     url_poster: https://theposterdb.com/api/assets/190040
     tpdb_search: https://theposterdb.com/search?term=Halloween:+Resurrection&section=movies
@@ -4641,7 +4641,7 @@ metadata:
       - Horror
   10987:
     label_title: 'Halloween: The Curse of Michael Myers'
-    sort_title: 'Halloween: The Curse of Michael Myers'
+    sort_title: Halloween 6
     release_year: '1995'
     url_poster: https://theposterdb.com/api/assets/190038
     tpdb_search: https://theposterdb.com/search?term=Halloween:+The+Curse+of+Michael+Myers&section=movies
