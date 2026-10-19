@@ -2971,6 +2971,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/385009
       3:
         url_poster: https://theposterdb.com/api/assets/560415
+      4:
+        url_poster: ''
   388589:
     label_title: Lioness
     sort_title: Lioness
