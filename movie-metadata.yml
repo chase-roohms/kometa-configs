@@ -4599,6 +4599,14 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Halloween+II&section=movies
     genre.sync:
       - Horror
+  10676:
+    label_title: 'Halloween III: Season of the Witch'
+    sort_title: 'Halloween III: Season of the Witch'
+    release_year: '1982'
+    url_poster: https://theposterdb.com/api/assets/190035
+    tpdb_search: https://theposterdb.com/search?term=Halloween+III:+Season+of+the+Witch&section=movies
+    genre.sync:
+      - Horror
   27850:
     label_title: Halloweentown
     sort_title: Halloweentown 1
