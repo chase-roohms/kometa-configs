@@ -4623,6 +4623,14 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Halloween+III:+Season+of+the+Witch&section=movies
     genre.sync:
       - Horror
+  10987:
+    label_title: 'Halloween: The Curse of Michael Myers'
+    sort_title: 'Halloween: The Curse of Michael Myers'
+    release_year: '1995'
+    url_poster: https://theposterdb.com/api/assets/190038
+    tpdb_search: https://theposterdb.com/search?term=Halloween:+The+Curse+of+Michael+Myers&section=movies
+    genre.sync:
+      - Horror
   27850:
     label_title: Halloweentown
     sort_title: Halloweentown 1
