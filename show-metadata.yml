@@ -1228,23 +1228,23 @@ metadata:
     label_title: 'Cyberpunk: Edgerunners'
     sort_title: Cyberpunk - Edgerunners
     release_year: '2022'
-    url_poster: https://theposterdb.com/api/assets/248652
+    url_poster: https://theposterdb.com/api/assets/591853
     tpdb_search: https://theposterdb.com/search?term=Cyberpunk:+Edgerunners&section=shows
     audio_language: ja-JP
     genre.sync:
       - Anime
     seasons:
       0:
-        url_poster: https://theposterdb.com/api/assets/248653
+        url_poster: https://theposterdb.com/api/assets/591854
         episodes:
           101:
             title: 'Opening: S1 - This Fffire by Franz Ferdinand'
             summary: 'Opening song of season 1: "This Fffire" by Franz Ferdinand'
             url_poster: https://i.imgur.com/MQBtDOZ.jpeg
       1:
-        url_poster: https://theposterdb.com/api/assets/248654
+        url_poster: https://theposterdb.com/api/assets/591855
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/758399
   443250:
     label_title: Daddy Issues
     sort_title: Daddy Issues
@@ -2974,7 +2974,7 @@ metadata:
       3:
         url_poster: https://theposterdb.com/api/assets/560415
       4:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/736928
   388589:
     label_title: Lioness
     sort_title: Lioness
