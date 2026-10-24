@@ -6641,14 +6641,14 @@ metadata:
     label_title: Yaga
     sort_title: Yaga
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/759341
     tpdb_search: https://theposterdb.com/search?term=Yaga&section=shows
     genre.sync:
       - Drama
       - Fantasy
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/759342
   399731:
     label_title: Yellowjackets
     sort_title: Yellowjackets
