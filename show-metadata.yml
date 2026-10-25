@@ -5963,6 +5963,20 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/704759
       7:
         url_poster: https://theposterdb.com/api/assets/704760
+  399917:
+    label_title: The Terminal List
+    sort_title: Terminal List
+    release_year: '2022'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Terminal+List&section=shows
+    genre.sync:
+      - Action
+      - Adventure
+      - Suspense
+      - Thriller
+    seasons:
+      2:
+        url_poster: ''
   464185:
     label_title: 'The Terminal List: Dark Wolf'
     sort_title: 'Terminal List: Dark Wolf'
