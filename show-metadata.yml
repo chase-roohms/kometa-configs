@@ -990,6 +990,17 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/484889
       4:
         url_poster: https://theposterdb.com/api/assets/681414
+  448114:
+    label_title: Brothers
+    sort_title: Brothers
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Brothers&section=shows
+    genre.sync:
+      - Comedy
+    seasons:
+      1:
+        url_poster: ''
   456813:
     label_title: Cape Fear
     sort_title: Cape Fear
