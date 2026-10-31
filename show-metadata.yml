@@ -994,13 +994,15 @@ metadata:
     label_title: Brothers
     sort_title: Brothers
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/749099
     tpdb_search: https://theposterdb.com/search?term=Brothers&section=shows
     genre.sync:
       - Comedy
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/749100
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/749101
   456813:
     label_title: Cape Fear
     sort_title: Cape Fear
@@ -1529,7 +1531,7 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/622998
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/744793
   413188:
     label_title: 'The Boys Presents: Diabolical'
     sort_title: Diabolical
@@ -1625,18 +1627,16 @@ metadata:
       1:
         url_poster: https://theposterdb.com/api/assets/713221
   430034:
-    label_title: East of Eden (2026)
-    sort_title: East of Eden (2026)
+    label_title: East of Eden
+    sort_title: East of Eden
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/748417
     tpdb_search: https://theposterdb.com/search?term=East+of+Eden+(2026)&section=shows
     genre.sync:
       - Drama
-      - Mini-Series
-      - Romance
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/748418
   82467:
     label_title: Eastbound & Down
     sort_title: Eastbound & Down
@@ -5993,16 +5993,16 @@ metadata:
     label_title: The Terminal List
     sort_title: Terminal List
     release_year: '2022'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/755658
     tpdb_search: https://theposterdb.com/search?term=The+Terminal+List&section=shows
     genre.sync:
       - Action
-      - Adventure
-      - Suspense
       - Thriller
     seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/755659
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/755660
   464185:
     label_title: 'The Terminal List: Dark Wolf'
     sort_title: 'Terminal List: Dark Wolf'
