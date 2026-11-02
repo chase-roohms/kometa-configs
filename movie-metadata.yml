@@ -8249,6 +8249,14 @@ metadata:
     genre.sync:
       - Action
       - Thriller
+  1313826:
+    label_title: Nickels
+    sort_title: Nickels
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Nickels&section=movies
+    genre.sync:
+      - Drama
   1072342:
     label_title: Night Swim
     sort_title: Night Swim
