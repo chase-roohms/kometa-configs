@@ -8253,7 +8253,7 @@ metadata:
     label_title: Nickels
     sort_title: Nickels
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/756038
     tpdb_search: https://theposterdb.com/search?term=Nickels&section=movies
     genre.sync:
       - Drama
@@ -9906,12 +9906,10 @@ metadata:
     label_title: Resident Evil
     sort_title: Resident Evil
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/716304
     tpdb_search: https://theposterdb.com/search?term=Resident+Evil&section=movies
     genre.sync:
-      - Adventure
       - Horror
-      - Science Fiction
   121606:
     label_title: Resolution
     sort_title: Resolution
