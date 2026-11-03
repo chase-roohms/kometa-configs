@@ -9591,6 +9591,15 @@ metadata:
     genre.sync:
       - Science Fiction
       - Thriller
+  1375441:
+    label_title: Primetime
+    sort_title: Primetime
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Primetime&section=movies
+    genre.sync:
+      - Drama
+      - Thriller
   1257009:
     label_title: Primitive War
     sort_title: Primitive War
