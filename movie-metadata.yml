@@ -9595,7 +9595,7 @@ metadata:
     label_title: Primetime
     sort_title: Primetime
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/741534
     tpdb_search: https://theposterdb.com/search?term=Primetime&section=movies
     genre.sync:
       - Drama
