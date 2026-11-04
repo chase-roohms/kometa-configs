@@ -5597,6 +5597,8 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/621978
+      2:
+        url_poster: ''
   305288:
     label_title: Stranger Things
     sort_title: Stranger Things
