@@ -8665,7 +8665,7 @@ metadata:
     label_title: Outlander
     sort_title: Outlander
     release_year: '2008'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/561798
     tpdb_search: https://theposterdb.com/search?term=Outlander&section=movies
     genre.sync:
       - Action
