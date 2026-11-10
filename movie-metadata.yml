@@ -8653,6 +8653,14 @@ metadata:
     genre.sync:
       - Action
       - Comedy
+  1400837:
+    label_title: Other Mommy
+    sort_title: Other Mommy
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Other+Mommy&section=movies
+    genre.sync:
+      - Horror
   606:
     label_title: Out of Africa
     sort_title: Out of Africa
