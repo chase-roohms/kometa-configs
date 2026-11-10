@@ -4842,10 +4842,9 @@ metadata:
     label_title: Heart of the Beast
     sort_title: Heart of the Beast
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/753086
     tpdb_search: https://theposterdb.com/search?term=Heart+of+the+Beast&section=movies
     genre.sync:
-      - Adventure
       - Thriller
   4539:
     label_title: "Hearts of Darkness: A Filmmaker's Apocalypse"
@@ -8657,7 +8656,7 @@ metadata:
     label_title: Other Mommy
     sort_title: Other Mommy
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/751856
     tpdb_search: https://theposterdb.com/search?term=Other+Mommy&section=movies
     genre.sync:
       - Horror
