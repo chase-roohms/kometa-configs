@@ -3224,6 +3224,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/210734
       2:
         url_poster: https://theposterdb.com/api/assets/513741
+      3:
+        url_poster: ''
   376459:
     label_title: Love is Blind
     sort_title: Love Is Blind
