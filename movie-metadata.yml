@@ -2604,11 +2604,10 @@ metadata:
     label_title: Crawlers
     sort_title: Crawlers
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/764991
     tpdb_search: https://theposterdb.com/search?term=Crawlers&section=movies
     genre.sync:
       - Horror
-      - Thriller
   50646:
     label_title: Crazy, Stupid, Love.
     sort_title: Crazy, Stupid, Love.
