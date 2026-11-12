@@ -875,6 +875,17 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/726184
       3:
         url_poster: https://theposterdb.com/api/assets/726185
+  463695:
+    label_title: The Body (2026)
+    sort_title: Body (2026)
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Body+(2026)&section=shows
+    genre.sync:
+      - Drama
+    seasons:
+      1:
+        url_poster: ''
   393589:
     label_title: The Book of Boba Fett
     sort_title: Book of Boba Fett
