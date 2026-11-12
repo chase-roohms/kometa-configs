@@ -11634,7 +11634,7 @@ metadata:
     label_title: Synecdoche, New York
     sort_title: Synecdoche, New York
     release_year: '2008'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/173073
     tpdb_search: https://theposterdb.com/search?term=Synecdoche,+New+York&section=movies
     genre.sync:
       - Drama
