@@ -8177,6 +8177,14 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Your+Friend,+Nate+Bargatze&section=movies
     genre.sync:
       - Comedy
+  5825:
+    label_title: "National Lampoon's Christmas Vacation"
+    sort_title: "National Lampoon's Christmas Vacation"
+    release_year: '1989'
+    url_poster: ''
+    tpdb_search: "https://theposterdb.com/search?term=National+Lampoon's+Christmas+Vacation&section=movies"
+    genre.sync:
+      - Comedy
   2059:
     label_title: National Treasure
     sort_title: National Treasure 1
