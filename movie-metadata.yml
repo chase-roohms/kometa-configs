@@ -2337,6 +2337,17 @@ metadata:
     genre.sync:
       - Animation
       - Family
+  527435:
+    label_title: The Christmas Chronicles
+    sort_title: Christmas Chronicles
+    release_year: '2018'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=The+Christmas+Chronicles&section=movies
+    genre.sync:
+      - Adventure
+      - Comedy
+      - Family
+      - Fantasy
   420814:
     label_title: Christopher Robin
     sort_title: Christopher Robin
