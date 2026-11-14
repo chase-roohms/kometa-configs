@@ -4368,7 +4368,7 @@ metadata:
     label_title: Godzilla Minus One
     sort_title: Godzilla Minus 1
     release_year: '2023'
-    url_poster: https://theposterdb.com/api/assets/756205
+    url_poster: https://theposterdb.com/api/assets/763199
     tpdb_search: https://theposterdb.com/search?term=Godzilla+Minus+One&section=movies
     genre.sync:
       - Action
@@ -4377,7 +4377,7 @@ metadata:
     label_title: Godzilla Minus Zero
     sort_title: Godzilla Minus 2
     release_year: '2026'
-    url_poster: https://theposterdb.com/api/assets/756204
+    url_poster: https://theposterdb.com/api/assets/763198
     tpdb_search: https://theposterdb.com/search?term=Godzilla+Minus+Zero&section=movies
     genre.sync:
       - Action
