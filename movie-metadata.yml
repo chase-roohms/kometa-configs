@@ -2341,13 +2341,10 @@ metadata:
     label_title: The Christmas Chronicles
     sort_title: Christmas Chronicles
     release_year: '2018'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/75371
     tpdb_search: https://theposterdb.com/search?term=The+Christmas+Chronicles&section=movies
     genre.sync:
-      - Adventure
-      - Comedy
       - Family
-      - Fantasy
   420814:
     label_title: Christopher Robin
     sort_title: Christopher Robin
@@ -8192,7 +8189,7 @@ metadata:
     label_title: "National Lampoon's Christmas Vacation"
     sort_title: "National Lampoon's Christmas Vacation"
     release_year: '1989'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/730852
     tpdb_search: "https://theposterdb.com/search?term=National+Lampoon's+Christmas+Vacation&section=movies"
     genre.sync:
       - Comedy
@@ -11531,7 +11528,7 @@ metadata:
     label_title: Sunny Dancer
     sort_title: Sunny Dancer
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/765951
     tpdb_search: https://theposterdb.com/search?term=Sunny+Dancer&section=movies
     genre.sync:
       - Comedy
