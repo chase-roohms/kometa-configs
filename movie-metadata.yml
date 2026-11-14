@@ -11516,6 +11516,15 @@ metadata:
     studio: DC Films
     genre.sync:
       - Superhero
+  1280015:
+    label_title: Sunny Dancer
+    sort_title: Sunny Dancer
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Sunny+Dancer&section=movies
+    genre.sync:
+      - Comedy
+      - Drama
   1272:
     label_title: Sunshine
     sort_title: Sunshine
