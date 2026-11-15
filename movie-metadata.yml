@@ -4728,7 +4728,7 @@ metadata:
     label_title: Hanging by a Wire
     sort_title: Hanging by a Wire
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/766490
     tpdb_search: https://theposterdb.com/search?term=Hanging+by+a+Wire&section=movies
     genre.sync:
       - Documentary
