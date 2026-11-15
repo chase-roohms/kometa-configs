@@ -4724,6 +4724,14 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=Hamnet&section=movies
     genre.sync:
       - Drama
+  1480856:
+    label_title: Hanging by a Wire
+    sort_title: Hanging by a Wire
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Hanging+by+a+Wire&section=movies
+    genre.sync:
+      - Documentary
   10683:
     label_title: Happiness
     sort_title: Happiness
