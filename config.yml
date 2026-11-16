@@ -500,6 +500,13 @@ playlist_files:
     - TV Shows
 
 libraries:
+  Home Videos:
+    remove_overlays: true
+    template_variables:
+      use_separator: false
+    metadata_files:
+      - repo: home-videos-metadata
+    operations: *operation_settings
   Movies:
     remove_overlays: true
     template_variables:
