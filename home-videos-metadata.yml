@@ -6,5 +6,5 @@ metadata:
         - Hello World
         - Hello World P2
     title: Hello World P2
-    collections.sync: 
+    collection.sync: 
       - Test Collection
