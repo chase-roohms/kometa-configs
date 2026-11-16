@@ -1,5 +1,9 @@
 metadata:
   mkv:
+    match:
+      - mkv
+      - Hello World
+      - Hello World P2
     title: Hello World P2
     collections.sync: 
       - Test Collection
