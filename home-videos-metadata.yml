@@ -8,3 +8,5 @@ metadata:
     title: Hello World P2
     collection.sync: 
       - Test Collection
+    label.sync:
+      - Test Label
