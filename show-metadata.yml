@@ -4861,25 +4861,25 @@ metadata:
     label_title: "Schitt's Creek"
     sort_title: "Schitt's Creek"
     release_year: '2015'
-    url_poster: https://theposterdb.com/api/assets/360174
+    url_poster: https://theposterdb.com/api/assets/139936
     tpdb_search: "https://theposterdb.com/search?term=Schitt's+Creek&section=shows"
     genre.sync:
       - Comedy
     seasons:
       0:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/139937
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/139938
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/139939
       3:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/139940
       4:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/139941
       5:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/139942
       6:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/139943
   421636:
     label_title: School Spirits (2023)
     sort_title: School Spirits (2023)
