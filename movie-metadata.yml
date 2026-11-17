@@ -2302,6 +2302,15 @@ metadata:
     genre.sync:
       - Animation
       - Family
+  1126097:
+    label_title: Charlie Harper
+    sort_title: Charlie Harper
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Charlie+Harper&section=movies
+    genre.sync:
+      - Drama
+      - Romance
   82684:
     label_title: Chasing Mavericks
     sort_title: Chasing Mavericks
