@@ -3949,15 +3949,14 @@ metadata:
     label_title: Neagley
     sort_title: Neagley
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/745878
     tpdb_search: https://theposterdb.com/search?term=Neagley&section=shows
     genre.sync:
       - Action
-      - Crime
       - Drama
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/745879
   70350:
     label_title: Neon Genesis Evangelion
     sort_title: Neon Genesis Evangelion
