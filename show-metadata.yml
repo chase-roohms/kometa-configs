@@ -4222,15 +4222,14 @@ metadata:
     label_title: Parasyte -the maxim-
     sort_title: Parasyte -the maxim-
     release_year: '2014'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/466401
     tpdb_search: https://theposterdb.com/search?term=Parasyte+-the+maxim-&section=shows
+    audio_language: ja-JP
     genre.sync:
       - Anime
-      - Fantasy
-      - Horror
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/466402
   84912:
     label_title: Parks and Recreation
     sort_title: Parks and Recreation
