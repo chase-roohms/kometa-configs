@@ -28,3 +28,12 @@ collections:
     template:
       name: Home video filename
       subject: '2138[ ._-]+Woodston[ ._-]+Drive'
+  Kids:
+    smart_filter:
+      # A source collection can be absent until it has its first matching video.
+      validate: false
+      any:
+        collection:
+          - Chase
+          - Shelbi
+          - Shelbi and Chase
