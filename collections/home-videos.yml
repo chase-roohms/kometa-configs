@@ -5,6 +5,7 @@ templates:
       # Reserve filenames containing the shared phrase for its own collection.
       skip_shared: '(?![^/\\]*(?<![a-z0-9])Shelbi[ ._-]+and[ ._-]+Chase(?![a-z0-9]))'
     plex_all: true
+    collection_order: alpha
     filters:
       # Match a whole name in the final path component, including underscore-separated names.
       filepath.regex: '(?i)(?:^|[/\\])<<skip_shared>>[^/\\]*(?<![a-z0-9])<<subject>>(?![a-z0-9])[^/\\]*$'
@@ -36,6 +37,7 @@ collections:
   Kids:
     url_poster: https://i.imgur.com/1v7IFwu.jpeg
     smart_filter:
+      sort_by: title.asc
       # A source collection can be absent until it has its first matching video.
       validate: false
       any:
