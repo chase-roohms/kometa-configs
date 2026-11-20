@@ -506,6 +506,8 @@ libraries:
       use_separator: false
     metadata_files:
       - repo: home-videos-metadata
+    collection_files:
+      - repo: collections/home-videos
     operations: *operation_settings
   Movies:
     remove_overlays: true
