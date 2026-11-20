@@ -6787,6 +6787,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/573870
       3:
         url_poster: https://theposterdb.com/api/assets/573871
+      4:
+        url_poster: ''
   341164:
     label_title: Yellowstone
     sort_title: Yellowstone
