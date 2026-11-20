@@ -1,0 +1,30 @@
+templates:
+  Home video filename:
+    default:
+      subject: <<collection_name>>
+      # Reserve filenames containing the shared phrase for its own collection.
+      skip_shared: '(?![^/\\]*(?<![a-z0-9])Shelbi[ ._-]+and[ ._-]+Chase(?![a-z0-9]))'
+    plex_all: true
+    filters:
+      # Match a whole name in the final path component, including underscore-separated names.
+      filepath.regex: '(?i)(?:^|[/\\])<<skip_shared>>[^/\\]*(?<![a-z0-9])<<subject>>(?![a-z0-9])[^/\\]*$'
+
+collections:
+  Chase:
+    template:
+      name: Home video filename
+  Shelbi:
+    template:
+      name: Home video filename
+  Shelbi and Chase:
+    template:
+      name: Home video filename
+      skip_shared: ''
+      subject: 'Shelbi[ ._-]+and[ ._-]+Chase'
+  Buddy:
+    template:
+      name: Home video filename
+  2138 Woodston Drive:
+    template:
+      name: Home video filename
+      subject: '2138[ ._-]+Woodston[ ._-]+Drive'
