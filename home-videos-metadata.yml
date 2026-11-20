@@ -1,12 +1,1 @@
 metadata:
-  mkv:
-    match:
-      title:
-        - mkv
-        - Hello World
-        - Hello World P2
-    title: Hello World P2
-    collection.sync: 
-      - Test Collection
-    label.sync:
-      - Test Label
