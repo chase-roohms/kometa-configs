@@ -11,24 +11,30 @@ templates:
 
 collections:
   Chase:
+    url_poster: https://i.imgur.com/gTLmooW.png
     template:
       name: Home video filename
   Shelbi:
+    url_poster: https://i.imgur.com/5xK2WRb.jpeg
     template:
       name: Home video filename
   Shelbi and Chase:
+    url_poster: https://i.imgur.com/T86pyAd.jpeg
     template:
       name: Home video filename
       skip_shared: ''
       subject: 'Shelbi[ ._-]+and[ ._-]+Chase'
   Buddy:
+    url_poster: https://i.imgur.com/eXMcip4.png
     template:
       name: Home video filename
   2138 Woodston Drive:
+    url_poster: https://i.imgur.com/NTyRBKE.jpeg
     template:
       name: Home video filename
       subject: '2138[ ._-]+Woodston[ ._-]+Drive'
   Kids:
+    url_poster: https://i.imgur.com/1v7IFwu.jpeg
     smart_filter:
       # A source collection can be absent until it has its first matching video.
       validate: false
