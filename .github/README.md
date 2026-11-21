@@ -141,6 +141,19 @@ A: Configure the Discord webhook and use the provided linting workflow.
 
 ---
 
+## Family photo albums
+
+Plex displays curated photo groups in **Family Photos → Albums**. The [album rules](../collections/family-photo-albums.yml) match folder names and filenames across years. Halloween also picks up October 31 camera-roll and date-folder pictures. The July 4 rule includes parade folders when the capture date agrees.
+
+From a checkout with Python 3.9+, PyYAML, and the existing `KOMETA_SERVERURL` and `KOMETA_PLEXTOKEN` environment variables, preview or apply the rules with the photo album script. Run it with the Plex account that should own the albums.
+
+```sh
+python3 scripts/sync_photo_albums.py
+python3 scripts/sync_photo_albums.py --apply
+```
+
+Use `--only "Halloween"` to select one album. The script runs separately from Kometa's movie and show jobs. Reruns append missing pictures to each named album and retain manual additions. The original files stay in their folders.
+
 ## Detailed Instructions
 *The general workflow looks like the following diagram.*
 <img width="1361" height="251" alt="kometa-configs-management" src="https://github.com/user-attachments/assets/c658f546-0827-41dc-a660-50c5dc7a43e9" />
