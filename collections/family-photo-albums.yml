@@ -1,0 +1,57 @@
+# Photo album definitions for scripts/sync_photo_albums.py.
+library: Family Photos
+albums:
+  Halloween:
+    match: '\b(?:halloween|trick or treat(?:ing)?|pumpkin patch)\b'
+    calendar:
+      month_day: '10-31'
+      # Allow date-only folders, year-level pictures, and otherwise unfiled camera photos.
+      folders: '^(?:\d{4}(?: \d{2} \d{2})?|iphone pics|i phone pics|black\s?berry (?:camera pics|media card)|oldcameraroll|old camera roll|camera roll|kids recent|misc(?:ellaneous)?(?: kids)?|random|temp)$'
+  Christmas:
+    match: '\b(?:christmas|chistmas|xmas|santa(?!\s*fe\b)|tree decorating)\b'
+  Easter:
+    match: '\b(?:easter|egg hunt)\b'
+  Thanksgiving:
+    match: '\b(?:thanksgiving|tgiving|t giving)\b'
+  Fourth of July:
+    match: '\b(?:fourth\s*of july|4th of july|independence day|july 4th)\b'
+    calendar:
+      month_day: '07-04'
+      folders: '^parade$'
+  Family Birthdays:
+    match: '\b(?:birthdays?|b\s?days?)\b'
+  Family Weddings:
+    match: '\b(?:weddings?|wed|nuptials)\b'
+  Baptisms:
+    match: '\b(?:baptisms?|christenings?)\b'
+  Graduations:
+    match: '\b(?:graduations?|grad(?: pics)?)\b'
+  School Awards:
+    match: '\b(?:awards?|honor roll|njhs)\b'
+    exclude: '\b(?:awanas?|scouts?|softball|baseball)\b'
+  On Stage:
+    match: '\b(?:ballet|recitals?|choir|readers play|christmas performance|cbs (?:performance|program))\b'
+  Baseball Seasons:
+    match: '\b(?:baseball|t\s?ball|devil rays|opening (?:day|ceremony)|bat cage)\b'
+    exclude: '\b(?:softball|baptisms?)\b'
+  Softball Seasons:
+    match: '\b(?:softball|blaze|explosion)\b'
+  Karate:
+    match: '\bkarate\b'
+  Scouting:
+    match: '\b(?:scouts?|scouting|eagle scout)\b'
+  At the Lake:
+    match: '\b(?:inks lake|lake (?:lbj|travis|murray)|texoma|wake\s?board(?:ing)?)\b'
+  Pool Days:
+    match: '\b(?:pool|swimming)\b'
+  Hunting and Fishing:
+    match: '\b(?:hunt(?:ing)?|fishing|bobcat)\b'
+    exclude: '\b(?:easter|eggs?|pumpkin)\b'
+  Air Force Years:
+    match: '\bair force\b'
+  Broken Bow Trips:
+    match: '\bbroken bow\b'
+  Campouts:
+    match: '\b(?:camping|camp\s?outs?|church camp)\b'
+  Snow Days and Ski Trips:
+    match: '\b(?:snow(?: day)?|skiing|ski trip)\b'
