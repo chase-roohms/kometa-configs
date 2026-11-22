@@ -910,6 +910,15 @@ metadata:
     genre.sync:
       - Horror
       - Science Fiction
+  1198654:
+    label_title: Bad Apples
+    sort_title: Bad Apples
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Bad+Apples&section=movies
+    genre.sync:
+      - Comedy
+      - Thriller
   9737:
     label_title: Bad Boys
     sort_title: Bad Boys 1
