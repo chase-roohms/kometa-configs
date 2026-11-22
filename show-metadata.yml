@@ -72,6 +72,17 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/293986
       2:
         url_poster: https://theposterdb.com/api/assets/574658
+  402910:
+    label_title: Abbott Elementary
+    sort_title: Abbott Elementary
+    release_year: '2021'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Abbott+Elementary&section=shows
+    genre.sync:
+      - Comedy
+    seasons:
+      1:
+        url_poster: ''
   393197:
     label_title: The Acolyte
     sort_title: Acolyte
