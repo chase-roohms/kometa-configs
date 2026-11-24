@@ -11050,7 +11050,7 @@ metadata:
       - Animation
   37799:
     label_title: The Social Network
-    sort_title: Social Network
+    sort_title: Social Network 1
     release_year: '2010'
     url_poster: https://theposterdb.com/api/assets/768667
     tpdb_search: https://theposterdb.com/search?term=The+Social+Network&section=movies
@@ -11058,13 +11058,12 @@ metadata:
       - Drama
   1281331:
     label_title: The Social Reckoning
-    sort_title: Social Reckoning
+    sort_title: Social Network 2
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/768666
     tpdb_search: https://theposterdb.com/search?term=The+Social+Reckoning&section=movies
     genre.sync:
       - Drama
-      - Thriller
   843621:
     label_title: Something in the Dirt
     sort_title: Something in the Dirt
