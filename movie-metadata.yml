@@ -13327,6 +13327,14 @@ metadata:
     studio: Marvel Studios
     genre.sync:
       - Superhero
+  1765072:
+    label_title: You Can See Everything
+    sort_title: You Can See Everything
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=You+Can+See+Everything&section=movies
+    genre.sync:
+      - Documentary
   11967:
     label_title: Young Guns
     sort_title: Young Guns
