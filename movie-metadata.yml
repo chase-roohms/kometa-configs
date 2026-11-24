@@ -11048,6 +11048,14 @@ metadata:
     studio: Disney
     genre.sync:
       - Animation
+  37799:
+    label_title: The Social Network
+    sort_title: Social Network
+    release_year: '2010'
+    url_poster: https://theposterdb.com/api/assets/768667
+    tpdb_search: https://theposterdb.com/search?term=The+Social+Network&section=movies
+    genre.sync:
+      - Drama
   1281331:
     label_title: The Social Reckoning
     sort_title: Social Reckoning
