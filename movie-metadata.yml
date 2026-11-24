@@ -914,7 +914,7 @@ metadata:
     label_title: Bad Apples
     sort_title: Bad Apples
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/762905
     tpdb_search: https://theposterdb.com/search?term=Bad+Apples&section=movies
     genre.sync:
       - Comedy
@@ -1593,7 +1593,7 @@ metadata:
     label_title: Breeder
     sort_title: Breeder
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/740981
     tpdb_search: https://theposterdb.com/search?term=Breeder&section=movies
     genre.sync:
       - Horror
@@ -9562,24 +9562,22 @@ metadata:
       - Drama
   6435:
     label_title: Practical Magic
-    sort_title: Practical Magic
+    sort_title: Practical Magic 1
     release_year: '1998'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/760065
     tpdb_search: https://theposterdb.com/search?term=Practical+Magic&section=movies
     genre.sync:
       - Comedy
       - Fantasy
-      - Romance
   1302904:
     label_title: Practical Magic 2
     sort_title: Practical Magic 2
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/760064
     tpdb_search: https://theposterdb.com/search?term=Practical+Magic+2&section=movies
     genre.sync:
       - Comedy
       - Fantasy
-      - Romance
   106:
     label_title: Predator
     sort_title: Predator 1
@@ -13333,6 +13331,7 @@ metadata:
     release_year: '2026'
     url_poster: ''
     tpdb_search: https://theposterdb.com/search?term=You+Can+See+Everything&section=movies
+    studio: A24
     genre.sync:
       - Documentary
   11967:
