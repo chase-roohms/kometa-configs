@@ -838,9 +838,20 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/643098
+  356155:
+    label_title: 'Blade Runner: Black Lotus'
+    sort_title: Blade Runner 1
+    release_year: '2021'
+    url_poster: https://theposterdb.com/api/assets/768955
+    tpdb_search: https://theposterdb.com/search?term=Blade+Runner:+Black+Lotus&section=shows
+    genre.sync:
+      - Anime
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/768956
   424855:
     label_title: Blade Runner 2099
-    sort_title: Blade Runner 2099
+    sort_title: Blade Runner 2
     release_year: '2026'
     url_poster: https://theposterdb.com/api/assets/768953
     tpdb_search: https://theposterdb.com/search?term=Blade+Runner+2099&section=shows
@@ -850,19 +861,6 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/768954
-  356155:
-    label_title: 'Blade Runner: Black Lotus'
-    sort_title: 'Blade Runner: Black Lotus'
-    release_year: '2021'
-    url_poster: https://theposterdb.com/api/assets/768955
-    tpdb_search: https://theposterdb.com/search?term=Blade+Runner:+Black+Lotus&section=shows
-    genre.sync:
-      - Anime
-    seasons:
-      0:
-        url_poster: ''
-      1:
-        url_poster: ''
   349034:
     label_title: Blark and Son
     sort_title: Blark and Son
