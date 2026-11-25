@@ -838,6 +838,18 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/643098
+  424855:
+    label_title: Blade Runner 2099
+    sort_title: Blade Runner 2099
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Blade+Runner+2099&section=shows
+    genre.sync:
+      - Mini-Series
+      - Science Fiction
+    seasons:
+      1:
+        url_poster: ''
   349034:
     label_title: Blark and Son
     sort_title: Blark and Son
