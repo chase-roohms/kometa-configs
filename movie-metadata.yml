@@ -1366,18 +1366,26 @@ metadata:
       - Superhero
   78:
     label_title: Blade Runner
-    sort_title: Blade Runner
+    sort_title: Blade Runner 1
     release_year: '1982'
-    url_poster: https://theposterdb.com/api/assets/247576
+    url_poster: https://theposterdb.com/api/assets/768952
     tpdb_search: https://theposterdb.com/search?term=Blade+Runner&section=movies
     genre.sync:
       - Action
       - Science Fiction
+  57656:
+    label_title: 'Dangerous Days: Making Blade Runner'
+    sort_title: Blade Runner 2
+    release_year: '2007'
+    url_poster: https://theposterdb.com/api/assets/768952
+    tpdb_search: https://theposterdb.com/search?term=Dangerous+Days:+Making+Blade+Runner&section=movies
+    genre.sync:
+      - Documentary
   475946:
     label_title: 'Blade Runner: Black Out 2022'
     sort_title: Blade Runner 2022
     release_year: '2017'
-    url_poster: https://theposterdb.com/api/assets/247579
+    url_poster: https://theposterdb.com/api/assets/768948
     tpdb_search: https://theposterdb.com/search?term=Blade+Runner:+Black+Out+2022&section=movies
     genre.sync:
       - Action
@@ -1386,7 +1394,7 @@ metadata:
     label_title: '2036: Nexus Dawn'
     sort_title: Blade Runner 2036
     release_year: '2017'
-    url_poster: https://theposterdb.com/api/assets/247577
+    url_poster: https://theposterdb.com/api/assets/768950
     tpdb_search: https://theposterdb.com/search?term=2036:+Nexus+Dawn&section=movies
     genre.sync:
       - Action
@@ -1395,7 +1403,7 @@ metadata:
     label_title: '2048: Nowhere to Run'
     sort_title: Blade Runner 2048
     release_year: '2017'
-    url_poster: https://theposterdb.com/api/assets/247578
+    url_poster: https://theposterdb.com/api/assets/768949
     tpdb_search: https://theposterdb.com/search?term=2048:+Nowhere+to+Run&section=movies
     genre.sync:
       - Action
@@ -1404,7 +1412,7 @@ metadata:
     label_title: Blade Runner 2049
     sort_title: Blade Runner 2049
     release_year: '2017'
-    url_poster: https://theposterdb.com/api/assets/247580
+    url_poster: https://theposterdb.com/api/assets/768947
     tpdb_search: https://theposterdb.com/search?term=Blade+Runner+2049&section=movies
     genre.sync:
       - Action
