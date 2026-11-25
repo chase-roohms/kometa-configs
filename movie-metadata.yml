@@ -13345,7 +13345,7 @@ metadata:
     label_title: You Can See Everything
     sort_title: You Can See Everything
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/768936
     tpdb_search: https://theposterdb.com/search?term=You+Can+See+Everything&section=movies
     studio: A24
     genre.sync:
