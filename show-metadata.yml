@@ -1975,6 +1975,23 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/425489
       2:
         url_poster: https://theposterdb.com/api/assets/425490
+  479566:
+    label_title: Fool Night
+    sort_title: Fool Night
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Fool+Night&section=shows
+    genre.sync:
+      - Animation
+      - Anime
+      - Fantasy
+      - Mystery
+      - Science Fiction
+      - Suspense
+      - Thriller
+    seasons:
+      1:
+        url_poster: ''
   366972:
     label_title: Foundation
     sort_title: Foundation (2021)
