@@ -6015,6 +6015,8 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/531184
+      2:
+        url_poster: ''
   417718:
     label_title: Swimming with Sharks
     sort_title: Swimming with Sharks
