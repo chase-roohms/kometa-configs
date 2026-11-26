@@ -2495,6 +2495,8 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/624511
+      2:
+        url_poster: ''
   393201:
     label_title: I Am Groot
     sort_title: I Am Groot
