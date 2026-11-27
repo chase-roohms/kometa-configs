@@ -1979,19 +1979,14 @@ metadata:
     label_title: Fool Night
     sort_title: Fool Night
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/769299
     tpdb_search: https://theposterdb.com/search?term=Fool+Night&section=shows
+    audio_language: ja-JP
     genre.sync:
-      - Animation
       - Anime
-      - Fantasy
-      - Mystery
-      - Science Fiction
-      - Suspense
-      - Thriller
     seasons:
       1:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/769300
   366972:
     label_title: Foundation
     sort_title: Foundation (2021)
@@ -2505,15 +2500,15 @@ metadata:
     label_title: The Hunting Wives
     sort_title: Hunting Wives
     release_year: '2025'
-    url_poster: https://theposterdb.com/api/assets/624510
+    url_poster: https://theposterdb.com/api/assets/769301
     tpdb_search: https://theposterdb.com/search?term=The+Hunting+Wives&section=shows
     genre.sync:
       - Drama
     seasons:
       1:
-        url_poster: https://theposterdb.com/api/assets/624511
+        url_poster: https://theposterdb.com/api/assets/769302
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/769303
   393201:
     label_title: I Am Groot
     sort_title: I Am Groot
@@ -6006,17 +6001,19 @@ metadata:
     label_title: Sweetpea
     sort_title: Sweetpea
     release_year: '2024'
-    url_poster: https://theposterdb.com/api/assets/531183
+    url_poster: https://theposterdb.com/api/assets/769291
     tpdb_search: https://theposterdb.com/search?term=Sweetpea&section=shows
     genre.sync:
       - Comedy
       - Drama
       - Thriller
     seasons:
+      0:
+        url_poster: https://theposterdb.com/api/assets/769292
       1:
-        url_poster: https://theposterdb.com/api/assets/531184
+        url_poster: https://theposterdb.com/api/assets/769293
       2:
-        url_poster: ''
+        url_poster: https://theposterdb.com/api/assets/769294
   417718:
     label_title: Swimming with Sharks
     sort_title: Swimming with Sharks
