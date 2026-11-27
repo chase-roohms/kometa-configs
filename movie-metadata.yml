@@ -4151,12 +4151,10 @@ metadata:
     label_title: Frosty the Snowman
     sort_title: Frosty the Snowman
     release_year: '1969'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/448944
     tpdb_search: https://theposterdb.com/search?term=Frosty+the+Snowman&section=movies
     genre.sync:
-      - Animation
       - Family
-      - TV Movie
   109445:
     label_title: Frozen
     sort_title: Frozen 1
