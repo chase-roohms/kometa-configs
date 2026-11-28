@@ -7262,6 +7262,16 @@ metadata:
     studio: Marvel Entertainment
     genre.sync:
       - Superhero
+  1131943:
+    label_title: Madden
+    sort_title: Madden
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=Madden&section=movies
+    genre.sync:
+      - Comedy
+      - Drama
+      - History
   1517868:
     label_title: "Maddie's Secret"
     sort_title: "Maddie's Secret"
